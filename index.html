@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vaccine News Monitor</title>
+  <meta name="description" content="A curated vaccine news dashboard with recent headlines grouped by vaccine type, source filtering, and public health context." />
+  <meta property="og:title" content="Vaccine News Monitor" />
+  <meta property="og:description" content="Recent vaccine headlines grouped by vaccine, with surveillance context and public health resources." />
+  <meta property="og:image" content="https://rfnajera.github.io/assets/images/vaccines_header.jpg" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://rfnajera.github.io/vaccine-news-monitor/" />
+  <link rel="icon" type="image/png" href="assets/images/favicon-96x96.png" sizes="96x96" />
+  <link rel="shortcut icon" href="assets/images/favicon.ico" />
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/apple-touch-icon.png" />
+  <link rel="manifest" href="assets/images/site.webmanifest" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-overlay">
+      <div class="container">
+        <p class="eyebrow hero-eyebrow">Public health news monitoring</p>
+        <h1>Vaccine News Monitor</h1>
+        <p class="lede">
+          Recent vaccine-related headlines, lightly curated for source quality and relevance,
+          grouped by vaccine and separated into news, opinion, and research.
+        </p>
+        <div class="hero-meta">
+          <span id="last-updated">Last updated: loading...</span>
+          <a class="button" href="#news">View latest headlines</a>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container layout">
+    <section class="panel main-panel">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Headlines</p>
+          <h2 id="news">Latest vaccine news</h2>
+        </div>
+        <div class="small-note">
+          Sources are filtered and ranked. Official public health and major news outlets are prioritized.
+        </div>
+      </div>
+
+      <div class="toolbar">
+        <input id="searchBox" type="search" placeholder="Search headlines or sources" aria-label="Search news" />
+        <select id="vaccineFilter" aria-label="Filter by vaccine">
+          <option value="all">All vaccines</option>
+        </select>
+        <select id="sourceFilter" aria-label="Filter by source type">
+          <option value="all">All source types</option>
+          <option value="official">Official public health</option>
+          <option value="academic">Academic</option>
+          <option value="news">News</option>
+        </select>
+        <select id="typeFilter" aria-label="Filter by article type">
+          <option value="all">All article types</option>
+          <option value="news">News</option>
+          <option value="opinion">Opinion</option>
+          <option value="research">Research</option>
+        </select>
+      </div>
+
+      <nav id="vaccine-nav" class="vaccine-nav" aria-label="Jump to vaccine group"></nav>
+
+      <div id="status" class="status">Loading news...</div>
+      <div id="news-groups"></div>
+    </section>
+
+    <aside class="sidebar">
+      <section class="panel">
+        <p class="eyebrow">At a glance</p>
+        <h2>Why vaccines matter</h2>
+        <ul class="fact-list">
+          <li><strong>4&ndash;5 million</strong> deaths a year prevented globally by vaccines</li>
+          <li><strong>154 million</strong> lives saved over 50 years of the EPI program</li>
+          <li><strong>2 doses</strong> of MMR are about <strong>97%</strong> effective against measles</li>
+          <li>Vaccines are among the most cost-effective public health tools ever developed</li>
+        </ul>
+      </section>
+
+      <section class="panel">
+        <p class="eyebrow">Method</p>
+        <h2>How this works</h2>
+        <p>
+          This page reads a scheduled JSON feed generated from news search results.
+          Headlines are deduplicated, checked for recency, classified by vaccine and
+          article type, and grouped by source quality.
+        </p>
+        <p>
+          It is meant to be a monitoring tool, not a formal systematic review.
+          Useful for signal, not the final word.
+        </p>
+      </section>
+
+      <section class="panel">
+        <p class="eyebrow">Resources</p>
+        <h2>Useful references</h2>
+        <ul class="link-list">
+          <li><a href="https://www.cdc.gov/vaccines/index.html" target="_blank" rel="noopener noreferrer">CDC vaccines and immunizations</a></li>
+          <li><a href="https://www.cdc.gov/vaccines/schedules/index.html" target="_blank" rel="noopener noreferrer">CDC immunization schedules</a></li>
+          <li><a href="https://www.who.int/health-topics/vaccines-and-immunization" target="_blank" rel="noopener noreferrer">WHO vaccines and immunization</a></li>
+          <li><a href="https://historyofvaccines.org/" target="_blank" rel="noopener noreferrer">History of Vaccines</a></li>
+        </ul>
+      </section>
+    </aside>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-wrap">
+      <p>Vaccine News Monitor by René F. Najera</p>
+      <p>This dashboard is intended for educational and public health communication purposes.</p>
+    </div>
+  </footer>
+
+  <script src="assets/js/app.js"></script>
+</body>
+</html>
