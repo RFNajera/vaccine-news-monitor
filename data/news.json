@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-06-28T14:07:42.861Z",
-  "itemCount": 55,
+  "updatedAt": "2026-06-28T14:59:01.681Z",
+  "itemCount": 53,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 6
+      "count": 4
     },
     {
       "key": "flu",
@@ -15,7 +15,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 5
+      "count": 6
     },
     {
       "key": "hpv",
@@ -35,7 +35,7 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 29
+      "count": 28
     }
   ],
   "items": [
@@ -101,19 +101,6 @@
       "sourceLabel": "News",
       "vaccineKey": "hpv",
       "vaccineLabel": "HPV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "RFK Jr Faces New Questions After Bernie Sanders Releases Emails Alleging Behind-The-Scenes Changes To CDC Vaccine Policy - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTU5rYWZGb1RHYUtzYTRVdFJrbmE2cDltd2JaNTdLS19sZWcxWFJKMlA2MHRvRkk0aGFxeTRsakR0MUFSQjNiM3l0UWRkX3FtZklSc044bWVIcVFkSFVNN3BFX21YNE1lMDFlekVYWlk4U08tektBeUNiMTRDQkRCOS1HbjVQRlN5NGotRWxFaUwzSE0?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 15:30:58 GMT",
-      "description": "RFK Jr Faces New Questions After Bernie Sanders Releases Emails Alleging Behind-The-Scenes Changes To CDC Vaccine Policy Yahoo",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -573,6 +560,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
+      "description": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Internal emails show how RFK Jr.'s team sought to sway the CDC - CBS News",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwOFZhLU9zRzVRY09Ld1UzdWhvZHQzMDJ0Y2RTejcyNWY2REtwTFY1aWt6NWVoMy0xeVQ1Yk5fUHBvR2lDeVBLdjZ5bFFyY3A1RnMzblFsRXlyS0k2X21hU2hCb3dsWXdiN3lhRXVTcVpMNjFnanhvRkpwSQ?oc=5",
       "pubDate": "Fri, 26 Jun 2026 03:24:26 GMT",
@@ -677,19 +677,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "What to know about COVID-19 study that was finally published after being blocked by CDC - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQjNESUEwaHhVUjV1LVMwdlZQcFhaS3dwX3FBcDVkRnhkNzE5NkY2WHlxLUoyWFdtU2N5ZEIyQ1NfQTRNTzFfcEFBTVlWZDdNelU2M0NwUnduVUhnZEdfVkdHVHZTSWROSy1sMjhLME9HWHNCMFdPTlEyTUVteHdvV0szTWVrek41RUlSWXN0MFhOVzJTRjBtM0hObTPSAaIBQVVfeXFMUFIyMHFrdGFHN1pGUEFyNVd2ejV2Y2JJbFdEemJQNGJwVlViMkRzRXZ0T1dzRmFhd1kwZHd2T3BLMWJja2pZUFBvNWF4c19TanZMczlERmdEbXllUkprUXRxZGlQTGZacVpLOGtvVGltUEplZG5KYUxLSFNQeF9FazhFaGRmV3BaanhsSjBxYkkzc1B6RGM3OFR2RlZVMkt2WTBn?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 21:48:45 GMT",
-      "description": "What to know about COVID-19 study that was finally published after being blocked by CDC ABC News - Breaking News, Latest News and Videos",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "In shift, Pentagon grants flu vaccine exceptions to military services, some federal agencies - Military Times",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWjVCdDVJMkY2b3UyOHh0dFB4VVYybzRSZEgxblZlZWVuVEdxRlBBVTdwZ0w2S3RfaVhleEFKTE9OZllMUVVIYTY0UjE0bjdobk9zU09uMFpUVTBSUDZYeG10cUUtQkVlNmwyRHBNd1NGdWR4N010ZFhZTkJfMnhiVUNkR293MVNPYzdqaDNJZk0wTF9wZ09pYnFESm5waWJES1FrNDRDMzlCcUdqLTlTUVA1TURsbFJzdlNYRVZpaU9MX2tPcUtwTjNYR2VaOU4xSzZCRjBZTXZwM0MwMEZYakNjbzJWMXJIWlFr?oc=5",
       "pubDate": "Wed, 24 Jun 2026 21:25:54 GMT",
@@ -740,19 +727,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "COVID-19 vaccine study that was blocked from CDC journal is published elsewhere - AP News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORzlfSVAzWGtFeHFnbzhLNnVVTnJLM0FDbmN1dlM4clBFTmp5U3drZWkzUzBpNy1rUWd0TG8wdWUxZkpkQUVxSjlvdGZaVDFBbEl6WmdDMjVXeUhxYlNsTkE2b1luWWZaODRPdER2MzNnNUVPNkdzcGJSLVlEMVJGU1o4cnNJd0NXWkZhaFlYZnJKOERZczl1ZA?oc=5",
-      "pubDate": "Tue, 23 Jun 2026 22:44:00 GMT",
-      "description": "COVID-19 vaccine study that was blocked from CDC journal is published elsewhere AP News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "research",
-      "articleLabel": "Research"
     }
   ]
 }
