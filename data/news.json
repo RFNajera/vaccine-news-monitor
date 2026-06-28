@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T18:48:52.963Z",
+  "updatedAt": "2026-06-28T19:54:22.017Z",
   "itemCount": 71,
   "groups": [
     {
@@ -10,12 +10,12 @@
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 10
+      "count": 9
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 6
+      "count": 7
     },
     {
       "key": "hpv",
@@ -25,7 +25,7 @@
     {
       "key": "polio",
       "label": "Polio",
-      "count": 6
+      "count": 7
     },
     {
       "key": "hepatitis",
@@ -35,7 +35,7 @@
     {
       "key": "shingles",
       "label": "Shingles",
-      "count": 2
+      "count": 3
     },
     {
       "key": "rabies",
@@ -45,10 +45,62 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 37
+      "count": 35
     }
   ],
   "items": [
+    {
+      "title": "National Immunization Day for Polio Covers 98.02% Children Across the Isles - Andaman Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcnBTdG9pZVRsM3ZMSHc3UElPaURScmJ4NHNzcUFPeTNPQ3lna1FzWlBMZ3d4RHhPTFE3UFlkaW1QQ0xXV2hVXzVrbExCU200N3JEUG8yYklCZXZMNUpJV19ZRC01RFZlMXJoR3RCcDc2d1RLUmxTZG5LZlJ2YzdJbF9pMTFpUVZvTFZtTlZjeVVwRF9adFNScDJCMzhHaEV0TV9XZk5Xbw?oc=5",
+      "pubDate": "Sun, 28 Jun 2026 19:41:35 GMT",
+      "description": "National Immunization Day for Polio Covers 98.02% Children Across the Isles Andaman Chronicle",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "polio",
+      "vaccineLabel": "Polio",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Shingles Vaccine May Provide Significant Protection From Dementia - iHeart",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSjN2WDBHZ2VXNHVKUHVmN3lKaHJzaHl3Ti1oRnhOcUpNMXlYTXFPN2hSUWdWYzktQUdoT1FQaEkxVUt0ZmwtWTdmTU1QcUVhalJRSTJuSDBpanpRdzUzaGh1Z3RrdC1uMTZlTGQwbWcwWU53RXJ2V01FdXh0alJQaVBueWg5RVNIaFhVU0E0MjI5N2wyN3RXcXo1NXZqbTc5M3VrMUFrR1FWODUyWTlvLVBmejJ4ZW_SAb8BQVVfeXFMTzUzam5Yd2w1dUxUZkJrQTZvYk5EU2I5ZUU2aGVhc1pqQUJWQkRNUDFKQ3RmNF92MEs1T0JsVzBwLUtyQmZVRWZkTU9XNWh5Nk9WMUt4azA2MEp5ZzdISFN6YVRTM0V4TTYtLVVLaGRBS2pORTJZMElQVHRHUDc5TW9KVUhZcXAxZHJRWmJPaVBIVUNmR3hiUHBSZHBZdnNubVhXWVo1YWFoNmlQZ0xHX25GZVdFWDdMb1Z2SHdZTFE?oc=5",
+      "pubDate": "Sun, 28 Jun 2026 19:41:00 GMT",
+      "description": "Shingles Vaccine May Provide Significant Protection From Dementia iHeart",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "shingles",
+      "vaccineLabel": "Shingles",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Potential measles exposure at Dulles Airport. What Virginia travelers should know - Daily Press",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVmppSUMtdWlNNHJuOHRsZlJMelJnVGNpdm5HWllpWHJ4RFJNQnFwZVpXSGl4WGt6Mm51RDJrcEJkcmFtSnMyOWpyR1J2Q0F4QmZDWjZqbmt0d0J3Wm93Smk4Xy13TU0zcXd1UUZ3WXUwci1aX0x2MERwUmFWdWZEMkNIUC1ibVRkX1FGdDlRU1JDZTdxYkw2a1VOTjE2NjBkWnNGenVkblhCbzZ4SVdLYXZodkloLVZHME5J?oc=5",
+      "pubDate": "Sun, 28 Jun 2026 18:58:53 GMT",
+      "description": "Potential measles exposure at Dulles Airport. What Virginia travelers should know Daily Press",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Over five lakh children in Chennai given polio vaccine - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWXBGYlpLTGVxbkdyWmdzN3FPbDMxMTZ4QmRHb2VGeFVwYndCZVZuSzRYemVtN2c0SV9Ra1I5OEU0SldseVlNem8xYkZTalREZ2R6Wm4wcVU1YXRDZEx3YXlIeWhIcmk4RWxJdXRkemZoNGlraWk5NHRuU0pTMVB1a2x1MWVUd2RZUF9HUWhjdUZiNlhUU240ZDNWNTBfVUEtMUIxT0hTMkE1aTNiNjZ1RW56eTRGVGZzcHQ00gHCAUFVX3lxTE1LSV82dWhWUThOZmRPMl9RWUFFUjdGZHRmSjM3LTA0ODBUUWdySzcteEtRVEs3TUVQT1NidnRHdFJNVTYxdV8wSG14WGZ6bUE0TzB6Q29NTHBBUkYyTkxYNW9rSXA3dFZwVk9OZkZhd0JKYWxrRzdNNFJwbENFTGhKUTBydUdYNjFhdmtTLUEwYWdoVllvdE5ucVoyZEJJWW9Eb2piNVNLZDZNc0lKTEhEQ25taFpNR3NCekhveFMzODJB?oc=5",
+      "pubDate": "Sun, 28 Jun 2026 18:48:48 GMT",
+      "description": "Over five lakh children in Chennai given polio vaccine The Hindu",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "polio",
+      "vaccineLabel": "Polio",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Tamil Nadu CM Vijay launches Pulse Polio Immunisation Campaign in Chennai - The Hindu",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNLWd4LU4yTnpwWjdVUmR4aDFheWlTZS1xOEMxc0dHa2J0eWdrc21TSDM3S3VadHZBdy1neGFzem1OeWFxNnVrdVZhMlNzSUJsa0MwLVVnV19sUEphMi1pSlAzV19IUEVGRFB5c2J6cUNBOGJiTzlVZTlUYTNnLVR1Rjk1RHhWV1FlY2NwVTFiNGQtY2F1Mjdoem5Ndk14aVlmcHRnWVNPRGFfcHBRY1g5WG5hZnV0MENXS25WTkVsM1ZOMHN3VXQya3o0UHdkRHV5OHJSeXdHZlRnVGPSAeIBQVVfeXFMTWVqVXdrdFdvcHBBRFRocGVjRjEtZ0Rhc2piU29VTWk4WHJ6amxuLTdic0V6TXhsdGUxUlNZR0tfRUZOVGUtLW03d2NTeDUxaVd2ZU1YOEUyNFo4NF9EQkFrbzlBYVp2M0oteWdQbF9aNUpGVlpVTGRlRFZjcmY2Y3VvS05hTVpyNm1qWTd4TG1TQmtwT01ZMEczVWUyWW1oT3NqdW0yaVZ1ZEQzWHBrdTEtOGhfNW5ORmkxU09ZaG52NjRVZHpmNGY0aHVQNTkzZjdIcy1jM2xBTFVpUmtGWHJPUQ?oc=5",
@@ -115,19 +167,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "CM kicks off polio immunisation drive across TN - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSXlUWE9XUGNyV0NDUHhkU1BZekZWM0pjOERoN3VOeVhUZnVnMGhreE1YLWw3MmVrVFpEZXJTemRkaFZOc1ZjblQ2aEg4elEycnhadHVDVXlvRS1BNzA5VXVmU1hIUEVDczhRWXpNZHo4bTJHZGppdm00Z3d0eGdlX1RuS01uaFlueFNycUNKRFNrWURXYll2N0Q1Q3ZtRHhiZ0h0aGRjYWM4Qm15R3A5TUtUQmJIQnBqVWcwREJaZ9IBxAFBVV95cUxOdU5TMW0wU1hUWThOVWRUMlNZTzdic1V6Q2tYTXZ4YjllODVOMGVNVFhPU2t3SVFJdDlYQVhEUEtnaVFGMnFkRElZVlB3LU9YYkoyZ1JTMUEtVEMyVUJWWi1tX3oxaXlYRFFFZHR0X2RidTQ4Z2RVbENPemJtVWZnaW1Ha2FYXzU2dFhnLTNGbkZNZEd0cS1tZDlaY2MtYng2REIzNElKUFpDVDRlSUJZMUc2VjgxY1ZDLXY1NkhwWTZFYmoy?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 15:56:00 GMT",
-      "description": "CM kicks off polio immunisation drive across TN The Times of India",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "polio",
-      "vaccineLabel": "Polio",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "With no FeLV vaccine, what if you’re next? - Newagebd.net",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc0JpRVE3OEd6M2JnM0pHSkJLRVZUc01RVUc3MmI3cHpSaDVFQzVYX3NmWG52eThQM0xQZGI3bkNzQnRXWE90bzFDVnFRZXJ3dHFMQ19fVVgwbjhRaXAyc1REQ2hZcFl4UUlRMnZBa1NpalVFQ2wzejJuUTdKdEs3YXpfR0xXQTRpOTdDOQ?oc=5",
       "pubDate": "Sun, 28 Jun 2026 15:26:00 GMT",
@@ -165,6 +204,19 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
+    },
+    {
+      "title": "Hackensack Meridian Health Joins Phase 3 Trial of Pfizer’s Investigational C difficile Vaccine - Contagion Live",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaFhPVXFDNFdnclZ2ZHEyUm5jY08tZW1ENExyTjViMXBTRlotYzcwaVFNeDk4ZWxBdll0d1Y1QVVkWTlmS2Q3UHg5RV85NjdRdHVNY0lPT0ZnU0NXT0FJSG5RdHhSVXpLb2NZMUd5ZlFXbVFxZlhDZEYwOEJMV3AtNjg3SUdyS1lXN0F0YXdvejBQc1dUMGlCbFlrUGNKWXhVUXB1MGp5M21GT2RxN3RJYjhfNWR4Z1RMNldkR3JsWGZVRDJ5dVUxWQ?oc=5",
+      "pubDate": "Sun, 28 Jun 2026 13:39:33 GMT",
+      "description": "Hackensack Meridian Health Joins Phase 3 Trial of Pfizer’s Investigational C difficile Vaccine Contagion Live",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
     },
     {
       "title": "Kathmandu Metropolis provides 1,800 vials of anti-rabies vaccine to Sukraraj Hospital - The Kathmandu Post",
@@ -241,19 +293,6 @@
       "sourceLabel": "News",
       "vaccineKey": "polio",
       "vaccineLabel": "Polio",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Korra Energi wins GennVax vaccine plant construction contract in Egypt - ZAWYA",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSnlubEVDRGZYMUtFdXNCTUE4QkxCcUo1OEhqZ0lHaVktUVUyLXhkTEtMV3M4NWI3d1l6TGtqWDRTcWdGRHRXVHFnWmVzbjF2eUs4ZTBjYlBBMUV3cnFtbE9GbGI5SFFPMVdPSWZuZGpLSkJuel9JcmpMTXQ3VzRQdTVvOW5tQ1hnXzBuemZEMXVYV2l0SzBmVXcydE1xQlZQSXdDV3k4V0pNWm1wbjQ3Mks0a1BENGpkNmd6RXNtQQ?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 08:27:39 GMT",
-      "description": "Korra Energi wins GennVax vaccine plant construction contract in Egypt ZAWYA",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -388,6 +427,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "RFK MAHA vaccine study censorship is driving US brain drain | Opinion - The Courier-Journal",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVXZkaVJNSUZQVWJzOS13bVhROTBaVzBjcVBTU2c3TW5pRjZZLXBUek5CSlE3cTR0bEY1QTRYY2owRENDZFBsaHR0Tl9KSHRRTzRNLXBHU1VTbXBVX2JVbHhqVnlUdU1JUXdUSERIOWpoUVd4Ujlnbm9uNUotOFo5UzBRS2NCOWhLTEIzZGZfTW10dGI2aTZHWmhXeVlpLTRpOXZEVFBOSFZianZjREpWZFNteFlNb0V1cFNDT0lWbFdtVGN3M242UnJyTFFjOFJReWN3ZXRNTXMtSEZqWFF5YmhuZFo?oc=5",
+      "pubDate": "Sat, 27 Jun 2026 09:03:00 GMT",
+      "description": "RFK MAHA vaccine study censorship is driving US brain drain | Opinion The Courier-Journal",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "opinion",
+      "articleLabel": "Opinion"
+    },
+    {
       "title": "A Fentanyl Vaccine Is on the Horizon — If Trump Restores Funding for Its Clinical Trials - The Xylom",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeVpYVHhnSXRna3QyMlhnZzN3OXFLcW8tM0ZYTnA4NTNZcExiOVdxcV9reGpzUXpPbDc3LVVoeHdVc09PZmJrZjhJa3JSWlJCcnU4RDZsb0R0QjZKYVRreFd1SzJ5WGd0a0cwV0RnZjJZOGludHhSV1VwaGFjcHloM3ljMDJNM01kTV83LU5yTTdzeDJnOXVlM25n?oc=5",
       "pubDate": "Sat, 27 Jun 2026 07:14:32 GMT",
@@ -518,19 +570,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "US Starts Vaccine Effort for Ebola Bundibugyo as Outbreak Spreads - U.S. News & World Report",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ2EyMHRQakVEUWo4OUNSMFR5Z21KR29MSnVaQllKWEs1MGxDX19zWjF0a0NLXzFXaTNFakZSSHp5cG1LU1JDSjNWSDhCQm03YzRjMnREcE5mVTItcWxydUtxSDc3U1lGM25ib0tXY1NfVE55RHBLRkhVSmZMVnJHZkVzUnY3bGdlQzVEXzUzT2w0YUNwVDFYNXdTRGtxWkFSbUJGUC10X0FZNVppQXMycVBtQldLQUZ6TUd6XzVDaEpnb25sQTRLVHlibmg?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 20:32:06 GMT",
-      "description": "US Starts Vaccine Effort for Ebola Bundibugyo as Outbreak Spreads U.S. News & World Report",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "As measles outbreak continues, state officials push for vaccination - Lebanon Daily News",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ08wQng2WHU4b0x4cW9HbWhJNmhoTHMxa1pucDg4d2JJek5IdlhSMmhGNlRTUDlMWjJVTDlvVDBtVk95aGEzcDhRb2had2FXbHZ1UEMzcUYxM0QtRFhOYVFZM0pMRzZlV3ZoT1drdDU0YmpsTXRQbW1oYVFuR0NZbUs0R0xaQWRaOFdSNlFkdUZhb3BOZEdSN0w3Z3hZd2MwMlNFODJVa0RGV243RHFNLXJxMEROT1NsaWJpdFUyV3pGbkw3OVlYbkRJRDNnQQ?oc=5",
       "pubDate": "Fri, 26 Jun 2026 19:31:00 GMT",
@@ -561,6 +600,19 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa1kySWI1R1hvR3plX1NQaDVMVnU1NkN2c3c5aDdTaHZ0WlFIZWhZVXRhajdMa0psYlVmbm1ueFJjZ0RIR3dZRk9JalZiY2tmRFUzaExiZzZCS3ZoeFJDV25mWjNTMEh1YTQ4dVZaVDZyZy0yVWxNN1EzSHpuWmRjTFRFN1RLYTY4aUlwQnJVbmZmZ3AzTFFfWUdYaVF6LUZ1WWdVajRmZE1tUQ?oc=5",
       "pubDate": "Fri, 26 Jun 2026 19:19:40 GMT",
       "description": "First-ever Vaccine Could Treat Growing Tropical Disease in U.S. Labcompare",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "US Starts Vaccine Effort for Ebola Bundibugyo as Outbreak Spreads - GV Wire",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaFpBaVRUYTBjNE0wSmRNU0NBVVU4MWlPWVRyblFRTzI1aC1yUDZrSTYyM3RWSmNKWFdZMGJBcVJJVWVqZGJhTEtiY2dLdW9OekU4NGlaNERLVS1aR1NnVVRSRHhxVmlsMF9LXzhGcVRRcDh5QW5nbXVRRFdIeWVmUmRGTTdQUFNIUWx5bWdHb2x5ck1wdWU5ZEJoZnQ?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 19:08:55 GMT",
+      "description": "US Starts Vaccine Effort for Ebola Bundibugyo as Outbreak Spreads GV Wire",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -700,19 +752,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Vaccine denial: The Briefing for 26 June 2026 - Global Competition Review",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONGNyc3hJaDdudm1sd0dGa2pHS1BCeVl3QVRKYlI1ZXFyemFrSklJU01KNVBNZWRLSHhTM0tqclFiNTRhcjB1WHBDVmhyb0tJODU5OUYxNmZSNXppMGJJSzBidUtJREVnQlk3T3dFRkVhenEtdXg4LUl1R0djN3hxa3BXY01NU1hCc2UwUQ?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 15:54:51 GMT",
-      "description": "Vaccine denial: The Briefing for 26 June 2026 Global Competition Review",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Updated 2025-2026 COVID-19 Vaccine Nearly Halved ED Visits, Hospitalizations in CDC-Funded Study - Pharmacy Times",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMDlpaWk4aE8xVHUzQ0hnTWlJTXpPcUpVVjJPcHpIOHBLQWJ2Mi1QelROaFd0YjY3NzBtYTJ6T1FRX29TSWlRSDJBRWFFTTNmRFNSRUVJVUhPbjdDN2xPZXB4Z0l3VmVoV3oyd3U1YWtVbFZQbGdvSS1URVp0WFNGOE90NzFjZFJyR1F2SnFnOXIyR0lmT3NpZWZ6THlKdnM1X3JRNnFtY3VQT3I3aHdHSTQ3OTZVM3o2b2Fzc3NCdS15SWtoSENSQkN3?oc=5",
       "pubDate": "Fri, 26 Jun 2026 15:54:22 GMT",
@@ -735,32 +774,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Making tracks: Pakistan deploys \"field hospital\" trucks to close the immunisation gap - Gavi, the Vaccine Alliance",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVTQ4QmNGSEhZVjJRU28yYUE0Z2JlYm5ibUNlUFRHb1VNa29vdGYyNUR6YXBzcm1KWU8wcHl5Nk1Fb2JyNW5NeEdmLUxnaDh6dEdsSGZpUENDRERUWl84LTl4OTBNQ2ZYdFdIdUk4Q2xpMFlsRTVydkFwbGk1bm41RVlTYjl0Q0dDZENKdHlPbHJsRnBUWVhxeFNLSk1BWFJhZ3c?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 14:57:33 GMT",
-      "description": "Making tracks: Pakistan deploys \"field hospital\" trucks to close the immunisation gap Gavi, the Vaccine Alliance",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Nebraska hog producers could get a faster, safer flu vaccine - Nebraska Public Media",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNENMaDFOODQ0R09mcEszNTF2eklKNjI5UjNNVVVBLVBFN29RLUhEWDMyUEh1RTRXNW14TkhvVHVHMnZWNERpTzA4Y2tBMkhaV1loNVBtZVJLWXlnenFwOGhyN3EtTnhUUTByV3N0d2swQzVQNEV6M1ZBbDF2ZlRZUzRwZ2gxYmFNNzNhMDZ2TGh1WmZKUC1sWWloNFhyV3VHOE94SE4tMEo2aWdhdWdqSEtnakg?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 14:50:58 GMT",
-      "description": "Nebraska hog producers could get a faster, safer flu vaccine Nebraska Public Media",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -826,19 +839,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Internal emails show how RFK Jr.'s team sought to sway the CDC - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwOFZhLU9zRzVRY09Ld1UzdWhvZHQzMDJ0Y2RTejcyNWY2REtwTFY1aWt6NWVoMy0xeVQ1Yk5fUHBvR2lDeVBLdjZ5bFFyY3A1RnMzblFsRXlyS0k2X21hU2hCb3dsWXdiN3lhRXVTcVpMNjFnanhvRkpwSQ?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 03:24:26 GMT",
-      "description": "Internal emails show how RFK Jr.'s team sought to sway the CDC CBS News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
