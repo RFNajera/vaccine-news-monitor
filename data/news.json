@@ -1,26 +1,31 @@
 {
-  "updatedAt": "2026-06-28T07:42:02.457Z",
-  "itemCount": 89,
+  "updatedAt": "2026-06-28T09:32:37.015Z",
+  "itemCount": 81,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 8
+      "count": 7
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 18
+      "count": 14
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 6
+      "count": 7
     },
     {
       "key": "hpv",
       "label": "HPV",
-      "count": 5
+      "count": 3
+    },
+    {
+      "key": "polio",
+      "label": "Polio",
+      "count": 1
     },
     {
       "key": "hepatitis",
@@ -35,10 +40,36 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 50
+      "count": 47
     }
   ],
   "items": [
+    {
+      "title": "Lingering distrust, low vaccine rates threaten containment of Lancaster measles outbreak - Pittsburgh Post-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVVBzSTNMamNuX05nd3l6U09zQ2pudjZGcnE5MWppYjVld2x3MzdMVEUyR21iSmY0b05vaWlNSC1pelBJTlB2TjZpUFhpRWV3dTZaQzRPOEtwWlYxcXF4M1dwQ2ZNWjBBWFNXWFhDVWRQNGxhMlVxYjEzSGpiV09ucDBXZVlPSFg1Wm5QWEhXWFNEUV9QenZxWUtiTmJBZWRRNE5TX0RHcnB3VjE3cTNZSUxiT1RQSng4S0xmNkRmakJTeGphQ2hfcg?oc=5",
+      "pubDate": "Sun, 28 Jun 2026 09:29:01 GMT",
+      "description": "Lingering distrust, low vaccine rates threaten containment of Lancaster measles outbreak Pittsburgh Post-Gazette",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Karnataka CM D K Shivakumar appeals to people to ensure 100% coverage of pulse polio vaccination - Deccan Herald",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQN2dxT1IyRDhUcy1wdFRtNG1rYUZlX2NESTNIbFBOV1otRVFnNW04V0g2eHcxYUdRYUhaOFJIX0p2N3dtUTc2NW9RaEFpaW5aOFo5RjNISkN0T2VKRFRGRWdaU2hIelNIV1VaUEV1TGhuNzI0RXY4Q3NaSE5HVl9vU19EZU4zOE9DYnhNUDNhZV9aZm52TzIxa0M3TXJ6ZWRmb0N6UVFrb3l1NGxxWnJEWXJ6aTEtaUZUMVVUdjhrekNYRnVMRE1PcnVGTzFOcmNhMWJheW5LajZtb1JTY29UYzVB?oc=5",
+      "pubDate": "Sun, 28 Jun 2026 09:10:37 GMT",
+      "description": "Karnataka CM D K Shivakumar appeals to people to ensure 100% coverage of pulse polio vaccination Deccan Herald",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "polio",
+      "vaccineLabel": "Polio",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Measles, whooping cough spike amid low vaccination rates - Jacksonville Journal-Courier",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMHVTaFc4MlpaNTJDOFFVOGNzWERzYzdHWWo3YWpIa05fd2wwT1RqY21GQ1NZWDBBSnpiVjQ5eHlrbHlvdVp5aXNUVy13WngtOXdiWllta0R2Unc0Sl9BWTl3WmJOLVM3bGd5Y2RFZ2U4c3lnN0lrcXlIdC00NURJNkx4emlraFNYNHVnVlExZFZ4WERxU21fQ091ZDlIXzM1UFE?oc=5",
@@ -70,6 +101,19 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM1dlQUVEcVlVeUZQdGF6WndIVjdQUkppYlZsOUZFSlByREl0WGo2RDh4NkVzVFU3VnpDN3YwTnVOQTRtcEJRTmx4ZkRabWdBZkV5MkVSSkhEQnBFNlRObDJrclVsTl82WHJsbWNObHdZamU2TnJQNVNjMTJfVHNMYk4wajJuRnQ5SnFkLTdPakl0Y19NNXZBbS14bw?oc=5",
       "pubDate": "Sat, 27 Jun 2026 21:10:37 GMT",
       "description": "School nurses will ask children about jabs if parents ignore GPs The Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Dying Rosie got a custom cancer vaccine. We should all be so lucky - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOd0h6TmhPNFlqdmtsZ0RKa0dxYzdtelg2OElUZ212MEZTdHFDcFlSbmdCX3UzWVVramVNYl9DVFMtcVY0c1c2VjJzdHdLRTU2alJVYnM5NE84cTNRN2FZbE94akdDXzJNX0ZnUEJxNklyWE5LNkJMN3NpVHlXSWY3azhpd2dOcUlPZUQ0YVlxUnNobWJQTDU5RjdkcmlaZjYyZFhBaG8yVGFsR29UUHkzUkZPTFcyUUJwaDZLcDA4azJwN0ZjY2I4TWhadlg5eDhsVl80VU1jSGlXWmJieVV1S0l1b0dGb1hhWHExSUpR0gHzAUFVX3lxTE16TEdXS2dUUXlLNlY0RHZHaHVYLWw1ajFpZ1ZEVzdnVDZOandDaFl1NlZ3R0lJQlVZcDFpb3FXaEpSYWwxbldMQ3V6cmx2Y0dwcHZ5VXViYkZJTGhybmV2RGkyc0ZjMUxLeWZ5VkNKX1FRbUZ0el92aHJOVE5YOGYyd1FNV2ZySElhd25oclhtYXJxYWJ3XzVad0dwUU5QcEtOdDFoU1pGTVJlV2V6RGZFSXZWMHVZV2YyMVBDazM3V1NDaGtoc1FuendkSDJaR0JoamJDVmJPWVZJSXZkOGtScTBpazlSbFpzWFR4QnFLajV0Yw?oc=5",
+      "pubDate": "Sat, 27 Jun 2026 19:27:11 GMT",
+      "description": "Dying Rosie got a custom cancer vaccine. We should all be so lucky The Australian",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -235,19 +279,6 @@
       "articleLabel": "Opinion"
     },
     {
-      "title": "Universal COVID Vaccine Clears First Human Trial as Researchers Caution It Is Still Years Away - Medical Daily",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU19BZ3NzTTFzb2kzQVBaNGlkRGduck1GTGJqVTlsR1dwaURXcUhHczgtRjFVNWd3Tm5SQl9OelFyYk1ueEtvVGt6SC14bmRCRVhTS1lLS0RfOW8tUHYzYzc0X2hHNjNUMTVCTktHS1JRNTlIZDQ1MHRWaGU3V3V4eEJPaktXVXlOVXFYdnVJNE41TUFaeDE5SXpJR2FZNmhx?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 01:01:12 GMT",
-      "description": "Universal COVID Vaccine Clears First Human Trial as Researchers Caution It Is Still Years Away Medical Daily",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "Tigerton rabies case brings reminder of Fond du Lac teen who survived rabies without a vaccine - WBAY",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUzdIOHRNS1pKSVNSMVlVS1M2ekFLQ2RMempMVFBsb2lQZmJlQ0dOQmgzWEVXcW1ZUzZDN1RBYUNaOGJqeUlzYkVzcng0aV9jWDhaNUxha2plNnBDN0FvMnJRTXhSQjFvSkJDVDdzaHVKbnhfdHhrLWNnNGQ0OENJVnBaM0Y0TzFWeGdxdHFvY2xqWlN3aG5uQV9iSkVqcjZJUkxpRFpiUUdIelBwNk1YSExnYnNiTG5ka05Qa2F6a01WZWk2NWdR?oc=5",
       "pubDate": "Fri, 26 Jun 2026 23:19:00 GMT",
@@ -404,6 +435,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "US starts vaccine effort for Ebola Bundibugyo as outbreak spreads - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY1lIdTNqOGpnUHFaMTQ2ZTZtNG5COXhlZGxSbkM0NG5FdkF3TjR0SmtkTUF1U1dkM09uZ0pLc0ducmJ2RENIbWh6M01CSWRLX1JZUDVPazU3T3hXS1pIc1RoLVpVM0RJczc0M2RTQnprVWZfTWl4VnVMdUhkdEhQa0w5SWYwUXl1eWJsX1ZYQ2NzTDVnTnJtaEN4ODlKcVhrakZFdHo5Y0MyYXJrMURlWWZMYnVtQ3l5VGhIblpQYkpJT2YyX2pYbmVKS0dxSEdx?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 18:59:47 GMT",
+      "description": "US starts vaccine effort for Ebola Bundibugyo as outbreak spreads TradingView",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Deaths from this cancer can now be virtually eliminated - National Geographic",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWHJXamYxbWdOQkY4dTlfcC1xQ2VVTmxIa3ROd3pPVW14bXIzTFVueUtfWjZLa0wzZFc1eFlmZUVna2J1WEo3RFB3NUgwY0g2OHRWcFRqcWotZTEzcVpqWWdaSWtHZ1U4ZDczSy1maWRCbDR5VmdyUnp2N25QdkR0c0JtUlRBallLckdYNXVR?oc=5",
       "pubDate": "Fri, 26 Jun 2026 18:23:07 GMT",
@@ -452,6 +496,19 @@
       "sourceLabel": "News",
       "vaccineKey": "hpv",
       "vaccineLabel": "HPV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Philippines prepares for commercial ASF vaccination - Feed Strategy",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUUtVcGFmRnJVMmhnN2J4ZVQ1MG95TGgzUFk4cE9pQnJPVXNydFBfNE5hTkE3ZzE0UkE0bEdMQWRfSXFTN3Q3TVpwTmpIY3NWRFl5VHA4OHNUbTFfNVpHLTY2ZGRuMmNBcWNWaGxMalZRZHpsWF9MeFJKRnBIamxBN0FUQlJTS3p4bFZYYkszY0tETXYyOVN4YlBGVWFDcmVqdHppYXplZDY1Q0ktSUxTRjM5WUw1OWR6bm5VS2s3V2YwdTdqdklWNDFMVWFyYzRMUTVrN2Nn?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 16:54:17 GMT",
+      "description": "Philippines prepares for commercial ASF vaccination Feed Strategy",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -599,19 +656,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Anixa Biosciences Reports Positive Data from Completed Breast Cancer Vaccine Phase 1 Trial and Positive Survival Observations from Ongoing CAR-T Phase 1 Trial at New York Academy of Sciences' Frontiers in Cancer Immunotherapy Symposium - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxONXc4UldyWkx4MUthdGtpaVpTb0ZSbmJxNGh6RzJ1WHhTOGhjLXM2WmlVNUk0bTJNdmtzNWYyWk9ZcUZ3S2s0YUd1YktBV1Q1OWlLRDJuZ2RkRVJiNm1lZXFEaVN5Q2RZVEtWT1RvMEFCNkJKUmNNcWsyR3Vfb2VYb0poVTBIQ2tFcFpDNXMxa25aR2dpRFM0cU1JRTVmbWxENGlhZ05kYjNlZ2VsUU9hWFl6OXl5Y1RGNTQyZW53ZFlPTHJKMW1xTTRMT1NiZHhGSC1jdmFFQXZQdGhmd2dQQmNCdXdlS0dNaHZ5SzN1WDRuZVFPTVJaem9kYkxUNVFnbXR3MmlXN3VoNjMxMzhfSHR5WHMzMFVIbkhtc3FaS1gtWVpYVXhDcTFhMEN5RVRkNmpQUXpFMjJPZ3BycEZKUVRZSk90OGdiMnUxM3lXdDdmR3dnd3lESVA5VGlGeHVxYkNUQkNNcjBhaWZRcnVnN2hpa004dXVBRjlPdG1keG4waU11Y1ZoOUw1aWVRZ0JpWWktdF9nS0c?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 13:10:00 GMT",
-      "description": "Anixa Biosciences Reports Positive Data from Completed Breast Cancer Vaccine Phase 1 Trial and Positive Survival Observations from Ongoing CAR-T Phase 1 Trial at New York Academy of Sciences' Frontiers in Cancer Immunotherapy Symposium PR Newswire",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "Anixa breast cancer vaccine met endpoints; CAR-T survival data - Stock Titan",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRFRMRFlCRUl6bWpXeEJzWXI2TkRKczNhV0kwRHRvZklhU3BkVWF6UzZoMnZsVEZ0aUZ3SWdRczRQdS1KejhhS0ZVaW9rOWt3VUFLclBFVkEyZVVXakEwRTM0dU9Mc1oxd1ZLLVY5SFpqUThQTVp3SGliQTllSXZ1bldLLXJBalBtcWNsR3dEZGJOWWhueE9CR2MyeW5nS1JsLU8zVnpqRkhxaXJkWWZmSWx4RTdLbWhBWXRDT0hxSGU?oc=5",
       "pubDate": "Fri, 26 Jun 2026 13:10:00 GMT",
@@ -634,19 +678,6 @@
       "sourceLabel": "News",
       "vaccineKey": "flu",
       "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "What the CDC Emails Show: Scientists Quietly Building a Paper Trail - celinegounder.com",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ncmZyNUFudk5PdDNOaW9SU2wzSFE2UnZwZ0E0bEVvOU12OWZ1SnRyX3ZjUENfd0xwVE5iZmtSVzlIVzZqVUhRdm9WREY5YVR4aW5PWWl4NzYtV0VwZEF2Z2w2ODE?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 12:10:39 GMT",
-      "description": "What the CDC Emails Show: Scientists Quietly Building a Paper Trail celinegounder.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -716,10 +747,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Sanofi Suspected by EU of Disparaging a Flu Vaccine Rival - Bloomberg.com",
+      "title": "Sanofi Suspected by EU of Disparaging a Flu Vaccine Rival - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNUpiVkxxZlJXWXRWb1ZRX0FkV1dGeFNqQXFmenFGeUhuUXpQXzh4ZzVkcDNaVlJJelAwYlFoNnBPeG8wbnVvc3VtQXYyQnRpZ2RGdXFWMVBaRlgxbng1M1hTb1ZjVXFQYnBuZkNPZlViUDdfak03dzdkNjlURnV5QzZ4UzZWaFRGLXB4T0M4X040UF91eXQwVjlUbXkzc2Y4RFJyQ0hHRmlqLTR1?oc=5",
       "pubDate": "Fri, 26 Jun 2026 10:23:40 GMT",
-      "description": "Sanofi Suspected by EU of Disparaging a Flu Vaccine Rival Bloomberg.com",
+      "description": "Sanofi Suspected by EU of Disparaging a Flu Vaccine Rival Bloomberg",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -738,6 +769,19 @@
       "sourceLabel": "News",
       "vaccineKey": "flu",
       "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Sanofi hit with formal probe in EU over alleged vaccine disparagement - MLex",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSVlkTGdZZEl2YWUwQTRXNTdCYjRobUZPaVlnT1JFTG1SWTN2ZWhURTM4NXViVno4Uy1UMUFKWlVEZldKcjhGU2p3TU9OVk01MURRakRfc1BKT0tmRDBHcFpVRkhnRFpSSmZQZVVGZGt0Znc0eFhUYkhLSWRjOHpNWEgzaWF1SGtpTFhoOVUxR1RBbjN4aTNpVmVnTW0xZkc3OTdGdVY3R1RvU2ROUUxtNWlB0gFaQVVfeXFMTUFRWkpTNjI2blNvaTlnLXh5Z3Q0OERPSHhKcWRVRWdTYzRCNG1WSEhiLXdWQUJGVFQ0MDFTSzlnVDREVm9qTDBDb3pWNVlqZkJqd3MyMWlodkRR?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 09:47:00 GMT",
+      "description": "Sanofi hit with formal probe in EU over alleged vaccine disparagement MLex",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -820,32 +864,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Researchers develop vaccine to prevent parasitic infection - WJAR",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQTmlfcWNWZzF4X19uaGFNMlA1azZ6ZGtKVkhUb2t4Rjk4X3pEWEdPXzJCN0Q1UzdZYUV6T3MxaXlZUlVEcXkzOVgwNDEyaEgxMFZFWnkwRDdjLXF2ejNHT3k0TVdiT2J3dUNLSlVCS05zZXVmLS1pMVNWYnpjMkZBZ2YzbHdHX2NwcFltX1BBdl80UjNZZnBDcExsalEtbDlnQ0p4UnFmRTZlZFI1UDNIMEI3VU1nWjQxWGlQc3lKM1B1ek9MRmtZQTBuVV92RzdrVTRBOWRJRV9IUFRyaWJEb3hCVGpfR1ZZekZ3SzFCQU9aelZjbjZrSUZ3NENmREZyVlNYbzQ2a2RNM0NJZEtR?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 21:27:44 GMT",
-      "description": "Researchers develop vaccine to prevent parasitic infection WJAR",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Drexel University: How to catch a virus… on purpose: New therapeutic HIV vaccine model - European AIDS Treatment Group",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdnpVb05nMEhENy15Vl8wWTdtR1JGX0huUWRmbTlOY3c1MENwOW1Rd0libkp4QXdvajY4Skp6RURsRzk0LUd4bUs5cjBnd1ZzeUhKd3J1VDNBbkROaS01RUJrNS1XMS1pVF9wbDYzZU9Yb2NLOWxMNkJva1RST1gzcFZDYXRJNF8wcjJ2RTM1RlVMempvWWtfZlctRl9iRzh5bks1OEZpRGgyVll5TUJ2M0x2b08?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 21:18:27 GMT",
-      "description": "Drexel University: How to catch a virus… on purpose: New therapeutic HIV vaccine model European AIDS Treatment Group",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "New ACIP charter broadens criteria for members, calls for review of alternatives to vaccines - statnews.com",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LMWlfeHdOZ29QWWdQaGRXRGt3WVFhSllUaW90QUx6Tm1vT0tlYkp3TDZxT0FIQ05FUXljTDBiLXc4SU5WX3FSNUd2dnBJZ0t1d1QzanhQY1E5ODFOTE4tR0hoWDhua3JWR3pmWWVrSVZtZnVFbXlScmpmSmZIQQ?oc=5",
       "pubDate": "Thu, 25 Jun 2026 20:20:18 GMT",
@@ -855,32 +873,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "HPV vaccination eliminated cervical cancer deaths in young UK women in recent years, study suggests - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdE5TUFFJaU9LbzdOZExtZ0ZSUjg4SU9CaHhyT2NVUnpZcGdGeWVqM2RIQS1uOFZPU2RBVUE0cThscDQ5MGQzZFQ0ZUtuTkwyM09ZdTNtZDJmazg3T2gxUXQwb2g5ZTM1am9wRmFqbzlpeEc0cHA5bzlIaGRUTDREel9jYUptRklYdVphakk2TG83YzZSVnJncjVVQVI2V0kyTDJxWXZ1N0dDczI4WFdXZW9pUVdoaVQzcFhwbTN2ZFI?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 20:12:36 GMT",
-      "description": "HPV vaccination eliminated cervical cancer deaths in young UK women in recent years, study suggests CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hpv",
-      "vaccineLabel": "HPV",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
-      "title": "Pentagon Restores Flu Vaccine Mandate After Outbreak - U.S. News & World Report",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWG10UGhBSEpneS10TDNTWkF3M2JZaW1RZkdyb1RKbUJvMF9YNmJ4dFB3RlB0NDAzYWUtcU1MUXNIc3RYZDJMU1U4bmgwYmpiRGtQdGI0STJZUkJXd21ZQndlYzc2TVBCRVQxM1RtRThiRmZyRUZsQUdTbzg0c2stdkpXSEdDbzRaMkRES2VNTE9JRldkTm80MG9Yc2RiQWFKWlFHVGljSnBtcDI3N1lCYzh4R0syX1VzX0xmbkpFVTBQeE0?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 20:04:01 GMT",
-      "description": "Pentagon Restores Flu Vaccine Mandate After Outbreak U.S. News & World Report",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -898,19 +890,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "FAQ: What you need to know about ACOG's new maternal immunization schedule - Contemporary OB/GYN",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc2VYVU1qY2FZdFAtRUNnb1cweFlBRVlVR1ZkTmpYWHhyemtMUVJwd3RjZ25wdFFJakZGSWJENENURXFEWmlfX3RSRDJDdGZxLTJuVkNZcDZxX2lFb3FlSno4eFlCcXNtcFFQN25xV1A2akY4WDl3Z0lsOVEzS0x1cmZMRFpjNVR6Q1ZRUnpMaklsTlU?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 17:42:01 GMT",
-      "description": "FAQ: What you need to know about ACOG's new maternal immunization schedule Contemporary OB/GYN",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Pentagon restores mandatory flu shots for all recruits amid boot camp outbreak - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVU5Bdm5tU2dsVUZWWl9jd3lnSl9uUXR1NHM4aEtodDc1WkQ1T3ZoaU5Ba3BBVC1jZ3BUNnU5YW0yaTkyazZaVncwMFpaZzh5SlBhMWZCVG9ndlMyLVJDVS15NWpySElzdzR5WjgzdENfQW1keF9maHp3aXJ5WDl1N3ktQnJaaVdUOFZRVW52WWV6SC1DSzJFWWlmTQ?oc=5",
       "pubDate": "Thu, 25 Jun 2026 17:38:00 GMT",
@@ -924,49 +903,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "How the HPV vaccine changes how we think about cancer - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd05vX054d1hrU2NXSjJHSnVfQmxvcm92Vm9Ld0NZVVA1aGxCSWJfdWR3ZzV6bU1IcG1vUnVZUXFTU0hqdlBlN1ZVYm1kNUhwVkRPUFpmTzBHSVlWOXFpVXBzald5dktDd085aU5vRmgxUHhSbTl4NzRrY1pwVzZMeU4wd1l5RzJFUXFsOVA3NTAxeTYzNkZkVXBvTzJrcFltVDlVNFpuUdIBrAFBVV95cUxPMkFFdEJVT3hWdVdCU3d1RHB6M3dOVjUwR0JCcGZ5X3JWRlRSOW5pN2xVWGJBTkFJZlptMGdZaThwUVpncERfQ2wweVQ0Rl9vWlJnenJWck41VnN5a29oTkRrWlRhUkNuLU5WWXhHRkxzUzRnVy1SLUF0YmxhN3B3NDMtNTNHYkRwVVlJUEhSeGw4b2pfWld2VlZCWjBOUUlYc1J5VW4xYndoOWhB?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 17:07:49 GMT",
-      "description": "How the HPV vaccine changes how we think about cancer Al Jazeera",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hpv",
-      "vaccineLabel": "HPV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Military Changes Voluntary Flu Vaccine Guidance After Boot Camp Outbreak - News of the United States - NOTUS",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHBwTWt0dUtXZERlZS0wWHRXNVpXUTRLR0hhb0Vsd1EyTWVvRkZvYlZIN3JkNDlnTVR4UXhXVDE2aXY0Yl83amg4TEdQN3VLaFZGYjFpdlpWOFpMVmtncjFWT045U2NjZ1ZyTkNBYnFjdVZWV2dQN2hJX3c1bjFlN1Z1aw?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 16:43:30 GMT",
-      "description": "Military Changes Voluntary Flu Vaccine Guidance After Boot Camp Outbreak News of the United States - NOTUS",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "New evidence casts doubt on RFK Jr testimony before Senate - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYUllbXg5WXFROEYwaWNhNy1vckpONnQyWFJQaUdjRjJfMm40WU0xUVJCZVJ3UmJjbFMtcFYzQUU1NzhTMGwydGktYzl6YnVhXzhUcEc2aUFhUGtVYmR0aHRVaVU2ZW84YkpTMEE3dWRFSm1EQ3Q2SjlVSVBjUjVfdzNlM2NUSThBTGNF?oc=5",
       "pubDate": "Thu, 25 Jun 2026 16:00:00 GMT",
       "description": "New evidence casts doubt on RFK Jr testimony before Senate The Guardian",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "UNICEF and Gavi call to accelerate Bundibugyo vaccine access - EMJ",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS18wRF81SmtncVV1MFJYSHg4UklRbnNQelI5cV9WbEdwSDdsQ0pMbUR2NnRGbUwxVmU0dnZfRWNXTGhPM2JLcUJ6bkMzWndEaXNmX2FJeWphOVBqVlNCMUFwcmp2OEs4NzloTF95WW5kRThHLTJyLTJnN3FjRnQ5T0NBUnhXbW5ucmpFR01TblplMHk5MHQ0U042b3ZMTjBDQ3VSTw?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 15:18:14 GMT",
-      "description": "UNICEF and Gavi call to accelerate Bundibugyo vaccine access EMJ",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1067,19 +1007,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Watch Moderna's Flu Vaccine Moves Closer to FDA Approval - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZHRfeHhXTGRnRk84YWticUJxOHQ0RWpRQmpsWi1jZko3NU9SZFdsaC15Nm10cnZKMEFONlNxcHdScExvbnB0Qk5vTTVvb0JxZXhwYmZYQ21DazREcGFGRWswdVVNVkdiM1piZzhEWXdmNk1KeXlodWFtZjlyYzlMUnhBbHQyQWlaR0pVMDZXWFZnQi1PeWx3VkZiS3BsLTVrQzBWUnA3SVpaUDlL?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 00:00:00 GMT",
-      "description": "Watch Moderna's Flu Vaccine Moves Closer to FDA Approval Bloomberg.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "US military requires flu vaccine for some after outbreak in Texas training center - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWG8zSUtWS1hNNFJMR2ZBeERKaXlWS0MxbHdsNngwbzRnR2FjbmNGWHI3Wk1Uc3pUZXVBZ0w3NXNVTFpadlh1QXhzVlNsdDdELV9pbnQ0SlBJZmJuZHNNdXM3bVFLelVLZzg0dlBiMmhXeHAxb1hJUEd5Y29NOGdSd1U3WkR0VTVrNmMwT1JNRFFsZmNLSHhnLVJEVUVpVHYxZzQ4QllvSV9yWHlZQUNCbW5jUFZJNTRRY2NJN24xMWtYaVd5bXc?oc=5",
       "pubDate": "Wed, 24 Jun 2026 22:13:29 GMT",
@@ -1102,19 +1029,6 @@
       "sourceLabel": "News",
       "vaccineKey": "flu",
       "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "UNICEF, Gavi call to speed Bundibugyo Ebola vaccine access - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOGE1ZF8tNUhSTGRQZHdhUHk3czhPUmY3dzVsLTRmRnI0akdab3lfRmtYdldGc1dnWXIzQ0FfbGw0ZkxzTHpleFNDZVdaZ01mcDNsZG53ZnotcUw4QmZTaXV6UWNhOS1qVmtBU1FKZi1VN185WXJRZExCVXRjODd5cXV4QlAwNXVKYjJzVnpUOXFsZi0tc1BTaTVJbDdubGRlV24wRkYydHRieFhUazhpbldwamtpSTA5TVlQYzhxenJBTkJQQ3BBV3JBMlJqQQ?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 20:15:32 GMT",
-      "description": "UNICEF, Gavi call to speed Bundibugyo Ebola vaccine access Reuters",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1167,19 +1081,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Hegseth’s Air Force quietly brings back flu vaccine rule for recruits after more than 200 fall sick at base - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ0pkejdiRy05YkRYMUJfd0o0ZFJFYWRTT2dTeHRGWlpWaG02WEJBMWgtYW5Jc1ZzNEcwUjRpUmo0RWk4UVlGN1UtX09nNTVKM3h3bjRUNTZMVk54VGhFMnRvRVdDZG9uSUpBXzdjaFpkQ1AtZDFqckE0LUlLeWZWWW9PZzdfdEQ1SUdYOGszcm5SVG5wc01ORzdEMWY0M3Zka2JZQW9WcmgtcHlNNXhWclQ4Z2VmUQ?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 14:37:00 GMT",
-      "description": "Hegseth’s Air Force quietly brings back flu vaccine rule for recruits after more than 200 fall sick at base The Independent",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
     },
