@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-06-28T01:26:30.886Z",
-  "itemCount": 96,
+  "updatedAt": "2026-06-28T03:40:10.304Z",
+  "itemCount": 99,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 9
+      "count": 10
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 21
+      "count": 20
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 4
+      "count": 6
     },
     {
       "key": "hpv",
@@ -25,6 +25,11 @@
     {
       "key": "hepatitis",
       "label": "Hepatitis",
+      "count": 1
+    },
+    {
+      "key": "shingles",
+      "label": "Shingles",
       "count": 1
     },
     {
@@ -269,6 +274,32 @@
       "articleLabel": "News"
     },
     {
+      "title": "Officials provide update on state's response to measles outbreak - WGAL",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQU9uZTdPNm5INDdHVDNpRjN2UzRfQy1PN3E0R2xWeUlVV1ZSMnByT2pQeG1mOHRHb3JjaGtRcWNNazdkUkZXd3YyVExLSkpKTVFRZGY3Qm9lb0tTdXVjNXltczVxcEJaSlhIdXFZYUc1ekw1d1ktMVlDT0VEZVJleFBzSjAtVklDWHZxbQ?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 22:52:00 GMT",
+      "description": "Officials provide update on state's response to measles outbreak WGAL",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "US starts vaccine effort for Ebola Bundibugyo as outbreak spreads - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSlJTNHZOcTRfTmczVk9FRV9QV0gwc3hSckhIdDFmOXN6SjlNUFVkeDRUYVZlcXZ5STZjNnhMTjZrQURsT1hkaDlNMUJ6eUxWZnUtdlg3X1E0Xy16dlAwSGtDdi1mX0ZqeXBxRDJlaDdLeWVveGduSWtfUGV5N0dvY1BSM25oNXF2RTdPcFZtSVotTUo2WVlMQXB3TnFoYXNHS1VvUm03alNKZXBpTzMyOTBZZnRnMzJtOEpRampQMXdKeVFoRk1VV0s0Vk1vQzA?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 22:09:43 GMT",
+      "description": "US starts vaccine effort for Ebola Bundibugyo as outbreak spreads Reuters",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "New ACIP charter could allow RFK Jr. to further restrict vaccine access, critics say - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPenJWMUdwZVNXUW03TUM3WHFBcEprNnBZYVNPRXgtSUJEYlI5S3hZU0NzRXI3RkVUSWppM3V2LTlpaEdSOGc5am1BdVBBRC1PelVERldXclB4QVdwSzEwQVNpZzZhTy0zQWVUcDRhLW9RSG9FbUJtWVgwaXBmUzlGWTloQjVqRFFlTzVxSGR6czJZOE5BWHBDWEY1dnJlNWt2d2ozdkk0anlEakI5QlVqV0phNmpFbHZla0NNeGVOaDJBZzg?oc=5",
       "pubDate": "Fri, 26 Jun 2026 21:47:34 GMT",
@@ -334,10 +365,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "US Starts Vaccine Effort for Ebola Bundibugyo as Outbreak Spreads - U.S. News & World Report",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ2EyMHRQakVEUWo4OUNSMFR5Z21KR29MSnVaQllKWEs1MGxDX19zWjF0a0NLXzFXaTNFakZSSHp5cG1LU1JDSjNWSDhCQm03YzRjMnREcE5mVTItcWxydUtxSDc3U1lGM25ib0tXY1NfVE55RHBLRkhVSmZMVnJHZkVzUnY3bGdlQzVEXzUzT2w0YUNwVDFYNXdTRGtxWkFSbUJGUC10X0FZNVppQXMycVBtQldLQUZ6TUd6XzVDaEpnb25sQTRLVHlibmg?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 20:32:06 GMT",
-      "description": "US Starts Vaccine Effort for Ebola Bundibugyo as Outbreak Spreads U.S. News & World Report",
+      "title": "Humane Educational Society to hold vaccine clinic June 27th - WDEF",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQzBac3BTYTFTZXEtUWZNZHAyMl80NjFjUnBRWmdVOW1nYkUxWndtOTZFd3ItYjh1MnU0TXRYY3NOR3R1eHhicmtiUDZUb2xNYjV1UFJyajU0UUFkTURPMGJJdFdNWUd1YXdlam55VDFNdjVKNU9zS3VnMW5mcUFzaU1ISlVyRlBz?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 20:08:55 GMT",
+      "description": "Humane Educational Society to hold vaccine clinic June 27th WDEF",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -373,10 +404,36 @@
       "articleLabel": "Research"
     },
     {
+      "title": "First-ever Vaccine Could Treat Growing Tropical Disease in U.S. - Labcompare",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa1kySWI1R1hvR3plX1NQaDVMVnU1NkN2c3c5aDdTaHZ0WlFIZWhZVXRhajdMa0psYlVmbm1ueFJjZ0RIR3dZRk9JalZiY2tmRFUzaExiZzZCS3ZoeFJDV25mWjNTMEh1YTQ4dVZaVDZyZy0yVWxNN1EzSHpuWmRjTFRFN1RLYTY4aUlwQnJVbmZmZ3AzTFFfWUdYaVF6LUZ1WWdVajRmZE1tUQ?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 19:19:40 GMT",
+      "description": "First-ever Vaccine Could Treat Growing Tropical Disease in U.S. Labcompare",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Deaths from this cancer can now be virtually eliminated - National Geographic",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWHJXamYxbWdOQkY4dTlfcC1xQ2VVTmxIa3ROd3pPVW14bXIzTFVueUtfWjZLa0wzZFc1eFlmZUVna2J1WEo3RFB3NUgwY0g2OHRWcFRqcWotZTEzcVpqWWdaSWtHZ1U4ZDczSy1maWRCbDR5VmdyUnp2N25QdkR0c0JtUlRBallLckdYNXVR?oc=5",
       "pubDate": "Fri, 26 Jun 2026 18:23:07 GMT",
       "description": "Deaths from this cancer can now be virtually eliminated National Geographic",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Hidalgo County health department offering back-to-school vaccine clinics - KRGV",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ05wakhFcjdwQllFczdJRzZxSE1ub3ZHaTU5QW5MVGQzV201QXEwd21jY1E5QWFRUk92TGg1N2kwWjZ3U200dndGQkh6RFFqREstSUNWMUJxeEZRZHRHX1BFb1BGc2tTbnN6NVdNWTc4Mk1vVURyQUZsVFNfUkFSVjhSYXQtdnFVX1hDVUlHWDh4TFU3d0xXMEZoVF8yMi1o?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 17:45:53 GMT",
+      "description": "Hidalgo County health department offering back-to-school vaccine clinics KRGV",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -397,19 +454,6 @@
       "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "UK childhood vaccination rates decline in first quarter of 2026 - The Pharmaceutical Journal",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMV9IMzJjaTlqbjdJakZCQ0oyY2hHZDFCZ3VobHpjazFSa19RUXdHT0kzMHVOaXRIQy05bVo1Qjc1VHdjVEJ6SVFCb2dhR1M2QWpidnlPVk5IMXRONkNSV1Y5M0NCUTBCdndyQUhXSWJvLUFtSjJSeU1qM1RWVFZUc3pOU1h3WFV6U3pPRDBBRFFqbllDZTNQYmNKLWc1aDJZZXZaS2tORndoTnVlSEhxbg?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 17:13:38 GMT",
-      "description": "UK childhood vaccination rates decline in first quarter of 2026 The Pharmaceutical Journal",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "Renjith Vijayakumar Selvarani: The HPV Vaccine has Brought Cervical Cancer Deaths to Zero - Oncodaily",
@@ -633,6 +677,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "COVID Vaccine Study Previously Blocked By CDC Is Out — Here's What It Found - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMTM2NWJidzNUOC1GZW1mZkJ6dGw5NC1WS2RvNXV4R3NCV29ueEl4RFB3aVlaakZiYzFfV0NtYV9yR2Y1YjNDaFBITlBrUWpOLVZ2NU1zRmJYdWlYdlIzV2h5Y245QUVwa3ctT09jMEFrOXV6YVQ1S2VmTGV2TTFaVHg5Wm1YZWNmZ2c?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 10:39:39 GMT",
+      "description": "COVID Vaccine Study Previously Blocked By CDC Is Out — Here's What It Found AOL.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
       "title": "Sanofi Probed by EU Over Flu Vaccine Marketing - WSJ",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNmdrWng5YmF6MGFlTEJPWWNiZmQtUHJRc19EcEZHUmtqRWRpaU9mVFdMZWhVUWN3N1NONE1YNTRCSkNSSlVVbzF3QUhWbktMTllqSXM3b1RoQzdZSHpwQW54b2NGQ3g5MUliSDdCZ1o0b01lN1gyblJZZUM0Ri14MGRJeTFJWjA?oc=5",
       "pubDate": "Fri, 26 Jun 2026 10:38:00 GMT",
@@ -646,23 +703,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "EU Commission opens antitrust probe into Sanofi's flu vaccine campaign - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaXhSSWREcHNxd0d2S1dwTkMyTTBlSllDRnlVUDB2M09OTjc3VnVPZGhsVTI2ekRKdGViQ0xxZEpEaHllOWxBNTk4QnA1dTJRNXZWMDBmNzJIZklSQll4N2VCUXVpUUcyZVJPRURyYXpOaE9sbUhGaWNoUmRfaklPZTJtbmE3ZVpiNGMxeDhtLXRIYjdLLXlaYW1hZ1QzV3hCdDNOYXVBM21IZ9IBrwFBVV95cUxQdmZDYVhLdXRhMGxWMjAxUWVJZm1PaDdlbE9aMmZmd1k4TFg0dGZLcmN0ZUFPVHBScmRRaGdleVpyUm9qdXdUS1JUSHRQZE42eGM3VHFmVm84N3RRQmc4WkR6YlBGbmVfc2dxSzJHc3NQeGIxS2ZOTXZRYTFzaGZ3WmJKejVXcTRlTUVvZGtjVnFoTUUyaU9xU3VFbkJ4d2g5R21HakpLNEpPRGNqU0ow?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 10:31:07 GMT",
-      "description": "EU Commission opens antitrust probe into Sanofi's flu vaccine campaign CNBC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Sanofi Suspected by EU of Disparaging a Flu Vaccine Rival - Bloomberg",
+      "title": "Sanofi Suspected by EU of Disparaging a Flu Vaccine Rival - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNUpiVkxxZlJXWXRWb1ZRX0FkV1dGeFNqQXFmenFGeUhuUXpQXzh4ZzVkcDNaVlJJelAwYlFoNnBPeG8wbnVvc3VtQXYyQnRpZ2RGdXFWMVBaRlgxbng1M1hTb1ZjVXFQYnBuZkNPZlViUDdfak03dzdkNjlURnV5QzZ4UzZWaFRGLXB4T0M4X040UF91eXQwVjlUbXkzc2Y4RFJyQ0hHRmlqLTR1?oc=5",
       "pubDate": "Fri, 26 Jun 2026 10:23:40 GMT",
-      "description": "Sanofi Suspected by EU of Disparaging a Flu Vaccine Rival Bloomberg",
+      "description": "Sanofi Suspected by EU of Disparaging a Flu Vaccine Rival Bloomberg.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -685,10 +729,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Earlier meningitis B protection through childhood vaccination shows success - Open Access Government",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQnIxcnVSWmFOMXpFN1VHbl9pU3VJX0lMSWZ0M1BWVW5VelkxOXFtZkMzUzNLel9LWlhpaExHUGthS3JtQWpIbHdzR0pKT0lQSHN4U2NSVUdUOEpKSjBrTjZZMmpzaTF0NTFFSHVZZ0Z5eVprX09RWmpmYTcwNU5tTnVVUm9NbzlqVm9TZ3p3ci05ZXdoSWpFUmdkSDFtTDdjTE1oMk5oWS1lOWs1V0J0X0RWVjBsYXFqQXZDeA?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 09:51:22 GMT",
-      "description": "Earlier meningitis B protection through childhood vaccination shows success Open Access Government",
+      "title": "Efforts To End School Vaccine Mandates Hit a Wall in Florida - KFF Health News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbGlPeGxmcll6TllWUXRDQmsxaTdtd29ESENxQlBUbzhCTkljOGQybGw4bTVMSVFYVTZSbTRzQ3FqZHBxY3hETnV6UTZ4ZHdLUW9MLVdVTW9ELXBrQ3pjMDktaFdsM0pwek1GaXJ4aXlPUFc2cDdwa0tUVEVjVXloZ0dEM1ZGUElLZjFyOGdNWXNROExTRnVab295RFpYQ3VUYXh5em5Gcw?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 09:01:18 GMT",
+      "description": "Efforts To End School Vaccine Mandates Hit a Wall in Florida KFF Health News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -698,10 +742,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Efforts To End School Vaccine Mandates Hit a Wall in Florida - KFF Health News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbGlPeGxmcll6TllWUXRDQmsxaTdtd29ESENxQlBUbzhCTkljOGQybGw4bTVMSVFYVTZSbTRzQ3FqZHBxY3hETnV6UTZ4ZHdLUW9MLVdVTW9ELXBrQ3pjMDktaFdsM0pwek1GaXJ4aXlPUFc2cDdwa0tUVEVjVXloZ0dEM1ZGUElLZjFyOGdNWXNROExTRnVab295RFpYQ3VUYXh5em5Gcw?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 09:01:18 GMT",
-      "description": "Efforts To End School Vaccine Mandates Hit a Wall in Florida KFF Health News",
+      "title": "Vaccination hesitancy driven more by psychology than science, expert says - Science in Poland",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPclpJMktUczctSzlCSzJIZ29jYnhxNWNFVHJ2QnlwVzhLSjQ1Szg5TmdZU3JRSVVYQTQ5MFdBSWFvOGRrUXBSdHIwcVFtTHdQR0xGQUpPekViLW9wZHJxYmVMVl9VT3pIZGtLVGNLcllYb0JGakF2b3VrdE9kNjd4QjM2ZFlQSjU1VmRBSjJQUFBacldVcjNvT1Z2dU12RTlxNThNWmhzcGxkTXRKWnZqM1Fqa0hXWUFuNml4Yg?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 06:00:00 GMT",
+      "description": "Vaccination hesitancy driven more by psychology than science, expert says Science in Poland",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -811,6 +855,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Measles detected in two more counties in Pennsylvania as health department recommends early vaccination - Hanford Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNRC1jbjhMVVBoS0huZWp3M1pIaHhDY19VdjF2eEhuaUlaNmlYakJ0OHV5U0ZMZEZBNE90Y2s2V3Zxeks1ZFRyak9CNE5ucm5ybGlNclp4bXNfVld4a29xcWRWS1cyamwzWTZ4ZFQyemJqV2V5YlVxdy1ZWUJKSzU2ZkQzTENRTERTVjFKa0xlR040amw4RHpETmhnd0xwNi1qS0FsdFlPRV8yenRsVWJjWU82NlJvbE9SSEFIZnBTdUlrRkRWZ0xVajh5Q3owaWVsYW43UW1vaFFoRjBrMm02VC13RVlrYng4M2tycWNWUVgxQ2tJVENzRXZWemkxM1FlbzdCaUpVQk9tZElJUTQ1X3JxVVdDdlJFVXFZaDl0OGrSAaYCQVVfeXFMUGFZcFN4TXlpTXBzVjJaV0hJZEVQWGFUNW1ZeUN3Vm9aOXRpUzJFTDR6UFpNOEFWdzNsZVdRSFBqeUgwNlU5WWhGWjJCXzB0bE16Um43M3ZhamVYS19sRFZOdmt0ZVVCbmtsdHJ3ZEFhcmFZaC1zcGFLcGp6Sy1kOWJRTDVzT3V0R3puUHNBb0RXM25iZUtNZlV6b1o1V3BCc0QzUnI4dlBWZkxrNUhwa2R5SlQtUXRJc2NneDY5ajlwZ0RPa1pCVmd4Wlh1WWNVRExDUmY4ejR1alBLYmd5aW1uLXdlanFjTk1KZkN2Q2JiV25QeDZTTFotQmxGQU4zdHhKZkpDRkpCb21OYzZZb1NVcW5VR0xielU5TGdmYWxueHBGWW5R?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 21:17:00 GMT",
+      "description": "Measles detected in two more counties in Pennsylvania as health department recommends early vaccination Hanford Sentinel",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1023,19 +1080,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "WHO plans Ebola vaccine trials - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcHZUOHEwLUIzY01veWJ4Q1ZSeEpVci1lNmJ3RTZtVjAtLXM3VUpjVWloUjRIeUM3NGdISEZBV0FybHBqMDBBWU5xVVdjOWRidUNBTEN2TXMxVkFSN0d2b19fU2owV1I2SGQ3SENsWTd6Qkd6bWFlSi1tenFFdklRc3ZKQnp3QjZQV19R?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 11:52:15 GMT",
-      "description": "WHO plans Ebola vaccine trials Yahoo",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Latest COVID vaccine may have unexpected health benefit, study suggests - Fox News",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmtkdE1nN21HVUxaT2pxUWYxa1lQUDQxSGlVVU5DYVlmVERhcF9CbjktZVJpOURmLURTeEFRQm5idWR3d1VyLWd3VXMzUEhjY1ZPVTNCX0p2S3RwemZESVNFaFV2SjllbmpGT1l1aW15VEtLYUdoZVZ6TzlFYUIyZ21DcnRUTlF6RXZzdHpvR04zdXFMUll6bjc2Y1FIeVlNZ1HSAacBQVVfeXFMUE1mY2F6YkVYZzJaampROGZwQzBBck83YTJPZ20xSndIVlpZdkwzTmFfY0RaUWlUZlhEZmlFdmJQNjdTZ185Ykp1VHBiYXhXQW90Sl9QQzNJOEJwWlB6cElVRmtmOHpLanJRTjlBZks5TVFIVF9HNzhUUjdhQjRVMGxlLW5tTEdjc04wVFVjOUFfa05wSTk2ekZ3M3BSRFl1TE9jSjd5TkE?oc=5",
       "pubDate": "Thu, 25 Jun 2026 11:00:26 GMT",
@@ -1047,6 +1091,19 @@
       "vaccineLabel": "COVID-19",
       "articleType": "research",
       "articleLabel": "Research"
+    },
+    {
+      "title": "Shingles Vaccine Linked to 24% Lower Dementia Risk in Older Adults - SciTechDaily",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBrQmtTM2Q0TGFiSElpenFtVXRhZ1dhOGZTQ1lJVm5ORHlxRE1EMDVndEhzazVZV3RTTXlyUlNFdlk0blp5cmE2U0Jn?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 10:42:32 GMT",
+      "description": "Shingles Vaccine Linked to 24% Lower Dementia Risk in Older Adults SciTechDaily",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "shingles",
+      "vaccineLabel": "Shingles",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Phages could enable us to hijack vaccine immunity to kill cancer cells - New Scientist",
@@ -1114,10 +1171,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Watch Moderna's Flu Vaccine Moves Closer to FDA Approval - Bloomberg",
+      "title": "Watch Moderna's Flu Vaccine Moves Closer to FDA Approval - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZHRfeHhXTGRnRk84YWticUJxOHQ0RWpRQmpsWi1jZko3NU9SZFdsaC15Nm10cnZKMEFONlNxcHdScExvbnB0Qk5vTTVvb0JxZXhwYmZYQ21DazREcGFGRWswdVVNVkdiM1piZzhEWXdmNk1KeXlodWFtZjlyYzlMUnhBbHQyQWlaR0pVMDZXWFZnQi1PeWx3VkZiS3BsLTVrQzBWUnA3SVpaUDlL?oc=5",
       "pubDate": "Thu, 25 Jun 2026 00:00:00 GMT",
-      "description": "Watch Moderna's Flu Vaccine Moves Closer to FDA Approval Bloomberg",
+      "description": "Watch Moderna's Flu Vaccine Moves Closer to FDA Approval Bloomberg.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1149,19 +1206,6 @@
       "sourceLabel": "News",
       "vaccineKey": "flu",
       "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "For vaccine information, some pediatricians are finding ways to sidestep Trump’s CDC - NPR",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQWdXNzNadFRYSHV3bkl1SHhiY0JyZzhwQkdKcE43YVhteDJGXy1ZLUVEeDdnLUpreVYycmNPUVJBUDlTSmMzSU82M2F5SUlYczBvMlItb09SSHAxMjFBN2dQZGlVT1I3QnRSbDhuVnhaN0dJUmN4WUNCZWVHdjl3aEJHZmZyRW5FV3FYVERwektFR01VOTJjNzJma0lQVU5vNWVlVzJ4UHBoUWdvNG1MUDFoam9QaU5VV0xYbDlMdVQ3Y1FEdEE?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 21:18:30 GMT",
-      "description": "For vaccine information, some pediatricians are finding ways to sidestep Trump’s CDC NPR",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1201,6 +1245,19 @@
       "sourceLabel": "News",
       "vaccineKey": "flu",
       "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Hegseth bucked vaccine policy. How’d that turn out? - Daily Kos",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTXgwSGNUWktuOGExc2dLZk56Zl9iTHFDVmlGSEhkWDRVUlFGZTJteG9DSE9hd0hGZWlmVUlSa1JzU1hWSzdOMmRkZHRqd2t3YUZhMXBoOVJzeUJtZXVFOU04OFN6RWNPUlV0UlB4Q1dldUlRLXhwQzlFS1RubFRfRkFzQ0NOS3RHRnZfNllzSEV3LW5TYmdfZ3QtcXMzYTFSYlJERDhuYnZ1bGM?oc=5",
+      "pubDate": "Wed, 24 Jun 2026 19:30:00 GMT",
+      "description": "Hegseth bucked vaccine policy. How’d that turn out? Daily Kos",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1255,19 +1312,6 @@
       "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "Opinion | RFK Jr. has not abandoned his anti-vaccine agenda - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc3R1Z0lpYTRIWHV3V0xsam1tSlNUUGg0QW1rT0pRamlXSll3UncwcDBmS0JmMDFGME1NMEQtTDVBRTJYXzcwdFlscWgxVjIwSHMxWlh1QUk3Rm9KYzZmaEtTeGh2U1R6Tl9ULV9TY3dKYmY2bTlfS2VqMkd6Z0l1LUROalNfekJ4MDh5R0ZrbGlJblVG?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 04:36:32 GMT",
-      "description": "Opinion | RFK Jr. has not abandoned his anti-vaccine agenda The Washington Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "opinion",
-      "articleLabel": "Opinion"
     },
     {
       "title": "COVID-19 vaccine study that was blocked from CDC journal is published elsewhere - AP News",
