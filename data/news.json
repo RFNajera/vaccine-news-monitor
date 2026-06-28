@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-06-28T05:54:40.276Z",
-  "itemCount": 92,
+  "updatedAt": "2026-06-28T07:42:02.457Z",
+  "itemCount": 89,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 9
+      "count": 8
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 19
+      "count": 18
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 5
+      "count": 6
     },
     {
       "key": "hpv",
@@ -35,7 +35,7 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 52
+      "count": 50
     }
   ],
   "items": [
@@ -261,6 +261,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Officials provide update on state's response to measles outbreak - WGAL",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQU9uZTdPNm5INDdHVDNpRjN2UzRfQy1PN3E0R2xWeUlVV1ZSMnByT2pQeG1mOHRHb3JjaGtRcWNNazdkUkZXd3YyVExLSkpKTVFRZGY3Qm9lb0tTdXVjNXltczVxcEJaSlhIdXFZYUc1ekw1d1ktMVlDT0VEZVJleFBzSjAtVklDWHZxbQ?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 22:52:00 GMT",
+      "description": "Officials provide update on state's response to measles outbreak WGAL",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "US starts vaccine effort for Ebola Bundibugyo as outbreak spreads - Reuters",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSlJTNHZOcTRfTmczVk9FRV9QV0gwc3hSckhIdDFmOXN6SjlNUFVkeDRUYVZlcXZ5STZjNnhMTjZrQURsT1hkaDlNMUJ6eUxWZnUtdlg3X1E0Xy16dlAwSGtDdi1mX0ZqeXBxRDJlaDdLeWVveGduSWtfUGV5N0dvY1BSM25oNXF2RTdPcFZtSVotTUo2WVlMQXB3TnFoYXNHS1VvUm03alNKZXBpTzMyOTBZZnRnMzJtOEpRampQMXdKeVFoRk1VV0s0Vk1vQzA?oc=5",
       "pubDate": "Fri, 26 Jun 2026 22:09:43 GMT",
@@ -335,6 +348,19 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Humane Educational Society to hold vaccine clinic June 27th - WDEF",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQzBac3BTYTFTZXEtUWZNZHAyMl80NjFjUnBRWmdVOW1nYkUxWndtOTZFd3ItYjh1MnU0TXRYY3NOR3R1eHhicmtiUDZUb2xNYjV1UFJyajU0UUFkTURPMGJJdFdNWUd1YXdlam55VDFNdjVKNU9zS3VnMW5mcUFzaU1ISlVyRlBz?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 20:08:55 GMT",
+      "description": "Humane Educational Society to hold vaccine clinic June 27th WDEF",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -508,19 +534,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Sanofi under antitrust probe as European Commission kicks off formal proceedings - Fierce Pharma",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORHZYeWFTUmdFWlA5NnRxcXpIcWtzU3BNYlVDUTdfWkNmTmVIbTkyVmZCVkNVbE5jMWdjaEpXZ3RHSUFlb0hmb3dRNnZueGFQeTB6X0tTenJZTTZrVUIxWlpzckdYNVNWb2s3bHJza2pnczVMaGx6cmtxNm42M1lCcE55bjloUWpEN0Rnamx3TzU3NnNNQXFzUGtB?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 15:20:00 GMT",
-      "description": "Sanofi under antitrust probe as European Commission kicks off formal proceedings Fierce Pharma",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Nearly 300 sick in viral outbreak on Texas military base — as Pentagon reinstates vaccine mandate - New York Post",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObG1SM3YteHdaYzlMV1dQQk9wOXg1LThkRWlYRndwUm8zc09OSzY0blNUb0dVU0NOZFY2Rk5oNm93bzdiSFJuSFdxZTNWSndfY1VoQXdsNkdDR2x3MTdNZm02UmtrUWs2dU9uaGJZLVBUeHNuTXpjdnFGencxRWhiUFQwbFZ0eUItXzBzNFM0Q0NEcHF1TU9yeHB0MURwcURIWkRjVjZzUmdCdVk5bmc?oc=5",
       "pubDate": "Fri, 26 Jun 2026 15:16:00 GMT",
@@ -599,6 +612,19 @@
       "articleLabel": "Research"
     },
     {
+      "title": "Anixa breast cancer vaccine met endpoints; CAR-T survival data - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRFRMRFlCRUl6bWpXeEJzWXI2TkRKczNhV0kwRHRvZklhU3BkVWF6UzZoMnZsVEZ0aUZ3SWdRczRQdS1KejhhS0ZVaW9rOWt3VUFLclBFVkEyZVVXakEwRTM0dU9Mc1oxd1ZLLVY5SFpqUThQTVp3SGliQTllSXZ1bldLLXJBalBtcWNsR3dEZGJOWWhueE9CR2MyeW5nS1JsLU8zVnpqRkhxaXJkWWZmSWx4RTdLbWhBWXRDT0hxSGU?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 13:10:00 GMT",
+      "description": "Anixa breast cancer vaccine met endpoints; CAR-T survival data Stock Titan",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "European antitrust regulators probe Sanofi for allegedly disparaging a rival flu vaccine - statnews.com",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQclBncVVvd2hGWnROSlNyNmQ3endyTTYxSl9GU3ZPRE1MUnZWVFN1NkdxX0pOU0FId28wNXY0NDFiNzc0X2p5WmdmTVAxU0NrRzZ5MFNyakxYdUhVZDdYX2hVR2JsYkNMT0lWZnZJVzJRNXBXVHZmV09yTWNJYmJVa0ktVWRGZlpkeDZNWG5DcFVlX0w1RHhUMnRfV3M1MU1pemZSVTZvUlc1QjlIN1g3Q2QwWktwVkduaDE3eVA0d2hoYjJ2OWNRWEVuTTZtZw?oc=5",
       "pubDate": "Fri, 26 Jun 2026 12:33:09 GMT",
@@ -625,6 +651,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Flu outbreak at Texas Air Force base nears 300 cases amid change to vaccine policy by Hegseth - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYk42dUdmSmczQVZQU0pUb0o3bFc2ejY3Ym4yVElHOV9zUnU5a29jQlZiWmEtOXZxZUktWFJpNnlIUXI3SDh1UU00Vm9IZUUyNm4zdDdjOTBISU5hNnNxZDZhQWJZT1RxYzNaamw2Tk95NUFhbzVGMG94a01iYjF1WkJoQURCVWFpalp1RE9tLURJc2owUUpLNTAyNU83a0VT?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 11:51:00 GMT",
+      "description": "Flu outbreak at Texas Air Force base nears 300 cases amid change to vaccine policy by Hegseth The Independent",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "EU hits France's Sanofi with flu vaccine antitrust probe - Euractiv",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNemJLcm84R09CcF92MDlMVXc2ZFAxQzl3Z3pMUGVRdVU1WEpIdDJVeE4xdXRVV0NRbFlMQmtXNjlHSnNteUxZUXdIYUNSdHNSc1FJd2JmbFZjZGNyMDE1dnpqc1dtV0tUU3lFem9nNDhyY1ByWUN6VlVFTzkybHcydFp0eDFLcndra18tRmowSQ?oc=5",
       "pubDate": "Fri, 26 Jun 2026 11:15:12 GMT",
@@ -636,6 +675,32 @@
       "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
+    },
+    {
+      "title": "Sanofi invited to settle EU antitrust probe into flu vaccine (update*) - MLex",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeV85Mk03TnNyT2dtQ3czM0Y3Q1RRdlI0OFFPajVseHlfRHpKX2tXYi1hSVJKckFWN3NZY3BsVnZtZWFTc2RZejBESV82b042TzhTR1F1WDhyR3h5Y2RiOFM0REE1dE5YWFdHa25kbm1SUUdYNzJQdkEyeFJLTmhPU2ZLYkdtOFpVWWhlc3ZfVTJpVTBUZ1lPOFRJWnl6cHRUQVV0TV90M0UwUDBDd3pGSVdDRXVoRGdDeW9ORFJB0gFaQVVfeXFMT25zLXlZbVhnb181WFRQcnI4bkJmaVRrQ00tOERjT19lY25xcVRjWW5yM3BKdU1rVmlwaG9Db1JwUVlad3dnUXZLejg4Q2s2cVJ3Q0lSN25SYmhB?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 10:58:00 GMT",
+      "description": "Sanofi invited to settle EU antitrust probe into flu vaccine (update*) MLex",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "COVID Vaccine Study Previously Blocked By CDC Is Out — Here's What It Found - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMTM2NWJidzNUOC1GZW1mZkJ6dGw5NC1WS2RvNXV4R3NCV29ueEl4RFB3aVlaakZiYzFfV0NtYV9yR2Y1YjNDaFBITlBrUWpOLVZ2NU1zRmJYdWlYdlIzV2h5Y245QUVwa3ctT09jMEFrOXV6YVQ1S2VmTGV2TTFaVHg5Wm1YZWNmZ2c?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 10:39:39 GMT",
+      "description": "COVID Vaccine Study Previously Blocked By CDC Is Out — Here's What It Found AOL.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "research",
+      "articleLabel": "Research"
     },
     {
       "title": "Sanofi Probed by EU Over Flu Vaccine Marketing - WSJ",
@@ -699,19 +764,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "SARS-CoV-2 Infection May Increase Short-Term Risk for Type 1 Diabetes - Infectious Disease Advisor",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR2QteUFmT0JOU2NaVHk1VlR3d1gySFNTd083RWpRa0dURFlYOVZwTDRWSXVMVERpa3NCRWpVeGVYdjFTSkREbEQ0Q29OMC1qSnVJNGhVb1duNXNISWJoYlRXeUU5WnhlQk9oczN6d1h3MmltYXYxZlNHTkIxcWFuXzZINEJZOWl5Wl9zUGRIbUVHT0pGWndUdWZqbFFxVTJETlZ2OHJDTUJRNzR0QXc?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 04:00:00 GMT",
-      "description": "SARS-CoV-2 Infection May Increase Short-Term Risk for Type 1 Diabetes Infectious Disease Advisor",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -924,71 +976,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Pentagon Restores Flu Vaccine Mandate After Outbreak Sickens Hundreds at Air Force Base - Democracy Now!",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN0FmdGZERy1iT3p2RnZ3S0FfSHpSbmF0Uk1ZZWJBMHA1N2I1QUF2T0tHZW03STRPWFl0YjA2c0lNcFVBbWVjSlRXcGp0dlNJd29UOXYzdHFvMWRUbGtJc3ozRFZRcGU4aW1ybTBVZXpPdVozbGxnTW81MTMwY0d4RGEzQnZxMzZzSS1ZM3dzUDFjRHVFalF6NUVzckxKOUI0NEljSTk2dkVSRzZza0pudzBZRUdaUTlMd0ZzWklqeTB2Qlk5bUZxTVRoeXpSZGJVSFE?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 14:41:42 GMT",
-      "description": "Pentagon Restores Flu Vaccine Mandate After Outbreak Sickens Hundreds at Air Force Base Democracy Now!",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Nashik Teen Dies Minutes After Tetanus Shot, Family Blames Vaccine - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSmg3UlZyVk9sSm1OallnaHhmemJYX05pZUdZWFhrMjR0bklTRTdIT3cyMW4xdmtvZF9ZVm1ZN3ZxbmpBbEVDMzZ0WVJxUVF0MUFRc0cyNlFiWWRGZk9vM3J3UEFPaWVDM0JWUXRTSjNaZ3pDUHowdGJMdnJUVUNnVlF5U2E2eUNteTd0ZWhhU3BIVXl6ajNLM2t6dHQya1VKeWVVbGtrM25lZ9IBsgFBVV95cUxNd1FUQ2h3S003R01oMUJxMEJad3pMMnF0OVBuS2prcE9vdGJoQ2dvdFdSVE5PR0s2LV9XSFBzdm50WnNPMjZORE9JdDVZaG85cDFpOF9pc2xtMG5iaGZzSWwwa2xJdXpYM1lnbFdqTHNKU1JvSFRKeGlwd1lIVFJFMFlvazFqdFpHV0hvN0ZHS25KQzJRT19HNjVRY2t0b3lDTk40WU5WR1NlTGsyd1lRb05n?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 14:39:16 GMT",
-      "description": "Nashik Teen Dies Minutes After Tetanus Shot, Family Blames Vaccine NDTV",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Buffalo-based company gets $9.7M to continue vaccine development - The Business Journals",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRW5uZnNhYjE0SVk2UlhsREUtTkt2N2o0akVmTE1pMU1uZWl5MWxkOXdtaHIzRVJLSFA3Sm1ndWIyZ05XZTdDTDNqUzdHTkZ5UnpjLVdjYkFhSndkRDlDMklhRVBtbThfRU44UHV6eV9SSHo1WDlESmRtaml5Z3hfYzNEZjRDWWRwc2Rla3ljTzBtVE9DWjdhS3pSeXBsVXN3d0E?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 14:12:00 GMT",
-      "description": "Buffalo-based company gets $9.7M to continue vaccine development The Business Journals",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Stanford Medicine team awarded $18 million to develop a universal vaccine - Stanford Medicine",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOVZoV29FTllJanZfVV9ZY0VJanNmcUR1MVo3M2tRZHlucVZFbVVyV2JVa0dNVWw2Ty1IaGhLM1lVNFQ5dDhoWnNJRXFoSTk4LS1QNVRTUUR2cy14NHI2UnJDdmwtdGsxQ1MtSkNxTjBXd0o2M0ZCNm8tMlVBamxmVg?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 13:30:31 GMT",
-      "description": "Stanford Medicine team awarded $18 million to develop a universal vaccine Stanford Medicine",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "US military reinstates some flu vaccine requirements after Texas outbreak - Baltimore Sun",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORHkzWUZGZlJYNE1LVGxHZjlNTjBudGg1RVNieHVONGpCVFNwRmtfV3ZvemdWc09IaFRDYXR2VXF3QlpZa3JkQ29pM2pmd25qZnpmdHk1a2NPeW93Q2JEUHZ1UWUwb1Y4NHlkMkw5TDVxT2xtcktlenVFZk1MYmtqcVB0US1DLWIxejd0Z3B6NlJudUt5M2I1RGFRT19UN1dRWnhfSVhTWTcwOXFhOG5aZXVLdTE?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 12:41:46 GMT",
-      "description": "US military reinstates some flu vaccine requirements after Texas outbreak Baltimore Sun",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Latest COVID vaccine may have unexpected health benefit, study suggests - Fox News",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmtkdE1nN21HVUxaT2pxUWYxa1lQUDQxSGlVVU5DYVlmVERhcF9CbjktZVJpOURmLURTeEFRQm5idWR3d1VyLWd3VXMzUEhjY1ZPVTNCX0p2S3RwemZESVNFaFV2SjllbmpGT1l1aW15VEtLYUdoZVZ6TzlFYUIyZ21DcnRUTlF6RXZzdHpvR04zdXFMUll6bjc2Y1FIeVlNZ1HSAacBQVVfeXFMUE1mY2F6YkVYZzJaampROGZwQzBBck83YTJPZ20xSndIVlpZdkwzTmFfY0RaUWlUZlhEZmlFdmJQNjdTZ185Ykp1VHBiYXhXQW90Sl9QQzNJOEJwWlB6cElVRmtmOHpLanJRTjlBZks5TVFIVF9HNzhUUjdhQjRVMGxlLW5tTEdjc04wVFVjOUFfa05wSTk2ekZ3M3BSRFl1TE9jSjd5TkE?oc=5",
       "pubDate": "Thu, 25 Jun 2026 11:00:26 GMT",
@@ -1119,19 +1106,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "COVID Vaccine Efficacy Study, Initially Blocked from CDC Journal, Published Elsewhere - People.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSHdMeTFhTmw2LVI0bzM2TE1BcUN0clpMTUpZSlhUa2tGTEQ2cHN2QzRJd0tFdzdJdGpJcWlDX25QeE1ORjFBNTNvSUdkVzVPb185c2tFRUs0V2JTRTBCd0F4cUN5dVRpWWFEbXpKRDhoYklpaWtmcm1uNFkxN01FR0FfdG9sY2VlcU05ZzFKT2U1MVZaUnRFNWRGTEI1RFJHdndjS0tDbEYwbGxmQnFibA?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 20:24:27 GMT",
-      "description": "COVID Vaccine Efficacy Study, Initially Blocked from CDC Journal, Published Elsewhere People.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "UNICEF, Gavi call to speed Bundibugyo Ebola vaccine access - Reuters",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOGE1ZF8tNUhSTGRQZHdhUHk3czhPUmY3dzVsLTRmRnI0akdab3lfRmtYdldGc1dnWXIzQ0FfbGw0ZkxzTHpleFNDZVdaZ01mcDNsZG53ZnotcUw4QmZTaXV6UWNhOS1qVmtBU1FKZi1VN185WXJRZExCVXRjODd5cXV4QlAwNXVKYjJzVnpUOXFsZi0tc1BTaTVJbDdubGRlV24wRkYydHRieFhUazhpbldwamtpSTA5TVlQYzhxenJBTkJQQ3BBV3JBMlJqQQ?oc=5",
       "pubDate": "Wed, 24 Jun 2026 20:15:32 GMT",
@@ -1154,6 +1128,19 @@
       "sourceLabel": "News",
       "vaccineKey": "flu",
       "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Hegseth bucked vaccine policy. How’d that turn out? - Daily Kos",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTXgwSGNUWktuOGExc2dLZk56Zl9iTHFDVmlGSEhkWDRVUlFGZTJteG9DSE9hd0hGZWlmVUlSa1JzU1hWSzdOMmRkZHRqd2t3YUZhMXBoOVJzeUJtZXVFOU04OFN6RWNPUlV0UlB4Q1dldUlRLXhwQzlFS1RubFRfRkFzQ0NOS3RHRnZfNllzSEV3LW5TYmdfZ3QtcXMzYTFSYlJERDhuYnZ1bGM?oc=5",
+      "pubDate": "Wed, 24 Jun 2026 19:30:00 GMT",
+      "description": "Hegseth bucked vaccine policy. How’d that turn out? Daily Kos",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1184,19 +1171,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Vaccine Integrity Project, The Evidence Collective announce projects to improve vaccine policy, restore trust - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc3NLNzVxODMxRFU0dXJKWGtpN1VhTE5udXVIS1piMGlkc2h6V0tfWENEdXlRaDdIVHl6M3NYaXpLZk9oaDdDRHk4WXl5MWZHOWdaMzRYTjRtdlQycWtzZE96Rm9PUFJPZFVzWWltY2tQeXlJWm1hVk5FWDgwUDdWU0E5SWtFUHVkWXFkdGNseXkwNjBkLU0wRnE5eFEycGZNY09sZ0R2dmhNZ0FXT2V0WkFza1dzWUI1WC0yQXlmUDhNQQ?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 15:05:53 GMT",
-      "description": "Vaccine Integrity Project, The Evidence Collective announce projects to improve vaccine policy, restore trust CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Hegseth’s Air Force quietly brings back flu vaccine rule for recruits after more than 200 fall sick at base - The Independent",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ0pkejdiRy05YkRYMUJfd0o0ZFJFYWRTT2dTeHRGWlpWaG02WEJBMWgtYW5Jc1ZzNEcwUjRpUmo0RWk4UVlGN1UtX09nNTVKM3h3bjRUNTZMVk54VGhFMnRvRVdDZG9uSUpBXzdjaFpkQ1AtZDFqckE0LUlLeWZWWW9PZzdfdEQ1SUdYOGszcm5SVG5wc01ORzdEMWY0M3Zka2JZQW9WcmgtcHlNNXhWclQ4Z2VmUQ?oc=5",
       "pubDate": "Wed, 24 Jun 2026 14:37:00 GMT",
@@ -1208,19 +1182,6 @@
       "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "Opinion | RFK Jr. has not abandoned his anti-vaccine agenda - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc3R1Z0lpYTRIWHV3V0xsam1tSlNUUGg0QW1rT0pRamlXSll3UncwcDBmS0JmMDFGME1NMEQtTDVBRTJYXzcwdFlscWgxVjIwSHMxWlh1QUk3Rm9KYzZmaEtTeGh2U1R6Tl9ULV9TY3dKYmY2bTlfS2VqMkd6Z0l1LUROalNfekJ4MDh5R0ZrbGlJblVG?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 04:36:32 GMT",
-      "description": "Opinion | RFK Jr. has not abandoned his anti-vaccine agenda The Washington Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "opinion",
-      "articleLabel": "Opinion"
     },
     {
       "title": "COVID-19 vaccine study that was blocked from CDC journal is published elsewhere - AP News",
