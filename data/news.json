@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-06-28T12:55:03.609Z",
-  "itemCount": 54,
+  "updatedAt": "2026-06-28T14:07:42.861Z",
+  "itemCount": 55,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 5
+      "count": 6
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 11
+      "count": 9
     },
     {
       "key": "measles_mmr",
@@ -35,20 +35,33 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 27
+      "count": 29
     }
   ],
   "items": [
     {
       "title": "Lingering distrust, low vaccine rates threaten containment of Lancaster measles outbreak - Pittsburgh Post-Gazette",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVVBzSTNMamNuX05nd3l6U09zQ2pudjZGcnE5MWppYjVld2x3MzdMVEUyR21iSmY0b05vaWlNSC1pelBJTlB2TjZpUFhpRWV3dTZaQzRPOEtwWlYxcXF4M1dwQ2ZNWjBBWFNXWFhDVWRQNGxhMlVxYjEzSGpiV09ucDBXZVlPSFg1Wm5QWEhXWFNEUV9QenZxWUtiTmJBZWRRNE5TX0RHcnB3VjE3cTNZSUxiT1RQSng4S0xmNkRmakJTeGphQ2hfcg?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 12:30:12 GMT",
+      "pubDate": "Sun, 28 Jun 2026 14:00:29 GMT",
       "description": "Lingering distrust, low vaccine rates threaten containment of Lancaster measles outbreak Pittsburgh Post-Gazette",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "UNICEF Stresses Vaccine Quality to Protect Children in Afghanistan - 8am.media",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbHRmdHRXem5xV2taRmZOdm9UWUM3OW0xb0hBcEZlNmlDUHBXYll5OS1TSWhoNmpYOWFtT2NQdnBlajRWLUtQWndzVHpDSjFMSGhEMzZSTTVib0hXbXQtQ01NWlZPUV9qbzRBWHFmb2ExMXUwQm9zckVUWkdteWNLNUZTMXNQQUQybnpQYUpmVVAweVk?oc=5",
+      "pubDate": "Sun, 28 Jun 2026 12:45:18 GMT",
+      "description": "UNICEF Stresses Vaccine Quality to Protect Children in Afghanistan 8am.media",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -547,32 +560,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Sanofi Suspected by EU of Disparaging a Flu Vaccine Rival - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNUpiVkxxZlJXWXRWb1ZRX0FkV1dGeFNqQXFmenFGeUhuUXpQXzh4ZzVkcDNaVlJJelAwYlFoNnBPeG8wbnVvc3VtQXYyQnRpZ2RGdXFWMVBaRlgxbng1M1hTb1ZjVXFQYnBuZkNPZlViUDdfak03dzdkNjlURnV5QzZ4UzZWaFRGLXB4T0M4X040UF91eXQwVjlUbXkzc2Y4RFJyQ0hHRmlqLTR1?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 10:23:40 GMT",
-      "description": "Sanofi Suspected by EU of Disparaging a Flu Vaccine Rival Bloomberg.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Sanofi investigated by EU over alleged flu vaccine disparagement (SNY:NASDAQ) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdlBIMmc2UjVmWXNRWXdKbzdVWEJCY1NWa2RuOURUX3hNaUw0Qm14NzEwRTBrS0tSdzhpemc5WXVOU1c1RHZfUUtncXNSdUpiZ1ZTcHVmTkpuNG9ZWWJqUXozb0R2aEE0MkNlT1ZhZV9SbXg4YTJMMm9WU1ZPTmNENGZvWnJDTjFnU1pqNkpkVFkzZnNkRUJNcXU2cFpmMDdNai1rRw?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 10:10:43 GMT",
-      "description": "Sanofi investigated by EU over alleged flu vaccine disparagement (SNY:NASDAQ) Seeking Alpha",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Efforts To End School Vaccine Mandates Hit a Wall in Florida - KFF Health News",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbGlPeGxmcll6TllWUXRDQmsxaTdtd29ESENxQlBUbzhCTkljOGQybGw4bTVMSVFYVTZSbTRzQ3FqZHBxY3hETnV6UTZ4ZHdLUW9MLVdVTW9ELXBrQ3pjMDktaFdsM0pwek1GaXJ4aXlPUFc2cDdwa0tUVEVjVXloZ0dEM1ZGUElLZjFyOGdNWXNROExTRnVab295RFpYQ3VUYXh5em5Gcw?oc=5",
       "pubDate": "Fri, 26 Jun 2026 09:01:18 GMT",
@@ -690,6 +677,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "What to know about COVID-19 study that was finally published after being blocked by CDC - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQjNESUEwaHhVUjV1LVMwdlZQcFhaS3dwX3FBcDVkRnhkNzE5NkY2WHlxLUoyWFdtU2N5ZEIyQ1NfQTRNTzFfcEFBTVlWZDdNelU2M0NwUnduVUhnZEdfVkdHVHZTSWROSy1sMjhLME9HWHNCMFdPTlEyTUVteHdvV0szTWVrek41RUlSWXN0MFhOVzJTRjBtM0hObTPSAaIBQVVfeXFMUFIyMHFrdGFHN1pGUEFyNVd2ejV2Y2JJbFdEemJQNGJwVlViMkRzRXZ0T1dzRmFhd1kwZHd2T3BLMWJja2pZUFBvNWF4c19TanZMczlERmdEbXllUkprUXRxZGlQTGZacVpLOGtvVGltUEplZG5KYUxLSFNQeF9FazhFaGRmV3BaanhsSjBxYkkzc1B6RGM3OFR2RlZVMkt2WTBn?oc=5",
+      "pubDate": "Wed, 24 Jun 2026 21:48:45 GMT",
+      "description": "What to know about COVID-19 study that was finally published after being blocked by CDC ABC News - Breaking News, Latest News and Videos",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
       "title": "In shift, Pentagon grants flu vaccine exceptions to military services, some federal agencies - Military Times",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWjVCdDVJMkY2b3UyOHh0dFB4VVYybzRSZEgxblZlZWVuVEdxRlBBVTdwZ0w2S3RfaVhleEFKTE9OZllMUVVIYTY0UjE0bjdobk9zU09uMFpUVTBSUDZYeG10cUUtQkVlNmwyRHBNd1NGdWR4N010ZFhZTkJfMnhiVUNkR293MVNPYzdqaDNJZk0wTF9wZ09pYnFESm5waWJES1FrNDRDMzlCcUdqLTlTUVA1TURsbFJzdlNYRVZpaU9MX2tPcUtwTjNYR2VaOU4xSzZCRjBZTXZwM0MwMEZYakNjbzJWMXJIWlFr?oc=5",
       "pubDate": "Wed, 24 Jun 2026 21:25:54 GMT",
@@ -727,6 +727,19 @@
       "vaccineLabel": "COVID-19",
       "articleType": "research",
       "articleLabel": "Research"
+    },
+    {
+      "title": "Vaccine Integrity Project, The Evidence Collective announce projects to improve vaccine policy, restore trust - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc3NLNzVxODMxRFU0dXJKWGtpN1VhTE5udXVIS1piMGlkc2h6V0tfWENEdXlRaDdIVHl6M3NYaXpLZk9oaDdDRHk4WXl5MWZHOWdaMzRYTjRtdlQycWtzZE96Rm9PUFJPZFVzWWltY2tQeXlJWm1hVk5FWDgwUDdWU0E5SWtFUHVkWXFkdGNseXkwNjBkLU0wRnE5eFEycGZNY09sZ0R2dmhNZ0FXT2V0WkFza1dzWUI1WC0yQXlmUDhNQQ?oc=5",
+      "pubDate": "Wed, 24 Jun 2026 15:05:53 GMT",
+      "description": "Vaccine Integrity Project, The Evidence Collective announce projects to improve vaccine policy, restore trust CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "COVID-19 vaccine study that was blocked from CDC journal is published elsewhere - AP News",
