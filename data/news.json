@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-06-29T06:04:35.770Z",
-  "itemCount": 61,
+  "updatedAt": "2026-06-29T08:11:15.721Z",
+  "itemCount": 58,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 4
+      "count": 3
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 7
+      "count": 8
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 8
+      "count": 7
     },
     {
       "key": "hpv",
       "label": "HPV",
-      "count": 3
+      "count": 2
     },
     {
-      "key": "hepatitis",
-      "label": "Hepatitis",
+      "key": "pertussis",
+      "label": "Whooping cough / Tdap",
       "count": 1
     },
     {
       "key": "shingles",
       "label": "Shingles",
-      "count": 3
+      "count": 2
     },
     {
       "key": "general",
@@ -39,6 +39,84 @@
     }
   ],
   "items": [
+    {
+      "title": "Lingering distrust, low vaccine rates threaten containment of Lancaster measles outbreak - Pittsburgh Post-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVVBzSTNMamNuX05nd3l6U09zQ2pudjZGcnE5MWppYjVld2x3MzdMVEUyR21iSmY0b05vaWlNSC1pelBJTlB2TjZpUFhpRWV3dTZaQzRPOEtwWlYxcXF4M1dwQ2ZNWjBBWFNXWFhDVWRQNGxhMlVxYjEzSGpiV09ucDBXZVlPSFg1Wm5QWEhXWFNEUV9QenZxWUtiTmJBZWRRNE5TX0RHcnB3VjE3cTNZSUxiT1RQSng4S0xmNkRmakJTeGphQ2hfcg?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 08:05:39 GMT",
+      "description": "Lingering distrust, low vaccine rates threaten containment of Lancaster measles outbreak Pittsburgh Post-Gazette",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Previous Norovirus Exposure May Shape Vaccine Responses - EMJ",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRzZmZXpXa245YkUtRlZKZ2Jvd0daN2ZybUZpWjl5N0w0Z3ZwaEpLZm1lcmE0a0hkNzV2Zm9Ea0pDSUlUakdoS19pV1VzWG1JS3ItaWN5dWZLdFRMOXJKWEFST0ZQNjdjdnMtcUxzY0swbmNkWm5Ic0g3cVZmMkNORjU1bUkySFI1dXRMbU5NTlBvSWNyZ3JDdlg0QllVQVRLaEZ0TldUMl9XMi1VWWhyQWNnNVAwcVFTVEJjeExR?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 08:04:27 GMT",
+      "description": "Previous Norovirus Exposure May Shape Vaccine Responses EMJ",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "RFK Jr. Broke Vaccine Promises, Built Public Health On 'Lies,' GOP Senator Who Helped Confirm Him Says - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQN01mRzJkOGIyM2tPUVlHSmZPWUM2SC1XQWtSSmxKUG5uWS1Vc29uX2JuejYxOGtiZ3ZkQ1gyaEdHa3ZTdTRjN1Q2Tl81TWdCRlRjTDdGblg4YzNUcm1kaldrS1ZuTXZHaXNYamdxc09YNVhheE9MWXU5ZHN0bXJ0dnVhTjZkY0Y4ZmZkZWwtSV9IMTNHbXlGbU81SkFaNWotdjFRdmFuY090d0s1djc2YWo2RVIzZmJvYlFCQUM1ZU0yUFVqRUtQbFZaTjVEbUdKZmY4RXB2clhLczNFZm1TcjRPLXhUVHhYdFE?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 07:55:50 GMT",
+      "description": "RFK Jr. Broke Vaccine Promises, Built Public Health On 'Lies,' GOP Senator Who Helped Confirm Him Says Benzinga",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Commission opens investigation into possible anticompetitive conduct by Sanofi regarding the promotion of a flu vaccine for vulnerable patients - The European Sting",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQLXFiQnlPUVdlajRZRms5VXV6bUVPaFptU1k5SXNndHhGbGpFX0lSX2JVcE9oTC1HbHFhcURTS3phYkZReGtWdGh2RVR0ckRvSk0xTDNyamtEejBBUktGMEY1WjM4cTVWRS01MVNILXdIbzNCWTRaaDREZFpUejZhaWNQakpmMHlCbUtaMFIzcTRhemdEZU9DMWY5dmt4TVItZVpNcC1SVW95ak8wd2h1R3FaN29DNmxnZGpPUEUtRnpSUVZmbkdtU0FMNHE5ZkdldVRCSFBQa2E1RndoQUFfc3RncFgxc213dk5OY1B5azd4cjFsTmV3REpHOU1JNXU3RmdvMV9CdmdrRXAzSEl1LQ?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 07:46:24 GMT",
+      "description": "Commission opens investigation into possible anticompetitive conduct by Sanofi regarding the promotion of a flu vaccine for vulnerable patients The European Sting",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "NUS Develops Oral Vaccine to Shield Fish from Virus - Mirage News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcHNzdnhwQTFlNUNJYWVnVkVhMklfQ0VuUmpObDdQVVYxV0M1MW1nNWFxY2xTQ0xOZWVpVUpkYzYxQlQ3eEhyOTRHZG5hcGdKUVNhbDBETlU0YkIwaWduTVdvQzZteksyNEVfSWN6QmF3WktkSXdLNllaYzdjcDgwWTY5QWNLWFU3?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 06:34:00 GMT",
+      "description": "NUS Develops Oral Vaccine to Shield Fish from Virus Mirage News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "NUS breakthrough for aquaculture: Oral vaccine protects fish from fatal nervous necrosis virus - NUS - National University of Singapore",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ3lkRjZFYWhSWFhUTy1vMmNaYlFwTHN0WlkwN1FaQTFkZnBtZE5MRExSTlJ4NXduRnk2UmI5SGZ2M1VvbG1JeDRWVlhOSTcwVEt2bktTN1BvZ1AzdEtBa19faDc1SVpkd1Z2WUV2N25xTHV1SEpwMkxaek5GaDB3Nm9GeVJ3NTg?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 06:31:52 GMT",
+      "description": "NUS breakthrough for aquaculture: Oral vaccine protects fish from fatal nervous necrosis virus NUS - National University of Singapore",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Bavarian Nordic Receives Health Canada Approval for Chikungunya Vaccine - The Manila Times",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPY1FEck1ra2kyNVU0ZXhIODdPMzZzbXJwX0U2M1hDUEdVcmo3dDhXd1FvNUhiT3RiZHE1SlNtLWVpUTdzM3ZUU0lsWlRHTFh3d3I2MnVaR01vNGNiSXNVR0x3LWVtZldKSHVWTDdNcW5ka0NTLThBakxGQlowaFJoUWlyVndBaUJoNWp3TVdwUjFTdUszUXZEbGhLZDVvRjd0TFdWcEEzWExjZk04dTNhbmRLOUx3VnIwN1R2NGxQQ1FZUVU5RS1LOGEtYk9BZHNUM0V4MVRBVEZUVU5sT3fSAeMBQVVfeXFMTkV5V3Rma3dqNnlwemxaYXk1RXZZV1JLZFNGRnhlTWR6NWxoYUU5c09VckpJd2VGR2dnc2dUcjRJdjJaSWtsRnNkdjdGdG9GdE1QQkFwNUlxQmtib0ZFZlBDSHRqVVh1ZU1WYWE3bDMwNU1ya1U1Sm51VzlJY2JYY21xYkVheFdrSGpzZ3VzUnVGUGt5Z3pUVkpaN0JReDRwMHpFWVRjYnc4WVktOGpRSUd0UkRONHJRNXR6WTdLR0Z6cnl2RTlBTmExekoyWFRSS2Jqbkl1a1FrVG5ZelZFUjNpanc?oc=5",
@@ -49,6 +127,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Sanofi's Tdap vaccine Adacel approved for use during pregnancy to protect newborns against pertussis - koreabiomed.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pa1otcHpWZHRtdG9GSGNBLWRHWC1rbThPZHVuVHNZSzY1R0pxMFo4cjVnOTdaRGlkTjdOSDctN1Vsck9EaGk3VzdjalptajhvLUlnRGxPMjZHWjY0djFNeThvbkhtekx6bU5XT2N3?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 05:37:26 GMT",
+      "description": "Sanofi's Tdap vaccine Adacel approved for use during pregnancy to protect newborns against pertussis koreabiomed.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "pertussis",
+      "vaccineLabel": "Whooping cough / Tdap",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -66,15 +157,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "Lingering distrust, low vaccine rates threaten containment of Lancaster measles outbreak - Pittsburgh Post-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVVBzSTNMamNuX05nd3l6U09zQ2pudjZGcnE5MWppYjVld2x3MzdMVEUyR21iSmY0b05vaWlNSC1pelBJTlB2TjZpUFhpRWV3dTZaQzRPOEtwWlYxcXF4M1dwQ2ZNWjBBWFNXWFhDVWRQNGxhMlVxYjEzSGpiV09ucDBXZVlPSFg1Wm5QWEhXWFNEUV9QenZxWUtiTmJBZWRRNE5TX0RHcnB3VjE3cTNZSUxiT1RQSng4S0xmNkRmakJTeGphQ2hfcg?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 05:03:15 GMT",
-      "description": "Lingering distrust, low vaccine rates threaten containment of Lancaster measles outbreak Pittsburgh Post-Gazette",
+      "title": "USDA recommends influenza vaccine for adults over 50; path forward is uncertain - Northern Kentucky Tribune",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWGdTcENNZzJCSndaa3lhV1o4WUxCZVlvQ2VPY3E0YjgzY0FGWUxKV1pBMlhRcnBlbzYxMVhZcTNkVThIWHlmcUhwY2NvRFRXdUhJNUcxTlFwYmhiR2s1eXd2cGExWGdlemwxUHRyQ05IdnZzUU0zc1NROUhSdmw1OGlPbWZOT3hWQTlwcUVoNUVaYUFoZy1INHBOQTNFNXNkU1ZsQ1BjLTBxTXdvZ21n?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 04:38:50 GMT",
+      "description": "USDA recommends influenza vaccine for adults over 50; path forward is uncertain Northern Kentucky Tribune",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -88,19 +179,6 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Canada lost its measles-free status. Our children deserve better - Healthy Debate",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMFc4bGxWbS1ZeWlhZldXZmtrY0NWWWw5bVlCYjdGbFRUcHdua01PODFENklRSlF1MDlWM1hWSjNVQkhVMlNmaVFiUjB4dEFIZHA3bXZHemIyYXdkQXVGX18xb2tRWEhTblU0dVRPS1JUelgtZVhNLVJyUV9LOEhhdjlMS2lDN05JYkRzRTZyTVdFeVhwaTZoUXZVMmVoLVN1YjV4Yy1B?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 03:25:26 GMT",
-      "description": "Canada lost its measles-free status. Our children deserve better Healthy Debate",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -287,19 +365,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Shingles Vaccine May Provide Significant Protection From Dementia - Newsradio 95 WXTK",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVDBTZ1gtcW1iVnhZcDFZV3ljZF9OT1Q3Sk9WR3JUTjl3cDhBdGNleHV0R0tqQ1FKa3VhZHNUdXo5dUEzNXBEcEhVSkNYVDNfUkkxZFVzajdYbXpEaDVvVWl2QmNocVNTZG91bHRUUlU3UlZrRTF1ZjNMN2dROUxTZXlDeFNlbEtLUFhHMmNCZUx2eWFlSUIyUXFqLUN4Qm1zMGIwa2tKeWJtUV9BSFFNbEwwNlo4aWRuV0FfMHBfbmxFaWRiZTk5TGpPUQ?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 08:00:00 GMT",
-      "description": "Shingles Vaccine May Provide Significant Protection From Dementia Newsradio 95 WXTK",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "shingles",
-      "vaccineLabel": "Shingles",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Measles, whooping cough spike amid low vaccination rates - Jacksonville Journal-Courier",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMHVTaFc4MlpaNTJDOFFVOGNzWERzYzdHWWo3YWpIa05fd2wwT1RqY21GQ1NZWDBBSnpiVjQ5eHlrbHlvdVp5aXNUVy13WngtOXdiWllta0R2Unc0Sl9BWTl3WmJOLVM3bGd5Y2RFZ2U4c3lnN0lrcXlIdC00NURJNkx4emlraFNYNHVnVlExZFZ4WERxU21fQ091ZDlIXzM1UFE?oc=5",
       "pubDate": "Sun, 28 Jun 2026 05:39:10 GMT",
@@ -350,32 +415,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "U.S. may have lost a ‘crown jewel’ of public health, experts say - San Francisco Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd0xWRURqbi1lanRUamF5bDEzYk0yYXhPWUZjVkRtbVB5RUd0S1dKZHRzSkdFRGtYaHF1ZkdqN3c5aGdLZ3BxbHQ5RDhQM2hyRzAxY001WnFodHRHRVhZRFY5NEdYcktjT0prSk43empsbTJJMFdtVEFjUGY0V2ViYUp3OWhhc1docXFzeXpNaTN4QQ?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 11:00:54 GMT",
-      "description": "U.S. may have lost a ‘crown jewel’ of public health, experts say San Francisco Chronicle",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hepatitis",
-      "vaccineLabel": "Hepatitis",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Hannibal to host rabies vaccination clinic July 8 - Oswego County News Now",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTDMwbnNFc0dRdFV0eDlVbWl1bVJLaG1WVDNDc0E4dnRlWGRhb3QwME1LeUV6TjRIQjREWFRCb2kyaEZUcGhZRmZ0alNpcnNxX0lZVW9xbW11LTFKb0NXM09HOEZtdV9vbVJwNFBLb1VWaVpJMEVyQkIzWnFpOTBOckJhWms0MTluaktYclF3U05DVlZ4SThxbFhldDE1RmtIVm01cnBWaktTSUhhV0g4Zi1KX3RJRmxlenBXM3d6VnFCZVV1S2k4N0JodlJrMTZUUWpHd3JrRQ?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 11:00:00 GMT",
-      "description": "Hannibal to host rabies vaccination clinic July 8 Oswego County News Now",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "If a Lyme disease vaccine gets approved, how would it go over? We asked hunters - NPR",
@@ -534,19 +573,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "US Starts Vaccine Effort for Ebola Bundibugyo as Outbreak Spreads - U.S. News & World Report",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ2EyMHRQakVEUWo4OUNSMFR5Z21KR29MSnVaQllKWEs1MGxDX19zWjF0a0NLXzFXaTNFakZSSHp5cG1LU1JDSjNWSDhCQm03YzRjMnREcE5mVTItcWxydUtxSDc3U1lGM25ib0tXY1NfVE55RHBLRkhVSmZMVnJHZkVzUnY3bGdlQzVEXzUzT2w0YUNwVDFYNXdTRGtxWkFSbUJGUC10X0FZNVppQXMycVBtQldLQUZ6TUd6XzVDaEpnb25sQTRLVHlibmg?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 20:32:06 GMT",
-      "description": "US Starts Vaccine Effort for Ebola Bundibugyo as Outbreak Spreads U.S. News & World Report",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "As measles outbreak continues, state officials push for vaccination - Lebanon Daily News",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ08wQng2WHU4b0x4cW9HbWhJNmhoTHMxa1pucDg4d2JJek5IdlhSMmhGNlRTUDlMWjJVTDlvVDBtVk95aGEzcDhRb2had2FXbHZ1UEMzcUYxM0QtRFhOYVFZM0pMRzZlV3ZoT1drdDU0YmpsTXRQbW1oYVFuR0NZbUs0R0xaQWRaOFdSNlFkdUZhb3BOZEdSN0w3Z3hZd2MwMlNFODJVa0RGV243RHFNLXJxMEROT1NsaWJpdFUyV3pGbkw3OVlYbkRJRDNnQQ?oc=5",
       "pubDate": "Fri, 26 Jun 2026 19:31:00 GMT",
@@ -571,6 +597,19 @@
       "vaccineLabel": "COVID-19",
       "articleType": "research",
       "articleLabel": "Research"
+    },
+    {
+      "title": "US Starts Vaccine Effort for Ebola Bundibugyo as Outbreak Spreads - GV Wire",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaFpBaVRUYTBjNE0wSmRNU0NBVVU4MWlPWVRyblFRTzI1aC1yUDZrSTYyM3RWSmNKWFdZMGJBcVJJVWVqZGJhTEtiY2dLdW9OekU4NGlaNERLVS1aR1NnVVRSRHhxVmlsMF9LXzhGcVRRcDh5QW5nbXVRRFdIeWVmUmRGTTdQUFNIUWx5bWdHb2x5ck1wdWU5ZEJoZnQ?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 19:08:55 GMT",
+      "description": "US Starts Vaccine Effort for Ebola Bundibugyo as Outbreak Spreads GV Wire",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Deaths from this cancer can now be virtually eliminated - National Geographic",
@@ -599,58 +638,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Renjith Vijayakumar Selvarani: The HPV Vaccine has Brought Cervical Cancer Deaths to Zero - Oncodaily",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QWFlfT2luTUVXa29lcGJ3dUlUd1NqdEE5VGFaTWphV1VtMzJONmhQdnRfQTdkbFhIWXY4VllqNHJ6SmYtNTdxVW5icDVQY1M3RUJsdnQ1dndFN2xkN0ZHMHJ3T3dGeVdjanVaZDlVZFFHaGJ1d0E?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 17:05:06 GMT",
-      "description": "Renjith Vijayakumar Selvarani: The HPV Vaccine has Brought Cervical Cancer Deaths to Zero Oncodaily",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hpv",
-      "vaccineLabel": "HPV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Moderna Is Up 14% Today: Is It Outperforming Other Vaccine Stocks Like Merck and Pfizer? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQXRaMHdNQkdmS3dYNkdqUS1YZGZNVkxJSXlCWVUyMWV5MThWMWFRZVlwQWliazdxQ2lxcnc2Z1Bhc2xGdXFYVTJwQjdUZVdVaWRqdU0zMnEybzBNX0FBWHNlWUtlY2ttSV9HNjNpcVYzS1pnZmFhQ093S29tVzc2eEVSenk3YWZRdVYtLUtYRGdtNjJvVFd2cGEtZ2RFWVhmemxr?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 16:01:13 GMT",
-      "description": "Moderna Is Up 14% Today: Is It Outperforming Other Vaccine Stocks Like Merck and Pfizer? Yahoo Finance",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Anti-vaxxers are coupling up on apps for ‘Unjected’ singles - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLXA1OE4xR3FfRzg4dXRHcXdST3VtRXgxNDkyeHIxbWNwN0F2ZzNDQ1JaM0xLSURWbHZ6V3pXMHFIejBFSWhvVWdRdXYteDBDenE3NVp5Tk5ZN0N2RHBibGJOZXJJMDZNMl9ZdDFpbW80TENIdXNobl9QY2xsNXRrUzk1cmUteWt5VTZOVUw5OWJaN0hGZ3hMdFBydXVyMXV0ZkNiV2pxLUZjcERJM3NvNFIwbVRYTmJJc1E0?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 16:00:00 GMT",
-      "description": "Anti-vaxxers are coupling up on apps for ‘Unjected’ singles The Washington Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Updated 2025-2026 COVID-19 Vaccine Nearly Halved ED Visits, Hospitalizations in CDC-Funded Study - Pharmacy Times",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMDlpaWk4aE8xVHUzQ0hnTWlJTXpPcUpVVjJPcHpIOHBLQWJ2Mi1QelROaFd0YjY3NzBtYTJ6T1FRX29TSWlRSDJBRWFFTTNmRFNSRUVJVUhPbjdDN2xPZXB4Z0l3VmVoV3oyd3U1YWtVbFZQbGdvSS1URVp0WFNGOE90NzFjZFJyR1F2SnFnOXIyR0lmT3NpZWZ6THlKdnM1X3JRNnFtY3VQT3I3aHdHSTQ3OTZVM3o2b2Fzc3NCdS15SWtoSENSQkN3?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 15:54:22 GMT",
-      "description": "Updated 2025-2026 COVID-19 Vaccine Nearly Halved ED Visits, Hospitalizations in CDC-Funded Study Pharmacy Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "Nearly 300 sick in viral outbreak on Texas military base — as Pentagon reinstates vaccine mandate - New York Post",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObG1SM3YteHdaYzlMV1dQQk9wOXg1LThkRWlYRndwUm8zc09OSzY0blNUb0dVU0NOZFY2Rk5oNm93bzdiSFJuSFdxZTNWSndfY1VoQXdsNkdDR2x3MTdNZm02UmtrUWs2dU9uaGJZLVBUeHNuTXpjdnFGencxRWhiUFQwbFZ0eUItXzBzNFM0Q0NEcHF1TU9yeHB0MURwcURIWkRjVjZzUmdCdVk5bmc?oc=5",
       "pubDate": "Fri, 26 Jun 2026 15:16:00 GMT",
@@ -660,19 +647,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Nebraska hog producers could get a faster, safer flu vaccine - Nebraska Public Media",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNENMaDFOODQ0R09mcEszNTF2eklKNjI5UjNNVVVBLVBFN29RLUhEWDMyUEh1RTRXNW14TkhvVHVHMnZWNERpTzA4Y2tBMkhaV1loNVBtZVJLWXlnenFwOGhyN3EtTnhUUTByV3N0d2swQzVQNEV6M1ZBbDF2ZlRZUzRwZ2gxYmFNNzNhMDZ2TGh1WmZKUC1sWWloNFhyV3VHOE94SE4tMEo2aWdhdWdqSEtnakg?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 14:50:58 GMT",
-      "description": "Nebraska hog producers could get a faster, safer flu vaccine Nebraska Public Media",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -690,36 +664,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Anixa Biosciences Reports Positive Data from Completed Breast Cancer Vaccine Phase 1 Trial and Positive Survival Observations from Ongoing CAR-T Phase 1 Trial at New York Academy of Sciences' Frontiers in Cancer Immunotherapy Symposium - BioSpace",
-      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQMU1PaUt6d2RySmNyWUk2YzFxTjFsV0R1dy1HMjZ0SG1iUlFPbTBJWmxyUlVjZEszWTNjNkVTc292aDlRSE9mZDgxeFNvNi1DUmZsY3duOWFrZHZGb2M3ZDVZTlZJVmFxSDVqejAwdVZDT0E2VUhELWhISHppYjJHeWFjUnJlNFUzWnQ5b2N2OG9uVURhN01aeTNZSFE3TElOT2NBQU0zWWM2UmIxYVp4MmdKUUl3Z2lVSng3VHRpa19sclJRcEtET0gwUTRrQURnNzVyS1FFT0QwTTAtM0lLNWRvZFRxV3NxSm5ZaUN5QWhiY0k0NkVtRHZ3TF9rN25uUkJkSjhidzNWYld1T2xCWFBvX3phaS1nZDB6SDAyNTRMbTBvczZJZkE1TWNqZklSamkybTNZd1E5d1o2WlVzTTFVUGQ5eEg0QVFiUjFUc0RmUHI0ZWY0ZXhDb3FlbkwwOTNsMjRIdGt5QkYwcURSV0Fwa2V5NFh3MFNmSDhKLUVpell6dGJobWxB?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 14:11:19 GMT",
-      "description": "Anixa Biosciences Reports Positive Data from Completed Breast Cancer Vaccine Phase 1 Trial and Positive Survival Observations from Ongoing CAR-T Phase 1 Trial at New York Academy of Sciences' Frontiers in Cancer Immunotherapy Symposium BioSpace",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "New Reporting Raises Fresh Red Flags About RFK, Jr.’s Vaccine Lies - Talking Points Memo",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVjNfa1JmUnNsRF95UkF1OU1PcGd5VmhsU0dYMnowQmZqXzBqMzhNREZaWW1KRml2WFBXTkZaWkNfb0UyblNJaFZ6WU4tR3dZSWJyWDdwQnFmWk5MUzVlOV85T3ZxSDJJbEpwN3hWcEhTb21YdHhTVHVJdHUybG9PNjV2NkFnd3ktVXAyeUZFWTd1M1BjTGRBOVlmem5vSTloWDZsOGlLaHROazQ?oc=5",
       "pubDate": "Fri, 26 Jun 2026 13:32:00 GMT",
       "description": "New Reporting Raises Fresh Red Flags About RFK, Jr.’s Vaccine Lies Talking Points Memo",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Initiatives Look to Strengthen Vaccine Policy and Governance in US - Contagion Live",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOWlDSnJvMWVPZDBDRVdpcTBIaG1qeGJDazA3NlpQNmJDWTBFX0VwOENIcWhTR3JaYmVFWGNCdTVXaWdfV2xqdFNCSE9yTWljVEdveWl4cm9WRnhiYVdHUVhsVzZ2LTAzQ1BtSmJua2dGTWFvN2M3WFQwUnZxUmhZblpCSXFscWdSZE1zWTZJQW5ja01aX3ZtZ1h2ZU0?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 12:53:28 GMT",
-      "description": "Initiatives Look to Strengthen Vaccine Policy and Governance in US Contagion Live",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -785,6 +733,19 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcVZJc0VSZlFybVcwQzFlSmczMW1McEpWY3N1WlJfWHY5YUlvSF92SVBpWmJCNllHbEd6TmxQZ1gyQ01iQ3VKLXhiWjJudFVlZ1Ezb2FLQ3JLUDRYWmdyYjNTeS1QRkRwZkhnbTd6eG9aRElIaHVOOURJU0Q5blJDZ3BFYXNPUQ?oc=5",
       "pubDate": "Thu, 25 Jun 2026 22:21:04 GMT",
       "description": "Military Leaders Sought Flu Vaccination Program Weeks Before Outbreak Hit Base The New York Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Welcome! Everything is fine…except there is still no ACIP quorum: The State of US Vaccine Policy - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLURfQzRwZzB3YlJEVFk4VEMxZ0NCNEk3Q3BIR0lwVTlZYVIxbG9VVUptcVpmU1I0V3hCQlBEX1VEczU2c1kwZFJEaDBKY1FtY2J6cmVSX1d6TERiWjJPQk9mb3ZEY1BZcy1LWWlGam56NG1CMDE2dl9wQVo0YmxLQTMzV081YWJGdTV2ZnBlSnBSc19rZERDekwtWkU3Y0FyY21vYnBlNGNQa2QyVTVTQnIySm5vNnZOMkZiRWd0ZTM3dw?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 18:21:37 GMT",
+      "description": "Welcome! Everything is fine…except there is still no ACIP quorum: The State of US Vaccine Policy CIDRAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
