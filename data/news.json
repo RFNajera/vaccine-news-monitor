@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-29T17:19:20.202Z",
-  "itemCount": 91,
+  "updatedAt": "2026-06-29T18:09:35.687Z",
+  "itemCount": 70,
   "groups": [
     {
       "key": "covid",
@@ -10,7 +10,7 @@
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 15
+      "count": 11
     },
     {
       "key": "measles_mmr",
@@ -20,7 +20,7 @@
     {
       "key": "hpv",
       "label": "HPV",
-      "count": 2
+      "count": 1
     },
     {
       "key": "polio",
@@ -35,7 +35,7 @@
     {
       "key": "hepatitis",
       "label": "Hepatitis",
-      "count": 2
+      "count": 1
     },
     {
       "key": "meningococcal",
@@ -45,30 +45,25 @@
     {
       "key": "shingles",
       "label": "Shingles",
-      "count": 3
+      "count": 2
     },
     {
       "key": "mpox",
       "label": "Mpox",
-      "count": 2
-    },
-    {
-      "key": "rotavirus",
-      "label": "Rotavirus",
       "count": 1
     },
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 52
+      "count": 40
     }
   ],
   "items": [
     {
-      "title": "Bajura declared fully immunized and immunization-sustained district - The Rising Nepal",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1cEFZNlZ5QzhvMWszUTZ3MHp4dmlBYTNiMHVNRGViMXBkZV9IWWpwR1FmbTBIdWNIQmRqckg4VXktYm1uN0cyOUpweXhCVkZa?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 16:41:15 GMT",
-      "description": "Bajura declared fully immunized and immunization-sustained district The Rising Nepal",
+      "title": "Three-in-one vaccine shows promise against 'tripledemic' - Medical Xpress",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHdDVrMzVBWERkZDdhNVNMaGpZQVRlbnIxY2I2Rnd3MkpobExUNVRfam5ZWGZBSlJzQTdOdUhDUHl2WVdoQWttYlZpa1VRMnJFYVJRN2FHRFZOb1FvUGdaWlFBdlFwZmE2MDNnenBfMXg?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 17:20:02 GMT",
+      "description": "Three-in-one vaccine shows promise against 'tripledemic' Medical Xpress",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -115,19 +110,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "NICU Restrictions Linked to Lower Rotavirus Vaccination Rates in Extremely Preterm Infants: Study - Medical Dialogues",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNamZmQTFfZUcxQ3dHRnBWVW1ac1FhSFA3WVktejJzR051TkF5V2x0Nmlac0FWalVFYTVfaU5DazcwQ1lVMS1UYmtqYmtlM3VGcXRBRFRWZk9YMUdpa0lTRDg4SXJ2YUVWbUZVakRFQ1RKXzYwcXVKczFOZGwxaUp2N1FpTzBZaE9Oei1ISTh2RU1jWWJvUG5wdWVyVmM2b0l2OXNMZVBNNTRDMlp5QTBSQ1VVMXZzdUFpLW5oaktJaTVzMTlXQzhvRUFveDBYb0dWOEpJY2haQkRJUDl6MVlzY0cyMW0ybTVqY2YyNDlqV2_SAfYBQVVfeXFMTVB4WmtRME4xYk1ReVZ2dVNmbkFPemhKdHhJUVlWbGpocXZEQTljVG5NUmdscjZSUV9GX1NLZUxVbzFtTjRva1FIbHVoNUlXaTg2a3NyMWd1TUpSS0dzY0JoamtSWk9McTFSa2IxTFIxUEp0OUdPckZsZGs0dUl0WkN6ZFlKR1J5UG5OVnJrWHVCOERwalpuYThyQWZGVE9QODVnSzIxUVNqMjQ0RHhSaWRzel94bU9KRzVFc3NPZFRFRXo2Nl9McnNkN0o1LUJ6eS14MmRvMUdiNWhZREdvbmZIMTNUUi1pMTFtdUYtRXdkR3UwRDNn?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 15:15:57 GMT",
-      "description": "NICU Restrictions Linked to Lower Rotavirus Vaccination Rates in Extremely Preterm Infants: Study Medical Dialogues",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "rotavirus",
-      "vaccineLabel": "Rotavirus",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "Emergent BioSolutions (NYSE: EBS) lands $52.7M U.S. ACAM2000 contract - Stock Titan",
@@ -312,19 +294,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Emergent BioSolutions Secures Contract Modification Valued at Approximately $52.7 Million for ACAM2000® (Smallpox and Mpox (Vaccinia) Vaccine, Live) from the U.S. Government - The Manila Times",
-      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQblJMZjMxUzNJbTRQcmhUaFpnV2UwYmlKd0NOUEVWWFpVNDVJWVpoSTNzY0RDMzM5ME1aUXlTMDhXbDNuVkxoVlN5U0hkdndqWHNFTFNYdUtHaEdSMHAtd0ljb1ZHN0FTeDJVWFNsZ2V3aml6WXk1Y0lKdW1uNmZQNmxlYjdVd0FhV3kwelhTTjZST293VHpRS3JtQVU1Yk5KR0tNdUxQMGFmcEJXNWlNUXg0VktzVGg0RVN4SlNWRmY0RzlERzgwSzdtSFRmRDNwdGpBNmxmeGJRcXAzZDRQaDNDUjJjSjNpRXdNSWJvU2tYN0I4MTBncnU4eGRjeGtNM0tZUS1IQV9adUlKak5WTFA5VVF0UEZLMmNHX3V2MUFEbE4ybmVMZjBWQ1E4WjdIUlBISW5fSlAtaVVFTmZjdmoyLXIwRWxoUmd6S2ZqVzNiS2VFamZqc9IB3gJBVV95cUxPTGtFT0VWYlZ2QWRvQWl4WTZ0WHl1bmk0MEgwMnA0ZXZJOFZ6a1pJYThVVHVveXNjYUZxaEFPelFvV2RzN2lzUThxTW1uRG5xM2V0NGRrNG5HcDhsSHdaa3hvLXBIM3dWSjFQR2l2blplbDVBd0JyWFNHZk9CbzZ3eG5aNjdpOEpLb1B4X3ZrNk9sSlo1TW9iWTdDcVk5RmxwV01IOGd1akpKandkUC1BTUhGV2htOG9STDFxTFZtUHFNc1RxRzY0QVhfWXBEY2RQM3kyUDBja2wzTVhtc204djF6cWVWV3NfMUxKOHBXMElmOGNlT1U3LUFiSEQxVHp6M3ZMVXhBazl5N0hPXzBwb3JWWmhKek1PTGFfckJBbVNScUNpSGlpa2VZRkQ5UTFFTTRUVDZyNUU0LXRvZHFCUEJJM0luLTF4azRVMXYtMkJ3dGxMRlU1Y2MtSVljUQ?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 13:28:39 GMT",
-      "description": "Emergent BioSolutions Secures Contract Modification Valued at Approximately $52.7 Million for ACAM2000® (Smallpox and Mpox (Vaccinia) Vaccine, Live) from the U.S. Government The Manila Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "mpox",
-      "vaccineLabel": "Mpox",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "'Tiniest Penis' Fundraiser; Flu Vaccine Maker Investigated; FDA Rejects Gout Drug - MedPage Today",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wclBfUkVQNFNmWkJnTmhDV3pWY0ZpQnRDX0tfWkZ4TkFjVXhNc2VfVmEtUml6SkNqaVdKSjRfVDlyRFQ3V2loMkVqelJJY3NTR0l3N1B0WGg3bEl4Q2RJRw?oc=5",
       "pubDate": "Mon, 29 Jun 2026 13:26:25 GMT",
@@ -442,15 +411,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "Letter: Flu vaccine politics don’t belong in the military - Honolulu Star-Advertiser",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZmtQYURsY0dJdVY5STl6a2xiclpibWowVkdXODQtWUtFTlZiRFRxdlJ1U0VOOUNDSUVCU1ltZnBHeUdrOEREaE9EczRveV9pbE1DUkNxNm8zMENmMjh3NHVqZ3d1Z29NcmZPYllRQXozM1VXdlRPR3JQdWdMNTlBTHRuMHE1d0VnTlQyUnhGdXh0aE45aW1yczl0SFBVQzE2Qm5rRUZBWVNUX3FlWHFRMmIyVlFWQmc?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 10:18:10 GMT",
-      "description": "Letter: Flu vaccine politics don’t belong in the military Honolulu Star-Advertiser",
+      "title": "There’s a terrifying uptick in tick-borne illnesses. Hope may finally be on the horizon. - The Boston Globe",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV1ZTS2ZiMnU2UXpPeEhXLTlpWENBUnRxcHU0MFpkTUhGLXJpRjFleXViWkVsc2pUaE43VnVnYjBIYjlUc3ZjcjhZUnhLYXdkMzJPUG9MYUJsYkVEUzNQMVpweWM4UHgyQ2ZUajlMZkdDUlpFcktibllaM0twSDJEbUNjX2I3Y0Q0S09yYw?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 09:33:01 GMT",
+      "description": "There’s a terrifying uptick in tick-borne illnesses. Hope may finally be on the horizon. The Boston Globe",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -546,32 +515,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "NUS Develops Oral Vaccine to Shield Fish from Virus - Mirage News",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcHNzdnhwQTFlNUNJYWVnVkVhMklfQ0VuUmpObDdQVVYxV0M1MW1nNWFxY2xTQ0xOZWVpVUpkYzYxQlQ3eEhyOTRHZG5hcGdKUVNhbDBETlU0YkIwaWduTVdvQzZteksyNEVfSWN6QmF3WktkSXdLNllaYzdjcDgwWTY5QWNLWFU3?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 06:34:00 GMT",
-      "description": "NUS Develops Oral Vaccine to Shield Fish from Virus Mirage News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "NUS breakthrough for aquaculture: Oral vaccine protects fish from fatal nervous necrosis virus - NUS - National University of Singapore",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ3lkRjZFYWhSWFhUTy1vMmNaYlFwTHN0WlkwN1FaQTFkZnBtZE5MRExSTlJ4NXduRnk2UmI5SGZ2M1VvbG1JeDRWVlhOSTcwVEt2bktTN1BvZ1AzdEtBa19faDc1SVpkd1Z2WUV2N25xTHV1SEpwMkxaek5GaDB3Nm9GeVJ3NTg?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 06:31:52 GMT",
-      "description": "NUS breakthrough for aquaculture: Oral vaccine protects fish from fatal nervous necrosis virus NUS - National University of Singapore",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Sanofi's Tdap vaccine Adacel approved for use during pregnancy to protect newborns against pertussis - koreabiomed.com",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pa1otcHpWZHRtdG9GSGNBLWRHWC1rbThPZHVuVHNZSzY1R0pxMFo4cjVnOTdaRGlkTjdOSDctN1Vsck9EaGk3VzdjalptajhvLUlnRGxPMjZHWjY0djFNeThvbkhtekx6bU5XT2N30gFyQVVfeXFMTWxtdTQ4TXI5eDhwMUlkNUhELTR5ZzhiZDFDU0Y5UUowbjVMbGVDQm93YTVvMlZyQVBiREJwQndVbnBCT2RPSmpQaC1sUGhIRkpvbUFrNWlyODR3OXJzRHRJYk8yU3dQS1dCNTBWNVZELVVR?oc=5",
       "pubDate": "Mon, 29 Jun 2026 05:37:26 GMT",
@@ -589,19 +532,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOQzFDZExOTEs1ekw0VnF1UjR3LXVaNzZRRG55Q0VJdHB5M0VNcEo3enBpMVJKVzhiSkMwU2NwRUVKVFJ5cFAzZTY3ZXJ6UDY2b1BhcERUYWplNEV1WEt4bHpvd2tMamFRSGlndGJ1eHlYUFExVnNRYnEwQTVEM3pobEV6b25jX0VnT0duU21oNF9hSkQyTUd4bGVnZmZLZmY4ZHBvYXl3TXJVNHRydUlsdjQxcktLdU9aeEE0NkxaM2JJYXc5UlRlUWNVSVVpcktXd05Pbnl4a09oTlhIMllEcmxLUkJGRjJXTGs5dU5RTXFkaUZrTnAyempXczAtZl93TklyM1hIWTMxdkE?oc=5",
       "pubDate": "Mon, 29 Jun 2026 05:36:00 GMT",
       "description": "Yuba City veterinarian is helping local pets with a second free vaccination clinic, this time in Live Oak appeal-democrat.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "There’s a terrifying uptick in tick-borne illnesses. Hope may finally be on the horizon. - The Boston Globe",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV1ZTS2ZiMnU2UXpPeEhXLTlpWENBUnRxcHU0MFpkTUhGLXJpRjFleXViWkVsc2pUaE43VnVnYjBIYjlUc3ZjcjhZUnhLYXdkMzJPUG9MYUJsYkVEUzNQMVpweWM4UHgyQ2ZUajlMZkdDUlpFcktibllaM0twSDJEbUNjX2I3Y0Q0S09yYw?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 05:30:00 GMT",
-      "description": "There’s a terrifying uptick in tick-borne illnesses. Hope may finally be on the horizon. The Boston Globe",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -676,19 +606,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Cassidy blasts Kennedy over vaccine claims - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTjVIYkVtcVF5Rm5JVEItRXV1Q1NsXzNESGVucXUwME1od29ES3dzV21sa25seG53MjBRMlJCSmtSakFITkVYbjhydGV5eTlHSEE3Nzc2UDZFbF80LXVDVHBCeldUeUJSVUJvbU10Nkp5ZE5IbENCRmp1a2tfZ3paUEY3Z1hnZw?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 01:41:05 GMT",
-      "description": "Cassidy blasts Kennedy over vaccine claims AOL.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Cassidy blasts Kennedy over vaccine claims - The Detroit News",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdmpHNzZNN3ZJbDJUOHBCUkhESW1OaW5MVm9Ya0tpWl92Zkw3TFpPOVB4RkY1TEkxb1NkVGZLcFltb3lFeGlQRTZqb3R6NWJkeEdoYzZmdVl4bTVSUnR4SGdZZDNxZnpBQlp6NXFjcEFaQnNxNXgtWENCX3VZRWtyNlRab2lLWVRpZzhtLU4wNVhHZXBncmZ0RE5oM0w1UkJQeFExNUlZLXR5bHVYNnJvYlpra01hZw?oc=5",
       "pubDate": "Mon, 29 Jun 2026 01:26:01 GMT",
@@ -715,19 +632,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Sen. Cassidy says RFK Jr. violated vaccine commitments, built public health on 'lies' - eciks.org",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTaXdLVnJodjhxT3c1bTBfN3RJUDJ4QnpmQWhKRkd3OEZwQnkwOE9nT1Bldkg0ZTdoWlN1N21kQUREeGRFVlN6bGZ0aHhWaFRqUEtXbnRJMGltT0pqdTVMZGZfYUdEc2d2bFM2S0V2SVQ?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 21:16:44 GMT",
-      "description": "Sen. Cassidy says RFK Jr. violated vaccine commitments, built public health on 'lies' eciks.org",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "'Master key' vaccine technique may 'prevent next pandemic': researchers - Japan Today",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVEtjN2ZkRzluUjNjbi1pczRWeGlGYlNHbmlkdS0wSllyclpsN1NndHRPb3VKcUticXk0SDV2aWRuOTd3TlRZS0hTMGNyVUNpVzI4WlNWenNsallDVVpTc1g3WFBGXzFReEtrak5Ia25DejU5ZER3ellfQkt6SDFvd0RsbUxnOFM3VUhRZVhfVDN0enBQU0J2cWdIQWlMZktfYk5JTzFSdjVlLVNET0k2ODdDM1JVaml0N0E?oc=5",
       "pubDate": "Sun, 28 Jun 2026 20:56:00 GMT",
@@ -741,10 +645,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Potential measles exposure at Dulles Airport. What Virginia travelers should know - The Virginian-Pilot",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zbHlRMV9BYzd4Vk5pWkRVSkdIZ2g5MHhXV0gxSXN2cElWTlRCVXVjR1pCMWpwWVJEcy1sRG1HbG00Z2RabE1FZXlPOUgtWDlUc2hLUGNmT0MtcFpOUlR0MEtvblhIbUVsOS1PejhNY2paQndXNVlGeW5yRzJtUQ?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 18:58:52 GMT",
-      "description": "Potential measles exposure at Dulles Airport. What Virginia travelers should know The Virginian-Pilot",
+      "title": "Pennsylvania measles outbreak grows to 72 cases among children and adults - WHYY",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CVWNZbWxhb3JnQ3Y0RWN2RUY1WFRkT2pKVFk3OTh2cVljUTY0eUVubFFPWVZIdzJSY2hMendvblgta1BnZ0ZBSU9UZ1prY3QyeXQ4Y1FCbGYtMHR0WGtBejRaRFVCWU5CZkwzQ1VNOTR1YnM1OU5hdg?oc=5",
+      "pubDate": "Sun, 28 Jun 2026 19:16:46 GMT",
+      "description": "Pennsylvania measles outbreak grows to 72 cases among children and adults WHYY",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -765,32 +669,6 @@
       "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "Cassidy criticizes Hegseth after flu outbreak at Texas Air Force base - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR0JzdlNUcEE3NDhmWWJ2UjhMVXdVZ3V0MGNrLW83c3JJX2tJZmRrS2tNNUQ2UnJzaXBySVVvUWFJYlpSSlo3c1pKemR0VW4xTHplWm0wZHdhUVZ6QVdWcGl3U25kcjdLbzh4RVZBQWlVTy1HS3ZpTVhJZ0dpOTgtOV9UQzTSAYoBQVVfeXFMUFF3RURlaGNZUmtVM19VVjdzZG5tc2xYaEhVTEJaaVRmSzJmZEsydUl5OTczM1hQQVpUSHpzZThtLWMtOXZqYW1qZlY5dW8xQWZHSmNpYVFINzRzT2laQVpobkRDWGdYME85RWR4V0RLT3FQTlVEZ3BKbHcxcWc3NHh1dUZDUnV3N2x3?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 15:54:00 GMT",
-      "description": "Cassidy criticizes Hegseth after flu outbreak at Texas Air Force base The Hill",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Hackensack Meridian Health Joins Phase 3 Trial of Pfizer’s Investigational C difficile Vaccine - Contagion Live",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaFhPVXFDNFdnclZ2ZHEyUm5jY08tZW1ENExyTjViMXBTRlotYzcwaVFNeDk4ZWxBdll0d1Y1QVVkWTlmS2Q3UHg5RV85NjdRdHVNY0lPT0ZnU0NXT0FJSG5RdHhSVXpLb2NZMUd5ZlFXbVFxZlhDZEYwOEJMV3AtNjg3SUdyS1lXN0F0YXdvejBQc1dUMGlCbFlrUGNKWXhVUXB1MGp5M21GT2RxN3RJYjhfNWR4Z1RMNldkR3JsWGZVRDJ5dVUxWQ?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 13:39:33 GMT",
-      "description": "Hackensack Meridian Health Joins Phase 3 Trial of Pfizer’s Investigational C difficile Vaccine Contagion Live",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "Shingles vaccine may also offer protection against dementia, studies increasingly show - NBC News",
@@ -819,19 +697,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Shingles Vaccine May Provide Significant Protection From Dementia - Newsradio 95 WXTK",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVDBTZ1gtcW1iVnhZcDFZV3ljZF9OT1Q3Sk9WR3JUTjl3cDhBdGNleHV0R0tqQ1FKa3VhZHNUdXo5dUEzNXBEcEhVSkNYVDNfUkkxZFVzajdYbXpEaDVvVWl2QmNocVNTZG91bHRUUlU3UlZrRTF1ZjNMN2dROUxTZXlDeFNlbEtLUFhHMmNCZUx2eWFlSUIyUXFqLUN4Qm1zMGIwa2tKeWJtUV9BSFFNbEwwNlo4aWRuV0FfMHBfbmxFaWRiZTk5TGpPUQ?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 08:00:00 GMT",
-      "description": "Shingles Vaccine May Provide Significant Protection From Dementia Newsradio 95 WXTK",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "shingles",
-      "vaccineLabel": "Shingles",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Measles, whooping cough spike amid low vaccination rates - Jacksonville Journal-Courier",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMHVTaFc4MlpaNTJDOFFVOGNzWERzYzdHWWo3YWpIa05fd2wwT1RqY21GQ1NZWDBBSnpiVjQ5eHlrbHlvdVp5aXNUVy13WngtOXdiWllta0R2Unc0Sl9BWTl3WmJOLVM3bGd5Y2RFZ2U4c3lnN0lrcXlIdC00NURJNkx4emlraFNYNHVnVlExZFZ4WERxU21fQ091ZDlIXzM1UFE?oc=5",
       "pubDate": "Sun, 28 Jun 2026 05:39:10 GMT",
@@ -843,19 +708,6 @@
       "vaccineLabel": "Measles / MMR",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "Douglas Flora: Cervical Cancer Deaths are Preventable With HPV Vaccination - Oncodaily",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1d1ZvbkFfRldVT3hwUm52T29uZzRHdGRjclc4SGVRelRUSnpEbi15aEZqbzFyU0h6OXViWGhwSWo3T1R2Z1cwc3BZa2RSLWZWZHNqM01oRzJnTDNpb3c?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 18:41:07 GMT",
-      "description": "Douglas Flora: Cervical Cancer Deaths are Preventable With HPV Vaccination Oncodaily",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hpv",
-      "vaccineLabel": "HPV",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "If a Lyme disease vaccine gets approved, how would it go over? We asked hunters - LAist",
@@ -880,19 +732,6 @@
       "sourceLabel": "News",
       "vaccineKey": "hpv",
       "vaccineLabel": "HPV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "U.S. may have lost a ‘crown jewel’ of public health, experts say - San Francisco Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd0xWRURqbi1lanRUamF5bDEzYk0yYXhPWUZjVkRtbVB5RUd0S1dKZHRzSkdFRGtYaHF1ZkdqN3c5aGdLZ3BxbHQ5RDhQM2hyRzAxY001WnFodHRHRVhZRFY5NEdYcktjT0prSk43empsbTJJMFdtVEFjUGY0V2ViYUp3OWhhc1docXFzeXpNaTN4QQ?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 11:00:54 GMT",
-      "description": "U.S. may have lost a ‘crown jewel’ of public health, experts say San Francisco Chronicle",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hepatitis",
-      "vaccineLabel": "Hepatitis",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -934,19 +773,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "opinion",
       "articleLabel": "Opinion"
-    },
-    {
-      "title": "A Fentanyl Vaccine Is on the Horizon — If Trump Restores Funding for Its Clinical Trials - The Xylom",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeVpYVHhnSXRna3QyMlhnZzN3OXFLcW8tM0ZYTnA4NTNZcExiOVdxcV9reGpzUXpPbDc3LVVoeHdVc09PZmJrZjhJa3JSWlJCcnU4RDZsb0R0QjZKYVRreFd1SzJ5WGd0a0cwV0RnZjJZOGludHhSV1VwaGFjcHloM3ljMDJNM01kTV83LU5yTTdzeDJnOXVlM25n?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 07:14:32 GMT",
-      "description": "A Fentanyl Vaccine Is on the Horizon — If Trump Restores Funding for Its Clinical Trials The Xylom",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "US starts vaccine effort for Ebola Bundibugyo as outbreak spreads - Reuters",
@@ -1027,58 +853,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Hidalgo County health department offering back-to-school vaccine clinics - KRGV",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ05wakhFcjdwQllFczdJRzZxSE1ub3ZHaTU5QW5MVGQzV201QXEwd21jY1E5QWFRUk92TGg1N2kwWjZ3U200dndGQkh6RFFqREstSUNWMUJxeEZRZHRHX1BFb1BGc2tTbnN6NVdNWTc4Mk1vVURyQUZsVFNfUkFSVjhSYXQtdnFVX1hDVUlHWDh4TFU3d0xXMEZoVF8yMi1o?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 17:45:53 GMT",
-      "description": "Hidalgo County health department offering back-to-school vaccine clinics KRGV",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "RFK Jr. pushed CDC to stop promoting flu vaccine, leaked emails show - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUFNZcVZ1NGNhbVQyOXl3SFVLZDA5dVR5RWY2TUhZZE9pMTBOREFkeHBwRjBIcEhDbzRNZGJSN0JtRkFfRTVMWkZXelBOWGpHT0xyR2sxeVliM3pDNFUxX1hya0o2UnhyYklYbEwxcERUMkF2b05rajRmOUhwTlItOFk3R0FVSUxHbDFQZ2ZQQnNJbWZFdFlfQ2RVVVp1RERZV2ZadzNDLWJUbEdLUmlHWA?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 17:35:00 GMT",
-      "description": "RFK Jr. pushed CDC to stop promoting flu vaccine, leaked emails show The Independent",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Researchers develop a vaccine against Avian Metapneumovirus subtype B - Agweek",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRFpMcGR4Qlh4ZWJUV3pYdmI2TUFWUEZNaE9vZ19EeDlYRjNIYmtaMkdvUXI4VGxzLTVWUlR0TzltTnhrWEdiUTM4a2lFX3dSQkVMZDBiX0pFa1ZIZVVndFA2MzRmVjVZNWxtZEFxNmktNVB2ZEZBbGNYbzVTSkR2UUpZWkt2Sy1TdDI5cWVtT210NjhYM0g4bWVTZDBvWjhMQXRfTHB3eDNyTFJvLVE?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 16:31:14 GMT",
-      "description": "Researchers develop a vaccine against Avian Metapneumovirus subtype B Agweek",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Moderna Is Up 14% Today: Is It Outperforming Other Vaccine Stocks Like Merck and Pfizer? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQXRaMHdNQkdmS3dYNkdqUS1YZGZNVkxJSXlCWVUyMWV5MThWMWFRZVlwQWliazdxQ2lxcnc2Z1Bhc2xGdXFYVTJwQjdUZVdVaWRqdU0zMnEybzBNX0FBWHNlWUtlY2ttSV9HNjNpcVYzS1pnZmFhQ093S29tVzc2eEVSenk3YWZRdVYtLUtYRGdtNjJvVFd2cGEtZ2RFWVhmemxr?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 16:01:13 GMT",
-      "description": "Moderna Is Up 14% Today: Is It Outperforming Other Vaccine Stocks Like Merck and Pfizer? Yahoo Finance",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Nebraska hog producers could get a faster, safer flu vaccine - Nebraska Public Media",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNENMaDFOODQ0R09mcEszNTF2eklKNjI5UjNNVVVBLVBFN29RLUhEWDMyUEh1RTRXNW14TkhvVHVHMnZWNERpTzA4Y2tBMkhaV1loNVBtZVJLWXlnenFwOGhyN3EtTnhUUTByV3N0d2swQzVQNEV6M1ZBbDF2ZlRZUzRwZ2gxYmFNNzNhMDZ2TGh1WmZKUC1sWWloNFhyV3VHOE94SE4tMEo2aWdhdWdqSEtnakg?oc=5",
       "pubDate": "Fri, 26 Jun 2026 14:50:58 GMT",
@@ -1096,58 +870,6 @@
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbGlNOTBZVkx2U1dWYkFZYTlESjNWV0pKSVA1QWYyMHBDbUtRS1F3OEhKSVdReUVmQkFRb0tHUXlrdF9TQkY2WjQ2SzlwVkxqS0JOZ2g5eGRCZm9BZndKc3AzdTN4Yk9vLXROMkVqTFJRVmpHS2VtNkRLelh1WFBZUEl0bUtld0RNaU5xOFJhQWlsQURLRlVfdHFxT2FDTWRDZm9ubENjU2RpczFuR3A0NnoyekhfdnJWOUhCLWJJWlhuTzNFQUExZTk3VlJrZko3REpzV1JEYUI?oc=5",
       "pubDate": "Fri, 26 Jun 2026 14:45:13 GMT",
       "description": "EU Commission opens antitrust probe into Sanofi's flu vaccine campaign Reuters",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "New Reporting Raises Fresh Red Flags About RFK, Jr.’s Vaccine Lies - Talking Points Memo",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVjNfa1JmUnNsRF95UkF1OU1PcGd5VmhsU0dYMnowQmZqXzBqMzhNREZaWW1KRml2WFBXTkZaWkNfb0UyblNJaFZ6WU4tR3dZSWJyWDdwQnFmWk5MUzVlOV85T3ZxSDJJbEpwN3hWcEhTb21YdHhTVHVJdHUybG9PNjV2NkFnd3ktVXAyeUZFWTd1M1BjTGRBOVlmem5vSTloWDZsOGlLaHROazQ?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 13:32:00 GMT",
-      "description": "New Reporting Raises Fresh Red Flags About RFK, Jr.’s Vaccine Lies Talking Points Memo",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Anixa Biosciences Reports Positive Data from Completed Breast Cancer Vaccine Phase 1 Trial and Positive Survival Observations from Ongoing CAR-T Phase 1 Trial at New York Academy of Sciences' Frontiers in Cancer Immunotherapy Symposium - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxONXc4UldyWkx4MUthdGtpaVpTb0ZSbmJxNGh6RzJ1WHhTOGhjLXM2WmlVNUk0bTJNdmtzNWYyWk9ZcUZ3S2s0YUd1YktBV1Q1OWlLRDJuZ2RkRVJiNm1lZXFEaVN5Q2RZVEtWT1RvMEFCNkJKUmNNcWsyR3Vfb2VYb0poVTBIQ2tFcFpDNXMxa25aR2dpRFM0cU1JRTVmbWxENGlhZ05kYjNlZ2VsUU9hWFl6OXl5Y1RGNTQyZW53ZFlPTHJKMW1xTTRMT1NiZHhGSC1jdmFFQXZQdGhmd2dQQmNCdXdlS0dNaHZ5SzN1WDRuZVFPTVJaem9kYkxUNVFnbXR3MmlXN3VoNjMxMzhfSHR5WHMzMFVIbkhtc3FaS1gtWVpYVXhDcTFhMEN5RVRkNmpQUXpFMjJPZ3BycEZKUVRZSk90OGdiMnUxM3lXdDdmR3dnd3lESVA5VGlGeHVxYkNUQkNNcjBhaWZRcnVnN2hpa004dXVBRjlPdG1keG4waU11Y1ZoOUw1aWVRZ0JpWWktdF9nS0c?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 13:10:00 GMT",
-      "description": "Anixa Biosciences Reports Positive Data from Completed Breast Cancer Vaccine Phase 1 Trial and Positive Survival Observations from Ongoing CAR-T Phase 1 Trial at New York Academy of Sciences' Frontiers in Cancer Immunotherapy Symposium PR Newswire",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
-      "title": "European antitrust regulators probe Sanofi for allegedly disparaging a rival flu vaccine - statnews.com",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQclBncVVvd2hGWnROSlNyNmQ3endyTTYxSl9GU3ZPRE1MUnZWVFN1NkdxX0pOU0FId28wNXY0NDFiNzc0X2p5WmdmTVAxU0NrRzZ5MFNyakxYdUhVZDdYX2hVR2JsYkNMT0lWZnZJVzJRNXBXVHZmV09yTWNJYmJVa0ktVWRGZlpkeDZNWG5DcFVlX0w1RHhUMnRfV3M1MU1pemZSVTZvUlc1QjlIN1g3Q2QwWktwVkduaDE3eVA0d2hoYjJ2OWNRWEVuTTZtZw?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 12:33:09 GMT",
-      "description": "European antitrust regulators probe Sanofi for allegedly disparaging a rival flu vaccine statnews.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "EU hits France's Sanofi with flu vaccine antitrust probe - Euractiv",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNemJLcm84R09CcF92MDlMVXc2ZFAxQzl3Z3pMUGVRdVU1WEpIdDJVeE4xdXRVV0NRbFlMQmtXNjlHSnNteUxZUXdIYUNSdHNSc1FJd2JmbFZjZGNyMDE1dnpqc1dtV0tUU3lFem9nNDhyY1ByWUN6VlVFTzkybHcydFp0eDFLcndra18tRmowSQ?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 11:15:12 GMT",
-      "description": "EU hits France's Sanofi with flu vaccine antitrust probe Euractiv",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
