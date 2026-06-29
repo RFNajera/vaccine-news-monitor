@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-06-28T23:47:23.903Z",
-  "itemCount": 59,
+  "updatedAt": "2026-06-29T01:27:31.259Z",
+  "itemCount": 53,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 4
+      "count": 3
     },
     {
       "key": "flu",
@@ -23,11 +23,6 @@
       "count": 3
     },
     {
-      "key": "polio",
-      "label": "Polio",
-      "count": 1
-    },
-    {
       "key": "hepatitis",
       "label": "Hepatitis",
       "count": 1
@@ -38,14 +33,9 @@
       "count": 3
     },
     {
-      "key": "rabies",
-      "label": "Rabies",
-      "count": 1
-    },
-    {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 32
+      "count": 29
     }
   ],
   "items": [
@@ -102,28 +92,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "Potential measles exposure at Dulles Airport. What Virginia travelers should know - Daily Press",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVmppSUMtdWlNNHJuOHRsZlJMelJnVGNpdm5HWllpWHJ4RFJNQnFwZVpXSGl4WGt6Mm51RDJrcEJkcmFtSnMyOWpyR1J2Q0F4QmZDWjZqbmt0d0J3Wm93Smk4Xy13TU0zcXd1UUZ3WXUwci1aX0x2MERwUmFWdWZEMkNIUC1ibVRkX1FGdDlRU1JDZTdxYkw2a1VOTjE2NjBkWnNGenVkblhCbzZ4SVdLYXZodkloLVZHME5J?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 18:58:53 GMT",
-      "description": "Potential measles exposure at Dulles Airport. What Virginia travelers should know Daily Press",
+      "title": "Potential measles exposure at Dulles Airport. What Virginia travelers should know - The Virginian-Pilot",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zbHlRMV9BYzd4Vk5pWkRVSkdIZ2g5MHhXV0gxSXN2cElWTlRCVXVjR1pCMWpwWVJEcy1sRG1HbG00Z2RabE1FZXlPOUgtWDlUc2hLUGNmT0MtcFpOUlR0MEtvblhIbUVsOS1PejhNY2paQndXNVlGeW5yRzJtUQ?oc=5",
+      "pubDate": "Sun, 28 Jun 2026 18:58:52 GMT",
+      "description": "Potential measles exposure at Dulles Airport. What Virginia travelers should know The Virginian-Pilot",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Over five lakh children in Chennai given polio vaccine - The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWXBGYlpLTGVxbkdyWmdzN3FPbDMxMTZ4QmRHb2VGeFVwYndCZVZuSzRYemVtN2c0SV9Ra1I5OEU0SldseVlNem8xYkZTalREZ2R6Wm4wcVU1YXRDZEx3YXlIeWhIcmk4RWxJdXRkemZoNGlraWk5NHRuU0pTMVB1a2x1MWVUd2RZUF9HUWhjdUZiNlhUU240ZDNWNTBfVUEtMUIxT0hTMkE1aTNiNjZ1RW56eTRGVGZzcHQ00gHCAUFVX3lxTE1LSV82dWhWUThOZmRPMl9RWUFFUjdGZHRmSjM3LTA0ODBUUWdySzcteEtRVEs3TUVQT1NidnRHdFJNVTYxdV8wSG14WGZ6bUE0TzB6Q29NTHBBUkYyTkxYNW9rSXA3dFZwVk9OZkZhd0JKYWxrRzdNNFJwbENFTGhKUTBydUdYNjFhdmtTLUEwYWdoVllvdE5ucVoyZEJJWW9Eb2piNVNLZDZNc0lKTEhEQ25taFpNR3NCekhveFMzODJB?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 18:48:48 GMT",
-      "description": "Over five lakh children in Chennai given polio vaccine The Hindu",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "polio",
-      "vaccineLabel": "Polio",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -180,19 +157,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Kathmandu Metropolis provides 1,800 vials of anti-rabies vaccine to Sukraraj Hospital - The Kathmandu Post",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZTVKS1kwSGM3S3I5Z0FIYzJ6RGNaUjduNFNNRGVjRzR0NDkwc0hOMjlacU45VWpBRUlWeEVjNjgxUU43TmpzQ1ZjSVNySnh5WkcxQUVkT0NMbUxITklCQkUwTGJQVF9fckhNQ1pOZzFzV1BQX3VIcTRHRnlBdFJaRmZuNDhFd2RsTUJoNHdjRExMUmhOaFdCbTY2cWZZdVZMNE1pelN4bnNGdC1HUTVYczJaX2lwQVJTM1dZNnhTRlN6RE1vZFBEdQ?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 13:17:14 GMT",
-      "description": "Kathmandu Metropolis provides 1,800 vials of anti-rabies vaccine to Sukraraj Hospital The Kathmandu Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "rabies",
-      "vaccineLabel": "Rabies",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "UNICEF Stresses Vaccine Quality to Protect Children in Afghanistan - 8am.media",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbHRmdHRXem5xV2taRmZOdm9UWUM3OW0xb0hBcEZlNmlDUHBXYll5OS1TSWhoNmpYOWFtT2NQdnBlajRWLUtQWndzVHpDSjFMSGhEMzZSTTVib0hXbXQtQ01NWlZPUV9qbzRBWHFmb2ExMXUwQm9zckVUWkdteWNLNUZTMXNQQUQybnpQYUpmVVAweVk?oc=5",
       "pubDate": "Sun, 28 Jun 2026 12:45:18 GMT",
@@ -208,7 +172,7 @@
     {
       "title": "Shingles vaccine may also offer protection against dementia, studies increasingly show - NBC News",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNallBSDBBcFk4S2I3VU5VN0xhQW5KVjBKZ2JwZWp5UnZCeTZrbjR0N0Z2Mm85SHlrU0VWa2c5QTZRMF8wN2loQzdqWXBZc2JXaEVIMHZCWXRCVkRHcWZielE3OEI4VlI3U3VaandONG1iYXRHWTlBQzRKeHF4WkpFSHkzYXZBalNneE0yQklPR2lQTEFGWjh1cHNaOHM0RV9SWnpDbmVWamthbkx5cUluSUJ3?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 10:30:00 GMT",
+      "pubDate": "Sun, 28 Jun 2026 10:30:41 GMT",
       "description": "Shingles vaccine may also offer protection against dementia, studies increasingly show NBC News",
       "source": "news.google.com",
       "sourceType": "news",
@@ -254,19 +218,6 @@
       "sourceLabel": "News",
       "vaccineKey": "hpv",
       "vaccineLabel": "HPV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "RFK Jr Faces New Questions After Bernie Sanders Releases Emails Alleging Behind-The-Scenes Changes To CDC Vaccine Policy - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTU5rYWZGb1RHYUtzYTRVdFJrbmE2cDltd2JaNTdLS19sZWcxWFJKMlA2MHRvRkk0aGFxeTRsakR0MUFSQjNiM3l0UWRkX3FtZklSc044bWVIcVFkSFVNN3BFX21YNE1lMDFlekVYWlk4U08tektBeUNiMTRDQkRCOS1HbjVQRlN5NGotRWxFaUwzSE0?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 15:30:58 GMT",
-      "description": "RFK Jr Faces New Questions After Bernie Sanders Releases Emails Alleging Behind-The-Scenes Changes To CDC Vaccine Policy Yahoo",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -373,19 +324,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "opinion",
       "articleLabel": "Opinion"
-    },
-    {
-      "title": "Universal COVID Vaccine Clears First Human Trial as Researchers Caution It Is Still Years Away - Medical Daily",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU19BZ3NzTTFzb2kzQVBaNGlkRGduck1GTGJqVTlsR1dwaURXcUhHczgtRjFVNWd3Tm5SQl9OelFyYk1ueEtvVGt6SC14bmRCRVhTS1lLS0RfOW8tUHYzYzc0X2hHNjNUMTVCTktHS1JRNTlIZDQ1MHRWaGU3V3V4eEJPaktXVXlOVXFYdnVJNE41TUFaeDE5SXpJR2FZNmhx?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 01:01:12 GMT",
-      "description": "Universal COVID Vaccine Clears First Human Trial as Researchers Caution It Is Still Years Away Medical Daily",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "New ACIP charter could allow RFK Jr. to further restrict vaccine access, critics say - CIDRAP",
@@ -557,32 +495,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Supreme Court affirms dismissal of case challenging SCC's vaccination policy - Lincoln Journal Star",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUFd5RHhpeFIzb0RVZGRMLWVjazhkYnVZN3YxOG9ib3hGTUo2T2l5Z3FEdlQ0S0VQa0VNeDlUb21lNUxlOTVIaDcxSXB5RTFCRUZVX0NxRmcyWlpSRFF4SldtRFN4VU9QaUtzZWZLY1plTEpoc3JqWU9SVnJkUnJtWjZ5QURXTm8yQ2I5Wlk2VjBNdU8xQ1pXQ0IxdFpWdw?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 16:30:00 GMT",
-      "description": "Supreme Court affirms dismissal of case challenging SCC's vaccination policy Lincoln Journal Star",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
-      "title": "Moderna Is Up 14% Today: Is It Outperforming Other Vaccine Stocks Like Merck and Pfizer? - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQmVTa3VqUlhGQ2dHbkZ5ZmZ3OFk3Y3VzWDIwSldwczdBX1BQY0pORzNFMG4yWDBqRjdfeTVSS2c4U0pDQmJZeDlfLXNoZ1BfdncwVm05RS1lbVBaRXdtZ085LUc4TlVNZW5DZDR4YkZndDlVblpnVnNrTnh1b3VfVW1uQjNrUTU1QnJJLXR0andmTHBxMFZWM0w0YWtJeXJyQThSWHBUeTVUX1J3bnhtS1VfS0NaYlljQWp5NTR4NHV3ZjY1aWctNQ?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 16:01:13 GMT",
-      "description": "Moderna Is Up 14% Today: Is It Outperforming Other Vaccine Stocks Like Merck and Pfizer? 24/7 Wall St.",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Anti-vaxxers are coupling up on apps for ‘Unjected’ singles - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLXA1OE4xR3FfRzg4dXRHcXdST3VtRXgxNDkyeHIxbWNwN0F2ZzNDQ1JaM0xLSURWbHZ6V3pXMHFIejBFSWhvVWdRdXYteDBDenE3NVp5Tk5ZN0N2RHBibGJOZXJJMDZNMl9ZdDFpbW80TENIdXNobl9QY2xsNXRrUzk1cmUteWt5VTZOVUw5OWJaN0hGZ3hMdFBydXVyMXV0ZkNiV2pxLUZjcERJM3NvNFIwbVRYTmJJc1E0?oc=5",
       "pubDate": "Fri, 26 Jun 2026 16:00:00 GMT",
@@ -631,6 +543,19 @@
       "sourceLabel": "News",
       "vaccineKey": "flu",
       "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "New Reporting Raises Fresh Red Flags About RFK, Jr.’s Vaccine Lies - Talking Points Memo",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVjNfa1JmUnNsRF95UkF1OU1PcGd5VmhsU0dYMnowQmZqXzBqMzhNREZaWW1KRml2WFBXTkZaWkNfb0UyblNJaFZ6WU4tR3dZSWJyWDdwQnFmWk5MUzVlOV85T3ZxSDJJbEpwN3hWcEhTb21YdHhTVHVJdHUybG9PNjV2NkFnd3ktVXAyeUZFWTd1M1BjTGRBOVlmem5vSTloWDZsOGlLaHROazQ?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 13:32:00 GMT",
+      "description": "New Reporting Raises Fresh Red Flags About RFK, Jr.’s Vaccine Lies Talking Points Memo",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -800,19 +725,6 @@
       "sourceLabel": "News",
       "vaccineKey": "flu",
       "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Vaccine Integrity Project, The Evidence Collective announce projects to improve vaccine policy, restore trust - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc3NLNzVxODMxRFU0dXJKWGtpN1VhTE5udXVIS1piMGlkc2h6V0tfWENEdXlRaDdIVHl6M3NYaXpLZk9oaDdDRHk4WXl5MWZHOWdaMzRYTjRtdlQycWtzZE96Rm9PUFJPZFVzWWltY2tQeXlJWm1hVk5FWDgwUDdWU0E5SWtFUHVkWXFkdGNseXkwNjBkLU0wRnE5eFEycGZNY09sZ0R2dmhNZ0FXT2V0WkFza1dzWUI1WC0yQXlmUDhNQQ?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 15:05:53 GMT",
-      "description": "Vaccine Integrity Project, The Evidence Collective announce projects to improve vaccine policy, restore trust CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     }
