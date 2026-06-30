@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-30T07:41:55.165Z",
-  "itemCount": 68,
+  "updatedAt": "2026-06-30T09:39:50.111Z",
+  "itemCount": 73,
   "groups": [
     {
       "key": "covid",
@@ -20,7 +20,12 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 5
+      "count": 6
+    },
+    {
+      "key": "hpv",
+      "label": "HPV",
+      "count": 1
     },
     {
       "key": "polio",
@@ -35,7 +40,7 @@
     {
       "key": "pneumococcal",
       "label": "Pneumococcal",
-      "count": 2
+      "count": 1
     },
     {
       "key": "meningococcal",
@@ -45,7 +50,7 @@
     {
       "key": "shingles",
       "label": "Shingles",
-      "count": 2
+      "count": 3
     },
     {
       "key": "mpox",
@@ -55,14 +60,92 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 39
+      "count": 42
     }
   ],
   "items": [
     {
+      "title": "Intravacc Makes Qualified Vero Cell Banks Available to Accelerate Viral Vaccine Development - GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdUJ0ZEJrUnBtMERwd05CODhVdjhfanBQOElDOTY0WEVrajRWOEY0N2xDS2VaMWgxR2YwYjlHNElBZ2NUbnA5ejhOVzZtY0kxT0s4RjM5azktazFKekZvTDlac28yckIyejBRSTY3eElOSTlERjh4bVpLazY1ZWpqUGRSa2VXckVuTUhoTjdtcTNoYTFXdHVxU1JHYzJCS3VYX1hSeGlLQmNDOEc2bmZ3TXhycFZSX1p0UTZ3NllhXzYzc0hnN1ExaGk2QmxTcGd5ak9MRC01WTBnd3h0bTRMOHB6Qkp0LUNEdVdKeGdZci1aOHkybUE?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 09:36:06 GMT",
+      "description": "Intravacc Makes Qualified Vero Cell Banks Available to Accelerate Viral Vaccine Development GlobeNewswire",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Intravacc Highlights Four Integrated Vaccine Development Platforms for CDMO Partners - GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQOHNtV0hkQkl1ZTY3RkgyQUV5eUNzLXVDOWQtRXNuRDVzeVMtXzVrZkxyRU9CcTdCX2FYUTJZMm5vLUgxUGJQRXJSb2FwMXFkdVR5UFc0QlFzaFNtTktZbXZhdGdUOHd5c2djUnFlcHVrLXBKbmdvTm9LTHd4b0lRZEd1YnZRS3kyRWF2Y2oyVm5HRG5RSTZMbmV6anFwaG5nQkM0LUt5RDVEbUpJMmRxeldXZ0QxNkx2U05CNFdkMG13eXVDSlJGd002ZjNrQV9ud2plZDc3eGUtdUtmZ3FXZlVGQjQxcF9rWlBHbg?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 09:32:16 GMT",
+      "description": "Intravacc Highlights Four Integrated Vaccine Development Platforms for CDMO Partners GlobeNewswire",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Vaccination is best protection in Pa. measles outbreak, experts say - 90.5 WESA",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX3VTVWFhcmNfY19pUDk5NGVYQUdNWTdXTXdoOThUUi1qNF9BTllsLXlySEZsTzIycFZpSm1xaDdYNk1yRks1QVAyMzFrMzZYbXAyU0RoT3FlcmJUaS1YVUU2WEZZTW1FcTRNQURIU29TN1NQNEhHbDZUXzNjM2N2amp6OEVqaVB4aWFoMVVTandhUEZBakF6aGQ3bU1aT2xHdm9GOHVRbGgxVzEtcDZYckplcGtiTWRwQVJCOHd3?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 09:29:00 GMT",
+      "description": "Vaccination is best protection in Pa. measles outbreak, experts say 90.5 WESA",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "HPV vaccine: cervical cancer deaths plummet among young women in England - VaccinesToday",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ0dnbXozUF90LXJNeWloZG5GQlhZOXVPN052VmxheWZmZEZPT1VKd0J6VmpPcHItVXNxRUh3Q1o2RjRIcEx1ZEZPVGVSRjl3dlg0RkdBbENiVzhEeHlNazJtbDF2T1Bmbld6MEl2T2gxUnItN09oTU5icC1uVGhKamRILVI2R0dOb2hVdUloeXZBcnRsZ3IyX3ZXNGpfbUVuWUV6MG5xcFI3bEJEV3c?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 09:19:25 GMT",
+      "description": "HPV vaccine: cervical cancer deaths plummet among young women in England VaccinesToday",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hpv",
+      "vaccineLabel": "HPV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "KFF Tracking Poll on Health Information and Trust: Update on Common Vaccine Myths - KFF",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSFNVLVhXR0FjdFkxM3BHbzltaEdyb3VTMld1V0VHeEhoR29SbERSNVpraWpWMXJMc3pPR2xjMFNNSHdHMEdRQ1hxdU53ZkFrSTZvbTE3cEVHYUV0STViMHA3R1R2ZEstaWtmRDEzUzU3RzJCcjU0bWhKZzNOUTZOdEp0X1BueE9vc1ZicE53QXVqU0hkRzVoeVZsVFBFNFFJY2M2VFlEMDdzdHRLT0ZfNS02Y2ZhS1k?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 09:05:44 GMT",
+      "description": "KFF Tracking Poll on Health Information and Trust: Update on Common Vaccine Myths KFF",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Why You Shouldn't Put Off Getting The Shingles Vaccine | GoodRx Josh Hokit (gRTeStdSXH) - Mshale",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IUkVVMU1EV2dRR21MMDRHaWhaMEhDLUYxZ2pia3dsZzVOQ05UWEFId0ZMdWlMN0hKZXlHUGVRVjk4U3VKWmFTOFdIUW0yamJuenhvSjJNNTZqX0E?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 08:57:31 GMT",
+      "description": "Why You Shouldn't Put Off Getting The Shingles Vaccine | GoodRx Josh Hokit (gRTeStdSXH) Mshale",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "shingles",
+      "vaccineLabel": "Shingles",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "China-based CanSinoBIO's meningococcal polysaccharide conjugate vaccine receives registration approval in Argentina - BioSpectrum Asia",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZW10bkZ0N3QwTG1iVEU0QlA4VGh4YTVhYldFUE15LVhTVFdUVFFfV0hTLXI3Rk5lVGV2OFp5U2hBRUFqNnlsZkY4NURadmh0VWpSU1poUWJaR2UwSmJLWDY4b2RLMUEzTjQybWFGTTJ2alowaFJyNDNxUzlXWDd2dF9MdVZYdzJud2xNMmNsMGxDUWdGZVpoa3hYbnBrektPMWJncEJ0M3M5YWgxX1FwM1hHTV9McVBLaHdONXAxSGd0b25VYlItaGJvT2RFRk5Ra1lfOTlRaGhsR2ppSkU0TmR1bmpiLVVqbm9IVW5ZTDNhSVUteEUydA?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 07:33:55 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQelA1dW84dUlFcFlqSGloQjRFZ2w3ZmgtVWdjNVp4OTBFWldnT1FScDRVMnZVYmRCV1pNWHRvZnpxWElWRGhMamRNSXNHdFBJV2NBczlZMGEwUHE5SFpBYmY0MTdEUlVQdXRHTU9sZUpJelU1NkZzWGRNLVV5akxFUWhqWUhwSHlQSk8xRG9MSHNCNjhYTm81emhpVlBmUFpabUZ3RWhqa1pPS2FnN1hWSHJZOHR1UENETEtTQ3p0THVIaWw0eWFnaWkzS0g4RUl6YnlzcVlLQ1RqVUhHbmxEUTFyQVRlbnZEOUNWRVVBUHlRWEE3c1VGQQ?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 07:38:15 GMT",
       "description": "China-based CanSinoBIO's meningococcal polysaccharide conjugate vaccine receives registration approval in Argentina BioSpectrum Asia",
       "source": "news.google.com",
       "sourceType": "news",
@@ -74,7 +157,7 @@
     },
     {
       "title": "Editorial: Hegseth's vaccine policy backfired - reflector.com",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaWRna1FnS2tiMkdGUWZCa3llUDdPZ2lpR25MUnp0TnNuSFUzclVycVEtaHMxeE0tU0JWX1QzS2ZhX21fRm9CQy1hdDhqeS1jZDcxUXJ3aDRsaDVUNGl2bEZuUm1MQ2lBTTROMVd4Z0xPOWhUaXFmSGV2SWYyM2UzT3JnQ2JjSm9COHFocmQ2TS1iNmlIQl9lMzNQNlBWTlZlYklVRHFfOFk1eElQTDVJN3VOaWh5bXFHQWRteW5qNzNZdnV1d0QxaXJLV3lack1HNGs4?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYVkxOUZpc3VjM3J3TUw3U2ZjZUdWeVl1VWxBZmZ1cVVWYll6RjhmREVwV3ZGN2RpOHd6M1hrRzIzMnVxOWdHZTc1V3Zjc3cwNzNqbGlkTVB4N2ZibUhvR2toeWpQZ3dvck9QZC12OVZfTzktdExSNHZoSEFUbFQ2bmxnZTZkaGhQdmxmY3NrTEtmaTBfZDFteDU5bGY2T3ZvOEU4RTFkQ0NOUjBDXzh6d1RCdU9VTlIxdFNyUnRCYXpKeXBhMEw1TXJ6aWZ4M1JlWW5QRA?oc=5",
       "pubDate": "Tue, 30 Jun 2026 07:30:00 GMT",
       "description": "Editorial: Hegseth's vaccine policy backfired reflector.com",
       "source": "news.google.com",
@@ -134,19 +217,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "New pneumococcal vaccine for adults on the NIP - Australian Government Department of Health, Disability and Ageing",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMnMyckJhOE93M3lFSmZfNDVRZ0V4bHcwemhzMG13azRtVmZvY3FPT0RVUC1ncjJjZkxKNWFQckZqLTlKQk9sRklGbjBfLTVLM0owTVJWbkZBdzJxNHkzYXVaOTlFaHhiam1JNmV1WnBHbVNKNlJrTlUzbHlYcE5lZkxVZkhZYmNWcW0tQTMtUHFqQjlCbEJseWFVSmR6MEp2VlNnZ1dxeTBiRlYtcnd6ejIyZTlpeEYzZlVFNktBal8?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 23:45:49 GMT",
-      "description": "New pneumococcal vaccine for adults on the NIP Australian Government Department of Health, Disability and Ageing",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "pneumococcal",
-      "vaccineLabel": "Pneumococcal",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -385,19 +455,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Emergent BioSolutions (NYSE: EBS) lands $52.7M U.S. ACAM2000 contract - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbHRqREw3clFnUjZ0emk3THk0NEFQYnlsUnZnUDNXZEdObzYxelFxQ1BMbnlaWVlaV1lTU3ZFbnVaekM1bjZiNUZtbnl3WTFLMzV6WDhEbXpLSndwZk5JNHpKdHN3QmJHRVZkdGtxNEhUWlN4S0kxU1lZemhuUUVhTVRFT3RYX2ZhZDgxVEQ1Y3V4M3lneDdFeHlLUFJDLW5YM3dQVUZhZUZFVDJXSFkzMDVzdmU?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 15:15:14 GMT",
-      "description": "Emergent BioSolutions (NYSE: EBS) lands $52.7M U.S. ACAM2000 contract Stock Titan",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Researchers discover a possible link between the shingles vaccine and dementia prevention - 95.5 WSB",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcF81THFVLVB1TUxNX3REc2tPRUN3bFViQVl4dWc2bW5WejN2MlY1WVpkV2psTWE1N1pCcEJKLUllNTdyd3lSMUVJcXpRdEFqdjNTelVXRm50V1R3Xzd5enFwbUtsclAxR1JYT29NR3docmtSNUhickg2OTdsNHQtbnlNXy1pSDk5bTAyeG5xOC14QTVxN0hHLUluYVlmbVZGb3dCMzNwUm5WRHNzbjNCZkF5YTd6TDg0OFp2OXBVTk5YOWRTaERFcUM5VEtiS0Z2aXBHTzR1V1RfYVnSAe8BQVVfeXFMUDNERVZZY25DTk9ja1l6Ylk5R01DUDk2MXJSdFRQUTVHdXF0U0VyNDlIcG4tQ0pHQlNQZklvYlVHYS15RjNVT2hNdlZlak1mdHhPenpHZ1Q0Slh5WW5aRXZSTjBidWhTSXlEVHFVRXhVcllYcFpJeS14ZEZaNmJNWFlsSGFKZjlsazlHeFY2R2o0ZDZGMGdXbC1sQnd6bUVPQjdYWmItYU5YZ2pJVHpMTGg5cUczb0dZVzYyWjB6M1cteVk0Mm8talhiY2ZxZ016YmNscGNadlMxcjVwOHpqYWFMamtSYmZ2QzJuenBDblk?oc=5",
       "pubDate": "Mon, 29 Jun 2026 14:52:49 GMT",
@@ -580,19 +637,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Anixa gets first Korean patent for breast cancer vaccine - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRFlxU0MxYXRvdWJvNUlwQ0xTTUk0U2phdmV6TFlBaEZkWlF5cXFUX0tmSWFkWUhJMUxWZkJFTTcxaTZiY1ZMOHBOSFJpZUFza05nU0dyTldhLUZWdmhGbHhtZ0kxUmpub0p3YTJ3Uzl6eVN6LV9JREU5M2REdldjcnlGQVByQVhheWNSS1gtNVRsa3F1bi1qSHV4RFI0ZVIzUEdYUlIySUVBYXRFSjF6WTlXaG1UT29tV09ZcXZ5TQ?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 12:45:00 GMT",
-      "description": "Anixa gets first Korean patent for breast cancer vaccine Stock Titan",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Emerging mRNA vaccine strategies target cancer and pathogenic viruses in potent new ways - Medical Xpress",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeENDSHYxdUROSklWM1pMNV90ckU3NW9BeHBWQVEwY1NJdTEzQVpETnp3OGlfRy01MUE1OUpfVkxuRW1VUkhPNWJoa2l6bEw3OV9NV2Q5N0V3UGx2UktiR3VuNS1jdkZic2w0UnBwSW54Yzdta1BtVG1sMDBJdldxQk85d1pCak9ESkJ3?oc=5",
       "pubDate": "Mon, 29 Jun 2026 12:00:01 GMT",
@@ -762,6 +806,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Efforts to end school vaccine mandates hit a wall in Florida - Daily Kos",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcEJvamp5WE5WaEFvNTBlTlNhRzVTbXZsQkU1TmpaQmF1LUYwZjQxQTVvMnJTYTdOVkh0U2RqdXB5RkFJMHJNSV9mN3l6QWRLQUhtdk03WGVYSkRDN1F4MFluMUhIM181V2ZxTktHbGFhU21XVUZtR1JscXZsVE1mb0VRRDJkVnN0MmFfWlg3YTEwRTM4SXdZaXQycGx3Tkw3d2U3ZmNyTXlFNHNnRWFadlNTdU1GQmRjbk1EajBR?oc=5",
+      "pubDate": "Sun, 28 Jun 2026 21:00:00 GMT",
+      "description": "Efforts to end school vaccine mandates hit a wall in Florida Daily Kos",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Pennsylvania measles outbreak grows to 72 cases among children and adults - WHYY",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CVWNZbWxhb3JnQ3Y0RWN2RUY1WFRkT2pKVFk3OTh2cVljUTY0eUVubFFPWVZIdzJSY2hMendvblgta1BnZ0ZBSU9UZ1prY3QyeXQ4Y1FCbGYtMHR0WGtBejRaRFVCWU5CZkwzQ1VNOTR1YnM1OU5hdg?oc=5",
       "pubDate": "Sun, 28 Jun 2026 19:16:46 GMT",
@@ -877,6 +934,19 @@
       "vaccineLabel": "COVID-19",
       "articleType": "research",
       "articleLabel": "Research"
+    },
+    {
+      "title": "RFK MAHA vaccine study censorship is driving US brain drain | Opinion - The Courier-Journal",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVXZkaVJNSUZQVWJzOS13bVhROTBaVzBjcVBTU2c3TW5pRjZZLXBUek5CSlE3cTR0bEY1QTRYY2owRENDZFBsaHR0Tl9KSHRRTzRNLXBHU1VTbXBVX2JVbHhqVnlUdU1JUXdUSERIOWpoUVd4Ujlnbm9uNUotOFo5UzBRS2NCOWhLTEIzZGZfTW10dGI2aTZHWmhXeVlpLTRpOXZEVFBOSFZianZjREpWZFNteFlNb0V1cFNDT0lWbFdtVGN3M242UnJyTFFjOFJReWN3ZXRNTXMtSEZqWFF5YmhuZFo?oc=5",
+      "pubDate": "Sat, 27 Jun 2026 09:03:00 GMT",
+      "description": "RFK MAHA vaccine study censorship is driving US brain drain | Opinion The Courier-Journal",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "opinion",
+      "articleLabel": "Opinion"
     },
     {
       "title": "US starts vaccine effort for Ebola Bundibugyo as outbreak spreads - Reuters",
