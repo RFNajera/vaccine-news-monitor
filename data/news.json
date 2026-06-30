@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-06-30T13:09:57.077Z",
-  "itemCount": 68,
+  "updatedAt": "2026-06-30T14:10:51.864Z",
+  "itemCount": 90,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 8
+      "count": 11
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 8
-    },
-    {
-      "key": "rsv",
-      "label": "RSV",
-      "count": 1
+      "count": 10
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 5
+      "count": 7
     },
     {
       "key": "hpv",
       "label": "HPV",
+      "count": 1
+    },
+    {
+      "key": "polio",
+      "label": "Polio",
       "count": 1
     },
     {
@@ -45,7 +45,7 @@
     {
       "key": "shingles",
       "label": "Shingles",
-      "count": 2
+      "count": 4
     },
     {
       "key": "mpox",
@@ -55,10 +55,36 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 37
+      "count": 50
     }
   ],
   "items": [
+    {
+      "title": "Major Study Supports Same-Day COVID-19 and Flu Vaccination - U.S. News & World Report",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU1BvbTVKYVUxX0JYVXNFWGpvSmF4MEhEQ29sZjNGX3FpM2Y4RTJMblRtMEJNenpVX2V6NHRUQVVST2ttdGxkN2haRzZlWW9lVWdzYWN2eWgtelhKRzFwTTFEZjlnb1Voby1VNlM0SGVqVVVWMUxnR2E0d0pBYjVBUV8xUDZiZjJyWFpVa3RXbmdCc2c4Sy1sb1NjSFFob1BUcURhOTlSdG5xSC1JdWNuR29HcFFyTGEtMlE?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 13:44:27 GMT",
+      "description": "Major Study Supports Same-Day COVID-19 and Flu Vaccination U.S. News & World Report",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "AI Vaccine Research Surges as the First AI-Designed Vaccine Enters Trials - Technology Networks",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN2EwTTUwaFhicDhSN2VCTFl6dHEtVmJjSHAwb3VKMmFZZ01OdEFiOTRtcDRPSlAwZmFtV0RUaWEtV21SbThZMy03YjB6RU5OSDVCUWVXdU1Xd2tSQ18xVGp6SWp3OGZOREVXZEwyX0pxVVlDbGEzTjI5QVdqa2ZOdUN0WHVCQmVNZGo2eVJsRy1NUVRlM1dFWml5MVpkb0FUVHJBU0c3N0JnZXE5Rk9lYTNGUzQ5ZElIRXZLcnljelljdmdzbkdfeg?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 13:14:13 GMT",
+      "description": "AI Vaccine Research Surges as the First AI-Designed Vaccine Enters Trials Technology Networks",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
     {
       "title": "The ongoing impact of U.S. vaccine hesitancy - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZW5neEZ5RzRpdk1hMzZ2bC1fdFFRcFZEWE1McXd0MjBTNTVlMzRRcVNiTG0xcHEwdTN4MTY5NHRNcU1oeHQxSlBpWUp1R0d0UzVVS3pQQjJMSkRvcFY3ODlLTHhuT2loakp1d0ZWYWVWSi1ocFQtZmc3V1ZQV1EzTzRZVnNNa21vU01RZU5n?oc=5",
@@ -112,6 +138,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "'Stop spreading misinformation about vaccines!’: Witness’ testimony on COVID shots stuns Senators - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQYWpjZ2E0ejJtNTJBOXRqaGFsVjdzbGtqYWVPQUlHZU9CRzAxczU0TTNPRldOTmRwV3BvaF9SbVI2U1F0NVV4VTVXcVZoV1JqaFRUbHNfQ29sTWZpTVNPWGppUjF6NUExb0xWSzVvT1JQektNRmloVHNfRzZuMl90UFdTZ05BUnFYVzdadFlLR2dwUVJ1OVZ1TFV2WHpjeXdnTEVZazBZeXNsX3ZhUEJ0R3ROSHNub3dtYUQ3QjhkTUZfVl9Ea2hmVWhEUUZoNHBPX2xrUlNxTUEzT3dLVE5rTm1neXVaMkZMU3hFRW5pS1BOcGtDYlhxX1JhNlRLLU1oLTFaWdIBigJBVV95cUxQbklQVGdOWVNPUXB3YXB0VF92YVYweWVfTUtsbnA1NTRrTk9qSGthN0Y2WDhOYWRoVlZic0FVc2JteWpPMVhVWmZJckI2SDFFMFdQZl9aLVVFQ2NTNXJfUzRvd0F2T1JuRUhkczZqS1hpaTZCeEFKeWV4aUZGQjFTX2RKd1dCLVBIUng3N3JURmZzZ0xZSmgtQnI4Zm05MlplSEtqbWZ3QWpPZEdqbkhfcllVT01MQkh1ZExKbS1kWGp2UDh3YUZocm1WX2tTX01TYnNpS3BaQWhqbXFRVGJ5TEF0VHJHYzFyd1NGeGNudGk5U1k2dTRyZHNVR1JhSHA3MmxlMHBrWmQxZw?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 12:20:13 GMT",
+      "description": "'Stop spreading misinformation about vaccines!’: Witness’ testimony on COVID shots stuns Senators The Economic Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Castro pushes to restore military flu vaccine mandate after outbreak at JBSA-Lackland - kens5.com",
       "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxORkl6R1Y2SGpEOEt3eUprZ2ZheW03QmhZZVptQ0ktQWdXaFFBOUxhTzlYSVE4ODZWMVF1QUlYb0NLQnNYenNxS19MSENZM1pUTDVyVE1yTGlIT0VqVG1IcnMzUmFqSjQ0ZzJua05LaWlCQkZ1ZTNtMnZrSlUtVFhTcEl4d3FZS3o0VHRfZmRsR2V3NHowMWwtNGJrUm03YXljYW1seEtxTXU2SUdONGF1T1FKN3h1Z0hhX0FjNnF5NEZBOUhmdmlSRWJyQXBDV3RjSU84aG9ta3lOdUtsS1ZXamJwVlJvQXl5d212dDRJMFlfMkpDZzBjNjIxTncwNmNCQUZna3g0cmRudkRGYkc1SUQ0TWVjRldJbFhuejgzeWUxX2ZxeGJiWmJyS1g1d0lWVEhtVUVOdE5Bb2MzREttbWNTdTNleldsRDFzdUxn?oc=5",
       "pubDate": "Tue, 30 Jun 2026 11:11:00 GMT",
@@ -125,6 +164,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "People Experiencing Homelessness to Be Offered Flu Jabs on NHS - EMJ",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWnJlMEkyZ0tBVjNxYXdPZGREeVJSeU1wWGhKVEpKM3pvMUlYYnAyeW5xZDc2enZYQVZUVFZEM1lWYlFWRW9xd3JGaWl2NGo5LU9jb3NsTXJwcDF3NEl2MkI3VlhEWm9fazZDeXl2UEdicWt0WWlhNWZuWHMzTWs1NnptekRvOEpwbzJxTlBPWmZhZ1A2UWhUWlR6WHNYOXRZanFNU2RRU0JENGt0M0RqSjI4VHI?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 11:01:12 GMT",
+      "description": "People Experiencing Homelessness to Be Offered Flu Jabs on NHS EMJ",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Heat illnesses, flu outbreak in the military, a new mRNA flu vaccine, and more - Your Local Epidemiologist",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdVoyTjhGckNuVDR1dWk5SnlaSDQ0TmFiYjFCQm9xVDlsVDFoZFc2NV95dEJ5MnZhdVBIeGQ0N09QbVdEaklqczBpTDhQRUVDRzlPSVFUbWFUcFZqQWlpT2dENlFyeXZ6eVBoOTBpSEpLVXUyei1kQzdEVWV2Y2lKUlR0Nm85c210?oc=5",
       "pubDate": "Tue, 30 Jun 2026 10:30:23 GMT",
@@ -134,6 +186,19 @@
       "sourceLabel": "News",
       "vaccineKey": "flu",
       "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Intravacc Highlights Four Integrated Vaccine Development Platforms for CDMO Partners - The Manila Times",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdV9CbVpfWjN0YmZwNFQ1MDhhMWg1UFBiWVVtQ0E0VGFfR05TaW9FQTE1cEs2bWEtSXM5LVg2TlByOWw1cERMbDhnYkRUcXhyenlKbTNGc2I3Z29hcG9WcnlsVVE2T192UWdRRHJhU213S1hmd3c1Mlk2SDNEaG5uOW82ZUVLX3FYRndZMUtXOXpCaS1RV2ltOG9zU29MM1dwTDVIay1vd29iMURIdGNpdEhfMDZESUloNjRBaVBPOXVoZl9XM0VhSGFOTzIxMWdqSEhyUXo1bThqOW5fTThzTWJmQnJiNXF2eG0tOFU0Y9IB9AFBVV95cUxOTG1iZmNORHZCenBkM29LajBieHYxTGxTRVRxRi0wUlB3YTN0OC1SVWIzeTVrNmNoczNNRlhsSXI0OG5UMWRySnVCZ0IxR2ZTM0xESUtESlJkVUpfQ1JyTXV6cVhKTE8wRHlLLWJKWl9CQ20wWFpWNXJBd3NEdVhCMlVYMjkxNVItY0ZncGhrYlRBZEdxQU1obU5mY0RKTFFMdGVnQldUeVJYQkx2TzZfeDR4Y00wTHdGUmNqZmYtUENRRnN3bUI1TUMwZVVnZE1fR2Y3S25iODYxWDZ6M1RaUEpvTWtpTlltQjZNc3ZOUlR3U0NT?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 09:40:13 GMT",
+      "description": "Intravacc Highlights Four Integrated Vaccine Development Platforms for CDMO Partners The Manila Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -216,6 +281,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Why You Shouldn't Put Off Getting The Shingles Vaccine | GoodRx Josh Hokit (gRTeStdSXH) - Mshale",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IUkVVMU1EV2dRR21MMDRHaWhaMEhDLUYxZ2pia3dsZzVOQ05UWEFId0ZMdWlMN0hKZXlHUGVRVjk4U3VKWmFTOFdIUW0yamJuenhvSjJNNTZqX0E?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 08:57:31 GMT",
+      "description": "Why You Shouldn't Put Off Getting The Shingles Vaccine | GoodRx Josh Hokit (gRTeStdSXH) Mshale",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "shingles",
+      "vaccineLabel": "Shingles",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Anixa Biosciences secures Korean patent for breast cancer vaccine - BioSpectrum Asia",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONVBvYnhZMFNIZXFuS0phMzNsV295SGo0aV9tQXpyV21ZdXdldEt2OEdkdXVQLUYxZnRtY3NKRS16aWYxTVJqaW5sbkJibFhiT3JvWkVVbGpVN2FqaWkwM2RFQnVjYk5kaHZ3UWZjc0tyNlZBNzdxemQ5RFhNOWhHQkZTTUhBSHVMcV9zN2RwT0s5WXVQa0JHWlNQVDU4WUszWjBQNFVIY3gtNk9LMk1QNUIxZ3V3aFU?oc=5",
       "pubDate": "Tue, 30 Jun 2026 07:43:59 GMT",
@@ -231,7 +309,7 @@
     {
       "title": "China-based CanSinoBIO's meningococcal polysaccharide conjugate vaccine receives registration approval in Argentina - BioSpectrum Asia",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZW10bkZ0N3QwTG1iVEU0QlA4VGh4YTVhYldFUE15LVhTVFdUVFFfV0hTLXI3Rk5lVGV2OFp5U2hBRUFqNnlsZkY4NURadmh0VWpSU1poUWJaR2UwSmJLWDY4b2RLMUEzTjQybWFGTTJ2alowaFJyNDNxUzlXWDd2dF9MdVZYdzJud2xNMmNsMGxDUWdGZVpoa3hYbnBrektPMWJncEJ0M3M5YWgxX1FwM1hHTV9McVBLaHdONXAxSGd0b25VYlItaGJvT2RFRk5Ra1lfOTlRaGhsR2ppSkU0TmR1bmpiLVVqbm9IVW5ZTDNhSVUteEUydA?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 07:33:55 GMT",
+      "pubDate": "Tue, 30 Jun 2026 07:38:15 GMT",
       "description": "China-based CanSinoBIO's meningococcal polysaccharide conjugate vaccine receives registration approval in Argentina BioSpectrum Asia",
       "source": "news.google.com",
       "sourceType": "news",
@@ -294,6 +372,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "FMD | Free State reports 14 new cases amid vaccination push - African Farming",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ0hYWjdla0F6YjF5aFViWEZ0emplNHJYQS1zV1dWZm5QNkNsSnZRcWhWbEhQQlQtVVJ2Z0E5aFg4WDhmb012SlB0NzJ0VmZuQ1ZuQjQ5ekVReUQza2QwMDhWbklDemw4cEFHRGxtQVlEY3NGejZiYnVCSGxGTGd6dk5nbWZVOElNZ1VNYk41M0hRSU91V0Y2dWVYTW54bmFpX3c?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 05:00:00 GMT",
+      "description": "FMD | Free State reports 14 new cases amid vaccination push African Farming",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Blocked by Kennedy’s CDC, validated by peer-reviewed scientists: Suppressed COVID vaccine study published in JAMA finds 50% risk cut - Genetic Literacy Project",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOc1prekJ4LUs1b2E2N2xtTU5ZM0ZNZU8wNHI2UHJ0RmFfNk95MlQ1NkdBUG0wMFFtRURTUG92NWc3eUR5WGdiNzhvYm5IUGNZQkZLN0hmRFREb25PQW5CVnUwZHhHUk9IQXRQWVFqMmNOeEYwMFdGUjRSbVo0a3Q1NndmR01kcDl4UWNoN29VMi1zOUFTVG56WG5nbFZ4eEFlbUtlY25GQnpYbFJDaEZmTTBlMjlRcWF5ZjNGaDJGeUlZQ1Q0amtBNG1zRm83WXZpMXpNMXdIR3lyQzBVTi1tekhIMHlINFNLazBqeUJRVk55MEJIZnF3dldhNk5wRDdkem80ZDJR?oc=5",
       "pubDate": "Tue, 30 Jun 2026 04:11:18 GMT",
@@ -337,6 +428,19 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcVFMd2VobEV1VF94WlV0M1Rfblo3TV9mSkJ0a212Y0ROdDVGNTVqZ0RiZG1OeUZ2VXFEUk93Q0tIWlhqeFlGZUtqU3NfVkwzbkQzOGRYSE9kMzFseFZUa1YxSXZMeTRxX2Y1X281SE0tU0lUbmFJOGpPMm1BZnBpcG9wWDhEZ1Njd1owYkJvZldaa0F3YUE?oc=5",
       "pubDate": "Mon, 29 Jun 2026 23:40:01 GMT",
       "description": "Experimental vaccine for 'neglected disease' carried by hundreds of millions of people shows promising results Medical Xpress",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "HPAI vaccines in India: A new chapter for poultry health, or a step that demands greater caution? - avinews.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSFRuRDVMN2RvNEljWk9zWDdGZTVZdVlZemRYSTdYb3FOWTBfa1U2R01BOEhCTXVDOGFlVzBhVzJkY01VMm1GMlZCcXNoUGtLOGF4VFBFQXdTYXZqODJuLU1ocWtaLXVtT0JxYUhXZFVyUDJQSmZoM1c5ekNmWWNVNDd1eU51bGdNMWNVazlBZFlLaTZJMFVhRFBpbERFUkNuVm1kbFNtWHdYbmtEeThfSy1YdkloTzhicnc?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 23:32:19 GMT",
+      "description": "HPAI vaccines in India: A new chapter for poultry health, or a step that demands greater caution? avinews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -528,6 +632,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Emergent BioSolutions (NYSE: EBS) lands $52.7M U.S. ACAM2000 contract - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbHRqREw3clFnUjZ0emk3THk0NEFQYnlsUnZnUDNXZEdObzYxelFxQ1BMbnlaWVlaV1lTU3ZFbnVaekM1bjZiNUZtbnl3WTFLMzV6WDhEbXpLSndwZk5JNHpKdHN3QmJHRVZkdGtxNEhUWlN4S0kxU1lZemhuUUVhTVRFT3RYX2ZhZDgxVEQ1Y3V4M3lneDdFeHlLUFJDLW5YM3dQVUZhZUZFVDJXSFkzMDVzdmU?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 15:15:14 GMT",
+      "description": "Emergent BioSolutions (NYSE: EBS) lands $52.7M U.S. ACAM2000 contract Stock Titan",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "US military races to vaccinate new recruits before flu shots expire - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42VmEzRFZkVldwWEs2djBFVFpKYTNXMjJSaG9uQ210SnZDM3hfWTlwZzNPdjNSQ0lUZjRNVVZaOWhxSDNWMS0tYlo2TDI3d01zUjlFNGlBUWdBT3hxNzZJWmxiNWlPYk5RUnpEbENDOXpIQWlSUk1lYQ?oc=5",
       "pubDate": "Mon, 29 Jun 2026 15:12:00 GMT",
@@ -593,10 +710,62 @@
       "articleLabel": "News"
     },
     {
+      "title": "Polio Free Afghanistan Initiative Urges Vaccination for Cross-Border Travelers - 8am.media",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRFRIZkhsc3lKbmZ2UzdDTms1eXFNa01TY0lFOGhPbFlRZVVnS2ZmUFYxZGMyVG1aMnowczBrcmtNSGFqTmZwOEZxV1daWTdzZWxLM3FOZWpzUkdwVUtBdWNIanpPLWtxVzYwd1dnZ2NaVGpla2hxQUFKc0M0S3J4WVB2YVF3bHNxWHdWSllZaDFfUlFGWnZXNDhiNWV3NkJZMVNN?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 14:13:29 GMT",
+      "description": "Polio Free Afghanistan Initiative Urges Vaccination for Cross-Border Travelers 8am.media",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "polio",
+      "vaccineLabel": "Polio",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Group that won court fight over COVID vaccine records presses FDA for legal fees - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc3BSM2RGVWRXNHBtUHdROUZBSEJldXhibUxmQ3hmTFpZSUt5ZGwzbFR3WUpvQ1NVLUg3NmdUdG51ZGF1U25YMTNlNFVITGE4VVZtd3RWS3NxMEROS1YzVFF0c1ZVZHFyNV9hMjBEQzNndTdtaEl0azNHT0czamtONHRGVVpDRlRjcGtfaEJJVEh2MEtyazhSNFE3Z04zN1E5TlJ0Yk1GQW8tZWVEeGhPUXJwMnZzRm94Z0hiTGNOalo5c1VURjd5SQ?oc=5",
       "pubDate": "Mon, 29 Jun 2026 14:07:44 GMT",
       "description": "Group that won court fight over COVID vaccine records presses FDA for legal fees Reuters",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Anixa receives South Korean patent for breast cancer vaccine - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZmNUcU10N2djOHhkb3RJTDVDMkJ5WExKYnp2Q3JHanY3WTUxcGZvRU1SUW45SmE1MmZ4aV9vbmw2R1p6cTVxU2tXUGZjTnA2SUFxZU1pRE9kdzNjRnNVNFVMWkM2V3Fvck51ZXctN3BFbUl3dFhoTUlaOGhDSlpJZnV2Wmd5MHRXVFFTR1FWZENGa0s3U2NTb2lqa2tiUzJaMjhjdTlmTGVSOW1DZy1OQTRzTi12Qi1O?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 14:01:45 GMT",
+      "description": "Anixa receives South Korean patent for breast cancer vaccine Investing.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Emergent BioSolutions Wins $52.7 Million U.S. Contract Modification for ACAM2000 Vaccine - citybiz",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWWxFSnBOMTlkdHVXa01vQ0JBeFp0SWpRd19wcTI5ck1yTll6cUtvOFA5aEpWQzd2QWlUelN0YlgtaWhsaDlVRHpxN2pjUDNGT3JfT3B1TTl3R3BGbnlDakNSSHAySHlvMWlhSVBEclNSWWhaMXFnSGtGT1Vyb05QRThHV3JZbmdwTVVraGpQc1RBcGxhdjhEaFgxMzhNMTNvWjE0TjlvMll4T2t5YzZsT2xyVnIyaG9JWHZDWFlBUFhES00?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 14:00:18 GMT",
+      "description": "Emergent BioSolutions Wins $52.7 Million U.S. Contract Modification for ACAM2000 Vaccine citybiz",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Group that won court fight over COVID vaccine records presses FDA for legal fees - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZWpUdUJDU0pwRkZiZUwtaWxDdHNfTEtka2JfWFNIdmxXQ0FhM0xYaWZXb0w0M0FZYTJ1QW1LRGh2ZmVEVFlFMWVSdk5RTGdRZXljbU9iUXJuNzRuMTRLQWVqSXB6MFNIQzI5ajZBdmxoTGNfNm5DbFFGbHRDZDZLWHprLTVIc3NHa004LUJ2VWlDdWZ1UGtjdTlXamw4S3dFMmlfXzhDYTBmM2lBb2JlN0J6bGUxVlNCbDdEYTBPdVVfVDdkeWNyUDdUcXVtUjJRTmt6N3h3S2FOOXljelpzaVFBOTk?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 13:52:16 GMT",
+      "description": "Group that won court fight over COVID vaccine records presses FDA for legal fees TradingView",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -615,6 +784,19 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Emergent BioSolutions wins $52.7m smallpox vaccine contract - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUkprZ1U5ZDdLeWRuZnpKQTNxVGl4V3R6d2hzNkVlQTdCZkRyNjZHWXZmNWhIZGhMTmk3V29LOUlCOGV0U0Z6Y0JJMGpyMS1IU0dlZ21XSGx4bWFuYVY3bXJlbzNEbWhQY2J5UzRqYmRTdjNueV9oOFpmMXlkZkgwYThOQl91MW0tSVZHME1LZUtXeUQtcmE3aVcwbnRsdUVsOGNTS0tWTnIxdnNteEVtVUpZTE8?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 13:42:15 GMT",
+      "description": "Emergent BioSolutions wins $52.7m smallpox vaccine contract Investing.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -645,6 +827,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Anixa gets first Korean patent for breast cancer vaccine - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRFlxU0MxYXRvdWJvNUlwQ0xTTUk0U2phdmV6TFlBaEZkWlF5cXFUX0tmSWFkWUhJMUxWZkJFTTcxaTZiY1ZMOHBOSFJpZUFza05nU0dyTldhLUZWdmhGbHhtZ0kxUmpub0p3YTJ3Uzl6eVN6LV9JREU5M2REdldjcnlGQVByQVhheWNSS1gtNVRsa3F1bi1qSHV4RFI0ZVIzUEdYUlIySUVBYXRFSjF6WTlXaG1UT29tV09ZcXZ5TQ?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 12:45:00 GMT",
+      "description": "Anixa gets first Korean patent for breast cancer vaccine Stock Titan",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Emerging mRNA vaccine strategies target cancer and pathogenic viruses in potent new ways - Medical Xpress",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeENDSHYxdUROSklWM1pMNV90ckU3NW9BeHBWQVEwY1NJdTEzQVpETnp3OGlfRy01MUE1OUpfVkxuRW1VUkhPNWJoa2l6bEw3OV9NV2Q5N0V3UGx2UktiR3VuNS1jdkZic2w0UnBwSW54Yzdta1BtVG1sMDBJdldxQk85d1pCak9ESkJ3?oc=5",
       "pubDate": "Mon, 29 Jun 2026 12:00:01 GMT",
@@ -658,17 +853,17 @@
       "articleLabel": "News"
     },
     {
-      "title": "NUS Breakthrough for Aquaculture: Oral Vaccine Protects Fish From Fatal Nervous Necrosis Virus | Newswise - Newswise",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOWVYbVBXZTFNTmcwQS1KSk9kRjY4cFFfdXRRa3dhcWwxUDh4eFJSZzM3RWZadWxvV3FsY29xdTVmTnVITUsxQWx6Ykg3RzVhVHFDbXhnaWtWWU1zbXlXWEctdVJ0NGZCS1ZPVHFLUGxIQ28tN2tVdHFOaEVlQkQ0N1Q0SlYxLVhJNlJVbXZxb0hiaHZ6dlEzZ0x1MDVuZmYxVjl6RFhUYV9WTElNV1lPbmRWbHM5RlE3VkEtMTlCSl9USktpTVHSAcYBQVVfeXFMUDllWG1QV2UxTU5nMEEtSkpPZEY2OHBRX3V0UWt3YXFsMVA4eHhSUmczN0VmWnVsb1dxbGNvcXU1Zk51SE1LMUFsemJIN0c1YVRxQ214Z2lrVllNc215V1hHLXVSdDRmQktWT1RxS1BsSENvLTdrVXRxTmhFZUJENDdUNEpWMS1YSTZSVW12cW9IYmh2enZRM2dMdTA1bmZmMVY5ekRYVGFfVkxJTVdZT25kVmxzOUZRN1ZBLTE5QkpfVEpLaU1R?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 11:10:00 GMT",
-      "description": "NUS Breakthrough for Aquaculture: Oral Vaccine Protects Fish From Fatal Nervous Necrosis Virus | Newswise Newswise",
+      "title": "Viewpoint: RFK, Jr.’s vaccine subterfuge campaign now flies below the media radar - Genetic Literacy Project",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZzcxY0I1d294cVhUTjAzYkNPcldmR3JaQW9hX1AtaFA3NTNJZkNIUVdUeENjbi0wVElORy1mU1A4V0sxMmIxMEhnVFBRMUV1UTJWaDU2cEo3S3hGb212UXRVZEZOMDNENnZkSUJZblBxRFNWTFZ6OFpZdl9NTlNYenVVV29neDJfaTdNRUJiU2pjNVB2S0R6Z1RGdkpGY0RYX3dvMFpnSGJMNFVkSlpJR1FKbExwbjU0STJ4T1FWZW55WWs?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 11:01:12 GMT",
+      "description": "Viewpoint: RFK, Jr.’s vaccine subterfuge campaign now flies below the media radar Genetic Literacy Project",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
+      "articleType": "opinion",
+      "articleLabel": "Opinion"
     },
     {
       "title": "EMA Backs Broader Pediatric Use of Poxvirus Vaccine - Medscape",
@@ -684,15 +879,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "NUS breakthrough for aquaculture: Oral vaccine protects fish from fatal nervous necrosis virus - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVmhKYVZpa0p3R0pOM1ZzX0ZRUTludHowTmsyM3FPdWZxNXV2SXpjNWhuREljbFlqdDFXdzdPNnZmdEtLUzZXVHZORDk3NEZQa0ZZajNIdnE2WkNlWkhQQlRaWGIwSFFmdGdqNC01UWxuT3JlYU9GakpPakd6TnpkNmlDUzk1eENRbkt4SkdOenFwSUpYLTZFRlAzNHNwWHhUaW9QdQ?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 10:45:00 GMT",
-      "description": "NUS breakthrough for aquaculture: Oral vaccine protects fish from fatal nervous necrosis virus Yahoo Finance",
+      "title": "EU launches antitrust probe against Sanofi over flu vaccine - medwatch.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqVmdYbl9iOFNUUEVQSERPd2lIWUtjajY5eFBIMmhrNFJvN3RWSWUzRjFJR2dZejE4SlI1TXFWY3U4bHBQd243bmFtN0F0UzRaM0NLZUJJREFDaEZzSk1rUG5PNHBna3FOcy01SERYMA?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 09:24:49 GMT",
+      "description": "EU launches antitrust probe against Sanofi over flu vaccine medwatch.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -714,6 +909,45 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aamV0NzljV0JuVWxfZGV1WlRzMkg0bFdjdVFUcFJpUWRmQU1oa2RyYk1HMlZUQXlxeFBTb0tJZ3B3X2o5d0JRdHhnS1U1R3lCVmJFNTl4YWNPekw5NERZZllnRjRZVmNrX3EzNkhMaw?oc=5",
       "pubDate": "Mon, 29 Jun 2026 09:10:49 GMT",
       "description": "Bavarian Nordic wins Canadian approval for chikungunya vaccine medwatch.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Commission opens investigation into possible anticompetitive conduct by Sanofi regarding the promotion of a flu vaccine for vulnerable patients - The European Sting",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQLXFiQnlPUVdlajRZRms5VXV6bUVPaFptU1k5SXNndHhGbGpFX0lSX2JVcE9oTC1HbHFhcURTS3phYkZReGtWdGh2RVR0ckRvSk0xTDNyamtEejBBUktGMEY1WjM4cTVWRS01MVNILXdIbzNCWTRaaDREZFpUejZhaWNQakpmMHlCbUtaMFIzcTRhemdEZU9DMWY5dmt4TVItZVpNcC1SVW95ak8wd2h1R3FaN29DNmxnZGpPUEUtRnpSUVZmbkdtU0FMNHE5ZkdldVRCSFBQa2E1RndoQUFfc3RncFgxc213dk5OY1B5azd4cjFsTmV3REpHOU1JNXU3RmdvMV9CdmdrRXAzSEl1LQ?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 07:46:24 GMT",
+      "description": "Commission opens investigation into possible anticompetitive conduct by Sanofi regarding the promotion of a flu vaccine for vulnerable patients The European Sting",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Yuba City veterinarian is helping local pets with a second free vaccination clinic, this time in Live Oak - appeal-democrat.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOQzFDZExOTEs1ekw0VnF1UjR3LXVaNzZRRG55Q0VJdHB5M0VNcEo3enBpMVJKVzhiSkMwU2NwRUVKVFJ5cFAzZTY3ZXJ6UDY2b1BhcERUYWplNEV1WEt4bHpvd2tMamFRSGlndGJ1eHlYUFExVnNRYnEwQTVEM3pobEV6b25jX0VnT0duU21oNF9hSkQyTUd4bGVnZmZLZmY4ZHBvYXl3TXJVNHRydUlsdjQxcktLdU9aeEE0NkxaM2JJYXc5UlRlUWNVSVVpcktXd05Pbnl4a09oTlhIMllEcmxLUkJGRjJXTGs5dU5RTXFkaUZrTnAyempXczAtZl93TklyM1hIWTMxdkE?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 05:36:00 GMT",
+      "description": "Yuba City veterinarian is helping local pets with a second free vaccination clinic, this time in Live Oak appeal-democrat.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "There’s a terrifying uptick in tick-borne illnesses. Hope may finally be on the horizon. - The Boston Globe",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV1ZTS2ZiMnU2UXpPeEhXLTlpWENBUnRxcHU0MFpkTUhGLXJpRjFleXViWkVsc2pUaE43VnVnYjBIYjlUc3ZjcjhZUnhLYXdkMzJPUG9MYUJsYkVEUzNQMVpweWM4UHgyQ2ZUajlMZkdDUlpFcktibllaM0twSDJEbUNjX2I3Y0Q0S09yYw?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 05:30:00 GMT",
+      "description": "There’s a terrifying uptick in tick-borne illnesses. Hope may finally be on the horizon. The Boston Globe",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -788,6 +1022,45 @@
       "articleLabel": "News"
     },
     {
+      "title": "'Master key' vaccine technique may 'prevent next pandemic': researchers - Japan Today",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVEtjN2ZkRzluUjNjbi1pczRWeGlGYlNHbmlkdS0wSllyclpsN1NndHRPb3VKcUticXk0SDV2aWRuOTd3TlRZS0hTMGNyVUNpVzI4WlNWenNsallDVVpTc1g3WFBGXzFReEtrak5Ia25DejU5ZER3ellfQkt6SDFvd0RsbUxnOFM3VUhRZVhfVDN0enBQU0J2cWdIQWlMZktfYk5JTzFSdjVlLVNET0k2ODdDM1JVaml0N0E?oc=5",
+      "pubDate": "Sun, 28 Jun 2026 20:56:00 GMT",
+      "description": "'Master key' vaccine technique may 'prevent next pandemic': researchers Japan Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Pennsylvania measles outbreak grows to 72 cases among children and adults - WHYY",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CVWNZbWxhb3JnQ3Y0RWN2RUY1WFRkT2pKVFk3OTh2cVljUTY0eUVubFFPWVZIdzJSY2hMendvblgta1BnZ0ZBSU9UZ1prY3QyeXQ4Y1FCbGYtMHR0WGtBejRaRFVCWU5CZkwzQ1VNOTR1YnM1OU5hdg?oc=5",
+      "pubDate": "Sun, 28 Jun 2026 19:16:46 GMT",
+      "description": "Pennsylvania measles outbreak grows to 72 cases among children and adults WHYY",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Potential measles exposure at Dulles Airport. What Virginia travelers should know - The Virginian-Pilot",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zbHlRMV9BYzd4Vk5pWkRVSkdIZ2g5MHhXV0gxSXN2cElWTlRCVXVjR1pCMWpwWVJEcy1sRG1HbG00Z2RabE1FZXlPOUgtWDlUc2hLUGNmT0MtcFpOUlR0MEtvblhIbUVsOS1PejhNY2paQndXNVlGeW5yRzJtUQ?oc=5",
+      "pubDate": "Sun, 28 Jun 2026 18:58:52 GMT",
+      "description": "Potential measles exposure at Dulles Airport. What Virginia travelers should know The Virginian-Pilot",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "EU Opens Antitrust Investigation Into Sanofi Over Flu Vaccine Marketing Campaign - PYMNTS.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOEhmaUV2Sld6cGZ6S0xSZC1CZ0ZrN0lNeHJiMlc3eXhZNHEwZjdoYmpYSjFzbVZxUlBVaVNrTHVybUxSUkdBOS1Ea3hmcHVLMFFfRFlSakN6QnNZaFItb1lUYnNqZGZYSVFBMzE2ZVhFNml5S2EwVXZ0SmlKX1pIcnFqVXdmREp1LVdxcE1SZWI5MG02X0JXUzRxZURIblgxMWREOEluRmwtaTFjUFRPdXRjQ3E?oc=5",
       "pubDate": "Sun, 28 Jun 2026 16:59:37 GMT",
@@ -827,15 +1100,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "Maternal RSV Vaccination Reduces Infant Hospitalisations in Early Life - EMJ",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXFWXzhHRWp5dXRBZXN3M0U4SzFxRVU5bGgwWGpQeEp3YmlVWHQ2ZWRXaDg3STlmLXc2aExKZUh3dnRUeXNxcUEtV1YzblBuZ2lucW8tNUhmWHdBV2o3YXVDdVN3ZGxxSkljUmJNNGlSU0RDbGJmTHhaU3NQNUZ5ekpkUDBZa1FGMnUyUERuTGtLN0VCZzBlaDktSTZFMm9pT0R1YmRTN3Zzd2N4R3VXZUJ1SGE2UQ?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 07:00:00 GMT",
-      "description": "Maternal RSV Vaccination Reduces Infant Hospitalisations in Early Life EMJ",
+      "title": "Shingles Vaccine May Provide Significant Protection From Dementia - Newsradio 95 WXTK",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVDBTZ1gtcW1iVnhZcDFZV3ljZF9OT1Q3Sk9WR3JUTjl3cDhBdGNleHV0R0tqQ1FKa3VhZHNUdXo5dUEzNXBEcEhVSkNYVDNfUkkxZFVzajdYbXpEaDVvVWl2QmNocVNTZG91bHRUUlU3UlZrRTF1ZjNMN2dROUxTZXlDeFNlbEtLUFhHMmNCZUx2eWFlSUIyUXFqLUN4Qm1zMGIwa2tKeWJtUV9BSFFNbEwwNlo4aWRuV0FfMHBfbmxFaWRiZTk5TGpPUQ?oc=5",
+      "pubDate": "Sun, 28 Jun 2026 08:00:00 GMT",
+      "description": "Shingles Vaccine May Provide Significant Protection From Dementia Newsradio 95 WXTK",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "rsv",
-      "vaccineLabel": "RSV",
+      "vaccineKey": "shingles",
+      "vaccineLabel": "Shingles",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -909,6 +1182,19 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPenJWMUdwZVNXUW03TUM3WHFBcEprNnBZYVNPRXgtSUJEYlI5S3hZU0NzRXI3RkVUSWppM3V2LTlpaEdSOGc5am1BdVBBRC1PelVERldXclB4QVdwSzEwQVNpZzZhTy0zQWVUcDRhLW9RSG9FbUJtWVgwaXBmUzlGWTloQjVqRFFlTzVxSGR6czJZOE5BWHBDWEY1dnJlNWt2d2ozdkk0anlEakI5QlVqV0phNmpFbHZla0NNeGVOaDJBZzg?oc=5",
       "pubDate": "Fri, 26 Jun 2026 21:47:34 GMT",
       "description": "New ACIP charter could allow RFK Jr. to further restrict vaccine access, critics say CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Moderna Is Up 14% Today: Is It Outperforming Other Vaccine Stocks Like Merck and Pfizer? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQXRaMHdNQkdmS3dYNkdqUS1YZGZNVkxJSXlCWVUyMWV5MThWMWFRZVlwQWliazdxQ2lxcnc2Z1Bhc2xGdXFYVTJwQjdUZVdVaWRqdU0zMnEybzBNX0FBWHNlWUtlY2ttSV9HNjNpcVYzS1pnZmFhQ093S29tVzc2eEVSenk3YWZRdVYtLUtYRGdtNjJvVFd2cGEtZ2RFWVhmemxr?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 16:01:13 GMT",
+      "description": "Moderna Is Up 14% Today: Is It Outperforming Other Vaccine Stocks Like Merck and Pfizer? Yahoo Finance",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
