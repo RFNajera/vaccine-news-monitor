@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-30T20:08:48.949Z",
-  "itemCount": 79,
+  "updatedAt": "2026-06-30T21:03:48.449Z",
+  "itemCount": 81,
   "groups": [
     {
       "key": "covid",
@@ -10,7 +10,7 @@
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 8
+      "count": 9
     },
     {
       "key": "rsv",
@@ -55,10 +55,75 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 44
+      "count": 45
     }
   ],
   "items": [
+    {
+      "title": "Castro, Houlahan, Cisneros Slam Pentagon for Lackland Flu Outbreak, Push for Flu Vaccine Requirement - U.S. Representative Chrissy Houlahan (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Va1NOSl84bjdCNk9xZm5tdmhlb3VobFYwVmxUUEV3TTV4bTl3M0VJMHBHRXZnX0NWT1l2U1pSM2owelhLR1cyeUhNcFBrR3Y4T0piZ0s3SFpIS2c1WGg2TmZwTVhYOHBDaGpzSDVWVjhwVkJXT2c?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 21:00:28 GMT",
+      "description": "Castro, Houlahan, Cisneros Slam Pentagon for Lackland Flu Outbreak, Push for Flu Vaccine Requirement U.S. Representative Chrissy Houlahan (.gov)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "MMR, chickenpox vaccines don’t trigger MS relapses, study finds - Multiple Sclerosis News Today",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdEo4UVQya0k4cW9UZGdPbVRRM004eFFiSGxEOUxLSGxmSE1IOF9KcEZXYlpuY05ZOHk5dmlSS0hwem1JcWtPWUlNNmpTVHE4bUJ1XzZPV2hZMEZpSm45MXV5MjVPQ1VkVWFDWFdEVTNuaHRJSDVSYVJSbkdvVEQ4SldST21rSHZRXzI3WHRFMm9PODBNOXFibE9Hd1h5QTFkSHFwWXNVd2x6MVZiYVhEQTJ6MlNOSE5pY2ZGcGhhNA?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 20:49:42 GMT",
+      "description": "MMR, chickenpox vaccines don’t trigger MS relapses, study finds Multiple Sclerosis News Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "New US poll identifies large ‘malleable middle’ on vaccine misinformation - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYXNOYjVUeWRlRy1fTU05c1VCeTNIMGxkeG9semE5QWEzRnk2a2x2TlcwakFQdXdjUm4wR2NBd1dLaDFMajlhMng0WTl6cEVyUDdGOVo4ZzJEeTNWU0MxdmRkMTB3Z3J3X2xMZTZDUkc5cDJsUFNEWlVSaGFoRXRJcXVaNTdkY004UjZJeUhoRVQ4OVFnaE9NbmdhWDVLZ3gwd1phVkJXXzN0S1pVUlpiaXloMFU?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 20:49:42 GMT",
+      "description": "New US poll identifies large ‘malleable middle’ on vaccine misinformation CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "HES holds in-house vaccine clinic - WDEF",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91QWcxS0R1bV9INjI3eThLRV9ZOGtuVy1VLXNQSHJmQk5ZcVVuMnYweXJXYV82WTNxeU1rM0ZLUjdSSnlVSmU2allGdzNZbW5oV002VjZrSjBtcmJxRUMyekxQS0dfZw?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 20:20:37 GMT",
+      "description": "HES holds in-house vaccine clinic WDEF",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Removing barriers key to improving First Nations vaccination gap - UQ News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ0tKZnBKVnNzRVZPcWdyNXcxeHBqQy1wTlpFMlFzaml4WV9qc3FKeW44bHQ2a09oLVl0UXlFcFI3Z2Fkc3l1UzF3d2V4Tm5kR2JBTVRpcUdraW14Nm1fQWRrUTVtYW03Qnc1YjQ3WVhNQnc0ZlBhZ1c5SXlPNnp4NWJrdi1LRU5Yd0lRZVJEY2NqcXRVR2Rv?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 20:01:40 GMT",
+      "description": "Removing barriers key to improving First Nations vaccination gap UQ News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "2 Democrats introduce measure requiring all service members to get the flu vaccine - Stars and Stripes",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONnVabVQtUVBWaUpybjV5RmpCUHVWYVozQzh4Ym55SEI3cEl5OW0tQ0Vaa1gtOEd3WUt6eDRUZUJBdEVYZVQ5dktNcTJaOTFlQmRNU1pqaEMxWlJGZlBCWEJoNW5IN3pBVFJKcWVlUHhMUno1LUx2Y0M2LUZ4N0FnaTBXWXROWVFaQ3BZdkVmdjVrN2pSZmtGNQ?oc=5",
@@ -99,10 +164,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Frequent AI chatbot use linked to belief in anti-vaccine myths, poll finds - The Guardian",
+      "title": "Frequent AI chatbot users more likely to believe anti-vaccine myths, poll finds - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcG1RYzhsWFo0R0lmQld6SXF2Q3l3WmdnX2VwU2x1Q2g2RHp1dXNQWmFRTktPNGpCdVVTc25uRlI2SjA3WXVPNlVMMDVSQjFMU0V1Q3ZPeXdQUktCYm1QNldZcjRyMjdpZHFib1MweVN2a1FYNnVuZmhHRGl5UjhBOVZhZG1tVTNhYTdBZWRhNURkaDA?oc=5",
       "pubDate": "Tue, 30 Jun 2026 19:25:00 GMT",
-      "description": "Frequent AI chatbot use linked to belief in anti-vaccine myths, poll finds The Guardian",
+      "description": "Frequent AI chatbot users more likely to believe anti-vaccine myths, poll finds The Guardian",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -334,8 +399,8 @@
     },
     {
       "title": "Same-Day COVID-19 and Flu Vaccines Are Safe for Adults - respiratory-therapy.com",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1F0dVl0SmpNY2xJQ3o3bnhHZjNILUludnVNdE55cEF1eXlRTjRqT0dmaG5qR0h6aWQ0ajVCYzhtc2dpVTdjQmJGYU9YMDBUQmlod0Jzb0lsRUVyX3RfalhtQUZpTWJnS1B5dGJtQ1NFZk5md1hQZUo3MXhwX3lILThEQXh2bzI3bS1jMXlJWU1aQVgwb1RMZW9HSnpxdU8tOVZKNUtGclpTQWp3NHlYSTQzUVJ0RXJyQ3hXbFc3cEVFcDBGMjBCSzNGSWxUTDJBMlgyRw?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 16:32:33 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSGZvT3I1Y2F6X1hOamZmNUlGakRKeFI0VGhtZVp5MUhKSllWaGFGTXZRdk9PR3BRQjI5ZktUV1pXQ0FxUm9uRmU5X25Ta1JUUjFKSS1kTHpmQXBnc083eEZuVVZhTVpLWENyWHUwa2dabHFNNUtKWkV6Q2lDSGRvV0ZpU1I5V3RBdHM3NXRrLTRRaWxlRVAzQ2hucnVUQUQ5NS16Y25jNGtleGR1X085TG5yUWxtVUxuaXE4?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 16:37:33 GMT",
       "description": "Same-Day COVID-19 and Flu Vaccines Are Safe for Adults respiratory-therapy.com",
       "source": "news.google.com",
       "sourceType": "news",
@@ -385,19 +450,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "MMR, chickenpox vaccines don’t trigger MS relapses, study finds - Multiple Sclerosis News Today",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdEo4UVQya0k4cW9UZGdPbVRRM004eFFiSGxEOUxLSGxmSE1IOF9KcEZXYlpuY05ZOHk5dmlSS0hwem1JcWtPWUlNNmpTVHE4bUJ1XzZPV2hZMEZpSm45MXV5MjVPQ1VkVWFDWFdEVTNuaHRJSDVSYVJSbkdvVEQ4SldST21rSHZRXzI3WHRFMm9PODBNOXFibE9Hd1h5QTFkSHFwWXNVd2x6MVZiYVhEQTJ6MlNOSE5pY2ZGcGhhNA?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 14:59:54 GMT",
-      "description": "MMR, chickenpox vaccines don’t trigger MS relapses, study finds Multiple Sclerosis News Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "New Swine Influenza Vaccine Technology Could Transform Hog Health Management - Farms.com",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMDZBRnFWZHozcHdDbGVfRkUzMElIZjY4aHRpb0dvSkdISFZIM2t3bTJ0TkhKWlRxbkF0QlFQWk5vVFlwM3pjSk5QLXhMdGlobjZDUzVoVXBMamw3ZHhkeHAtN1pPTDNEdlMtcmtXMlY1NXh1TVpKSWk4S2xFOXhNMnBzdUpxSkhPNVZDcjVqbEJBSmFkdUJCRWpkbkRObnRfeWMtTGtxUC1VQXhpSnZqT2txcWFvcGhlc05UVEIzOHJiZw?oc=5",
       "pubDate": "Tue, 30 Jun 2026 14:58:59 GMT",
@@ -407,19 +459,6 @@
       "sourceLabel": "News",
       "vaccineKey": "flu",
       "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Billions of mRNA vaccine doses’ review underpins their effectiveness - Yahoo News Singapore",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ2VzVmlqV3g1ZUh2UGJVLUZMc3VFY0JZZkQxUFdITEFrcEs2N0xCRGY1MHhJNElzRTBZR3dQeFFzTk9Ybmo3VmlDb0hWQ3RoNF9mUE5nNGdFaWVmN3FyT3Z2OGphQlBZQXZ6THdnandrYWtWV3BadUNTc3ZqSHV6SA?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 14:48:53 GMT",
-      "description": "Billions of mRNA vaccine doses’ review underpins their effectiveness Yahoo News Singapore",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -697,6 +736,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Coadministration of RSV and COVID-19 Vaccines Is Effective in Older Adults - Infectious Disease Advisor",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbEpCSWR1SmNVZW9sWHdNaXY5eng3LUVaN18xUFVIbjlZUVZlaXRiV2YwTGhtRWowS0VER1Zzb1Nra1o2dHZXSFRCX0pFVzNBUEk3X3hNaVllT2w0ekxrOHZfSThIMUs2VFZhMXA4dVQ2UUFxNHZ0RHBYSG5CSmpfV0tGaXFCVDNKWVpPLWFKOUpnaWY4bk9MbVROdGo?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 04:00:00 GMT",
+      "description": "Coadministration of RSV and COVID-19 Vaccines Is Effective in Older Adults Infectious Disease Advisor",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "mRNA-1273 Linked to Lower COVID-19 Risk Than NVX-CoV2705 - Infectious Disease Advisor",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX3MxUll2RjhyM0FfaHJMV2t3ZUswNmdsbHM5d0FNbzFXM1BMQlNqdjlIaXhnSVZDOVAyM1F2bG5xelFoQUdUdU5DX0xPNkRSTy1vRXBzc0lYbjItSngzaGtxMzNFaklYVVVuNHZjMWJpT3pKWmE2OWs4cVd0WWoyelFvZFlvOFR6Z3ZiYUloSGVXVUVH?oc=5",
       "pubDate": "Tue, 30 Jun 2026 04:00:00 GMT",
@@ -801,19 +853,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Same day administration of COVID-19 and influenza vaccines not associated with increase in adverse events - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLXpHWjV5ZmQ4UF9PRXRNcDBzdEpDbjNXUENEeEdRRjZVemlaak5Fd0VLTUJaSGViRldGS3JGclVLYklMcDQ1MC1VNkh4VEdaTERjdW5kN3BpUVRuVmU5YmswWWNQNl9XRU9OWkplcGdXc3FVeHhUWGZPcjd1TWxuakdLd2p0TEZTdzJQWUpLQ28?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 21:00:04 GMT",
-      "description": "Same day administration of COVID-19 and influenza vaccines not associated with increase in adverse events Medical Xpress",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Military backtracks on nonmandatory flu vaccine | WORLD - wng.org",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ21EZzBNbXVnbFFGV21NTVgyWFhQcGQ0OW5uVGM5ZUtGa1JBUXlIN0J1Zy1xOTFNQkZKcmNTVkJuTktlVGJtc0VkY0h1S0hNOFVxc3Fxd1dybG51Z2w0MmpfVTdia1ZsR2NSbHZYNlhBY0k1SU12c0RHcnFWNGlTQm9kYXMxd2c?oc=5",
       "pubDate": "Mon, 29 Jun 2026 20:02:00 GMT",
@@ -838,19 +877,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "Opinion | A Flu Season Without ACIP: The Question for Fall - MedPage Today",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81SkRyc2laSG51QzFzeUZxdzJHcnJ0QktGb0FLalBZeFVmMl9ZUDE3cFFoNEJoaF9sY0w0dWFvRXFoV0F0azlCbGg4Ym1Ic2l3MF9SS2Y2WVhkWDZHU1pjZ1RxMzdkWVNTVVNZ?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 19:06:30 GMT",
-      "description": "Opinion | A Flu Season Without ACIP: The Question for Fall MedPage Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "opinion",
-      "articleLabel": "Opinion"
     },
     {
       "title": "Three-in-one vaccine shows promise against 'tripledemic' - Medical Xpress",
