@@ -1,16 +1,21 @@
 {
-  "updatedAt": "2026-06-30T19:04:34.536Z",
-  "itemCount": 71,
+  "updatedAt": "2026-06-30T20:08:48.949Z",
+  "itemCount": 79,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 11
+      "count": 12
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
       "count": 8
+    },
+    {
+      "key": "rsv",
+      "label": "RSV",
+      "count": 1
     },
     {
       "key": "measles_mmr",
@@ -50,10 +55,75 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 38
+      "count": 44
     }
   ],
   "items": [
+    {
+      "title": "2 Democrats introduce measure requiring all service members to get the flu vaccine - Stars and Stripes",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONnVabVQtUVBWaUpybjV5RmpCUHVWYVozQzh4Ym55SEI3cEl5OW0tQ0Vaa1gtOEd3WUt6eDRUZUJBdEVYZVQ5dktNcTJaOTFlQmRNU1pqaEMxWlJGZlBCWEJoNW5IN3pBVFJKcWVlUHhMUno1LUx2Y0M2LUZ4N0FnaTBXWXROWVFaQ3BZdkVmdjVrN2pSZmtGNQ?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 20:00:31 GMT",
+      "description": "2 Democrats introduce measure requiring all service members to get the flu vaccine Stars and Stripes",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "15 Maryland laws taking effect July 1 that you should know - Baltimore Sun",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4QXhrOEVOMGdVa3RzdEszeUR2UTh3NUJmSkVTRUY3TUdPVGtVVmNwRWZIeVROV3F5bUJsLVE0ZVVNNUJjR0RjZGNHdVVhbXo1VXJUZjF4Y1p6UW9JWkYxRHVtSXhHdXA0UDR3VTlMeTFkdw?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 19:52:30 GMT",
+      "description": "15 Maryland laws taking effect July 1 that you should know Baltimore Sun",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "RFK Jr Changes Terms for US Vaccine Committee as Email Leak Reveals Sustained Political Interference in Vaccine Policy - Health Policy Watch",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaEtKRlY2Zm1sRC1vNXNkS2dibE9vREd0ZFRuQWdIYno4X2lUMnJxcVNtVHh2MWxlTldmM19JVzV5ZjdYTVNjbnZCUGlzckFvOVFwcm84WloyM1VlN2VtcjhYZFY1U1FnbGVPUlhRSG9SSWpGNlFtYnRCMjhnYTdWdw?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 19:46:32 GMT",
+      "description": "RFK Jr Changes Terms for US Vaccine Committee as Email Leak Reveals Sustained Political Interference in Vaccine Policy Health Policy Watch",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Frequent AI chatbot use linked to belief in anti-vaccine myths, poll finds - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcG1RYzhsWFo0R0lmQld6SXF2Q3l3WmdnX2VwU2x1Q2g2RHp1dXNQWmFRTktPNGpCdVVTc25uRlI2SjA3WXVPNlVMMDVSQjFMU0V1Q3ZPeXdQUktCYm1QNldZcjRyMjdpZHFib1MweVN2a1FYNnVuZmhHRGl5UjhBOVZhZG1tVTNhYTdBZWRhNURkaDA?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 19:25:00 GMT",
+      "description": "Frequent AI chatbot use linked to belief in anti-vaccine myths, poll finds The Guardian",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Vaccine double-header: Same-day flu, COVID shots shown to be safe - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUWttYVhOLXE0aEkxMWN4WjhhN3BON2tHUmY1NzY5S0NtUG9fanc3YkNScmtDY0NLRDFzODZWN3V2LUdlZjlLV3pSaDM5Z1I5SzFSTkNYX0NSbGV5SlRxYmk0VGNKZU9iSHlZNEVaWnZsN3VQWUhPQkRZdmFncHB1a2t1QWhtTnQ0SHcwblFwM1lwMTByODBabEpVejFKT0ptaEZJMXVOdmpGZw?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 19:16:00 GMT",
+      "description": "Vaccine double-header: Same-day flu, COVID shots shown to be safe CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "St. Luke's urges parents to review children's measles vaccinations amid rise in Pennsylvania cases - WRNJ Radio",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUGlueEJuR3c0U3FOa0FnR0l6SlZBVmhfbVpzVzJaYkY0Q0cwVjQ0ckE5MzMyN0hGS0pXVjZESzFDSWpJWXpYSFlmMjFzSWt1MEs1STlzdm1DRjVLOUVIeEkzaS1PYTNnbXE5ZEVmVXBMaWtGVjhyUUkteDdIdG5pcDlQSC1WdHlNZm92blpudS0tM3VGX0U1SkdwSFNFQ003M09MN1VTYVpFeWJDN2F0ZGowQzRnbW1nWnc?oc=5",
@@ -70,7 +140,7 @@
     {
       "title": "6-year-old Shawano County girl bit by bat with rabies, getting vaccine - Milwaukee Journal Sentinel",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRFRZNlFpN2NmLTIzOF96bkdpbk9XdmM3NUVkRDdJVFhwYzAwNTB2SW1RMkY5VFhON3FCR3dMTlFiWjdxVUNEa2lCYmY0WjRQSnhMTEotejdtSTM2Zm9SNWVpN3hIVndqMk91bUgwUDNBRFRTZi1tOUxITUNuT2dJcVhNRHF6SEJMUS1LNW9XVmNFU2hUZFJqVzZkNHJkTkIzd1RqbVdiRm9NaGdPYW84aWhTUlBfdU5WTDlKeXVDZ1g?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 18:33:00 GMT",
+      "pubDate": "Tue, 30 Jun 2026 18:58:00 GMT",
       "description": "6-year-old Shawano County girl bit by bat with rabies, getting vaccine Milwaukee Journal Sentinel",
       "source": "news.google.com",
       "sourceType": "news",
@@ -79,6 +149,19 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
+    },
+    {
+      "title": "Same-Day COVID-19, Influenza Vaccination Does Not Increase Adverse Events - Drug Topics",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPamdwNmZNVmUtUENGaXVfOWxOYXhZVDd3NmkxS09BaXQtWU91bW9CSDIwbTdDR3lmcUZtY2h6QjFsdEZ6NmN1cnFGV2tzNURZMDR3WlU3M2N5MjF1dEhSRXFOdVZIc01peGc1ZkR6a1huZVhIcTY1N01hdU9ZV29EOFB0cnNvQ2JUQVd6MGNSN2JDN1ZVaUpBV0E4cTdndzlqMnRJV0lNbw?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 18:47:03 GMT",
+      "description": "Same-Day COVID-19, Influenza Vaccination Does Not Increase Adverse Events Drug Topics",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Trusted docs dispel vaccine myths, but many don't have one - TechTarget",
@@ -90,6 +173,19 @@
       "sourceLabel": "News",
       "vaccineKey": "hepatitis",
       "vaccineLabel": "Hepatitis",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "FDA scientists flag concerns with peptides, the trendy molecules RFK Jr. supports - NPR",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYlRCaUM2c0NrTEt6NUxoMDk2ZE9DWG01ZU9FbThMZjBMNEJ3cWRKZkxTcU1lWGpfSW5ZZmZLd28wNkE5RnVudXVqWERIUjBOOXZQTUtlSTROb25xN24wZE9tMERuV0FIV28tMXNyejJVLWltSkFlQjVtbjdPVkZ5Z0VzUWZ3QQ?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 18:32:10 GMT",
+      "description": "FDA scientists flag concerns with peptides, the trendy molecules RFK Jr. supports NPR",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -120,6 +216,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Claude Science is Here, Antibiotics Designed by Text Prompt Among Applications - Genetic Engineering and Biotechnology News",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdE9NLWVXUkJwbWtySGJQckdRNW44TFptMFROakljQXRramdEOE1CLWZZWHUxa3lLNWFiWjNLdjN0Sjl2Sjd4eFQ3bkl1dVg4X2JQbDlROC1acENtZEg4U3FMN0RwSjRtS0I2SWMzVHlfWU9RVkM0RW9laFFheEROTm5jSXdsdnVyLXJzX2JyN2JoZEF3V29WdHdoTmwyXzFhRWlpUm81Ri1nQVhrc1BSNkctSnR0NVJvQkstUURwUkt6ZndfZ3BFTHJ2OU5vU1V5NUE?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 18:11:16 GMT",
+      "description": "Claude Science is Here, Antibiotics Designed by Text Prompt Among Applications Genetic Engineering and Biotechnology News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "It's safe to get COVID and flu shots at same appointment, study finds - PhillyVoice",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12YTFvXzBJRVloUVpkUGk3VS1SZHlXak00ZFE1Z3ZPLVBBTjhJMDFhMHN1YmZ5SjRrSWc2Y3JpUXcyVWs5Rm16RmxuSFQ3eElacllLay10R3lYREVvOHNhRHhHdlNJMEZhS1E?oc=5",
       "pubDate": "Tue, 30 Jun 2026 18:10:45 GMT",
@@ -137,6 +246,19 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVDc3UXE4ajI5ZFp4dUVFZk9LS3otQzlIMkRzRV9ZNC1ja0VuQ09tQ0NSMktweGdhSnRDcDNzcExYcjRudE5sY2NTaVJYUTJkUXRPa2l6V1VuRWp6dXRZVVQ3VENJTkZrTWV0dDZsbWtEMzB5aXphT3U1U1pUcS1mQllCTngwYmFFbUZDLV9ldEFUSlRYbEVUVmJtNjc4QzJPQ2c?oc=5",
       "pubDate": "Tue, 30 Jun 2026 18:05:01 GMT",
       "description": "NDAA Amendment Mandates Influenza Vaccine After Lackland Air Force Outbreak Military.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "The Pentagon’s flu vaccine policy change created an ‘epidemiological time bomb’ at Lackland - San Antonio Report",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUldvLXZ0MzNsNF9zMzZ5RDBubllBaFNDQ25lV3pfMk1wMF92NTlwdU14SEFrQVdCQUpPQjZvODhCUmRCbWpIZXBoeVVlMEEwZktaamp6NVpBTTFhWlZRNUZfRUJ5akJGWGRyUkJOa0VZRmpmbXZQTjBBaWN4NVBIOGZlSEJqN2pEUkVQem00N04tdU0zUlBQVUhxbGNfWW1CcUJKRW5QUm1MZl83aEpnRmFTVkExVmhJbUE?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 18:03:14 GMT",
+      "description": "The Pentagon’s flu vaccine policy change created an ‘epidemiological time bomb’ at Lackland San Antonio Report",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -212,8 +334,8 @@
     },
     {
       "title": "Same-Day COVID-19 and Flu Vaccines Are Safe for Adults - respiratory-therapy.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSGZvT3I1Y2F6X1hOamZmNUlGakRKeFI0VGhtZVp5MUhKSllWaGFGTXZRdk9PR3BRQjI5ZktUV1pXQ0FxUm9uRmU5X25Ta1JUUjFKSS1kTHpmQXBnc083eEZuVVZhTVpLWENyWHUwa2dabHFNNUtKWkV6Q2lDSGRvV0ZpU1I5V3RBdHM3NXRrLTRRaWxlRVAzQ2hucnVUQUQ5NS16Y25jNGtleGR1X085TG5yUWxtVUxuaXE4?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 16:37:33 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1F0dVl0SmpNY2xJQ3o3bnhHZjNILUludnVNdE55cEF1eXlRTjRqT0dmaG5qR0h6aWQ0ajVCYzhtc2dpVTdjQmJGYU9YMDBUQmlod0Jzb0lsRUVyX3RfalhtQUZpTWJnS1B5dGJtQ1NFZk5md1hQZUo3MXhwX3lILThEQXh2bzI3bS1jMXlJWU1aQVgwb1RMZW9HSnpxdU8tOVZKNUtGclpTQWp3NHlYSTQzUVJ0RXJyQ3hXbFc3cEVFcDBGMjBCSzNGSWxUTDJBMlgyRw?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 16:32:33 GMT",
       "description": "Same-Day COVID-19 and Flu Vaccines Are Safe for Adults respiratory-therapy.com",
       "source": "news.google.com",
       "sourceType": "news",
@@ -289,10 +411,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Billions of mRNA vaccine doses’ review underpins their effectiveness - Euronews",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX2ZpMkZNdXVnaVdaTTNCRzlIaXhYVFNlOUFaTFNaaDZlZnFRam1TZkRnb2loaF9penkzaUs1TzVxaEQ1eU5QNkNyVFM2NEZFWmh2bWV2aWszRmdRY3o0WkVuc3BWNW90SmItZVc3YWt3c1RCbG1nX2dKOTZrX1JoMGNzWlNXU3U5S0gyZFpldW8tVGRfV2F2VnZhM0E2UHBkWnZkVlE1TTc1cGtmTVJN?oc=5",
+      "title": "Billions of mRNA vaccine doses’ review underpins their effectiveness - Yahoo News Singapore",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ2VzVmlqV3g1ZUh2UGJVLUZMc3VFY0JZZkQxUFdITEFrcEs2N0xCRGY1MHhJNElzRTBZR3dQeFFzTk9Ybmo3VmlDb0hWQ3RoNF9mUE5nNGdFaWVmN3FyT3Z2OGphQlBZQXZ6THdnandrYWtWV3BadUNTc3ZqSHV6SA?oc=5",
       "pubDate": "Tue, 30 Jun 2026 14:48:53 GMT",
-      "description": "Billions of mRNA vaccine doses’ review underpins their effectiveness Euronews",
+      "description": "Billions of mRNA vaccine doses’ review underpins their effectiveness Yahoo News Singapore",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -324,19 +446,6 @@
       "sourceLabel": "News",
       "vaccineKey": "hpv",
       "vaccineLabel": "HPV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "The Flu Outbreak at a Texas Air Force Base Grew to 222 Cases — Then the Military Quietly Reversed the Policy That Caused It - Medical Daily",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaHRUbk1Zdi1sdTU2R1VYd2IwVXRiaTJ1V2oxNHJzYzBvYWVHcjJIMzhhVWtGOVQ0T1lKOVVOU2RtaTlqTjVVcF9UaXdmQ25CcWk2LWZnZG43eV9GZmZ3dnRYYmtMWDFJVWpYU3VMcjhfa3VNaVpoVGxkRXozeURWSGw2ZHlEaVF2Q3dYUXhaUVlrSWhXaC1IWGQtZDRmQmlLQ29jTmZ1M2g5UlNSQi0yZ2Fn?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 14:00:21 GMT",
-      "description": "The Flu Outbreak at a Texas Air Force Base Grew to 222 Cases — Then the Military Quietly Reversed the Policy That Caused It Medical Daily",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -378,6 +487,19 @@
       "vaccineLabel": "COVID-19",
       "articleType": "research",
       "articleLabel": "Research"
+    },
+    {
+      "title": "Future flu seasons may look different thanks to mRNA technology. Find out why. - Time Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaXJwY2tYZ2NHUm5FZHBiVUxCaTlxMGFHdS1uSDY5WFdsSk5UNlpqTWZObUxEOXgycHBiUVdQazRvTmd2aVpkeDlSNUdFTWVtdmZKb1ZJVEhKamNOYnFwWFhNTjUyY1dyRmItMzliUGFLSzVUbWJ1MDBOUEptNHVDTnh1U3dfWjNKOUd0Wkt6M3RIMEl5b1ByMGZuckNqbHRQam10eUd1X3N5TEtCazI2WnhTd05ydzVo?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 12:56:28 GMT",
+      "description": "Future flu seasons may look different thanks to mRNA technology. Find out why. Time Magazine",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "EEOC sides with Christian employee who says Kaiser fired her for refusing COVID vaccine - Christian Post",
@@ -497,6 +619,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Poll: People Without a Trusted Health Care Provider Are More Likely to Endorse Vaccine Myths, As Are Those Who Often Use Social Media or AI for Health Information - KFF",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPNDFkUy1wWEZLd1FPMGk4NnZRZUhqa3dUalZlMVZIdU5SRnFPVWgzVnZnRk9jMXpfTDViRUtDMmNjTEttOXhyTkFRdzgxQTRmT1JEeFhDMzJQTG9aR3ZmbEVBYUtycFVJRHF4S2diNkUyMkF3UG1CUTJoaFkyTDU3R3lQOGJsYk5VTnVya0NxM3dlMVdfOEVDMmpFQmVGZVhFUGZUdUhrek01V1lVbC1EMnBDa0xpQTRjSm92UFFmakFFS2VMbmxGMGoxb1JXWE5xcUdSOGNfbUYxUkVkX0lDck84eW1ibzRUMy0tZGhsLXZHZFhNd0FaWUhRQjZpRzJmUnBGUmxqWV9iRkQ3X1FtQmttX0NQSl9ra094YzlybkFGSkl0NTFWMnZ3Sl9iYlE?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 09:01:30 GMT",
+      "description": "Poll: People Without a Trusted Health Care Provider Are More Likely to Endorse Vaccine Myths, As Are Those Who Often Use Social Media or AI for Health Information KFF",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Anixa Biosciences secures Korean patent for breast cancer vaccine - BioSpectrum Asia",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONVBvYnhZMFNIZXFuS0phMzNsV295SGo0aV9tQXpyV21ZdXdldEt2OEdkdXVQLUYxZnRtY3NKRS16aWYxTVJqaW5sbkJibFhiT3JvWkVVbGpVN2FqaWkwM2RFQnVjYk5kaHZ3UWZjc0tyNlZBNzdxemQ5RFhNOWhHQkZTTUhBSHVMcV9zN2RwT0s5WXVQa0JHWlNQVDU4WUszWjBQNFVIY3gtNk9LMk1QNUIxZ3V3aFU?oc=5",
       "pubDate": "Tue, 30 Jun 2026 07:43:59 GMT",
@@ -560,19 +695,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "Blocked by Kennedy’s CDC, validated by peer-reviewed scientists: Suppressed COVID vaccine study published in JAMA finds 50% risk cut - Genetic Literacy Project",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOc1prekJ4LUs1b2E2N2xtTU5ZM0ZNZU8wNHI2UHJ0RmFfNk95MlQ1NkdBUG0wMFFtRURTUG92NWc3eUR5WGdiNzhvYm5IUGNZQkZLN0hmRFREb25PQW5CVnUwZHhHUk9IQXRQWVFqMmNOeEYwMFdGUjRSbVo0a3Q1NndmR01kcDl4UWNoN29VMi1zOUFTVG56WG5nbFZ4eEFlbUtlY25GQnpYbFJDaEZmTTBlMjlRcWF5ZjNGaDJGeUlZQ1Q0amtBNG1zRm83WXZpMXpNMXdIR3lyQzBVTi1tekhIMHlINFNLazBqeUJRVk55MEJIZnF3dldhNk5wRDdkem80ZDJR?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 04:11:18 GMT",
-      "description": "Blocked by Kennedy’s CDC, validated by peer-reviewed scientists: Suppressed COVID vaccine study published in JAMA finds 50% risk cut Genetic Literacy Project",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "mRNA-1273 Linked to Lower COVID-19 Risk Than NVX-CoV2705 - Infectious Disease Advisor",
@@ -696,19 +818,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ21EZzBNbXVnbFFGV21NTVgyWFhQcGQ0OW5uVGM5ZUtGa1JBUXlIN0J1Zy1xOTFNQkZKcmNTVkJuTktlVGJtc0VkY0h1S0hNOFVxc3Fxd1dybG51Z2w0MmpfVTdia1ZsR2NSbHZYNlhBY0k1SU12c0RHcnFWNGlTQm9kYXMxd2c?oc=5",
       "pubDate": "Mon, 29 Jun 2026 20:02:00 GMT",
       "description": "Military backtracks on nonmandatory flu vaccine | WORLD wng.org",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "The Pentagon's flu vaccine policy change created an 'epidemiological time bomb' at Lackland - Texas Public Radio | TPR",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxON0g1RG5RZnU2bEFjMWd0SlB5Vl9NRzJ6Zjc0YndIdEtFdmVZelNJRTQ3MTRLcmlDbjlnYzlyQXBrR1BJX3IwMERtaWc2NFlJUkRMSTR1NmZQWEtzSF94cGYxbm1UWmVhVi1NVXlYa2NUa1kwYkQ0RG1GWDF5Y3ZkWFdabTBVTUtqSHhKMGVCN1oxMlFjLVYzVUE1eFFjcE9aRVNud1Q0N3RLREUyR0I3WTN2cWpSZWFCTzJ5LWltamp6N2daYjN5VFVpLXhrVDNkNlRNZ1Rn?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 20:00:00 GMT",
-      "description": "The Pentagon's flu vaccine policy change created an 'epidemiological time bomb' at Lackland Texas Public Radio | TPR",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -887,19 +996,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "EU Opens Antitrust Investigation Into Sanofi Over Flu Vaccine Marketing Campaign - PYMNTS.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOEhmaUV2Sld6cGZ6S0xSZC1CZ0ZrN0lNeHJiMlc3eXhZNHEwZjdoYmpYSjFzbVZxUlBVaVNrTHVybUxSUkdBOS1Ea3hmcHVLMFFfRFlSakN6QnNZaFItb1lUYnNqZGZYSVFBMzE2ZVhFNml5S2EwVXZ0SmlKX1pIcnFqVXdmREp1LVdxcE1SZWI5MG02X0JXUzRxZURIblgxMWREOEluRmwtaTFjUFRPdXRjQ3E?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 16:59:37 GMT",
-      "description": "EU Opens Antitrust Investigation Into Sanofi Over Flu Vaccine Marketing Campaign PYMNTS.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Lingering distrust, low vaccine rates threaten containment of Lancaster measles outbreak - Pittsburgh Post-Gazette",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVVBzSTNMamNuX05nd3l6U09zQ2pudjZGcnE5MWppYjVld2x3MzdMVEUyR21iSmY0b05vaWlNSC1pelBJTlB2TjZpUFhpRWV3dTZaQzRPOEtwWlYxcXF4M1dwQ2ZNWjBBWFNXWFhDVWRQNGxhMlVxYjEzSGpiV09ucDBXZVlPSFg1Wm5QWEhXWFNEUV9QenZxWUtiTmJBZWRRNE5TX0RHcnB3VjE3cTNZSUxiT1RQSng4S0xmNkRmakJTeGphQ2hfcg?oc=5",
       "pubDate": "Sun, 28 Jun 2026 08:00:00 GMT",
@@ -909,6 +1005,19 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Maternal RSV Vaccination Reduces Infant Hospitalisations in Early Life - EMJ",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXFWXzhHRWp5dXRBZXN3M0U4SzFxRVU5bGgwWGpQeEp3YmlVWHQ2ZWRXaDg3STlmLXc2aExKZUh3dnRUeXNxcUEtV1YzblBuZ2lucW8tNUhmWHdBV2o3YXVDdVN3ZGxxSkljUmJNNGlSU0RDbGJmTHhaU3NQNUZ5ekpkUDBZa1FGMnUyUERuTGtLN0VCZzBlaDktSTZFMm9pT0R1YmRTN3Zzd2N4R3VXZUJ1SGE2UQ?oc=5",
+      "pubDate": "Sun, 28 Jun 2026 07:00:00 GMT",
+      "description": "Maternal RSV Vaccination Reduces Infant Hospitalisations in Early Life EMJ",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "rsv",
+      "vaccineLabel": "RSV",
       "articleType": "news",
       "articleLabel": "News"
     },
