@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-06-30T21:03:48.449Z",
+  "updatedAt": "2026-06-30T21:55:06.779Z",
   "itemCount": 81,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 12
+      "count": 13
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 9
+      "count": 10
     },
     {
       "key": "rsv",
@@ -35,7 +35,7 @@
     {
       "key": "pneumococcal",
       "label": "Pneumococcal",
-      "count": 2
+      "count": 1
     },
     {
       "key": "meningococcal",
@@ -55,10 +55,49 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 45
+      "count": 44
     }
   ],
   "items": [
+    {
+      "title": "Lawmakers push to restore flu vaccine requirement for service members after JBSA-Lackland outbreak - KVUE",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZzNQbEhPN2MwTHF6OFpvR2d1VndWdmFSbXVzTzRraXhJQmJsYU5ZcERvSGh3ZEZKcnZVaUFfUk5FR0ZuMmdlaWV2SDVKZTYzZnpTWkhNY2tUdkVFdWxpTGxTX2lhM3RucEN0TUVWQXl4bGUxM0pUTi0zMzE2NDF1cFNvRlE3UUR6eFZGUUVlMEp2QVp2T3NnNWFFbHpUOGZDTnE1VUttQXhwMG5OV1dDU3JGY1IzenBJQWZiTFkxTzMxS2pzNGg1WnZiX1VjYldGY2p0ajc2TTlPdw?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 21:42:00 GMT",
+      "description": "Lawmakers push to restore flu vaccine requirement for service members after JBSA-Lackland outbreak KVUE",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Researchers working on a single vaccine for Covid, flu, RSV - WGN-TV",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc1dVYUpsRFFfQXFFUFRmWE5hcFluZmNoWkM1bjdBRGFKOHlaaTJlRjdsS09ZeXFfYVFfRWlFV0hoM1BtdVdyZ3hqWjUxdmtlYXZQQXNIdFpoc2diNElhOVVtVzlGU3VuZFRRR29OLVltR2JJeWNBOXZHQXpGbkZOaWtjVWZfSEdSNmRqb0g1UV9EN3FzNklzcW1FQdIBoAFBVV95cUxNcTQ3Z2p1bHFtZXZpUzc4VjNBZWxZU3VrWVBabzdjdnZJWGZOZFZnQVk1RVFRdHdPYUIwZTJMOTFIaVNLUVhaaTZMTWFLZTFCdVBLQ3BlWW5WRjVzOG1UX2lFXy0xX1V3R0sxQ21SYzNXdlRoclo4LTZsQ04yeDR5SE1XT2t4WnNsNUpHXzgzTURuYXZ2WDhuTlNydlNsaEdY?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 21:28:42 GMT",
+      "description": "Researchers working on a single vaccine for Covid, flu, RSV WGN-TV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "As Lackland flu outbreak grows, Castro pushes for mandatory vaccination - San Antonio Express-News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcDZFV29EWnBQOUlTX1ZEUm40Y2dfblV1Vl96d1FzdlVvaDlkV1VnVUdZdVJuNzFXc2NlSnQ5M2x4eHA2bDl5dEstQ1VGRGFqNHRMbmhzZVE0dHJ2QTNxVm94M1J1ZnR0UU9ycG8wVEREMHAxR2lIY3JWM0xXbGg3NW1wZlNiaGd4TDhaU2xYeVJ5RlhJRU5yTlAybWpXOVE?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 21:18:08 GMT",
+      "description": "As Lackland flu outbreak grows, Castro pushes for mandatory vaccination San Antonio Express-News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Castro, Houlahan, Cisneros Slam Pentagon for Lackland Flu Outbreak, Push for Flu Vaccine Requirement - U.S. Representative Chrissy Houlahan (.gov)",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Va1NOSl84bjdCNk9xZm5tdmhlb3VobFYwVmxUUEV3TTV4bTl3M0VJMHBHRXZnX0NWT1l2U1pSM2owelhLR1cyeUhNcFBrR3Y4T0piZ0s3SFpIS2c1WGg2TmZwTVhYOHBDaGpzSDVWVjhwVkJXT2c?oc=5",
@@ -134,19 +173,6 @@
       "sourceLabel": "News",
       "vaccineKey": "flu",
       "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "15 Maryland laws taking effect July 1 that you should know - Baltimore Sun",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4QXhrOEVOMGdVa3RzdEszeUR2UTh3NUJmSkVTRUY3TUdPVGtVVmNwRWZIeVROV3F5bUJsLVE0ZVVNNUJjR0RjZGNHdVVhbXo1VXJUZjF4Y1p6UW9JWkYxRHVtSXhHdXA0UDR3VTlMeTFkdw?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 19:52:30 GMT",
-      "description": "15 Maryland laws taking effect July 1 that you should know Baltimore Sun",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -281,19 +307,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Claude Science is Here, Antibiotics Designed by Text Prompt Among Applications - Genetic Engineering and Biotechnology News",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdE9NLWVXUkJwbWtySGJQckdRNW44TFptMFROakljQXRramdEOE1CLWZZWHUxa3lLNWFiWjNLdjN0Sjl2Sjd4eFQ3bkl1dVg4X2JQbDlROC1acENtZEg4U3FMN0RwSjRtS0I2SWMzVHlfWU9RVkM0RW9laFFheEROTm5jSXdsdnVyLXJzX2JyN2JoZEF3V29WdHdoTmwyXzFhRWlpUm81Ri1nQVhrc1BSNkctSnR0NVJvQkstUURwUkt6ZndfZ3BFTHJ2OU5vU1V5NUE?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 18:11:16 GMT",
-      "description": "Claude Science is Here, Antibiotics Designed by Text Prompt Among Applications Genetic Engineering and Biotechnology News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "It's safe to get COVID and flu shots at same appointment, study finds - PhillyVoice",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12YTFvXzBJRVloUVpkUGk3VS1SZHlXak00ZFE1Z3ZPLVBBTjhJMDFhMHN1YmZ5SjRrSWc2Y3JpUXcyVWs5Rm16RmxuSFQ3eElacllLay10R3lYREVvOHNhRHhHdlNJMEZhS1E?oc=5",
       "pubDate": "Tue, 30 Jun 2026 18:10:45 GMT",
@@ -399,8 +412,8 @@
     },
     {
       "title": "Same-Day COVID-19 and Flu Vaccines Are Safe for Adults - respiratory-therapy.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSGZvT3I1Y2F6X1hOamZmNUlGakRKeFI0VGhtZVp5MUhKSllWaGFGTXZRdk9PR3BRQjI5ZktUV1pXQ0FxUm9uRmU5X25Ta1JUUjFKSS1kTHpmQXBnc083eEZuVVZhTVpLWENyWHUwa2dabHFNNUtKWkV6Q2lDSGRvV0ZpU1I5V3RBdHM3NXRrLTRRaWxlRVAzQ2hucnVUQUQ5NS16Y25jNGtleGR1X085TG5yUWxtVUxuaXE4?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 16:37:33 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1F0dVl0SmpNY2xJQ3o3bnhHZjNILUludnVNdE55cEF1eXlRTjRqT0dmaG5qR0h6aWQ0ajVCYzhtc2dpVTdjQmJGYU9YMDBUQmlod0Jzb0lsRUVyX3RfalhtQUZpTWJnS1B5dGJtQ1NFZk5md1hQZUo3MXhwX3lILThEQXh2bzI3bS1jMXlJWU1aQVgwb1RMZW9HSnpxdU8tOVZKNUtGclpTQWp3NHlYSTQzUVJ0RXJyQ3hXbFc3cEVFcDBGMjBCSzNGSWxUTDJBMlgyRw?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 16:32:33 GMT",
       "description": "Same-Day COVID-19 and Flu Vaccines Are Safe for Adults respiratory-therapy.com",
       "source": "news.google.com",
       "sourceType": "news",
@@ -593,10 +606,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Intravacc Makes Qualified Vero Cell Banks Available to Accelerate Viral Vaccine Development - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV1BLR0JxRW5NTW4xYTRzUjhCTW1LWjgzeFVqZzV4am9PTDdHckxZcEJjVEw1M0RTR0dNS3BnMWFBcEthLUdGaVRzeFk5OEplT2lVMWhfbTk5V1AxWkprMUoycUt6Xzh1UXlHbERLNW03R2s5SUJVbXZDNkZZUURCV1lzSkR2UGtTQ01tZFBMd3hUbTE2MnhuaUxqUHc?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 09:36:00 GMT",
-      "description": "Intravacc Makes Qualified Vero Cell Banks Available to Accelerate Viral Vaccine Development Yahoo Finance",
+      "title": "Intravacc Makes Qualified Vero Cell Banks Available to Accelerate Viral Vaccine Development - GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdUJ0ZEJrUnBtMERwd05CODhVdjhfanBQOElDOTY0WEVrajRWOEY0N2xDS2VaMWgxR2YwYjlHNElBZ2NUbnA5ejhOVzZtY0kxT0s4RjM5azktazFKekZvTDlac28yckIyejBRSTY3eElOSTlERjh4bVpLazY1ZWpqUGRSa2VXckVuTUhoTjdtcTNoYTFXdHVxU1JHYzJCS3VYX1hSeGlLQmNDOEc2bmZ3TXhycFZSX1p0UTZ3NllhXzYzc0hnN1ExaGk2QmxTcGd5ak9MRC01WTBnd3h0bTRMOHB6Qkp0LUNEdVdKeGdZci1aOHkybUE?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 09:36:06 GMT",
+      "description": "Intravacc Makes Qualified Vero Cell Banks Available to Accelerate Viral Vaccine Development GlobeNewswire",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -771,19 +784,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "New pneumococcal vaccine for adults on the NIP - Australian Government Department of Health, Disability and Ageing",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMnMyckJhOE93M3lFSmZfNDVRZ0V4bHcwemhzMG13azRtVmZvY3FPT0RVUC1ncjJjZkxKNWFQckZqLTlKQk9sRklGbjBfLTVLM0owTVJWbkZBdzJxNHkzYXVaOTlFaHhiam1JNmV1WnBHbVNKNlJrTlUzbHlYcE5lZkxVZkhZYmNWcW0tQTMtUHFqQjlCbEJseWFVSmR6MEp2VlNnZ1dxeTBiRlYtcnd6ejIyZTlpeEYzZlVFNktBal8?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 23:45:49 GMT",
-      "description": "New pneumococcal vaccine for adults on the NIP Australian Government Department of Health, Disability and Ageing",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "pneumococcal",
-      "vaccineLabel": "Pneumococcal",
       "articleType": "news",
       "articleLabel": "News"
     },
