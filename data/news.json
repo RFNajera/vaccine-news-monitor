@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T15:18:26.915Z",
+  "updatedAt": "2026-06-30T16:12:46.277Z",
   "itemCount": 92,
   "groups": [
     {
@@ -15,12 +15,17 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 8
+      "count": 7
     },
     {
       "key": "hpv",
       "label": "HPV",
       "count": 2
+    },
+    {
+      "key": "polio",
+      "label": "Polio",
+      "count": 1
     },
     {
       "key": "hepatitis",
@@ -48,17 +53,51 @@
       "count": 1
     },
     {
-      "key": "rotavirus",
-      "label": "Rotavirus",
-      "count": 1
-    },
-    {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 51
+      "count": 52
     }
   ],
   "items": [
+    {
+      "title": "Amish Lose Bid to Reinstate NY Vaccine Law’s Religious Exemption - Bloomberg Law News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdVIwNHNxeEl5TUhEVnA1S0pRNFdqV05QSVpVWFkwTnRiMXNjSmI2M1NScjJOWTVhV2owbEZac3h2UkFjVUZPNjJ6UGh0UC12eHgtSnBaaldkdkdWTS1yWmhTRTM5UFdzMUNibEVkRzRBNlNHUjFHUXhCVWZyV0FfUnBoM2Fvb2JBQnNmbTljb2UtMlBjVmxOcG1ZNEE1Yk5QaEVzU3lhOUZ5Ti1leVlBZHlKamxpaVAtTnc?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 16:11:00 GMT",
+      "description": "Amish Lose Bid to Reinstate NY Vaccine Law’s Religious Exemption Bloomberg Law News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "A Mussel-Inspired Vaccine Platform Could Extend Protection and Increase Access - Technology Networks",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdklIUEhtSUx3LTdCS0E0N0RwajdKUjB2eW94N0dYUGQ3QWE0V1Y4Y0d3bUJZVm5kZE5raFlQbHFCVExHb1FBWmxuTHNYV0dtdjdWcGlveXByOHF5QXp2bVR3dWZlM2FxLTJzc2I1WE1xMmRJTmxpaVVMRjdtVjN6UjNESFFqT1AyR05oOWRzWi0ycU02SDhhU1ZIcU83MG11Ykl3el9rNzR2cUhUekV0WnoxbUtvZnRya0ZBMHFGTUt2eENiaEhv?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 16:10:58 GMT",
+      "description": "A Mussel-Inspired Vaccine Platform Could Extend Protection and Increase Access Technology Networks",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "The ongoing impact of U.S. vaccine hesitancy - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZW5neEZ5RzRpdk1hMzZ2bC1fdFFRcFZEWE1McXd0MjBTNTVlMzRRcVNiTG0xcHEwdTN4MTY5NHRNcU1oeHQxSlBpWUp1R0d0UzVVS3pQQjJMSkRvcFY3ODlLTHhuT2loakp1d0ZWYWVWSi1ocFQtZmc3V1ZQV1EzTzRZVnNNa21vU01RZU5n?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 16:02:08 GMT",
+      "description": "The ongoing impact of U.S. vaccine hesitancy The Washington Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "MMR, chickenpox vaccines don’t trigger MS relapses, study finds - Multiple Sclerosis News Today",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdEo4UVQya0k4cW9UZGdPbVRRM004eFFiSGxEOUxLSGxmSE1IOF9KcEZXYlpuY05ZOHk5dmlSS0hwem1JcWtPWUlNNmpTVHE4bUJ1XzZPV2hZMEZpSm45MXV5MjVPQ1VkVWFDWFdEVTNuaHRJSDVSYVJSbkdvVEQ4SldST21rSHZRXzI3WHRFMm9PODBNOXFibE9Hd1h5QTFkSHFwWXNVd2x6MVZiYVhEQTJ6MlNOSE5pY2ZGcGhhNA?oc=5",
@@ -108,19 +147,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "The ongoing impact of U.S. vaccine hesitancy - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZW5neEZ5RzRpdk1hMzZ2bC1fdFFRcFZEWE1McXd0MjBTNTVlMzRRcVNiTG0xcHEwdTN4MTY5NHRNcU1oeHQxSlBpWUp1R0d0UzVVS3pQQjJMSkRvcFY3ODlLTHhuT2loakp1d0ZWYWVWSi1ocFQtZmc3V1ZQV1EzTzRZVnNNa21vU01RZU5n?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 14:32:08 GMT",
-      "description": "The ongoing impact of U.S. vaccine hesitancy The Washington Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -229,15 +255,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "Taiwan to add rotavirus vaccine to free immunization program in 2027 - Focus Taiwan",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKd1gyd2xXeFE1cmpMVGhSbXZBa2Y2SVVhUHNqTmNlNjFUNkJ3VHZWUGl4c3otY200WnFpV25kTS05MzM3RDFfbXlONTJiVldoOVNlNXRn?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 12:13:00 GMT",
-      "description": "Taiwan to add rotavirus vaccine to free immunization program in 2027 Focus Taiwan",
+      "title": "Anixa Biosciences secures Korean patent for breast cancer vaccine - Pharmaceutical Technology",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQclRBWmxMWmVzeTBJQVFUemtMdDdyVTRDWlZhc0Y1Ry1pTHlvVnpZWjF1T3Z6NVVBM3kyRWRoN2tnZGxvakpnT0VzUU9BUkpZSkJxM2RMYkI5dHNvWFdoa2NOLTJndkxnQWxNcHlieTk0eFVmM2JPZEFDeW43VzgzVHctWkY1ZFhYVVlGaVAxUDJwYVU?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 11:55:50 GMT",
+      "description": "Anixa Biosciences secures Korean patent for breast cancer vaccine Pharmaceutical Technology",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "rotavirus",
-      "vaccineLabel": "Rotavirus",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -277,19 +303,6 @@
       "sourceLabel": "News",
       "vaccineKey": "flu",
       "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Anixa Biosciences secures Korean patent for breast cancer vaccine - Pharmaceutical Technology",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQclRBWmxMWmVzeTBJQVFUemtMdDdyVTRDWlZhc0Y1Ry1pTHlvVnpZWjF1T3Z6NVVBM3kyRWRoN2tnZGxvakpnT0VzUU9BUkpZSkJxM2RMYkI5dHNvWFdoa2NOLTJndkxnQWxNcHlieTk0eFVmM2JPZEFDeW43VzgzVHctWkY1ZFhYVVlGaVAxUDJwYVU?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 09:36:25 GMT",
-      "description": "Anixa Biosciences secures Korean patent for breast cancer vaccine Pharmaceutical Technology",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -814,6 +827,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Polio Free Afghanistan Initiative Urges Vaccination for Cross-Border Travelers - 8am.media",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRFRIZkhsc3lKbmZ2UzdDTms1eXFNa01TY0lFOGhPbFlRZVVnS2ZmUFYxZGMyVG1aMnowczBrcmtNSGFqTmZwOEZxV1daWTdzZWxLM3FOZWpzUkdwVUtBdWNIanpPLWtxVzYwd1dnZ2NaVGpla2hxQUFKc0M0S3J4WVB2YVF3bHNxWHdWSllZaDFfUlFGWnZXNDhiNWV3NkJZMVNN?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 14:13:29 GMT",
+      "description": "Polio Free Afghanistan Initiative Urges Vaccination for Cross-Border Travelers 8am.media",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "polio",
+      "vaccineLabel": "Polio",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Group that won court fight over COVID vaccine records presses FDA for legal fees - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc3BSM2RGVWRXNHBtUHdROUZBSEJldXhibUxmQ3hmTFpZSUt5ZGwzbFR3WUpvQ1NVLUg3NmdUdG51ZGF1U25YMTNlNFVITGE4VVZtd3RWS3NxMEROS1YzVFF0c1ZVZHFyNV9hMjBEQzNndTdtaEl0azNHT0czamtONHRGVVpDRlRjcGtfaEJJVEh2MEtyazhSNFE3Z04zN1E5TlJ0Yk1GQW8tZWVEeGhPUXJwMnZzRm94Z0hiTGNOalo5c1VURjd5SQ?oc=5",
       "pubDate": "Mon, 29 Jun 2026 14:07:44 GMT",
@@ -970,19 +996,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Philippines pushes to commercialise ASF vaccine - The Pig Site",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeDFSeUhWbUxXM3F0X1R1OFF2X1JNZmZQMUpsZy1seWk2S0pRcGRDSEhPMHZyYnJDOUl1Q2RMdG5OamFQXzk2YzdMbV9FWF8tS2dyZE4wQjdETllNT2dVaXc2NHI2UEQxeXVYcVRZakFQV2pnbXNGZUNWY0pyYVNXUFlTcG1BN2EycU92TjlaSGQ?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 09:12:00 GMT",
-      "description": "Philippines pushes to commercialise ASF vaccine The Pig Site",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Bavarian Nordic wins Canadian approval for chikungunya vaccine - medwatch.com",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aamV0NzljV0JuVWxfZGV1WlRzMkg0bFdjdVFUcFJpUWRmQU1oa2RyYk1HMlZUQXlxeFBTb0tJZ3B3X2o5d0JRdHhnS1U1R3lCVmJFNTl4YWNPekw5NERZZllnRjRZVmNrX3EzNkhMaw?oc=5",
       "pubDate": "Mon, 29 Jun 2026 09:10:49 GMT",
@@ -1126,19 +1139,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Lingering distrust, low vaccine rates threaten containment of Lancaster measles outbreak - Pittsburgh Post-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVVBzSTNMamNuX05nd3l6U09zQ2pudjZGcnE5MWppYjVld2x3MzdMVEUyR21iSmY0b05vaWlNSC1pelBJTlB2TjZpUFhpRWV3dTZaQzRPOEtwWlYxcXF4M1dwQ2ZNWjBBWFNXWFhDVWRQNGxhMlVxYjEzSGpiV09ucDBXZVlPSFg1Wm5QWEhXWFNEUV9QenZxWUtiTmJBZWRRNE5TX0RHcnB3VjE3cTNZSUxiT1RQSng4S0xmNkRmakJTeGphQ2hfcg?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 08:00:00 GMT",
-      "description": "Lingering distrust, low vaccine rates threaten containment of Lancaster measles outbreak Pittsburgh Post-Gazette",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Measles, whooping cough spike amid low vaccination rates - Jacksonville Journal-Courier",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMHVTaFc4MlpaNTJDOFFVOGNzWERzYzdHWWo3YWpIa05fd2wwT1RqY21GQ1NZWDBBSnpiVjQ5eHlrbHlvdVp5aXNUVy13WngtOXdiWllta0R2Unc0Sl9BWTl3WmJOLVM3bGd5Y2RFZ2U4c3lnN0lrcXlIdC00NURJNkx4emlraFNYNHVnVlExZFZ4WERxU21fQ091ZDlIXzM1UFE?oc=5",
       "pubDate": "Sun, 28 Jun 2026 05:39:10 GMT",
@@ -1178,19 +1178,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "RFK MAHA vaccine study censorship is driving US brain drain | Opinion - The Courier-Journal",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVXZkaVJNSUZQVWJzOS13bVhROTBaVzBjcVBTU2c3TW5pRjZZLXBUek5CSlE3cTR0bEY1QTRYY2owRENDZFBsaHR0Tl9KSHRRTzRNLXBHU1VTbXBVX2JVbHhqVnlUdU1JUXdUSERIOWpoUVd4Ujlnbm9uNUotOFo5UzBRS2NCOWhLTEIzZGZfTW10dGI2aTZHWmhXeVlpLTRpOXZEVFBOSFZianZjREpWZFNteFlNb0V1cFNDT0lWbFdtVGN3M242UnJyTFFjOFJReWN3ZXRNTXMtSEZqWFF5YmhuZFo?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 09:03:00 GMT",
-      "description": "RFK MAHA vaccine study censorship is driving US brain drain | Opinion The Courier-Journal",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "opinion",
-      "articleLabel": "Opinion"
-    },
-    {
       "title": "Opinion | Kids can help fight vaccine hesitancy, too - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRTNNZXZGdzBScTcwOHFOQnMweXpLN3RaLXVpckpFZ1p3T003Zm1neFZ1TEtuMktESUw0VC1sUi0yTHpRcVltaWtNajE1elFqaEN3NlRuR01Sb3pBMnhoaWZZNk9MQ3dKaUhzNlJDX3MtRi1fVFlFOUpaalFjUWRjYTBWVHp2NGd5cWoyS0RkQXgwcTJWZ2NmaA?oc=5",
       "pubDate": "Sat, 27 Jun 2026 04:05:35 GMT",
@@ -1221,6 +1208,19 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPenJWMUdwZVNXUW03TUM3WHFBcEprNnBZYVNPRXgtSUJEYlI5S3hZU0NzRXI3RkVUSWppM3V2LTlpaEdSOGc5am1BdVBBRC1PelVERldXclB4QVdwSzEwQVNpZzZhTy0zQWVUcDRhLW9RSG9FbUJtWVgwaXBmUzlGWTloQjVqRFFlTzVxSGR6czJZOE5BWHBDWEY1dnJlNWt2d2ozdkk0anlEakI5QlVqV0phNmpFbHZla0NNeGVOaDJBZzg?oc=5",
       "pubDate": "Fri, 26 Jun 2026 21:47:34 GMT",
       "description": "New ACIP charter could allow RFK Jr. to further restrict vaccine access, critics say CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Kizzmekia Corbett TED Talk: Your vaccine questions deserve real answers - Harvard T.H. Chan School of Public Health",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPem5nMnNTank1bFoxbVNVeUJ2Vjl2OXBtclA5ZTRQRmJwcDc0dXA0WmtIenVyREV1Y1JBZHBTX1JLNkY0MmFNY2lYMFVONFp4VzRRUlV1VTJBdjZKeEJwelpHcmE4TjBwM1g3TlFOSl9icU9IaThaaGg3a25FbjV1MmxCWGR6Q2pCRG1pb3BVakFreGtyQmV5X29Fdlg0WnNMNWc?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 21:05:22 GMT",
+      "description": "Kizzmekia Corbett TED Talk: Your vaccine questions deserve real answers Harvard T.H. Chan School of Public Health",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
