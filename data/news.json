@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-30T02:14:23.455Z",
-  "itemCount": 69,
+  "updatedAt": "2026-06-30T03:39:54.427Z",
+  "itemCount": 68,
   "groups": [
     {
       "key": "covid",
@@ -10,12 +10,17 @@
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 8
+      "count": 7
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
       "count": 5
+    },
+    {
+      "key": "hpv",
+      "label": "HPV",
+      "count": 1
     },
     {
       "key": "polio",
@@ -45,7 +50,7 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 43
+      "count": 42
     }
   ],
   "items": [
@@ -89,10 +94,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Connecticut reports second measles case of 2026, in vaccinated Hartford County adult - Stamford Advocate",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdHFLSXdUUmxycXB1NlRxS0lDOU5fQ3RjdkRwX2tRTS1ycXB0dk9oVWhpWWdzaC1rcWVhY2ROc29PMXdfRVhlSXZERkt2ZXl0bzNCOWk5c3BVall4aFlXMVZzTXhJOUx1OUVqQWJEUE9iWXlxUEVwNHRRaEZlcnBNa0IyTF92cUtjLXVPVEQ5Zw?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 23:23:07 GMT",
-      "description": "Connecticut reports second measles case of 2026, in vaccinated Hartford County adult Stamford Advocate",
+      "title": "Connecticut reports second measles case of 2026, in vaccinated Hartford County adult - CTPost",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcnlkTTQ2WGhsaXFpZWZUd3IxY2hYelZEVlEtYVNMVnlFX3ZjcUs5LWRJR3FHLXdoYTBDN0J2TVhxWXNhTTdIT0JkeGl2b25FSkdKVGVfaVhYMDdVYVFtczRQUFVsS0l6aDJleUxERGEwNTFSaW5wZFREbTF3bmR1Ti1n?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 23:03:45 GMT",
+      "description": "Connecticut reports second measles case of 2026, in vaccinated Hartford County adult CTPost",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -544,6 +549,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "There’s a terrifying uptick in tick-borne illnesses. Hope may finally be on the horizon. - The Boston Globe",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV1ZTS2ZiMnU2UXpPeEhXLTlpWENBUnRxcHU0MFpkTUhGLXJpRjFleXViWkVsc2pUaE43VnVnYjBIYjlUc3ZjcjhZUnhLYXdkMzJPUG9MYUJsYkVEUzNQMVpweWM4UHgyQ2ZUajlMZkdDUlpFcktibllaM0twSDJEbUNjX2I3Y0Q0S09yYw?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 09:33:01 GMT",
+      "description": "There’s a terrifying uptick in tick-borne illnesses. Hope may finally be on the horizon. The Boston Globe",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Efforts To End School Vaccine Mandates Hit A Wall In Florida - HealthDay",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVWNhREJET1F0akF4aFIwdV9ablBOSDZrbmd4bWEwSjRYTDQ3emJfREs2YUpxcUJMME5rREhkcTVqWDQxUjBCdVYzVzAzWkRzM2pPckoydDJWVWZIdU1QNWMwX1h2NEFlWExHQmNxYWNPYjBxRWZlRWhfZGdQX0RYTWx5UE1JZjJTSzVKVE9MWktBcVZQUVg4UkpMTG5fOEt0R3lKekFGeldudDFfLWpVekYtZGNkOHE5?oc=5",
       "pubDate": "Mon, 29 Jun 2026 09:30:00 GMT",
@@ -626,19 +644,6 @@
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYmo3VE9XSXNYT2F3ZE9Jb0Y4X1ZzT3NXSUVzMWhtX09XV2R4YVdRWjJlY3BpTjJYb3lnU01KWnVKb2lUMTI5dVNpU3RYMWxJV1BKQVllbDBxNnNXbDk3dHRLMFYzUWZSM09kS3duOVRnR3B6OTd0X0xLSHlPNXdnSC0wTkpIN3FITFlaQklZNlJBYTF4a1pzNW9HMUVIWmxfd0FSRGx3S1BWWEYwNXNYa1JWeHFnR0VnV1FaMWpISlFwX0wtRjBBcnZMRU5nUXdVMFU2eGQwbi16TVU?oc=5",
       "pubDate": "Mon, 29 Jun 2026 05:30:00 GMT",
       "description": "Bavarian Nordic Receives Health Canada Approval for Chikungunya Vaccine GlobeNewswire",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "There’s a terrifying uptick in tick-borne illnesses. Hope may finally be on the horizon. - The Boston Globe",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV1ZTS2ZiMnU2UXpPeEhXLTlpWENBUnRxcHU0MFpkTUhGLXJpRjFleXViWkVsc2pUaE43VnVnYjBIYjlUc3ZjcjhZUnhLYXdkMzJPUG9MYUJsYkVEUzNQMVpweWM4UHgyQ2ZUajlMZkdDUlpFcktibllaM0twSDJEbUNjX2I3Y0Q0S09yYw?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 05:30:00 GMT",
-      "description": "There’s a terrifying uptick in tick-borne illnesses. Hope may finally be on the horizon. The Boston Globe",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -791,6 +796,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "The HPV vaccine works—but only if we keep trusting it - Medical Xpress",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FaW9iV2hHQmoyVU85dDdsZEFNZnhzLTN1cTRxWDR0OUlaTVFyVUNJUTdJSVV4cHBEdUNfNXhVZ0NaeDRMZU52NVQ4b1NOaTBXbTZVU1BOQ09SeWVhRTBySzFxUGhwQQ?oc=5",
+      "pubDate": "Sat, 27 Jun 2026 12:00:06 GMT",
+      "description": "The HPV vaccine works—but only if we keep trusting it Medical Xpress",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hpv",
+      "vaccineLabel": "HPV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "If a Lyme disease vaccine gets approved, how would it go over? We asked hunters - NPR",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObDRici1obWltTkNwTHM3Ukl0S2F3RlFkM2RYQlBOTU1tVFFEUVNWc3kxYmJXT3VFSGFHYk5ITFNUODg0Uy13ajk4UHBIMnJZTUIzcDVzbW90VzQ4VmRRRG54R2JpYTBoaGQzU0RsMnZDalhkQ05Bc21sSkVfa0tucUYtaHZRaTc2QWNCNk5melJjb2s?oc=5",
       "pubDate": "Sat, 27 Jun 2026 10:30:00 GMT",
@@ -856,10 +874,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "New Charter Unveiled for CDC's Influential Vaccine Committee - MedPage Today",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SMERvaFlSMUNfb3ppUkxncWFUX0RBaGhoVDBkVWR2NEpKWDI0OHZxUkw1NFVIaHJ3VkFrNHh2RWFVemItb2JIemxvMVNoTWJfWVpRdksyZWY3ZjVfaEEzUDJHcHRrQzVSSDVRWGl5UQ?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 21:45:48 GMT",
-      "description": "New Charter Unveiled for CDC's Influential Vaccine Committee MedPage Today",
+      "title": "Deaths from this cancer can now be virtually eliminated - National Geographic",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWHJXamYxbWdOQkY4dTlfcC1xQ2VVTmxIa3ROd3pPVW14bXIzTFVueUtfWjZLa0wzZFc1eFlmZUVna2J1WEo3RFB3NUgwY0g2OHRWcFRqcWotZTEzcVpqWWdaSWtHZ1U4ZDczSy1maWRCbDR5VmdyUnp2N25QdkR0c0JtUlRBallLckdYNXVR?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 18:23:07 GMT",
+      "description": "Deaths from this cancer can now be virtually eliminated National Geographic",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -895,19 +913,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "EU Commission opens antitrust probe into Sanofi's flu vaccine campaign - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaXhSSWREcHNxd0d2S1dwTkMyTTBlSllDRnlVUDB2M09OTjc3VnVPZGhsVTI2ekRKdGViQ0xxZEpEaHllOWxBNTk4QnA1dTJRNXZWMDBmNzJIZklSQll4N2VCUXVpUUcyZVJPRURyYXpOaE9sbUhGaWNoUmRfaklPZTJtbmE3ZVpiNGMxeDhtLXRIYjdLLXlaYW1hZ1QzV3hCdDNOYXVBM21IZ9IBrwFBVV95cUxQdmZDYVhLdXRhMGxWMjAxUWVJZm1PaDdlbE9aMmZmd1k4TFg0dGZLcmN0ZUFPVHBScmRRaGdleVpyUm9qdXdUS1JUSHRQZE42eGM3VHFmVm84N3RRQmc4WkR6YlBGbmVfc2dxSzJHc3NQeGIxS2ZOTXZRYTFzaGZ3WmJKejVXcTRlTUVvZGtjVnFoTUUyaU9xU3VFbkJ4d2g5R21HakpLNEpPRGNqU0ow?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 10:31:07 GMT",
-      "description": "EU Commission opens antitrust probe into Sanofi's flu vaccine campaign CNBC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
       "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
@@ -917,19 +922,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Sanders releases trove of internal HHS emails showing RFK Jr. pressured CDC over vaccine messaging - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hbVlQM2N0M1Rrbi14UzZQbEFDTnl6eTk1RTdrcl9rbTE5RTNZWXJBZnMwb1FRQms0UUUzd2NadnpxbnpFcnZTRzNfQVRnd29QWWtTd1pLTUhMclJ1UkRiZzRpaV9mTUtIWGVaS25tUHFrRGRUTlVlc0p2V3hkeTTSAYQBQVVfeXFMTW9ZRVJidVdadE01cEdIczc1YTBxNXhIMnR2QzFER1NmV09oaHVDZjlsVVBiNlFULXFhaEhvWnhnSmVTbTZySWlnRkppMmtnY2NYNTZlWUsxRHhMVnV5bzNVdmt5WnhEQmtwVVNVb0l0eTNFMnlVVmppZm94eVZQbzFqWDRM?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 23:55:00 GMT",
-      "description": "Sanders releases trove of internal HHS emails showing RFK Jr. pressured CDC over vaccine messaging The Hill",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
