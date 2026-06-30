@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T05:51:23.739Z",
+  "updatedAt": "2026-06-30T07:41:55.165Z",
   "itemCount": 68,
   "groups": [
     {
@@ -13,14 +13,14 @@
       "count": 7
     },
     {
+      "key": "rsv",
+      "label": "RSV",
+      "count": 1
+    },
+    {
       "key": "measles_mmr",
       "label": "Measles / MMR",
       "count": 5
-    },
-    {
-      "key": "hpv",
-      "label": "HPV",
-      "count": 1
     },
     {
       "key": "polio",
@@ -35,6 +35,11 @@
     {
       "key": "pneumococcal",
       "label": "Pneumococcal",
+      "count": 2
+    },
+    {
+      "key": "meningococcal",
+      "label": "Meningococcal",
       "count": 1
     },
     {
@@ -50,10 +55,62 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 41
+      "count": 39
     }
   ],
   "items": [
+    {
+      "title": "China-based CanSinoBIO's meningococcal polysaccharide conjugate vaccine receives registration approval in Argentina - BioSpectrum Asia",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZW10bkZ0N3QwTG1iVEU0QlA4VGh4YTVhYldFUE15LVhTVFdUVFFfV0hTLXI3Rk5lVGV2OFp5U2hBRUFqNnlsZkY4NURadmh0VWpSU1poUWJaR2UwSmJLWDY4b2RLMUEzTjQybWFGTTJ2alowaFJyNDNxUzlXWDd2dF9MdVZYdzJud2xNMmNsMGxDUWdGZVpoa3hYbnBrektPMWJncEJ0M3M5YWgxX1FwM1hHTV9McVBLaHdONXAxSGd0b25VYlItaGJvT2RFRk5Ra1lfOTlRaGhsR2ppSkU0TmR1bmpiLVVqbm9IVW5ZTDNhSVUteEUydA?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 07:33:55 GMT",
+      "description": "China-based CanSinoBIO's meningococcal polysaccharide conjugate vaccine receives registration approval in Argentina BioSpectrum Asia",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "meningococcal",
+      "vaccineLabel": "Meningococcal",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Editorial: Hegseth's vaccine policy backfired - reflector.com",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaWRna1FnS2tiMkdGUWZCa3llUDdPZ2lpR25MUnp0TnNuSFUzclVycVEtaHMxeE0tU0JWX1QzS2ZhX21fRm9CQy1hdDhqeS1jZDcxUXJ3aDRsaDVUNGl2bEZuUm1MQ2lBTTROMVd4Z0xPOWhUaXFmSGV2SWYyM2UzT3JnQ2JjSm9COHFocmQ2TS1iNmlIQl9lMzNQNlBWTlZlYklVRHFfOFk1eElQTDVJN3VOaWh5bXFHQWRteW5qNzNZdnV1d0QxaXJLV3lack1HNGs4?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 07:30:00 GMT",
+      "description": "Editorial: Hegseth's vaccine policy backfired reflector.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "opinion",
+      "articleLabel": "Opinion"
+    },
+    {
+      "title": "newsGP - New pneumococcal vaccine added to NIP - Royal Australian College of General Practitioners (RACGP)",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ3JtdnBleWlwakMzbVdFcXMtVzRKZHM5dnZXTHhHVXE3eXVaWlItTFZRbkx5MXdNV0x3UnhnN2c5RXlQT09iZXprYTJNcTYtUWdUdmhYV1dwXzZuWHZxRnktRFpac2pBV1pDcVhXYnVmemdBVUhVbjlPMEtPVkRpTi1STUxzUQ?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 07:05:01 GMT",
+      "description": "newsGP - New pneumococcal vaccine added to NIP Royal Australian College of General Practitioners (RACGP)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "pneumococcal",
+      "vaccineLabel": "Pneumococcal",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "AdJane Reports First Clinical Validation of its OMV Vaccine Platform Inducing Mucosal Immunity in Humans - The Manila Times",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQVk5saHFoVnFmZFFJdk1MMGRIeWpxeDhSajFpSFdxT3E0UWJHUFNENjJFNTRlb1lGSXJPbnVSUW4xYW5odVF4b3E3Yk9jcjRUZkwtRF83Q2RhWXhxZnpiRlozNzhldk5hVHN3VXJLbnF0TnlwLU5MZTM3RzFoMWQ5bmFXZGZtcnBiUG1xOFljS3duQWc4bGdRR1MxTEhaNHlaaVpFc09hS3RzNmVGcjRWTFU1bTFYSDU0RWVJNy1tZ1cxSEtPRWFNYzFLN2pITkEwcjk4bmZSQ2VYdjlweDJacnJ6WEM4S2lhR2ltY1dHc3I5SzVHaUQteDN4UjRDTTRDRFVnUUl1OFltQdIBjwJBVV95cUxOYUg0bi15NDJBTG9IMGVJSUkxdHllWHBtRi1fSk15Zm9nbkgxTkxxdFF3c09heDNJTm9aMTY2TjNMRkJSZmRLWEZqdFFVUDFROVlheVZhQWRyYjM2ZkRDWEdJYndSOUZRYnRrQWZRcTBXQ1dTdkU1MUJsYUZQaldtSEcyaHlSbnRpUDMtY3Qyc1phMl9XcWlIX0pSTXEyMzR4R0Z5OUliU0c3dlk2Wmk3NlVSazVaNlhMRTA0VlY3M0VjM2JsZTRneUczUlZUaUFZNGxEVE5tb2pRV1RHMnZFbkdaMXN2WFprSU9BcmU3M2hiOXdjOEFPZGtlbjdEcGZsNkVJQU0yM1pFY2xIWF9Z?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 06:18:18 GMT",
+      "description": "AdJane Reports First Clinical Validation of its OMV Vaccine Platform Inducing Mucosal Immunity in Humans The Manila Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Blocked by Kennedy’s CDC, validated by peer-reviewed scientists: Suppressed COVID vaccine study published in JAMA finds 50% risk cut - Genetic Literacy Project",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOc1prekJ4LUs1b2E2N2xtTU5ZM0ZNZU8wNHI2UHJ0RmFfNk95MlQ1NkdBUG0wMFFtRURTUG92NWc3eUR5WGdiNzhvYm5IUGNZQkZLN0hmRFREb25PQW5CVnUwZHhHUk9IQXRQWVFqMmNOeEYwMFdGUjRSbVo0a3Q1NndmR01kcDl4UWNoN29VMi1zOUFTVG56WG5nbFZ4eEFlbUtlY25GQnpYbFJDaEZmTTBlMjlRcWF5ZjNGaDJGeUlZQ1Q0amtBNG1zRm83WXZpMXpNMXdIR3lyQzBVTi1tekhIMHlINFNLazBqeUJRVk55MEJIZnF3dldhNk5wRDdkem80ZDJR?oc=5",
@@ -98,6 +155,19 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcVFMd2VobEV1VF94WlV0M1Rfblo3TV9mSkJ0a212Y0ROdDVGNTVqZ0RiZG1OeUZ2VXFEUk93Q0tIWlhqeFlGZUtqU3NfVkwzbkQzOGRYSE9kMzFseFZUa1YxSXZMeTRxX2Y1X281SE0tU0lUbmFJOGpPMm1BZnBpcG9wWDhEZ1Njd1owYkJvZldaa0F3YUE?oc=5",
       "pubDate": "Mon, 29 Jun 2026 23:40:01 GMT",
       "description": "Experimental vaccine for 'neglected disease' carried by hundreds of millions of people shows promising results Medical Xpress",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "HPAI vaccines in India: A new chapter for poultry health, or a step that demands greater caution? - avinews.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSFRuRDVMN2RvNEljWk9zWDdGZTVZdVlZemRYSTdYb3FOWTBfa1U2R01BOEhCTXVDOGFlVzBhVzJkY01VMm1GMlZCcXNoUGtLOGF4VFBFQXdTYXZqODJuLU1ocWtaLXVtT0JxYUhXZFVyUDJQSmZoM1c5ekNmWWNVNDd1eU51bGdNMWNVazlBZFlLaTZJMFVhRFBpbERFUkNuVm1kbFNtWHdYbmtEeThfSy1YdkloTzhicnc?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 23:32:19 GMT",
+      "description": "HPAI vaccines in India: A new chapter for poultry health, or a step that demands greater caution? avinews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -562,19 +632,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "There’s a terrifying uptick in tick-borne illnesses. Hope may finally be on the horizon. - The Boston Globe",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV1ZTS2ZiMnU2UXpPeEhXLTlpWENBUnRxcHU0MFpkTUhGLXJpRjFleXViWkVsc2pUaE43VnVnYjBIYjlUc3ZjcjhZUnhLYXdkMzJPUG9MYUJsYkVEUzNQMVpweWM4UHgyQ2ZUajlMZkdDUlpFcktibllaM0twSDJEbUNjX2I3Y0Q0S09yYw?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 09:33:01 GMT",
-      "description": "There’s a terrifying uptick in tick-borne illnesses. Hope may finally be on the horizon. The Boston Globe",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Efforts To End School Vaccine Mandates Hit A Wall In Florida - HealthDay",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVWNhREJET1F0akF4aFIwdV9ablBOSDZrbmd4bWEwSjRYTDQ3emJfREs2YUpxcUJMME5rREhkcTVqWDQxUjBCdVYzVzAzWkRzM2pPckoydDJWVWZIdU1QNWMwX1h2NEFlWExHQmNxYWNPYjBxRWZlRWhfZGdQX0RYTWx5UE1JZjJTSzVKVE9MWktBcVZQUVg4UkpMTG5fOEt0R3lKekFGeldudDFfLWpVekYtZGNkOHE5?oc=5",
       "pubDate": "Mon, 29 Jun 2026 09:30:00 GMT",
@@ -692,19 +749,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Cassidy blasts Kennedy over vaccine claims - The Detroit News",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdmpHNzZNN3ZJbDJUOHBCUkhESW1OaW5MVm9Ya0tpWl92Zkw3TFpPOVB4RkY1TEkxb1NkVGZLcFltb3lFeGlQRTZqb3R6NWJkeEdoYzZmdVl4bTVSUnR4SGdZZDNxZnpBQlp6NXFjcEFaQnNxNXgtWENCX3VZRWtyNlRab2lLWVRpZzhtLU4wNVhHZXBncmZ0RE5oM0w1UkJQeFExNUlZLXR5bHVYNnJvYlpra01hZw?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 01:26:01 GMT",
-      "description": "Cassidy blasts Kennedy over vaccine claims The Detroit News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "mRNA Vaccine Shrinks Deadly Childhood Cancer Tumors by 70% - SciTechDaily",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObmxyMmxKN3NfLU5qdmZiRkl4YVNZeEI5Z2RvSmdlWUJuR3IwVFI5UVI0enNyR0VHN1M4eTJjeW8ycFJNOGkxWTRmaE9jTEdUZURTODhIZTFEVmhNQktVZ3NKdXQ2dTRlbUFjZjVwTjJjczNjSVhBYjdfYTVBdl9uZWQ5bGI1ZzNnQ3lB?oc=5",
       "pubDate": "Sun, 28 Jun 2026 22:46:29 GMT",
@@ -770,6 +814,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Maternal RSV Vaccination Reduces Infant Hospitalisations in Early Life - EMJ",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXFWXzhHRWp5dXRBZXN3M0U4SzFxRVU5bGgwWGpQeEp3YmlVWHQ2ZWRXaDg3STlmLXc2aExKZUh3dnRUeXNxcUEtV1YzblBuZ2lucW8tNUhmWHdBV2o3YXVDdVN3ZGxxSkljUmJNNGlSU0RDbGJmTHhaU3NQNUZ5ekpkUDBZa1FGMnUyUERuTGtLN0VCZzBlaDktSTZFMm9pT0R1YmRTN3Zzd2N4R3VXZUJ1SGE2UQ?oc=5",
+      "pubDate": "Sun, 28 Jun 2026 07:00:00 GMT",
+      "description": "Maternal RSV Vaccination Reduces Infant Hospitalisations in Early Life EMJ",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "rsv",
+      "vaccineLabel": "RSV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Measles, whooping cough spike amid low vaccination rates - Jacksonville Journal-Courier",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMHVTaFc4MlpaNTJDOFFVOGNzWERzYzdHWWo3YWpIa05fd2wwT1RqY21GQ1NZWDBBSnpiVjQ5eHlrbHlvdVp5aXNUVy13WngtOXdiWllta0R2Unc0Sl9BWTl3WmJOLVM3bGd5Y2RFZ2U4c3lnN0lrcXlIdC00NURJNkx4emlraFNYNHVnVlExZFZ4WERxU21fQ091ZDlIXzM1UFE?oc=5",
       "pubDate": "Sun, 28 Jun 2026 05:39:10 GMT",
@@ -792,19 +849,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "The HPV vaccine works—but only if we keep trusting it - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FaW9iV2hHQmoyVU85dDdsZEFNZnhzLTN1cTRxWDR0OUlaTVFyVUNJUTdJSVV4cHBEdUNfNXhVZ0NaeDRMZU52NVQ4b1NOaTBXbTZVU1BOQ09SeWVhRTBySzFxUGhwQQ?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 12:00:06 GMT",
-      "description": "The HPV vaccine works—but only if we keep trusting it Medical Xpress",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hpv",
-      "vaccineLabel": "HPV",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -835,19 +879,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "RFK MAHA vaccine study censorship is driving US brain drain | Opinion - The Courier-Journal",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVXZkaVJNSUZQVWJzOS13bVhROTBaVzBjcVBTU2c3TW5pRjZZLXBUek5CSlE3cTR0bEY1QTRYY2owRENDZFBsaHR0Tl9KSHRRTzRNLXBHU1VTbXBVX2JVbHhqVnlUdU1JUXdUSERIOWpoUVd4Ujlnbm9uNUotOFo5UzBRS2NCOWhLTEIzZGZfTW10dGI2aTZHWmhXeVlpLTRpOXZEVFBOSFZianZjREpWZFNteFlNb0V1cFNDT0lWbFdtVGN3M242UnJyTFFjOFJReWN3ZXRNTXMtSEZqWFF5YmhuZFo?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 09:03:00 GMT",
-      "description": "RFK MAHA vaccine study censorship is driving US brain drain | Opinion The Courier-Journal",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "opinion",
-      "articleLabel": "Opinion"
-    },
-    {
       "title": "US starts vaccine effort for Ebola Bundibugyo as outbreak spreads - Reuters",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSlJTNHZOcTRfTmczVk9FRV9QV0gwc3hSckhIdDFmOXN6SjlNUFVkeDRUYVZlcXZ5STZjNnhMTjZrQURsT1hkaDlNMUJ6eUxWZnUtdlg3X1E0Xy16dlAwSGtDdi1mX0ZqeXBxRDJlaDdLeWVveGduSWtfUGV5N0dvY1BSM25oNXF2RTdPcFZtSVotTUo2WVlMQXB3TnFoYXNHS1VvUm03alNKZXBpTzMyOTBZZnRnMzJtOEpRampQMXdKeVFoRk1VV0s0Vk1vQzA?oc=5",
       "pubDate": "Fri, 26 Jun 2026 22:09:43 GMT",
@@ -865,32 +896,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPenJWMUdwZVNXUW03TUM3WHFBcEprNnBZYVNPRXgtSUJEYlI5S3hZU0NzRXI3RkVUSWppM3V2LTlpaEdSOGc5am1BdVBBRC1PelVERldXclB4QVdwSzEwQVNpZzZhTy0zQWVUcDRhLW9RSG9FbUJtWVgwaXBmUzlGWTloQjVqRFFlTzVxSGR6czJZOE5BWHBDWEY1dnJlNWt2d2ozdkk0anlEakI5QlVqV0phNmpFbHZla0NNeGVOaDJBZzg?oc=5",
       "pubDate": "Fri, 26 Jun 2026 21:47:34 GMT",
       "description": "New ACIP charter could allow RFK Jr. to further restrict vaccine access, critics say CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "New Charter Unveiled for CDC's Influential Vaccine Committee - MedPage Today",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SMERvaFlSMUNfb3ppUkxncWFUX0RBaGhoVDBkVWR2NEpKWDI0OHZxUkw1NFVIaHJ3VkFrNHh2RWFVemItb2JIemxvMVNoTWJfWVpRdksyZWY3ZjVfaEEzUDJHcHRrQzVSSDVRWGl5UQ?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 21:45:48 GMT",
-      "description": "New Charter Unveiled for CDC's Influential Vaccine Committee MedPage Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Deaths from this cancer can now be virtually eliminated - National Geographic",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWHJXamYxbWdOQkY4dTlfcC1xQ2VVTmxIa3ROd3pPVW14bXIzTFVueUtfWjZLa0wzZFc1eFlmZUVna2J1WEo3RFB3NUgwY0g2OHRWcFRqcWotZTEzcVpqWWdaSWtHZ1U4ZDczSy1maWRCbDR5VmdyUnp2N25QdkR0c0JtUlRBallLckdYNXVR?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 18:23:07 GMT",
-      "description": "Deaths from this cancer can now be virtually eliminated National Geographic",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
