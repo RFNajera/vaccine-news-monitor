@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-07-01T16:15:01.349Z",
-  "itemCount": 89,
+  "updatedAt": "2026-07-01T17:11:01.789Z",
+  "itemCount": 88,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 16
+      "count": 12
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 10
+      "count": 12
     },
     {
       "key": "rsv",
@@ -20,12 +20,12 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 5
+      "count": 6
     },
     {
       "key": "hpv",
       "label": "HPV",
-      "count": 3
+      "count": 4
     },
     {
       "key": "hepatitis",
@@ -45,10 +45,62 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 48
+      "count": 47
     }
   ],
   "items": [
+    {
+      "title": "A Landmark Study Reveals This Can Eliminate 100% Cervical Cancer Mortality - MindBodyGreen",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOHQ0WG1tdno4N1ZfRHhGbHlVUVdjQ1N5NkI3S000bkM3SF9Ta0t5ejJaRkF2Qm9JMktQLXlhc1hpdnFVeDFUTXZqaGhqdkZiUkJoU0FWX0ZCeTU1SFNRV1dQc2FQV0YyQnZsV0cyTElyV0hwSUtna25CQ3VhQjZJM2szaHdWMGxnVjIxWVVub2lZU2RXTHV5d0FR?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 16:43:08 GMT",
+      "description": "A Landmark Study Reveals This Can Eliminate 100% Cervical Cancer Mortality MindBodyGreen",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Beyond immunity gaps: health-system constraints and measles mortality in Bangladesh - Springer Nature Link",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6eDAtVzloa3piaEVGWGlBemtqUHVsOEZwY2ZncU4xRVdhTnlGSzBNTDcyQ2RPaGxHdk9jdGx4bGxmdTc0cWF6dEZCdU5xUVFEaWtZdXJwTkI3cFlqR2p6d2s1aHgzQnY5bUZJRA?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 16:41:51 GMT",
+      "description": "Beyond immunity gaps: health-system constraints and measles mortality in Bangladesh Springer Nature Link",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Following an outbreak, lawmakers push to require flu vaccine for all service members in budget bill provision - Military Times",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPUnRZWGExNDRhdmpTTFZCWTdDT002cFhxWkZBclFDY2pBMkVsMEVpRVF6WXk5WXhRWDY1NzhIMnJEN192UmRvVWttelRvV2tVTEUxRi1Dd2tOdXVydzBWVHFXQ1VMM1FjSndPaU5vV1JRWjFYVWRoSWFjb1Y3YTBMQmNCVGVPRExiUEdqQVBmbEI0TEVTTzctNmE1TGlTbjJVOHhVdlVMdXdPUkpkUjZpYVpFeTY5VkJ1dF8tak56MUNwdngxbHl5T2RNTGp1UlNUZmdobDd5d0UwME93dll6VTVHSHZ3QWFRaHE4bzNzbzdxcGNrSzJDb1BtMEdMeENwaEtz?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 16:41:35 GMT",
+      "description": "Following an outbreak, lawmakers push to require flu vaccine for all service members in budget bill provision Military Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Jury Backs Wisconsin Agency in Vaccine Religious Bias Lawsuit - Bloomberg Law News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN1AtMGF5YVBhRFVWWi00TERSYkVkU3NLTzBGVm9QSTVTeS04dm5aZW5USnlxUlpIOFNBZ3cyOTk2WVAzc3JHU3V0bWI0NENHUWxZRXlOMjZiUHhDTFQycDF0d0ZDbWFGVkxRem96cHlDT2FwOERqanpfbTFaMnlPZEVxdzduYllsNmVGb2FRbFdncGhGZ181c3dXVUVnaHhUZ2lRZVdGbXNRTHk4ZEFZ?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 16:35:00 GMT",
+      "description": "Jury Backs Wisconsin Agency in Vaccine Religious Bias Lawsuit Bloomberg Law News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Currently Approved mRNA Vaccines Are Safe And Effective, Promising Future Disease Prevention And Treatment, Lancet Review Reports – OpEd - Eurasia Review",
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZ2V3ZXFHLTlIczM5SDBSaDkyM1I2M1A1T3Yxb0FncEV1MzZwbkZYU2NpbXVQR0I5S1MyOEtsRloyWXdzUDREazNSMTRwZU1iOFV0OEI5Smx6OEVNeTdmVzlSUzBvdWFLWWg2V25jWVp2SUFJbDdoWmRUQmJJN2ZnSXhDbzFxdFgyY0J4YUdsTi13clZzNWp0ZVo1bVJVRnlkS1BWUS13UU02Rk03VFg0ck1EdGxRcXFhWEgza1BPRVkyMmZDVGdhYW1zZVhjLV9sbjRLY0FnMVF0UHpyZEtjWlF0bUFDeW5CaTFHcV9lMjBPZ0VMNENoakdLaVlxTVZhLWc?oc=5",
@@ -260,7 +312,7 @@
     {
       "title": "RSV vaccine to be offered to thousands more this winter - Healthcare Management Magazine",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05Q3gyOGh4dTBkcG05V1BfX2VWdi1xY2hKbFdVbkZ6cGlxLTdHVFhmTzRXMWxpMDBmLVdRc0J6a1diYnJnQjgwc2Y1aHZZYmUxNkhhZ010dHZSNzE2bTBFRjdQZXVtRTR2Z2tpWUVlNXZLeFBMR2NmZHRaQUZkdw?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 11:20:07 GMT",
+      "pubDate": "Wed, 01 Jul 2026 11:16:24 GMT",
       "description": "RSV vaccine to be offered to thousands more this winter Healthcare Management Magazine",
       "source": "news.google.com",
       "sourceType": "news",
@@ -362,19 +414,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Billions of mRNA vaccine doses’ review underpins their effectiveness - Euronews",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV2ZaeTF3VG5wUDlFclQ3SWZGeUZtUkIxc0tjdUI2ZFFtTkFQRTdwQXN5V1N2MGJvRnZCTWlZZ1hjTW8tNGc4dXNYTGpLYVZUUmRxclFETnVIQXBkT1Rya3BBRlEtSENGbXpzbnlTeXRWTndqRFBJNjNYd1ptUUpvLW94REJpTjhiZTh0TUV1bW1VYmt4elBpTXVTc0FmOGFjd2NKWGR5eVRBMUdiZk9F?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 05:00:53 GMT",
-      "description": "Billions of mRNA vaccine doses’ review underpins their effectiveness Euronews",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "How Well Do Patients With Myopathies Respond to Zoster Vaccine? - Medscape",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNkNObUpKazhLLURCaHFpUFNkVkE4aVJUTWVFR2tyZVI5Y2ZsMnBwMnlTSEZuVENqTEFaenhZLTM1N016M0ZQTEdzVG1aM3NTd0ZZV3UySlVHR3pUU2dxZnZ1NVF0SFBlbnRvZWhuZGpBTzVxSkd1OWJFM3R6eTBuM04xQ0Vyc2tBVGU0S0VPY0ZxMGRuTW9XX19iYjlYc21mbDRNUkJmVQ?oc=5",
       "pubDate": "Wed, 01 Jul 2026 04:56:56 GMT",
@@ -455,7 +494,7 @@
     {
       "title": "RFK Jr. Broke Vaccine Promises, Built Public Health On 'Lies,' GOP Senator Who Helped Confirm Him Says - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcFd5cVdmVWQxRWZLbHZmT2hhNnlmS0JydnBCZXk0SEF0UTg1bDNsXzVIUFVvWU9NaWp5N1J1ZFg0VWRXV1lkWkl6cHRveFBNX29JMUUxQUE3OExCMmZtcEJuMHdGeTVHak9vWkJlakFUZi1CVWkyU1pjNG1waldweUMxTUZTRHo0U282cV9vdTBqRmc?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 03:31:04 GMT",
+      "pubDate": "Wed, 01 Jul 2026 03:31:00 GMT",
       "description": "RFK Jr. Broke Vaccine Promises, Built Public Health On 'Lies,' GOP Senator Who Helped Confirm Him Says Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
@@ -518,6 +557,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Members of Congress call for mandatory flu vaccines for military after Lackland outbreak, death reported - Texas Public Radio | TPR",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQR3U3UDBObGJFUWYtVmRmbzJUREpzcnpCUjhuVHpvU0ZDSXhvT3RxOGhkbDl4ZUhmSG5zNEtqOEV5blNXcHZabU9VWXZUVFJveVVQWHlkU2VrTTdwSkNnWHdYQTlLOTdiZWkteEw1bmNDQzJEcDNRN1g3TmItT3dOUlNiVjlST2pWQnJxOUplSjI0MHdieTRjRTdtdGdpcG1fY3Z6Qjdzdmlnc2xpZkVGUDRlZWJvQUd2X3RSNXhBM0ZLdWd0X1YwSmNNY1hRZ3BKNm1KdGxkRVpPQ0FQYkg1N0pKcEJ6SjA1TXo0QWF0NDE?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 22:42:00 GMT",
+      "description": "Members of Congress call for mandatory flu vaccines for military after Lackland outbreak, death reported Texas Public Radio | TPR",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "A Rewritten Federal Vaccine Charter Could Determine Whether Your Fall Flu Shot Is Covered by Insurance - Medical Daily",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUExZUzRPNmJEMEJHeE9zMmNVM0FCNnRnUUxQcThpN0VQdTNtNlBESGJwa2pkZ3hkM0VKZ1FPWEVSbGkzY3JKajJnWlRHNWFwNUc0aXJQMWhicnBURVR4ZzBPeDYtakJZcWFiOTZGMEwxSmNuVnQ1RmxjUmZWQmFNVV9FMmhqSzFIdDlqdmtvVjlLQUdwVEg1Mg?oc=5",
       "pubDate": "Tue, 30 Jun 2026 22:31:06 GMT",
@@ -535,19 +587,6 @@
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSjB5TEdsR3dYd0FlRmhYSzNpR0laVlc3ZUtGRDhmaDVOUEd0OU9mdGtVb3hnLUVlR19aTS1qMm1TdWpwOVhOMnF1RXowTHdvdzBsZ0JHcm1MbnpPanBXS2NocHRuWXlDVmlvRVVPZzYzbnlJMWZxRHNtLUpWZHhyUExDc2N3a0k1amRoX08xNjA3cVBhRW5rc3c1VjdpMkJqcjRnYWlpT21EUzZXaThLaVJWRzNSQV9SMjlmYW1RZTV4SVBBWFFXc0l3RkNfcWpEdEp0WnFOSXpYdXM?oc=5",
       "pubDate": "Tue, 30 Jun 2026 22:14:57 GMT",
       "description": "Rep. Joaquin Castro blasts Hegseth for Lackland flu outbreak, calls to reinstate vaccine mandate San Antonio Current",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Rep. Chrissy Houlahan pushes vaccine mandate for military - WFMZ.com",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR2tkZFhYOVVkdlpCenpRUXdWX0NUV3BqZHdnS3B6MW94MVBuLWFCQzhkZnREOEJEY0VCYzlxdHkyNGtLUS1PaVJIYXdFR2RjWllmN2pSWU9ySlNZdXBEOXF4YnBFVUMzZUJyRzRDSlkzaFBSb2tWNU5ISlJYUDdXaExlOWYyNlNPNEZ4dnlOZ2wwdkp0OHNrS2tCUmpyTnEweWI3bVpwWURQZWVQbXRLQkZHUU9fdXVmNlhQZXFzYVFacERUTnQ5NU9Ybm1JZWNnaURUNkEydm9yUzg?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 21:48:00 GMT",
-      "description": "Rep. Chrissy Houlahan pushes vaccine mandate for military WFMZ.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -596,19 +635,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Researchers working on a single vaccine for Covid, flu, RSV - Yahoo Health",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMUVCaGhHRWtKWE5UbGV5YWVqT0lUbFVrX2VXR3NzM1h1NS1ZVy1xcjlWS1FRSEU0d2kwemlja3FNZnpXOGZUWW45R1o4OU9vcnNISUs2NUVoSXJLWWd0QlRONU1MSHdvSVpCd3FUaWR5dV92bmtMSEdvaUhzWkdsSksxcWtBTG9Jai1oWk9CSEFzSVBwbG1FQlhobjE2UWYxZ2ZTOWY0aWxTLVE?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 21:28:42 GMT",
-      "description": "Researchers working on a single vaccine for Covid, flu, RSV Yahoo Health",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "New US poll identifies large ‘malleable middle’ on vaccine misinformation - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYXNOYjVUeWRlRy1fTU05c1VCeTNIMGxkeG9semE5QWEzRnk2a2x2TlcwakFQdXdjUm4wR2NBd1dLaDFMajlhMng0WTl6cEVyUDdGOVo4ZzJEeTNWU0MxdmRkMTB3Z3J3X2xMZTZDUkc5cDJsUFNEWlVSaGFoRXRJcXVaNTdkY004UjZJeUhoRVQ4OVFnaE9NbmdhWDVLZ3gwd1phVkJXXzN0S1pVUlpiaXloMFU?oc=5",
       "pubDate": "Tue, 30 Jun 2026 20:49:42 GMT",
@@ -633,19 +659,6 @@
       "vaccineLabel": "Measles / MMR",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "HES holds in-house vaccine clinic - WDEF",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91QWcxS0R1bV9INjI3eThLRV9ZOGtuVy1VLXNQSHJmQk5ZcVVuMnYweXJXYV82WTNxeU1rM0ZLUjdSSnlVSmU2allGdzNZbW5oV002VjZrSjBtcmJxRUMyekxQS0dfZw?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 20:21:37 GMT",
-      "description": "HES holds in-house vaccine clinic WDEF",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "2 Democrats introduce amendment to defense funding bill requiring all service members to get the flu vaccine - Stars and Stripes",
@@ -778,19 +791,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "3-in-1 vax could protect against flu, COVID, and RSV - futurity.org",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GSFZMRWlIU2ZSTVVlTlBJd1VuTlptN3hFRTA0QndrUTk1QVZTRXRmRGNKaHhUT2NoNWdwcFViTmVhZm5EcFp3a3U0cHRmblBkRlgxWmtlcEpmYjkzYkxsMkl0S19KQ1lRcXREcENpZ1BBbGFybkE?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 17:27:49 GMT",
-      "description": "3-in-1 vax could protect against flu, COVID, and RSV futurity.org",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Basecamp Research brings EDEN's antibiotic and vaccine design models to Claude Science - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbEpkQUswNmxQa3lHN2NjZUxOOEVubkhCUkpYOUpnYVhvOHE4VDVZaFBEYS1YMnpoLXJ0cWs0QS16RDdTVGxUaEV2TEdJY1ktamhsUGl1b1I5eWsxVDR4NnZDZFNkX3p1OTMtTGVBN21SU0QtREY3VjAtQVZNY2dReGpqWnhrZVpQZW9RVnhkY2lSZ3Zsa3lteDhRWEpxZ1V5Y19sZm9GQWlkWnJISmd1Y1ZqbnJuTU0xZXJxYXF1XzdpRlU3bEllRG05YVV3ME1veTRzZFdhdy0?oc=5",
       "pubDate": "Tue, 30 Jun 2026 17:00:00 GMT",
@@ -804,10 +804,36 @@
       "articleLabel": "Research"
     },
     {
+      "title": "Billions of mRNA vaccine doses’ review underpins their effectiveness - Euronews",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV2ZaeTF3VG5wUDlFclQ3SWZGeUZtUkIxc0tjdUI2ZFFtTkFQRTdwQXN5V1N2MGJvRnZCTWlZZ1hjTW8tNGc4dXNYTGpLYVZUUmRxclFETnVIQXBkT1Rya3BBRlEtSENGbXpzbnlTeXRWTndqRFBJNjNYd1ptUUpvLW94REJpTjhiZTh0TUV1bW1VYmt4elBpTXVTc0FmOGFjd2NKWGR5eVRBMUdiZk9F?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 14:48:53 GMT",
+      "description": "Billions of mRNA vaccine doses’ review underpins their effectiveness Euronews",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "The HPV vaccine works – but only if we keep trusting it - Gavi, the Vaccine Alliance",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMU8yekJRUktXeGowdkhCRVBIYktTX0djRl9XeURqRGF4Y2VmcDlBVW1KaWp2aEI0OWFwajBIV01vX29TTm93bDFUT2lOZ1FmMG1HdkFDQlJnN0F3M2lFZE1SZnotd29sTTZMV1ZtaVZ3Tkx0OElQZkRaYVVrRWFaSmlDNjVqdw?oc=5",
       "pubDate": "Tue, 30 Jun 2026 14:27:39 GMT",
       "description": "The HPV vaccine works – but only if we keep trusting it Gavi, the Vaccine Alliance",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hpv",
+      "vaccineLabel": "HPV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "High HPV vaccine uptake cuts cervical cancer deaths in women - News-Medical",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYlU4cEk1eXVBOFk5aktMR2hPQ1lnUVBnaTdaQmx1UjBpV3BON2lva1d5XzBma2dSTjJtSGVqdi1saDl1dFBwbkJxdmVQcmgwcEpoSGc5NG1BQmY5VWI5czRvN1pwZnN3OGNoUUc4eGE4Q3RncDBjLUZJSzdSZ0hiNklTVFZxcXVEdVRTMmpRdGR4emlGTUhmM29MMFhlblNmYUZzc2s1b1V3UGZh?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 13:53:00 GMT",
+      "description": "High HPV vaccine uptake cuts cervical cancer deaths in women News-Medical",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -921,23 +947,23 @@
       "articleLabel": "News"
     },
     {
-      "title": "Coadministration of RSV and COVID-19 Vaccines Is Effective in Older Adults - Infectious Disease Advisor",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbEpCSWR1SmNVZW9sWHdNaXY5eng3LUVaN18xUFVIbjlZUVZlaXRiV2YwTGhtRWowS0VER1Zzb1Nra1o2dHZXSFRCX0pFVzNBUEk3X3hNaVllT2w0ekxrOHZfSThIMUs2VFZhMXA4dVQ2UUFxNHZ0RHBYSG5CSmpfV0tGaXFCVDNKWVpPLWFKOUpnaWY4bk9MbVROdGo?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 04:00:00 GMT",
-      "description": "Coadministration of RSV and COVID-19 Vaccines Is Effective in Older Adults Infectious Disease Advisor",
+      "title": "Would Hunters Take a Lyme Disease Vaccine? We Asked - KFF Health News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSWxONW5NeUdsVG4ydjV2UnFYQlBsVnNoTUpLeGxzTFlVTmNneEVOT2o3amJLeEgzcGh6UWZralBBQUlmNkpBMzdvR2JhVWxjSHp6TjJmTGhna0JyZkNFU0JVMThqX05sbFc0aW83MGlBNFR0ckRaWlo1VFVIaXBSMlNZVFpQWDJoWmg5VnNMVDBOX2ZFSHl1Unp3?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 09:01:18 GMT",
+      "description": "Would Hunters Take a Lyme Disease Vaccine? We Asked KFF Health News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
     {
-      "title": "mRNA-1273 Linked to Lower COVID-19 Risk Than NVX-CoV2705 - Infectious Disease Advisor",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX3MxUll2RjhyM0FfaHJMV2t3ZUswNmdsbHM5d0FNbzFXM1BMQlNqdjlIaXhnSVZDOVAyM1F2bG5xelFoQUdUdU5DX0xPNkRSTy1vRXBzc0lYbjItSngzaGtxMzNFaklYVVVuNHZjMWJpT3pKWmE2OWs4cVd0WWoyelFvZFlvOFR6Z3ZiYUloSGVXVUVH?oc=5",
+      "title": "Coadministration of RSV and COVID-19 Vaccines Is Effective in Older Adults - Infectious Disease Advisor",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbEpCSWR1SmNVZW9sWHdNaXY5eng3LUVaN18xUFVIbjlZUVZlaXRiV2YwTGhtRWowS0VER1Zzb1Nra1o2dHZXSFRCX0pFVzNBUEk3X3hNaVllT2w0ekxrOHZfSThIMUs2VFZhMXA4dVQ2UUFxNHZ0RHBYSG5CSmpfV0tGaXFCVDNKWVpPLWFKOUpnaWY4bk9MbVROdGo?oc=5",
       "pubDate": "Tue, 30 Jun 2026 04:00:00 GMT",
-      "description": "mRNA-1273 Linked to Lower COVID-19 Risk Than NVX-CoV2705 Infectious Disease Advisor",
+      "description": "Coadministration of RSV and COVID-19 Vaccines Is Effective in Older Adults Infectious Disease Advisor",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -971,19 +997,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "May as Well Get COVID and Flu Shots on the Same Day, Study Says - MedPage Today",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LaEhnaHc0bG50dlc2UUdsRHI3TFZBbUsxREtMcFRjc0Nnd3U0bjdtRC1aa3dRaEZ4TVBwejloYUEtdm5WQ25sN2txZkZ1eVNyV2VvalhaaEFrNEJHSm9FbnMxcVJXVFg2TGFrSGJlMm9GVW0wNnRR?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 21:00:38 GMT",
-      "description": "May as Well Get COVID and Flu Shots on the Same Day, Study Says MedPage Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "Military backtracks on nonmandatory flu vaccine | WORLD - wng.org",
@@ -1159,32 +1172,6 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT2tKUHFTVl9PN20tZEUtZjU0MFJMVVVuS3NZTGtPUXRxdVpkUVlUbWNGNUxGRFpoVFlhVllJdnRscG4xM1F2NnBQVnNoWXFQS0JNenVzamNfVFpiM1pLRi1RRDRYTWR2ai1sVjNLRmd5V3I5MUgwM3Nlcy1QWjVrUFVxYy1YR2pNSjFZa19R?oc=5",
       "pubDate": "Sun, 28 Jun 2026 07:00:00 GMT",
       "description": "The lab scientists banding together to test new outbreak-busting vaccines CEPI",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "If a Lyme disease vaccine gets approved, how would it go over? We asked hunters - NPR",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObDRici1obWltTkNwTHM3Ukl0S2F3RlFkM2RYQlBOTU1tVFFEUVNWc3kxYmJXT3VFSGFHYk5ITFNUODg0Uy13ajk4UHBIMnJZTUIzcDVzbW90VzQ4VmRRRG54R2JpYTBoaGQzU0RsMnZDalhkQ05Bc21sSkVfa0tucUYtaHZRaTc2QWNCNk5melJjb2s?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 10:30:00 GMT",
-      "description": "If a Lyme disease vaccine gets approved, how would it go over? We asked hunters NPR",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "New ACIP charter could allow RFK Jr. to further restrict vaccine access, critics say - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPenJWMUdwZVNXUW03TUM3WHFBcEprNnBZYVNPRXgtSUJEYlI5S3hZU0NzRXI3RkVUSWppM3V2LTlpaEdSOGc5am1BdVBBRC1PelVERldXclB4QVdwSzEwQVNpZzZhTy0zQWVUcDRhLW9RSG9FbUJtWVgwaXBmUzlGWTloQjVqRFFlTzVxSGR6czJZOE5BWHBDWEY1dnJlNWt2d2ozdkk0anlEakI5QlVqV0phNmpFbHZla0NNeGVOaDJBZzg?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 21:47:34 GMT",
-      "description": "New ACIP charter could allow RFK Jr. to further restrict vaccine access, critics say CIDRAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
