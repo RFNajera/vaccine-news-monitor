@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-06-30T23:48:30.617Z",
-  "itemCount": 82,
+  "updatedAt": "2026-07-01T01:27:55.913Z",
+  "itemCount": 85,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 14
+      "count": 15
     },
     {
       "key": "flu",
@@ -38,6 +38,11 @@
       "count": 1
     },
     {
+      "key": "meningococcal",
+      "label": "Meningococcal",
+      "count": 1
+    },
+    {
       "key": "shingles",
       "label": "Shingles",
       "count": 1
@@ -50,15 +55,67 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 45
+      "count": 46
     }
   ],
   "items": [
+    {
+      "title": "mRNA vaccines proved safe and effective during COVID, review says. Cancer could be next - CBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03ODBST09IUXpuMmtMU3pmazEwMWVqblVObWx5Z1pUV1VuMzFRTWFnVjRNZW1xOUR3alo4N3VxZHpqUXNKdjhZU0FjNERNN1JfNktLN3ctRndUeHlrM2pOTXFISWlZYnBUZm5UMjB6bkV4S3NzMnJN?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 00:25:00 GMT",
+      "description": "mRNA vaccines proved safe and effective during COVID, review says. Cancer could be next CBC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Mussel-inspired vaccine aims to close the immunization gap with long-lasting immune protection - Medical Xpress",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONkNtd3ZvUlVWV1FJMjZ4Y2duMTRXdkx2MnhfcTlfMXlLY2NIMXFpUV9LRzFXR2ZMbnZuNGR2YVVSbU5aRXZtZkhrRDB1bExQMnd4Ykw4U3EyVEk5Mnc0eFlTWWctYkY0Y3ZsQ3Q0OVUtNGFJQzRSV1hjblVFS01tRmswSkRzV1E?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 00:20:02 GMT",
+      "description": "Mussel-inspired vaccine aims to close the immunization gap with long-lasting immune protection Medical Xpress",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "CanSinoBIO Secures Argentina Approval for Menhycia Quadrivalent Meningococcal Conjugate Vaccine - BioPharma APAC",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYS1DSHRBV1ZtckFSZWlKbHF1bkkxY1BSQnVwekFHYjBCQlY5SnNoTUxMa1l2YkhvQUxBU1pJSWppZ3NNcUowdHA3YVlvSHlsVkROYWZMZElMOFZwRWEwdHJlNXFGaGlMdFhYWUhPVFl1YWlGUlp4V0xydGlFbGtKdkRhcVRMbVEzcEJINGE4MDhsb3NldkVHZ252LThpWmdKT1FlSlNKUklxQmRLQVZXbm9PekgyOUtmVTJiT1N4RjdkblNYRGthQWxIUVQ2bXZqTnNSN29R?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 23:47:55 GMT",
+      "description": "CanSinoBIO Secures Argentina Approval for Menhycia Quadrivalent Meningococcal Conjugate Vaccine BioPharma APAC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "meningococcal",
+      "vaccineLabel": "Meningococcal",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "A Rewritten Federal Vaccine Charter Could Determine Whether Your Fall Flu Shot Is Covered by Insurance - Medical Daily",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUExZUzRPNmJEMEJHeE9zMmNVM0FCNnRnUUxQcThpN0VQdTNtNlBESGJwa2pkZ3hkM0VKZ1FPWEVSbGkzY3JKajJnWlRHNWFwNUc0aXJQMWhicnBURVR4ZzBPeDYtakJZcWFiOTZGMEwxSmNuVnQ1RmxjUmZWQmFNVV9FMmhqSzFIdDlqdmtvVjlLQUdwVEg1Mg?oc=5",
       "pubDate": "Tue, 30 Jun 2026 22:31:06 GMT",
       "description": "A Rewritten Federal Vaccine Charter Could Determine Whether Your Fall Flu Shot Is Covered by Insurance Medical Daily",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Billions of doses later: Global review confirms mRNA vaccines are safe, effective and full of promise - UBC News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObC1hYXJkc29LbzJfaERWMnBsMTNIaVFEcDgzUFl6T05pMTZKR2hVZFdCRTRrN25BXzB2cFNNV1U1cDVaclRmMnY5a1ZKTHhKaHdxbklpajREdjNheGZLTWlRdl9tb2VqMm94ODFCdGpWUkFoZWJJVWFLbXNyVVoxYklsM09KZkVN?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 22:30:00 GMT",
+      "description": "Billions of doses later: Global review confirms mRNA vaccines are safe, effective and full of promise UBC News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -198,19 +255,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Removing barriers key to improving First Nations vaccination gap - UQ News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ0tKZnBKVnNzRVZPcWdyNXcxeHBqQy1wTlpFMlFzaml4WV9qc3FKeW44bHQ2a09oLVl0UXlFcFI3Z2Fkc3l1UzF3d2V4Tm5kR2JBTVRpcUdraW14Nm1fQWRrUTVtYW03Qnc1YjQ3WVhNQnc0ZlBhZ1c5SXlPNnp4NWJrdi1LRU5Yd0lRZVJEY2NqcXRVR2Rv?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 20:01:40 GMT",
-      "description": "Removing barriers key to improving First Nations vaccination gap UQ News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "2 Democrats introduce measure requiring all service members to get the flu vaccine - Stars and Stripes",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONnVabVQtUVBWaUpybjV5RmpCUHVWYVozQzh4Ym55SEI3cEl5OW0tQ0Vaa1gtOEd3WUt6eDRUZUJBdEVYZVQ5dktNcTJaOTFlQmRNU1pqaEMxWlJGZlBCWEJoNW5IN3pBVFJKcWVlUHhMUno1LUx2Y0M2LUZ4N0FnaTBXWXROWVFaQ3BZdkVmdjVrN2pSZmtGNQ?oc=5",
       "pubDate": "Tue, 30 Jun 2026 20:00:31 GMT",
@@ -220,6 +264,19 @@
       "sourceLabel": "News",
       "vaccineKey": "flu",
       "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "15 Maryland laws taking effect July 1 that you should know - Baltimore Sun",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4QXhrOEVOMGdVa3RzdEszeUR2UTh3NUJmSkVTRUY3TUdPVGtVVmNwRWZIeVROV3F5bUJsLVE0ZVVNNUJjR0RjZGNHdVVhbXo1VXJUZjF4Y1p6UW9JWkYxRHVtSXhHdXA0UDR3VTlMeTFkdw?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 19:53:33 GMT",
+      "description": "15 Maryland laws taking effect July 1 that you should know Baltimore Sun",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -488,19 +545,6 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR0JaTjFTanMzS1c2bW8wU1F0Vl9EM3NVYngzbnp6bnlmVE83RkVsQlphM0ZrYVBVMk1DdjdjcDROLVZVcExIZkRlZ0hoU0tFWWJ5YWJFZ196YzB4d1p1WS1Kb2hjcks5ZndOM0tQUjhjVzJhOGlrbnRBSXF6dkNsWGhScDRwdloxcHE5VlZFOGxZVkRPNGtxb0N3UHhhYUY5dWZINnNwdWNyWE5rZ2JyVzBLNHBRZw?oc=5",
       "pubDate": "Tue, 30 Jun 2026 16:11:00 GMT",
       "description": "Amish Lose Bid to Reinstate NY Vaccine Law’s Religious Exemption Bloomberg Law News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "A Mussel-Inspired Vaccine Platform Could Extend Protection and Increase Access - Technology Networks",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdklIUEhtSUx3LTdCS0E0N0RwajdKUjB2eW94N0dYUGQ3QWE0V1Y4Y0d3bUJZVm5kZE5raFlQbHFCVExHb1FBWmxuTHNYV0dtdjdWcGlveXByOHF5QXp2bVR3dWZlM2FxLTJzc2I1WE1xMmRJTmxpaVVMRjdtVjN6UjNESFFqT1AyR05oOWRzWi0ycU02SDhhU1ZIcU83MG11Ykl3el9rNzR2cUhUekV0WnoxbUtvZnRya0ZBMHFGTUt2eENiaEhv?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 16:10:58 GMT",
-      "description": "A Mussel-Inspired Vaccine Platform Could Extend Protection and Increase Access Technology Networks",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
