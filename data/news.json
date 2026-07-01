@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T09:40:33.317Z",
+  "updatedAt": "2026-07-01T11:33:04.112Z",
   "itemCount": 87,
   "groups": [
     {
@@ -13,6 +13,11 @@
       "count": 11
     },
     {
+      "key": "rsv",
+      "label": "RSV",
+      "count": 1
+    },
+    {
       "key": "measles_mmr",
       "label": "Measles / MMR",
       "count": 4
@@ -23,14 +28,9 @@
       "count": 2
     },
     {
-      "key": "hepatitis",
-      "label": "Hepatitis",
-      "count": 1
-    },
-    {
       "key": "meningococcal",
       "label": "Meningococcal",
-      "count": 1
+      "count": 2
     },
     {
       "key": "shingles",
@@ -45,10 +45,75 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 46
+      "count": 45
     }
   ],
   "items": [
+    {
+      "title": "RSV vaccine to be offered to thousands more this winter - Healthcare Management Magazine",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05Q3gyOGh4dTBkcG05V1BfX2VWdi1xY2hKbFdVbkZ6cGlxLTdHVFhmTzRXMWxpMDBmLVdRc0J6a1diYnJnQjgwc2Y1aHZZYmUxNkhhZ010dHZSNzE2bTBFRjdQZXVtRTR2Z2tpWUVlNXZLeFBMR2NmZHRaQUZkdw?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 11:20:07 GMT",
+      "description": "RSV vaccine to be offered to thousands more this winter Healthcare Management Magazine",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "rsv",
+      "vaccineLabel": "RSV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Two children's immunization clinics slated for July in Stromsburg - Columbus Telegram",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYUdidW5nSkpLUWw2U3hpUHlOMUNFSkh1RG5YRDZoUFM2UThFWEY1SEF4VmM5Qml2bWl4TmlpcGpPbDNqOFZtdWVESHNzNHBZNHJrRHJmZmlqSnYtUUFFanN2MVNfUElCemhMaW1aaEJiODh4UXVUeXpFMHNyeG5DaHNrQXA5RVlUejFQZ0FZa3dDb1U?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 11:15:00 GMT",
+      "description": "Two children's immunization clinics slated for July in Stromsburg Columbus Telegram",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "The Lengths to Which Health Workers Go to Reach Every Child with Vaccines - Angels in Medicine",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIU0lUMHc2YXdzNHp0RHFlUzU2bjJZLWtRdmlIWDFwTnpCUk5QVHc3LWlleHlwVldGdXhWTFRCcXNGb210NEUwai0tU2xMSDBxck5QSmRxMU8zVUhhcFM4el9HZFBKVUNR?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 11:00:00 GMT",
+      "description": "The Lengths to Which Health Workers Go to Reach Every Child with Vaccines Angels in Medicine",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Is the meningitis vaccine safe? - Understanding Animal Research",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZkMxMDhaTEtYVTVVMDZ6THQ5WV8yU1F0dldqMUVaNHpEZ1Q1aXRLV1c5N3dsOXlhVHpreExYLTNrLWZILVJhbDl0eGRrRXFoZzNnV3NWenF1UTVCbS1pTG9hUU0tRWpycnBjY0lMUVotSXdCZzZJd0ljOTlXdXNwLXdMRVkwYVpKU2c?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 10:14:50 GMT",
+      "description": "Is the meningitis vaccine safe? Understanding Animal Research",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "meningococcal",
+      "vaccineLabel": "Meningococcal",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Vaccine to treat ‘neglected disease’ shows promising results - CBS7",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTkxhZGllRzdFaHUxYXVKT0xaM0xWWFZBS1IxX2JmalRFLWoxRWN2WWhoLV9tSnBXZmthX0RvTnNYdm55WDNUZ2pPX3gzLVl2a1VNM2xVcnZSQ21rNFVoU3RTd0gtVVRCYV9YTnJTblBBMUNoVWlrbU1tcWtkUDgyMW5MSnEzN3BOUTVQQ0tvMzRPZjdWVUNaLTBLNNIBrwFBVV95cUxOUEtWb1hLbjVvTWpnUEp4R1A1YjZwVHhGTkVrSFFSVll2RWdLeVc2Q3NxSUlsNk04dUdxd2hza1dadVpZU19JZjhkSWJSbERtdzBZb1RwbDZRZ1pmMWNNYkQ2ODNQMDZhM3gtTjZJUUFEeFpySk8wcjhFQlM5Y1JYYVBLb1Y4dlJwajFlNVdGRzdsN1BRWUJfZVhxR1ZVNE9ZZkJtQW1GcjZCUU9lSjdJ?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 09:46:00 GMT",
+      "description": "Vaccine to treat ‘neglected disease’ shows promising results CBS7",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Would Hunters Take A Lyme Disease Vaccine? We Asked - HealthDay",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVXhSRzBxSGw4Z2Zwb2hoTDludWJDTkhPRFl3Y0FCMDE4aHZaWmtsSENjUThhSGhQS1VNbi1ZLWk2TzQ4d3ZoRlZOcXVObGdwbUF1eDJNM2JzSWhhU2ZuaE9EZHhtYlkwNmI2M0NtNkpvMzR5MTlTVDduWDkzVGdFRFVlX21jQm5DTmdfWW5QSW5fWkt3ZzdleHlTZGdBWHhmY1BxSlFkZTlyX0t5UEE?oc=5",
@@ -115,19 +180,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Adult Immunisation in India: What the Latest Data Tell Us - orfonline.org",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSXpKS0JVT3psaTVRVl9zNEVLUE9TS0lSVXAzTHJmU05FZGxWQXdNRTdna1pfOU9ob3pidk4tQkphNFlGOFNWcGZ5bGxyTDZxVEpGbUR3SFc4clVUX1BQcnhLZ3NVOTBUaThzNXJmTS1id3huOXQwRjE4Y25mdzl1ZjZEeDJmZFNFMFBMREExNUUtaFE5YUtQUE5Daw?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 05:57:13 GMT",
-      "description": "Adult Immunisation in India: What the Latest Data Tell Us orfonline.org",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Billions of mRNA vaccine doses’ review underpins their effectiveness - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV2ZaeTF3VG5wUDlFclQ3SWZGeUZtUkIxc0tjdUI2ZFFtTkFQRTdwQXN5V1N2MGJvRnZCTWlZZ1hjTW8tNGc4dXNYTGpLYVZUUmRxclFETnVIQXBkT1Rya3BBRlEtSENGbXpzbnlTeXRWTndqRFBJNjNYd1ptUUpvLW94REJpTjhiZTh0TUV1bW1VYmt4elBpTXVTc0FmOGFjd2NKWGR5eVRBMUdiZk9F?oc=5",
       "pubDate": "Wed, 01 Jul 2026 05:00:53 GMT",
@@ -182,7 +234,7 @@
     {
       "title": "RFK Jr. Broke Vaccine Promises, Built Public Health On 'Lies,' GOP Senator Who Helped Confirm Him Says - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcFd5cVdmVWQxRWZLbHZmT2hhNnlmS0JydnBCZXk0SEF0UTg1bDNsXzVIUFVvWU9NaWp5N1J1ZFg0VWRXV1lkWkl6cHRveFBNX29JMUUxQUE3OExCMmZtcEJuMHdGeTVHak9vWkJlakFUZi1CVWkyU1pjNG1waldweUMxTUZTRHo0U282cV9vdTBqRmc?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 03:31:00 GMT",
+      "pubDate": "Wed, 01 Jul 2026 03:31:04 GMT",
       "description": "RFK Jr. Broke Vaccine Promises, Built Public Health On 'Lies,' GOP Senator Who Helped Confirm Him Says Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
@@ -262,19 +314,6 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUExZUzRPNmJEMEJHeE9zMmNVM0FCNnRnUUxQcThpN0VQdTNtNlBESGJwa2pkZ3hkM0VKZ1FPWEVSbGkzY3JKajJnWlRHNWFwNUc0aXJQMWhicnBURVR4ZzBPeDYtakJZcWFiOTZGMEwxSmNuVnQ1RmxjUmZWQmFNVV9FMmhqSzFIdDlqdmtvVjlLQUdwVEg1Mg?oc=5",
       "pubDate": "Tue, 30 Jun 2026 22:31:06 GMT",
       "description": "A Rewritten Federal Vaccine Charter Could Determine Whether Your Fall Flu Shot Is Covered by Insurance Medical Daily",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Billions of doses later: Global review confirms mRNA vaccines are safe, effective and full of promise - UBC News",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObC1hYXJkc29LbzJfaERWMnBsMTNIaVFEcDgzUFl6T05pMTZKR2hVZFdCRTRrN25BXzB2cFNNV1U1cDVaclRmMnY5a1ZKTHhKaHdxbklpajREdjNheGZLTWlRdl9tb2VqMm94ODFCdGpWUkFoZWJJVWFLbXNyVVoxYklsM09KZkVN?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 22:30:00 GMT",
-      "description": "Billions of doses later: Global review confirms mRNA vaccines are safe, effective and full of promise UBC News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -501,19 +540,6 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Trusted docs dispel vaccine myths, but many don't have one - TechTarget",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbXJWeE5kUlFSWnF4elliVUxsN0s0TFJLU0RLVjdIZWl4RVhlbWpsRUN5V2pSeTctZ3NfQWNYR2xYbHJuN0pTdFBKNDZOV3RXdHhiSVoyeUtuLVM0S1dSZ012MXp5SXBVRWt4UDdITzlmTDBVZU5MMWR3N3BUSDRtNUJIN0FrT2J5dGwxU2UzZFByQzdLaXNfWGNUMGZPd3B4MGFOQ21ObHYyN2tDQVVmWHRESlhrRW8?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 18:32:49 GMT",
-      "description": "Trusted docs dispel vaccine myths, but many don't have one TechTarget",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hepatitis",
-      "vaccineLabel": "Hepatitis",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -817,19 +843,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Intravacc Highlights Four Integrated Vaccine Development Platforms for CDMO Partners - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRWN0QzdIZmlZaC1EVDFQVHdIWU1BaWhwcGlPMWNYQ2QwTVN5YjV4RmxpcU9Od21SSXFGZlFlT2M0eVl5TC1oeVRKZVpjbGVDbi10Q00xYS1mWTBzX01VV1puVzZzd3BjMTVabWdGaDVKVWFRMUwyZ3hsVUFPeWpyTURKTXRzTzZrM0gybEhtRllTQzFqWmNvSkVOaDBIanBYUVFEcUQ4bGU?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 09:32:00 GMT",
-      "description": "Intravacc Highlights Four Integrated Vaccine Development Platforms for CDMO Partners Yahoo Finance",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Vaccination is best protection in Pa. measles outbreak, experts say - 90.5 WESA",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX3VTVWFhcmNfY19pUDk5NGVYQUdNWTdXTXdoOThUUi1qNF9BTllsLXlySEZsTzIycFZpSm1xaDdYNk1yRks1QVAyMzFrMzZYbXAyU0RoT3FlcmJUaS1YVUU2WEZZTW1FcTRNQURIU29TN1NQNEhHbDZUXzNjM2N2amp6OEVqaVB4aWFoMVVTandhUEZBakF6aGQ3bU1aT2xHdm9GOHVRbGgxVzEtcDZYckplcGtiTWRwQVJCOHd3?oc=5",
       "pubDate": "Tue, 30 Jun 2026 09:29:00 GMT",
@@ -947,6 +960,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "SALK VACCINATION - Loudoun Times-Mirror",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZGE5bjVKdEZwYklVTEl1b1VZa01GUWdXTG9JcXNnVlI3cXJla2JVYklaZVRZOXRwM2hRWGsybllfbl9RRXRUSENLNHJuMDlEX2l1ZDVxY1d4WFUzNXhHM1VNclBXMXBuVV8wb0I3cHZWNTRzWF9RMFBVVzlDZGRRaTJtYVR1MnF1N3d0a2NNZWcxUy1QZ2RvaQ?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 22:11:00 GMT",
+      "description": "SALK VACCINATION Loudoun Times-Mirror",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "May as Well Get COVID and Flu Shots on the Same Day, Study Says - MedPage Today",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LaEhnaHc0bG50dlc2UUdsRHI3TFZBbUsxREtMcFRjc0Nnd3U0bjdtRC1aa3dRaEZ4TVBwejloYUEtdm5WQ25sN2txZkZ1eVNyV2VvalhaaEFrNEJHSm9FbnMxcVJXVFg2TGFrSGJlMm9GVW0wNnRR?oc=5",
       "pubDate": "Mon, 29 Jun 2026 21:00:38 GMT",
@@ -1012,19 +1038,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "From compost to clinic: the fungus that could let Africa design its own vaccines at a dollar a dose - Gavi, the Vaccine Alliance",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX0dVRHlndXBlOHg1MktERXV0VWFIYTdCWlYyMG5oZkNieHlzX25NU094cXkyc1JKemM1eXdaY1h6X25mdnR5TURZaEdOdW5FNnlyQzVhZVNIMjVUeXNRNnF6aUl2YW1sMXpnbmVyX1RNZmtLM1k2amFRcjNFSTNvY3hXTWdab2otVWExZGhjOTJSa2NONDI5d3RUUlJYVTF5bFpvd3VhWi1HWjdS?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 15:18:03 GMT",
-      "description": "From compost to clinic: the fungus that could let Africa design its own vaccines at a dollar a dose Gavi, the Vaccine Alliance",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "US military races to vaccinate new recruits before flu shots expire - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42VmEzRFZkVldwWEs2djBFVFpKYTNXMjJSaG9uQ210SnZDM3hfWTlwZzNPdjNSQ0lUZjRNVVZaOWhxSDNWMS0tYlo2TDI3d01zUjlFNGlBUWdBT3hxNzZJWmxiNWlPYk5RUnpEbENDOXpIQWlSUk1lYQ?oc=5",
       "pubDate": "Mon, 29 Jun 2026 15:12:00 GMT",
@@ -1060,19 +1073,6 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Anixa Biosciences Granted First Korean Patent for its Breast Cancer Vaccine, Extending Global Protection Through 2040 - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQRFVHZEZ6Y0tHSTBDUEFOSXE5ZnI4OTltQUwzT0kxdFNFN29ac3JhM2dCbHA4NXFnc2RENWdYWVhfMnp1bGJxSFRaampnemdsTVVhOUlMWW5kdWdkRXo5d0ZUd2hfVUR2ZWpnZVlWb3E4STlESHZmREM5cFc5Ti1iYmJRdE5wRkkxMGZoOXpXaWxZcVNjOWd0c3NySFRuYV8tUW1uUlpmMS1IdTNKRF9sWjZYOUZTX2F6SG9OUDYzMC11WXB0TExPTlZMMWVpUXZtb1g0enl4elZPODRkbnNNb3BhUHdsOGRYZmhjdUR6ckpCbE5IRlZOMkZITXItSW9uN2c?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 12:45:00 GMT",
-      "description": "Anixa Biosciences Granted First Korean Patent for its Breast Cancer Vaccine, Extending Global Protection Through 2040 PR Newswire",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
