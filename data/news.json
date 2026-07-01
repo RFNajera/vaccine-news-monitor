@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-07-01T15:22:15.547Z",
-  "itemCount": 88,
+  "updatedAt": "2026-07-01T16:15:01.349Z",
+  "itemCount": 89,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 18
+      "count": 16
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 11
+      "count": 10
     },
     {
       "key": "rsv",
@@ -20,12 +20,17 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 4
+      "count": 5
     },
     {
       "key": "hpv",
       "label": "HPV",
-      "count": 2
+      "count": 3
+    },
+    {
+      "key": "hepatitis",
+      "label": "Hepatitis",
+      "count": 1
     },
     {
       "key": "meningococcal",
@@ -38,17 +43,51 @@
       "count": 3
     },
     {
-      "key": "rotavirus",
-      "label": "Rotavirus",
-      "count": 1
-    },
-    {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 46
+      "count": 48
     }
   ],
   "items": [
+    {
+      "title": "Currently Approved mRNA Vaccines Are Safe And Effective, Promising Future Disease Prevention And Treatment, Lancet Review Reports – OpEd - Eurasia Review",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZ2V3ZXFHLTlIczM5SDBSaDkyM1I2M1A1T3Yxb0FncEV1MzZwbkZYU2NpbXVQR0I5S1MyOEtsRloyWXdzUDREazNSMTRwZU1iOFV0OEI5Smx6OEVNeTdmVzlSUzBvdWFLWWg2V25jWVp2SUFJbDdoWmRUQmJJN2ZnSXhDbzFxdFgyY0J4YUdsTi13clZzNWp0ZVo1bVJVRnlkS1BWUS13UU02Rk03VFg0ck1EdGxRcXFhWEgza1BPRVkyMmZDVGdhYW1zZVhjLV9sbjRLY0FnMVF0UHpyZEtjWlF0bUFDeW5CaTFHcV9lMjBPZ0VMNENoakdLaVlxTVZhLWc?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 15:55:34 GMT",
+      "description": "Currently Approved mRNA Vaccines Are Safe And Effective, Promising Future Disease Prevention And Treatment, Lancet Review Reports – OpEd Eurasia Review",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Abortion medication, HPV vaccine laws take effect today in three states - Stateline",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX1pzOFRVd3JKRzBvU09lTlhQZ3pPS25xUC1PSXZxNFZjZ0s1VzR4ejJKV1RKRHpfaml0ckRnSU5ncWwzbjI1T2JYVW9uZlpDRlM3ZndlMWFmMGtUMmpGa0pDZHVJYkZSSmtvVjZ6a2xfRXV6bXB4cTN2ZGY5SjJ0SGlhX1BLT0tCSHZxekJWVHFhS3Y0ZmItLXJYeGxDcjgxbXhxRFZHSQ?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 15:47:41 GMT",
+      "description": "Abortion medication, HPV vaccine laws take effect today in three states Stateline",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hpv",
+      "vaccineLabel": "HPV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Clinical Trial of Shigella Vaccine Shows 89% Protection - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUUhOdFBkTzNWcEVFZUZNdEZLVXE4dDJvc0YyVXcyN1BIeUZ0QklJbkhkQUtwMS1nR2pqVGNwc2kyUld2Zl9US3BETWRidFZ6Yzh4SEZhSTdPYjh6ZzI2Yk04aHlSSWI4LWVrUklwU25XNEx1RVQ4OUtCTjV0aUFIdmhOWm1SOEZvV2dadzMzaFJaTGNBR0NJb01ELTlGcURrVFd2QUVudWVNQ0FzLVc0?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 15:30:00 GMT",
+      "description": "Clinical Trial of Shigella Vaccine Shows 89% Protection PR Newswire",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
     {
       "title": "Gavi launches new supply chain strategy to boost vaccine availability and reach remote communities - Gavi, the Vaccine Alliance",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYl9ZU083cmJ6R3c5OTRJNFJCMTFCTURfeEh6X0M1Q1p1bDc2OXNqMm8yTEpTdnpZWFpFencyTGdObFZJVm5WM2lITnphM2x2czI4aWVuOFpyQ3Y3YXhKUDEyY2EwcUVWS1l5WkFRM1NiLWNQTnN3TDRNaF9GanQwNzBDdWFxcjRPaG95MUxBWE9nZmVRM1k1Tm9fZlV4Q21RTVZRN2tB?oc=5",
@@ -63,17 +102,17 @@
       "articleLabel": "News"
     },
     {
-      "title": "Study reveals path for universal vaccine against malaria - OHSU News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaGlzU3dWUHhSS013b3F5OHh0eldiQkc5R0c0LURxWXNUVHp6RVM2RkJIREE1cFQ5aEFvWkIxT2ZsUW5CelZGaDZUVERQeU9lQnF1Rm9OTW1NVDNuaXVqNE1jZmlzS0Jpb0E3bFZIdExVbWw5UTA2ZV82a0NMQUNzRWlnSGkzZzVGSDNZNVhIbVh1Y00?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 15:10:40 GMT",
-      "description": "Study reveals path for universal vaccine against malaria OHSU News",
+      "title": "Two New Scientific Reports Identify the Real Obstacle to Stopping Measles Outbreaks — It Is Not Just Vaccination Rates - Medical Daily",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPalZkVlFUajF5dW5WQTFEUGR6YzhoV3N0blBvRWxJQjVTWUZmckJPRnpmazI5RjZzUndxQVMtUlEtWk9KWUFRR3NTdEd2TUZOUncwUGxtUEo5NWxfbW9IZlpSMkVvaDB5Z1ZEMlU5ZzFTVFBWbkp0NVFrbjdpbWEtWGtWRThMWG5WeVVUS3JkWEFDZzR0U2RlZDBsYw?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 15:01:08 GMT",
+      "description": "Two New Scientific Reports Identify the Real Obstacle to Stopping Measles Outbreaks — It Is Not Just Vaccination Rates Medical Daily",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Appeals court rules New York school vaccine mandates are constitutional — again - Times Union",
@@ -100,19 +139,6 @@
       "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "Clinical Trial of Shigella Vaccine Shows 89% Protection - Research Horizons",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZkpRY2tuTmJxdWpOSGZmU2RUMy1fLXNweFEtV3dzU05pLVZXQmNzU2ZVdkU5a2NVSzZKM3cxcFZVdFdQU2J0bTd1VVJlaFpLZVFLWm52aWJWQ1dRVHdpTjZ5SjhtdjhGYldzcFMwU0IyVHM0ZzJTQlhlNkhzVmxBTGdUUGZuSXptVVF0SS1yamF0WDliUjlIMVhjUEhxM01q?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 14:17:48 GMT",
-      "description": "Clinical Trial of Shigella Vaccine Shows 89% Protection Research Horizons",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "Inside one of Africa’s most complex supply chains - Gavi, the Vaccine Alliance",
@@ -241,19 +267,6 @@
       "sourceLabel": "News",
       "vaccineKey": "rsv",
       "vaccineLabel": "RSV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "UNICEF: Emphasis on Vaccinating People in Afghanistan Against COVID-19 - 8am.media",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMVFVRTBjVkVjT0tqVzBBMEV3OFp1LXVEQkM4ZUVMR2JjbUJqNWZQRkVnWWpIeXFoQzNvT05NY0MycmI2VFlGSWtISDhBVUd4dURtR3F6SW13dTV5OFhSUEtvYzF3eXFFX25DTThwbUNzWXFmeUdPVzVIeElYRWh1aFV3V3ZNU2xIdXdJbWNyYmpkeGo1M0RR?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 11:18:29 GMT",
-      "description": "UNICEF: Emphasis on Vaccinating People in Afghanistan Against COVID-19 8am.media",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -388,6 +401,45 @@
       "articleLabel": "Research"
     },
     {
+      "title": "Cases of Rare but Dangerous Powassan Tick Virus Rising in US - Vaccine Advisor",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN1EtRy1UMVk3bzkwZEZwaGV1UjItclVRckFnZlR0Q1N0QVpaLTRuMkRPckw3dU9kdFM4MjNwVEdPUGpycVZDcGpYbXdYaHVsemc5VFF0aGpSWWZOamcyUm1jZ1dSS3RpV0RfeHMxMTJ6MjBjV2lCc2JiclcyQ0cyMDU5cHNma2hKRDAzaFFmaGVHOTFWOXM3WkZFdmJ1dw?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 04:00:00 GMT",
+      "description": "Cases of Rare but Dangerous Powassan Tick Virus Rising in US Vaccine Advisor",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Air Force Outbreak Grows as Military Reinstates Flu-Shot Rule for Recruits - Vaccine Advisor",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTXFhVlh0UE1MNERyWXBKS0d2T3N2dEF0OXZEUDJRYTB1cDc4R29rdHVaVHl1QUkxMl9sU0NvQXBaWk5JWFVGRnFKUjJJNDMxMS1HY2VlS0pIOWh5LWhZcjZYOUpBVWstc1doRjRNMmtreG1Hb2NGQTVkaUxPbkZralBmS256N2JrelJaLVpvR2pITVM2TEVrZGRHanBFYnU5U1k4OVhtX09mNzh4Qi1Ebw?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 04:00:00 GMT",
+      "description": "Air Force Outbreak Grows as Military Reinstates Flu-Shot Rule for Recruits Vaccine Advisor",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Significant Association Identified Between Hepatitis C, Overactive Bladder - Vaccine Advisor",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNalRQT016b1BVbjk4YWwyOFJZVVVObEhwZ24tMlhoVVVNSUx2aFRpQXVuMkptSW1FUi1VRnlSNmdXdjhFVW0wVnhTS2pFenJaMnpXdTk5VzZrd1NZbDMyTldJT0Q3T2xoSjlBeEJFeUhWbjExdzYyWjBob3IxcGtpQzVLazNnRDR0cEs2QWNfaDJ1M2RXQ0w3R05SWHduR19uTVM3TGhyTWdnZWdhLUtN?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 04:00:00 GMT",
+      "description": "Significant Association Identified Between Hepatitis C, Overactive Bladder Vaccine Advisor",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hepatitis",
+      "vaccineLabel": "Hepatitis",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "New HIV vaccine shows unprecedented success in primate studies - News-Medical",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVG0xenZOM0Y0TXU4TmhJWlZQbTNNTVhyWEMyX3o1LUM0UTl0ZkEzQV9hN1hSd3hJNkFQQ2RwUUxwYVVWdTRyd2FUOWUzb1lIQUs1SnRick52VDdvZTlzcWlCQ29hbGJzZDVSQmNrdEN5V3U1S3V4MUFxcXd1c3BBWE9TYkVYcFdxbDdrVS1SY2g0eGVTcGR0cjIwUWZ4RmlRZXBLdDl5TnJEVG9hb3ZV?oc=5",
       "pubDate": "Wed, 01 Jul 2026 03:46:00 GMT",
@@ -488,19 +540,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Rep. Castro pushes for military flu vaccine mandate after outbreak at JBSA-Lackland - kens5.com",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPX3JpX3hTSUxMQVBOQ3p5UHFuaWJBMU5wdzhqWUhmUDluSldXd0EyVjFMRThHWXZ0Nkg2bWlVbldQWlM5N09heEpKY3RKTTlOdHYwRXhNSWtLN2cyb3c1cHFkMTEzZ0VrSkIyUnNRRHN6VlNnWVd6QmN4cVFzYmpMZmtfcDNtY0dqOVc5QVgxNHVFRmpFYW5pVlg0Slh4WGJ2OUJOZHFlQUlETVEteXNCY1ByeGVwWjVpbV9seDRzc1R4UE5qUDNxdlFtUWl1V3lETzBBSlF6cWpHY1kwUlZtOTltenF5OHJZWDM4a0RsZXg2bVU0cVZoM3R5eXVqZzZ2N1hMbngyZnVja1E?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 22:11:00 GMT",
-      "description": "Rep. Castro pushes for military flu vaccine mandate after outbreak at JBSA-Lackland kens5.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -687,19 +726,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "It's safe to get COVID and flu shots at same appointment, study finds - PhillyVoice",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12YTFvXzBJRVloUVpkUGk3VS1SZHlXak00ZFE1Z3ZPLVBBTjhJMDFhMHN1YmZ5SjRrSWc2Y3JpUXcyVWs5Rm16RmxuSFQ3eElacllLay10R3lYREVvOHNhRHhHdlNJMEZhS1E?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 18:10:45 GMT",
-      "description": "It's safe to get COVID and flu shots at same appointment, study finds PhillyVoice",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "NDAA Amendment Mandates Influenza Vaccine After Lackland Air Force Outbreak - Military.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVDc3UXE4ajI5ZFp4dUVFZk9LS3otQzlIMkRzRV9ZNC1ja0VuQ09tQ0NSMktweGdhSnRDcDNzcExYcjRudE5sY2NTaVJYUTJkUXRPa2l6V1VuRWp6dXRZVVQ3VENJTkZrTWV0dDZsbWtEMzB5aXphT3U1U1pUcS1mQllCTngwYmFFbUZDLV9ldEFUSlRYbEVUVmJtNjc4QzJPQ2c?oc=5",
       "pubDate": "Tue, 30 Jun 2026 18:05:01 GMT",
@@ -778,19 +804,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Taiwan to roll out publicly funded rotavirus vaccine in 2027 - Taipei Times",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pN25iYUNuc1VnVFZuWi1FeWtaMzlhMk90YzhvU1BDbEhXWklEV05yQ2FQZTdaU21WaHBNSm9fWEY2M2djUk9leVFtd2hrVm43VnZUaGdpYm1DbEc3aXQ5V2ZROTc4b2poWU9rTW44ajc4SkMtcXNHUDNR?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 16:00:00 GMT",
-      "description": "Taiwan to roll out publicly funded rotavirus vaccine in 2027 Taipei Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "rotavirus",
-      "vaccineLabel": "Rotavirus",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "The HPV vaccine works – but only if we keep trusting it - Gavi, the Vaccine Alliance",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMU8yekJRUktXeGowdkhCRVBIYktTX0djRl9XeURqRGF4Y2VmcDlBVW1KaWp2aEI0OWFwajBIV01vX29TTm93bDFUT2lOZ1FmMG1HdkFDQlJnN0F3M2lFZE1SZnotd29sTTZMV1ZtaVZ3Tkx0OElQZkRaYVVrRWFaSmlDNjVqdw?oc=5",
       "pubDate": "Tue, 30 Jun 2026 14:27:39 GMT",
@@ -808,19 +821,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaXJwY2tYZ2NHUm5FZHBiVUxCaTlxMGFHdS1uSDY5WFdsSk5UNlpqTWZObUxEOXgycHBiUVdQazRvTmd2aVpkeDlSNUdFTWVtdmZKb1ZJVEhKamNOYnFwWFhNTjUyY1dyRmItMzliUGFLSzVUbWJ1MDBOUEptNHVDTnh1U3dfWjNKOUd0Wkt6M3RIMEl5b1ByMGZuckNqbHRQam10eUd1X3N5TEtCazI2WnhTd05ydzVo?oc=5",
       "pubDate": "Tue, 30 Jun 2026 12:56:28 GMT",
       "description": "Future flu seasons may look different thanks to mRNA technology. Find out why. Time Magazine",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "US military races to vaccinate new recruits before flu shots expire - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42VmEzRFZkVldwWEs2djBFVFpKYTNXMjJSaG9uQ210SnZDM3hfWTlwZzNPdjNSQ0lUZjRNVVZaOWhxSDNWMS0tYlo2TDI3d01zUjlFNGlBUWdBT3hxNzZJWmxiNWlPYk5RUnpEbENDOXpIQWlSUk1lYQ?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 11:29:00 GMT",
-      "description": "US military races to vaccinate new recruits before flu shots expire The Guardian",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1042,6 +1042,19 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYlJtV2JQWGZhc1ZjdTV2V09kSV9HSEsyQXp5bmV2NWM2d01HWWF5Ulo4NDJHT0gyMDA5U3VSVG5IZk9mMHNZRnJMRDdsMlNvSmc5R2ZVbnQwMFBfNjV3U05UeFJWamhtYS1jaGZaMXpTbjZNcXp6b2JtTGNvcWZBcTlWUFBJRU9EelZnLVR3QlB0bGRIdjhYMWRR?oc=5",
       "pubDate": "Mon, 29 Jun 2026 16:54:24 GMT",
       "description": "Sustaining the Gains in Childhood Vaccination in the U.S. Johns Hopkins Bloomberg School of Public Health",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Vaccine Confidence Strategies and Emerging Vaccinology Science - National Foundation for Infectious Diseases",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMm5NQ1U1TEdIZDJ4NFpIM29rSlNTdkJwX2hQVEZ5bWotU25jWm14NEdpbzR6UFlmUmZZeVJCSGMyX0ZWMzd6ZG14enZMRmNLcjloUDRMREprYk9Sa1Q1SkRlUHBVQm1scUtoYW9hNFlaZ2diM0tlaFk4a0RibUR1WTNvV1U4TjRGOVBRVA?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 15:25:14 GMT",
+      "description": "Vaccine Confidence Strategies and Emerging Vaccinology Science National Foundation for Infectious Diseases",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
