@@ -1,21 +1,16 @@
 {
-  "updatedAt": "2026-07-01T19:06:33.020Z",
-  "itemCount": 92,
+  "updatedAt": "2026-07-01T20:07:19.058Z",
+  "itemCount": 91,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 13
+      "count": 11
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
       "count": 12
-    },
-    {
-      "key": "rsv",
-      "label": "RSV",
-      "count": 1
     },
     {
       "key": "measles_mmr",
@@ -25,7 +20,7 @@
     {
       "key": "hpv",
       "label": "HPV",
-      "count": 5
+      "count": 6
     },
     {
       "key": "hepatitis",
@@ -40,7 +35,7 @@
     {
       "key": "shingles",
       "label": "Shingles",
-      "count": 3
+      "count": 2
     },
     {
       "key": "rotavirus",
@@ -55,10 +50,23 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 47
+      "count": 49
     }
   ],
   "items": [
+    {
+      "title": "Abortion medication, HPV vaccine laws take effect Wednesday in three states - News From The States",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU0V3OHpkRW1Db2o1dkFfMS1XTnpGNTF5RjlCamt0aFd2ckxtNlhpMWxxQU9DXzNGamhpUXVyQkVwaE9KLWVpbmRra2JKazFtVGlUeDhzLXpyVWRvZi1WQ3NLY3pDTHIyRDduTnlYU1BaWFVWNlJ4QUFyNlRnZmZycjJ1NWpITDYwZzJoQ1ZYekcwY3RENTlnam5FdmhmX3A3dkxyXzNtdktmQlZpWG55WVV3UQ?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 19:43:57 GMT",
+      "description": "Abortion medication, HPV vaccine laws take effect Wednesday in three states News From The States",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hpv",
+      "vaccineLabel": "HPV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Malaria vaccine quest narrows as shared parasite targets emerge in liver - Medical Xpress",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV2RfVEh1eGtMeXFiNm1fNVdsTVFITnNGLWp3a0ZUdDBDUzNpa2hETzVPNlI2OE9xV2xaOGZKOHAxbkgwd2lfYWJVUU85VEo4MW40Tmt2NVRTeHVqdElNSGpOQlI0VUpqdFdpY3UyTlRYTkkxYVEtNFVJZXBrd1VEbFVuMExRbnZpekE?oc=5",
@@ -69,6 +77,19 @@
       "sourceLabel": "News",
       "vaccineKey": "malaria",
       "vaccineLabel": "Malaria",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "What to know about Maryland's new laws taking effect July 1 - WBAL-TV",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zSTg2cS1KYlJUckhyRS1hUkdEcVhyNUpZS3lRUzJvY2Y0bHIzUEhqYmhtamRnVU1FR2dmT2Y0Q25PUHZjTGJMei1sZVoxZHYwbngycE9INWdxdHF4UzNwWlg4U2hpZklRb055OGVPMFpaYk9Cdmc?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 18:28:00 GMT",
+      "description": "What to know about Maryland's new laws taking effect July 1 WBAL-TV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -203,19 +224,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "What to know about Maryland's new laws taking effect July 1 - WBAL-TV",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zSTg2cS1KYlJUckhyRS1hUkdEcVhyNUpZS3lRUzJvY2Y0bHIzUEhqYmhtamRnVU1FR2dmT2Y0Q25PUHZjTGJMei1sZVoxZHYwbngycE9INWdxdHF4UzNwWlg4U2hpZklRb055OGVPMFpaYk9Cdmc?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 15:58:00 GMT",
-      "description": "What to know about Maryland's new laws taking effect July 1 WBAL-TV",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Currently Approved mRNA Vaccines Are Safe And Effective, Promising Future Disease Prevention And Treatment, Lancet Review Reports – OpEd - Eurasia Review",
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZ2V3ZXFHLTlIczM5SDBSaDkyM1I2M1A1T3Yxb0FncEV1MzZwbkZYU2NpbXVQR0I5S1MyOEtsRloyWXdzUDREazNSMTRwZU1iOFV0OEI5Smx6OEVNeTdmVzlSUzBvdWFLWWg2V25jWVp2SUFJbDdoWmRUQmJJN2ZnSXhDbzFxdFgyY0J4YUdsTi13clZzNWp0ZVo1bVJVRnlkS1BWUS13UU02Rk03VFg0ck1EdGxRcXFhWEgza1BPRVkyMmZDVGdhYW1zZVhjLV9sbjRLY0FnMVF0UHpyZEtjWlF0bUFDeW5CaTFHcV9lMjBPZ0VMNENoakdLaVlxTVZhLWc?oc=5",
       "pubDate": "Wed, 01 Jul 2026 15:55:34 GMT",
@@ -259,6 +267,19 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYl9ZU083cmJ6R3c5OTRJNFJCMTFCTURfeEh6X0M1Q1p1bDc2OXNqMm8yTEpTdnpZWFpFencyTGdObFZJVm5WM2lITnphM2x2czI4aWVuOFpyQ3Y3YXhKUDEyY2EwcUVWS1l5WkFRM1NiLWNQTnN3TDRNaF9GanQwNzBDdWFxcjRPaG95MUxBWE9nZmVRM1k1Tm9fZlV4Q21RTVZRN2tB?oc=5",
       "pubDate": "Wed, 01 Jul 2026 15:14:08 GMT",
       "description": "Gavi launches new supply chain strategy to boost vaccine availability and reach remote communities Gavi, the Vaccine Alliance",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "WOAH issues field guidelines for African swine fever vaccination - The Pig Site",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNldNRWFFM1NvdERQRUxmbnNtdUMzQVRSOExiLXYxcUpfZFN6M3BkRU8wcDhCaTlvRFBfUEhPUGRKTVZqOFZmeDY4eEI4djRnQ2xBelpZR3NpMFk2aXZ4SEJORF9SS3hRdlBUemZKV3V1SGZELUlRWVNrUDduZV9HNzR6cVpMTk1Hc1Jua3NhSnR6OE9OaEZJVnE2S1I4WTc2MXJyNXNUNA?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 14:47:00 GMT",
+      "description": "WOAH issues field guidelines for African swine fever vaccination The Pig Site",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -411,19 +432,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "RSV vaccine to be offered to thousands more this winter - Healthcare Management Magazine",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05Q3gyOGh4dTBkcG05V1BfX2VWdi1xY2hKbFdVbkZ6cGlxLTdHVFhmTzRXMWxpMDBmLVdRc0J6a1diYnJnQjgwc2Y1aHZZYmUxNkhhZ010dHZSNzE2bTBFRjdQZXVtRTR2Z2tpWUVlNXZLeFBMR2NmZHRaQUZkdw?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 11:16:24 GMT",
-      "description": "RSV vaccine to be offered to thousands more this winter Healthcare Management Magazine",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "rsv",
-      "vaccineLabel": "RSV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "The Lengths to Which Health Workers Go to Reach Every Child with Vaccines - Angels in Medicine",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIU0lUMHc2YXdzNHp0RHFlUzU2bjJZLWtRdmlIWDFwTnpCUk5QVHc3LWlleHlwVldGdXhWTFRCcXNGb210NEUwai0tU2xMSDBxck5QSmRxMU8zVUhhcFM4el9HZFBKVUNR?oc=5",
       "pubDate": "Wed, 01 Jul 2026 11:00:00 GMT",
@@ -476,19 +484,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Community-Reported Postvaccination Experiences and Their Influence on COVID-19 Vaccine Uptake and Acceptance in Rural Southwestern Uganda: A Qualitative Cross-Sectional Study - Cureus",
-      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPX1laSF91Y241NEZSMTRqdGZVVmYwelYtVERYZTJzZnpCMkgySDNwbFNKZEdVMmFBMHNEeTBoeUJDMEpzUnNxZjdfbUVOaFpIaVp0bGwzOXMxelFXb1AzdHc5a1ZPV3V3MEdfdzZOaTl4VmpCOHZ4N2dFNkpnX3R6X2FNYTRRQ2ZYNmZIUk9CYVFTM0lzQ3ZDRTI0VHlhUU5oY2hyY0FKU2YyNXVfZUtHMWUySmc5dGpYa0RnZEp4Vk1xZFZEWWVqVk9pTlhOdmFnSFpnV0hzNXlBOFNZd1RwdlVDazduUXNVeTNaLWdUQWhhRUczWFpLWEw5MVAwSFlzZ2FiNzFaclpjTHJSUk5BVU1JUzNzZXFZLUVMQlI0RnFEX3dxdTVZNlQ5SnVoeFhndWRnQTBjdw?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 07:21:01 GMT",
-      "description": "Community-Reported Postvaccination Experiences and Their Influence on COVID-19 Vaccine Uptake and Acceptance in Rural Southwestern Uganda: A Qualitative Cross-Sectional Study Cureus",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "In The Spotlight | What is in SA’s vaccination schedule and how does it measure up? - spotlightnsp.co.za",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOXzJ4R3NvN2s1WG13T3FtWVR5X0lsTDBVRnBmdnEyeWU0a3VxM3BXN0U2aFB6WV9YOGVVTERPelNnc0ZTek1HeVFpM1h5NzNnRU5xT3V3NlRPRDg0RXphUW9rRDhubWo1M1F6bnRGay13dzVSa1lNZ2VXdERqZkVIQ1h5WVh3dHJ4X2MwRFBtb3VKY3lTMTI0T1ZCaHhCS0FWWjBfRDVGVXFWWFBncGpUS19yQTE4RzN2Qlk3Y3dZVQ?oc=5",
       "pubDate": "Wed, 01 Jul 2026 06:22:48 GMT",
@@ -498,19 +493,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "How Well Do Patients With Myopathies Respond to Zoster Vaccine? - Medscape",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNkNObUpKazhLLURCaHFpUFNkVkE4aVJUTWVFR2tyZVI5Y2ZsMnBwMnlTSEZuVENqTEFaenhZLTM1N016M0ZQTEdzVG1aM3NTd0ZZV3UySlVHR3pUU2dxZnZ1NVF0SFBlbnRvZWhuZGpBTzVxSkd1OWJFM3R6eTBuM04xQ0Vyc2tBVGU0S0VPY0ZxMGRuTW9XX19iYjlYc21mbDRNUkJmVQ?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 04:56:56 GMT",
-      "description": "How Well Do Patients With Myopathies Respond to Zoster Vaccine? Medscape",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "shingles",
-      "vaccineLabel": "Shingles",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -697,19 +679,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Researchers working on a single vaccine for Covid, flu, RSV - WGN-TV",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa2dJQUV5QVQtNDJvcTBYU2pSaGxybUtlQ1ZNZHlLc2FrQTMyWC0zSkItb29OVzF6Q3NXcEhORzltVHgxZk1zTlVhT0VfSElpWm5CQzBUbkN0OWdWa3l0VVJjTmYxcVVIRnBGNl9RbkstbEJKSW96TEdvWGQwS2hpSXBteVEwSXFFVWdVaVBJcTYwQXhyMFE?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 21:27:18 GMT",
-      "description": "Researchers working on a single vaccine for Covid, flu, RSV WGN-TV",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "New US poll identifies large ‘malleable middle’ on vaccine misinformation - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYXNOYjVUeWRlRy1fTU05c1VCeTNIMGxkeG9semE5QWEzRnk2a2x2TlcwakFQdXdjUm4wR2NBd1dLaDFMajlhMng0WTl6cEVyUDdGOVo4ZzJEeTNWU0MxdmRkMTB3Z3J3X2xMZTZDUkc5cDJsUFNEWlVSaGFoRXRJcXVaNTdkY004UjZJeUhoRVQ4OVFnaE9NbmdhWDVLZ3gwd1phVkJXXzN0S1pVUlpiaXloMFU?oc=5",
       "pubDate": "Tue, 30 Jun 2026 20:49:42 GMT",
@@ -866,10 +835,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Billions of mRNA vaccine doses’ review underpins their effectiveness - Euronews",
+      "title": "Billions of mRNA vaccine doses’ review underpins their effectiveness - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV2ZaeTF3VG5wUDlFclQ3SWZGeUZtUkIxc0tjdUI2ZFFtTkFQRTdwQXN5V1N2MGJvRnZCTWlZZ1hjTW8tNGc4dXNYTGpLYVZUUmRxclFETnVIQXBkT1Rya3BBRlEtSENGbXpzbnlTeXRWTndqRFBJNjNYd1ptUUpvLW94REJpTjhiZTh0TUV1bW1VYmt4elBpTXVTc0FmOGFjd2NKWGR5eVRBMUdiZk9F?oc=5",
       "pubDate": "Tue, 30 Jun 2026 14:48:53 GMT",
-      "description": "Billions of mRNA vaccine doses’ review underpins their effectiveness Euronews",
+      "description": "Billions of mRNA vaccine doses’ review underpins their effectiveness Euronews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1013,6 +982,19 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSWxONW5NeUdsVG4ydjV2UnFYQlBsVnNoTUpLeGxzTFlVTmNneEVOT2o3amJLeEgzcGh6UWZralBBQUlmNkpBMzdvR2JhVWxjSHp6TjJmTGhna0JyZkNFU0JVMThqX05sbFc0aW83MGlBNFR0ckRaWlo1VFVIaXBSMlNZVFpQWDJoWmg5VnNMVDBOX2ZFSHl1Unp3?oc=5",
       "pubDate": "Tue, 30 Jun 2026 09:01:18 GMT",
       "description": "Would Hunters Take a Lyme Disease Vaccine? We Asked KFF Health News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Efforts to end school vaccine mandates hit a wall in Florida - Medical Xpress",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbUZXOXZ3bUdjNUxDbDVVb0tSZHN4NEdJTGxyUUVMZTh3eER6VmVpVXNMZTAySmRFZFRObjNfczhkS2F6S2NZSFd1VkNoWl8ydDBCRkNVWkZGeEdxbk5hMk1jWnZJRjZfeUVPaTlpWmxtZ2IxRG1yTW00Um5JamNuYVIzYThOVXM?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 03:00:01 GMT",
+      "description": "Efforts to end school vaccine mandates hit a wall in Florida Medical Xpress",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
