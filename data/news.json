@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-01T18:06:56.599Z",
+  "updatedAt": "2026-07-01T19:06:33.020Z",
   "itemCount": 92,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 12
+      "count": 13
     },
     {
       "key": "flu",
@@ -20,12 +20,12 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 7
+      "count": 6
     },
     {
       "key": "hpv",
       "label": "HPV",
-      "count": 4
+      "count": 5
     },
     {
       "key": "hepatitis",
@@ -43,12 +43,74 @@
       "count": 3
     },
     {
+      "key": "rotavirus",
+      "label": "Rotavirus",
+      "count": 1
+    },
+    {
+      "key": "malaria",
+      "label": "Malaria",
+      "count": 1
+    },
+    {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 50
+      "count": 47
     }
   ],
   "items": [
+    {
+      "title": "Malaria vaccine quest narrows as shared parasite targets emerge in liver - Medical Xpress",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV2RfVEh1eGtMeXFiNm1fNVdsTVFITnNGLWp3a0ZUdDBDUzNpa2hETzVPNlI2OE9xV2xaOGZKOHAxbkgwd2lfYWJVUU85VEo4MW40Tmt2NVRTeHVqdElNSGpOQlI0VUpqdFdpY3UyTlRYTkkxYVEtNFVJZXBrd1VEbFVuMExRbnZpekE?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 18:40:03 GMT",
+      "description": "Malaria vaccine quest narrows as shared parasite targets emerge in liver Medical Xpress",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "malaria",
+      "vaccineLabel": "Malaria",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "KFF Poll Finds AI Health Chatbot Users More Likely To Believe Vaccine Myths - RTTNews",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNDdxUXVQQXZDbGd2QmZna2UyNzBNWlhaa1FDc0IzV1poOEl0RFBDd3BYLUpsRXZybXlOUFhpNURlYW85TTFuWklXTlJQUEJDbUExX0RsRXRpWHVEQUM5MmxCbnFSZUZSVzlQWTh5TllWOWZja0JrWTJFWkxYY3ctVWtQWGZhek51djN1SEhGQU1RTnRJMTJtV2lydGhZU0NYaEtqdU9MVUFWQUV6eWJhTDVn?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 18:27:00 GMT",
+      "description": "KFF Poll Finds AI Health Chatbot Users More Likely To Believe Vaccine Myths RTTNews",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "HPV vaccine prevents cervical cancer before it starts - UW Medicine | Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdi1EYkZPakdza2tLdjdYTzhJWFBCMlJYRkpFd0NOR05pSU1WQTk0emREN3FhazRBLVA1NWpvejY3X0QzS2w4cXBFT2liYjJGcHRvSDBtWURtQXRtNW1aNG1xLWJBRmZjV0h2X3hCdlp2S1dOSnVicjgzQVVHTkdORFNmM3dMWFN4aUxyVzg0YTg1OXBhN2VR?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 18:13:56 GMT",
+      "description": "HPV vaccine prevents cervical cancer before it starts UW Medicine | Newsroom",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hpv",
+      "vaccineLabel": "HPV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "COVID-19 Boosters May Offer Head Start Against Future Animal Coronaviruses, But Immune \"Imprinting\" Complicates the Picture - Pharmacy Times",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPT2ZYS09kcGUwZzFCblNfZVpsUzFhczJ2RWs0MVlGc2NXNWppUjk4eUd4QXZYVGQ5N2FyczRFbFVYZnJyT1VFOVJhZjh6LUZjQzdKdDFzeU5RaWJCd0hoQjZfR05qNW5OWGJtWS1FQXRLdDBMMUpmT24tQVZlb1Q4dktKbHFvS2lYMHhYblZiOUdEMTI5UURHdXN6aDAzQzFhT3MwUXY0bkRfX3dacjNXQWhJM0czVEFodmtPM1hyaGVhTXFyelNnQW9QQjZGOGxiMnNPU0pOYUtfTFlOdnZIeHRJU2lRN3NkRFNv?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 18:13:50 GMT",
+      "description": "COVID-19 Boosters May Offer Head Start Against Future Animal Coronaviruses, But Immune \"Imprinting\" Complicates the Picture Pharmacy Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Israel changes age for second measles vaccine in effort to stop outbreak - Haaretz",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUzJIMlVwWmNxRklPc0NHNnVqbkJHZmZwdENGVURSdzdIMGFWbVQ3WVNLSzVNZlRnbmhQSjhXVDM2UnFhbVpkNkwtcnlBTWp6VUxDZTIzWHpOZWVLektuTFdPTF9yTlJvWmVPdUtjeWJXYmRLU3p5ZzNoeTJsdzI0QTY0RW9Tak1SY0JXbW12aEpqUGxjNm90bUNGSlpOS3BDTGZrTmpxWEJNSlhkeXZMM25QM0ZLT3ppeGRMY1FicEIyY2RUamIwem9VaUZOYWJ0MExvMl9zZi1Mc21VLVNXaTJOVi04WWY5UkxrRzdEbUR0ODdEYTJaN0s3R1RVTW1WWWNxMA?oc=5",
@@ -206,36 +268,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Two New Scientific Reports Identify the Real Obstacle to Stopping Measles Outbreaks — It Is Not Just Vaccination Rates - Medical Daily",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPalZkVlFUajF5dW5WQTFEUGR6YzhoV3N0blBvRWxJQjVTWUZmckJPRnpmazI5RjZzUndxQVMtUlEtWk9KWUFRR3NTdEd2TUZOUncwUGxtUEo5NWxfbW9IZlpSMkVvaDB5Z1ZEMlU5ZzFTVFBWbkp0NVFrbjdpbWEtWGtWRThMWG5WeVVUS3JkWEFDZzR0U2RlZDBsYw?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 15:01:08 GMT",
-      "description": "Two New Scientific Reports Identify the Real Obstacle to Stopping Measles Outbreaks — It Is Not Just Vaccination Rates Medical Daily",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Appeals court rules New York school vaccine mandates are constitutional — again - Times Union",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUZRN3h4b082LTg4YWl5MzRHNkxVZnZEcTgzMjdQZ0sxa19ZZVB4RVlBbXFlMmRNQmhfd1l0Z1ZrTi1wcDIxWjNCdDRaYU5WbzJ4aUNxNnQwZnFmc19XNk1adnhVT1dReDQ2ZTlIQXd0Tnh4bUEwWTFlYnJmNk4zeGptNFh4ZEtJQTctS0xMMXB0ZU9TZEhYOFBJa3JwUnVFVGc?oc=5",
       "pubDate": "Wed, 01 Jul 2026 14:35:07 GMT",
       "description": "Appeals court rules New York school vaccine mandates are constitutional — again Times Union",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Adult Immunisation in India: What the Latest Data Tell Us - orfonline.org",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSXpKS0JVT3psaTVRVl9zNEVLUE9TS0lSVXAzTHJmU05FZGxWQXdNRTdna1pfOU9ob3pidk4tQkphNFlGOFNWcGZ5bGxyTDZxVEpGbUR3SFc4clVUX1BQcnhLZ3NVOTBUaThzNXJmTS1id3huOXQwRjE4Y25mdzl1ZjZEeDJmZFNFMFBMREExNUUtaFE5YUtQUE5Daw?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 14:33:20 GMT",
-      "description": "Adult Immunisation in India: What the Latest Data Tell Us orfonline.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -384,19 +420,6 @@
       "sourceLabel": "News",
       "vaccineKey": "rsv",
       "vaccineLabel": "RSV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Two children's immunization clinics slated for July in Stromsburg - Columbus Telegram",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYUdidW5nSkpLUWw2U3hpUHlOMUNFSkh1RG5YRDZoUFM2UThFWEY1SEF4VmM5Qml2bWl4TmlpcGpPbDNqOFZtdWVESHNzNHBZNHJrRHJmZmlqSnYtUUFFanN2MVNfUElCemhMaW1aaEJiODh4UXVUeXpFMHNyeG5DaHNrQXA5RVlUejFQZ0FZa3dDb1U?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 11:15:00 GMT",
-      "description": "Two children's immunization clinics slated for July in Stromsburg Columbus Telegram",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -635,32 +658,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "A Rewritten Federal Vaccine Charter Could Determine Whether Your Fall Flu Shot Is Covered by Insurance - Medical Daily",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUExZUzRPNmJEMEJHeE9zMmNVM0FCNnRnUUxQcThpN0VQdTNtNlBESGJwa2pkZ3hkM0VKZ1FPWEVSbGkzY3JKajJnWlRHNWFwNUc0aXJQMWhicnBURVR4ZzBPeDYtakJZcWFiOTZGMEwxSmNuVnQ1RmxjUmZWQmFNVV9FMmhqSzFIdDlqdmtvVjlLQUdwVEg1Mg?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 22:31:06 GMT",
-      "description": "A Rewritten Federal Vaccine Charter Could Determine Whether Your Fall Flu Shot Is Covered by Insurance Medical Daily",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Rep. Joaquin Castro blasts Hegseth for Lackland flu outbreak, calls to reinstate vaccine mandate - San Antonio Current",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSjB5TEdsR3dYd0FlRmhYSzNpR0laVlc3ZUtGRDhmaDVOUEd0OU9mdGtVb3hnLUVlR19aTS1qMm1TdWpwOVhOMnF1RXowTHdvdzBsZ0JHcm1MbnpPanBXS2NocHRuWXlDVmlvRVVPZzYzbnlJMWZxRHNtLUpWZHhyUExDc2N3a0k1amRoX08xNjA3cVBhRW5rc3c1VjdpMkJqcjRnYWlpT21EUzZXaThLaVJWRzNSQV9SMjlmYW1RZTV4SVBBWFFXc0l3RkNfcWpEdEp0WnFOSXpYdXM?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 22:14:57 GMT",
-      "description": "Rep. Joaquin Castro blasts Hegseth for Lackland flu outbreak, calls to reinstate vaccine mandate San Antonio Current",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Lawmakers push to restore flu vaccine requirement for service members after JBSA-Lackland outbreak - KVUE",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZzNQbEhPN2MwTHF6OFpvR2d1VndWdmFSbXVzTzRraXhJQmJsYU5ZcERvSGh3ZEZKcnZVaUFfUk5FR0ZuMmdlaWV2SDVKZTYzZnpTWkhNY2tUdkVFdWxpTGxTX2lhM3RucEN0TUVWQXl4bGUxM0pUTi0zMzE2NDF1cFNvRlE3UUR6eFZGUUVlMEp2QVp2T3NnNWFFbHpUOGZDTnE1VUttQXhwMG5OV1dDU3JGY1IzenBJQWZiTFkxTzMxS2pzNGg1WnZiX1VjYldGY2p0ajc2TTlPdw?oc=5",
       "pubDate": "Tue, 30 Jun 2026 21:42:00 GMT",
@@ -854,6 +851,19 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
+    },
+    {
+      "title": "Taiwan to roll out publicly funded rotavirus vaccine in 2027 - Taipei Times",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pN25iYUNuc1VnVFZuWi1FeWtaMzlhMk90YzhvU1BDbEhXWklEV05yQ2FQZTdaU21WaHBNSm9fWEY2M2djUk9leVFtd2hrVm43VnZUaGdpYm1DbEc3aXQ5V2ZROTc4b2poWU9rTW44ajc4SkMtcXNHUDNR?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 16:00:00 GMT",
+      "description": "Taiwan to roll out publicly funded rotavirus vaccine in 2027 Taipei Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "rotavirus",
+      "vaccineLabel": "Rotavirus",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Billions of mRNA vaccine doses’ review underpins their effectiveness - Euronews",
