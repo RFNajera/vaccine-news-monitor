@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-07-02T18:55:59.504Z",
-  "itemCount": 97,
+  "updatedAt": "2026-07-02T19:57:40.775Z",
+  "itemCount": 96,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 11
+      "count": 12
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 7
+      "count": 9
     },
     {
       "key": "rsv",
       "label": "RSV",
-      "count": 2
+      "count": 3
     },
     {
       "key": "measles_mmr",
@@ -25,27 +25,22 @@
     {
       "key": "hpv",
       "label": "HPV",
-      "count": 5
+      "count": 6
     },
     {
       "key": "hepatitis",
       "label": "Hepatitis",
-      "count": 2
+      "count": 1
     },
     {
       "key": "meningococcal",
       "label": "Meningococcal",
-      "count": 6
+      "count": 3
     },
     {
       "key": "shingles",
       "label": "Shingles",
       "count": 2
-    },
-    {
-      "key": "mpox",
-      "label": "Mpox",
-      "count": 1
     },
     {
       "key": "malaria",
@@ -55,20 +50,72 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 49
+      "count": 48
     }
   ],
   "items": [
     {
+      "title": "Adverse Event Risk Not Up With Same Day COVID-19, Flu Vaccination - HealthDay",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcFI5OWxEZEpGVUVvYUs2NzlxRjJsMk1LU3Vfd2JQdGJoRkdUc3pQQXdTZ0hKc2dQUWtqLW1ucTRSYllGUG5EOGhLbFRsOVJrMW84ZjZMQ3ZCTkE2dHc2bDJVVVBVRm5jY0J2a3pFZUZzbndrZG5tSW1RREZYZW1fRjRwY2lIaDkwOTVsZk5HSmxNUE5WOVpjRnJuT1M4NkpEZFVMZm84QkpkX2dZZ1FNX0dkQnpSMlZNWjJV?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 19:54:05 GMT",
+      "description": "Adverse Event Risk Not Up With Same Day COVID-19, Flu Vaccination HealthDay",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Why a case pivotal to the anti-vax movement could end up at the Supreme Court - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNemh3czZGS2htb0piUzltOGZIOTd0b2tpZFhsUjBTVmE3UHpNTWJYbTRkMHVyQ01hNTZHaTI1dTdVV0daZUZjSE9EVVh3SUhjVU9hQmhQdERYMDJObGExckdHdkdtd1B6eWdIREEwRnJqNGVMSnJXUDZXSkkzbHpGMVhfclVmbkpUZGdub3lmbHdSYTlCQmJBaThvaGRzNGlGR0l0eHNWQ0ZpbmdIdHVzQw?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 18:48:07 GMT",
+      "pubDate": "Thu, 02 Jul 2026 19:52:05 GMT",
       "description": "Why a case pivotal to the anti-vax movement could end up at the Supreme Court The Washington Post",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Most women opt for maternal RSV vaccination, prefer it to infant immunization, international study finds - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRXJwa1ZqMWpIV3RZSW9uYzItbzNJQ2RhYkhQV3JpQ181NUFhX3JrYnA1bDJ3NFI4SzF3ZmpYdHF3RDFubXJFZXIyYmFpT0dxVHoxY3BmYjI2eGxFOU9YcU9mLTFTazNkQUZlNnRiYV8xeXBBWUNJY1k3Wk9HREZMbVo3UmxHX0dOYk41eEZZMHVMMEhUWndiQWZuTENXU1JTWHpfOEFUdGV3U0dZYjdXRVVOaEUtdHp2V3dz?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 19:44:00 GMT",
+      "description": "Most women opt for maternal RSV vaccination, prefer it to infant immunization, international study finds CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "rsv",
+      "vaccineLabel": "RSV",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Abortion medication, HPV vaccine laws take effect Wednesday in three states - Racine County Eye",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jdzNOWkdKTXNuV1llcm9nRnQyOVI3T2lfMTE1a3YyaUlNXzRqMXZEc0dVY2VJVmZLdE90WTEwVm9rbXNRTHJoQVNFMzNjZWJYUUR5LTRNcVpuQ1Uzc1dfWlVELXRZWnpuZDdzVFF1OS1vR2xGUmo2cnhyNVZHdw?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 19:00:00 GMT",
+      "description": "Abortion medication, HPV vaccine laws take effect Wednesday in three states Racine County Eye",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hpv",
+      "vaccineLabel": "HPV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Appeals court sides with city on Chicago police union COVID vaccine mandate case - Chicago Tribune",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUkFXd01OLVRQZUlkN2VTN04xYjRQb3ZVMWNfelNWX1RDSmZLZV9hN3pwSlVJdXE2Xzh1Y2lVOFZPWEN1RWdIcHZwYjdJNVpmcUVybWVjelE0M01KaFRoLUk3ckxXLXl6VlNLcW4wM3RKSWZqb2FGNjhFMFpkUDNuSEpiVQ?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 18:53:08 GMT",
+      "description": "Appeals court sides with city on Chicago police union COVID vaccine mandate case Chicago Tribune",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -108,19 +155,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Appeals court sides with city on Chicago police union COVID vaccine mandate case - Chicago Tribune",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUkFXd01OLVRQZUlkN2VTN04xYjRQb3ZVMWNfelNWX1RDSmZLZV9hN3pwSlVJdXE2Xzh1Y2lVOFZPWEN1RWdIcHZwYjdJNVpmcUVybWVjelE0M01KaFRoLUk3ckxXLXl6VlNLcW4wM3RKSWZqb2FGNjhFMFpkUDNuSEpiVQ?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 18:02:58 GMT",
-      "description": "Appeals court sides with city on Chicago police union COVID vaccine mandate case Chicago Tribune",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -242,6 +276,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Africa’s vaccine sovereignty goal is set for its biggest hurdle - Semafor",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbFBzMHBOaFI5d2tzU0JqcElIREdEalNZSHU2eW0ydjZhblpEYWRsbmRFdkR2NnVxNWI5Yzh3bldDdG1vYXBCWmJwOXA2VzlMeXFuNTFiRUZYRWtUTDNib2dXUnhBRDg1WjZCQk1hNkoyY1lrdnBWNlJkWk1YVDQwY3o4a2pvT0xpOEd4MWcxNmFvZzJ3QXYwclUwTGRYeWM?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 14:46:00 GMT",
+      "description": "Africa’s vaccine sovereignty goal is set for its biggest hurdle Semafor",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "In Zambia, a new cadre of solar technicians keep rural vaccine fridges running - Gavi, the Vaccine Alliance",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOVVYR2lveExHbFB0eDFYLUFNc2ZzYlFIdkw4Q0xwM1pTS2tHaF9tWHN4N2J0QUV5TUtzdXdmb0dObFBlODBVekNtQWs1d2lTcWJ1UEVsU3dYUm9VLUxmZTc2b1hpNTNYX2NGM21Gd3BOMGdGZmozX0laMXpvSW5nRGp3T2xLeEFiMHB4MkJWam83Y3ZlSG03NzNHR2YzQkJFdEpjZm9B?oc=5",
       "pubDate": "Thu, 02 Jul 2026 14:41:18 GMT",
@@ -346,19 +393,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Africa moves ahead with vaccine manufacturing ambitions - Semafor",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbFBzMHBOaFI5d2tzU0JqcElIREdEalNZSHU2eW0ydjZhblpEYWRsbmRFdkR2NnVxNWI5Yzh3bldDdG1vYXBCWmJwOXA2VzlMeXFuNTFiRUZYRWtUTDNib2dXUnhBRDg1WjZCQk1hNkoyY1lrdnBWNlJkWk1YVDQwY3o4a2pvT0xpOEd4MWcxNmFvZzJ3QXYwclUwTGRYeWM?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 13:25:00 GMT",
-      "description": "Africa moves ahead with vaccine manufacturing ambitions Semafor",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Free pet vaccine clinic offered Thursday in Missoula - NBC Montana",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcDlBSjREV0Jkb0tQellCaW15LVQ0TEhpMjFfdm16ODJKXzR5SFRBMmU4UVpLLUYwdDRXLVo4ZkJMajRMNDlMS1JGemI3VldpcndsTGFqVkMyemt6Zi1NQXFQOTlrOVAwUnRUTVhCcURkd29fZG84ZnF6MmVLT2NxT3lRQmJyTFBkSDZzSzF5NA?oc=5",
       "pubDate": "Thu, 02 Jul 2026 12:39:13 GMT",
@@ -420,19 +454,6 @@
       "sourceLabel": "News",
       "vaccineKey": "rsv",
       "vaccineLabel": "RSV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "More than 20 mpox cases last month in NI - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPLVo2YXRuSHBTWWVpX1V2Vl9jWEdqcGwxOHNadWx2MkNIYWM0R0QyZjJEZ3hsRDBZanhHYU5JUGJZVUtHclBCS2FKQkt0d3BsZG1PVXJUUUx2UQ?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 10:49:25 GMT",
-      "description": "More than 20 mpox cases last month in NI BBC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "mpox",
-      "vaccineLabel": "Mpox",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -606,49 +627,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Meningitis vaccine required for Texas college students, pharmacist warns of deadly risk - WSMV",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOFRtSlVsSjNrVGRyRnNGaUtmSFJsYVgyUkNhaEZoeDRnRlQxRGxFMU83ZzZyZDVUaEMwNWMtOGx4OWc5MVdpdTZOeFRkZXBrV2U2QUxrOXVPUFIwUl91NXNtLUxtVXZ5Vjh2dG10Q2FFRm9mNzZMUHNIaThra3ZHTVNkczZodnBtNkx3NEhwd0F5WTE0b3Jrc1JTR0ZJVExlQmRQNjZTSkMwdlpMaWxkOE1pYkRRbF9nR0E?oc=5",
+      "title": "Meningitis vaccine required for Texas college students, pharmacist warns of deadly risk - Live 5 News",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORkwyM2Rjd0l6LUdVVUczSUMwWjBFTlpZaXlqZVdxcVM2OGVLSURKZnctQVhsRmV0OENrNkdlNERwSHRkejRmMnRxRndZazZHMEtCOGZpRkpjT1BxSWpKcWdTcC1VN3RLVWNOaDl6RmFaUTVGRmFaaVU1RzVCWExYZ3pFc2VyNVB3cHM3bHpTbEpwdVhlWEVqc1hTQ25OY0FwLUliWTd6Ti00R0Y2ZnRXRDVtMnFjN01LbS0xUWdHbks?oc=5",
       "pubDate": "Thu, 02 Jul 2026 03:34:00 GMT",
-      "description": "Meningitis vaccine required for Texas college students, pharmacist warns of deadly risk WSMV",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "meningococcal",
-      "vaccineLabel": "Meningococcal",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Meningitis vaccine required for Texas college students, pharmacist warns of deadly risk - WBTV",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSDF5M3lPbjRzcEdBZFF0bDJPdVlrUnJVWF9id1dCVUlQdmZkVlJ6ODlSWXZBcWtSMzctR1RtOGJ6am5YaEw2WFdQczBXY0NKeExCQXNtbWRES210VU1hdnpzYllERlg0eTRVLWVfaFF0aHRjQjdyNndSblFqWTE0N3pLRUh5SXk5WVJoWEVrZjh0Zm9pMGZIdEE4STBuMERMaTl5WDRYTENkRUZhUXVQd19kTFpDREFEbVE?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 03:34:00 GMT",
-      "description": "Meningitis vaccine required for Texas college students, pharmacist warns of deadly risk WBTV",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "meningococcal",
-      "vaccineLabel": "Meningococcal",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Meningitis vaccine required for Texas college students, pharmacist warns of deadly risk - AZ Family",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZmpEdXNwcDhpNU5qQ0tmTXo2MTBuVzc1WGlsNXE5ZWFCamRZQWhUUDNLbHNlRURob1RQeWNjUy1lYjZiVzBsMUFuS0k3T0xRcWdjdm1fcUJtbmVJcmRHSEJOVFJ5QzYwb0EzWGhFeE5aS1FKS1dwM3N5UEFTb0ZudC1MSDh6UFNpelpHdHFTXy0tOFlTTHhMYkFLWk5CTkRhdWpGclJBNnkzZUxNRVE0dEtoYUdmZ0tIRDA2MkswSQ?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 03:34:00 GMT",
-      "description": "Meningitis vaccine required for Texas college students, pharmacist warns of deadly risk AZ Family",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "meningococcal",
-      "vaccineLabel": "Meningococcal",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Meningitis vaccine required for Texas college students, pharmacist warns of deadly risk - Hawaii News Now",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa3gyWFJSVG1WQ0RudDl2VzNpck5uTzVTRm5aN1JHdWJhYUN4ZXB3ZlpzR3lpcUk0S3hUd0laTjR4WlBWQk5aU0loVHVkeDNyZkhXQkFmenVSRTVmTkh1SGdEd29sS2ZRWW9wbFQ4YUw3TnRTei1venVsamcwWDVjbEhFWWZPaERyLThGLTl6NkE3VENTZTU0S2NvQXpnRzdoMHczVTN3Zk9kNFpIRldWQ2diOGNNNXBXZV91WXNpeUg5VVc0YkE?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 03:34:00 GMT",
-      "description": "Meningitis vaccine required for Texas college students, pharmacist warns of deadly risk Hawaii News Now",
+      "description": "Meningitis vaccine required for Texas college students, pharmacist warns of deadly risk Live 5 News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -682,6 +664,19 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
+    },
+    {
+      "title": "Clinical Trial of Shigella Vaccine Shows 89% Protection - BioSpace",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS214R0dtTTlWdFNPMlFvWHhISFR0Ylk0SzAxbkRzODVfYkRJaVhjQTBJcGxrdUFjMS1udTN6U2lrRXVZMnI1SkpRaVlVamYza2IzemltbmJseFJ3SS1rQi1haFQ1WVJWR3lCY0FLeHNUeXpXekkwcF9xNXFHbGxXeUI0XzFJOU9HNkFrMU5ENlQzNzZ0RGliM253?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 01:49:04 GMT",
+      "description": "Clinical Trial of Shigella Vaccine Shows 89% Protection BioSpace",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
     },
     {
       "title": "Meningitis vaccine required for Texas college students, pharmacist warns of deadly risk - KCBD",
@@ -740,32 +735,6 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbDhWemk3Y0prX2JsNm9VRkJiNGFGNXBBamk4VEo3OW94RnhZSmxFcGRpOU9tbFc0ZHVLbWlEamFybWN5b2JienlVbmZYMk5mMTJHMF9BeENKMGdEdDhXMnZXVEpxYm05VXR6bjZ6SS01aEV3N3RGYVFlQmNTUV9uRzk4aGVBTlFnWVBNTmRIdERsdWxLTkZsa0hR?oc=5",
       "pubDate": "Wed, 01 Jul 2026 22:07:12 GMT",
       "description": "How personal waivers impact Wisconsin's vaccination numbers PBS Wisconsin",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Yale School of Medicine Awarded $1.69 Million Gift to Advance Development of Novel Immunoregulatory Parasite Vaccines | Newswise - Newswise",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYkxMVEpPeTFGSkJjdXJPOTVGclYwNHMwbHBEU1NwTFNJSUQ0WDAwNUQ4ekU3aWFnVmkxTmlsZzNfOVVSaWxzSWgtTDVjVmhUbHhyRV9PNFJWb3k2blBSdmp1c2I4ZURFODVWMWozZTk1ekpVU1dvN3VkMzZ1c0RLYlV4bjNySDN6elV4cl8teGZSSGpnYWtCV1VBT0R0ZHZVa2dHbC1iQUl6dnRKTllhQlVjWGxId0xiV1NvUUdpSjktVmJfSUxFbFBGNWMxTnJxRjZTdHpSMFBLSmFQQ0szY0FkUTnSAeQBQVVfeXFMT2JMTFRKT3kxRkpCY3VyTzk1RnJWMDRzMGxwRFNTcExTSUlENFgwMDVEOHpFN2lhZ1ZpMU5pbGczXzlVUmlsc0loLUw1Y1ZoVGx4ckVfTzRSVm95Nm5QUnZqdXNiOGVERTg1VjFqM2U5NXpKVVNXbzd1ZDM2dXNES2JVeG4zckgzenpVeHJfLXhmUkhqZ2FrQldVQU9EdGR2VWtnR2wtYkFJenZ0Sk5ZYUJVY1hsSHdMYldTb1FHaUo5LVZiX0lMRWxQRjVjMU5ycUY2U3R6UjBQS0phUENLM2NBZFE5?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 22:00:00 GMT",
-      "description": "Yale School of Medicine Awarded $1.69 Million Gift to Advance Development of Novel Immunoregulatory Parasite Vaccines | Newswise Newswise",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Air Force trainee in San Antonio, Texas, died from flu - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc0NZbWxiOF9qQk9QWlljQXpzN1YyQ210Q3AzcG81TS1ZRENmODJtQjd5YmV2Yy16SEptQXp6d1JpbzF5WXF2Y3VOVm5ZZThiV0c3TW44ZkltTHBsRlVqdEhCNjVDa2o5ZkJYSm9TTDFQODRyWTQtdWN2U0tBQmRLeEZXZzc3emVrUVI2S3dKM01iU0xL?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 21:47:00 GMT",
-      "description": "Air Force trainee in San Antonio, Texas, died from flu CIDRAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -918,19 +887,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Clinical Trial of Shigella Vaccine Shows 89% Protection - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUUhOdFBkTzNWcEVFZUZNdEZLVXE4dDJvc0YyVXcyN1BIeUZ0QklJbkhkQUtwMS1nR2pqVGNwc2kyUld2Zl9US3BETWRidFZ6Yzh4SEZhSTdPYjh6ZzI2Yk04aHlSSWI4LWVrUklwU25XNEx1RVQ4OUtCTjV0aUFIdmhOWm1SOEZvV2dadzMzaFJaTGNBR0NJb01ELTlGcURrVFd2QUVudWVNQ0FzLVc0?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 15:30:00 GMT",
-      "description": "Clinical Trial of Shigella Vaccine Shows 89% Protection PR Newswire",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "WOAH issues field guidelines for African swine fever vaccination - The Pig Site",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNldNRWFFM1NvdERQRUxmbnNtdUMzQVRSOExiLXYxcUpfZFN6M3BkRU8wcDhCaTlvRFBfUEhPUGRKTVZqOFZmeDY4eEI4djRnQ2xBelpZR3NpMFk2aXZ4SEJORF9SS3hRdlBUemZKV3V1SGZELUlRWVNrUDduZV9HNzR6cVpMTk1Hc1Jua3NhSnR6OE9OaEZJVnE2S1I4WTc2MXJyNXNUNA?oc=5",
       "pubDate": "Wed, 01 Jul 2026 14:47:00 GMT",
@@ -1022,19 +978,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Significant Association Identified Between Hepatitis C, Overactive Bladder - Vaccine Advisor",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNalRQT016b1BVbjk4YWwyOFJZVVVObEhwZ24tMlhoVVVNSUx2aFRpQXVuMkptSW1FUi1VRnlSNmdXdjhFVW0wVnhTS2pFenJaMnpXdTk5VzZrd1NZbDMyTldJT0Q3T2xoSjlBeEJFeUhWbjExdzYyWjBob3IxcGtpQzVLazNnRDR0cEs2QWNfaDJ1M2RXQ0w3R05SWHduR19uTVM3TGhyTWdnZWdhLUtN?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 04:00:00 GMT",
-      "description": "Significant Association Identified Between Hepatitis C, Overactive Bladder Vaccine Advisor",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hepatitis",
-      "vaccineLabel": "Hepatitis",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Cases of Rare but Dangerous Powassan Tick Virus Rising in US - Vaccine Advisor",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN1EtRy1UMVk3bzkwZEZwaGV1UjItclVRckFnZlR0Q1N0QVpaLTRuMkRPckw3dU9kdFM4MjNwVEdPUGpycVZDcGpYbXdYaHVsemc5VFF0aGpSWWZOamcyUm1jZ1dSS3RpV0RfeHMxMTJ6MjBjV2lCc2JiclcyQ0cyMDU5cHNma2hKRDAzaFFmaGVHOTFWOXM3WkZFdmJ1dw?oc=5",
       "pubDate": "Wed, 01 Jul 2026 04:00:00 GMT",
@@ -1070,19 +1013,6 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Mussel-inspired vaccine aims to close the immunization gap with long-lasting immune protection - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONkNtd3ZvUlVWV1FJMjZ4Y2duMTRXdkx2MnhfcTlfMXlLY2NIMXFpUV9LRzFXR2ZMbnZuNGR2YVVSbU5aRXZtZkhrRDB1bExQMnd4Ykw4U3EyVEk5Mnc0eFlTWWctYkY0Y3ZsQ3Q0OVUtNGFJQzRSV1hjblVFS01tRmswSkRzV1E?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 00:20:02 GMT",
-      "description": "Mussel-inspired vaccine aims to close the immunization gap with long-lasting immune protection Medical Xpress",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1148,6 +1078,32 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "The ongoing impact of U.S. vaccine hesitancy - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZW5neEZ5RzRpdk1hMzZ2bC1fdFFRcFZEWE1McXd0MjBTNTVlMzRRcVNiTG0xcHEwdTN4MTY5NHRNcU1oeHQxSlBpWUp1R0d0UzVVS3pQQjJMSkRvcFY3ODlLTHhuT2loakp1d0ZWYWVWSi1ocFQtZmc3V1ZQV1EzTzRZVnNNa21vU01RZU5n?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 18:30:00 GMT",
+      "description": "The ongoing impact of U.S. vaccine hesitancy The Washington Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "NDAA Amendment Mandates Influenza Vaccine After Lackland Air Force Outbreak - Military.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVDc3UXE4ajI5ZFp4dUVFZk9LS3otQzlIMkRzRV9ZNC1ja0VuQ09tQ0NSMktweGdhSnRDcDNzcExYcjRudE5sY2NTaVJYUTJkUXRPa2l6V1VuRWp6dXRZVVQ3VENJTkZrTWV0dDZsbWtEMzB5aXphT3U1U1pUcS1mQllCTngwYmFFbUZDLV9ldEFUSlRYbEVUVmJtNjc4QzJPQ2c?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 18:05:01 GMT",
+      "description": "NDAA Amendment Mandates Influenza Vaccine After Lackland Air Force Outbreak Military.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1226,6 +1182,32 @@
       "sourceLabel": "News",
       "vaccineKey": "hpv",
       "vaccineLabel": "HPV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Castro pushes to restore military flu vaccine mandate after outbreak at JBSA-Lackland - kens5.com",
+      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxORkl6R1Y2SGpEOEt3eUprZ2ZheW03QmhZZVptQ0ktQWdXaFFBOUxhTzlYSVE4ODZWMVF1QUlYb0NLQnNYenNxS19MSENZM1pUTDVyVE1yTGlIT0VqVG1IcnMzUmFqSjQ0ZzJua05LaWlCQkZ1ZTNtMnZrSlUtVFhTcEl4d3FZS3o0VHRfZmRsR2V3NHowMWwtNGJrUm03YXljYW1seEtxTXU2SUdONGF1T1FKN3h1Z0hhX0FjNnF5NEZBOUhmdmlSRWJyQXBDV3RjSU84aG9ta3lOdUtsS1ZXamJwVlJvQXl5d212dDRJMFlfMkpDZzBjNjIxTncwNmNCQUZna3g0cmRudkRGYkc1SUQ0TWVjRldJbFhuejgzeWUxX2ZxeGJiWmJyS1g1d0lWVEhtVUVOdE5Bb2MzREttbWNTdTNleldsRDFzdUxn?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 11:11:00 GMT",
+      "description": "Castro pushes to restore military flu vaccine mandate after outbreak at JBSA-Lackland kens5.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "A Vaccine for Strep A May Finally Be in Reach - Global Health NOW",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwYTFFbkhKc2VEV0RKa3ZHMnZVUWxuRUJkSDd3Y2NoWFhGbW1LNUdRdXdudUpJdC1KZzQ2c3BrMU1IYkg4N2FKZ0lXdkViSF9FR1hYZk1iZG1Nek9CRGN6V1J6M0xyXzNyT3E5RTN0WTN3cTNUU3FEbTZB?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 10:47:59 GMT",
+      "description": "A Vaccine for Strep A May Finally Be in Reach Global Health NOW",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
