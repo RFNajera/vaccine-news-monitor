@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-02T17:02:16.288Z",
-  "itemCount": 94,
+  "updatedAt": "2026-07-02T18:02:13.256Z",
+  "itemCount": 97,
   "groups": [
     {
       "key": "covid",
@@ -10,7 +10,7 @@
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 5
+      "count": 7
     },
     {
       "key": "rsv",
@@ -25,7 +25,7 @@
     {
       "key": "hpv",
       "label": "HPV",
-      "count": 6
+      "count": 5
     },
     {
       "key": "hepatitis",
@@ -50,20 +50,59 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 50
+      "count": 52
     }
   ],
   "items": [
     {
+      "title": "Appeals court sides with city on Chicago police union COVID vaccine mandate case - Chicago Tribune",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUkFXd01OLVRQZUlkN2VTN04xYjRQb3ZVMWNfelNWX1RDSmZLZV9hN3pwSlVJdXE2Xzh1Y2lVOFZPWEN1RWdIcHZwYjdJNVpmcUVybWVjelE0M01KaFRoLUk3ckxXLXl6VlNLcW4wM3RKSWZqb2FGNjhFMFpkUDNuSEpiVQ?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 17:54:00 GMT",
+      "description": "Appeals court sides with city on Chicago police union COVID vaccine mandate case Chicago Tribune",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Ontario SPCA to host free dog wellness, vaccine clinic in Midland - MidlandToday.ca",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT3V1cEg5b3MwSTVqZ2lNTWNqRUtnV19PZjMxYU8yT2REaUZJQjZaeDhIdm1od3ZTbm4tN0lZcU9iUDFGM2RTV3FrR1RqREc1bzJiWDhIcXFhNVdkLVZ6LVlDYWx3aFk1czlKcTU4cEcxVFhadnVSVktUdzRWaFlVWkEySWNkcVJTWVgtS2NrTklBNlJKSENYaEJpdVZSRmpYaXBkSjNXeGRQN2Jra0p0bEFn?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 17:31:43 GMT",
+      "description": "Ontario SPCA to host free dog wellness, vaccine clinic in Midland MidlandToday.ca",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Why a case pivotal to the anti-vax movement could end up at the Supreme Court - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNemh3czZGS2htb0piUzltOGZIOTd0b2tpZFhsUjBTVmE3UHpNTWJYbTRkMHVyQ01hNTZHaTI1dTdVV0daZUZjSE9EVVh3SUhjVU9hQmhQdERYMDJObGExckdHdkdtd1B6eWdIREEwRnJqNGVMSnJXUDZXSkkzbHpGMVhfclVmbkpUZGdub3lmbHdSYTlCQmJBaThvaGRzNGlGR0l0eHNWQ0ZpbmdIdHVzQw?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 16:52:05 GMT",
+      "pubDate": "Thu, 02 Jul 2026 17:18:07 GMT",
       "description": "Why a case pivotal to the anti-vax movement could end up at the Supreme Court The Washington Post",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Trump’s Newly Disclosed Moderna Trades Preceded FDA Advisory Panel’s Unanimous Backing of mRNA Flu Vaccine - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOTJvQzhSb1dILWR5a2t1bi1VU0l3STZxU2gzTVltbmJNa3JhaDBodUpaaW9haXZid2xGal9jdUlrLXp3ZEhEWGtBcHFEUEZTT0JBRGhLNFVwU1VydG4tMGt3UmJlemF0UTFkckdNMDJSUVpXR3haSXdtZGNMWVRxTHFFUm1rQVdpTU0tUFF0dXhzTmplUDhtcVhzWS1NcWduTE4tYjVMTEhZTi12Z0pSS0FtYVdkNlBrcnQyd3Q0R1NxRFdPemo1QUt2UTdZU250UVQtMHV3cnpfcXo0WjJZaFlRQ01IdkxFNEk4?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 16:58:00 GMT",
+      "description": "Trump’s Newly Disclosed Moderna Trades Preceded FDA Advisory Panel’s Unanimous Backing of mRNA Flu Vaccine Quiver Quantitative",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -79,6 +118,19 @@
       "vaccineLabel": "COVID-19",
       "articleType": "research",
       "articleLabel": "Research"
+    },
+    {
+      "title": "Dogs killed in Ethiopia: Hossana kpai at least 400 dogs ova deaths of three children - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yUWU4ZXR2WXAwMXJsUVQ5VXVBQ1J6bUl0YnFoNTJNNlVhd2lvZlQ4a1N0Z1AwTHNaZDBNSnplaU8yUzRMeTc1cTFVRTVDOWhsalh5R1kyM0xpcFlq0gFiQVVfeXFMUDJfWkZtUTU3dGczSFZuX01xUlh1ZmIwelU5UEdINk9Pdl9JS0wwVnBOVXQ2SXlCUmlFNUhlYl93UklrSHh3OXVUVUVocGUtN1ZKVWdpc2lkU0VoeUtzeTNyNlE?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 16:17:05 GMT",
+      "description": "Dogs killed in Ethiopia: Hossana kpai at least 400 dogs ova deaths of three children BBC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Social media reflected US adults’ emotions at initial COVID vaccine rollout - CIDRAP",
@@ -211,6 +263,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "MRNA Stock Surges As Flu Vaccine Win Fuels Pipeline Hype - StocksToTrade",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE02VFRMcXRySjJJR2Vxc1RUZjBscV9NUEFibVpYTXdNZ3U5ck9Xend0NUNEZmhUUjNKaklTZll2T1pyN1VmYWxVZmlWRncyMVJUVkNLcHF6dklPVl9RU2JFODNDT29nWVBCYXhHSlUxVHJKZw?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 14:03:00 GMT",
+      "description": "MRNA Stock Surges As Flu Vaccine Win Fuels Pipeline Hype StocksToTrade",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Inside the largest US measles outbreak in decades: Records reveal spread in vaccine-hesitant community - themercury.com",
       "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPODZRMm8zMWNwVW9CN29LbEJLdW1TWkZIeFNHUzJUSmxOeDhqSXE3VGswbS15Wm5xdFdFOUFYUXNUZU03NVduWUNCZ0wzSGFDd1RaNF9rM2dWX25XT2NKdmdmUG9UOHRVZFlKQVpBWUhpVXVBbEIxOWpRcmI3T1hLN1VBVXBwaDNTUnVpaGs2RGhuei1fV1BjOG1VTjlCVE9IZmRMSnoxRi1wdVNCY1FRdnVNNnVNUEZjOUtqVVpwSlhfQ2puV2Q3TWRXUno5R3k0X2p1TU8zM0hPVmNoRlJQUnZrUGpyRFdlRWEwUkZUMlkxQldSSW9LYVJKZk91RXpjUzFvRHZDYlhwRTlXNTZkRmNWRVhwQjg?oc=5",
       "pubDate": "Thu, 02 Jul 2026 14:00:05 GMT",
@@ -304,7 +369,7 @@
     {
       "title": "St. Luke’s asks parents to take extra steps amid Pa. measles outbreak - The Morning Call",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONlZ3YWdzRWNDRHVZRFNoRVl2eXZzaXc0bkpLc1F0VC0tOGd4WVZyRWFISUxhWldzYndFbEdKdDFoeGZEbUs2eExfaUN0UThpLURucklTbS1IYjRfNWhXNUgzRHhPSEJpRzhsTWgxN3JhNHV1OTRIV3d5ejhpSmRJR01udThYVkRtcjVfMjFUeTAzckg2bFNTeTBrdVJyWjROT0E?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 11:01:28 GMT",
+      "pubDate": "Thu, 02 Jul 2026 11:02:29 GMT",
       "description": "St. Luke’s asks parents to take extra steps amid Pa. measles outbreak The Morning Call",
       "source": "news.google.com",
       "sourceType": "news",
@@ -614,19 +679,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "The HPV Vaccine Has Cut Cervical Cancer by 87% in Three Countries: Here Is Why That Outcome Is Under Threat - Medical Daily",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcE1lYXZhdGZpOTJfTDdhblptbURWQ1YzdndwWUlfcFdaY0dSTm56M2VXbWpTNUwxNFQxTmdmRE5FX2lYblo0d0JkVl9GVFhmWXp5M2k3UVdpdVdBbXNicFI5NEtwaHBpcXl6QkVnZzBEMTVHUVhpa3hpRmJBeTA3UkVsWHJkbi15US11dnBtVTNUM0cyM1Axd016b29DYWRBamJn?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 00:00:08 GMT",
-      "description": "The HPV Vaccine Has Cut Cervical Cancer by 87% in Three Countries: Here Is Why That Outcome Is Under Threat Medical Daily",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hpv",
-      "vaccineLabel": "HPV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Vaccine booster protections - and more health headlines | Medical Watch - WGN-TV",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaHJSQ0tMS3g2YmdlMjFzbnFNdGpONzdyTGQzbUNoajJOZm1BaEsxSlBsUVNfQXhmZGZKekNma1BzSjJmR0pmX3lOTGoyU3ZqS2NwTzVBQUNNRlBYdmVNbHVXekNacjZPTzhCNk9COEJPZG5jM2VjUlBTSWk4MkxVUU1vbF9fYWd6dVZ6ZUR0b1pXbFNyY3JxVTdhYlUwYS0zQzc0?oc=5",
       "pubDate": "Wed, 01 Jul 2026 22:42:19 GMT",
@@ -896,19 +948,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Parent and Caregiver Willingness for Childhood COVID-19 Vaccination in Urban Uganda: Applying the Behavioral and Social Drivers (BeSD) Framework - Cureus",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNUS11VjBhdHVnUzFkdERvZ1k2MlpKWjM1TXNtQldMTXNtUWRfZFZoVmFwQUE1NUFWQkM0b190dERUUlpwakZ1MWpkUW95X1RvTi1KRGpoQnpSNHNtOTY5dU8zNFRkREt1cVVDOGhLaEloTFo5VmtYOGVxalBCLTUzSk9WWVV1NndOb2s0TnVzSjVtNkluUVdnWi1kTTJLSWpXVndpc0pLdnJiQmVEZVZ2dXJoRGpjZ2FPODFVc1VoanJDNENmcGdZZ3FwMDhIeUxzZTZ2VE11Z3ducC13S21lNGVzOHBYQjQyWmJrdkl3eUQ1dzBMS0tLNGdDMi04WVJocm93eG9OVWNTZ1B5?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 12:15:52 GMT",
-      "description": "Parent and Caregiver Willingness for Childhood COVID-19 Vaccination in Urban Uganda: Applying the Behavioral and Social Drivers (BeSD) Framework Cureus",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
