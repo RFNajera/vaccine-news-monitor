@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-07-02T13:05:01.234Z",
-  "itemCount": 94,
+  "updatedAt": "2026-07-02T14:09:32.947Z",
+  "itemCount": 96,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 10
+      "count": 11
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 8
+      "count": 7
     },
     {
       "key": "measles_mmr",
@@ -20,7 +20,7 @@
     {
       "key": "hpv",
       "label": "HPV",
-      "count": 8
+      "count": 7
     },
     {
       "key": "hepatitis",
@@ -45,15 +45,67 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 49
+      "count": 52
     }
   ],
   "items": [
+    {
+      "title": "Why a case pivotal to the anti-vax movement could end up at the Supreme Court - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNemh3czZGS2htb0piUzltOGZIOTd0b2tpZFhsUjBTVmE3UHpNTWJYbTRkMHVyQ01hNTZHaTI1dTdVV0daZUZjSE9EVVh3SUhjVU9hQmhQdERYMDJObGExckdHdkdtd1B6eWdIREEwRnJqNGVMSnJXUDZXSkkzbHpGMVhfclVmbkpUZGdub3lmbHdSYTlCQmJBaThvaGRzNGlGR0l0eHNWQ0ZpbmdIdHVzQw?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 14:02:50 GMT",
+      "description": "Why a case pivotal to the anti-vax movement could end up at the Supreme Court The Washington Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "COVID Vaccine Study Released After Publication Dispute - Legal Reader",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVGhYcXpEbmphaGdZbTZMTG9zdzVVNjMyWEN5cFhhcnltMEpBUkMzdHEzYXNwS2ZGOWdCLWJyZGxWQWhFQ3lUWEJjYzZBUmY1X3dQc21QR3hCM0E2Ry1WVzBmWUxLczVscVFSenhMbUhUXzVVRjExWlJjWjh5UVc1NWpLNWJBaU9haTZB?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 13:39:05 GMT",
+      "description": "COVID Vaccine Study Released After Publication Dispute Legal Reader",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Africa moves ahead with vaccine manufacturing ambitions - Semafor",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbFBzMHBOaFI5d2tzU0JqcElIREdEalNZSHU2eW0ydjZhblpEYWRsbmRFdkR2NnVxNWI5Yzh3bldDdG1vYXBCWmJwOXA2VzlMeXFuNTFiRUZYRWtUTDNib2dXUnhBRDg1WjZCQk1hNkoyY1lrdnBWNlJkWk1YVDQwY3o4a2pvT0xpOEd4MWcxNmFvZzJ3QXYwclUwTGRYeWM?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 13:25:00 GMT",
+      "description": "Africa moves ahead with vaccine manufacturing ambitions Semafor",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Free pet vaccine clinic offered Thursday in Missoula - NBC Montana",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcDlBSjREV0Jkb0tQellCaW15LVQ0TEhpMjFfdm16ODJKXzR5SFRBMmU4UVpLLUYwdDRXLVo4ZkJMajRMNDlMS1JGemI3VldpcndsTGFqVkMyemt6Zi1NQXFQOTlrOVAwUnRUTVhCcURkd29fZG84ZnF6MmVLT2NxT3lRQmJyTFBkSDZzSzF5NA?oc=5",
       "pubDate": "Thu, 02 Jul 2026 12:39:13 GMT",
       "description": "Free pet vaccine clinic offered Thursday in Missoula NBC Montana",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "SK bioscience Launches AI-Powered Initiative to Reduce Uncertainty in Vaccine-Development Decisions - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTzVaNmRfbF9TZUd6b2R6LXUzME96WmpyU0toWDQ0ZXNGMzR3RjgzUkZ5NmRjb3RSNGZRUlVJTEVNX184MHNpSFdHNkJBZDN4SEptc0ZHVS1SODNtODZBQVE5UWhKM1BFZ19HcWhJLTRXZk5HUFdVNWhaMWtvQU9sdEduRlJMYXU3RlI4SVc0Q2l1SjA3dVRna0lQLTZEZWNXQ0RqUWFGSzhSZ2FOVzBuS0xxUHJlQjFqNDVxX09pY3pqRF80QWI0bFNFYzdTVG5RQm1fei1jNGUxQWN0NG5BdThDNFFrWHZLY20w?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 12:00:00 GMT",
+      "description": "SK bioscience Launches AI-Powered Initiative to Reduce Uncertainty in Vaccine-Development Decisions PR Newswire",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -72,19 +124,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Omnicom Health Hong Kong Turns Cantonese Opera Into a Lesson in HPV Prevention - Little Black Book | LBBOnline",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51a01KUUVLNlpGcWFsQkQ0SWtiaGdyT1NlUmY4XzFPZHRmWl9ZY1h0NDR6UnlOUVRnZkVvVkJPODQwVl9yYUJYYk8zaE1UcXdLcWZSTGZJZ3I2dmctYUlwUElHRThLcWszLXRfOGg4SzM?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 11:14:37 GMT",
-      "description": "Omnicom Health Hong Kong Turns Cantonese Opera Into a Lesson in HPV Prevention Little Black Book | LBBOnline",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hpv",
-      "vaccineLabel": "HPV",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -128,19 +167,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "COVID-19 made mRNA vaccines mainstream. WashU researchers say flu shots are next - STLPR",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc0dxajZybXVWZVI0Ti0zbExNajFTRGdCT21IUTRyeDBGQ3VTZlBzRDVZNjFJQ2F0QU9TbGhxM01ZTFdVaTlrNTZJc2FTc1BJOHBmU3lidE9wb0w0bHFKRk94YjJ6T3FGdmk1SmZjd2NlNW1rZ3pNSTY1TjNMdUM2dUZTa2F5c0loSmFSZUcweFo0c3ExcTRxaS1UQ0RzTTBwMW1tYV9SMWtwZ1h5aERhU3RlLWJzaXdQek1nQ3J4cFQweWozWEx1bV93SmR2ekpTUnJhcExR?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 10:00:00 GMT",
-      "description": "COVID-19 made mRNA vaccines mainstream. WashU researchers say flu shots are next STLPR",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Measles vaccination rate for Texas kindergarteners increased slightly after 2025 outbreak - The Texas Tribune",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdndFX0dLY1laYXN4dnhDY05JZFh4SEkxZVF6S3FxbmhfUHc1cGRSekhUUWpBOW9SSWxWNU5vWXBobFdiU3FJdHZBajBwRTh6NmNjYThpM3djRGJ1b0JqeXBmaHgzMUhwNlJLdWJOdGhRU2pFRlNlNndCQ2dNRU4xbkt2VzNNd1FXSHI3TUhJSkJIVTJlV1ZFbg?oc=5",
       "pubDate": "Thu, 02 Jul 2026 10:00:00 GMT",
@@ -150,6 +176,19 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "COVID-19 made mRNA vaccines mainstream. WashU researchers say flu shots are next - STLPR",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc0dxajZybXVWZVI0Ti0zbExNajFTRGdCT21IUTRyeDBGQ3VTZlBzRDVZNjFJQ2F0QU9TbGhxM01ZTFdVaTlrNTZJc2FTc1BJOHBmU3lidE9wb0w0bHFKRk94YjJ6T3FGdmk1SmZjd2NlNW1rZ3pNSTY1TjNMdUM2dUZTa2F5c0loSmFSZUcweFo0c3ExcTRxaS1UQ0RzTTBwMW1tYV9SMWtwZ1h5aERhU3RlLWJzaXdQek1nQ3J4cFQweWozWEx1bV93SmR2ekpTUnJhcExR?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 10:00:00 GMT",
+      "description": "COVID-19 made mRNA vaccines mainstream. WashU researchers say flu shots are next STLPR",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -336,10 +375,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Meningitis vaccine required for Texas college students, pharmacist warns of deadly risk - fox34.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVGNuVmVaY2Qxa094UDFyNGVhV3R3QnhRSml1Nlc2dlBUTFVoaVZhelZWaWVZX00xVC1EdmtDaTBCalNfQUxHaDA4bTZiUTJUWERvSVpFYkwtVnRnTV9aUFhMMTlVWU9FdXdGOXV4S09GZTcxaE5yNzRwbkxFSURaWGR5ejFjb3d6VThKNkJFOXJHZGxvSERFZ0VCOGJKdllvUmk3Ul9zdVFNeU9lXy1tc1MySQ?oc=5",
+      "title": "Meningitis vaccine required for Texas college students, pharmacist warns of deadly risk - KCBD",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUXFYMmk4WnhtOTJpZlJ6V1FyZ28xM1ZYalVKNkZ0STBPT1RuQmh2WWFNbWFFT3RPb0xhcGg2cGhJSWZXN3hBOEZBTDJWYlF5Qml3NXZ1bTg1QVBOREVjWF92aElMR2hGbjd4VkY3bHRxRWV1TGtySUZUeXhMMTJtcWdob0VIaDdpaEhzM1hCcHFXUE5PbjNjQmlBRmxtY2pxTWZBV1pqQ29YQ19hZ2ZMRzRB0gHGAUFVX3lxTE81aC0wbWZNbWdmU2dobDh4LV9fWVVuc1M2VEdqRlhaLXlteGxyVjVGcUQtVHBIWERMeXgzbjhLWUxYU0Zhdy1IbXpLQUNMMXZWY0xaTmxNNl9rVXBLYmstYUQ5S0k0S3pnY1pTYy1NVkJ2QUFDSjl1dXQ1TGpYNzU3STF0MmxUTjNfZHpGdG5hWmJpVXJmNHkxX1pxLV9xZ0F5N0tlMjRqXzJnb2d5OFA2eGw5akxoZmRQUWdDRkthaTZGQjBZQQ?oc=5",
       "pubDate": "Thu, 02 Jul 2026 00:59:00 GMT",
-      "description": "Meningitis vaccine required for Texas college students, pharmacist warns of deadly risk fox34.com",
+      "description": "Meningitis vaccine required for Texas college students, pharmacist warns of deadly risk KCBD",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -397,19 +436,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Moderna’s mRNA Flu Vaccine Needs More Than US FDA Sign-Off To Reach Widespread Use - insights.citeline.com",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTWhnYXhrSk03YWY2U3gxTF9SLTZfaWRYdkxIYmJ0VXpLbTBRNU9tblVjakd2ZlNkLUloWDFNU1V1VmZzY1VXZkdDSWNYeXFHUlBNOU1adzZDblF5eS1aZnZWTDRLcUt6eFBjQVRVa1dUTTE4cGM5bF9uNkYtejVKQnJ3WnRxWkFyeldqcDhKRFRSR0UwaHMxZW8xMjh0NnhSWkZYVkNkcWdqZ2RrQXJNb1djRGFQVGxMS0JZcEpBWVRFRjJCVWI2MTlQd1FyOG0wOG8xTkVOZjNLY2wxQ2VCWjkzYTlIN3NFLUJEM0JmclR6dlY5Z281MUFBMGJhd3M?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 22:16:45 GMT",
-      "description": "Moderna’s mRNA Flu Vaccine Needs More Than US FDA Sign-Off To Reach Widespread Use insights.citeline.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -540,6 +566,19 @@
       "sourceLabel": "News",
       "vaccineKey": "flu",
       "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Efforts to end school vaccine mandates hit a wall in Florida - chronicleonline.com",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQRGc1RGp6eWFKQkFXaFJ6aF9Qbncwc0JuTHhZSnVUVHVzMXNOQVk0MmVmc2VlamNyRkFkcmpHTmZUeHBZWWN3eE1GMzZZR0tZY3FoaWxjSi1yUm5OMzJQN1lER0RMWFpXc1paOS03R3l2R1NWczdxOFhUN2xuMm1aMDYxVDdCSGR6SDJjUHh4QjlncDFRdVJCZkRmVDY3Y3NDSzBSNHh2eVIyTDliQm5FNnoxdFRFb0x4Smc5aEtxNVJxRzBLc1piT3hoaWphci1fYXVHRmdpbUpjaEpQSElRZXRMTmNRbHJOd2YzMDNSVUEwb2lZMy1YQ0FR?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 19:07:22 GMT",
+      "description": "Efforts to end school vaccine mandates hit a wall in Florida chronicleonline.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1090,6 +1129,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Anixa Biosciences secures Korean patent for breast cancer vaccine - Pharmaceutical Technology",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQclRBWmxMWmVzeTBJQVFUemtMdDdyVTRDWlZhc0Y1Ry1pTHlvVnpZWjF1T3Z6NVVBM3kyRWRoN2tnZGxvakpnT0VzUU9BUkpZSkJxM2RMYkI5dHNvWFdoa2NOLTJndkxnQWxNcHlieTk0eFVmM2JPZEFDeW43VzgzVHctWkY1ZFhYVVlGaVAxUDJwYVU?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 11:55:50 GMT",
+      "description": "Anixa Biosciences secures Korean patent for breast cancer vaccine Pharmaceutical Technology",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Castro pushes to restore military flu vaccine mandate after outbreak at JBSA-Lackland - kens5.com",
       "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxORkl6R1Y2SGpEOEt3eUprZ2ZheW03QmhZZVptQ0ktQWdXaFFBOUxhTzlYSVE4ODZWMVF1QUlYb0NLQnNYenNxS19MSENZM1pUTDVyVE1yTGlIT0VqVG1IcnMzUmFqSjQ0ZzJua05LaWlCQkZ1ZTNtMnZrSlUtVFhTcEl4d3FZS3o0VHRfZmRsR2V3NHowMWwtNGJrUm03YXljYW1seEtxTXU2SUdONGF1T1FKN3h1Z0hhX0FjNnF5NEZBOUhmdmlSRWJyQXBDV3RjSU84aG9ta3lOdUtsS1ZXamJwVlJvQXl5d212dDRJMFlfMkpDZzBjNjIxTncwNmNCQUZna3g0cmRudkRGYkc1SUQ0TWVjRldJbFhuejgzeWUxX2ZxeGJiWmJyS1g1d0lWVEhtVUVOdE5Bb2MzREttbWNTdTNleldsRDFzdUxn?oc=5",
       "pubDate": "Tue, 30 Jun 2026 11:11:00 GMT",
@@ -1172,32 +1224,6 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSWxONW5NeUdsVG4ydjV2UnFYQlBsVnNoTUpLeGxzTFlVTmNneEVOT2o3amJLeEgzcGh6UWZralBBQUlmNkpBMzdvR2JhVWxjSHp6TjJmTGhna0JyZkNFU0JVMThqX05sbFc0aW83MGlBNFR0ckRaWlo1VFVIaXBSMlNZVFpQWDJoWmg5VnNMVDBOX2ZFSHl1Unp3?oc=5",
       "pubDate": "Tue, 30 Jun 2026 09:01:18 GMT",
       "description": "Would Hunters Take a Lyme Disease Vaccine? We Asked KFF Health News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "“No need for repeat shots” — “Just once is enough” a mussel-inspired vaccine aims to close the immunization gap - EurekAlert!",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wMFRDeElfWFdFSlJIRFJqY3FfMV84alY3TF9DbEx4bTF5eUJjbUZiT3YtYjdYczVwTXRZTHFGdTZmME55MmdkWUVSTXVEbTl6Tl90aTZWOGhzUnF0?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT",
-      "description": "“No need for repeat shots” — “Just once is enough” a mussel-inspired vaccine aims to close the immunization gap EurekAlert!",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Efforts to end school vaccine mandates hit a wall in Florida - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbUZXOXZ3bUdjNUxDbDVVb0tSZHN4NEdJTGxyUUVMZTh3eER6VmVpVXNMZTAySmRFZFRObjNfczhkS2F6S2NZSFd1VkNoWl8ydDBCRkNVWkZGeEdxbk5hMk1jWnZJRjZfeUVPaTlpWmxtZ2IxRG1yTW00Um5JamNuYVIzYThOVXM?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 03:00:01 GMT",
-      "description": "Efforts to end school vaccine mandates hit a wall in Florida Medical Xpress",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
