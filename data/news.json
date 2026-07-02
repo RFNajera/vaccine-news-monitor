@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-07-02T09:32:22.526Z",
-  "itemCount": 93,
+  "updatedAt": "2026-07-02T11:18:44.422Z",
+  "itemCount": 96,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 9
+      "count": 10
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 9
+      "count": 8
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 6
+      "count": 8
     },
     {
       "key": "hpv",
@@ -25,7 +25,7 @@
     {
       "key": "hepatitis",
       "label": "Hepatitis",
-      "count": 1
+      "count": 2
     },
     {
       "key": "meningococcal",
@@ -36,6 +36,11 @@
       "key": "shingles",
       "label": "Shingles",
       "count": 3
+    },
+    {
+      "key": "mpox",
+      "label": "Mpox",
+      "count": 1
     },
     {
       "key": "rotavirus",
@@ -50,10 +55,127 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 49
+      "count": 48
     }
   ],
   "items": [
+    {
+      "title": "Omnicom Health Hong Kong Turns Cantonese Opera Into a Lesson in HPV Prevention - Little Black Book | LBBOnline",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51a01KUUVLNlpGcWFsQkQ0SWtiaGdyT1NlUmY4XzFPZHRmWl9ZY1h0NDR6UnlOUVRnZkVvVkJPODQwVl9yYUJYYk8zaE1UcXdLcWZSTGZJZ3I2dmctYUlwUElHRThLcWszLXRfOGg4SzM?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 11:14:37 GMT",
+      "description": "Omnicom Health Hong Kong Turns Cantonese Opera Into a Lesson in HPV Prevention Little Black Book | LBBOnline",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hpv",
+      "vaccineLabel": "HPV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "St. Luke’s asks parents to take extra steps amid Pa. measles outbreak - The Morning Call",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONlZ3YWdzRWNDRHVZRFNoRVl2eXZzaXc0bkpLc1F0VC0tOGd4WVZyRWFISUxhWldzYndFbEdKdDFoeGZEbUs2eExfaUN0UThpLURucklTbS1IYjRfNWhXNUgzRHhPSEJpRzhsTWgxN3JhNHV1OTRIV3d5ejhpSmRJR01udThYVkRtcjVfMjFUeTAzckg2bFNTeTBrdVJyWjROT0E?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 11:01:28 GMT",
+      "description": "St. Luke’s asks parents to take extra steps amid Pa. measles outbreak The Morning Call",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Vaccination rates in Texas schools have been dropping. Look up the latest vaccination rates in your district. - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeWhxc296NDFWUWROT1B0N0JyRG1Nbl9RRzF2RENxWWY5S1Qyamh2RG1JNTRtb2w4Mlc4YnJZM0tqR2pLdVRUV1N0OTVpQ1JkZGhlTG15NUFuUkpsV2gtR29tdGRHX1B0R3dXWHh1UjZFMXNycVdTWGtGUzVqN0dvSkpDMEtkamUtdGctWGRB?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 10:00:00 GMT",
+      "description": "Vaccination rates in Texas schools have been dropping. Look up the latest vaccination rates in your district. The Texas Tribune",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hepatitis",
+      "vaccineLabel": "Hepatitis",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Health network urges early measles vaccine for qualified eastern Pa. children as cases rise - Lehighvalleylive.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNTFfaDBzNEh3elJ3Y1Z5SW83eUFKUmk2SDllbXFOU3A5cDhkY1phTzlkdGVveUQ1cWxaSFh2d2NCX0ZLR21yZUwtX2tTaE55UkdaZVJ6akJqdzE1NFBlNldjX1FEdjJ5bnZuTktTbHFCR2JlNTR3clBBYVF2dFgxMC1YbWF2MXhlcmJRT2E4ajNmQkQ3ZUtjdTZHN0VORGp0bFJhRS1kNW5RNDIxelVNUGNHSE5XeW1UMnVodjc1eEZabm1SZTNyaTNQQ2pWb1JvVGgyOE01cGo?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 10:00:00 GMT",
+      "description": "Health network urges early measles vaccine for qualified eastern Pa. children as cases rise Lehighvalleylive.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "COVID-19 made mRNA vaccines mainstream. WashU researchers say flu shots are next - STLPR",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc0dxajZybXVWZVI0Ti0zbExNajFTRGdCT21IUTRyeDBGQ3VTZlBzRDVZNjFJQ2F0QU9TbGhxM01ZTFdVaTlrNTZJc2FTc1BJOHBmU3lidE9wb0w0bHFKRk94YjJ6T3FGdmk1SmZjd2NlNW1rZ3pNSTY1TjNMdUM2dUZTa2F5c0loSmFSZUcweFo0c3ExcTRxaS1UQ0RzTTBwMW1tYV9SMWtwZ1h5aERhU3RlLWJzaXdQek1nQ3J4cFQweWozWEx1bV93SmR2ekpTUnJhcExR?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 10:00:00 GMT",
+      "description": "COVID-19 made mRNA vaccines mainstream. WashU researchers say flu shots are next STLPR",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Measles vaccination rate for Texas kindergarteners increased slightly after 2025 outbreak - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdndFX0dLY1laYXN4dnhDY05JZFh4SEkxZVF6S3FxbmhfUHc1cGRSekhUUWpBOW9SSWxWNU5vWXBobFdiU3FJdHZBajBwRTh6NmNjYThpM3djRGJ1b0JqeXBmaHgzMUhwNlJLdWJOdGhRU2pFRlNlNndCQ2dNRU4xbkt2VzNNd1FXSHI3TUhJSkJIVTJlV1ZFbg?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 10:00:00 GMT",
+      "description": "Measles vaccination rate for Texas kindergarteners increased slightly after 2025 outbreak The Texas Tribune",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "CDC leadership continues to try manufacture a scientific debate on vaccines where none exists - STAT",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORXp5RDVmNWQtT21uNkh6bE5TZk80cnVYZWF0Y1RaZzhGOG1wUlpMbTJadXdWajRsXzVMR1JEYXpsUFFGakNCUTd5OXh6ZHNucmZ5eGJ1dGJIUl9pb3JtLUw3RVh4QjAzY3NsWEJtWXlwcGx3U2cwSkp1X1JIcE5qWW9FX29GbW43UklmV1VaZVFsOGVWd1Ftdg?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 09:56:15 GMT",
+      "description": "CDC leadership continues to try manufacture a scientific debate on vaccines where none exists STAT",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Ethiopia town kpai at least 400 dogs ova deaths of three children - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yUWU4ZXR2WXAwMXJsUVQ5VXVBQ1J6bUl0YnFoNTJNNlVhd2lvZlQ4a1N0Z1AwTHNaZDBNSnplaU8yUzRMeTc1cTFVRTVDOWhsalh5R1kyM0xpcFlq0gFiQVVfeXFMUDJfWkZtUTU3dGczSFZuX01xUlh1ZmIwelU5UEdINk9Pdl9JS0wwVnBOVXQ2SXlCUmlFNUhlYl93UklrSHh3OXVUVUVocGUtN1ZKVWdpc2lkU0VoeUtzeTNyNlE?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 09:53:57 GMT",
+      "description": "Ethiopia town kpai at least 400 dogs ova deaths of three children BBC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "More than 20 mpox cases last month in NI - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPLVo2YXRuSHBTWWVpX1V2Vl9jWEdqcGwxOHNadWx2MkNIYWM0R0QyZjJEZ3hsRDBZanhHYU5JUGJZVUtHclBCS2FKQkt0d3BsZG1PVXJUUUx2UQ?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 09:35:20 GMT",
+      "description": "More than 20 mpox cases last month in NI BBC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "mpox",
+      "vaccineLabel": "Mpox",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "A Singular Approach to Combatting Infectious Disease - The Medicine Maker",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY3hKbjZrZUVTLWlWQnkxalNXS253RkFCZVhTOFA1dmxJcXNuVkQ0R0FUSEQ5M1hkZmdaNkJ4RkR6RG93MUlDcVJXMjhZdk5qSWxjaHgtTW5nM2hITXlzOUJhNURjc2RwejBmRl81UmszM0RtMzBWVFd3VGVSS0w5emxpWDBnTi0wTFplOFFrc09WM1JRbDk5amRWUl9RY1V5ejQ4M3Y0SWZDZkJn?oc=5",
@@ -146,17 +268,17 @@
       "articleLabel": "News"
     },
     {
-      "title": "SK bioscience Leads Gates-Backed AI Vaccine Platform - Let's Data Science",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdFZleVlPdlRLNmkzZDM4b3BDNDR3NWZaMm5wZFFwaGd2YTBMd29fR182Y0JCT3BNdjBzZ3U0eWEtTnk1QllYVDV5clhLdnc4ejlEU0lLM3MwZlVsMXhUUTl4YmdXYm1BRHZmVU1FRFYxbEh2dVp3My1ZWmVIclMybEtqTXg3aFdsNy04b1pUelFHcmVCYmcwc3FR?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 04:07:03 GMT",
-      "description": "SK bioscience Leads Gates-Backed AI Vaccine Platform Let's Data Science",
+      "title": "UMass Chan research shows exciting step forward in innate immune stimulation and vaccine platform development - umassmed.edu",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTTlMNmhKc3BSQ1ZHZnN6d1dpLXdkY01Vbk5wVWZEam80RUctbzIyVjBvajJreV80OWludDBYbXNFUW1ZZmVvbmhFdFRTX2c3Tzd5T2FMOUtoX0lLZWxmNEFhOHZfbjFQb2FVdnFjUzRtS1ViZTV4MFVVT0lGbGw3Z3N3ZWRybWxDcDR5dzVESFB5ZExJM1JWY3lJdk1LejhhSGFZcm8zdjJqZDloTUVJZ2FNQ0VObDBoRkJZX2l6aDJkN3dKMDBYOE1hdEFXUkEtYTlDVDdTa2MtZy0zTkc2MVJSNmRWVEtoREw0eDR3?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 04:16:20 GMT",
+      "description": "UMass Chan research shows exciting step forward in innate immune stimulation and vaccine platform development umassmed.edu",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
+      "articleType": "research",
+      "articleLabel": "Research"
     },
     {
       "title": "SK bioscience, Gates Foundation to launch AI-driven vaccine platform - The Korea Times",
@@ -341,19 +463,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Democrats push to restore flu vaccine mandate for troops amid Air Force base outbreak - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTHl4dDQxbzdiWkNQOGdMOFdvX1RTNVpkQ3VfejFPV2R0QjRZZEsxdndzRkxrVER2QkVwTUx3UmZLZURkdmt3dFhiNV9EbWJ6VEx1U3FTSG5sOE1tSC0tOGxITldSVzJCMlBfOXRHeU9vdmdGTTAtdWNhbnRETVpVOWdHalVhemMxWmdHLWhxZE02QVhJYlo4QUx3?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 21:56:43 GMT",
-      "description": "Democrats push to restore flu vaccine mandate for troops amid Air Force base outbreak Yahoo",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Air Force trainee in San Antonio, Texas, died from flu - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc0NZbWxiOF9qQk9QWlljQXpzN1YyQ210Q3AzcG81TS1ZRENmODJtQjd5YmV2Yy16SEptQXp6d1JpbzF5WXF2Y3VOVm5ZZThiV0c3TW44ZkltTHBsRlVqdEhCNjVDa2o5ZkJYSm9TTDFQODRyWTQtdWN2U0tBQmRLeEZXZzc3emVrUVI2S3dKM01iU0xL?oc=5",
       "pubDate": "Wed, 01 Jul 2026 21:47:00 GMT",
@@ -454,19 +563,6 @@
       "sourceLabel": "News",
       "vaccineKey": "malaria",
       "vaccineLabel": "Malaria",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "What to know about Maryland's new laws taking effect July 1 - WBAL-TV",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zSTg2cS1KYlJUckhyRS1hUkdEcVhyNUpZS3lRUzJvY2Y0bHIzUEhqYmhtamRnVU1FR2dmT2Y0Q25PUHZjTGJMei1sZVoxZHYwbngycE9INWdxdHF4UzNwWlg4U2hpZklRb055OGVPMFpaYk9Cdmc?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 18:28:00 GMT",
-      "description": "What to know about Maryland's new laws taking effect July 1 WBAL-TV",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -597,19 +693,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Abortion medication, HPV vaccine laws take effect Wednesday in three states - Perryville Republic Monitor",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaHFqbEVMMG1TLW5hWGZaS1EyNEFfRGFBX1FYWkxOSERDeEFIaFdjcktHMmF0WlI4dEtFSVVXQUFPX2FjVHlwS1Q3TDBEZ0hiU3BKLVphWDZkX2ZEOEhYTzE4RDcwTTg3Z0xzR1ZQTDZCeTBHbGc4eGNmaktXa3RjYUc3R0djYVkwZ3BCbjdWNTZMc3dXQzNEQWRxWDFYX3JIRU1ERWxvR3R6WWpObU5Bc3d6b01JYW51?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 16:13:00 GMT",
-      "description": "Abortion medication, HPV vaccine laws take effect Wednesday in three states Perryville Republic Monitor",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hpv",
-      "vaccineLabel": "HPV",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -796,19 +879,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Cases of Rare but Dangerous Powassan Tick Virus Rising in US - Vaccine Advisor",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN1EtRy1UMVk3bzkwZEZwaGV1UjItclVRckFnZlR0Q1N0QVpaLTRuMkRPckw3dU9kdFM4MjNwVEdPUGpycVZDcGpYbXdYaHVsemc5VFF0aGpSWWZOamcyUm1jZ1dSS3RpV0RfeHMxMTJ6MjBjV2lCc2JiclcyQ0cyMDU5cHNma2hKRDAzaFFmaGVHOTFWOXM3WkZFdmJ1dw?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 04:00:00 GMT",
-      "description": "Cases of Rare but Dangerous Powassan Tick Virus Rising in US Vaccine Advisor",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Significant Association Identified Between Hepatitis C, Overactive Bladder - Vaccine Advisor",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNalRQT016b1BVbjk4YWwyOFJZVVVObEhwZ24tMlhoVVVNSUx2aFRpQXVuMkptSW1FUi1VRnlSNmdXdjhFVW0wVnhTS2pFenJaMnpXdTk5VzZrd1NZbDMyTldJT0Q3T2xoSjlBeEJFeUhWbjExdzYyWjBob3IxcGtpQzVLazNnRDR0cEs2QWNfaDJ1M2RXQ0w3R05SWHduR19uTVM3TGhyTWdnZWdhLUtN?oc=5",
       "pubDate": "Wed, 01 Jul 2026 04:00:00 GMT",
@@ -818,6 +888,19 @@
       "sourceLabel": "News",
       "vaccineKey": "hepatitis",
       "vaccineLabel": "Hepatitis",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Cases of Rare but Dangerous Powassan Tick Virus Rising in US - Vaccine Advisor",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN1EtRy1UMVk3bzkwZEZwaGV1UjItclVRckFnZlR0Q1N0QVpaLTRuMkRPckw3dU9kdFM4MjNwVEdPUGpycVZDcGpYbXdYaHVsemc5VFF0aGpSWWZOamcyUm1jZ1dSS3RpV0RfeHMxMTJ6MjBjV2lCc2JiclcyQ0cyMDU5cHNma2hKRDAzaFFmaGVHOTFWOXM3WkZFdmJ1dw?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 04:00:00 GMT",
+      "description": "Cases of Rare but Dangerous Powassan Tick Virus Rising in US Vaccine Advisor",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1069,15 +1152,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "Vaccination is best protection in Pa. measles outbreak, experts say - 90.5 WESA",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX3VTVWFhcmNfY19pUDk5NGVYQUdNWTdXTXdoOThUUi1qNF9BTllsLXlySEZsTzIycFZpSm1xaDdYNk1yRks1QVAyMzFrMzZYbXAyU0RoT3FlcmJUaS1YVUU2WEZZTW1FcTRNQURIU29TN1NQNEhHbDZUXzNjM2N2amp6OEVqaVB4aWFoMVVTandhUEZBakF6aGQ3bU1aT2xHdm9GOHVRbGgxVzEtcDZYckplcGtiTWRwQVJCOHd3?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 09:29:00 GMT",
-      "description": "Vaccination is best protection in Pa. measles outbreak, experts say 90.5 WESA",
+      "title": "Heat illnesses, flu outbreak in the military, a new mRNA flu vaccine, and more - Your Local Epidemiologist",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdVoyTjhGckNuVDR1dWk5SnlaSDQ0TmFiYjFCQm9xVDlsVDFoZFc2NV95dEJ5MnZhdVBIeGQ0N09QbVdEaklqczBpTDhQRUVDRzlPSVFUbWFUcFZqQWlpT2dENlFyeXZ6eVBoOTBpSEpLVXUyei1kQzdEVWV2Y2lKUlR0Nm85c210?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 10:30:23 GMT",
+      "description": "Heat illnesses, flu outbreak in the military, a new mRNA flu vaccine, and more Your Local Epidemiologist",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1184,45 +1267,6 @@
       "vaccineLabel": "COVID-19",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "The Pentagon's flu vaccine policy change created an 'epidemiological time bomb' at Lackland - Texas Public Radio | TPR",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxON0g1RG5RZnU2bEFjMWd0SlB5Vl9NRzJ6Zjc0YndIdEtFdmVZelNJRTQ3MTRLcmlDbjlnYzlyQXBrR1BJX3IwMERtaWc2NFlJUkRMSTR1NmZQWEtzSF94cGYxbm1UWmVhVi1NVXlYa2NUa1kwYkQ0RG1GWDF5Y3ZkWFdabTBVTUtqSHhKMGVCN1oxMlFjLVYzVUE1eFFjcE9aRVNud1Q0N3RLREUyR0I3WTN2cWpSZWFCTzJ5LWltamp6N2daYjN5VFVpLXhrVDNkNlRNZ1Rn?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 20:00:00 GMT",
-      "description": "The Pentagon's flu vaccine policy change created an 'epidemiological time bomb' at Lackland Texas Public Radio | TPR",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Schistosomiasis Vaccine Shows Strong Immune Memory in Early Clinical Trials - Genetic Engineering and Biotechnology News",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSnhuSXRSOHZnd2M3Rk9pbkFyaFVnRTkzTkVGZ1JDWTNxT29raFVLRjVaYUtodld5dzB1Z1o1WGZ1WXBtYmkxNG5lLUl2eDNfOU5CdHg4aDNpWE05eXZJRmljcXlSbUpieTZ6UFEtek1naWVRS3dFTGNKZ2xYdDJvNFFZdU5uWjkzTlROMkJUbTFYdk9xeDdKbHBEcHNTUmpGY0IwaElTblhpZFpYTWg4ZFJwS0NQX25ZMWJaVGxDd1cxMjdUWWRsMG53?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 19:13:54 GMT",
-      "description": "Schistosomiasis Vaccine Shows Strong Immune Memory in Early Clinical Trials Genetic Engineering and Biotechnology News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Vaccine Confidence Strategies and Emerging Vaccinology Science - National Foundation for Infectious Diseases",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMm5NQ1U1TEdIZDJ4NFpIM29rSlNTdkJwX2hQVEZ5bWotU25jWm14NEdpbzR6UFlmUmZZeVJCSGMyX0ZWMzd6ZG14enZMRmNLcjloUDRMREprYk9Sa1Q1SkRlUHBVQm1scUtoYW9hNFlaZ2diM0tlaFk4a0RibUR1WTNvV1U4TjRGOVBRVA?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 15:25:14 GMT",
-      "description": "Vaccine Confidence Strategies and Emerging Vaccinology Science National Foundation for Infectious Diseases",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "Supreme Court rejects legal battle over New York's COVID-19 vaccine mandate for healthcare workers - CBS News",
