@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-02T03:39:35.933Z",
-  "itemCount": 91,
+  "updatedAt": "2026-07-02T05:44:31.222Z",
+  "itemCount": 94,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 10
+      "count": 12
     },
     {
       "key": "flu",
@@ -15,12 +15,12 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 7
+      "count": 5
     },
     {
       "key": "hpv",
       "label": "HPV",
-      "count": 7
+      "count": 8
     },
     {
       "key": "hepatitis",
@@ -30,7 +30,7 @@
     {
       "key": "meningococcal",
       "label": "Meningococcal",
-      "count": 5
+      "count": 6
     },
     {
       "key": "shingles",
@@ -50,15 +50,80 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 47
+      "count": 48
     }
   ],
   "items": [
+    {
+      "title": "SK Bioscience to lead Gates-backed AI vaccine project - The Korea Herald",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5hR3lLbExObFllNHZRSzBnbjYwVzhZc2FNX1JNVzh1NjVfTkNKWnZiM0FNNnViejJsemR0RjNWUGN3TlJ1ZkRHaVN1V29jNmRJdlVjUjhwVQ?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 05:10:41 GMT",
+      "description": "SK Bioscience to lead Gates-backed AI vaccine project The Korea Herald",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "New Evidence Confirms the Life-Saving Impact of HPV Vaccination – ECS - Oncodaily",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95VnNjTU9CQXFBXzJMRnEzY1gxalQ5Rnl5enFQNUN0ZFpyR1g2d2k1NUlpU1pvQUd6czBBS0dGalgtOERZVmF6UVhDZldLb1hF?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 05:08:51 GMT",
+      "description": "New Evidence Confirms the Life-Saving Impact of HPV Vaccination – ECS Oncodaily",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hpv",
+      "vaccineLabel": "HPV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "SK bioscience Leads Gates-Backed AI Vaccine Platform - Let's Data Science",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdFZleVlPdlRLNmkzZDM4b3BDNDR3NWZaMm5wZFFwaGd2YTBMd29fR182Y0JCT3BNdjBzZ3U0eWEtTnk1QllYVDV5clhLdnc4ejlEU0lLM3MwZlVsMXhUUTl4YmdXYm1BRHZmVU1FRFYxbEh2dVp3My1ZWmVIclMybEtqTXg3aFdsNy04b1pUelFHcmVCYmcwc3FR?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 04:07:03 GMT",
+      "description": "SK bioscience Leads Gates-Backed AI Vaccine Platform Let's Data Science",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "SK bioscience, Gates Foundation to launch AI-driven vaccine platform - The Korea Times",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUkZBNkF2ZlpYWkNMMkprazFHQ0wwZXltQTV6ZjRybG9XVTRUSzRMbGFQUEYxUVFpNnNvQnF3NE4zQ3hCczFDdEJwVnJFSzdjZ2QxZ3VDT0RfZnNyZkdPeGlpc2FYZmtaNXFYcndZaGNPRWJfNXFWLXBWZlpvbXE3ODIybW16SFVORk9meHBOelNoZnZvTGxCd2pyYVEzNFJBeUktTF9NUm1jV19aUHhLQkF5RGhhd29IWjFlc3lyRnU5UdIBxwFBVV95cUxOcXh4QWpCaHRwbVlPRW5qRm5kR2lIRmg5MGdFRmMwYjZVMjZkUEx4Mlk2ZkpZMFZEMWwyNmt6aWU2eEt3OTgzMkNUUEVJZER0WC0wcjEtLVRsQVFfLWJsdVBfUzhobGFkS2NURTBGN1NjN0tBdlNxWG5SV2FLNDRBbUlwVlVRSjFsTXh6NVJ4aHNONXdtanE2bkllNHBiaWVpejhaZnNXTVZOUk5vT3FILXhRWkZOOW5HSTA0NnRLRHl5b1VwRmRz?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 03:57:03 GMT",
+      "description": "SK bioscience, Gates Foundation to launch AI-driven vaccine platform The Korea Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Meningitis vaccine required for Texas college students, pharmacist warns of deadly risk - WSMV",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOFRtSlVsSjNrVGRyRnNGaUtmSFJsYVgyUkNhaEZoeDRnRlQxRGxFMU83ZzZyZDVUaEMwNWMtOGx4OWc5MVdpdTZOeFRkZXBrV2U2QUxrOXVPUFIwUl91NXNtLUxtVXZ5Vjh2dG10Q2FFRm9mNzZMUHNIaThra3ZHTVNkczZodnBtNkx3NEhwd0F5WTE0b3Jrc1JTR0ZJVExlQmRQNjZTSkMwdlpMaWxkOE1pYkRRbF9nR0E?oc=5",
       "pubDate": "Thu, 02 Jul 2026 03:34:00 GMT",
       "description": "Meningitis vaccine required for Texas college students, pharmacist warns of deadly risk WSMV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "meningococcal",
+      "vaccineLabel": "Meningococcal",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Meningitis vaccine required for Texas college students, pharmacist warns of deadly risk - WBTV",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSDF5M3lPbjRzcEdBZFF0bDJPdVlrUnJVWF9id1dCVUlQdmZkVlJ6ODlSWXZBcWtSMzctR1RtOGJ6am5YaEw2WFdQczBXY0NKeExCQXNtbWRES210VU1hdnpzYllERlg0eTRVLWVfaFF0aHRjQjdyNndSblFqWTE0N3pLRUh5SXk5WVJoWEVrZjh0Zm9pMGZIdEE4STBuMERMaTl5WDRYTENkRUZhUXVQd19kTFpDREFEbVE?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 03:34:00 GMT",
+      "description": "Meningitis vaccine required for Texas college students, pharmacist warns of deadly risk WBTV",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -146,19 +211,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "SK bioscience Launches AI-Powered Initiative to Reduce Uncertainty in Vaccine-Development Decisions - Businesskorea",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVSzFkWmJlWjAwMGlPT3l2aEFIak16WDQyRHpYdXYxTlNlOF8yTHpldU9mc04ycUNva3lZWHAwZWJ5MDBpeFlCSDl4OXBYVk12bThzcVN4LS1DNDktWFd0SFpEVU1QUUlXc1g5NnV3a29BaWR2?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 00:29:27 GMT",
-      "description": "SK bioscience Launches AI-Powered Initiative to Reduce Uncertainty in Vaccine-Development Decisions Businesskorea",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "The HPV Vaccine Has Cut Cervical Cancer by 87% in Three Countries: Here Is Why That Outcome Is Under Threat - Medical Daily",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcE1lYXZhdGZpOTJfTDdhblptbURWQ1YzdndwWUlfcFdaY0dSTm56M2VXbWpTNUwxNFQxTmdmRE5FX2lYblo0d0JkVl9GVFhmWXp5M2k3UVdpdVdBbXNicFI5NEtwaHBpcXl6QkVnZzBEMTVHUVhpa3hpRmJBeTA3UkVsWHJkbi15US11dnBtVTNUM0cyM1Axd016b29DYWRBamJn?oc=5",
       "pubDate": "Thu, 02 Jul 2026 00:00:08 GMT",
@@ -172,19 +224,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Study shows shingles vaccine may lower dementia risk - WANDTV.com",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR1NuM1dhN1kzcEZIWEIxVXBmTkVmUlNWN0hKTGp1SG0wYjVnaG1jRXpRbWkycl9sUjIyOEJ5UVF0Z0U0d1hlSDI5SVNPT2dOdXdmd3R6TExVZWd4bFRFSXd5UWtPdHBYZGRzaVVkOVBhZE13RHUwemh2QU95M1lQRXFnMFFUS0NSdFNEdzV0RzZLSjVpNUZFbzc0NXBCejgwWU1LZlZHc3IzX3NiUXpKcXp5aUdzRy1xVmRwRTVUWDlHM1hKNkxDRGxuZFVxSVB3?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 22:47:45 GMT",
-      "description": "Study shows shingles vaccine may lower dementia risk WANDTV.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "shingles",
-      "vaccineLabel": "Shingles",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "Moderna’s mRNA Flu Vaccine Needs More Than US FDA Sign-Off To Reach Widespread Use - insights.citeline.com",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTWhnYXhrSk03YWY2U3gxTF9SLTZfaWRYdkxIYmJ0VXpLbTBRNU9tblVjakd2ZlNkLUloWDFNU1V1VmZzY1VXZkdDSWNYeXFHUlBNOU1adzZDblF5eS1aZnZWTDRLcUt6eFBjQVRVa1dUTTE4cGM5bF9uNkYtejVKQnJ3WnRxWkFyeldqcDhKRFRSR0UwaHMxZW8xMjh0NnhSWkZYVkNkcWdqZ2RrQXJNb1djRGFQVGxMS0JZcEpBWVRFRjJCVWI2MTlQd1FyOG0wOG8xTkVOZjNLY2wxQ2VCWjkzYTlIN3NFLUJEM0JmclR6dlY5Z281MUFBMGJhd3M?oc=5",
       "pubDate": "Wed, 01 Jul 2026 22:16:45 GMT",
@@ -196,6 +235,19 @@
       "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
+    },
+    {
+      "title": "Study shows shingles vaccine may lower dementia risk - WANDTV.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR1NuM1dhN1kzcEZIWEIxVXBmTkVmUlNWN0hKTGp1SG0wYjVnaG1jRXpRbWkycl9sUjIyOEJ5UVF0Z0U0d1hlSDI5SVNPT2dOdXdmd3R6TExVZWd4bFRFSXd5UWtPdHBYZGRzaVVkOVBhZE13RHUwemh2QU95M1lQRXFnMFFUS0NSdFNEdzV0RzZLSjVpNUZFbzc0NXBCejgwWU1LZlZHc3IzX3NiUXpKcXp5aUdzRy1xVmRwRTVUWDlHM1hKNkxDRGxuZFVxSVB3?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 22:14:06 GMT",
+      "description": "Study shows shingles vaccine may lower dementia risk WANDTV.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "shingles",
+      "vaccineLabel": "Shingles",
+      "articleType": "research",
+      "articleLabel": "Research"
     },
     {
       "title": "How personal waivers impact Wisconsin's vaccination numbers - PBS Wisconsin",
@@ -220,6 +272,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Democrats push to restore flu vaccine mandate for troops amid Air Force base outbreak - yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTHl4dDQxbzdiWkNQOGdMOFdvX1RTNVpkQ3VfejFPV2R0QjRZZEsxdndzRkxrVER2QkVwTUx3UmZLZURkdmt3dFhiNV9EbWJ6VEx1U3FTSG5sOE1tSC0tOGxITldSVzJCMlBfOXRHeU9vdmdGTTAtdWNhbnRETVpVOWdHalVhemMxWmdHLWhxZE02QVhJYlo4QUx3?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 21:56:43 GMT",
+      "description": "Democrats push to restore flu vaccine mandate for troops amid Air Force base outbreak yahoo.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -315,6 +380,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Interview: Donald B. Middleton - EMJ",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYjloS1h3bkVKWjh5Tm9pbzNHbk1IZnY1cTlwVVozWklvZFI2LV9GVjlQWkllcFNDOGpCMVFfVlViRGhWV2l0MXNqVTBLTDdxaFdyeV9BR013U3NTWWdkZTVKcXFjSy0zRm1JZnI4NTRpNHFFVHE5WTVBWjgwU1M2cTdndXRpS2RDMnhv?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 18:30:23 GMT",
+      "description": "Interview: Donald B. Middleton EMJ",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "What to know about Maryland's new laws taking effect July 1 - WBAL-TV",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zSTg2cS1KYlJUckhyRS1hUkdEcVhyNUpZS3lRUzJvY2Y0bHIzUEhqYmhtamRnVU1FR2dmT2Y0Q25PUHZjTGJMei1sZVoxZHYwbngycE9INWdxdHF4UzNwWlg4U2hpZklRb055OGVPMFpaYk9Cdmc?oc=5",
       "pubDate": "Wed, 01 Jul 2026 18:28:00 GMT",
@@ -380,19 +458,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Bangladesh Measles Outbreak Tops 100,000: How Vaccine Bureaucracy Killed 716 Children - Tech Times",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOU0hoZ3JKSURwT0c0MVh4RV81TUoxVWlUeDhDTnFJTm9mbnNHbXNoZVBJWFRGb3NXX3NYSVNwNlB5bHFuQlRHcHRqSHhxQ0M1bUQ3bFZ1VHpGY1h0bTNleWx2aVVlLWtDNUNhckk4ZXpVT1NtclZVSG1qMGM5U0RBaGxRUzhpY3J1QXJaUURPRTNsbUJFWENrazRMTDVCNThkRXJucng4OVJmYUhpMklDMVJVVGJZdkkwMnBsNTJDWmhPU1RjYU4wLVFLbEhDSXhFTUNHTw?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 17:58:10 GMT",
-      "description": "Bangladesh Measles Outbreak Tops 100,000: How Vaccine Bureaucracy Killed 716 Children Tech Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "mRNA Influenza Vaccine Advances Against Multiple Strains - Contagion Live",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa3FOZ1RTNUFpTlhOS0V4MWlxY1FjY0xXZnRlS2oyOGRRb3BNWjdWTHF0VmxSNjhvX2FaZUUxVlg2eDdLRVBvajRGQXdFWUQ2NTllM3hpWElKQU9xc0xXX3hfR1RNNXRfZkJFb0JqczI0YTdzcTVXa0pVaFBjSkpLZHBWelltaE1uN0k3NHd3U2FfRmQ5V0E?oc=5",
       "pubDate": "Wed, 01 Jul 2026 17:22:54 GMT",
@@ -406,10 +471,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Community Corner: Coastal Health District offering summer immunization and screening clinics to help families avoid the back to school rush - Yahoo",
+      "title": "Community Corner: Coastal Health District offering summer immunization and screening clinics to help families avoid the back to school rush - yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPXzZHUi1oT0tPNjkzclhJOFM1WUp0Uk9LUVF2RmpyVmNJMDloclRlNHZGeDNwaVMwN19kczJaLVVzOEhqMWxZRXZZUHUzbVJkdkp1ek1rQktUdkdpN0xDbzBqNlVvLW94aWZZN2ZKY1BuWFR6eGVhUF91M2dDc0pOcFBNby1uV1NycGNKVkZyTXBITnFoeHltSDhn?oc=5",
       "pubDate": "Wed, 01 Jul 2026 17:06:27 GMT",
-      "description": "Community Corner: Coastal Health District offering summer immunization and screening clinics to help families avoid the back to school rush Yahoo",
+      "description": "Community Corner: Coastal Health District offering summer immunization and screening clinics to help families avoid the back to school rush yahoo.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -510,19 +575,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Two New Scientific Reports Identify the Real Obstacle to Stopping Measles Outbreaks — It Is Not Just Vaccination Rates - Medical Daily",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPalZkVlFUajF5dW5WQTFEUGR6YzhoV3N0blBvRWxJQjVTWUZmckJPRnpmazI5RjZzUndxQVMtUlEtWk9KWUFRR3NTdEd2TUZOUncwUGxtUEo5NWxfbW9IZlpSMkVvaDB5Z1ZEMlU5ZzFTVFBWbkp0NVFrbjdpbWEtWGtWRThMWG5WeVVUS3JkWEFDZzR0U2RlZDBsYw?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 15:01:08 GMT",
-      "description": "Two New Scientific Reports Identify the Real Obstacle to Stopping Measles Outbreaks — It Is Not Just Vaccination Rates Medical Daily",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "WOAH issues field guidelines for African swine fever vaccination - The Pig Site",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNldNRWFFM1NvdERQRUxmbnNtdUMzQVRSOExiLXYxcUpfZFN6M3BkRU8wcDhCaTlvRFBfUEhPUGRKTVZqOFZmeDY4eEI4djRnQ2xBelpZR3NpMFk2aXZ4SEJORF9SS3hRdlBUemZKV3V1SGZELUlRWVNrUDduZV9HNzR6cVpMTk1Hc1Jua3NhSnR6OE9OaEZJVnE2S1I4WTc2MXJyNXNUNA?oc=5",
       "pubDate": "Wed, 01 Jul 2026 14:47:00 GMT",
@@ -575,19 +627,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Feed-based oral vaccine shows strong protection against NNV - Aquafeed.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTmh5WG9EV0pyODRRRWlaWUhBYmNjZTVfUDVCTF9LVDlRa2w0aE8zbkJJY1pOMDFxeDJmazJfYmY1NThDc09OWHk1bGtwSnlOeHZUUHlvcVRaMUY4MXZwZEVRdF9ydHZEZEVpc0pmX0ZnMVowclBGbVpaOW1aTjQyZDFYckM4dW1sSFphZGpiTGx2LUhBbW5zeUdMbDhIUm1t?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 12:32:47 GMT",
-      "description": "Feed-based oral vaccine shows strong protection against NNV Aquafeed.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "COVID-19 vaccine boosters may protect against future animal coronavirus outbreaks - News-Medical",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM3VXTVVneUtGajdjdF85MUpxRmRGZkhLOWp0QVMzd01kMFdfd2puTTFybnV3eEZFa1Vvb1kwel9CZjR0SE9fRVNEWGFRS0RXNk94VzFTNEE4SHQzWTFiTU9GZm5DWWd1NTdqLW5xOV9ISUpIUnBMM1g1b3pqTVJnc3dpY1pkMmJ4T2toNFQtVEdqcDNfMmpSaFZkLWNSWVlNeEE5LWxFUDg1NUVCbmZMWldkdElDZ013NkN6SkFRQUdiRTJlbDVzOQ?oc=5",
       "pubDate": "Wed, 01 Jul 2026 12:25:00 GMT",
@@ -602,7 +641,7 @@
     },
     {
       "title": "Parent and Caregiver Willingness for Childhood COVID-19 Vaccination in Urban Uganda: Applying the Behavioral and Social Drivers (BeSD) Framework - Cureus",
-      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPVVAxeFZXNk1XQzJjMkVGWFhPWGRFUkMwamRiZ19lcl9NZWdhcEZobWVvdkx3Snl0YzdkelJTb2Q0THdrSUdrT3h0YlZvX3loTjlhcVJMc08tRi1FNnZGTGtna3luSVg1ekFHa1RaRUlXSUF6b2dIQlBabG9fNWJTMWFNaS1mS2pZN0hIbFN1b3ZwUG1PbzhMTWxqVmg4Q0JMT2tBZ3d4eWRvODR4SWdSUUtQdnd4VmZ3bXVRMElBZFd0S0lQdGFTOFJvTXBkVHlReXJUdXhNbnVIcXRUOFV3MzA4aFB0NDN0RTdTV1p0UG5tWHZBa2FxRHRWQzFsbk5Xc3E5akY5OVE4djhiaFM4MDVidUFxaEpnaWVBa0RCbmZ4dXNBT2c?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNUS11VjBhdHVnUzFkdERvZ1k2MlpKWjM1TXNtQldMTXNtUWRfZFZoVmFwQUE1NUFWQkM0b190dERUUlpwakZ1MWpkUW95X1RvTi1KRGpoQnpSNHNtOTY5dU8zNFRkREt1cVVDOGhLaEloTFo5VmtYOGVxalBCLTUzSk9WWVV1NndOb2s0TnVzSjVtNkluUVdnWi1kTTJLSWpXVndpc0pLdnJiQmVEZVZ2dXJoRGpjZ2FPODFVc1VoanJDNENmcGdZZ3FwMDhIeUxzZTZ2VE11Z3ducC13S21lNGVzOHBYQjQyWmJrdkl3eUQ1dzBMS0tLNGdDMi04WVJocm93eG9OVWNTZ1B5?oc=5",
       "pubDate": "Wed, 01 Jul 2026 12:15:52 GMT",
       "description": "Parent and Caregiver Willingness for Childhood COVID-19 Vaccination in Urban Uganda: Applying the Behavioral and Social Drivers (BeSD) Framework Cureus",
       "source": "news.google.com",
@@ -952,19 +991,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Billions of mRNA vaccine doses’ review underpins their effectiveness - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV2ZaeTF3VG5wUDlFclQ3SWZGeUZtUkIxc0tjdUI2ZFFtTkFQRTdwQXN5V1N2MGJvRnZCTWlZZ1hjTW8tNGc4dXNYTGpLYVZUUmRxclFETnVIQXBkT1Rya3BBRlEtSENGbXpzbnlTeXRWTndqRFBJNjNYd1ptUUpvLW94REJpTjhiZTh0TUV1bW1VYmt4elBpTXVTc0FmOGFjd2NKWGR5eVRBMUdiZk9F?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 14:48:53 GMT",
-      "description": "Billions of mRNA vaccine doses’ review underpins their effectiveness Euronews.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "The HPV vaccine works – but only if we keep trusting it - Gavi, the Vaccine Alliance",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMU8yekJRUktXeGowdkhCRVBIYktTX0djRl9XeURqRGF4Y2VmcDlBVW1KaWp2aEI0OWFwajBIV01vX29TTm93bDFUT2lOZ1FmMG1HdkFDQlJnN0F3M2lFZE1SZnotd29sTTZMV1ZtaVZ3Tkx0OElQZkRaYVVrRWFaSmlDNjVqdw?oc=5",
       "pubDate": "Tue, 30 Jun 2026 14:27:39 GMT",
@@ -989,6 +1015,19 @@
       "vaccineLabel": "HPV",
       "articleType": "news",
       "articleLabel": "News"
+    },
+    {
+      "title": "Major Study Supports Same-Day COVID-19 and Flu Vaccination - U.S. News & World Report",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU1BvbTVKYVUxX0JYVXNFWGpvSmF4MEhEQ29sZjNGX3FpM2Y4RTJMblRtMEJNenpVX2V6NHRUQVVST2ttdGxkN2haRzZlWW9lVWdzYWN2eWgtelhKRzFwTTFEZjlnb1Voby1VNlM0SGVqVVVWMUxnR2E0d0pBYjVBUV8xUDZiZjJyWFpVa3RXbmdCc2c4Sy1sb1NjSFFob1BUcURhOTlSdG5xSC1JdWNuR29HcFFyTGEtMlE?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 13:44:27 GMT",
+      "description": "Major Study Supports Same-Day COVID-19 and Flu Vaccination U.S. News & World Report",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "research",
+      "articleLabel": "Research"
     },
     {
       "title": "Castro pushes to restore military flu vaccine mandate after outbreak at JBSA-Lackland - kens5.com",
@@ -1108,17 +1147,17 @@
       "articleLabel": "News"
     },
     {
-      "title": "Military backtracks on nonmandatory flu vaccine | WORLD - wng.org",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ21EZzBNbXVnbFFGV21NTVgyWFhQcGQ0OW5uVGM5ZUtGa1JBUXlIN0J1Zy1xOTFNQkZKcmNTVkJuTktlVGJtc0VkY0h1S0hNOFVxc3Fxd1dybG51Z2w0MmpfVTdia1ZsR2NSbHZYNlhBY0k1SU12c0RHcnFWNGlTQm9kYXMxd2c?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 20:02:00 GMT",
-      "description": "Military backtracks on nonmandatory flu vaccine | WORLD wng.org",
+      "title": "May as Well Get COVID and Flu Shots on the Same Day, Study Says - MedPage Today",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LaEhnaHc0bG50dlc2UUdsRHI3TFZBbUsxREtMcFRjc0Nnd3U0bjdtRC1aa3dRaEZ4TVBwejloYUEtdm5WQ25sN2txZkZ1eVNyV2VvalhaaEFrNEJHSm9FbnMxcVJXVFg2TGFrSGJlMm9GVW0wNnRR?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 21:00:38 GMT",
+      "description": "May as Well Get COVID and Flu Shots on the Same Day, Study Says MedPage Today",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "research",
+      "articleLabel": "Research"
     },
     {
       "title": "The Pentagon's flu vaccine policy change created an 'epidemiological time bomb' at Lackland - Texas Public Radio | TPR",
@@ -1199,10 +1238,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "China’s first AI-powered cancer vaccine production line set to launch in Beijing - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTEN6OTBneWNOZjBGZktrZFNoS2c2NTFzN3JKUldLRzk4bDNBVVhWbVd1eTZEdi1wQWNFUGctR0lHcVFCNnhvUU5nb1owNEdGdnY3U1p1UGc2ZzRVMHNaOXN3SFBGUXhhaUN4SU11emhZX1hmM3M3RVV2bWhqZzBycXNwcDBiT3VEeWF6dXlRM245akcxUWZxNktha0RNUDlkZGNIbU4tdkNibzRQWUlpRVdZLXVNMUtJbE5ESTdsVk1YX2RGbWVNbUd3bTlGSknSAc8BQVVfeXFMTVBGMjI0M0tQVFFxald5Nmg0Tm9aNC1UYXFDSW1EYW5SejJYVm00WG5fOXlSRUtWNzlFanM1X05lc1pLTjZFQkg4YlcwV2JKWnNmM3JCWHBhUXN2SW9fRkNZMkkzN08xRmNWckZyaXNuYmUza2Q5NW4tdDRUYWE4Vkh0V3NpY2JfRWV5a3E4aHEwMnBNVTc4SXhSVVVLS2hOajJJaElmN3BDTm9RZkhseTJzN3kwUVByV0NSRFRacURYNjZCcjJvTWVEdk5ZcFhn?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 03:00:27 GMT",
-      "description": "China’s first AI-powered cancer vaccine production line set to launch in Beijing South China Morning Post",
+      "title": "EMA Backs Broader Pediatric Use of Poxvirus Vaccine - Medscape",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZmtjbUtDNlJVX0I2dFg5UkY4WFVyVHRXdmozRGNrNm1iQ2FLUnhOdm9lMGIxY2NVR29fY2cxaENGSWN1bkxXWnZ1ZzFyeFM5SHJDNFZFYUdodm9FY3Y1Sko5bTh5VUlIV1gwTFlTYmRFZWZObGRBYjdyNGtIZHgwb0FGd0FoZlJNOG1UcnRscTdLdzQtZFFoRXZ5ZjI3M2c?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 11:00:43 GMT",
+      "description": "EMA Backs Broader Pediatric Use of Poxvirus Vaccine Medscape",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
