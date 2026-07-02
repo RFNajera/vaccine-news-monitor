@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-07-02T20:45:40.352Z",
-  "itemCount": 96,
+  "updatedAt": "2026-07-02T21:48:26.227Z",
+  "itemCount": 97,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 13
+      "count": 14
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 10
+      "count": 7
     },
     {
       "key": "rsv",
@@ -20,7 +20,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 11
+      "count": 13
     },
     {
       "key": "hpv",
@@ -50,14 +50,40 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 45
+      "count": 46
     }
   ],
   "items": [
     {
+      "title": "Measles vaccination rates on the rise among some Texas children - KVUE",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMjZiMXVET1loWmNMYnN0LXZvMmczSjh4Z1dmQTBMOWhPb1N2WnEway1aTTllMmtFWXFGckRmMEZyeFRhZ3pXVndocU14Z3B1eHNQLUwyMHpQb2x2Sk5YUFBNcDFRUHBtS3ZDZ1V3QWZXNXBMX1E4NXhSR25tZWxCVUhTOXgxVGEyUlpxTWdQUUswSDVnb2xXcjdTOVBfWkJXaVN2c0tEbHdSdUVfdERrdUhYRDVabE5zMXZnVE5RUQ?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 21:11:00 GMT",
+      "description": "Measles vaccination rates on the rise among some Texas children KVUE",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "A drop in fatal overdoses helps push the U.S. death rate to a record low - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMDZQQ09DZDN0NU42UTVoVkdGX0hzOEFkVzdQSHpwQWNJenYtdXF6ZGI0czNCZE8xd3ZucTNXTFk3TG1odUQ4TkRnaElPMmJrX1FrY1RMSnhBSFJMblFuYTRMUEdqaC0tNXpkMlc2aE1CMkt5bEstVHAtc3FNby0xUkdXRElfTkJ5VDB6eEZuMlhLaGllQ28zY2NvMXppRXVyVkpkRkZ5X2hPUWZ3WjNEMnZR?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 21:01:55 GMT",
+      "description": "A drop in fatal overdoses helps push the U.S. death rate to a record low The Washington Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Why a case pivotal to the anti-vax movement could end up at the Supreme Court - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNemh3czZGS2htb0piUzltOGZIOTd0b2tpZFhsUjBTVmE3UHpNTWJYbTRkMHVyQ01hNTZHaTI1dTdVV0daZUZjSE9EVVh3SUhjVU9hQmhQdERYMDJObGExckdHdkdtd1B6eWdIREEwRnJqNGVMSnJXUDZXSkkzbHpGMVhfclVmbkpUZGdub3lmbHdSYTlCQmJBaThvaGRzNGlGR0l0eHNWQ0ZpbmdIdHVzQw?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 20:18:07 GMT",
+      "pubDate": "Thu, 02 Jul 2026 20:50:00 GMT",
       "description": "Why a case pivotal to the anti-vax movement could end up at the Supreme Court The Washington Post",
       "source": "news.google.com",
       "sourceType": "news",
@@ -92,6 +118,19 @@
       "vaccineLabel": "RSV",
       "articleType": "research",
       "articleLabel": "Research"
+    },
+    {
+      "title": "Inside Pa.’s measles outbreak: a family rides out the virus, doctors treat severely ill children - Inquirer.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcmpWUW1qalRSWXBrRjgxdUNJTkhvekVrUnhaTHFmTVNFTHJvWjNCVTVock5JS2REeTNLX1JNUHVLM2pCN0ZwZUJScFFOTF9aY1BCa0pZY2stTTZjSXZIeEQ5a29XakhZZ0c4bzQzRWlpUFZSbzIxZWIwal9sVGhaaHdCMzF5dDlUR0puVFNuZ2FzQXY4dGNpVDlVZUxlU2xoNU44RUVrc0tpbElfY05lS2xIaGtScms?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 19:35:10 GMT",
+      "description": "Inside Pa.’s measles outbreak: a family rides out the virus, doctors treat severely ill children Inquirer.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "We can’t entirely blame COVID vaccine mandates for lower vaccination rates today. It’s not that simple - The Conversation",
@@ -155,19 +194,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "A drop in fatal overdoses helps push the U.S. death rate to a record low - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWThLdVJQaG9WWC1UOHhoZ2o3MDRabXJFU1VuV3QyeGo4Q1BBcTZVem0wNVRmN1hWM1VxdmVEUGJFRjBhemFiZEhDRmhZeFlYX0RBQXl2ZjJfTVNqeEhwemtIeXM1TWROUGZydkpTUjlPQ25sbkd6aU1RbTYzMDZ2TXFjUWZuNk9ON19Td0V3NXBXOHppeVdHSko2M3RqY2E5X0VUUGI1eloxSjRwRlAtVnFiTUltVnBkcDA3aHdlRWV0UDFVVzRQcEVvWHRERXNfZGJlZVpvVWxaYzFmS3hfakpPNG1TSXJvVENZY1J0SWMzSW1yemlMN0phRkJYeDhHSGc?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 18:03:53 GMT",
-      "description": "A drop in fatal overdoses helps push the U.S. death rate to a record low The Washington Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -354,23 +380,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "MRNA Stock Surges As Flu Vaccine Win Fuels Pipeline Hype - StocksToTrade",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE02VFRMcXRySjJJR2Vxc1RUZjBscV9NUEFibVpYTXdNZ3U5ck9Xend0NUNEZmhUUjNKaklTZll2T1pyN1VmYWxVZmlWRncyMVJUVkNLcHF6dklPVl9RU2JFODNDT29nWVBCYXhHSlUxVHJKZw?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 14:03:00 GMT",
-      "description": "MRNA Stock Surges As Flu Vaccine Win Fuels Pipeline Hype StocksToTrade",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Inside the largest US measles outbreak in decades: Records reveal spread in vaccine-hesitant community - themercury.com",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPODZRMm8zMWNwVW9CN29LbEJLdW1TWkZIeFNHUzJUSmxOeDhqSXE3VGswbS15Wm5xdFdFOUFYUXNUZU03NVduWUNCZ0wzSGFDd1RaNF9rM2dWX25XT2NKdmdmUG9UOHRVZFlKQVpBWUhpVXVBbEIxOWpRcmI3T1hLN1VBVXBwaDNTUnVpaGs2RGhuei1fV1BjOG1VTjlCVE9IZmRMSnoxRi1wdVNCY1FRdnVNNnVNUEZjOUtqVVpwSlhfQ2puV2Q3TWRXUno5R3k0X2p1TU8zM0hPVmNoRlJQUnZrUGpyRFdlRWEwUkZUMlkxQldSSW9LYVJKZk91RXpjUzFvRHZDYlhwRTlXNTZkRmNWRVhwQjg?oc=5",
+      "title": "Inside the largest US measles outbreak in decades: Records reveal spread in vaccine-hesitant community - Caledonian Record",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNbmNuRUNaNnlpZDB6RlowVnJjVTJJZkRYSE5CWURlTGYtUmsydXRyQ1lodUltZWJyWXZwUFFQcndsWnRZV1lhU21KVUROcXJmU292SEgxcF9CeHFtY052cjhVWDd1YkpsajNCVDBsb2VKS0NiQmZUU0ZEZDhHM2dOR2hTVzQ1V0R3WGppLS14djY1VkR5ZHVtT1dKM2xEakpTVmZxWWs3VnFFQ09qN1RSWDdOeXZVaHZDNkQ1U0F1WG0taEttZFFhVlZ3ZmpsUUZiQ0o4UVNJMDl5RGV3TjBEM1pzcUFzNTVlUnlUNGtmZDM2NlNQT08xcm5RMTZTYTBtZ0xOLWtyX2Fic2hQTE15UVRrQkxjUTVRb0lSQ0oyZE9wc25C?oc=5",
       "pubDate": "Thu, 02 Jul 2026 14:00:05 GMT",
-      "description": "Inside the largest US measles outbreak in decades: Records reveal spread in vaccine-hesitant community themercury.com",
+      "description": "Inside the largest US measles outbreak in decades: Records reveal spread in vaccine-hesitant community Caledonian Record",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -579,6 +592,19 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbnVSdmYxZFhDYXhvTzdJSk81bDQxRWtYTDJIT1hXUDJzRGdmTm1ISEN2aHFYZFdRT2FxbHppTS12eV9XQ0V2SGNRekZHb216RkpGYm03ZWxnNmwyN3ZNSVB1aDZYSG9DYkZkbWQtTENqQXlTTHNPMUhBNWt2TG04MEI4cw?oc=5",
       "pubDate": "Thu, 02 Jul 2026 09:00:06 GMT",
       "description": "BCG vaccine may rewire brain immunity, shift Alzheimer's markers over 12 months Medical Xpress",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Eco Animal Health launches proprietary poultry vaccine across the EU (EAH) - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObUJJWEMzOTQ4YzJ2WWhnSEREbHdwRDJaanVQM0lVUlRpLU1wT2NZZ3V6ZlRfQ3hxLUVISEd5ZXlwWWVYSWVZYTdXaUVDZk1yMUdmRTF4V0pqWWVTNkxsMkEyZWVXVWZuenA0VDR6TDFzQ3RpRkVIdnVzNDJFM2VpUFFhRzFvY2J1VnhvbFFuMlA?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 07:22:26 GMT",
+      "description": "Eco Animal Health launches proprietary poultry vaccine across the EU (EAH) Yahoo Finance UK",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -874,6 +900,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "COVID-19 vaccine boosters may protect against future animal coronavirus outbreaks - News-Medical",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM3VXTVVneUtGajdjdF85MUpxRmRGZkhLOWp0QVMzd01kMFdfd2puTTFybnV3eEZFa1Vvb1kwel9CZjR0SE9fRVNEWGFRS0RXNk94VzFTNEE4SHQzWTFiTU9GZm5DWWd1NTdqLW5xOV9ISUpIUnBMM1g1b3pqTVJnc3dpY1pkMmJ4T2toNFQtVEdqcDNfMmpSaFZkLWNSWVlNeEE5LWxFUDg1NUVCbmZMWldkdElDZ013NkN6SkFRQUdiRTJlbDVzOQ?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 12:25:00 GMT",
+      "description": "COVID-19 vaccine boosters may protect against future animal coronavirus outbreaks News-Medical",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Study suggests shingles vaccine lowers dementia risk for older people - Local 3 News",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTEw1RWkwWFlFbEd5OTNvS19IajF6aTRrZWZYVG02bm42MEdwbzZWQUt6aHpDMXVtU190VDRQaEpRMzVrakpQalNPaWxsTmdJdjIyWWRoODJCcE5HY2l4ZFVkeTdDcmdoOEVBTTg5U094NXZMYkJleVljaktVZEJEV196T295SlhtU3dkLUNaUWZIZk5aN3NMQkpDb1F2SmQyTzFycXhQdldLbHBlQVlPSGxZamhka1dhVGxUb2Z0RTFLMWdtSnpwc1BINXhZSHh6NHBJZ3V5VF9JTjZESjc1SlNXdk5USXhlMl9qLU5n?oc=5",
       "pubDate": "Wed, 01 Jul 2026 11:47:00 GMT",
@@ -1056,19 +1095,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "NDAA Amendment Mandates Influenza Vaccine After Lackland Air Force Outbreak - Military.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVDc3UXE4ajI5ZFp4dUVFZk9LS3otQzlIMkRzRV9ZNC1ja0VuQ09tQ0NSMktweGdhSnRDcDNzcExYcjRudE5sY2NTaVJYUTJkUXRPa2l6V1VuRWp6dXRZVVQ3VENJTkZrTWV0dDZsbWtEMzB5aXphT3U1U1pUcS1mQllCTngwYmFFbUZDLV9ldEFUSlRYbEVUVmJtNjc4QzJPQ2c?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 18:05:01 GMT",
-      "description": "NDAA Amendment Mandates Influenza Vaccine After Lackland Air Force Outbreak Military.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Shingles vaccine may also offer protection against dementia, studies increasingly show - NBC News",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNallBSDBBcFk4S2I3VU5VN0xhQW5KVjBKZ2JwZWp5UnZCeTZrbjR0N0Z2Mm85SHlrU0VWa2c5QTZRMF8wN2loQzdqWXBZc2JXaEVIMHZCWXRCVkRHcWZielE3OEI4VlI3U3VaandONG1iYXRHWTlBQzRKeHF4WkpFSHkzYXZBalNneE0yQklPR2lQTEFGWjh1cHNaOHM0RV9SWnpDbmVWamthbkx5cUluSUJ3?oc=5",
       "pubDate": "Tue, 30 Jun 2026 18:02:00 GMT",
@@ -1086,19 +1112,6 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWGlPaUVNdnVRVzc0Y3FzRWQxTWg4UnJSTXhlU0hybGVwYTdiTnkwaXVSVXB3ZU9teGlkamZLLVZfR25MMm1Xc3JUVzdMN2QzOVoxMDhzR3ZybUhVcndZY1pMcFpVOUwxVHhsSi1GbVFueTd1WlFxZEZycjl6T1ZDR0lhcUpGdFhLR0Y0ZWc3N042aDlWdkt6OHdwcnBTc3Zw?oc=5",
       "pubDate": "Tue, 30 Jun 2026 17:45:14 GMT",
       "description": "Artificial intelligence could usher in a new era of vaccine development CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Repurposed epilepsy drug could be used to boost vaccine protection among elderly - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWDk3Y3RmQlQtNWVzOTRiT2JDSnlpbE5WODFYMEJ4RnlkbGZxZk9TaHVWeFFuNmF2ZFlIc0otdnBzMTF0aUVURktxeWYzTGlRMFJFNmQ0VjFfNW1KcHJkQU5OUllONm80c0MxeGpIT3lodXlYM0lsSnd2WlRYbVRrTW0zOUQzMjZkaGc?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 17:40:09 GMT",
-      "description": "Repurposed epilepsy drug could be used to boost vaccine protection among elderly Medical Xpress",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1147,15 +1160,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "Castro pushes to restore military flu vaccine mandate after outbreak at JBSA-Lackland - kens5.com",
-      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxORkl6R1Y2SGpEOEt3eUprZ2ZheW03QmhZZVptQ0ktQWdXaFFBOUxhTzlYSVE4ODZWMVF1QUlYb0NLQnNYenNxS19MSENZM1pUTDVyVE1yTGlIT0VqVG1IcnMzUmFqSjQ0ZzJua05LaWlCQkZ1ZTNtMnZrSlUtVFhTcEl4d3FZS3o0VHRfZmRsR2V3NHowMWwtNGJrUm03YXljYW1seEtxTXU2SUdONGF1T1FKN3h1Z0hhX0FjNnF5NEZBOUhmdmlSRWJyQXBDV3RjSU84aG9ta3lOdUtsS1ZXamJwVlJvQXl5d212dDRJMFlfMkpDZzBjNjIxTncwNmNCQUZna3g0cmRudkRGYkc1SUQ0TWVjRldJbFhuejgzeWUxX2ZxeGJiWmJyS1g1d0lWVEhtVUVOdE5Bb2MzREttbWNTdTNleldsRDFzdUxn?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 11:11:00 GMT",
-      "description": "Castro pushes to restore military flu vaccine mandate after outbreak at JBSA-Lackland kens5.com",
+      "title": "Anixa Biosciences secures Korean patent for breast cancer vaccine - Pharmaceutical Technology",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQclRBWmxMWmVzeTBJQVFUemtMdDdyVTRDWlZhc0Y1Ry1pTHlvVnpZWjF1T3Z6NVVBM3kyRWRoN2tnZGxvakpnT0VzUU9BUkpZSkJxM2RMYkI5dHNvWFdoa2NOLTJndkxnQWxNcHlieTk0eFVmM2JPZEFDeW43VzgzVHctWkY1ZFhYVVlGaVAxUDJwYVU?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 11:55:50 GMT",
+      "description": "Anixa Biosciences secures Korean patent for breast cancer vaccine Pharmaceutical Technology",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
