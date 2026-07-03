@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-07-03T14:09:41.656Z",
-  "itemCount": 87,
+  "updatedAt": "2026-07-03T15:10:18.492Z",
+  "itemCount": 97,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 16
+      "count": 17
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 7
+      "count": 6
     },
     {
       "key": "rsv",
@@ -25,7 +25,7 @@
     {
       "key": "hpv",
       "label": "HPV",
-      "count": 3
+      "count": 2
     },
     {
       "key": "polio",
@@ -40,7 +40,12 @@
     {
       "key": "meningococcal",
       "label": "Meningococcal",
-      "count": 1
+      "count": 2
+    },
+    {
+      "key": "shingles",
+      "label": "Shingles",
+      "count": 2
     },
     {
       "key": "mpox",
@@ -55,7 +60,7 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 42
+      "count": 50
     }
   ],
   "items": [
@@ -125,6 +130,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Vaccinated patients show markedly lower risk of new-onset idiopathic uveitis - Modern Retina",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOWdINEFEb3JJTHZkR1NjUU9fMzcwa3hCYXlubFRmQ1M0SlpFaWNDWk5LU0UzUkJPZHJ3bkRMQW9kX1JGY2pEbkYzam9CSEtwQVFhMmQ1Yk1LWWdwVUpBUnFPUHZXMVg0TXFMY1pjc1JPT2h2dXlza0ZNblhnYndOcnJIMDlpNXlzdWllUWdjaFV6dXd0Q3IxVU1MdENTUHMwUGcxT196anhhNERpSWtJ?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 10:36:57 GMT",
+      "description": "Vaccinated patients show markedly lower risk of new-onset idiopathic uveitis Modern Retina",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Changing COVID-19 vaccine effectiveness against COVID-19 mortality in older adults in Australia, 2022-2025 - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TeENfQmlXbV9UVjBCVWJ3T1RDWllMbTBKVjF0Q2ZJYmIweVJ4YU5JT2U2M1JTdkFtWjlrX0o4YlU1ZFYySVc3dURVcnhKdVRpTHdHbnMzaGlKUi1xMUxJ?oc=5",
       "pubDate": "Fri, 03 Jul 2026 09:51:25 GMT",
@@ -134,6 +152,19 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Gavi approves $180 million for Africa’s vaccine manufacturing - Peoples Gazette Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT2RIME1xUzRoNnp5N0ZndDdLdkg2Y1FnUW45NzRGbE1rbWdDNUpfa2hhQWd4Rm55OUREaXdMOWROV2RQZDQwVno0eWZlcWxKVVN4NGhZeWlYSW5iLU84YjFXSVJOVTEzTjB2ZUVyeElTSlNfYlY4NGhFZ1ZHTHRlOUxCWFlGdktMNzdB?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 09:44:38 GMT",
+      "description": "Gavi approves $180 million for Africa’s vaccine manufacturing Peoples Gazette Nigeria",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -177,15 +208,28 @@
       "articleLabel": "News"
     },
     {
-      "title": "Irish developer of malaria vaccine wins European Inventor Award 2026 - Silicon Republic",
+      "title": "Irish developer of malaria vaccine wins European Inventor Award - Silicon Republic",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRjN6d293bmFEdkJfNU1tN3psUjQ5SnJoQjNDZWpLV0FHdXVyQjRxXzZ4cnVtVFIwaHRDTW5rMW5sNjFuQU4zajhzVWtyUWNnNjB3dWI5aDluZ0FwRWlXTUtnckh3N0xIYWI3TTJlQnFBZEkxbm1CY0FORTY5SkwxWXdTZnFpZjg5cEFFZ1Y0aElEWC1PN2JNRWc4Nk5wY29OTUJPbEVqNVBFWldCc09iTkVUUnIyRWdvTlZv?oc=5",
       "pubDate": "Fri, 03 Jul 2026 08:11:17 GMT",
-      "description": "Irish developer of malaria vaccine wins European Inventor Award 2026 Silicon Republic",
+      "description": "Irish developer of malaria vaccine wins European Inventor Award Silicon Republic",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "malaria",
       "vaccineLabel": "Malaria",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Doctor urges shingles vaccine for elderly; expert explains blood sugar link - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQUxtVURkZU1wYTMyekhid25qNWhpTTBfeUVMUzVHaGNSZ2ZoT1Z1ME5ZMmk2YktKRS1mSEN2c0ZHY3VVdmc3TTRpb0dzZk92cEUwRk1EbTR4LTFTR3RxOG1wLTZzbWZZclNNOHBrcTNTSmI1TVZIbHZ6MC1VOHNYMUJPdnNZaUZldzNmMHU2SkkxeWFuMWVFVWpRajF0dG5yVVhScEdyZjhDWWF2dU5CYkNWal9XS05qeEpPZUxXajdUb2PSAcoBQVVfeXFMTmF1czJCQ3llMjVYekJjdmNqN1hJb2c5UURDaWhCUVR4eWpJZXRSa3dqM1BNYUNYRTRDSDdjWndhOXEzMFFZNjM2dEhCN1JyYmdpcjdMNF96WENjVjRaaXdQRDQ2YXRsbnduZDdwNllLd1Z1NVRpTlRQTGNlWjRYb1dETWFBb3p1M1lDMUd6eVF3ejRXaU8xMjB2QzU4WXZOMDYxRUxQdVF6dUdYb2F2emI1VXdydURtMWgwWG90bmNxalNpa2ktdWtvUQ?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 05:30:12 GMT",
+      "description": "Doctor urges shingles vaccine for elderly; expert explains blood sugar link The Indian Express",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "shingles",
+      "vaccineLabel": "Shingles",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -385,19 +429,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Inside Pa.’s measles outbreak: a family rides out the virus, doctors treat severely ill children - Inquirer.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcmpWUW1qalRSWXBrRjgxdUNJTkhvekVrUnhaTHFmTVNFTHJvWjNCVTVock5JS2REeTNLX1JNUHVLM2pCN0ZwZUJScFFOTF9aY1BCa0pZY2stTTZjSXZIeEQ5a29XakhZZ0c4bzQzRWlpUFZSbzIxZWIwal9sVGhaaHdCMzF5dDlUR0puVFNuZ2FzQXY4dGNpVDlVZUxlU2xoNU44RUVrc0tpbElfY05lS2xIaGtScms?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 19:35:10 GMT",
-      "description": "Inside Pa.’s measles outbreak: a family rides out the virus, doctors treat severely ill children Inquirer.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "We can’t entirely blame COVID vaccine mandates for lower vaccination rates today. It’s not that simple - The Conversation",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPR1N5RVNBUnFYSWF5bGZZN3V2M2FEMU52ZUxlalJ6M3RiYlpaZUw0V28xZGgtQWR6OW12SWdhdzFscHJGSmhHbTU5Mk4zcUJPbDg2UUJVN016NG9idnJuZFhKbHhWVldZYlNwOXB6TWt2Y0JJYkY4ZjIwbFR3NkJXaTR6c2hjQTg0UUVlNFR3U1M0M09hUGJ1Y1hDa29XTUZaU3RYNkowT3Z4ZUoySkJOU2ZRcHF4Zkd3Y2lNeEp2UmQ0QmF2LVVwVlFkRmRjMHc?oc=5",
       "pubDate": "Thu, 02 Jul 2026 19:31:08 GMT",
@@ -433,6 +464,19 @@
       "sourceLabel": "News",
       "vaccineKey": "hpv",
       "vaccineLabel": "HPV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Measles vaccination rates climb slightly for some Texas children - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVktENTFXQzNwajlTWEptRFF0MTk1eVdaeXJjaWZpTUVndUxwZUtybEVMT2hLek9POWRteDB4di1zVUlzdEtvZVkycUFHS3ZUNm5CbUwxUE1Oa2FfVW5iQWE1TkQ5NHNXcWFVSkhzVlBaUXNBZVhjRkk1SGE5bWlHMUc4bUhRUWhPclVSWlN3RDhLRkE5ekJPemN3?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 18:22:56 GMT",
+      "description": "Measles vaccination rates climb slightly for some Texas children Yahoo",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -476,6 +520,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "KREI Newsmakers, Kimberly Grass, Clinical Supervisor and Immunization Coordinator at the St. Francois County Health Center, 7/2/2026 - My Mo Info",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOVZqY1NpMFVLNk5UdHFUeXdRdW1PQU5BRUsyejloSDZZWl91bXNFQjE1WGRaOHVRZXRIZUdyRUJnZTV1V2NGMkVzRWRaWUxrdndfeW9UZmJEdG1zaEFsR0JYVGZtU1ItekYyaFh5azVRdTdWb2dKWlRIZkc1OUx2bFJpX2dnTHY3V2RubHNEZ2t3anllc18xNnFfSWMyQzNHUEM2aG9odXNpTnRLWkN0YW9PMEREaVhfTm5kVzJndkRITlRPSmJmdHRDemQwV1I5WVN1LTk1Y1AyeW9OWUFRTTlOUEl3OHV2clE?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 15:35:00 GMT",
+      "description": "KREI Newsmakers, Kimberly Grass, Clinical Supervisor and Immunization Coordinator at the St. Francois County Health Center, 7/2/2026 My Mo Info",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "New ACIP Charter May Potentially Delay Vaccine Recommendations - Drug Topics",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS0xveXNKeHR4eWZub1Z3enNCTEdsUjdNVWRxSmM2ZlJnMEs3YkxUTDcyU3lBX2tDR1kyUEtNY0JxZlFjenl2a0dkQjBjakpwc1lrWlc4OXk4MzZpeF80T1NGcTJidlFwMkp4dFRIZlprZTFhdmZnUFZfUmVIbWV0UlJQQkVfVUpYaWFieVJLdlN6bWxUWDRSbG9R?oc=5",
       "pubDate": "Thu, 02 Jul 2026 15:18:48 GMT",
@@ -515,6 +572,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "In Zambia, a new cadre of solar technicians keep rural vaccine fridges running - Gavi, the Vaccine Alliance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOVVYR2lveExHbFB0eDFYLUFNc2ZzYlFIdkw4Q0xwM1pTS2tHaF9tWHN4N2J0QUV5TUtzdXdmb0dObFBlODBVekNtQWs1d2lTcWJ1UEVsU3dYUm9VLUxmZTc2b1hpNTNYX2NGM21Gd3BOMGdGZmozX0laMXpvSW5nRGp3T2xLeEFiMHB4MkJWam83Y3ZlSG03NzNHR2YzQkJFdEpjZm9B?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 14:41:18 GMT",
+      "description": "In Zambia, a new cadre of solar technicians keep rural vaccine fridges running Gavi, the Vaccine Alliance",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Mississippi’s top health officer: Measles cases are ‘inevitable’ as county vaccination rates fall - Mississippi Today",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zS09Oc200eWZwcHllSGhvcDNFSXREcFhtT0U1cndrOTB0eWhZY1ZWbnU5SkhEcnF4YVdNWk10OHBKbGNKX2hZSTEwbUNmeTdmYTZJX1pyVG9obW1uLTd4LXVrMDFRQTU5cnpfTEo1cVhkYVJCMm1DVnFuYmo?oc=5",
       "pubDate": "Thu, 02 Jul 2026 14:35:00 GMT",
@@ -539,6 +609,32 @@
       "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
+    },
+    {
+      "title": "New Poll Connects Social Media and Chatbots With Spread of Vaccine Misinformation - cnet.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMjczNFBvOHltcklidjZFODdqdnZXSG5wdUFiYnBwSWF1NDhheWV2LWhnMEZHMkRITnlfWU02M3J3YmdpdkxmU2NUOGUxeDVKYU1Dc1dQS0p0Vmt0UEJWelUxSzdPcGdNM050dTYxOWx2NlpiMVllMm1odDVtNDhDS2IxRVo4R2FWNWt0c2t1czk2Z2hmTjZWa3JPMjFLQmtmbVlNZE45Q2VOQXdEc1Uw?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 14:00:00 GMT",
+      "description": "New Poll Connects Social Media and Chatbots With Spread of Vaccine Misinformation cnet.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "COVID Vaccine Study Released After Publication Dispute - Legal Reader",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVGhYcXpEbmphaGdZbTZMTG9zdzVVNjMyWEN5cFhhcnltMEpBUkMzdHEzYXNwS2ZGOWdCLWJyZGxWQWhFQ3lUWEJjYzZBUmY1X3dQc21QR3hCM0E2Ry1WVzBmWUxLczVscVFSenhMbUhUXzVVRjExWlJjWjh5UVc1NWpLNWJBaU9haTZB?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 13:39:05 GMT",
+      "description": "COVID Vaccine Study Released After Publication Dispute Legal Reader",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "research",
+      "articleLabel": "Research"
     },
     {
       "title": "Free pet vaccine clinic offered Thursday in Missoula - NBC Montana",
@@ -684,10 +780,36 @@
       "articleLabel": "News"
     },
     {
+      "title": "Meningitis vaccine required for Texas college students, pharmacist warns of deadly risk - KCBD",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUXFYMmk4WnhtOTJpZlJ6V1FyZ28xM1ZYalVKNkZ0STBPT1RuQmh2WWFNbWFFT3RPb0xhcGg2cGhJSWZXN3hBOEZBTDJWYlF5Qml3NXZ1bTg1QVBOREVjWF92aElMR2hGbjd4VkY3bHRxRWV1TGtySUZUeXhMMTJtcWdob0VIaDdpaEhzM1hCcHFXUE5PbjNjQmlBRmxtY2pxTWZBV1pqQ29YQ19hZ2ZMRzRB0gHGAUFVX3lxTE81aC0wbWZNbWdmU2dobDh4LV9fWVVuc1M2VEdqRlhaLXlteGxyVjVGcUQtVHBIWERMeXgzbjhLWUxYU0Zhdy1IbXpLQUNMMXZWY0xaTmxNNl9rVXBLYmstYUQ5S0k0S3pnY1pTYy1NVkJ2QUFDSjl1dXQ1TGpYNzU3STF0MmxUTjNfZHpGdG5hWmJpVXJmNHkxX1pxLV9xZ0F5N0tlMjRqXzJnb2d5OFA2eGw5akxoZmRQUWdDRkthaTZGQjBZQQ?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 00:59:00 GMT",
+      "description": "Meningitis vaccine required for Texas college students, pharmacist warns of deadly risk KCBD",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "meningococcal",
+      "vaccineLabel": "Meningococcal",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Vaccination resources being offered to help keep active children healthy - The Lufkin Daily News",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZmxZbjYyRVpEN1J6THJBQ1JTVVNZb0ZNNk92ajA2dHU3clZQeVRxLVJha2ZaWU5XbExjTTg4SkVtQ3Bnajd4SDF2d1pnb2lKYU14UzBoX2dZSC1FRnloemJvTU81U2dKTEtNR3FhbHdWYkJmRk1mZ2hrd182clYtcHNsZ1N2dE1iS1BJODFLdEN6cUVLTFdmRlpqZmprZkZYLXhpWUhObFdBVElFUHpiQndwYkVGcXpSdS1DV0g3Si1MOG15YVF5ZUVSX2lKNjNHdlg3QmJtdkN3M0QxTWRLVE43WVoxS0p5RGtKOGM2VHhVN2txeXdVdg?oc=5",
       "pubDate": "Thu, 02 Jul 2026 00:45:00 GMT",
       "description": "Vaccination resources being offered to help keep active children healthy The Lufkin Daily News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "SK bioscience to lead Gates Foundation-backed AI platform for vaccine development - koreabiomed.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12QVlfd3lTeEMyYldQOE51WXpGZHBYbERlcjNCcWtmZDI5OThnbnZhOFNBN196R2NmVVpha0FTY2xsS2tsLS1pV3p3MjJkYWdaZUtGQnhmek9DYTRYaENUVjhZZE0wRVlXb3FqdVRB?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 00:34:17 GMT",
+      "description": "SK bioscience to lead Gates Foundation-backed AI platform for vaccine development koreabiomed.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -710,6 +832,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Vaccine booster protections – and more health headlines - WGN-TV",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYzllVUxaYTNxaVNFV0J5UFY3TlRqZWRBbWc1blFxSUZDalVfelY2YmNCZVBiS1k1TlhLNE9HN3pQQUdQdU10blIzRnpqM1RPenlRcWswNDZpQ1IzRXdDZUt6Zl9mVnlEelB6WXZtRXFKR3dYS19pdlBaOU1yWTAxQU44V2lVSERKY0h6dER4Q2ZmRDBkVVHSAZsBQVVfeXFMUHdkUF9ZY2ozWmh2cnBiTS1PUTNqWlRBNkthVldGbnRfRkMxbWtEUXdrZHJ6em03cXk3azRvcTFoTGt2VTQzZjg5dnEycDVoTV9RVEZFRXNLZzZ1aG1xNm54UFA1LUJYaFBwTkowTjB4dVIyWjJ2UjJxbHJicC15UFkyVEU0dWh4cHV2c1g0eHFkdmc4d1dKY0NMRk0?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 21:26:41 GMT",
+      "description": "Vaccine booster protections – and more health headlines WGN-TV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "New Study of Billions of mRNA Vaccine Shots Confirms Their Safety and Efficacy - Reason Magazine",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTWg2MTNIeUphakFwVzVqV1A3bmp1S0tDU1M5MXk4bHAyc3NleTBsWjg5blNTQXk5a3UyUXN0XzVjMV9PTFVvOVpVU1JKeHNxVG1JTEFodGI1MXhBaHlSRE1GOHFiX00xc1JGeExnQWFQWjY2MlRsT3BrWkk0dTVJOTFpQ0ZZZTJXOEh5aUI5VGlBWUVqYXlKX1hXM0N4YVpUQlV4M0JMYVNBNGpSQ2c?oc=5",
       "pubDate": "Wed, 01 Jul 2026 20:50:48 GMT",
@@ -723,19 +858,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "As influenza rises across countries in the Southern Hemisphere, PAHO urges vaccination and stronger health system preparedness - PAHO/WHO - Pan American Health Organization (PAHO)",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNXy11QlIzbkZFQjUzYU1zOHdqN3RnTlptLS1DbFRkSjl0Mk4wQjhPZWhQRFhFelUtTHVzUzYtMlRtdTBFNTU2dUNkMTAxdDN0MWNDNUpHN3h5ZThnbzJfRWtKR0JUeEs0MHRYdzlRVEF4YkVOMFUyNF9LbjRidUd4R2xBbU0tUW9mdVBlaWhBTGZwLTk1OWUzZGNULVVMSVV5bklNQkNSVW41Vi02RTRUa2R2N05wazVT?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 20:03:56 GMT",
-      "description": "As influenza rises across countries in the Southern Hemisphere, PAHO urges vaccination and stronger health system preparedness - PAHO/WHO Pan American Health Organization (PAHO)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Malaria vaccine quest narrows as shared parasite targets emerge in liver - Medical Xpress",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV2RfVEh1eGtMeXFiNm1fNVdsTVFITnNGLWp3a0ZUdDBDUzNpa2hETzVPNlI2OE9xV2xaOGZKOHAxbkgwd2lfYWJVUU85VEo4MW40Tmt2NVRTeHVqdElNSGpOQlI0VUpqdFdpY3UyTlRYTkkxYVEtNFVJZXBrd1VEbFVuMExRbnZpekE?oc=5",
       "pubDate": "Wed, 01 Jul 2026 18:40:03 GMT",
@@ -745,6 +867,19 @@
       "sourceLabel": "News",
       "vaccineKey": "malaria",
       "vaccineLabel": "Malaria",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "COVID-19 Boosters May Offer Head Start Against Future Animal Coronaviruses, But Immune \"Imprinting\" Complicates the Picture - Pharmacy Times",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPT2ZYS09kcGUwZzFCblNfZVpsUzFhczJ2RWs0MVlGc2NXNWppUjk4eUd4QXZYVGQ5N2FyczRFbFVYZnJyT1VFOVJhZjh6LUZjQzdKdDFzeU5RaWJCd0hoQjZfR05qNW5OWGJtWS1FQXRLdDBMMUpmT24tQVZlb1Q4dktKbHFvS2lYMHhYblZiOUdEMTI5UURHdXN6aDAzQzFhT3MwUXY0bkRfX3dacjNXQWhJM0czVEFodmtPM1hyaGVhTXFyelNnQW9QQjZGOGxiMnNPU0pOYUtfTFlOdnZIeHRJU2lRN3NkRFNv?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 18:13:50 GMT",
+      "description": "COVID-19 Boosters May Offer Head Start Against Future Animal Coronaviruses, But Immune \"Imprinting\" Complicates the Picture Pharmacy Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -866,6 +1001,32 @@
       "articleLabel": "News"
     },
     {
+      "title": "Study suggests shingles vaccine lowers dementia risk for older people - Local 3 News",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTEw1RWkwWFlFbEd5OTNvS19IajF6aTRrZWZYVG02bm42MEdwbzZWQUt6aHpDMXVtU190VDRQaEpRMzVrakpQalNPaWxsTmdJdjIyWWRoODJCcE5HY2l4ZFVkeTdDcmdoOEVBTTg5U094NXZMYkJleVljaktVZEJEV196T295SlhtU3dkLUNaUWZIZk5aN3NMQkpDb1F2SmQyTzFycXhQdldLbHBlQVlPSGxZamhka1dhVGxUb2Z0RTFLMWdtSnpwc1BINXhZSHh6NHBJZ3V5VF9JTjZESjc1SlNXdk5USXhlMl9qLU5n?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 11:47:00 GMT",
+      "description": "Study suggests shingles vaccine lowers dementia risk for older people Local 3 News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "shingles",
+      "vaccineLabel": "Shingles",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "American vaccines that transformed public health over 250 years: 'Outweighs harm' - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMDNVX3JuVGFBc0VTRm1QOTRMLUEzOTBrRi1BOUJlaUN0cHRsSWlXb2tDaE5NZkljem5rbmRfMkpKMjROYWstdk5hOFI3emtMOGQtdE9Ka053LURMRU9fclhGMWk2N25HVlVjMU9XTl9YOHNacUs4eXdZSW1GWW5kWEtIdGcwU2V3dk4xSTVCdEhwRURHeEJlQmtMNlJtWC1nMjA4ZGJGa9IBrAFBVV95cUxOTy0xbHpxVUtONHFBOXFxVXUzT0FUMmQ1dHl2d1hGUUh1Qkg5c2JEWHYwY1ZrbHJmVTdXYzBkYU1CNFRVczFLcV91VVNPWmFVRDZGTkNJVm9RUnBrMnRCeUE0b2VIendFY2VOc05yLVpRUURaZXc4MVdianhTbkhvZmY1LXlJWHlnLVJvQk9tRUF0Vm5SVnBJenhocDlwRS1tYnVzaDk3a0s4TGRs?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 11:09:48 GMT",
+      "description": "American vaccines that transformed public health over 250 years: 'Outweighs harm' Fox News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Is the meningitis vaccine safe? - Understanding Animal Research",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZkMxMDhaTEtYVTVVMDZ6THQ5WV8yU1F0dldqMUVaNHpEZ1Q1aXRLV1c5N3dsOXlhVHpreExYLTNrLWZILVJhbDl0eGRrRXFoZzNnV3NWenF1UTVCbS1pTG9hUU0tRWpycnBjY0lMUVotSXdCZzZJd0ljOTlXdXNwLXdMRVkwYVpKU2c?oc=5",
       "pubDate": "Wed, 01 Jul 2026 10:14:50 GMT",
@@ -927,19 +1088,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "mRNA vaccines proved safe and effective during COVID, review says. Cancer could be next - CBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03ODBST09IUXpuMmtMU3pmazEwMWVqblVObWx5Z1pUV1VuMzFRTWFnVjRNZW1xOUR3alo4N3VxZHpqUXNKdjhZU0FjNERNN1JfNktLN3ctRndUeHlrM2pOTXFISWlZYnBUZm5UMjB6bkV4S3NzMnJN?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 00:25:00 GMT",
-      "description": "mRNA vaccines proved safe and effective during COVID, review says. Cancer could be next CBC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1122,19 +1270,6 @@
       "sourceLabel": "News",
       "vaccineKey": "flu",
       "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "HPV vaccine: cervical cancer deaths plummet among young women in England - VaccinesToday",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ0dnbXozUF90LXJNeWloZG5GQlhZOXVPN052VmxheWZmZEZPT1VKd0J6VmpPcHItVXNxRUh3Q1o2RjRIcEx1ZEZPVGVSRjl3dlg0RkdBbENiVzhEeHlNazJtbDF2T1Bmbld6MEl2T2gxUnItN09oTU5icC1uVGhKamRILVI2R0dOb2hVdUloeXZBcnRsZ3IyX3ZXNGpfbUVuWUV6MG5xcFI3bEJEV3c?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 09:19:25 GMT",
-      "description": "HPV vaccine: cervical cancer deaths plummet among young women in England VaccinesToday",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hpv",
-      "vaccineLabel": "HPV",
       "articleType": "news",
       "articleLabel": "News"
     },
