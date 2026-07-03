@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-03T05:41:50.312Z",
-  "itemCount": 90,
+  "updatedAt": "2026-07-03T07:34:16.324Z",
+  "itemCount": 88,
   "groups": [
     {
       "key": "covid",
@@ -15,17 +15,17 @@
     {
       "key": "rsv",
       "label": "RSV",
-      "count": 3
+      "count": 2
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 10
+      "count": 9
     },
     {
       "key": "hpv",
       "label": "HPV",
-      "count": 3
+      "count": 2
     },
     {
       "key": "polio",
@@ -50,7 +50,7 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 44
+      "count": 45
     }
   ],
   "items": [
@@ -103,6 +103,19 @@
       "sourceLabel": "News",
       "vaccineKey": "rsv",
       "vaccineLabel": "RSV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "A drop in fatal overdoses helps push the U.S. death rate to a record low - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMDZQQ09DZDN0NU42UTVoVkdGX0hzOEFkVzdQSHpwQWNJenYtdXF6ZGI0czNCZE8xd3ZucTNXTFk3TG1odUQ4TkRnaElPMmJrX1FrY1RMSnhBSFJMblFuYTRMUEdqaC0tNXpkMlc2aE1CMkt5bEstVHAtc3FNby0xUkdXRElfTkJ5VDB6eEZuMlhLaGllQ28zY2NvMXppRXVyVkpkRkZ5X2hPUWZ3WjNEMnZR?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 00:59:31 GMT",
+      "description": "A drop in fatal overdoses helps push the U.S. death rate to a record low The Washington Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -185,10 +198,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Measles vaccination rates on the rise among some Texas children - kvue.com",
+      "title": "Measles vaccination rates on the rise among some Texas children - KVUE",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMjZiMXVET1loWmNMYnN0LXZvMmczSjh4Z1dmQTBMOWhPb1N2WnEway1aTTllMmtFWXFGckRmMEZyeFRhZ3pXVndocU14Z3B1eHNQLUwyMHpQb2x2Sk5YUFBNcDFRUHBtS3ZDZ1V3QWZXNXBMX1E4NXhSR25tZWxCVUhTOXgxVGEyUlpxTWdQUUswSDVnb2xXcjdTOVBfWkJXaVN2c0tEbHdSdUVfdERrdUhYRDVabE5zMXZnVE5RUQ?oc=5",
       "pubDate": "Thu, 02 Jul 2026 21:11:00 GMT",
-      "description": "Measles vaccination rates on the rise among some Texas children kvue.com",
+      "description": "Measles vaccination rates on the rise among some Texas children KVUE",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -311,19 +324,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "A drop in fatal overdoses helps push the U.S. death rate to a record low - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWThLdVJQaG9WWC1UOHhoZ2o3MDRabXJFU1VuV3QyeGo4Q1BBcTZVem0wNVRmN1hWM1VxdmVEUGJFRjBhemFiZEhDRmhZeFlYX0RBQXl2ZjJfTVNqeEhwemtIeXM1TWROUGZydkpTUjlPQ25sbkd6aU1RbTYzMDZ2TXFjUWZuNk9ON19Td0V3NXBXOHppeVdHSko2M3RqY2E5X0VUUGI1eloxSjRwRlAtVnFiTUltVnBkcDA3aHdlRWV0UDFVVzRQcEVvWHRERXNfZGJlZVpvVWxaYzFmS3hfakpPNG1TSXJvVENZY1J0SWMzSW1yemlMN0phRkJYeDhHSGc?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 18:03:53 GMT",
-      "description": "A drop in fatal overdoses helps push the U.S. death rate to a record low The Washington Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -523,19 +523,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Thousands more vulnerable adults will receive the RSV vaccine on the NHS this winter - Open Access Government",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWnFVT1dHWkpaVlZ3TjZxUVZMQ3RLbnM4UF9RdGRvU09EcEVwWkhkOUVSaWJobTFpQWlOYy1LbVdjNUxkQ0w0WTd5aG1ZRmFMdGhCbU1WUmZRQUhWaGxKd0wxMGNGNHYzYUotamNzbWlKcHJMMWN2eHE0RHNnV2RlQU9tSzZjNTVONm5FT052aU5FZWxtX0FWTzBVaFRfalRMSkJPbUlSLW9DZmtBRFRSSVQ5RUF2ZEh6OGxIcmJJQTBtMkdXRTdLMg?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 10:50:26 GMT",
-      "description": "Thousands more vulnerable adults will receive the RSV vaccine on the NHS this winter Open Access Government",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "rsv",
-      "vaccineLabel": "RSV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Measles Guidance for Gastroenterologists and Hepatologists - Gastroenterology & Endoscopy News",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTHpIanZMa2tWZ1M1a1dQdWlMZHl6VVdTYmlyRWpUNXNGS1dXUktSS0dIa3F4alNiU2s3Uk9hM2ZGTFlxcndEYmR2cnMyYjFMZXlfWUNSRFY1WjA2VzdBQnVyRGZDY3p4WTI3dENoemVOWkhOaHJvWFg0WDlYVll6VWR5dGM2OTF5UnRBSmdKekU3QUFUTzgwMjN3S3dId0JDMTh4SEF0VFU4VElzSWxZYkN0VQ?oc=5",
       "pubDate": "Thu, 02 Jul 2026 10:09:08 GMT",
@@ -718,19 +705,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Efforts to end school vaccine mandates hit a wall in Florida - chronicleonline.com",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQRGc1RGp6eWFKQkFXaFJ6aF9Qbncwc0JuTHhZSnVUVHVzMXNOQVk0MmVmc2VlamNyRkFkcmpHTmZUeHBZWWN3eE1GMzZZR0tZY3FoaWxjSi1yUm5OMzJQN1lER0RMWFpXc1paOS03R3l2R1NWczdxOFhUN2xuMm1aMDYxVDdCSGR6SDJjUHh4QjlncDFRdVJCZkRmVDY3Y3NDSzBSNHh2eVIyTDliQm5FNnoxdFRFb0x4Smc5aEtxNVJxRzBLc1piT3hoaWphci1fYXVHRmdpbUpjaEpQSElRZXRMTmNRbHJOd2YzMDNSVUEwb2lZMy1YQ0FR?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 19:07:22 GMT",
-      "description": "Efforts to end school vaccine mandates hit a wall in Florida chronicleonline.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Malaria vaccine quest narrows as shared parasite targets emerge in liver - Medical Xpress",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV2RfVEh1eGtMeXFiNm1fNVdsTVFITnNGLWp3a0ZUdDBDUzNpa2hETzVPNlI2OE9xV2xaOGZKOHAxbkgwd2lfYWJVUU85VEo4MW40Tmt2NVRTeHVqdElNSGpOQlI0VUpqdFdpY3UyTlRYTkkxYVEtNFVJZXBrd1VEbFVuMExRbnZpekE?oc=5",
       "pubDate": "Wed, 01 Jul 2026 18:40:03 GMT",
@@ -857,19 +831,6 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Israel moves second dose of MMRV vaccine to 18 months - Israel National News",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBncld5RnFhemtpWUlFQ3p4MjAtV0gzYnJ3RVM3MXdvRExGbWxRakFNN0w2WVFzZmdBWEZhMzdVQmhWcFlsUkdLNGsyOVlQMjJZZjRLeFMxUVZHUQ?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 11:37:00 GMT",
-      "description": "Israel moves second dose of MMRV vaccine to 18 months Israel National News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1095,6 +1056,19 @@
       "articleLabel": "Research"
     },
     {
+      "title": "Billions of mRNA vaccine doses’ review underpins their effectiveness - Euronews",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV2ZaeTF3VG5wUDlFclQ3SWZGeUZtUkIxc0tjdUI2ZFFtTkFQRTdwQXN5V1N2MGJvRnZCTWlZZ1hjTW8tNGc4dXNYTGpLYVZUUmRxclFETnVIQXBkT1Rya3BBRlEtSENGbXpzbnlTeXRWTndqRFBJNjNYd1ptUUpvLW94REJpTjhiZTh0TUV1bW1VYmt4elBpTXVTc0FmOGFjd2NKWGR5eVRBMUdiZk9F?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 14:48:53 GMT",
+      "description": "Billions of mRNA vaccine doses’ review underpins their effectiveness Euronews",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Anixa Biosciences secures Korean patent for breast cancer vaccine - Pharmaceutical Technology",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQclRBWmxMWmVzeTBJQVFUemtMdDdyVTRDWlZhc0Y1Ry1pTHlvVnpZWjF1T3Z6NVVBM3kyRWRoN2tnZGxvakpnT0VzUU9BUkpZSkJxM2RMYkI5dHNvWFdoa2NOLTJndkxnQWxNcHlieTk0eFVmM2JPZEFDeW43VzgzVHctWkY1ZFhYVVlGaVAxUDJwYVU?oc=5",
       "pubDate": "Tue, 30 Jun 2026 11:55:50 GMT",
@@ -1147,19 +1121,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "HPV vaccine: cervical cancer deaths plummet among young women in England - VaccinesToday",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ0dnbXozUF90LXJNeWloZG5GQlhZOXVPN052VmxheWZmZEZPT1VKd0J6VmpPcHItVXNxRUh3Q1o2RjRIcEx1ZEZPVGVSRjl3dlg0RkdBbENiVzhEeHlNazJtbDF2T1Bmbld6MEl2T2gxUnItN09oTU5icC1uVGhKamRILVI2R0dOb2hVdUloeXZBcnRsZ3IyX3ZXNGpfbUVuWUV6MG5xcFI3bEJEV3c?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 09:19:25 GMT",
-      "description": "HPV vaccine: cervical cancer deaths plummet among young women in England VaccinesToday",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hpv",
-      "vaccineLabel": "HPV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "KFF Tracking Poll on Health Information and Trust: Update on Common Vaccine Myths - KFF",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSFNVLVhXR0FjdFkxM3BHbzltaEdyb3VTMld1V0VHeEhoR29SbERSNVpraWpWMXJMc3pPR2xjMFNNSHdHMEdRQ1hxdU53ZkFrSTZvbTE3cEVHYUV0STViMHA3R1R2ZEstaWtmRDEzUzU3RzJCcjU0bWhKZzNOUTZOdEp0X1BueE9vc1ZicE53QXVqU0hkRzVoeVZsVFBFNFFJY2M2VFlEMDdzdHRLT0ZfNS02Y2ZhS1k?oc=5",
       "pubDate": "Tue, 30 Jun 2026 09:08:40 GMT",
@@ -1203,6 +1164,19 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcVFMd2VobEV1VF94WlV0M1Rfblo3TV9mSkJ0a212Y0ROdDVGNTVqZ0RiZG1OeUZ2VXFEUk93Q0tIWlhqeFlGZUtqU3NfVkwzbkQzOGRYSE9kMzFseFZUa1YxSXZMeTRxX2Y1X281SE0tU0lUbmFJOGpPMm1BZnBpcG9wWDhEZ1Njd1owYkJvZldaa0F3YUE?oc=5",
       "pubDate": "Mon, 29 Jun 2026 23:40:01 GMT",
       "description": "Experimental vaccine for 'neglected disease' carried by hundreds of millions of people shows promising results Medical Xpress",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Vaccine Confidence Strategies and Emerging Vaccinology Science - National Foundation for Infectious Diseases",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMm5NQ1U1TEdIZDJ4NFpIM29rSlNTdkJwX2hQVEZ5bWotU25jWm14NEdpbzR6UFlmUmZZeVJCSGMyX0ZWMzd6ZG14enZMRmNLcjloUDRMREprYk9Sa1Q1SkRlUHBVQm1scUtoYW9hNFlaZ2diM0tlaFk4a0RibUR1WTNvV1U4TjRGOVBRVA?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 15:25:14 GMT",
+      "description": "Vaccine Confidence Strategies and Emerging Vaccinology Science National Foundation for Infectious Diseases",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
