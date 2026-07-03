@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-03T03:39:06.348Z",
-  "itemCount": 91,
+  "updatedAt": "2026-07-03T05:41:50.312Z",
+  "itemCount": 90,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 14
+      "count": 17
     },
     {
       "key": "flu",
@@ -20,12 +20,17 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 11
+      "count": 10
     },
     {
       "key": "hpv",
       "label": "HPV",
-      "count": 4
+      "count": 3
+    },
+    {
+      "key": "polio",
+      "label": "Polio",
+      "count": 1
     },
     {
       "key": "hepatitis",
@@ -33,14 +38,9 @@
       "count": 1
     },
     {
-      "key": "meningococcal",
-      "label": "Meningococcal",
-      "count": 2
-    },
-    {
       "key": "shingles",
       "label": "Shingles",
-      "count": 1
+      "count": 2
     },
     {
       "key": "malaria",
@@ -50,10 +50,49 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 46
+      "count": 44
     }
   ],
   "items": [
+    {
+      "title": "Doctor urges shingles vaccine for elderly; expert explains blood sugar link - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQUxtVURkZU1wYTMyekhid25qNWhpTTBfeUVMUzVHaGNSZ2ZoT1Z1ME5ZMmk2YktKRS1mSEN2c0ZHY3VVdmc3TTRpb0dzZk92cEUwRk1EbTR4LTFTR3RxOG1wLTZzbWZZclNNOHBrcTNTSmI1TVZIbHZ6MC1VOHNYMUJPdnNZaUZldzNmMHU2SkkxeWFuMWVFVWpRajF0dG5yVVhScEdyZjhDWWF2dU5CYkNWal9XS05qeEpPZUxXajdUb2PSAcoBQVVfeXFMTmF1czJCQ3llMjVYekJjdmNqN1hJb2c5UURDaWhCUVR4eWpJZXRSa3dqM1BNYUNYRTRDSDdjWndhOXEzMFFZNjM2dEhCN1JyYmdpcjdMNF96WENjVjRaaXdQRDQ2YXRsbnduZDdwNllLd1Z1NVRpTlRQTGNlWjRYb1dETWFBb3p1M1lDMUd6eVF3ejRXaU8xMjB2QzU4WXZOMDYxRUxQdVF6dUdYb2F2emI1VXdydURtMWgwWG90bmNxalNpa2ktdWtvUQ?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 05:30:12 GMT",
+      "description": "Doctor urges shingles vaccine for elderly; expert explains blood sugar link The Indian Express",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "shingles",
+      "vaccineLabel": "Shingles",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Could One Vaccine Replace Three? Early Flu, COVID, RSV Shot Shows Promise, New Study Says - StudyFinds",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYXhRa1FyYTJvaTFJMmxiZXZXZUc2a2xiQmdaQXFSY0xxa1VlSmhKSmtqVktWWThlVHlsZWpJNVNkS0FvSXRHeGZPLTZJdzlUTmpIMDB3MkFaeXFUa2NtVDVoQUxuSldZcW84dWp4YWxwOFJWUzlKS2F6ZmJWRzhwWjdVRV9mNFlkVU1EbGRiUWlMRXYxejJrcFg4SnQxc01pQXd2bTRGX1Q2UnFpeGc?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 05:24:00 GMT",
+      "description": "Could One Vaccine Replace Three? Early Flu, COVID, RSV Shot Shows Promise, New Study Says StudyFinds",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "The complicated man who developed the oral polio vaccine in Cincinnati - Cincinnati Enquirer",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORDMzOHp5b01fYVF3N3o4dWNUcVN0YjBfLTZkdjhNRXlWMTFtSW1xQzVwX1RyUmRYU1lRbU1yaF9sWkpfLXJGcVRRUWVYUXF2RWpNNDQ5Njdpa3RCSzU5S2V2ellXYU51c1VxclBBV2xVT09XMW5zZURYdmxzMmJOLU12R1lhMF9uMUFfVkhhUlBPOTVUOGZpZHlaRFRwbkkxM29MaVBkU3hWZkhzbVBMRm0xWTdGR29scXJjU3FwbVV5YmptQ2JzRnRxQTExOUZr?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 04:20:00 GMT",
+      "description": "The complicated man who developed the oral polio vaccine in Cincinnati Cincinnati Enquirer",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "polio",
+      "vaccineLabel": "Polio",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "GSK's RSV vaccine Arexvy approved for high-risk adults aged 18-49 in Korea - koreabiomed.com",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FTV81YVQ3VGdOVXpFNkFyWHpNdDd5VGNnRmYycEJmNjhpWG1JLWpvZm9oNXdidmlNbVJKOVdDRzhEQzNZX1BocDhfOHFjaUs1U1Mwd1hLTmx5NlAwZkloWGU5UFBhNFhJbzVJdzd30gFyQVVfeXFMTl9HQlpfaEk5OU8zb2J4Z0llazVWQmN2MkNpVC1JQkl2RW5iSGVfU1BPR19wb1ZpSkRMUFZibHlRWWVBVnlLWFktWmwzelV6Nk1LZk5BVWFZMzlsQ3FyTll2a2tlUkw2ZWFNQkR6bllvUG13?oc=5",
@@ -263,23 +302,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Inside the largest US measles outbreak in decades: Records reveal spread in vaccine-hesitant community - KNSI",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYVg4Vjg4Z2liQ0c4NktPWVgxV1JmQ19LbzF5MVAzanEtZHAzeUhncnAyZHlEblpQS24xOWxNMWk4azRHeXF0REpQY2QtazN6UVF5SGtNMDI5bHJLbkgyYkNnaVdNM0kxSGVOb3pha2RwWHdndV9wQWRSNVdlQmp3cXV6QVZxUXBkejBwSjFzOGdyb2dEYVJoWFBKaTAxMjNYM3RQb0tvV0dYTTNwNG5ZUFZubzhkMHF0R09RNG5PbHpBVV9UV0RSYnQzeXJaQ1ZN?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 18:35:58 GMT",
-      "description": "Inside the largest US measles outbreak in decades: Records reveal spread in vaccine-hesitant community KNSI",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Measles vaccination rates climb slightly for some Texas children - kvue.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdHQtaUxVdXNmTjV5Nkxpclp4c29yeGFnSl84SklQR0RGTjRfQ09lM0xMckQzYmNPZmtmZFZRYk5xVXhjcVNJTjBhT29mX003Yzc2aW5FLVl1ZDBFSkpjc1NYSlR6dUMzdDUxc0REejZQa2NjcDk1OHh5SjJVNE85c0Fyb0JOWmI4eHY0cUdwcXQ4NGFsRFVEYzQ0dzlJWnVpWUptdEJvbUxOWmNvT3VoVkhMcw?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 18:35:00 GMT",
-      "description": "Measles vaccination rates climb slightly for some Texas children kvue.com",
+      "title": "Measles vaccination rates climb slightly for some Texas children - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVktENTFXQzNwajlTWEptRFF0MTk1eVdaeXJjaWZpTUVndUxwZUtybEVMT2hLek9POWRteDB4di1zVUlzdEtvZVkycUFHS3ZUNm5CbUwxUE1Oa2FfVW5iQWE1TkQ5NHNXcWFVSkhzVlBaUXNBZVhjRkk1SGE5bWlHMUc4bUhRUWhPclVSWlN3RDhLRkE5ekJPemN3?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 18:22:56 GMT",
+      "description": "Measles vaccination rates climb slightly for some Texas children Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -329,7 +355,7 @@
     },
     {
       "title": "One Shot Could Cover Influenza, COVID-19, and RSV Tripledemic - Technology Networks",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOW5lNU1LX3hxY0NOVmhHVTU1cDR2akRONWxwUFA4dFZYRzBpM2U1WWY3VVlLTzJNZk01bDlKSHJ1Z1RjNHJvMXp3V1BOemJiblNOd25sU1Y1LWl2eG9JbkpMdmc1SG9JcWpFTzZJYTlaNDIyREh3ZlR4SWpvUTlOcmFMRWZEVHRqdUZ4ZnZWZG5qX0tabk1HdDlrajAwbl9TQnZ2cWh5NTZ2T3Fmb0E?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS1pxWXNZY3Q5QlYxcl80U3p3TzZoRHVTMlNtaGh2bm5QN2RZbEh3S3ZkYUtiZUJEdnotZmREOExaanBFb0dIMHhOeFNtR1hKb0JweFVycXdQQkhPNFJ4eVRnRkVHN1ZyOEJ5OXJvT0lCZl82NU96OXFQcmZSYjUyTVEzR1o1VW1LaDZIWVhCaExNaUZHMkJObFVVSnpLMDlxeHNuZDdlNy04bWgtdU5OWVpIOG0yZ1U?oc=5",
       "pubDate": "Thu, 02 Jul 2026 15:41:23 GMT",
       "description": "One Shot Could Cover Influenza, COVID-19, and RSV Tripledemic Technology Networks",
       "source": "news.google.com",
@@ -562,10 +588,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Health network urges early measles vaccine for qualified eastern Pa. children as cases rise - Lehighvalleylive.com",
+      "title": "Health network urges early measles vaccine for qualified eastern Pa. children as cases rise - LehighValleyLive.com",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNTFfaDBzNEh3elJ3Y1Z5SW83eUFKUmk2SDllbXFOU3A5cDhkY1phTzlkdGVveUQ1cWxaSFh2d2NCX0ZLR21yZUwtX2tTaE55UkdaZVJ6akJqdzE1NFBlNldjX1FEdjJ5bnZuTktTbHFCR2JlNTR3clBBYVF2dFgxMC1YbWF2MXhlcmJRT2E4ajNmQkQ3ZUtjdTZHN0VORGp0bFJhRS1kNW5RNDIxelVNUGNHSE5XeW1UMnVodjc1eEZabm1SZTNyaTNQQ2pWb1JvVGgyOE01cGo?oc=5",
       "pubDate": "Thu, 02 Jul 2026 10:00:00 GMT",
-      "description": "Health network urges early measles vaccine for qualified eastern Pa. children as cases rise Lehighvalleylive.com",
+      "description": "Health network urges early measles vaccine for qualified eastern Pa. children as cases rise LehighValleyLive.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -584,19 +610,6 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "A Singular Approach to Combatting Infectious Disease - The Medicine Maker",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQlpTSkFiLVdFYWpFc3FMU2d0dTU1RXBPXzNLSXBlaDJmOTMtT1RSN1Y1cTJKc3hRcW5wZ0xhSlZsbUpxN3RXOFYzZ2c3YVVWSzBaZDBhRkxwSVotU1dvNjg5ZkFNa0o3WDM4SEdIaUlWaTBfTVg5cmp5dHBrbXdSZHBscmRPaFQ1Q0lJV3dkZ2c1MlJDTWRNSlVaVkdTUl9HQnRQT2tPUFlWbHFE?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 09:29:56 GMT",
-      "description": "A Singular Approach to Combatting Infectious Disease The Medicine Maker",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -631,32 +644,6 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUXc1Q1BRV3hJcjNFNS14NkJHZnp0ZWlVY1NhY2IycjBPdENDc0xRQXZsdmY2anFYbEJzQU91dldRYlBqTnFkWDU1SXVhLUxwZFF1UzdwTEdtdElUOVRURWlnSXI2X0NiYkI4UENKMm9NMklIVkhsa0FxZjFlUE5ycnhHOFdNb1BRdzREZkcxRkNIUTBuZEpORk54d1FIclF1VFpfeVluNThONFlmRFU5V3hMOFU?oc=5",
       "pubDate": "Thu, 02 Jul 2026 03:21:00 GMT",
       "description": "KFF poll finds vaccine myths reach many Americans but convince few News-Medical",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Meningitis vaccine required for Texas college students, pharmacist warns of deadly risk - KCBD.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUXFYMmk4WnhtOTJpZlJ6V1FyZ28xM1ZYalVKNkZ0STBPT1RuQmh2WWFNbWFFT3RPb0xhcGg2cGhJSWZXN3hBOEZBTDJWYlF5Qml3NXZ1bTg1QVBOREVjWF92aElMR2hGbjd4VkY3bHRxRWV1TGtySUZUeXhMMTJtcWdob0VIaDdpaEhzM1hCcHFXUE5PbjNjQmlBRmxtY2pxTWZBV1pqQ29YQ19hZ2ZMRzRB0gHGAUFVX3lxTE81aC0wbWZNbWdmU2dobDh4LV9fWVVuc1M2VEdqRlhaLXlteGxyVjVGcUQtVHBIWERMeXgzbjhLWUxYU0Zhdy1IbXpLQUNMMXZWY0xaTmxNNl9rVXBLYmstYUQ5S0k0S3pnY1pTYy1NVkJ2QUFDSjl1dXQ1TGpYNzU3STF0MmxUTjNfZHpGdG5hWmJpVXJmNHkxX1pxLV9xZ0F5N0tlMjRqXzJnb2d5OFA2eGw5akxoZmRQUWdDRkthaTZGQjBZQQ?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 00:59:00 GMT",
-      "description": "Meningitis vaccine required for Texas college students, pharmacist warns of deadly risk KCBD.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "meningococcal",
-      "vaccineLabel": "Meningococcal",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Vaccination resources being offered to help keep active children healthy - The Lufkin Daily News",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZmxZbjYyRVpEN1J6THJBQ1JTVVNZb0ZNNk92ajA2dHU3clZQeVRxLVJha2ZaWU5XbExjTTg4SkVtQ3Bnajd4SDF2d1pnb2lKYU14UzBoX2dZSC1FRnloemJvTU81U2dKTEtNR3FhbHdWYkJmRk1mZ2hrd182clYtcHNsZ1N2dE1iS1BJODFLdEN6cUVLTFdmRlpqZmprZkZYLXhpWUhObFdBVElFUHpiQndwYkVGcXpSdS1DV0g3Si1MOG15YVF5ZUVSX2lKNjNHdlg3QmJtdkN3M0QxTWRLVE43WVoxS0p5RGtKOGM2VHhVN2txeXdVdg?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 00:45:00 GMT",
-      "description": "Vaccination resources being offered to help keep active children healthy The Lufkin Daily News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -861,6 +848,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Parent and Caregiver Willingness for Childhood COVID-19 Vaccination in Urban Uganda: Applying the Behavioral and Social Drivers (BeSD) Framework - Cureus",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNUS11VjBhdHVnUzFkdERvZ1k2MlpKWjM1TXNtQldMTXNtUWRfZFZoVmFwQUE1NUFWQkM0b190dERUUlpwakZ1MWpkUW95X1RvTi1KRGpoQnpSNHNtOTY5dU8zNFRkREt1cVVDOGhLaEloTFo5VmtYOGVxalBCLTUzSk9WWVV1NndOb2s0TnVzSjVtNkluUVdnWi1kTTJLSWpXVndpc0pLdnJiQmVEZVZ2dXJoRGpjZ2FPODFVc1VoanJDNENmcGdZZ3FwMDhIeUxzZTZ2VE11Z3ducC13S21lNGVzOHBYQjQyWmJrdkl3eUQ1dzBMS0tLNGdDMi04WVJocm93eG9OVWNTZ1B5?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 12:15:52 GMT",
+      "description": "Parent and Caregiver Willingness for Childhood COVID-19 Vaccination in Urban Uganda: Applying the Behavioral and Social Drivers (BeSD) Framework Cureus",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Israel moves second dose of MMRV vaccine to 18 months - Israel National News",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBncld5RnFhemtpWUlFQ3p4MjAtV0gzYnJ3RVM3MXdvRExGbWxRakFNN0w2WVFzZmdBWEZhMzdVQmhWcFlsUkdLNGsyOVlQMjJZZjRLeFMxUVZHUQ?oc=5",
       "pubDate": "Wed, 01 Jul 2026 11:37:00 GMT",
@@ -872,19 +872,6 @@
       "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "Is the meningitis vaccine safe? - Understanding Animal Research",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZkMxMDhaTEtYVTVVMDZ6THQ5WV8yU1F0dldqMUVaNHpEZ1Q1aXRLV1c5N3dsOXlhVHpreExYLTNrLWZILVJhbDl0eGRrRXFoZzNnV3NWenF1UTVCbS1pTG9hUU0tRWpycnBjY0lMUVotSXdCZzZJd0ljOTlXdXNwLXdMRVkwYVpKU2c?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 10:14:50 GMT",
-      "description": "Is the meningitis vaccine safe? Understanding Animal Research",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "meningococcal",
-      "vaccineLabel": "Meningococcal",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "Vaccine to treat ‘neglected disease’ shows promising results - CBS7",
@@ -1017,6 +1004,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Same-Day COVID-19, Influenza Vaccination Does Not Increase Adverse Events - Drug Topics",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPamdwNmZNVmUtUENGaXVfOWxOYXhZVDd3NmkxS09BaXQtWU91bW9CSDIwbTdDR3lmcUZtY2h6QjFsdEZ6NmN1cnFGV2tzNURZMDR3WlU3M2N5MjF1dEhSRXFOdVZIc01peGc1ZkR6a1huZVhIcTY1N01hdU9ZV29EOFB0cnNvQ2JUQVd6MGNSN2JDN1ZVaUpBV0E4cTdndzlqMnRJV0lNbw?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 18:47:03 GMT",
+      "description": "Same-Day COVID-19, Influenza Vaccination Does Not Increase Adverse Events Drug Topics",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "The ongoing impact of U.S. vaccine hesitancy - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZW5neEZ5RzRpdk1hMzZ2bC1fdFFRcFZEWE1McXd0MjBTNTVlMzRRcVNiTG0xcHEwdTN4MTY5NHRNcU1oeHQxSlBpWUp1R0d0UzVVS3pQQjJMSkRvcFY3ODlLTHhuT2loakp1d0ZWYWVWSi1ocFQtZmc3V1ZQV1EzTzRZVnNNa21vU01RZU5n?oc=5",
       "pubDate": "Tue, 30 Jun 2026 18:30:00 GMT",
@@ -1095,15 +1095,15 @@
       "articleLabel": "Research"
     },
     {
-      "title": "High HPV vaccine uptake cuts cervical cancer deaths in women - News-Medical",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYlU4cEk1eXVBOFk5aktMR2hPQ1lnUVBnaTdaQmx1UjBpV3BON2lva1d5XzBma2dSTjJtSGVqdi1saDl1dFBwbkJxdmVQcmgwcEpoSGc5NG1BQmY5VWI5czRvN1pwZnN3OGNoUUc4eGE4Q3RncDBjLUZJSzdSZ0hiNklTVFZxcXVEdVRTMmpRdGR4emlGTUhmM29MMFhlblNmYUZzc2s1b1V3UGZh?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 13:53:00 GMT",
-      "description": "High HPV vaccine uptake cuts cervical cancer deaths in women News-Medical",
+      "title": "Anixa Biosciences secures Korean patent for breast cancer vaccine - Pharmaceutical Technology",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQclRBWmxMWmVzeTBJQVFUemtMdDdyVTRDWlZhc0Y1Ry1pTHlvVnpZWjF1T3Z6NVVBM3kyRWRoN2tnZGxvakpnT0VzUU9BUkpZSkJxM2RMYkI5dHNvWFdoa2NOLTJndkxnQWxNcHlieTk0eFVmM2JPZEFDeW43VzgzVHctWkY1ZFhYVVlGaVAxUDJwYVU?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 11:55:50 GMT",
+      "description": "Anixa Biosciences secures Korean patent for breast cancer vaccine Pharmaceutical Technology",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "hpv",
-      "vaccineLabel": "HPV",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1203,19 +1203,6 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcVFMd2VobEV1VF94WlV0M1Rfblo3TV9mSkJ0a212Y0ROdDVGNTVqZ0RiZG1OeUZ2VXFEUk93Q0tIWlhqeFlGZUtqU3NfVkwzbkQzOGRYSE9kMzFseFZUa1YxSXZMeTRxX2Y1X281SE0tU0lUbmFJOGpPMm1BZnBpcG9wWDhEZ1Njd1owYkJvZldaa0F3YUE?oc=5",
       "pubDate": "Mon, 29 Jun 2026 23:40:01 GMT",
       "description": "Experimental vaccine for 'neglected disease' carried by hundreds of millions of people shows promising results Medical Xpress",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Vaccine Confidence Strategies and Emerging Vaccinology Science - National Foundation for Infectious Diseases",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMm5NQ1U1TEdIZDJ4NFpIM29rSlNTdkJwX2hQVEZ5bWotU25jWm14NEdpbzR6UFlmUmZZeVJCSGMyX0ZWMzd6ZG14enZMRmNLcjloUDRMREprYk9Sa1Q1SkRlUHBVQm1scUtoYW9hNFlaZ2diM0tlaFk4a0RibUR1WTNvV1U4TjRGOVBRVA?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 15:25:14 GMT",
-      "description": "Vaccine Confidence Strategies and Emerging Vaccinology Science National Foundation for Infectious Diseases",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
