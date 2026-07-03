@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-03T18:49:07.322Z",
-  "itemCount": 81,
+  "updatedAt": "2026-07-03T19:56:23.704Z",
+  "itemCount": 84,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 16
+      "count": 15
     },
     {
       "key": "flu",
@@ -15,12 +15,12 @@
     {
       "key": "rsv",
       "label": "RSV",
-      "count": 2
+      "count": 3
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 9
+      "count": 11
     },
     {
       "key": "hpv",
@@ -60,10 +60,36 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 39
+      "count": 40
     }
   ],
   "items": [
+    {
+      "title": "Nearly 40 lakh fewer children got measles jab - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUXRrV3E0VG1IU1h0c29ET2lLRlpkaUkxZG1PaDlyOXRsaEVSY0I5ejE2SmhLUDhrel9mQTJxTzFoNkRpLVFpdkd5UlJuN0k5N3k3WnBrZm5IcjBRRFRmTE5seEZ3cWlKNlNZWDAxRHRFb3NvMFE2ejdaTHNIU0NzcnhNRXZRSGpmck54bGdxTHNZck56amMwcnA2a1NPMFplM3RiaHFR?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 19:22:59 GMT",
+      "description": "Nearly 40 lakh fewer children got measles jab The Daily Star",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "NHS Extends RSV Jab to At-Risk Adults Aged 65-74 - Medscape",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNlJ1ZG5rbkZOVlJYY3JZZS0zdTh4Nk0zeU1KNlhabHRJSTVXMjcwS3NFZ3FJVFZnbGpFUkVIWFJLMDB5bF9mMk1pZG9oRjI2WVpNZDlPU18tSHRwYmM3blVsSTRDV0NRUkE4X0paWlRaT1hoMXB3Z0h1SzZWdEM1c3k0Vi1lT0hvb3JvSHhTVHZIbG8wVVhZ?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 19:15:12 GMT",
+      "description": "NHS Extends RSV Jab to At-Risk Adults Aged 65-74 Medscape",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "rsv",
+      "vaccineLabel": "RSV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Functional Recovery Following Post-vaccination Neurological Syndrome With Demyelinating Findings on Magnetic Resonance Imaging (MRI): A Case Report - Cureus",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNSkRvVDRRblFfbFJhaDZzOG5Nd2lmSWNDTkk3UUpra2hiOW9lVHJoS19Rb29GeTF5MFlfZDBjYWRmeDU4Z0s5YXJzaDJGV0YwSWlRc0hBNlhZR0Q5UHh2UjY2OFhsQ01oZktRLU54WF96WFBUVGNHOGx1NXBWYURIUUtlcUNuaFJpdkl3NXFyeE92RDNkSk95cUpFSHJFS1EzVDM3YWhGNEMxMGhxOE9EUXVJVkY4dUdMWXZWZUFCS09GVVBOeEVnMWJyWXpCc01DVnVtNzQzVkt5QmFQSDM4MkJaNjZNZi14MzNvR3B5YW01VjlPeHpfSEV4cFVOVU4wMVVjdm51OXZrcXk5dVA3dQ?oc=5",
@@ -95,6 +121,32 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSDhpRkNmUGdralJuWjdxUjQ4RWU0R0ZYMUJxRmRWdHRCQ3pGTDdDdUpUZVROTWRIWWRQWEVBSnhEMXpnNXFOdkVYTmszYjlDOFd6SG5QbVZmZExFaGNEM1F3cFRNVHY1b2JjMmRjSnp3a21RLW5tZ0kwS1hqbDJ1dTlQM0F6ZlNCY1B1SWgxU3diWGw3VklUd2loZkFPUGdUXzM4ejByR2MyLWhuYTI2b2Zn?oc=5",
       "pubDate": "Fri, 03 Jul 2026 15:43:35 GMT",
       "description": "SK bioscience to Develop AI Vaccine Platform Funded by Bill & Melinda Gates Foundation geneonline.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Texas Measles Outbreak May Have Prompted Slight Increase in Vaccination Rates - KSST Radio",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUW1GLWtZSFdiaUhkbDhRWm5QYjhpS0o4ZUpuWWdCczFTSVZoRmRqNG9tX2E4bFE5Tms5TmpTMjZrNjB1ZDBLUzdaSXdLZ2ZIaHRDWkt0dDRnckQtbi1zT29NNk9rcks0TzVuYXhoQ19tSVAwRFZiNVp2ZUl1cHR1dHRrT2hNWExjY2VXWFRkTk96RWZheWJFN1oza1ZMWGpTQ09ZZVJFd3UzM3lCWUwwZVFn?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 14:51:08 GMT",
+      "description": "Texas Measles Outbreak May Have Prompted Slight Increase in Vaccination Rates KSST Radio",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "In Nigeria, immunisation days become nutrition school for parents - Gavi, the Vaccine Alliance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY1VPaFpSTGRtYWY2am1VTmlaejZ4SWY0RUV1UW03ckxqVG1mTl9aQ1J1OWJBTXk2RlhnUFVza25xdkpXTHA1VW5XeGtfeWtDNGRkSDhoUEJzVktYOXhsczVKWEFPWkRUUkFlYl9Xc2NDcVYzU1ZZLTlTYW5SZ1kxTjdqNWtJSTFWM3FZeUk5ZHN0dmFXQUE?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 13:58:30 GMT",
+      "description": "In Nigeria, immunisation days become nutrition school for parents Gavi, the Vaccine Alliance",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -351,19 +403,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Adverse Event Risk Not Up With Same Day COVID-19, Flu Vaccination - HealthDay",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcFI5OWxEZEpGVUVvYUs2NzlxRjJsMk1LU3Vfd2JQdGJoRkdUc3pQQXdTZ0hKc2dQUWtqLW1ucTRSYllGUG5EOGhLbFRsOVJrMW84ZjZMQ3ZCTkE2dHc2bDJVVVBVRm5jY0J2a3pFZUZzbndrZG5tSW1RREZYZW1fRjRwY2lIaDkwOTVsZk5HSmxNUE5WOVpjRnJuT1M4NkpEZFVMZm84QkpkX2dZZ1FNX0dkQnpSMlZNWjJV?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 19:54:05 GMT",
-      "description": "Adverse Event Risk Not Up With Same Day COVID-19, Flu Vaccination HealthDay",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Most women opt for maternal RSV vaccination, prefer it to infant immunization, international study finds - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRXJwa1ZqMWpIV3RZSW9uYzItbzNJQ2RhYkhQV3JpQ181NUFhX3JrYnA1bDJ3NFI4SzF3ZmpYdHF3RDFubXJFZXIyYmFpT0dxVHoxY3BmYjI2eGxFOU9YcU9mLTFTazNkQUZlNnRiYV8xeXBBWUNJY1k3Wk9HREZMbVo3UmxHX0dOYk41eEZZMHVMMEhUWndiQWZuTENXU1JTWHpfOEFUdGV3U0dZYjdXRVVOaEUtdHp2V3dz?oc=5",
       "pubDate": "Thu, 02 Jul 2026 19:44:00 GMT",
@@ -481,10 +520,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "New Poll Connects Social Media and Chatbots With Spread of Vaccine Misinformation - cnet.com",
+      "title": "New Poll Connects Social Media and Chatbots With Spread of Vaccine Misinformation - CNET",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMjczNFBvOHltcklidjZFODdqdnZXSG5wdUFiYnBwSWF1NDhheWV2LWhnMEZHMkRITnlfWU02M3J3YmdpdkxmU2NUOGUxeDVKYU1Dc1dQS0p0Vmt0UEJWelUxSzdPcGdNM050dTYxOWx2NlpiMVllMm1odDVtNDhDS2IxRVo4R2FWNWt0c2t1czk2Z2hmTjZWa3JPMjFLQmtmbVlNZE45Q2VOQXdEc1Uw?oc=5",
       "pubDate": "Thu, 02 Jul 2026 14:00:00 GMT",
-      "description": "New Poll Connects Social Media and Chatbots With Spread of Vaccine Misinformation cnet.com",
+      "description": "New Poll Connects Social Media and Chatbots With Spread of Vaccine Misinformation CNET",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -884,6 +923,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Current CDC Vaccine Price List | VFC Program - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzcDlFY0E3MFdhQmZETTZXa2hSdmxmc2x5TC1XVXNhM2xqUmk2V0Vmd09sOUlSc3Y1bjJCQVlrVWZDSF8zc0lXOXRTM0JNaHV5YlVBcnNDdkZEdE5DQUhYVGNwV3FubzVDWThzLUZqcldYMGNOTkE?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+      "description": "Current CDC Vaccine Price List | VFC Program Centers for Disease Control and Prevention | CDC (.gov)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Cases of Rare but Dangerous Powassan Tick Virus Rising in US - Vaccine Advisor",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN1EtRy1UMVk3bzkwZEZwaGV1UjItclVRckFnZlR0Q1N0QVpaLTRuMkRPckw3dU9kdFM4MjNwVEdPUGpycVZDcGpYbXdYaHVsemc5VFF0aGpSWWZOamcyUm1jZ1dSS3RpV0RfeHMxMTJ6MjBjV2lCc2JiclcyQ0cyMDU5cHNma2hKRDAzaFFmaGVHOTFWOXM3WkZFdmJ1dw?oc=5",
       "pubDate": "Wed, 01 Jul 2026 04:00:00 GMT",
@@ -940,19 +992,6 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYXNOYjVUeWRlRy1fTU05c1VCeTNIMGxkeG9semE5QWEzRnk2a2x2TlcwakFQdXdjUm4wR2NBd1dLaDFMajlhMng0WTl6cEVyUDdGOVo4ZzJEeTNWU0MxdmRkMTB3Z3J3X2xMZTZDUkc5cDJsUFNEWlVSaGFoRXRJcXVaNTdkY004UjZJeUhoRVQ4OVFnaE9NbmdhWDVLZ3gwd1phVkJXXzN0S1pVUlpiaXloMFU?oc=5",
       "pubDate": "Tue, 30 Jun 2026 20:49:42 GMT",
       "description": "New US poll identifies large ‘malleable middle’ on vaccine misinformation CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "RFK Jr Changes Terms for US Vaccine Committee as Email Leak Reveals Sustained Political Interference in Vaccine Policy - Health Policy Watch",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaEtKRlY2Zm1sRC1vNXNkS2dibE9vREd0ZFRuQWdIYno4X2lUMnJxcVNtVHh2MWxlTldmM19JVzV5ZjdYTVNjbnZCUGlzckFvOVFwcm84WloyM1VlN2VtcjhYZFY1U1FnbGVPUlhRSG9SSWpGNlFtYnRCMjhnYTdWdw?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 19:46:32 GMT",
-      "description": "RFK Jr Changes Terms for US Vaccine Committee as Email Leak Reveals Sustained Political Interference in Vaccine Policy Health Policy Watch",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
