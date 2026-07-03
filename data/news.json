@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-03T22:45:11.655Z",
-  "itemCount": 82,
+  "updatedAt": "2026-07-03T23:45:46.085Z",
+  "itemCount": 83,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 15
+      "count": 14
     },
     {
       "key": "flu",
@@ -30,7 +30,7 @@
     {
       "key": "hepatitis",
       "label": "Hepatitis",
-      "count": 1
+      "count": 2
     },
     {
       "key": "meningococcal",
@@ -50,7 +50,7 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 41
+      "count": 42
     }
   ],
   "items": [
@@ -77,19 +77,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Nearly 40 lakh fewer children got measles jab - The Daily Star",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUXRrV3E0VG1IU1h0c29ET2lLRlpkaUkxZG1PaDlyOXRsaEVSY0I5ejE2SmhLUDhrel9mQTJxTzFoNkRpLVFpdkd5UlJuN0k5N3k3WnBrZm5IcjBRRFRmTE5seEZ3cWlKNlNZWDAxRHRFb3NvMFE2ejdaTHNIU0NzcnhNRXZRSGpmck54bGdxTHNZck56amMwcnA2a1NPMFplM3RiaHFR?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 19:22:59 GMT",
-      "description": "Nearly 40 lakh fewer children got measles jab The Daily Star",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -142,6 +129,32 @@
       "sourceLabel": "News",
       "vaccineKey": "flu",
       "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Cervical cancer - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YbGwxRnppT1RaNDdubnJjdHVudGV4b0tQMTRYQzF4VkhEbldzZTMzY0U1YTRQdWg1V1F3UVdZd1g5OXd4TXBzUndMZ19lRDlqTV9NQmtUVDRjaFJfcERtN1Eyb212bFh6S1JvRWtYQ250QQ?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 17:09:18 GMT",
+      "description": "Cervical cancer World Health Organization (WHO)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Vaccination rates in Texas schools have been dropping - Baytown Sun",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOUZaS1ZCUUlISzZqWjdJNDZvTmZTamRJZ2cxRFFkYWlJLVdjczhMZnh0b0FJQjVEUWwtUWdZU202NzE1Rnd4djdreXJFRXZ3NExCdk1acno1dW1UYXc0X0hlOXdMMUVZdXlHd0ZPQnk5S3JLS2w4SUdSOUdBcGlkZnI0ejlwbVFVTzhydmNjc1FiS2lndGhzN1Riekl4c3lTQUZzNW1KYjVLY0gzZ1N5aWVhdTl1VVY1RGh0c0JpazA0S2RZTmVqZ2NIcUY?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 16:53:00 GMT",
+      "description": "Vaccination rates in Texas schools have been dropping Baytown Sun",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hepatitis",
+      "vaccineLabel": "Hepatitis",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -250,10 +263,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Gavi Doubles Down on Global Immunization Drive, Targets 500 Million More Children Despite Funding Squeeze - 98.4 Capital FM Kenya",
+      "title": "Gavi Doubles Down on Global Immunization Drive, Targets 500 Million More Children Despite Funding Squeeze - Capitalfm.co.ke",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObmZwT2gtNDVVNkZPV0hLdmFFTXFZbGdNa0Rzandjdm9lRnUtbkVULUV4X2IzYjlaeDVOX1c5N1k0MUxLNEUtNE5rbllDcXNrdkFINkgwQVJiaVFsWko4a2JHbGVtTmpUMU9KY05IczhkdnNDVHRDRktZSTV2MGJTMGlmMGhORlE5V1hWd3JwVm9ZNzlNbDZPZHlaYzJOMHlLdkFpRlJETTdyY0pTdUNUa0diYnRvSHR4N1hUb1FkaWdzVTFsb25mX09B?oc=5",
       "pubDate": "Fri, 03 Jul 2026 09:27:32 GMT",
-      "description": "Gavi Doubles Down on Global Immunization Drive, Targets 500 Million More Children Despite Funding Squeeze 98.4 Capital FM Kenya",
+      "description": "Gavi Doubles Down on Global Immunization Drive, Targets 500 Million More Children Despite Funding Squeeze Capitalfm.co.ke",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -419,15 +432,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "One Shot Could Cover Influenza, COVID-19, and RSV Tripledemic - Technology Networks",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS1pxWXNZY3Q5QlYxcl80U3p3TzZoRHVTMlNtaGh2bm5QN2RZbEh3S3ZkYUtiZUJEdnotZmREOExaanBFb0dIMHhOeFNtR1hKb0JweFVycXdQQkhPNFJ4eVRnRkVHN1ZyOEJ5OXJvT0lCZl82NU96OXFQcmZSYjUyTVEzR1o1VW1LaDZIWVhCaExNaUZHMkJObFVVSnpLMDlxeHNuZDdlNy04bWgtdU5OWVpIOG0yZ1U?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 15:41:23 GMT",
-      "description": "One Shot Could Cover Influenza, COVID-19, and RSV Tripledemic Technology Networks",
+      "title": "Measles vaccination rates climb slightly for some Texas children - KVUE",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdHQtaUxVdXNmTjV5Nkxpclp4c29yeGFnSl84SklQR0RGTjRfQ09lM0xMckQzYmNPZmtmZFZRYk5xVXhjcVNJTjBhT29mX003Yzc2aW5FLVl1ZDBFSkpjc1NYSlR6dUMzdDUxc0REejZQa2NjcDk1OHh5SjJVNE85c0Fyb0JOWmI4eHY0cUdwcXQ4NGFsRFVEYzQ0dzlJWnVpWUptdEJvbUxOWmNvT3VoVkhMcw?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 18:35:00 GMT",
+      "description": "Measles vaccination rates climb slightly for some Texas children KVUE",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
