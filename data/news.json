@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-03T20:45:46.487Z",
-  "itemCount": 83,
+  "updatedAt": "2026-07-03T21:46:22.548Z",
+  "itemCount": 81,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 16
+      "count": 15
     },
     {
       "key": "flu",
@@ -20,7 +20,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 11
+      "count": 10
     },
     {
       "key": "hpv",
@@ -43,11 +43,6 @@
       "count": 1
     },
     {
-      "key": "mpox",
-      "label": "Mpox",
-      "count": 1
-    },
-    {
       "key": "malaria",
       "label": "Malaria",
       "count": 2
@@ -55,10 +50,23 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 39
+      "count": 40
     }
   ],
   "items": [
+    {
+      "title": "Vaccine mandate - TelegraphHerald.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaVlDYnNNYjd5aldnandHMDRhMjlDdE1ieE1JQWU2eVU2ekhkYTRISW1WZ3NDUjFfUFotaFp6OF9sTnNkYW1HbEp2bDA3eU5xcmh5MERWVy1lZDdFSUdHUGxKM2Rkd1dpVkVLUFRmaTF3dXhEZjIzZ1BnVXdITmFhRkJVcDNSTGp1S3hWV09iZV9TVEVmd3BySg?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 21:23:22 GMT",
+      "description": "Vaccine mandate TelegraphHerald.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Nearly 40 lakh fewer children got measles jab - The Daily Star",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUXRrV3E0VG1IU1h0c29ET2lLRlpkaUkxZG1PaDlyOXRsaEVSY0I5ejE2SmhLUDhrel9mQTJxTzFoNkRpLVFpdkd5UlJuN0k5N3k3WnBrZm5IcjBRRFRmTE5seEZ3cWlKNlNZWDAxRHRFb3NvMFE2ejdaTHNIU0NzcnhNRXZRSGpmck54bGdxTHNZck56amMwcnA2a1NPMFplM3RiaHFR?oc=5",
@@ -121,19 +129,6 @@
       "sourceLabel": "News",
       "vaccineKey": "flu",
       "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "SK bioscience to Develop AI Vaccine Platform Funded by Bill & Melinda Gates Foundation - geneonline.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSDhpRkNmUGdralJuWjdxUjQ4RWU0R0ZYMUJxRmRWdHRCQ3pGTDdDdUpUZVROTWRIWWRQWEVBSnhEMXpnNXFOdkVYTmszYjlDOFd6SG5QbVZmZExFaGNEM1F3cFRNVHY1b2JjMmRjSnp3a21RLW5tZ0kwS1hqbDJ1dTlQM0F6ZlNCY1B1SWgxU3diWGw3VklUd2loZkFPUGdUXzM4ejByR2MyLWhuYTI2b2Zn?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 15:43:35 GMT",
-      "description": "SK bioscience to Develop AI Vaccine Platform Funded by Bill & Melinda Gates Foundation geneonline.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -476,19 +471,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Virginia has high vaccination rates. Why do we have a large measles outbreak? - Charlottesville Tomorrow",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNm9ydzlvTzNZTkNqdjNMVXhLOFN6ejZiT3NITDJGWHNfWkNBVVBXUTVJZGs0S0pzTTZLckhDWE94am8tWUI2R1c3X25fSE8ydVVOVExrZzJUS0xRQ25CLW1GT2dUenZqeHliRjl1dC1DcWJPVWM4VUZwclR6NF9VMmJtSmlkOTFzazFBUkZYTVBGaGVCZEs5UlZvcFFyUjdCQWg1Zm5MTnNyYkU?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 14:22:19 GMT",
-      "description": "Virginia has high vaccination rates. Why do we have a large measles outbreak? Charlottesville Tomorrow",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "New Poll Connects Social Media and Chatbots With Spread of Vaccine Misinformation - CNET",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMjczNFBvOHltcklidjZFODdqdnZXSG5wdUFiYnBwSWF1NDhheWV2LWhnMEZHMkRITnlfWU02M3J3YmdpdkxmU2NUOGUxeDVKYU1Dc1dQS0p0Vmt0UEJWelUxSzdPcGdNM050dTYxOWx2NlpiMVllMm1odDVtNDhDS2IxRVo4R2FWNWt0c2t1czk2Z2hmTjZWa3JPMjFLQmtmbVlNZE45Q2VOQXdEc1Uw?oc=5",
       "pubDate": "Thu, 02 Jul 2026 14:00:00 GMT",
@@ -708,19 +690,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "Comprehensive review affirms that COVID mRNA vaccines are safe, effective - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMVVURnZrUnQ1ejA4TU9od1d3TlBYdUdnQU00ZlpiTlRPelpYdGotNUxCV2ZkcjJnS0JrSlAtUnoxU0tGM1I0N25EWWVLTzF5czltS2thVDZOeEFmRkdXU3dXRExWLXZRZmkwekNlTzdVdkowX1d4eF9BaWNjTmNjTUlXT3ZSYk1iWC1QeC1ET1lTeC01ZnJFNjJUVnhUbk9tVjBFZ1ln?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 19:08:00 GMT",
-      "description": "Comprehensive review affirms that COVID mRNA vaccines are safe, effective CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "Malaria vaccine quest narrows as shared parasite targets emerge in liver - Medical Xpress",
@@ -944,19 +913,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "mRNA vaccines proved safe and effective during COVID, review says. Cancer could be next - CBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03ODBST09IUXpuMmtMU3pmazEwMWVqblVObWx5Z1pUV1VuMzFRTWFnVjRNZW1xOUR3alo4N3VxZHpqUXNKdjhZU0FjNERNN1JfNktLN3ctRndUeHlrM2pOTXFISWlZYnBUZm5UMjB6bkV4S3NzMnJN?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 00:25:00 GMT",
-      "description": "mRNA vaccines proved safe and effective during COVID, review says. Cancer could be next CBC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Houlahan, Castro, Cisneros Slam Pentagon for Lackland Flu Outbreak, Push for Flu Vaccine Requirement - U.S. Representative Chrissy Houlahan (.gov)",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Va1NOSl84bjdCNk9xZm5tdmhlb3VobFYwVmxUUEV3TTV4bTl3M0VJMHBHRXZnX0NWT1l2U1pSM2owelhLR1cyeUhNcFBrR3Y4T0piZ0s3SFpIS2c1WGg2TmZwTVhYOHBDaGpzSDVWVjhwVkJXT2c?oc=5",
       "pubDate": "Tue, 30 Jun 2026 21:34:48 GMT",
@@ -1018,6 +974,19 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "The ongoing impact of U.S. vaccine hesitancy - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZW5neEZ5RzRpdk1hMzZ2bC1fdFFRcFZEWE1McXd0MjBTNTVlMzRRcVNiTG0xcHEwdTN4MTY5NHRNcU1oeHQxSlBpWUp1R0d0UzVVS3pQQjJMSkRvcFY3ODlLTHhuT2loakp1d0ZWYWVWSi1ocFQtZmc3V1ZQV1EzTzRZVnNNa21vU01RZU5n?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 18:30:00 GMT",
+      "description": "The ongoing impact of U.S. vaccine hesitancy The Washington Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1087,6 +1056,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Major Study Supports Same-Day COVID-19 and Flu Vaccination - U.S. News & World Report",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU1BvbTVKYVUxX0JYVXNFWGpvSmF4MEhEQ29sZjNGX3FpM2Y4RTJMblRtMEJNenpVX2V6NHRUQVVST2ttdGxkN2haRzZlWW9lVWdzYWN2eWgtelhKRzFwTTFEZjlnb1Voby1VNlM0SGVqVVVWMUxnR2E0d0pBYjVBUV8xUDZiZjJyWFpVa3RXbmdCc2c4Sy1sb1NjSFFob1BUcURhOTlSdG5xSC1JdWNuR29HcFFyTGEtMlE?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 13:44:27 GMT",
+      "description": "Major Study Supports Same-Day COVID-19 and Flu Vaccination U.S. News & World Report",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
       "title": "Heat illnesses, flu outbreak in the military, a new mRNA flu vaccine, and more - Your Local Epidemiologist",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdVoyTjhGckNuVDR1dWk5SnlaSDQ0TmFiYjFCQm9xVDlsVDFoZFc2NV95dEJ5MnZhdVBIeGQ0N09QbVdEaklqczBpTDhQRUVDRzlPSVFUbWFUcFZqQWlpT2dENlFyeXZ6eVBoOTBpSEpLVXUyei1kQzdEVWV2Y2lKUlR0Nm85c210?oc=5",
       "pubDate": "Tue, 30 Jun 2026 10:30:23 GMT",
@@ -1109,19 +1091,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "U.S. Replenishes Smallpox and Mpox Vaccine Stockpile in $52.7 Million Contract Award - Global Biodefense",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOWhicWZleGQ0d0haQ182LVpFLXdDMkxoSjFTUEs0UmdlWDhodDlJYnA5a1hZU0VBX0lXLVRHbjAwZkFRRnFuX3JFTHFESGlLb1FtVVhfWFg2TzVZS0J6dFBJQmppdmFGN3Z6ZU5KRENlQjR2d0Y0U1YwbnV0U21ZUXRrQ28xdkNHWl8xLVl2MXlNMnA5TTdsd2xNcm9BSENXYzBEQXg1MmRqc1g4cldpYWNWSTlhdkJSWlBTNUpIOXQ?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 18:35:00 GMT",
-      "description": "U.S. Replenishes Smallpox and Mpox Vaccine Stockpile in $52.7 Million Contract Award Global Biodefense",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "mpox",
-      "vaccineLabel": "Mpox",
       "articleType": "news",
       "articleLabel": "News"
     },
