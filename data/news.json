@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-03T19:56:23.704Z",
-  "itemCount": 84,
+  "updatedAt": "2026-07-03T20:45:46.487Z",
+  "itemCount": 83,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 15
+      "count": 16
     },
     {
       "key": "flu",
@@ -25,11 +25,6 @@
     {
       "key": "hpv",
       "label": "HPV",
-      "count": 1
-    },
-    {
-      "key": "polio",
-      "label": "Polio",
       "count": 1
     },
     {
@@ -60,7 +55,7 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 40
+      "count": 39
     }
   ],
   "items": [
@@ -102,6 +97,19 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
+    },
+    {
+      "title": "Irish developer of malaria vaccine wins European Inventor Award - Silicon Republic",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRjN6d293bmFEdkJfNU1tN3psUjQ5SnJoQjNDZWpLV0FHdXVyQjRxXzZ4cnVtVFIwaHRDTW5rMW5sNjFuQU4zajhzVWtyUWNnNjB3dWI5aDluZ0FwRWlXTUtnckh3N0xIYWI3TTJlQnFBZEkxbm1CY0FORTY5SkwxWXdTZnFpZjg5cEFFZ1Y0aElEWC1PN2JNRWc4Nk5wY29OTUJPbEVqNVBFWldCc09iTkVUUnIyRWdvTlZv?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 18:17:17 GMT",
+      "description": "Irish developer of malaria vaccine wins European Inventor Award Silicon Republic",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "malaria",
+      "vaccineLabel": "Malaria",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Moderna Stock (MRNA) Opinions on mRNA Flu Vaccine Approval and Stock Surge - Quiver Quantitative",
@@ -247,19 +255,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Irish developer of malaria vaccine wins European Inventor Award - Silicon Republic",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRjN6d293bmFEdkJfNU1tN3psUjQ5SnJoQjNDZWpLV0FHdXVyQjRxXzZ4cnVtVFIwaHRDTW5rMW5sNjFuQU4zajhzVWtyUWNnNjB3dWI5aDluZ0FwRWlXTUtnckh3N0xIYWI3TTJlQnFBZEkxbm1CY0FORTY5SkwxWXdTZnFpZjg5cEFFZ1Y0aElEWC1PN2JNRWc4Nk5wY29OTUJPbEVqNVBFWldCc09iTkVUUnIyRWdvTlZv?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 08:11:17 GMT",
-      "description": "Irish developer of malaria vaccine wins European Inventor Award Silicon Republic",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "malaria",
-      "vaccineLabel": "Malaria",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Could One Vaccine Replace Three? Early Flu, COVID, RSV Shot Shows Promise, New Study Says - StudyFinds",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYXhRa1FyYTJvaTFJMmxiZXZXZUc2a2xiQmdaQXFSY0xxa1VlSmhKSmtqVktWWThlVHlsZWpJNVNkS0FvSXRHeGZPLTZJdzlUTmpIMDB3MkFaeXFUa2NtVDVoQUxuSldZcW84dWp4YWxwOFJWUzlKS2F6ZmJWRzhwWjdVRV9mNFlkVU1EbGRiUWlMRXYxejJrcFg4SnQxc01pQXd2bTRGX1Q2UnFpeGc?oc=5",
       "pubDate": "Fri, 03 Jul 2026 05:24:00 GMT",
@@ -271,19 +266,6 @@
       "vaccineLabel": "COVID-19",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "The complicated man who developed the oral polio vaccine in Cincinnati - Cincinnati Enquirer",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORDMzOHp5b01fYVF3N3o4dWNUcVN0YjBfLTZkdjhNRXlWMTFtSW1xQzVwX1RyUmRYU1lRbU1yaF9sWkpfLXJGcVRRUWVYUXF2RWpNNDQ5Njdpa3RCSzU5S2V2ellXYU51c1VxclBBV2xVT09XMW5zZURYdmxzMmJOLU12R1lhMF9uMUFfVkhhUlBPOTVUOGZpZHlaRFRwbkkxM29MaVBkU3hWZkhzbVBMRm0xWTdGR29scXJjU3FwbVV5YmptQ2JzRnRxQTExOUZr?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 04:20:00 GMT",
-      "description": "The complicated man who developed the oral polio vaccine in Cincinnati Cincinnati Enquirer",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "polio",
-      "vaccineLabel": "Polio",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "GSK's RSV vaccine Arexvy approved for high-risk adults aged 18-49 in Korea - koreabiomed.com",
@@ -303,19 +285,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPampuQzdOM1kxV0lrVjhjYXUxSkZISHQtVVNXX3p4NTFIajRLUWxpQXk4VlNMUzc4aHN0ZDJOaDVzOUJ2TUVrUF9xb0NNc0E0bWRxdHNZUjlvNUh5YzE3T0YtbnNxQmlIcWxrLWNiejF5SXNQYWN0V2xMbXFJNXBoejdpYVRQOGhSRHNoNUdCQ21JUdIBlwFBVV95cUxNQ0luUHBCNExQMnJHei1wYjRWX0VHZXdPSXQzV3hNR043QTlZUjhpVHlxM2E1YlY2Mm4tdE9OZ1BmWGpMNzlkVFFqUWV3RkU2aHdnQ3o1RFcxMlUyWjNEZ0Z2bUJiNTBxQ0M4bHRRaE5sNHhIN0FFSkY0d1hKVEtVRVc2WE1XblhqaUhncE1FVURDc2dtYTc0?oc=5",
       "pubDate": "Thu, 02 Jul 2026 23:28:19 GMT",
       "description": "What parents need to know about CDC's recommended vaccine changes ABC30 Fresno",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Grand jury indicts Louisiana's attorney general in fight over changes to local courts - PBS",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaklmUldJSlhKNW9Zc3dwSnhjT0JPTnlGUXJNOWFyYjh1NjlTdm5LUVo5ZE9kM292VlZMb3hXc2xhcjkzc2dsd1RjMHcyLS1DNDlNX3A2alRkZUc3S0l5alJZVWdhY2I0Y1A1VHFOUzh5Tkx2RTByWm93WENEa3oyZFFsSlNkQnQ1MXZud2ZqS05BMFd6eU1GYzF2alRjZlpXTGRVRHhnUzV3Yjg0ZnhNVXRqRUFTZDRZczhac2VDNNIBxAFBVV95cUxQX1NsR0VNdlk2aW9aQWc5bjJMZDdTZmVuVmRLRmE1enBpVFUxVHdsZEtnakoxdFlibmhGZDJDbVhoNGdRaU1CSFo2Z1o3UDNXYkdwektYWTluY1UtcVkzM2RESG1RMFVKZlVlOUI4X2EtYVR5d3l6anVKQ0Uzbm1UUWFMQXFfdlpLWFpZYmtDMmRWbEVIZEhBSXRjcmw4WENtZzhyVEFMbmlyU1hsbHNfTXp0QTBmOG8ta09mbFQ4RzF5NE9D?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 22:55:54 GMT",
-      "description": "Grand jury indicts Louisiana's attorney general in fight over changes to local courts PBS",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -739,6 +708,19 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
+    },
+    {
+      "title": "Comprehensive review affirms that COVID mRNA vaccines are safe, effective - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMVVURnZrUnQ1ejA4TU9od1d3TlBYdUdnQU00ZlpiTlRPelpYdGotNUxCV2ZkcjJnS0JrSlAtUnoxU0tGM1I0N25EWWVLTzF5czltS2thVDZOeEFmRkdXU3dXRExWLXZRZmkwekNlTzdVdkowX1d4eF9BaWNjTmNjTUlXT3ZSYk1iWC1QeC1ET1lTeC01ZnJFNjJUVnhUbk9tVjBFZ1ln?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 19:08:00 GMT",
+      "description": "Comprehensive review affirms that COVID mRNA vaccines are safe, effective CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Malaria vaccine quest narrows as shared parasite targets emerge in liver - Medical Xpress",
