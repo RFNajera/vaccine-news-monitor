@@ -1,26 +1,31 @@
 {
-  "updatedAt": "2026-07-04T18:44:14.106Z",
-  "itemCount": 72,
+  "updatedAt": "2026-07-04T20:41:50.327Z",
+  "itemCount": 69,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 10
+      "count": 8
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 6
+      "count": 5
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 6
+      "count": 7
     },
     {
       "key": "hpv",
       "label": "HPV",
       "count": 2
+    },
+    {
+      "key": "pertussis",
+      "label": "Whooping cough / Tdap",
+      "count": 1
     },
     {
       "key": "hepatitis",
@@ -35,7 +40,7 @@
     {
       "key": "shingles",
       "label": "Shingles",
-      "count": 3
+      "count": 2
     },
     {
       "key": "malaria",
@@ -45,14 +50,27 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 41
+      "count": 40
     }
   ],
   "items": [
     {
+      "title": "Whooping cough in Honduras - Outbreak News Today",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QMnNKeXFWalEzWV9PN2k0QlZ3Ti11ajJNUmVPWEw3RTdEYW1OVDA5QldYSHZnei1jRDVuNlVjX2ZpNnAyNVJFNlFmc2hHNXVMbEduMWtYRDVoczdsV0Yyb0xCWllDeWEtVFdjTTYtWDBEOEl2MVE?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 19:55:22 GMT",
+      "description": "Whooping cough in Honduras Outbreak News Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "pertussis",
+      "vaccineLabel": "Whooping cough / Tdap",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "South Korea's Vaccine Scandal Demands Special Probe into Government Mismanagement - 조선일보",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVmFmakNqYWJBMExpcS1jRUppSHVSVUVTbGVrWVI3MnFTSmZ1bWEyb3EyQXEzNUVIY2d5N3Jkd0JrTlBCTUZldHZjbmtaT1h4M2YyUlFWa0NDeGZQR0lHTVlLeWVUczNEQzZYcm1CNW80QjR2VDRFeUxmUTlwdVgyd1hIRDNxSjAt?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 17:15:00 GMT",
+      "pubDate": "Sat, 04 Jul 2026 17:20:33 GMT",
       "description": "South Korea's Vaccine Scandal Demands Special Probe into Government Mismanagement 조선일보",
       "source": "news.google.com",
       "sourceType": "news",
@@ -130,7 +148,7 @@
     {
       "title": "Watch Ebola Vaccine Trials Could Start This Year - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNzdfWWZQQnUyZ0lMNjBjakVObkpvUU9IdzczVEFmTVd4eVRsVlRNSjRBa1V3b1BiM2RWand2MVIyV2xSRHVyblZQUUdiWENDN3A4Q2tmTTRIYVFJY0p2ZUk2SEFvbDY4dk03ZEVrY29SYTFVaWIzTjZwc1V2ZXh6QVVRMzJERk9QMFEyb0NGLVFvV1pHY0E?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 00:00:00 GMT",
+      "pubDate": "Sat, 04 Jul 2026 05:02:01 GMT",
       "description": "Watch Ebola Vaccine Trials Could Start This Year Bloomberg.com",
       "source": "news.google.com",
       "sourceType": "news",
@@ -152,32 +170,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "Vaccine mandate - TelegraphHerald.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaVlDYnNNYjd5aldnandHMDRhMjlDdE1ieE1JQWU2eVU2ekhkYTRISW1WZ3NDUjFfUFotaFp6OF9sTnNkYW1HbEp2bDA3eU5xcmh5MERWVy1lZDdFSUdHUGxKM2Rkd1dpVkVLUFRmaTF3dXhEZjIzZ1BnVXdITmFhRkJVcDNSTGp1S3hWV09iZV9TVEVmd3BySg?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 21:23:22 GMT",
-      "description": "Vaccine mandate TelegraphHerald.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Study suggests ocular history may raise risk for recurrent shingles - Eyes On Eyecare",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa1lnZ0dNZ1NIbk9ZUk51N0lFZ1kwNHotYkNmUENoSnlMMG8wNmFNVlQyYzdQMkt3SDZBUkJZRTMzQnp6WkZndXRJS3AtR2tVS25NdWlvUWh6dXRNWnkyZ0FyemY5NlBvZHJpWFJLaGNaZ1hDRXdXeEZHR2RkeUlObmNQMEttbXFlZFJZejNldkc3cUxlMDJoMkdDTUxNeU9xM0pWSEdhdnFXbGxXV1JXUlptZ2NJSE5oU0RyVQ?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 19:36:47 GMT",
-      "description": "Study suggests ocular history may raise risk for recurrent shingles Eyes On Eyecare",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "shingles",
-      "vaccineLabel": "Shingles",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "Functional Recovery Following Post-vaccination Neurological Syndrome With Demyelinating Findings on Magnetic Resonance Imaging (MRI): A Case Report - Cureus",
@@ -236,19 +228,6 @@
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSENtbENLY2tCT1ZfUHdFMFpMTUJXc0Z2SEROeHE5dnpVTkZlU0dMQ2hDNXdid080QVZmMVpZaGVvMVlCbnY0aDh2OXlBV01ITWpkNmJyYVcxb1FjNF83NU9YdHNsS0d1QnFaWFlWUzdOZ1o3dk51N2g1RHp2Slp4SU44eGZWX0xyZnBMSno4dFJ4QXZwRjR2VnQ5WmlaaWd1Y3FMMEo1U2dnc1RXbkx6STlwemppXzdBSEhBZFJvclBpckdwbVpwSUltSWpEZDByNG9jMXNERVhoUXVnXzNPRHZQT3JNZkEtMjFCZDAtcTZrT3lVenBTQTB3?oc=5",
       "pubDate": "Fri, 03 Jul 2026 12:36:36 GMT",
       "description": "Continental Immunization Strategy (CIS) 2026 – 2030 Strengthening immunization to advance resilient primary health care and health systems ReliefWeb",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Could an Epilepsy Drug Boost Vaccine Effectiveness? - Technology Networks",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYWZncnkxT3VzUkpzelJ0RUJhclpLd1E5azdyekxlNzlMSEcweXlUX1JmcXJxcDItOEcxSDR6Q1BnWjE4QVJzWFR0Rl9kWjJnQ25pRFhKR2tsOTg4S3E3MGpnckxSWG5kd1MzeTVrT0VVMGcxS0V5RFZPZ2NkVDlvOWlFaG01T1lteWpyalFKSllXaXpyWndVR2YxOVh5ODZQbDZnLUxISklnUlk?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 11:52:59 GMT",
-      "description": "Could an Epilepsy Drug Boost Vaccine Effectiveness? Technology Networks",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -349,6 +328,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Social media reflected US adults’ emotions at initial COVID vaccine rollout - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbVhZd0daOUs5SzV3OHd4ejBSeDNTV1hHWTJtaW00OWxHLXl6NGZ4TkN6dnZ5M0sxWlctOUJZZGkzcy05dXZxcnd5MHVNX3p4X0JTMTJIaEJQcVBlMThqMm5zYW9NME1lLTZoTDl3bWNjWjF1YVlraFo3SXllSkI2dzhfaF9zSHJIdXBNRUNRaFBiRnRRWHc5emdiMWRUSEl2MUdHNDdad1AyekE?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 19:57:00 GMT",
+      "description": "Social media reflected US adults’ emotions at initial COVID vaccine rollout CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "We can’t entirely blame COVID vaccine mandates for lower vaccination rates today. It’s not that simple - The Conversation",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPR1N5RVNBUnFYSWF5bGZZN3V2M2FEMU52ZUxlalJ6M3RiYlpaZUw0V28xZGgtQWR6OW12SWdhdzFscHJGSmhHbTU5Mk4zcUJPbDg2UUJVN016NG9idnJuZFhKbHhWVldZYlNwOXB6TWt2Y0JJYkY4ZjIwbFR3NkJXaTR6c2hjQTg0UUVlNFR3U1M0M09hUGJ1Y1hDa29XTUZaU3RYNkowT3Z4ZUoySkJOU2ZRcHF4Zkd3Y2lNeEp2UmQ0QmF2LVVwVlFkRmRjMHc?oc=5",
       "pubDate": "Thu, 02 Jul 2026 19:31:08 GMT",
@@ -384,19 +376,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Trump’s Newly Disclosed Moderna Trades Preceded FDA Advisory Panel’s Unanimous Backing of mRNA Flu Vaccine - Quiver Quantitative",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOTJvQzhSb1dILWR5a2t1bi1VU0l3STZxU2gzTVltbmJNa3JhaDBodUpaaW9haXZid2xGal9jdUlrLXp3ZEhEWGtBcHFEUEZTT0JBRGhLNFVwU1VydG4tMGt3UmJlemF0UTFkckdNMDJSUVpXR3haSXdtZGNMWVRxTHFFUm1rQVdpTU0tUFF0dXhzTmplUDhtcVhzWS1NcWduTE4tYjVMTEhZTi12Z0pSS0FtYVdkNlBrcnQyd3Q0R1NxRFdPemo1QUt2UTdZU250UVQtMHV3cnpfcXo0WjJZaFlRQ01IdkxFNEk4?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 16:58:00 GMT",
-      "description": "Trump’s Newly Disclosed Moderna Trades Preceded FDA Advisory Panel’s Unanimous Backing of mRNA Flu Vaccine Quiver Quantitative",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -453,17 +432,17 @@
       "articleLabel": "News"
     },
     {
-      "title": "COVID Vaccine Study Released After Publication Dispute - Legal Reader",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVGhYcXpEbmphaGdZbTZMTG9zdzVVNjMyWEN5cFhhcnltMEpBUkMzdHEzYXNwS2ZGOWdCLWJyZGxWQWhFQ3lUWEJjYzZBUmY1X3dQc21QR3hCM0E2Ry1WVzBmWUxLczVscVFSenhMbUhUXzVVRjExWlJjWjh5UVc1NWpLNWJBaU9haTZB?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 13:39:05 GMT",
-      "description": "COVID Vaccine Study Released After Publication Dispute Legal Reader",
+      "title": "Free pet vaccine clinic offered Thursday in Missoula - NBC Montana",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcDlBSjREV0Jkb0tQellCaW15LVQ0TEhpMjFfdm16ODJKXzR5SFRBMmU4UVpLLUYwdDRXLVo4ZkJMajRMNDlMS1JGemI3VldpcndsTGFqVkMyemt6Zi1NQXFQOTlrOVAwUnRUTVhCcURkd29fZG84ZnF6MmVLT2NxT3lRQmJyTFBkSDZzSzF5NA?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 12:39:13 GMT",
+      "description": "Free pet vaccine clinic offered Thursday in Missoula NBC Montana",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "research",
-      "articleLabel": "Research"
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "SK bioscience Launches AI-Powered Initiative to Reduce Uncertainty in Vaccine-Development Decisions - PR Newswire",
@@ -674,17 +653,17 @@
       "articleLabel": "News"
     },
     {
-      "title": "A Landmark Study Reveals This Can Eliminate 100% Cervical Cancer Mortality - MindBodyGreen",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOHQ0WG1tdno4N1ZfRHhGbHlVUVdjQ1N5NkI3S000bkM3SF9Ta0t5ejJaRkF2Qm9JMktQLXlhc1hpdnFVeDFUTXZqaGhqdkZiUkJoU0FWX0ZCeTU1SFNRV1dQc2FQV0YyQnZsV0cyTElyV0hwSUtna25CQ3VhQjZJM2szaHdWMGxnVjIxWVVub2lZU2RXTHV5d0FR?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 16:43:08 GMT",
-      "description": "A Landmark Study Reveals This Can Eliminate 100% Cervical Cancer Mortality MindBodyGreen",
+      "title": "Beyond immunity gaps: health-system constraints and measles mortality in Bangladesh - Springer Nature Link",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6eDAtVzloa3piaEVGWGlBemtqUHVsOEZwY2ZncU4xRVdhTnlGSzBNTDcyQ2RPaGxHdk9jdGx4bGxmdTc0cWF6dEZCdU5xUVFEaWtZdXJwTkI3cFlqR2p6d2s1aHgzQnY5bUZJRA?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 16:41:51 GMT",
+      "description": "Beyond immunity gaps: health-system constraints and measles mortality in Bangladesh Springer Nature Link",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Following an outbreak, lawmakers push to require flu vaccine for all service members in budget bill provision - Military Times",
@@ -761,19 +740,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "COVID-19 vaccination induces cross-neutralisation of sarbecoviruses related to SARS-CoV-2 - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96MVhyYnRPOENCWGlyZGszUFM3MlR2bUZ6RmExVllsemticEF4MWlzNTVaeVZsUktTeXAzYXpMaDdxYlFqX2NocEJxZjcxRnlXd3BsM3EzRHRfVDRxcUNB?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 10:15:59 GMT",
-      "description": "COVID-19 vaccination induces cross-neutralisation of sarbecoviruses related to SARS-CoV-2 Nature",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -882,19 +848,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Vaccine double-header: Same-day flu, COVID shots shown to be safe - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUWttYVhOLXE0aEkxMWN4WjhhN3BON2tHUmY1NzY5S0NtUG9fanc3YkNScmtDY0NLRDFzODZWN3V2LUdlZjlLV3pSaDM5Z1I5SzFSTkNYX0NSbGV5SlRxYmk0VGNKZU9iSHlZNEVaWnZsN3VQWUhPQkRZdmFncHB1a2t1QWhtTnQ0SHcwblFwM1lwMTByODBabEpVejFKT0ptaEZJMXVOdmpGZw?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 19:16:00 GMT",
-      "description": "Vaccine double-header: Same-day flu, COVID shots shown to be safe CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "NDAA Amendment Mandates Influenza Vaccine After Lackland Air Force Outbreak - Military.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVDc3UXE4ajI5ZFp4dUVFZk9LS3otQzlIMkRzRV9ZNC1ja0VuQ09tQ0NSMktweGdhSnRDcDNzcExYcjRudE5sY2NTaVJYUTJkUXRPa2l6V1VuRWp6dXRZVVQ3VENJTkZrTWV0dDZsbWtEMzB5aXphT3U1U1pUcS1mQllCTngwYmFFbUZDLV9ldEFUSlRYbEVUVmJtNjc4QzJPQ2c?oc=5",
       "pubDate": "Tue, 30 Jun 2026 18:05:01 GMT",
@@ -934,10 +887,23 @@
       "articleLabel": "News"
     },
     {
-      "title": "Billions of mRNA vaccine doses’ review underpins their effectiveness - Euronews.com",
+      "title": "Repurposed epilepsy drug could be used to boost vaccine protection among elderly - Medical Xpress",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWDk3Y3RmQlQtNWVzOTRiT2JDSnlpbE5WODFYMEJ4RnlkbGZxZk9TaHVWeFFuNmF2ZFlIc0otdnBzMTF0aUVURktxeWYzTGlRMFJFNmQ0VjFfNW1KcHJkQU5OUllONm80c0MxeGpIT3lodXlYM0lsSnd2WlRYbVRrTW0zOUQzMjZkaGc?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 17:40:09 GMT",
+      "description": "Repurposed epilepsy drug could be used to boost vaccine protection among elderly Medical Xpress",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Billions of mRNA vaccine doses’ review underpins their effectiveness - Euronews",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV2ZaeTF3VG5wUDlFclQ3SWZGeUZtUkIxc0tjdUI2ZFFtTkFQRTdwQXN5V1N2MGJvRnZCTWlZZ1hjTW8tNGc4dXNYTGpLYVZUUmRxclFETnVIQXBkT1Rya3BBRlEtSENGbXpzbnlTeXRWTndqRFBJNjNYd1ptUUpvLW94REJpTjhiZTh0TUV1bW1VYmt4elBpTXVTc0FmOGFjd2NKWGR5eVRBMUdiZk9F?oc=5",
       "pubDate": "Tue, 30 Jun 2026 14:48:53 GMT",
-      "description": "Billions of mRNA vaccine doses’ review underpins their effectiveness Euronews.com",
+      "description": "Billions of mRNA vaccine doses’ review underpins their effectiveness Euronews",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
