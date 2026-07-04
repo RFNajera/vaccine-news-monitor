@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-04T05:40:59.738Z",
-  "itemCount": 78,
+  "updatedAt": "2026-07-04T07:23:59.672Z",
+  "itemCount": 75,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 11
+      "count": 12
     },
     {
       "key": "flu",
@@ -15,12 +15,12 @@
     {
       "key": "rsv",
       "label": "RSV",
-      "count": 2
+      "count": 1
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 9
+      "count": 7
     },
     {
       "key": "hpv",
@@ -50,10 +50,36 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 44
+      "count": 43
     }
   ],
   "items": [
+    {
+      "title": "Appeals court sides with city on Chicago police union COVID vaccine mandate case - TelegraphHerald.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUnFMUDctaV9sdzd6NDJSckRqNThvN2lUR3NSVkd2QU5DeVdqMjRqbWdHc051ODRqMHJvNEgyZXNNQWJ1dWw5R0RrVnpMQnBBNHpTTFRabzcyeGpxZmFTQmlDcUZZZ2F6dS1lYXlzbjVGVjgxZ1F5MFJNTF9jcjVjblRxRUxJUGJHanZ0XzR1V3JEN3JlWExZVjJQbS1YZklUR09wRFdlRHpUeXpkYm1z?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 05:30:00 GMT",
+      "description": "Appeals court sides with city on Chicago police union COVID vaccine mandate case TelegraphHerald.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Cervical cancer - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YbGwxRnppT1RaNDdubnJjdHVudGV4b0tQMTRYQzF4VkhEbldzZTMzY0U1YTRQdWg1V1F3UVdZd1g5OXd4TXBzUndMZ19lRDlqTV9NQmtUVDRjaFJfcERtN1Eyb212bFh6S1JvRWtYQ250QQ?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 02:16:28 GMT",
+      "description": "Cervical cancer World Health Organization (WHO)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "WA Health expands diphtheria outbreak vaccination program to include the Midwest - WA Country Health Service",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTGo2LWFia1BsOUhfeFpMa1NodXdvc0pMSzJIZnd0azkwdzdJS3U5bE9HNi1VZlFTWXlVOGFEa3ROazR6RXNFR25ob3N0UVVTcHhUUkNWR3lIbFRKemJJRklSWGxlSkRKQnY5bXJLU3FHSWNIWVVVemxEZTFYWG5VcVBFOWVad3REQkJDNUNISlVvRms4Zi1UZkpoem5pX1BXV0FSajFnTGdDVU5Canl0U3ltRTZGUU5ubGRtWkZaTWFvbl8ySk5ZekJsWmJfWEdL?oc=5",
@@ -64,19 +90,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Nearly 40 lakh fewer children got measles jab - The Daily Star",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUXRrV3E0VG1IU1h0c29ET2lLRlpkaUkxZG1PaDlyOXRsaEVSY0I5ejE2SmhLUDhrel9mQTJxTzFoNkRpLVFpdkd5UlJuN0k5N3k3WnBrZm5IcjBRRFRmTE5seEZ3cWlKNlNZWDAxRHRFb3NvMFE2ejdaTHNIU0NzcnhNRXZRSGpmck54bGdxTHNZck56amMwcnA2a1NPMFplM3RiaHFR?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 01:40:26 GMT",
-      "description": "Nearly 40 lakh fewer children got measles jab The Daily Star",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -198,6 +211,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Custom Protein Wraps Make Membrane Proteins Easier To Study - Technology Networks",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY003ejllSE9PemotTG10cEc1eEh1NHVlZ2w3VzdfZmFfVFdwTmhqbHpXaGZoRmlJNlBJYndsZWRRaTMxVUFqdml6MWg0NFRZdHMxdVlnQ2FTZkdsQmx5LTZqRnlWbDUzUXZRY3FsX2w4STlEYlBNakwyNkRkeHVoS3pqRWZrcFE3dWRidDFpZUpXbkdBbnoydW5IWGZ5WkdBYXg1cG04RTJSYm5STzd5d0hnM3NiclIt?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 15:27:59 GMT",
+      "description": "Custom Protein Wraps Make Membrane Proteins Easier To Study Technology Networks",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
       "title": "Texas Measles Outbreak May Have Prompted Slight Increase in Vaccination Rates - KSST Radio",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUW1GLWtZSFdiaUhkbDhRWm5QYjhpS0o4ZUpuWWdCczFTSVZoRmRqNG9tX2E4bFE5Tms5TmpTMjZrNjB1ZDBLUzdaSXdLZ2ZIaHRDWkt0dDRnckQtbi1zT29NNk9rcks0TzVuYXhoQ19tSVAwRFZiNVp2ZUl1cHR1dHRrT2hNWExjY2VXWFRkTk96RWZheWJFN1oza1ZMWGpTQ09ZZVJFd3UzM3lCWUwwZVFn?oc=5",
       "pubDate": "Fri, 03 Jul 2026 14:51:08 GMT",
@@ -241,6 +267,19 @@
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSENtbENLY2tCT1ZfUHdFMFpMTUJXc0Z2SEROeHE5dnpVTkZlU0dMQ2hDNXdid080QVZmMVpZaGVvMVlCbnY0aDh2OXlBV01ITWpkNmJyYVcxb1FjNF83NU9YdHNsS0d1QnFaWFlWUzdOZ1o3dk51N2g1RHp2Slp4SU44eGZWX0xyZnBMSno4dFJ4QXZwRjR2VnQ5WmlaaWd1Y3FMMEo1U2dnc1RXbkx6STlwemppXzdBSEhBZFJvclBpckdwbVpwSUltSWpEZDByNG9jMXNERVhoUXVnXzNPRHZQT3JNZkEtMjFCZDAtcTZrT3lVenBTQTB3?oc=5",
       "pubDate": "Fri, 03 Jul 2026 12:36:36 GMT",
       "description": "Continental Immunization Strategy (CIS) 2026 – 2030 Strengthening immunization to advance resilient primary health care and health systems ReliefWeb",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Could an Epilepsy Drug Boost Vaccine Effectiveness? - Technology Networks",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYWZncnkxT3VzUkpzelJ0RUJhclpLd1E5azdyekxlNzlMSEcweXlUX1JmcXJxcDItOEcxSDR6Q1BnWjE4QVJzWFR0Rl9kWjJnQ25pRFhKR2tsOTg4S3E3MGpnckxSWG5kd1MzeTVrT0VVMGcxS0V5RFZPZ2NkVDlvOWlFaG01T1lteWpyalFKSllXaXpyWndVR2YxOVh5ODZQbDZnLUxISklnUlk?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 11:52:59 GMT",
+      "description": "Could an Epilepsy Drug Boost Vaccine Effectiveness? Technology Networks",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -393,19 +432,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Most women opt for maternal RSV vaccination, prefer it to infant immunization, international study finds - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRXJwa1ZqMWpIV3RZSW9uYzItbzNJQ2RhYkhQV3JpQ181NUFhX3JrYnA1bDJ3NFI4SzF3ZmpYdHF3RDFubXJFZXIyYmFpT0dxVHoxY3BmYjI2eGxFOU9YcU9mLTFTazNkQUZlNnRiYV8xeXBBWUNJY1k3Wk9HREZMbVo3UmxHX0dOYk41eEZZMHVMMEhUWndiQWZuTENXU1JTWHpfOEFUdGV3U0dZYjdXRVVOaEUtdHp2V3dz?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 19:44:00 GMT",
-      "description": "Most women opt for maternal RSV vaccination, prefer it to infant immunization, international study finds CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "rsv",
-      "vaccineLabel": "RSV",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "We can’t entirely blame COVID vaccine mandates for lower vaccination rates today. It’s not that simple - The Conversation",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPR1N5RVNBUnFYSWF5bGZZN3V2M2FEMU52ZUxlalJ6M3RiYlpaZUw0V28xZGgtQWR6OW12SWdhdzFscHJGSmhHbTU5Mk4zcUJPbDg2UUJVN016NG9idnJuZFhKbHhWVldZYlNwOXB6TWt2Y0JJYkY4ZjIwbFR3NkJXaTR6c2hjQTg0UUVlNFR3U1M0M09hUGJ1Y1hDa29XTUZaU3RYNkowT3Z4ZUoySkJOU2ZRcHF4Zkd3Y2lNeEp2UmQ0QmF2LVVwVlFkRmRjMHc?oc=5",
       "pubDate": "Thu, 02 Jul 2026 19:31:08 GMT",
@@ -428,19 +454,6 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Measles vaccination rates climb slightly for some Texas children - KVUE",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdHQtaUxVdXNmTjV5Nkxpclp4c29yeGFnSl84SklQR0RGTjRfQ09lM0xMckQzYmNPZmtmZFZRYk5xVXhjcVNJTjBhT29mX003Yzc2aW5FLVl1ZDBFSkpjc1NYSlR6dUMzdDUxc0REejZQa2NjcDk1OHh5SjJVNE85c0Fyb0JOWmI4eHY0cUdwcXQ4NGFsRFVEYzQ0dzlJWnVpWUptdEJvbUxOWmNvT3VoVkhMcw?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 18:35:00 GMT",
-      "description": "Measles vaccination rates climb slightly for some Texas children KVUE",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -475,19 +488,6 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMjczNFBvOHltcklidjZFODdqdnZXSG5wdUFiYnBwSWF1NDhheWV2LWhnMEZHMkRITnlfWU02M3J3YmdpdkxmU2NUOGUxeDVKYU1Dc1dQS0p0Vmt0UEJWelUxSzdPcGdNM050dTYxOWx2NlpiMVllMm1odDVtNDhDS2IxRVo4R2FWNWt0c2t1czk2Z2hmTjZWa3JPMjFLQmtmbVlNZE45Q2VOQXdEc1Uw?oc=5",
       "pubDate": "Thu, 02 Jul 2026 14:00:00 GMT",
       "description": "New Poll Connects Social Media and Chatbots With Spread of Vaccine Misinformation CNET",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Free pet vaccine clinic offered Thursday in Missoula - NBC Montana",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcDlBSjREV0Jkb0tQellCaW15LVQ0TEhpMjFfdm16ODJKXzR5SFRBMmU4UVpLLUYwdDRXLVo4ZkJMajRMNDlMS1JGemI3VldpcndsTGFqVkMyemt6Zi1NQXFQOTlrOVAwUnRUTVhCcURkd29fZG84ZnF6MmVLT2NxT3lRQmJyTFBkSDZzSzF5NA?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 12:39:13 GMT",
-      "description": "Free pet vaccine clinic offered Thursday in Missoula NBC Montana",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -809,19 +809,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Clinical Trial of Shigella Vaccine Shows 89% Protection - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUUhOdFBkTzNWcEVFZUZNdEZLVXE4dDJvc0YyVXcyN1BIeUZ0QklJbkhkQUtwMS1nR2pqVGNwc2kyUld2Zl9US3BETWRidFZ6Yzh4SEZhSTdPYjh6ZzI2Yk04aHlSSWI4LWVrUklwU25XNEx1RVQ4OUtCTjV0aUFIdmhOWm1SOEZvV2dadzMzaFJaTGNBR0NJb01ELTlGcURrVFd2QUVudWVNQ0FzLVc0?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 15:30:00 GMT",
-      "description": "Clinical Trial of Shigella Vaccine Shows 89% Protection PR Newswire",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "Appeals court rules New York school vaccine mandates are constitutional — again - Times Union",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUZRN3h4b082LTg4YWl5MzRHNkxVZnZEcTgzMjdQZ0sxa19ZZVB4RVlBbXFlMmRNQmhfd1l0Z1ZrTi1wcDIxWjNCdDRaYU5WbzJ4aUNxNnQwZnFmc19XNk1adnhVT1dReDQ2ZTlIQXd0Tnh4bUEwWTFlYnJmNk4zeGptNFh4ZEtJQTctS0xMMXB0ZU9TZEhYOFBJa3JwUnVFVGc?oc=5",
       "pubDate": "Wed, 01 Jul 2026 14:35:07 GMT",
@@ -896,19 +883,6 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Vaccine to treat ‘neglected disease’ shows promising results - CBS7",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTkxhZGllRzdFaHUxYXVKT0xaM0xWWFZBS1IxX2JmalRFLWoxRWN2WWhoLV9tSnBXZmthX0RvTnNYdm55WDNUZ2pPX3gzLVl2a1VNM2xVcnZSQ21rNFVoU3RTd0gtVVRCYV9YTnJTblBBMUNoVWlrbU1tcWtkUDgyMW5MSnEzN3BOUTVQQ0tvMzRPZjdWVUNaLTBLNNIBrwFBVV95cUxOUEtWb1hLbjVvTWpnUEp4R1A1YjZwVHhGTkVrSFFSVll2RWdLeVc2Q3NxSUlsNk04dUdxd2hza1dadVpZU19JZjhkSWJSbERtdzBZb1RwbDZRZ1pmMWNNYkQ2ODNQMDZhM3gtTjZJUUFEeFpySk8wcjhFQlM5Y1JYYVBLb1Y4dlJwajFlNVdGRzdsN1BRWUJfZVhxR1ZVNE9ZZkJtQW1GcjZCUU9lSjdJ?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 09:46:00 GMT",
-      "description": "Vaccine to treat ‘neglected disease’ shows promising results CBS7",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1008,19 +982,6 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWGlPaUVNdnVRVzc0Y3FzRWQxTWg4UnJSTXhlU0hybGVwYTdiTnkwaXVSVXB3ZU9teGlkamZLLVZfR25MMm1Xc3JUVzdMN2QzOVoxMDhzR3ZybUhVcndZY1pMcFpVOUwxVHhsSi1GbVFueTd1WlFxZEZycjl6T1ZDR0lhcUpGdFhLR0Y0ZWc3N042aDlWdkt6OHdwcnBTc3Zw?oc=5",
       "pubDate": "Tue, 30 Jun 2026 17:45:14 GMT",
       "description": "Artificial intelligence could usher in a new era of vaccine development CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Billions of mRNA vaccine doses’ review underpins their effectiveness - Euronews",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV2ZaeTF3VG5wUDlFclQ3SWZGeUZtUkIxc0tjdUI2ZFFtTkFQRTdwQXN5V1N2MGJvRnZCTWlZZ1hjTW8tNGc4dXNYTGpLYVZUUmRxclFETnVIQXBkT1Rya3BBRlEtSENGbXpzbnlTeXRWTndqRFBJNjNYd1ptUUpvLW94REJpTjhiZTh0TUV1bW1VYmt4elBpTXVTc0FmOGFjd2NKWGR5eVRBMUdiZk9F?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 14:48:53 GMT",
-      "description": "Billions of mRNA vaccine doses’ review underpins their effectiveness Euronews",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
