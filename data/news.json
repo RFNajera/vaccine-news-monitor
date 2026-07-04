@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-03T23:45:46.085Z",
-  "itemCount": 83,
+  "updatedAt": "2026-07-04T01:02:13.430Z",
+  "itemCount": 80,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 14
+      "count": 12
     },
     {
       "key": "flu",
@@ -35,12 +35,12 @@
     {
       "key": "meningococcal",
       "label": "Meningococcal",
-      "count": 2
+      "count": 1
     },
     {
       "key": "shingles",
       "label": "Shingles",
-      "count": 1
+      "count": 2
     },
     {
       "key": "malaria",
@@ -50,7 +50,7 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 42
+      "count": 41
     }
   ],
   "items": [
@@ -79,6 +79,19 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
+    },
+    {
+      "title": "Study suggests ocular history may raise risk for recurrent shingles - Eyes On Eyecare",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa1lnZ0dNZ1NIbk9ZUk51N0lFZ1kwNHotYkNmUENoSnlMMG8wNmFNVlQyYzdQMkt3SDZBUkJZRTMzQnp6WkZndXRJS3AtR2tVS25NdWlvUWh6dXRNWnkyZ0FyemY5NlBvZHJpWFJLaGNaZ1hDRXdXeEZHR2RkeUlObmNQMEttbXFlZFJZejNldkc3cUxlMDJoMkdDTUxNeU9xM0pWSEdhdnFXbGxXV1JXUlptZ2NJSE5oU0RyVQ?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 19:36:47 GMT",
+      "description": "Study suggests ocular history may raise risk for recurrent shingles Eyes On Eyecare",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "shingles",
+      "vaccineLabel": "Shingles",
+      "articleType": "research",
+      "articleLabel": "Research"
     },
     {
       "title": "NHS Extends RSV Jab to At-Risk Adults Aged 65-74 - Medscape",
@@ -263,10 +276,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Gavi Doubles Down on Global Immunization Drive, Targets 500 Million More Children Despite Funding Squeeze - Capitalfm.co.ke",
+      "title": "Gavi Doubles Down on Global Immunization Drive, Targets 500 Million More Children Despite Funding Squeeze - 98.4 Capital FM Kenya",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObmZwT2gtNDVVNkZPV0hLdmFFTXFZbGdNa0Rzandjdm9lRnUtbkVULUV4X2IzYjlaeDVOX1c5N1k0MUxLNEUtNE5rbllDcXNrdkFINkgwQVJiaVFsWko4a2JHbGVtTmpUMU9KY05IczhkdnNDVHRDRktZSTV2MGJTMGlmMGhORlE5V1hWd3JwVm9ZNzlNbDZPZHlaYzJOMHlLdkFpRlJETTdyY0pTdUNUa0diYnRvSHR4N1hUb1FkaWdzVTFsb25mX09B?oc=5",
       "pubDate": "Fri, 03 Jul 2026 09:27:32 GMT",
-      "description": "Gavi Doubles Down on Global Immunization Drive, Targets 500 Million More Children Despite Funding Squeeze Capitalfm.co.ke",
+      "description": "Gavi Doubles Down on Global Immunization Drive, Targets 500 Million More Children Despite Funding Squeeze 98.4 Capital FM Kenya",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -441,6 +454,19 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "One Shot Could Cover Influenza, COVID-19, and RSV Tripledemic - Technology Networks",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS1pxWXNZY3Q5QlYxcl80U3p3TzZoRHVTMlNtaGh2bm5QN2RZbEh3S3ZkYUtiZUJEdnotZmREOExaanBFb0dIMHhOeFNtR1hKb0JweFVycXdQQkhPNFJ4eVRnRkVHN1ZyOEJ5OXJvT0lCZl82NU96OXFQcmZSYjUyTVEzR1o1VW1LaDZIWVhCaExNaUZHMkJObFVVSnpLMDlxeHNuZDdlNy04bWgtdU5OWVpIOG0yZ1U?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 15:41:23 GMT",
+      "description": "One Shot Could Cover Influenza, COVID-19, and RSV Tripledemic Technology Networks",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -848,19 +874,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Parent and Caregiver Willingness for Childhood COVID-19 Vaccination in Urban Uganda: Applying the Behavioral and Social Drivers (BeSD) Framework - Cureus",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNUS11VjBhdHVnUzFkdERvZ1k2MlpKWjM1TXNtQldMTXNtUWRfZFZoVmFwQUE1NUFWQkM0b190dERUUlpwakZ1MWpkUW95X1RvTi1KRGpoQnpSNHNtOTY5dU8zNFRkREt1cVVDOGhLaEloTFo5VmtYOGVxalBCLTUzSk9WWVV1NndOb2s0TnVzSjVtNkluUVdnWi1kTTJLSWpXVndpc0pLdnJiQmVEZVZ2dXJoRGpjZ2FPODFVc1VoanJDNENmcGdZZ3FwMDhIeUxzZTZ2VE11Z3ducC13S21lNGVzOHBYQjQyWmJrdkl3eUQ1dzBMS0tLNGdDMi04WVJocm93eG9OVWNTZ1B5?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 12:15:52 GMT",
-      "description": "Parent and Caregiver Willingness for Childhood COVID-19 Vaccination in Urban Uganda: Applying the Behavioral and Social Drivers (BeSD) Framework Cureus",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Study suggests shingles vaccine lowers dementia risk for older people - Local 3 News",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTEw1RWkwWFlFbEd5OTNvS19IajF6aTRrZWZYVG02bm42MEdwbzZWQUt6aHpDMXVtU190VDRQaEpRMzVrakpQalNPaWxsTmdJdjIyWWRoODJCcE5HY2l4ZFVkeTdDcmdoOEVBTTg5U094NXZMYkJleVljaktVZEJEV196T295SlhtU3dkLUNaUWZIZk5aN3NMQkpDb1F2SmQyTzFycXhQdldLbHBlQVlPSGxZamhka1dhVGxUb2Z0RTFLMWdtSnpwc1BINXhZSHh6NHBJZ3V5VF9JTjZESjc1SlNXdk5USXhlMl9qLU5n?oc=5",
       "pubDate": "Wed, 01 Jul 2026 11:47:00 GMT",
@@ -887,19 +900,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Is the meningitis vaccine safe? - Understanding Animal Research",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZkMxMDhaTEtYVTVVMDZ6THQ5WV8yU1F0dldqMUVaNHpEZ1Q1aXRLV1c5N3dsOXlhVHpreExYLTNrLWZILVJhbDl0eGRrRXFoZzNnV3NWenF1UTVCbS1pTG9hUU0tRWpycnBjY0lMUVotSXdCZzZJd0ljOTlXdXNwLXdMRVkwYVpKU2c?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 10:14:50 GMT",
-      "description": "Is the meningitis vaccine safe? Understanding Animal Research",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "meningococcal",
-      "vaccineLabel": "Meningococcal",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "Vaccine to treat ‘neglected disease’ shows promising results - CBS7",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTkxhZGllRzdFaHUxYXVKT0xaM0xWWFZBS1IxX2JmalRFLWoxRWN2WWhoLV9tSnBXZmthX0RvTnNYdm55WDNUZ2pPX3gzLVl2a1VNM2xVcnZSQ21rNFVoU3RTd0gtVVRCYV9YTnJTblBBMUNoVWlrbU1tcWtkUDgyMW5MSnEzN3BOUTVQQ0tvMzRPZjdWVUNaLTBLNNIBrwFBVV95cUxOUEtWb1hLbjVvTWpnUEp4R1A1YjZwVHhGTkVrSFFSVll2RWdLeVc2Q3NxSUlsNk04dUdxd2hza1dadVpZU19JZjhkSWJSbERtdzBZb1RwbDZRZ1pmMWNNYkQ2ODNQMDZhM3gtTjZJUUFEeFpySk8wcjhFQlM5Y1JYYVBLb1Y4dlJwajFlNVdGRzdsN1BRWUJfZVhxR1ZVNE9ZZkJtQW1GcjZCUU9lSjdJ?oc=5",
       "pubDate": "Wed, 01 Jul 2026 09:46:00 GMT",
@@ -917,6 +917,19 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzcDlFY0E3MFdhQmZETTZXa2hSdmxmc2x5TC1XVXNhM2xqUmk2V0Vmd09sOUlSc3Y1bjJCQVlrVWZDSF8zc0lXOXRTM0JNaHV5YlVBcnNDdkZEdE5DQUhYVGNwV3FubzVDWThzLUZqcldYMGNOTkE?oc=5",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
       "description": "Current CDC Vaccine Price List | VFC Program Centers for Disease Control and Prevention | CDC (.gov)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Air Force Outbreak Grows as Military Reinstates Flu-Shot Rule for Recruits - Vaccine Advisor",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTXFhVlh0UE1MNERyWXBKS0d2T3N2dEF0OXZEUDJRYTB1cDc4R29rdHVaVHl1QUkxMl9sU0NvQXBaWk5JWFVGRnFKUjJJNDMxMS1HY2VlS0pIOWh5LWhZcjZYOUpBVWstc1doRjRNMmtreG1Hb2NGQTVkaUxPbkZralBmS256N2JrelJaLVpvR2pITVM2TEVrZGRHanBFYnU5U1k4OVhtX09mNzh4Qi1Ebw?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 04:00:00 GMT",
+      "description": "Air Force Outbreak Grows as Military Reinstates Flu-Shot Rule for Recruits Vaccine Advisor",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1004,19 +1017,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Same-Day COVID-19, Influenza Vaccination Does Not Increase Adverse Events - Drug Topics",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPamdwNmZNVmUtUENGaXVfOWxOYXhZVDd3NmkxS09BaXQtWU91bW9CSDIwbTdDR3lmcUZtY2h6QjFsdEZ6NmN1cnFGV2tzNURZMDR3WlU3M2N5MjF1dEhSRXFOdVZIc01peGc1ZkR6a1huZVhIcTY1N01hdU9ZV29EOFB0cnNvQ2JUQVd6MGNSN2JDN1ZVaUpBV0E4cTdndzlqMnRJV0lNbw?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 18:47:03 GMT",
-      "description": "Same-Day COVID-19, Influenza Vaccination Does Not Increase Adverse Events Drug Topics",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "NDAA Amendment Mandates Influenza Vaccine After Lackland Air Force Outbreak - Military.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVDc3UXE4ajI5ZFp4dUVFZk9LS3otQzlIMkRzRV9ZNC1ja0VuQ09tQ0NSMktweGdhSnRDcDNzcExYcjRudE5sY2NTaVJYUTJkUXRPa2l6V1VuRWp6dXRZVVQ3VENJTkZrTWV0dDZsbWtEMzB5aXphT3U1U1pUcS1mQllCTngwYmFFbUZDLV9ldEFUSlRYbEVUVmJtNjc4QzJPQ2c?oc=5",
       "pubDate": "Tue, 30 Jun 2026 18:05:01 GMT",
@@ -1043,32 +1043,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Repurposed epilepsy drug could be used to boost vaccine protection among elderly - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWDk3Y3RmQlQtNWVzOTRiT2JDSnlpbE5WODFYMEJ4RnlkbGZxZk9TaHVWeFFuNmF2ZFlIc0otdnBzMTF0aUVURktxeWYzTGlRMFJFNmQ0VjFfNW1KcHJkQU5OUllONm80c0MxeGpIT3lodXlYM0lsSnd2WlRYbVRrTW0zOUQzMjZkaGc?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 17:40:09 GMT",
-      "description": "Repurposed epilepsy drug could be used to boost vaccine protection among elderly Medical Xpress",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Basecamp Research brings EDEN's antibiotic and vaccine design models to Claude Science - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbEpkQUswNmxQa3lHN2NjZUxOOEVubkhCUkpYOUpnYVhvOHE4VDVZaFBEYS1YMnpoLXJ0cWs0QS16RDdTVGxUaEV2TEdJY1ktamhsUGl1b1I5eWsxVDR4NnZDZFNkX3p1OTMtTGVBN21SU0QtREY3VjAtQVZNY2dReGpqWnhrZVpQZW9RVnhkY2lSZ3Zsa3lteDhRWEpxZ1V5Y19sZm9GQWlkWnJISmd1Y1ZqbnJuTU0xZXJxYXF1XzdpRlU3bEllRG05YVV3ME1veTRzZFdhdy0?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 17:00:00 GMT",
-      "description": "Basecamp Research brings EDEN's antibiotic and vaccine design models to Claude Science PR Newswire",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "Billions of mRNA vaccine doses’ review underpins their effectiveness - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV2ZaeTF3VG5wUDlFclQ3SWZGeUZtUkIxc0tjdUI2ZFFtTkFQRTdwQXN5V1N2MGJvRnZCTWlZZ1hjTW8tNGc4dXNYTGpLYVZUUmRxclFETnVIQXBkT1Rya3BBRlEtSENGbXpzbnlTeXRWTndqRFBJNjNYd1ptUUpvLW94REJpTjhiZTh0TUV1bW1VYmt4elBpTXVTc0FmOGFjd2NKWGR5eVRBMUdiZk9F?oc=5",
       "pubDate": "Tue, 30 Jun 2026 14:48:53 GMT",
@@ -1080,19 +1054,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "Major Study Supports Same-Day COVID-19 and Flu Vaccination - U.S. News & World Report",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU1BvbTVKYVUxX0JYVXNFWGpvSmF4MEhEQ29sZjNGX3FpM2Y4RTJMblRtMEJNenpVX2V6NHRUQVVST2ttdGxkN2haRzZlWW9lVWdzYWN2eWgtelhKRzFwTTFEZjlnb1Voby1VNlM0SGVqVVVWMUxnR2E0d0pBYjVBUV8xUDZiZjJyWFpVa3RXbmdCc2c4Sy1sb1NjSFFob1BUcURhOTlSdG5xSC1JdWNuR29HcFFyTGEtMlE?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 13:44:27 GMT",
-      "description": "Major Study Supports Same-Day COVID-19 and Flu Vaccination U.S. News & World Report",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "Heat illnesses, flu outbreak in the military, a new mRNA flu vaccine, and more - Your Local Epidemiologist",
