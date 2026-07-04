@@ -1,26 +1,21 @@
 {
-  "updatedAt": "2026-07-04T14:51:09.592Z",
-  "itemCount": 74,
+  "updatedAt": "2026-07-04T15:46:36.346Z",
+  "itemCount": 71,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 11
+      "count": 10
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 4
-    },
-    {
-      "key": "rsv",
-      "label": "RSV",
-      "count": 1
+      "count": 3
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 6
+      "count": 7
     },
     {
       "key": "hpv",
@@ -45,15 +40,28 @@
     {
       "key": "malaria",
       "label": "Malaria",
-      "count": 1
+      "count": 2
     },
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 44
+      "count": 42
     }
   ],
   "items": [
+    {
+      "title": "OHSU researchers find ‘holy grail’ for universal malaria vaccine - KOIN.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdWtmRmk0bFBRbGlCUXlBZlB3aTU4bTVuWms2UVd3ak8tUEtYdk8takZmcjAyelhoem8tU3pQRHBRQk1va1JaakxmZnEtVXhycm8xWC1FWWRscktRNmdmc0V1SmFOWkREZjdrYy16VVI1TjJiOVJkOGhzNGJuLUJKZWJwYXZUU1FjaThIVFhvbElJM3d5aW9BS1NpdU7SAaIBQVVfeXFMTVlsOURDVmRfT2J5anNaeVpvbnZoWWMyMFJBREJwT3pXS1c0M1R3blp6ZGVuY0dhc3Z0SVRnZjFsS04zSDZHMTU4b3ZXNFVkbXZ6SmxudG80cmg4WVFYUEhrRUp2SndNWGtES2JvejJuQWxWQTdrMUdBTFgyTjNuUlBhMk43OThQQjc3emJ1Y3JCNExacHF2dFh3NDRnUy1BQ05n?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 15:00:00 GMT",
+      "description": "OHSU researchers find ‘holy grail’ for universal malaria vaccine KOIN.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "malaria",
+      "vaccineLabel": "Malaria",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Medical Notes: A New Vaccine For Cancer, The Silent Struggles Of Parenthood, And Why You Should Play With Your Food - The Black Chronicle",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeml2bXdleGEzMEZETWJTSFZqOFlaNS1mTmRiTkdqVXRMVUJCemxNNEpDaktDNGxaNU1pWVlueXdpZTR3QS1zbGVzNlA3X0xkZENqb29nM2FwY215bzBUWGkxNlV1V05YOWtnekgyYm5hTnE4RFpXNlhGX2M4TGNkLTBaTHVVdE43aE42MEx6ODNLVllzQVFNTTltR3h5UllDdE5GVE82Ym0ycTlZLUNtVHJ1T2p4c1NmdVpDN2NEZi1IYlpEa1dPRjFJbFJDZGVGVnVFWHRzcDJ4ZEg4Vnc?oc=5",
@@ -94,19 +102,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Vaccine Success - The Portugal News",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE56RnRpd1JuM2ZjYy0xaHpOV2N0bGlaVk5zVUZ1Q1BSTEtQNEpVS2hjdnJmNkc1dF9SbnVfZ25TaC15RXA4d2Z0ZzY5Wlh2SUpiRnhBcG40bUhRTmVyYjlSejg1SkswZXJJZmtaLVNDTTNaWVlxclRZUTlVYw?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 07:39:07 GMT",
-      "description": "Vaccine Success The Portugal News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Appeals court sides with city on Chicago police union COVID vaccine mandate case - TelegraphHerald.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUnFMUDctaV9sdzd6NDJSckRqNThvN2lUR3NSVkd2QU5DeVdqMjRqbWdHc051ODRqMHJvNEgyZXNNQWJ1dWw5R0RrVnpMQnBBNHpTTFRabzcyeGpxZmFTQmlDcUZZZ2F6dS1lYXlzbjVGVjgxZ1F5MFJNTF9jcjVjblRxRUxJUGJHanZ0XzR1V3JEN3JlWExZVjJQbS1YZklUR09wRFdlRHpUeXpkYm1z?oc=5",
       "pubDate": "Sat, 04 Jul 2026 05:30:00 GMT",
@@ -116,19 +111,6 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "WA Health expands diphtheria outbreak vaccination program to include the Midwest - WA Country Health Service",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTGo2LWFia1BsOUhfeFpMa1NodXdvc0pMSzJIZnd0azkwdzdJS3U5bE9HNi1VZlFTWXlVOGFEa3ROazR6RXNFR25ob3N0UVVTcHhUUkNWR3lIbFRKemJJRklSWGxlSkRKQnY5bXJLU3FHSWNIWVVVemxEZTFYWG5VcVBFOWVad3REQkJDNUNISlVvRms4Zi1UZkpoem5pX1BXV0FSajFnTGdDVU5Canl0U3ltRTZGUU5ubGRtWkZaTWFvbl8ySk5ZekJsWmJfWEdL?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 01:45:56 GMT",
-      "description": "WA Health expands diphtheria outbreak vaccination program to include the Midwest WA Country Health Service",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -183,32 +165,6 @@
       "vaccineLabel": "Shingles",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "NHS Extends RSV Jab to At-Risk Adults Aged 65-74 - Medscape",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNlJ1ZG5rbkZOVlJYY3JZZS0zdTh4Nk0zeU1KNlhabHRJSTVXMjcwS3NFZ3FJVFZnbGpFUkVIWFJLMDB5bF9mMk1pZG9oRjI2WVpNZDlPU18tSHRwYmM3blVsSTRDV0NRUkE4X0paWlRaT1hoMXB3Z0h1SzZWdEM1c3k0Vi1lT0hvb3JvSHhTVHZIbG8wVVhZ?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 19:15:12 GMT",
-      "description": "NHS Extends RSV Jab to At-Risk Adults Aged 65-74 Medscape",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "rsv",
-      "vaccineLabel": "RSV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Moderna's Flu Vaccine Surge: A Chasm Between Market Hype and Wall Street's Skepticism - Kavout | AI",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUmVUMjBRUjNJSTdXcWV2WkVNVkMwcnhjQXJHNW1fQ1c1U25oUG9rY1lCcTFBM01Sa3hRcVpmVTFYUWpLLXo3NDduVUJHSDA0Q193emhuSV9PV1BaM0NEVUtGOEZmUk5fSEpsUWpIQ0J2ZU1fQ3JrWFRBOXJVRGpWYWhsb194NDU4dHhzMDJDOU0tem1HdmJ2d0s5QUpzREJMeVlad2JLaEYwOEUzT0NhTWdYTWdGNGJ4Unow?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 19:01:28 GMT",
-      "description": "Moderna's Flu Vaccine Surge: A Chasm Between Market Hype and Wall Street's Skepticism Kavout | AI",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "Functional Recovery Following Post-vaccination Neurological Syndrome With Demyelinating Findings on Magnetic Resonance Imaging (MRI): A Case Report - Cureus",
@@ -588,19 +544,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "COVID-19 made mRNA vaccines mainstream. WashU researchers say flu shots are next - STLPR",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc0dxajZybXVWZVI0Ti0zbExNajFTRGdCT21IUTRyeDBGQ3VTZlBzRDVZNjFJQ2F0QU9TbGhxM01ZTFdVaTlrNTZJc2FTc1BJOHBmU3lidE9wb0w0bHFKRk94YjJ6T3FGdmk1SmZjd2NlNW1rZ3pNSTY1TjNMdUM2dUZTa2F5c0loSmFSZUcweFo0c3ExcTRxaS1UQ0RzTTBwMW1tYV9SMWtwZ1h5aERhU3RlLWJzaXdQek1nQ3J4cFQweWozWEx1bV93SmR2ekpTUnJhcExR?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 10:00:00 GMT",
-      "description": "COVID-19 made mRNA vaccines mainstream. WashU researchers say flu shots are next STLPR",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Financial innovation can deliver a Bundibugyo Ebola vaccine - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sZlBlVy10emtCWGZJa3ZiV0ZjY0QzUm1ITGZzSnU5Zk10Q3JGRFNETnBnMDZGeW9wSjNyTTlWMEVTV0dQNlVEWllDNDhmeFF4WEs3VkhneFp2c0R0MFpV?oc=5",
       "pubDate": "Thu, 02 Jul 2026 09:22:15 GMT",
@@ -740,6 +683,19 @@
       "sourceLabel": "News",
       "vaccineKey": "flu",
       "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Beyond immunity gaps: health-system constraints and measles mortality in Bangladesh - Springer Nature Link",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6eDAtVzloa3piaEVGWGlBemtqUHVsOEZwY2ZncU4xRVdhTnlGSzBNTDcyQ2RPaGxHdk9jdGx4bGxmdTc0cWF6dEZCdU5xUVFEaWtZdXJwTkI3cFlqR2p6d2s1aHgzQnY5bUZJRA?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 16:41:51 GMT",
+      "description": "Beyond immunity gaps: health-system constraints and measles mortality in Bangladesh Springer Nature Link",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
