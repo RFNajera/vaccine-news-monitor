@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-05T20:43:02.682Z",
+  "updatedAt": "2026-07-05T21:44:43.605Z",
   "itemCount": 68,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 9
+      "count": 7
     },
     {
       "key": "flu",
@@ -20,7 +20,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 9
+      "count": 10
     },
     {
       "key": "hpv",
@@ -55,15 +55,41 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 38
+      "count": 39
     }
   ],
   "items": [
+    {
+      "title": "Inside Pa.’s measles outbreak: A family rides out the virus, doctors treat severely ill children - TribLIVE.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wOGZveWQ0azQzNjRHMTRhR3k4RldtUVhWd1RSVnpGWk14X3JSNi1ocTM1Qk84cGxud2duTkZNSGIwcXMzcnpqU2gxeE9YY1I4NUFkd1ZR?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 21:14:42 GMT",
+      "description": "Inside Pa.’s measles outbreak: A family rides out the virus, doctors treat severely ill children TribLIVE.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Western Australia expands diphtheria outbreak vaccination program as cases stand at 170 - Outbreak News Today",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcE5QVGI3Q0EtUVMtTFVfUEx6UVMyZ2FwYXh5OHBXMDlVRk5yQW5zUlRIVW5oZnFraDJhUVcxRnpKRFBBbWNGUDlYd21uWHAyejNfS0tWRTJJN2J3V1o3eW5rdjRuWGswOHFkRi1FS1o4dDFGVTFmbFlZRTVvd21ocThxYw?oc=5",
       "pubDate": "Sun, 05 Jul 2026 19:31:55 GMT",
       "description": "Western Australia expands diphtheria outbreak vaccination program as cases stand at 170 Outbreak News Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Mom’s Vax Tale on RFK Jr. Group’s Podcast Takes Dark Turn - The Daily Beast",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUVJTS0Z2a2pEcnJpdDRvZ1F4a2Utd1lTNlBuczhHNFdzUWRLbWhPVlJlTE1jZjlsV0oyNjRITG5mQWhUU1VraEtXMHljZ3ZBallFRVR3Q1lka2tGSVZrcDJlaWRKMTdOcUhIYWw4NDd1X3NJTXhldUhobmI0VlEtT0FzYnp1YmNZcjFubWg1Szd6cXFyTFVLUXJlV0I?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 19:21:00 GMT",
+      "description": "Mom’s Vax Tale on RFK Jr. Group’s Podcast Takes Dark Turn The Daily Beast",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -229,6 +255,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "South Korea's Vaccine Scandal Demands Special Probe into Government Mismanagement - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVmFmakNqYWJBMExpcS1jRUppSHVSVUVTbGVrWVI3MnFTSmZ1bWEyb3EyQXEzNUVIY2d5N3Jkd0JrTlBCTUZldHZjbmtaT1h4M2YyUlFWa0NDeGZQR0lHTVlLeWVUczNEQzZYcm1CNW80QjR2VDRFeUxmUTlwdVgyd1hIRDNxSjAt?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 17:20:33 GMT",
+      "description": "South Korea's Vaccine Scandal Demands Special Probe into Government Mismanagement 조선일보",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Johns Hopkins scientists develop nose spray DNA vaccine for tuberculosis - ScienceDaily",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55NEFfSlp1Mk44REJLM2xaM1ZpRHBxb1ktWThCQjdaRmtaZ2RFRzUySTZzY21LSFZYNjFjNFV6d3pnZGtTYzNPeWNzQmdjamVSc2ttSXdjWW9VdFZzcFp5ZndsRkpzTGgxZ2o5Vnk0Yw?oc=5",
       "pubDate": "Sat, 04 Jul 2026 08:56:35 GMT",
@@ -264,19 +303,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "We can't entirely blame COVID vaccine mandates for lower vaccination rates today - UWA",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTkQwRUVUZGg0VXVWRXJ1NzA3TVU3MmZHTl96emx4bEc3aTd5NDFvUHNuUjI0dDBhS0tiTUlfRHNoQlRSSHdMdDl0a1B2R3hYcGhBelFPSUFIS3pWWFpZQjZnSjFPOEtvZjZTclJhRW5NT0dKUDZ0U2RBdGl2VmhucGJoTUJxYkZHV0pKem90VTkxMi02U2c2Wkt1SklZS0x0RnN0V1U2LUItemRLT2EzMENpa25QTnNEQlRMZXRWcnVURWc?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 03:30:33 GMT",
-      "description": "We can't entirely blame COVID vaccine mandates for lower vaccination rates today UWA",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -331,6 +357,19 @@
       "vaccineLabel": "RSV",
       "articleType": "research",
       "articleLabel": "Research"
+    },
+    {
+      "title": "We can’t entirely blame COVID vaccine mandates for lower vaccination rates today. It’s not that simple - The Conversation",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPR1N5RVNBUnFYSWF5bGZZN3V2M2FEMU52ZUxlalJ6M3RiYlpaZUw0V28xZGgtQWR6OW12SWdhdzFscHJGSmhHbTU5Mk4zcUJPbDg2UUJVN016NG9idnJuZFhKbHhWVldZYlNwOXB6TWt2Y0JJYkY4ZjIwbFR3NkJXaTR6c2hjQTg0UUVlNFR3U1M0M09hUGJ1Y1hDa29XTUZaU3RYNkowT3Z4ZUoySkJOU2ZRcHF4Zkd3Y2lNeEp2UmQ0QmF2LVVwVlFkRmRjMHc?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 19:31:08 GMT",
+      "description": "We can’t entirely blame COVID vaccine mandates for lower vaccination rates today. It’s not that simple The Conversation",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Trusted providers are linked to fewer vaccine myths - eMarketer",
@@ -402,19 +441,6 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcDlBSjREV0Jkb0tQellCaW15LVQ0TEhpMjFfdm16ODJKXzR5SFRBMmU4UVpLLUYwdDRXLVo4ZkJMajRMNDlMS1JGemI3VldpcndsTGFqVkMyemt6Zi1NQXFQOTlrOVAwUnRUTVhCcURkd29fZG84ZnF6MmVLT2NxT3lRQmJyTFBkSDZzSzF5NA?oc=5",
       "pubDate": "Thu, 02 Jul 2026 12:39:13 GMT",
       "description": "Free pet vaccine clinic offered Thursday in Missoula NBC Montana",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "How a Military Vaccine Reversal Was Followed by a Major Flu Outbreak - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMEozcU1rWm14Vjl6bjM5bl95dkRNZkstT0ptcFpKSUdaRkZhanM3dHZ3VTdTbG5kLXA2VnpiNFY4cnQtU0czWVpGYU1PdlFCSm9ETEc4X0RPN0p2Y1JpenNlY0p3NDBuSmFxUEtXd3lDOWl2ZmJ1bG9TUDR5ZTRWUjhMU2ZBWWRUX0hneHh2aDBvS21PeHJhZDQ3cWJxczltV2p5WA?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 11:22:00 GMT",
-      "description": "How a Military Vaccine Reversal Was Followed by a Major Flu Outbreak Newsweek",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -680,32 +706,6 @@
       "sourceLabel": "News",
       "vaccineKey": "shingles",
       "vaccineLabel": "Shingles",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
-      "title": "COVID-19 vaccination induces cross-neutralisation of sarbecoviruses related to SARS-CoV-2 - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96MVhyYnRPOENCWGlyZGszUFM3MlR2bUZ6RmExVllsemticEF4MWlzNTVaeVZsUktTeXAzYXpMaDdxYlFqX2NocEJxZjcxRnlXd3BsM3EzRHRfVDRxcUNB?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 10:15:59 GMT",
-      "description": "COVID-19 vaccination induces cross-neutralisation of sarbecoviruses related to SARS-CoV-2 Nature",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "COVID-19 vaccine boosters may help protect against future animal coronaviruses, research suggests - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdFlLYjA5RFJsWGotRlF6bzZfM1ZoX3ZhTWtFdndqT0NHYm9FRlNoWHJReG9ZejRmM1lMRGRqRDlMTHFBalJhTnNtNzNuSXB1bzUxRGQyVUQ5a0JfSjEyODRzZkw0Z3dHWmo4RXJMZ19QVTdJT2pjeS1XeUxwYUNZZ2w5QUxzZHc?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 09:00:02 GMT",
-      "description": "COVID-19 vaccine boosters may help protect against future animal coronaviruses, research suggests Medical Xpress",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
       "articleType": "research",
       "articleLabel": "Research"
     },
