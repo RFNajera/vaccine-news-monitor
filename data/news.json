@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-05T07:35:46.718Z",
-  "itemCount": 65,
+  "updatedAt": "2026-07-05T09:26:03.644Z",
+  "itemCount": 66,
   "groups": [
     {
       "key": "covid",
@@ -11,6 +11,11 @@
       "key": "flu",
       "label": "Influenza (flu)",
       "count": 3
+    },
+    {
+      "key": "rsv",
+      "label": "RSV",
+      "count": 1
     },
     {
       "key": "measles_mmr",
@@ -33,9 +38,14 @@
       "count": 1
     },
     {
+      "key": "meningococcal",
+      "label": "Meningococcal",
+      "count": 1
+    },
+    {
       "key": "shingles",
       "label": "Shingles",
-      "count": 2
+      "count": 1
     },
     {
       "key": "malaria",
@@ -49,6 +59,32 @@
     }
   ],
   "items": [
+    {
+      "title": "Nearly 60% of Hong Kong parents mistake deadly disease for a cold, survey finds - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUWx0SnYtUTVGZFlucE9qQlVxeHBpRnNXdElWODd4MnlTWHJUeWZLRklvdDFmbVJPTEFSbzlFNktwTWJ6bldIejVzSmtSS3RqVjktUXptb3I1LXJtSEVDUGxpMWdONzVGVV9yenlOYV9adVNNN3FQMWpSTEhzNklMWU9Ta3BNVjBib3Bsc0swNXp1cFowWDZHSGRadEpoNWI5ZGFOTGpvNURPNmFwdVV0VmlpT25nSXRlUEpBVDdBWG5iamhIQlJlaDNvMUVDR1JoQ2VEaHl30gHWAUFVX3lxTFBEU2ZoUF8zNmZZcDZTTl8waGJ5aUl1UEtQOVNrdXNRcUFpZTZ6VGNoQWhIaXJvYU1wS0dHUFpYU3p5YlYzdzlqajYwWGliZ3NwNnNNNFlHV2x5Mm9jcjlNX3dHR0RETThqZldwUWRacThOalZXMGRFSWowTnJyU1ZSaXV2aXJSUVVQekdfeE91TWQ5SDBSdDFLaGFsXzF2V0hzUktyUWw5S0VqalZIZkVSckNNUWFjYkZnSGNzYk5NREFIUnFhTGR6Wm5LQnJiYzNMNzVFZEE?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 08:47:15 GMT",
+      "description": "Nearly 60% of Hong Kong parents mistake deadly disease for a cold, survey finds South China Morning Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Tackling Drug-Resistant Tuberculosis: Johns Hopkins' New Nasal Vaccine Boosts Effect Of Standard Antibiotics - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPa1dRajhXeW04UTFiRHVTR1RHYXVRQ0txeFNTZGUxUEFpbFI0OWVzcHJrS0xDUXNsZThlNGg3dnJXekJUbHpfRnFBbHJLUmh6Mm56UVJOUS0yU1hPeDIwNUN1OENzNFpJQ1FFc25yNjhVQ3F6RG5uNERUYW9jVnNyT2xkUVZVNXhKYmNaTjY2cEtpQlNRaGhKNlVwUmpvT0thRWhhNncyMG9KM28tR0tlMGdmUVQtY1lWdVM1a3gyWlZGUlpDNVUwUjdFXzkzOW4yeWNob05taHJvc0XSAeMBQVVfeXFMT2NwM2JrOGdEMmZlNWJWMWRKMWVveXlHX2NmZHY3QVQ4MHZvVTRqdjE2VDN6enZhU1NmaXB6dDliOXNsRV95T3QwTjN5MW44eXNiaGFtYnFNaWZqQ1doTVZ0WlV2ZU95VWZyZ29iQlBTbndEdXJla3YwcFZudU1uNGZpZnZ1YkJZOEw4a1NYZ2wtRThELUlPR1ZIWlVGYTY5WU9wRk52ejA4VVN3dFZtdmdJS3V4RXFKZFlOVGcyVFJmNnF2eXN6TnlZU3d3NGpEVDNySUE2UnUzekVlVTBEUjJQVTg?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 08:30:25 GMT",
+      "description": "Tackling Drug-Resistant Tuberculosis: Johns Hopkins' New Nasal Vaccine Boosts Effect Of Standard Antibiotics NDTV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Promote Children’s Access to Lifesaving Vaccines - First Focus on Children",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU0JsbWlORzhPLS1JNTNZQTBJamN4VVl6LVFEUVVndkZPQVhEZ0E5WkNfNnpGT3VYOWJCNkZqM1JIdnZnWDdsTnBTWVRHelltVVdSTlAzb3ZrWlZmTWNrSFFNclF0NTQ5NE9oa21fb2RORWhjT2hzY0JmOGM3OGJRLXpuUExtQ0k?oc=5",
@@ -98,19 +134,6 @@
       "sourceLabel": "News",
       "vaccineKey": "malaria",
       "vaccineLabel": "Malaria",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Medical Notes: A New Vaccine For Cancer, The Silent Struggles Of Parenthood, And Why You Should Play With Your Food - The Black Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeml2bXdleGEzMEZETWJTSFZqOFlaNS1mTmRiTkdqVXRMVUJCemxNNEpDaktDNGxaNU1pWVlueXdpZTR3QS1zbGVzNlA3X0xkZENqb29nM2FwY215bzBUWGkxNlV1V05YOWtnekgyYm5hTnE4RFpXNlhGX2M4TGNkLTBaTHVVdE43aE42MEx6ODNLVllzQVFNTTltR3h5UllDdE5GVE82Ym0ycTlZLUNtVHJ1T2p4c1NmdVpDN2NEZi1IYlpEa1dPRjFJbFJDZGVGVnVFWHRzcDJ4ZEg4Vnc?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 13:43:23 GMT",
-      "description": "Medical Notes: A New Vaccine For Cancer, The Silent Struggles Of Parenthood, And Why You Should Play With Your Food The Black Chronicle",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -282,6 +305,19 @@
       "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
+    },
+    {
+      "title": "Most women opt for maternal RSV vaccination, prefer it to infant immunization, international study finds - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRXJwa1ZqMWpIV3RZSW9uYzItbzNJQ2RhYkhQV3JpQ181NUFhX3JrYnA1bDJ3NFI4SzF3ZmpYdHF3RDFubXJFZXIyYmFpT0dxVHoxY3BmYjI2eGxFOU9YcU9mLTFTazNkQUZlNnRiYV8xeXBBWUNJY1k3Wk9HREZMbVo3UmxHX0dOYk41eEZZMHVMMEhUWndiQWZuTENXU1JTWHpfOEFUdGV3U0dZYjdXRVVOaEUtdHp2V3dz?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 19:44:00 GMT",
+      "description": "Most women opt for maternal RSV vaccination, prefer it to infant immunization, international study finds CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "rsv",
+      "vaccineLabel": "RSV",
+      "articleType": "research",
+      "articleLabel": "Research"
     },
     {
       "title": "We can’t entirely blame COVID vaccine mandates for lower vaccination rates today. It’s not that simple - The Conversation",
@@ -544,6 +580,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Meningitis vaccine required for Texas college students, pharmacist warns of deadly risk - KCBD",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUXFYMmk4WnhtOTJpZlJ6V1FyZ28xM1ZYalVKNkZ0STBPT1RuQmh2WWFNbWFFT3RPb0xhcGg2cGhJSWZXN3hBOEZBTDJWYlF5Qml3NXZ1bTg1QVBOREVjWF92aElMR2hGbjd4VkY3bHRxRWV1TGtySUZUeXhMMTJtcWdob0VIaDdpaEhzM1hCcHFXUE5PbjNjQmlBRmxtY2pxTWZBV1pqQ29YQ19hZ2ZMRzRB0gHGAUFVX3lxTE81aC0wbWZNbWdmU2dobDh4LV9fWVVuc1M2VEdqRlhaLXlteGxyVjVGcUQtVHBIWERMeXgzbjhLWUxYU0Zhdy1IbXpLQUNMMXZWY0xaTmxNNl9rVXBLYmstYUQ5S0k0S3pnY1pTYy1NVkJ2QUFDSjl1dXQ1TGpYNzU3STF0MmxUTjNfZHpGdG5hWmJpVXJmNHkxX1pxLV9xZ0F5N0tlMjRqXzJnb2d5OFA2eGw5akxoZmRQUWdDRkthaTZGQjBZQQ?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 00:59:00 GMT",
+      "description": "Meningitis vaccine required for Texas college students, pharmacist warns of deadly risk KCBD",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "meningococcal",
+      "vaccineLabel": "Meningococcal",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "How personal waivers impact Wisconsin's vaccination numbers - PBS Wisconsin",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbDhWemk3Y0prX2JsNm9VRkJiNGFGNXBBamk4VEo3OW94RnhZSmxFcGRpOU9tbFc0ZHVLbWlEamFybWN5b2JienlVbmZYMk5mMTJHMF9BeENKMGdEdDhXMnZXVEpxYm05VXR6bjZ6SS01aEV3N3RGYVFlQmNTUV9uRzk4aGVBTlFnWVBNTmRIdERsdWxLTkZsa0hR?oc=5",
       "pubDate": "Wed, 01 Jul 2026 22:07:12 GMT",
@@ -691,32 +740,6 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUZRN3h4b082LTg4YWl5MzRHNkxVZnZEcTgzMjdQZ0sxa19ZZVB4RVlBbXFlMmRNQmhfd1l0Z1ZrTi1wcDIxWjNCdDRaYU5WbzJ4aUNxNnQwZnFmc19XNk1adnhVT1dReDQ2ZTlIQXd0Tnh4bUEwWTFlYnJmNk4zeGptNFh4ZEtJQTctS0xMMXB0ZU9TZEhYOFBJa3JwUnVFVGc?oc=5",
       "pubDate": "Wed, 01 Jul 2026 14:35:07 GMT",
       "description": "Appeals court rules New York school vaccine mandates are constitutional — again Times Union",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Study suggests shingles vaccine lowers dementia risk for older people - Local 3 News",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTEw1RWkwWFlFbEd5OTNvS19IajF6aTRrZWZYVG02bm42MEdwbzZWQUt6aHpDMXVtU190VDRQaEpRMzVrakpQalNPaWxsTmdJdjIyWWRoODJCcE5HY2l4ZFVkeTdDcmdoOEVBTTg5U094NXZMYkJleVljaktVZEJEV196T295SlhtU3dkLUNaUWZIZk5aN3NMQkpDb1F2SmQyTzFycXhQdldLbHBlQVlPSGxZamhka1dhVGxUb2Z0RTFLMWdtSnpwc1BINXhZSHh6NHBJZ3V5VF9JTjZESjc1SlNXdk5USXhlMl9qLU5n?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 11:47:00 GMT",
-      "description": "Study suggests shingles vaccine lowers dementia risk for older people Local 3 News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "shingles",
-      "vaccineLabel": "Shingles",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
-      "title": "American vaccines that transformed public health over 250 years: 'Outweighs harm' - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMDNVX3JuVGFBc0VTRm1QOTRMLUEzOTBrRi1BOUJlaUN0cHRsSWlXb2tDaE5NZkljem5rbmRfMkpKMjROYWstdk5hOFI3emtMOGQtdE9Ka053LURMRU9fclhGMWk2N25HVlVjMU9XTl9YOHNacUs4eXdZSW1GWW5kWEtIdGcwU2V3dk4xSTVCdEhwRURHeEJlQmtMNlJtWC1nMjA4ZGJGa9IBrAFBVV95cUxOTy0xbHpxVUtONHFBOXFxVXUzT0FUMmQ1dHl2d1hGUUh1Qkg5c2JEWHYwY1ZrbHJmVTdXYzBkYU1CNFRVczFLcV91VVNPWmFVRDZGTkNJVm9RUnBrMnRCeUE0b2VIendFY2VOc05yLVpRUURaZXc4MVdianhTbkhvZmY1LXlJWHlnLVJvQk9tRUF0Vm5SVnBJenhocDlwRS1tYnVzaDk3a0s4TGRs?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 11:09:48 GMT",
-      "description": "American vaccines that transformed public health over 250 years: 'Outweighs harm' Fox News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
