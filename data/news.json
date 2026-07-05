@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-05T16:46:01.518Z",
-  "itemCount": 66,
+  "updatedAt": "2026-07-05T17:46:31.379Z",
+  "itemCount": 69,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 7
+      "count": 9
     },
     {
       "key": "flu",
@@ -55,10 +55,23 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 39
+      "count": 40
     }
   ],
   "items": [
+    {
+      "title": "Former CDC official describes \"pure chaos\" as RFK Jr. sought to transform health agency and take over vaccine panel - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMEE5bEcxYlFKQjNXYmtRSmd3ZE1kS3pSNjZKNFVhQlVrMW0yLVFwS0R1Yi1wbENwSVUyU1Vlb3hnV29DQVZ3bk1hV09IYW1nRHp6SVo1QUo2b2VZT1pSRzNsRjVCTk5sWkRlRVRtV093WHF4QkNjXzhXWFNQWmtNMDEtZy1abGZV?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 17:25:55 GMT",
+      "description": "Former CDC official describes \"pure chaos\" as RFK Jr. sought to transform health agency and take over vaccine panel CBS News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "The American Revolution and today – immunization saves lives - The Cullman Tribune",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUXczRHBhRlRYQWdZTFVYMGNOQ1FGY0ZxZlNPdHE4aUZZOHBaTVhUZUV3SzdvcXlrLXRtVDBnZmVHc084YUZCQjNPOEtDMUlPMkhwbkF6OXpPR29OT2FGQkg1ZmZOTmFlNlp1dHdYM0pqakVrSHh4cUlzNlpTZ0o5aVM5ZWoxTWdPUi1FZm5QMmFaTVI0V1NBQzA0T25fSktGOU9n?oc=5",
@@ -112,17 +125,17 @@
       "articleLabel": "News"
     },
     {
-      "title": "Former Surgeon General: Baseless Vaccine Lawsuits Threaten Public Health - Newsweek",
+      "title": "Baseless vaccine lawsuits threaten public health | Opinion - Newsweek",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeTBhRjcxc0ZQbmo3eDNCYXVacUJ0X0NyeUcxSzBaMXdUajB6SVlpTnZXNXJTNWhMOTZrdGNWYjVQR1RScUktQ1pJM05TZHFKQjY2NkR6UlctYkRpckoyZllfa3pGeDVQZWNiWWRSQ2hmeDZvN2VVMFVudm16d3lMUlVWQ2xvaE14WkNYQTJJaXhuMkxw?oc=5",
       "pubDate": "Sun, 05 Jul 2026 10:00:00 GMT",
-      "description": "Former Surgeon General: Baseless Vaccine Lawsuits Threaten Public Health Newsweek",
+      "description": "Baseless vaccine lawsuits threaten public health | Opinion Newsweek",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
+      "articleType": "opinion",
+      "articleLabel": "Opinion"
     },
     {
       "title": "Nearly 60% of Hong Kong parents mistake deadly disease for a cold, survey finds - South China Morning Post",
@@ -216,19 +229,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Moderna Stock (MRNA) Opinions on mRNA Flu Vaccine Approval and Stock Surge - Quiver Quantitative",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTTFqTm9mbENvX1RoQi1EYjZwOFZlb3pYT1hpTE9rbjVJX2p6azBRc1lfRE5GN3FFNmsyRlNSc3dMd2otdUUwOFhoVm00NDd0bWdiamJBRUpwSVZFQW8xcGRVYk1JQlBQT1N6eWdRRFlZTWJxTjB3UXU5LXJYcVZOYnRmUVJqS0FfQ3JNQWYyZmx5SHZ5alByQ2F1UXVjVWVaOGNTZjBmNWRpUDdHX21DZg?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 17:56:00 GMT",
-      "description": "Moderna Stock (MRNA) Opinions on mRNA Flu Vaccine Approval and Stock Surge Quiver Quantitative",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "U.S. Measles Cases in 2026 Nearly Match Full-Year 2025 Toll With Six Months Still Remaining - Global Biodefense",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVGpUWDMzdGtPTmZjSWpSME5PV29DTmV2TEdsTjgzMDZ6djVydVNMTjE4UXhBS3YxeHRDTEd4N0dRZ2lzRmFmNjNZZzkzV0dDYWlXcWJuRFFwWVBZX20xVW5hbEN0Y1IxdUJJUXZPNzEzQUNwbDU0a2hUTlNfQ25QNzFWRGV2SWVacGROcmVMa2QzS2RaUlVCTGJkVDd1eHh5NU14QU1TZWI0LXdqalh2SkllTjJNcGF2Yk5kOFBjRnZlelhYb2ViQ2k2SQ?oc=5",
       "pubDate": "Fri, 03 Jul 2026 13:24:51 GMT",
@@ -238,6 +238,19 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "We can't entirely blame COVID vaccine mandates for lower vaccination rates today - UWA",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTkQwRUVUZGg0VXVWRXJ1NzA3TVU3MmZHTl96emx4bEc3aTd5NDFvUHNuUjI0dDBhS0tiTUlfRHNoQlRSSHdMdDl0a1B2R3hYcGhBelFPSUFIS3pWWFpZQjZnSjFPOEtvZjZTclJhRW5NT0dKUDZ0U2RBdGl2VmhucGJoTUJxYkZHV0pKem90VTkxMi02U2c2Wkt1SklZS0x0RnN0V1U2LUItemRLT2EzMENpa25QTnNEQlRMZXRWcnVURWc?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 03:30:33 GMT",
+      "description": "We can't entirely blame COVID vaccine mandates for lower vaccination rates today UWA",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -318,19 +331,6 @@
       "vaccineLabel": "RSV",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "We can’t entirely blame COVID vaccine mandates for lower vaccination rates today. It’s not that simple - The Conversation",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPR1N5RVNBUnFYSWF5bGZZN3V2M2FEMU52ZUxlalJ6M3RiYlpaZUw0V28xZGgtQWR6OW12SWdhdzFscHJGSmhHbTU5Mk4zcUJPbDg2UUJVN016NG9idnJuZFhKbHhWVldZYlNwOXB6TWt2Y0JJYkY4ZjIwbFR3NkJXaTR6c2hjQTg0UUVlNFR3U1M0M09hUGJ1Y1hDa29XTUZaU3RYNkowT3Z4ZUoySkJOU2ZRcHF4Zkd3Y2lNeEp2UmQ0QmF2LVVwVlFkRmRjMHc?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 19:31:08 GMT",
-      "description": "We can’t entirely blame COVID vaccine mandates for lower vaccination rates today. It’s not that simple The Conversation",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "Trusted providers are linked to fewer vaccine myths - eMarketer",
@@ -541,19 +541,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "BCG vaccine may rewire brain immunity, shift Alzheimer's markers over 12 months - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbnVSdmYxZFhDYXhvTzdJSk81bDQxRWtYTDJIT1hXUDJzRGdmTm1ISEN2aHFYZFdRT2FxbHppTS12eV9XQ0V2SGNRekZHb216RkpGYm03ZWxnNmwyN3ZNSVB1aDZYSG9DYkZkbWQtTENqQXlTTHNPMUhBNWt2TG04MEI4cw?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 09:00:06 GMT",
-      "description": "BCG vaccine may rewire brain immunity, shift Alzheimer's markers over 12 months Medical Xpress",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
       "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT",
@@ -684,19 +671,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "mRNA Influenza Vaccine Advances Against Multiple Strains - Contagion Live",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa3FOZ1RTNUFpTlhOS0V4MWlxY1FjY0xXZnRlS2oyOGRRb3BNWjdWTHF0VmxSNjhvX2FaZUUxVlg2eDdLRVBvajRGQXdFWUQ2NTllM3hpWElKQU9xc0xXX3hfR1RNNXRfZkJFb0JqczI0YTdzcTVXa0pVaFBjSkpLZHBWelltaE1uN0k3NHd3U2FfRmQ5V0E?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 17:22:54 GMT",
-      "description": "mRNA Influenza Vaccine Advances Against Multiple Strains Contagion Live",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Following an outbreak, lawmakers push to require flu vaccine for all service members in budget bill provision - Military Times",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPUnRZWGExNDRhdmpTTFZCWTdDT002cFhxWkZBclFDY2pBMkVsMEVpRVF6WXk5WXhRWDY1NzhIMnJEN192UmRvVWttelRvV2tVTEUxRi1Dd2tOdXVydzBWVHFXQ1VMM1FjSndPaU5vV1JRWjFYVWRoSWFjb1Y3YTBMQmNCVGVPRExiUEdqQVBmbEI0TEVTTzctNmE1TGlTbjJVOHhVdlVMdXdPUkpkUjZpYVpFeTY5VkJ1dF8tak56MUNwdngxbHl5T2RNTGp1UlNUZmdobDd5d0UwME93dll6VTVHSHZ3QWFRaHE4bzNzbzdxcGNrSzJDb1BtMEdMeENwaEtz?oc=5",
       "pubDate": "Wed, 01 Jul 2026 16:41:35 GMT",
@@ -775,6 +749,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "COVID-19 vaccine boosters may help protect against future animal coronaviruses, research suggests - Medical Xpress",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdFlLYjA5RFJsWGotRlF6bzZfM1ZoX3ZhTWtFdndqT0NHYm9FRlNoWHJReG9ZejRmM1lMRGRqRDlMTHFBalJhTnNtNzNuSXB1bzUxRGQyVUQ5a0JfSjEyODRzZkw0Z3dHWmo4RXJMZ19QVTdJT2pjeS1XeUxwYUNZZ2w5QUxzZHc?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 09:00:02 GMT",
+      "description": "COVID-19 vaccine boosters may help protect against future animal coronaviruses, research suggests Medical Xpress",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
       "title": "Current CDC Vaccine Price List | VFC Program - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzcDlFY0E3MFdhQmZETTZXa2hSdmxmc2x5TC1XVXNhM2xqUmk2V0Vmd09sOUlSc3Y1bjJCQVlrVWZDSF8zc0lXOXRTM0JNaHV5YlVBcnNDdkZEdE5DQUhYVGNwV3FubzVDWThzLUZqcldYMGNOTkE?oc=5",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
@@ -827,6 +814,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Houlahan, Castro, Cisneros Slam Pentagon for Lackland Flu Outbreak, Push for Flu Vaccine Requirement - U.S. Representative Chrissy Houlahan (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Va1NOSl84bjdCNk9xZm5tdmhlb3VobFYwVmxUUEV3TTV4bTl3M0VJMHBHRXZnX0NWT1l2U1pSM2owelhLR1cyeUhNcFBrR3Y4T0piZ0s3SFpIS2c1WGg2TmZwTVhYOHBDaGpzSDVWVjhwVkJXT2c?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 21:34:48 GMT",
+      "description": "Houlahan, Castro, Cisneros Slam Pentagon for Lackland Flu Outbreak, Push for Flu Vaccine Requirement U.S. Representative Chrissy Houlahan (.gov)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "New US poll identifies large ‘malleable middle’ on vaccine misinformation - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYXNOYjVUeWRlRy1fTU05c1VCeTNIMGxkeG9semE5QWEzRnk2a2x2TlcwakFQdXdjUm4wR2NBd1dLaDFMajlhMng0WTl6cEVyUDdGOVo4ZzJEeTNWU0MxdmRkMTB3Z3J3X2xMZTZDUkc5cDJsUFNEWlVSaGFoRXRJcXVaNTdkY004UjZJeUhoRVQ4OVFnaE9NbmdhWDVLZ3gwd1phVkJXXzN0S1pVUlpiaXloMFU?oc=5",
       "pubDate": "Tue, 30 Jun 2026 20:49:42 GMT",
@@ -866,6 +866,45 @@
       "articleLabel": "News"
     },
     {
+      "title": "Same-Day COVID-19, Influenza Vaccination Does Not Increase Adverse Events - Drug Topics",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPamdwNmZNVmUtUENGaXVfOWxOYXhZVDd3NmkxS09BaXQtWU91bW9CSDIwbTdDR3lmcUZtY2h6QjFsdEZ6NmN1cnFGV2tzNURZMDR3WlU3M2N5MjF1dEhSRXFOdVZIc01peGc1ZkR6a1huZVhIcTY1N01hdU9ZV29EOFB0cnNvQ2JUQVd6MGNSN2JDN1ZVaUpBV0E4cTdndzlqMnRJV0lNbw?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 18:47:03 GMT",
+      "description": "Same-Day COVID-19, Influenza Vaccination Does Not Increase Adverse Events Drug Topics",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "The ongoing impact of U.S. vaccine hesitancy - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZW5neEZ5RzRpdk1hMzZ2bC1fdFFRcFZEWE1McXd0MjBTNTVlMzRRcVNiTG0xcHEwdTN4MTY5NHRNcU1oeHQxSlBpWUp1R0d0UzVVS3pQQjJMSkRvcFY3ODlLTHhuT2loakp1d0ZWYWVWSi1ocFQtZmc3V1ZQV1EzTzRZVnNNa21vU01RZU5n?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 18:30:00 GMT",
+      "description": "The ongoing impact of U.S. vaccine hesitancy The Washington Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "NDAA Amendment Mandates Influenza Vaccine After Lackland Air Force Outbreak - Military.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVDc3UXE4ajI5ZFp4dUVFZk9LS3otQzlIMkRzRV9ZNC1ja0VuQ09tQ0NSMktweGdhSnRDcDNzcExYcjRudE5sY2NTaVJYUTJkUXRPa2l6V1VuRWp6dXRZVVQ3VENJTkZrTWV0dDZsbWtEMzB5aXphT3U1U1pUcS1mQllCTngwYmFFbUZDLV9ldEFUSlRYbEVUVmJtNjc4QzJPQ2c?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 18:05:01 GMT",
+      "description": "NDAA Amendment Mandates Influenza Vaccine After Lackland Air Force Outbreak Military.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Shingles vaccine may also offer protection against dementia, studies increasingly show - NBC News",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNallBSDBBcFk4S2I3VU5VN0xhQW5KVjBKZ2JwZWp5UnZCeTZrbjR0N0Z2Mm85SHlrU0VWa2c5QTZRMF8wN2loQzdqWXBZc2JXaEVIMHZCWXRCVkRHcWZielE3OEI4VlI3U3VaandONG1iYXRHWTlBQzRKeHF4WkpFSHkzYXZBalNneE0yQklPR2lQTEFGWjh1cHNaOHM0RV9SWnpDbmVWamthbkx5cUluSUJ3?oc=5",
       "pubDate": "Tue, 30 Jun 2026 18:02:00 GMT",
@@ -879,10 +918,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Billions of mRNA vaccine doses’ review underpins their effectiveness - Euronews",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV2ZaeTF3VG5wUDlFclQ3SWZGeUZtUkIxc0tjdUI2ZFFtTkFQRTdwQXN5V1N2MGJvRnZCTWlZZ1hjTW8tNGc4dXNYTGpLYVZUUmRxclFETnVIQXBkT1Rya3BBRlEtSENGbXpzbnlTeXRWTndqRFBJNjNYd1ptUUpvLW94REJpTjhiZTh0TUV1bW1VYmt4elBpTXVTc0FmOGFjd2NKWGR5eVRBMUdiZk9F?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 14:48:53 GMT",
-      "description": "Billions of mRNA vaccine doses’ review underpins their effectiveness Euronews",
+      "title": "A Vaccine for Strep A May Finally Be in Reach - Global Health NOW",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwYTFFbkhKc2VEV0RKa3ZHMnZVUWxuRUJkSDd3Y2NoWFhGbW1LNUdRdXdudUpJdC1KZzQ2c3BrMU1IYkg4N2FKZ0lXdkViSF9FR1hYZk1iZG1Nek9CRGN6V1J6M0xyXzNyT3E5RTN0WTN3cTNUU3FEbTZB?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 10:47:59 GMT",
+      "description": "A Vaccine for Strep A May Finally Be in Reach Global Health NOW",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
