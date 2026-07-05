@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-05T11:54:24.704Z",
-  "itemCount": 72,
+  "updatedAt": "2026-07-05T12:51:08.433Z",
+  "itemCount": 66,
   "groups": [
     {
       "key": "covid",
@@ -10,7 +10,7 @@
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 3
+      "count": 2
     },
     {
       "key": "rsv",
@@ -55,7 +55,7 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 44
+      "count": 39
     }
   ],
   "items": [
@@ -214,19 +214,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "Moderna Stock (MRNA) Opinions on mRNA Flu Vaccine Approval and Stock Surge - Quiver Quantitative",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTTFqTm9mbENvX1RoQi1EYjZwOFZlb3pYT1hpTE9rbjVJX2p6azBRc1lfRE5GN3FFNmsyRlNSc3dMd2otdUUwOFhoVm00NDd0bWdiamJBRUpwSVZFQW8xcGRVYk1JQlBQT1N6eWdRRFlZTWJxTjB3UXU5LXJYcVZOYnRmUVJqS0FfQ3JNQWYyZmx5SHZ5alByQ2F1UXVjVWVaOGNTZjBmNWRpUDdHX21DZg?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 17:56:00 GMT",
-      "description": "Moderna Stock (MRNA) Opinions on mRNA Flu Vaccine Approval and Stock Surge Quiver Quantitative",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "U.S. Measles Cases in 2026 Nearly Match Full-Year 2025 Toll With Six Months Still Remaining - Global Biodefense",
@@ -424,19 +411,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Gavi Board meeting underlines commitment to country sovereignty, fragility and health security - Gavi, the Vaccine Alliance",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMDk0UFhoNVAwV1ZMQkdfeHI1TExFRkV1ZXFlZmM4ZkpCaWZWUVh5bmM5eFNvUWNCaUJ5QV9makhuVGNDZFV6TlJVWXNhMWxBTE55SkZYclV4Z2FMWW1najZQSWZpdnZzcnpxd1d5MEZWMDN5aFFSSUpUemh2blUtRnIyLUxWY0pRVjE3bDhpYlhPSk9sUDVsQWJCbVgxMFd4aW11TVc1cnBwV1dCZ2pKeF8wZnhxUlhjV1F1V0tqUDI?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 15:36:19 GMT",
-      "description": "Gavi Board meeting underlines commitment to country sovereignty, fragility and health security Gavi, the Vaccine Alliance",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Africa’s vaccine sovereignty goal is set for its biggest hurdle - Semafor",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbFBzMHBOaFI5d2tzU0JqcElIREdEalNZSHU2eW0ydjZhblpEYWRsbmRFdkR2NnVxNWI5Yzh3bldDdG1vYXBCWmJwOXA2VzlMeXFuNTFiRUZYRWtUTDNib2dXUnhBRDg1WjZCQk1hNkoyY1lrdnBWNlJkWk1YVDQwY3o4a2pvT0xpOEd4MWcxNmFvZzJ3QXYwclUwTGRYeWM?oc=5",
       "pubDate": "Thu, 02 Jul 2026 14:46:00 GMT",
@@ -619,19 +593,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "SK Bioscience to lead Gates-backed AI vaccine project - The Korea Herald",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5hR3lLbExObFllNHZRSzBnbjYwVzhZc2FNX1JNVzh1NjVfTkNKWnZiM0FNNnViejJsemR0RjNWUGN3TlJ1ZkRHaVN1V29jNmRJdlVjUjhwVQ?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 05:10:41 GMT",
-      "description": "SK Bioscience to lead Gates-backed AI vaccine project The Korea Herald",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "KFF poll finds vaccine myths reach many Americans but convince few - News-Medical",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUXc1Q1BRV3hJcjNFNS14NkJHZnp0ZWlVY1NhY2IycjBPdENDc0xRQXZsdmY2anFYbEJzQU91dldRYlBqTnFkWDU1SXVhLUxwZFF1UzdwTEdtdElUOVRURWlnSXI2X0NiYkI4UENKMm9NMklIVkhsa0FxZjFlUE5ycnhHOFdNb1BRdzREZkcxRkNIUTBuZEpORk54d1FIclF1VFpfeVluNThONFlmRFU5V3hMOFU?oc=5",
       "pubDate": "Thu, 02 Jul 2026 03:21:00 GMT",
@@ -667,19 +628,6 @@
       "sourceLabel": "News",
       "vaccineKey": "meningococcal",
       "vaccineLabel": "Meningococcal",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "SK bioscience to lead Gates Foundation-backed AI platform for vaccine development - koreabiomed.com",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12QVlfd3lTeEMyYldQOE51WXpGZHBYbERlcjNCcWtmZDI5OThnbnZhOFNBN196R2NmVVpha0FTY2xsS2tsLS1pV3p3MjJkYWdaZUtGQnhmek9DYTRYaENUVjhZZE0wRVlXb3FqdVRB?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 00:34:17 GMT",
-      "description": "SK bioscience to lead Gates Foundation-backed AI platform for vaccine development koreabiomed.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -775,19 +723,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "A Landmark Study Reveals This Can Eliminate 100% Of Cervical Cancer Mortality - MindBodyGreen",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOHQ0WG1tdno4N1ZfRHhGbHlVUVdjQ1N5NkI3S000bkM3SF9Ta0t5ejJaRkF2Qm9JMktQLXlhc1hpdnFVeDFUTXZqaGhqdkZiUkJoU0FWX0ZCeTU1SFNRV1dQc2FQV0YyQnZsV0cyTElyV0hwSUtna25CQ3VhQjZJM2szaHdWMGxnVjIxWVVub2lZU2RXTHV5d0FR?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 16:43:08 GMT",
-      "description": "A Landmark Study Reveals This Can Eliminate 100% Of Cervical Cancer Mortality MindBodyGreen",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "Following an outbreak, lawmakers push to require flu vaccine for all service members in budget bill provision - Military Times",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPUnRZWGExNDRhdmpTTFZCWTdDT002cFhxWkZBclFDY2pBMkVsMEVpRVF6WXk5WXhRWDY1NzhIMnJEN192UmRvVWttelRvV2tVTEUxRi1Dd2tOdXVydzBWVHFXQ1VMM1FjSndPaU5vV1JRWjFYVWRoSWFjb1Y3YTBMQmNCVGVPRExiUEdqQVBmbEI0TEVTTzctNmE1TGlTbjJVOHhVdlVMdXdPUkpkUjZpYVpFeTY5VkJ1dF8tak56MUNwdngxbHl5T2RNTGp1UlNUZmdobDd5d0UwME93dll6VTVHSHZ3QWFRaHE4bzNzbzdxcGNrSzJDb1BtMEdMeENwaEtz?oc=5",
       "pubDate": "Wed, 01 Jul 2026 16:41:35 GMT",
@@ -831,19 +766,6 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUZRN3h4b082LTg4YWl5MzRHNkxVZnZEcTgzMjdQZ0sxa19ZZVB4RVlBbXFlMmRNQmhfd1l0Z1ZrTi1wcDIxWjNCdDRaYU5WbzJ4aUNxNnQwZnFmc19XNk1adnhVT1dReDQ2ZTlIQXd0Tnh4bUEwWTFlYnJmNk4zeGptNFh4ZEtJQTctS0xMMXB0ZU9TZEhYOFBJa3JwUnVFVGc?oc=5",
       "pubDate": "Wed, 01 Jul 2026 14:35:07 GMT",
       "description": "Appeals court rules New York school vaccine mandates are constitutional — again Times Union",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "American vaccines that transformed public health over 250 years: 'Outweighs harm' - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMDNVX3JuVGFBc0VTRm1QOTRMLUEzOTBrRi1BOUJlaUN0cHRsSWlXb2tDaE5NZkljem5rbmRfMkpKMjROYWstdk5hOFI3emtMOGQtdE9Ka053LURMRU9fclhGMWk2N25HVlVjMU9XTl9YOHNacUs4eXdZSW1GWW5kWEtIdGcwU2V3dk4xSTVCdEhwRURHeEJlQmtMNlJtWC1nMjA4ZGJGa9IBrAFBVV95cUxOTy0xbHpxVUtONHFBOXFxVXUzT0FUMmQ1dHl2d1hGUUh1Qkg5c2JEWHYwY1ZrbHJmVTdXYzBkYU1CNFRVczFLcV91VVNPWmFVRDZGTkNJVm9RUnBrMnRCeUE0b2VIendFY2VOc05yLVpRUURaZXc4MVdianhTbkhvZmY1LXlJWHlnLVJvQk9tRUF0Vm5SVnBJenhocDlwRS1tYnVzaDk3a0s4TGRs?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 11:09:48 GMT",
-      "description": "American vaccines that transformed public health over 250 years: 'Outweighs harm' Fox News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
