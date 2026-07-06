@@ -1,21 +1,26 @@
 {
-  "updatedAt": "2026-07-06T11:49:57.286Z",
-  "itemCount": 62,
+  "updatedAt": "2026-07-06T13:41:33.773Z",
+  "itemCount": 69,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 7
+      "count": 8
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 4
+      "count": 5
+    },
+    {
+      "key": "rsv",
+      "label": "RSV",
+      "count": 3
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 7
+      "count": 6
     },
     {
       "key": "hepatitis",
@@ -28,11 +33,6 @@
       "count": 1
     },
     {
-      "key": "shingles",
-      "label": "Shingles",
-      "count": 1
-    },
-    {
       "key": "malaria",
       "label": "Malaria",
       "count": 1
@@ -40,10 +40,88 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 40
+      "count": 44
     }
   ],
   "items": [
+    {
+      "title": "Chautauqua County Health Department Announces Animal Rabies Immunization Clinics in the Town of Poland - Chautauqua County, NY (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNTZaQ0pFNjlwS3FCM2RMMzFDc0t4UGVMNXU3OGMyN0VXWDd6SW9LT3F4Qm13SDc4YWg2LXVXV0t6TGlQT0xwOXFqQ01HOEUtVEJ6ZUV4VjN5c0pycHdvcndqVzRBb2lYMDR2QTRmTG81NjlYWW54R2NWbHdQOGJVVVUwTnkzNUFmTS05RUtZVHBHZHFZamxRdHgwaXhCWGxTbm84ZGhFTmVjYjVMSTRqeWNndDBhcDVtQnc0ZUkxVG01T0tpWnBxMURn?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 13:00:00 GMT",
+      "description": "Chautauqua County Health Department Announces Animal Rabies Immunization Clinics in the Town of Poland Chautauqua County, NY (.gov)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "County Health Department Hosting Rabies Vaccination Clinic Next Week - WXHC.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVTBiTklYbmYxT09jLU9heDhCQUZINkhpR2F6TDRwYTZxbzJOM1R6OW1Fd1ZCNmh4UGU2cWZqRVFBMjJVOVZMQjZha1dlWWxRb1pVM3IzanRuWGpfN1h5VXgyT1AydkZITEU2cUdscEF2UG9ja29hdEZ4UzVDVVpXUi0xZERvRTFid0xyNXNyT19ia3Uz?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 12:52:39 GMT",
+      "description": "County Health Department Hosting Rabies Vaccination Clinic Next Week WXHC.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Vaccine Ready: Dr. Allison Garsva's Back-To-School Guide - CaroMont Health",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeHdmazBpenpVWmE4Z2RoUzRRRGszODlKWnpNSnJSdEs4VGVoMHVxTlBlZFpLcTlBSnlhRnVsMW83Z2JQa0FUWXBERk1aV1FLU1NSc0pFS2Fyang5M0tsNzVUS1E5YmdrVXNKTU9WX3l6bzBzRmZSY0Q4cEllaUVjbmxHTFlTVDUzVjB6T19Cdw?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 12:33:13 GMT",
+      "description": "Vaccine Ready: Dr. Allison Garsva's Back-To-School Guide CaroMont Health",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "rsv",
+      "vaccineLabel": "RSV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "RSV Prevention in Practice: Eliminating Gaps in Immunization Coverage - Contemporary Pediatrics",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSXRzVU5uN0o4eGIyU2VETzNPU1JsOGx0WFNwREhDcDdaaXVsMHkyWGo2VzdpV3hoZjU3R3I0MzlxbWVCQkxtakpTU0ltQWVoZnd2dUdHMlBXUmpGaUFKNnZlRW0wOGF5XzVXX1RTLWpwYnNieGRNMkVWeFJUazFwR2VEWmRLUkVTVS1TaG5Rd1pkSGx1V2dueTZwOVdac28taTRqVTE4allDWTgwcFZZeEZB?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 12:14:13 GMT",
+      "description": "RSV Prevention in Practice: Eliminating Gaps in Immunization Coverage Contemporary Pediatrics",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "rsv",
+      "vaccineLabel": "RSV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "The race for an Ebola therapy begins - STAT",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTEQ0TzJlTFprRlJ0NkRMMWpmUFZ2cUlncUU2WW5PSDFWeHpCaVJNUVRGbkhMYUlmdUxfeE5WTXRoMXB2T2lYcmpoYzZPRlJTVE14UHJIaUdieFBHM3Z4WVNDOXo3dmFqc0pnTmhiUUZOUnV1REFTNXd3MGVhX2dZaENFdVpMUFF1?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 12:09:22 GMT",
+      "description": "The race for an Ebola therapy begins STAT",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Matica Bio and VaxDome Partner to Develop Antigen-Agnostic Antiviral-Vaccine Hybrids with Influenza as One of the Disease Models - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNRDBoUmluMlJMdUdFVW8zV2JUeHF0N2FuWUJudXRkRGFlU0x4cG1BRFdzX2piWFp6WFZRQ2RyZExEZXdTMi1LeFFoWGNFR0hVX041NFRzYWVtamNjQmlINV8tdzB4ZUJDRjg5ZXJFUkRReFBiUFNJcnJhdm43WGlMQTc0Ynlha21zR0ZwV2RfTGlHN05faDN4Z25jTXRZVDV2czh1bzdwci1ITjdYaXhWVVNDX2RwOWdqT2RPb0hoUVJjcHRGVkhaVGtPVERvQzlkYWM4eGdMYVJqUjVVV1doRk1CQTRlbk9OcHBCeUJVWDNNbVhOTjRJWUk4eHdXNHZBTlhqMTNoTVRMNTRIQV9uc0xSZGstdWh2?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 12:00:00 GMT",
+      "description": "Matica Bio and VaxDome Partner to Develop Antigen-Agnostic Antiviral-Vaccine Hybrids with Influenza as One of the Disease Models Morningstar",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "BCG vaccine may remodel the human brain's immune environment - News-Medical",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnNYRVdaZWkzc0xZY1gxMXZZM3R1TENFWUFWV2V1Q3hyZWtwdWRxZnJaZUQ4ZWh5ZnA1SmpBcUFUNk1MRFhCNnZQWWFTWThkRzI1UlYxamVLU0czNWdsVnIwcTViSkNWLW1DbmV3dHo1RHFGanZ6OEdwazdQRWhrbWgwM0lEa0ZtTzJLQTNxRFBrNjl1TXk3SGY4a0V6SWs4OVlUanl4Ty05bWc?oc=5",
@@ -474,19 +552,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "A year after measles outbreak, here’s what happened to Tarrant County’s vaccination rate - Fort Worth Star-Telegram",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zVk9DVUM2T3NzT3R5RjlYaDh6YTZaMG1uR2c1dnIzNzhwM1ZwN19BajVOZF9IdG9uY0gyejY4cVctcjQtNDVUSGZKQlBDN25hTUdWR0VRWlZUSXR1dmRfWl80c1plb2xqOXVIN2hBZ9IBb0FVX3lxTE90Q0F6Mi1JU292QjVUTzRiTkltRGcyRTNBdnVLVkl2R3R0Zl9QOVQ0cVZZMjJ4ZlJRZk5taW9vTTRJeXR6VzY4T1FPOGFsM0Z3TzZ6NGszb202N2lKMDVZNGx2WGZ3NENzRDgyT1hpTQ?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 22:22:00 GMT",
-      "description": "A year after measles outbreak, here’s what happened to Tarrant County’s vaccination rate Fort Worth Star-Telegram",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Measles vaccination rates on the rise among some Texas children - KVUE",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMjZiMXVET1loWmNMYnN0LXZvMmczSjh4Z1dmQTBMOWhPb1N2WnEway1aTTllMmtFWXFGckRmMEZyeFRhZ3pXVndocU14Z3B1eHNQLUwyMHpQb2x2Sk5YUFBNcDFRUHBtS3ZDZ1V3QWZXNXBMX1E4NXhSR25tZWxCVUhTOXgxVGEyUlpxTWdQUUswSDVnb2xXcjdTOVBfWkJXaVN2c0tEbHdSdUVfdERrdUhYRDVabE5zMXZnVE5RUQ?oc=5",
       "pubDate": "Thu, 02 Jul 2026 21:11:00 GMT",
@@ -511,6 +576,19 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
+    },
+    {
+      "title": "Most women opt for maternal RSV vaccination, prefer it to infant immunization, international study finds - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRXJwa1ZqMWpIV3RZSW9uYzItbzNJQ2RhYkhQV3JpQ181NUFhX3JrYnA1bDJ3NFI4SzF3ZmpYdHF3RDFubXJFZXIyYmFpT0dxVHoxY3BmYjI2eGxFOU9YcU9mLTFTazNkQUZlNnRiYV8xeXBBWUNJY1k3Wk9HREZMbVo3UmxHX0dOYk41eEZZMHVMMEhUWndiQWZuTENXU1JTWHpfOEFUdGV3U0dZYjdXRVVOaEUtdHp2V3dz?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 19:44:00 GMT",
+      "description": "Most women opt for maternal RSV vaccination, prefer it to infant immunization, international study finds CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "rsv",
+      "vaccineLabel": "RSV",
+      "articleType": "research",
+      "articleLabel": "Research"
     },
     {
       "title": "We can’t entirely blame COVID vaccine mandates for lower vaccination rates today. It’s not that simple - The Conversation",
@@ -552,10 +630,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Measles vaccination rates climb slightly for some Texas children - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVktENTFXQzNwajlTWEptRFF0MTk1eVdaeXJjaWZpTUVndUxwZUtybEVMT2hLek9POWRteDB4di1zVUlzdEtvZVkycUFHS3ZUNm5CbUwxUE1Oa2FfVW5iQWE1TkQ5NHNXcWFVSkhzVlBaUXNBZVhjRkk1SGE5bWlHMUc4bUhRUWhPclVSWlN3RDhLRkE5ekJPemN3?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 18:22:56 GMT",
-      "description": "Measles vaccination rates climb slightly for some Texas children Yahoo",
+      "title": "Measles vaccination rates climb slightly for some Texas children - KVUE",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdHQtaUxVdXNmTjV5Nkxpclp4c29yeGFnSl84SklQR0RGTjRfQ09lM0xMckQzYmNPZmtmZFZRYk5xVXhjcVNJTjBhT29mX003Yzc2aW5FLVl1ZDBFSkpjc1NYSlR6dUMzdDUxc0REejZQa2NjcDk1OHh5SjJVNE85c0Fyb0JOWmI4eHY0cUdwcXQ4NGFsRFVEYzQ0dzlJWnVpWUptdEJvbUxOWmNvT3VoVkhMcw?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 18:35:00 GMT",
+      "description": "Measles vaccination rates climb slightly for some Texas children KVUE",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -591,10 +669,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Free pet vaccine clinic offered Thursday in Missoula - NBC Montana",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcDlBSjREV0Jkb0tQellCaW15LVQ0TEhpMjFfdm16ODJKXzR5SFRBMmU4UVpLLUYwdDRXLVo4ZkJMajRMNDlMS1JGemI3VldpcndsTGFqVkMyemt6Zi1NQXFQOTlrOVAwUnRUTVhCcURkd29fZG84ZnF6MmVLT2NxT3lRQmJyTFBkSDZzSzF5NA?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 12:39:13 GMT",
-      "description": "Free pet vaccine clinic offered Thursday in Missoula NBC Montana",
+      "title": "SK bioscience Launches AI-Powered Initiative to Reduce Uncertainty in Vaccine-Development Decisions - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTzVaNmRfbF9TZUd6b2R6LXUzME96WmpyU0toWDQ0ZXNGMzR3RjgzUkZ5NmRjb3RSNGZRUlVJTEVNX184MHNpSFdHNkJBZDN4SEptc0ZHVS1SODNtODZBQVE5UWhKM1BFZ19HcWhJLTRXZk5HUFdVNWhaMWtvQU9sdEduRlJMYXU3RlI4SVc0Q2l1SjA3dVRna0lQLTZEZWNXQ0RqUWFGSzhSZ2FOVzBuS0xxUHJlQjFqNDVxX09pY3pqRF80QWI0bFNFYzdTVG5RQm1fei1jNGUxQWN0NG5BdThDNFFrWHZLY20w?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 12:00:00 GMT",
+      "description": "SK bioscience Launches AI-Powered Initiative to Reduce Uncertainty in Vaccine-Development Decisions PR Newswire",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -669,6 +747,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "COVID-19 made mRNA vaccines mainstream. WashU researchers say flu shots are next - STLPR",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc0dxajZybXVWZVI0Ti0zbExNajFTRGdCT21IUTRyeDBGQ3VTZlBzRDVZNjFJQ2F0QU9TbGhxM01ZTFdVaTlrNTZJc2FTc1BJOHBmU3lidE9wb0w0bHFKRk94YjJ6T3FGdmk1SmZjd2NlNW1rZ3pNSTY1TjNMdUM2dUZTa2F5c0loSmFSZUcweFo0c3ExcTRxaS1UQ0RzTTBwMW1tYV9SMWtwZ1h5aERhU3RlLWJzaXdQek1nQ3J4cFQweWozWEx1bV93SmR2ekpTUnJhcExR?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 10:00:00 GMT",
+      "description": "COVID-19 made mRNA vaccines mainstream. WashU researchers say flu shots are next STLPR",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Financial innovation can deliver a Bundibugyo Ebola vaccine - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sZlBlVy10emtCWGZJa3ZiV0ZjY0QzUm1ITGZzSnU5Zk10Q3JGRFNETnBnMDZGeW9wSjNyTTlWMEVTV0dQNlVEWllDNDhmeFF4WEs3VkhneFp2c0R0MFpV?oc=5",
       "pubDate": "Thu, 02 Jul 2026 09:22:15 GMT",
@@ -686,6 +777,19 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbnVSdmYxZFhDYXhvTzdJSk81bDQxRWtYTDJIT1hXUDJzRGdmTm1ISEN2aHFYZFdRT2FxbHppTS12eV9XQ0V2SGNRekZHb216RkpGYm03ZWxnNmwyN3ZNSVB1aDZYSG9DYkZkbWQtTENqQXlTTHNPMUhBNWt2TG04MEI4cw?oc=5",
       "pubDate": "Thu, 02 Jul 2026 09:00:06 GMT",
       "description": "BCG vaccine may rewire brain immunity, shift Alzheimer's markers over 12 months Medical Xpress",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Would hunters take a Lyme disease vaccine? - Medical Xpress",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5SeHRrR2I2NWl2RmFYQ3pWUWNscjB2djJjU0dlUEFqZXpUX3RXb19sRVpNc1NhU0pfYVRISm9ldENJQ0Y4cFNYN3VqQzNHT1BkUWlhQ0xBcWZ2U19GNnpJOWhRZUZ5b2g4LXMzUGpZcDVHRjFNU015cGlXeFU?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 03:00:01 GMT",
+      "description": "Would hunters take a Lyme disease vaccine? Medical Xpress",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -760,19 +864,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Study suggests shingles vaccine lowers dementia risk for older people - Local 3 News",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTEw1RWkwWFlFbEd5OTNvS19IajF6aTRrZWZYVG02bm42MEdwbzZWQUt6aHpDMXVtU190VDRQaEpRMzVrakpQalNPaWxsTmdJdjIyWWRoODJCcE5HY2l4ZFVkeTdDcmdoOEVBTTg5U094NXZMYkJleVljaktVZEJEV196T295SlhtU3dkLUNaUWZIZk5aN3NMQkpDb1F2SmQyTzFycXhQdldLbHBlQVlPSGxZamhka1dhVGxUb2Z0RTFLMWdtSnpwc1BINXhZSHh6NHBJZ3V5VF9JTjZESjc1SlNXdk5USXhlMl9qLU5n?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 11:47:00 GMT",
-      "description": "Study suggests shingles vaccine lowers dementia risk for older people Local 3 News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "shingles",
-      "vaccineLabel": "Shingles",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "Current CDC Vaccine Price List | VFC Program - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzcDlFY0E3MFdhQmZETTZXa2hSdmxmc2x5TC1XVXNhM2xqUmk2V0Vmd09sOUlSc3Y1bjJCQVlrVWZDSF8zc0lXOXRTM0JNaHV5YlVBcnNDdkZEdE5DQUhYVGNwV3FubzVDWThzLUZqcldYMGNOTkE?oc=5",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
@@ -838,10 +929,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "The ongoing impact of U.S. vaccine hesitancy - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZW5neEZ5RzRpdk1hMzZ2bC1fdFFRcFZEWE1McXd0MjBTNTVlMzRRcVNiTG0xcHEwdTN4MTY5NHRNcU1oeHQxSlBpWUp1R0d0UzVVS3pQQjJMSkRvcFY3ODlLTHhuT2loakp1d0ZWYWVWSi1ocFQtZmc3V1ZQV1EzTzRZVnNNa21vU01RZU5n?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 18:30:00 GMT",
-      "description": "The ongoing impact of U.S. vaccine hesitancy The Washington Post",
+      "title": "KFF Tracking Poll on Health Information and Trust: Update on Common Vaccine Myths - KFF",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSFNVLVhXR0FjdFkxM3BHbzltaEdyb3VTMld1V0VHeEhoR29SbERSNVpraWpWMXJMc3pPR2xjMFNNSHdHMEdRQ1hxdU53ZkFrSTZvbTE3cEVHYUV0STViMHA3R1R2ZEstaWtmRDEzUzU3RzJCcjU0bWhKZzNOUTZOdEp0X1BueE9vc1ZicE53QXVqU0hkRzVoeVZsVFBFNFFJY2M2VFlEMDdzdHRLT0ZfNS02Y2ZhS1k?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 09:08:40 GMT",
+      "description": "KFF Tracking Poll on Health Information and Trust: Update on Common Vaccine Myths KFF",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
