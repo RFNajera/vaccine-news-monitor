@@ -1,26 +1,21 @@
 {
-  "updatedAt": "2026-07-06T09:45:53.130Z",
-  "itemCount": 64,
+  "updatedAt": "2026-07-06T11:49:57.286Z",
+  "itemCount": 62,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 6
+      "count": 7
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 3
+      "count": 4
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 9
-    },
-    {
-      "key": "pertussis",
-      "label": "Whooping cough / Tdap",
-      "count": 1
+      "count": 7
     },
     {
       "key": "hepatitis",
@@ -35,7 +30,7 @@
     {
       "key": "shingles",
       "label": "Shingles",
-      "count": 2
+      "count": 1
     },
     {
       "key": "malaria",
@@ -49,6 +44,58 @@
     }
   ],
   "items": [
+    {
+      "title": "BCG vaccine may remodel the human brain's immune environment - News-Medical",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnNYRVdaZWkzc0xZY1gxMXZZM3R1TENFWUFWV2V1Q3hyZWtwdWRxZnJaZUQ4ZWh5ZnA1SmpBcUFUNk1MRFhCNnZQWWFTWThkRzI1UlYxamVLU0czNWdsVnIwcTViSkNWLW1DbmV3dHo1RHFGanZ6OEdwazdQRWhrbWgwM0lEa0ZtTzJLQTNxRFBrNjl1TXk3SGY4a0V6SWs4OVlUanl4Ty05bWc?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 11:47:00 GMT",
+      "description": "BCG vaccine may remodel the human brain's immune environment News-Medical",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Survey: nearly 1 in 6 in the Netherlands regret Covid vaccination - NL Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRVpJaVFjOHNuZnhNaDdsRWhVQVphSUxnNGFpby13RFJBSURDdWwxdmVQS0p1bDZtSDhpQ2wtRnhUdEJ1Y1hrenI0VDJtSy1od3I0YUhXNXR0TFlvZGVoTkQ4Mk45R0ZocUVVS01MWUw4US0zelNRa3hIVVRPT19OeFBkTzQ4bzlpdWxqOA?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 11:40:00 GMT",
+      "description": "Survey: nearly 1 in 6 in the Netherlands regret Covid vaccination NL Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Hong Kong doctor issued 3,713 fraudulent Covid vaccine exemptions, court hears - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZjVRelBNUjd5c1l1QmxBYk5vZEtNUmNTaXpvVUV1TFdIVmt4SXlQTDV1d1B2NUNMOU1UV1JxdmNkYklOWF9kOHJ1V04tQ3MtMnZGUWd5RndLOTZzTjRvQkpJRk5tNlVRc1NZODZlbmdQaDM3ZXdhSVZpOG01c0kxT0RkZTJ4M3JQempjTDJOUk0yM0RCY2pzTlJfUXF0bzVTeC1fWE56YXVGZnNoYTg0NXRYb3JXZ0V6MlRIWGFXdkl1SkRqako4Qy1jN0RJVTN2N015Q0NKb1lNT0tIZy1LSdIB4AFBVV95cUxQaGZvRTB3SUc1eDVZOGVLOFVOOWRzajhTRV9WLXMwZW5zcjZHUWk4QzhNYjJmdlhxY2NmOGpNc1UzTm95QkctaGhzRnZhWEQ5TUJPQkw0N2tNQ3l4NVBDRU1LdEdEeTNuanZDTmNEN1RCVEpuOGhMR2h6Z3dYczNUNkNFRHJJdmFBeUphZ1B6VzBqbmI4ZUxYV09aVkFNZ2JDWE5zd0QxVmc2UWwzMDZMN3VfNmYtSmh6ZmFHM2VrSHItZktSaXZnaHlBNWxocGNyMVJFdnZXTlVPVnVTTHFhTQ?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 10:19:11 GMT",
+      "description": "Hong Kong doctor issued 3,713 fraudulent Covid vaccine exemptions, court hears South China Morning Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Vaccine clinic at Knox Elementary School this month - WKVI Information Center",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQV9NSGJPRG1GbjNhN0RGcDRxTng1Q1BPNHFpRk5rTVdBNElwUlFFSlh2OElnWU02TlQzdmlsQ2N1SHRabE92NEJHbjY2cGE0bENadlp2ck05Y0VjTTVyNlhCbWFiQ2FIaWw0aC1jWXl6TWF5THhnN2dKNjNSTXlEeUdIVQ?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 10:01:00 GMT",
+      "description": "Vaccine clinic at Knox Elementary School this month WKVI Information Center",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Biogal's VacciCheck Supports Evidence-Based Vaccination Through Rapid In-Clinic Antibody Titer Testing - The National Law Review",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdlhqVlhGdTVNT2l1SUNDRnd6b1FNUGZXMHdfd1ExMnBONWpDZm1tX1Uzclowa2ROMlhOaTRTNzZzbmlQd3dESmRkZFNHZGlmYzlxOG5uRUttN1VCZWlPUk1udV9nR0szY3duZTVEN2VCbmdlZ25zZlpkTlJwUVd6ZVk1Y1E1S0F0MEtLa3V0d2YwNmlXbUZyUkotc3dTbkVhVE5yZnRKLUlLdUZPcU5hY0JvMEU5dw?oc=5",
@@ -102,19 +149,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "‘Trust, access, and equity’: After billions of doses worldwide, yet another review of COVID vaccine confirms its safety and effectiveness - Genetic Literacy Project",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNMnVydTNnTW9uMXl5TzgwenRsUmpJVWQ2QmtXdTFvWm5HeF9fQXEza0JXd25fWW12RzFHZVVKa2dETjVyMTJwRUpIVEg0OXh0NVMySDRfMnF5a3JHSjhpZEY1a0Z2QUtQQUtLQmhYaVhoaFAyVjZsemtubW1OekwzU05iVF94YlZpX19YRzlxR0ZZSU5hRVhOUG5MV2dXOG9xX1NFZEtKcW9hZS1TR3FBVVM0c2lnSFV5ZUgwdFNSZi10ZFBPbm9fNjdCcG40WG9qRzZ0WWN3YzFOb1FTUzFTMTlLNlEwcjZIUFlWdDR0SWxIOHRaV2dBRUlTbmpWSnB0b3hmbkNkcDFkdw?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 04:05:22 GMT",
-      "description": "‘Trust, access, and equity’: After billions of doses worldwide, yet another review of COVID vaccine confirms its safety and effectiveness Genetic Literacy Project",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "The misnamed ‘medical freedom’ movement stalls in Florida as Republican legislators fail to advance legislation that would end school vaccine mandates - Genetic Literacy Project",
       "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOSEZpUXl0c19BUVV2TzNRTk5INE5rVFMtMEJvbGNUd2xYUk1kZV80WHdfeEdoNEtBUzY2TXNmVW9xTU02ellZaEZod1RTR2lXNHZiRFBENnh4ak1IUXloZHpaVFI2U2FrX0NaeXZkOWt1R1FrbmVzVzJ2ZFV6TF9xMWtJeXltZmJMMjhiaWRvY1hrWFN4VUhCR3RtandaYVZlZGZNVGI0Znd2UlZONlJGa0FBbmk2Mm84QTVlWDVjRFEzWTl3b1B3ZXpYSEIzazVaU1RKS05EbVROQkNodjFtNGtVSWluOGt0VW5KblVGSUtQQk1WMHExeEJ6UU5lTE8zRENHZjhMb3NaZnJPbUlKT1RfWERqMTA1ZWxBelJYNWI?oc=5",
       "pubDate": "Mon, 06 Jul 2026 04:05:22 GMT",
@@ -124,6 +158,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "‘Trust, access, and equity’: After billions of doses worldwide, yet another review of COVID vaccine confirms its safety and effectiveness - Genetic Literacy Project",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNMnVydTNnTW9uMXl5TzgwenRsUmpJVWQ2QmtXdTFvWm5HeF9fQXEza0JXd25fWW12RzFHZVVKa2dETjVyMTJwRUpIVEg0OXh0NVMySDRfMnF5a3JHSjhpZEY1a0Z2QUtQQUtLQmhYaVhoaFAyVjZsemtubW1OekwzU05iVF94YlZpX19YRzlxR0ZZSU5hRVhOUG5MV2dXOG9xX1NFZEtKcW9hZS1TR3FBVVM0c2lnSFV5ZUgwdFNSZi10ZFBPbm9fNjdCcG40WG9qRzZ0WWN3YzFOb1FTUzFTMTlLNlEwcjZIUFlWdDR0SWxIOHRaV2dBRUlTbmpWSnB0b3hmbkNkcDFkdw?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 04:05:22 GMT",
+      "description": "‘Trust, access, and equity’: After billions of doses worldwide, yet another review of COVID vaccine confirms its safety and effectiveness Genetic Literacy Project",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -232,19 +279,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Mom’s Vax Tale on RFK Jr. Group’s Podcast Takes Dark Turn - The Daily Beast",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUVJTS0Z2a2pEcnJpdDRvZ1F4a2Utd1lTNlBuczhHNFdzUWRLbWhPVlJlTE1jZjlsV0oyNjRITG5mQWhUU1VraEtXMHljZ3ZBallFRVR3Q1lka2tGSVZrcDJlaWRKMTdOcUhIYWw4NDd1X3NJTXhldUhobmI0VlEtT0FzYnp1YmNZcjFubWg1Szd6cXFyTFVLUXJlV0I?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 19:21:00 GMT",
-      "description": "Mom’s Vax Tale on RFK Jr. Group’s Podcast Takes Dark Turn The Daily Beast",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "SK Bioscience to Lead Gates Foundation-Backed AI Platform for Vaccine Clinical Development - BioPharma APAC",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZjRmYy1RRkdBTDJnSl9nME1PLVdUQnl4T2ZEWUxQVE82b3RGRHVxVEwwMFc3My1OY01yOTA3TklwMFYtTHVGanVPWGRCSktXYnJPM25lRXluUGJEY1hOYzhCd2RjcnRWZnhXYmdMTDJsMWNpUDBlS1g4UHhSajU3eUhlRU9teW0yOEgyLXZmamdpMWhtVjZabjVSUk9uR1AzX0pWaU1GYTV2V251bjVONk1xNXJ4aktBSmRGS1RJbW92aVUzZFZGeDQ5c3N6Q0U?oc=5",
       "pubDate": "Sun, 05 Jul 2026 18:32:11 GMT",
@@ -254,19 +288,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Measles unstoppable despite vaccination - Newagebd.net",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWXByQ0xxUHdVOFRwdjh3c1FwSGNBRnlfb2FQWUg0d0cxdXdJaE1veGFYVnplT2F0RjZVQWhISDhsM3dEUVdweTh5Qk9YaWJDQ0N0cldCUWJUdDZBbG12RUdTbG9KXzBvQjlNX2ZNdS1jdEdzUTVqM1d5UU1TLVVZc3FDWTFSY1BWbmhzNDQ0bU1VSDBvQXFVXw?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 17:53:48 GMT",
-      "description": "Measles unstoppable despite vaccination Newagebd.net",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -323,19 +344,6 @@
       "articleLabel": "Opinion"
     },
     {
-      "title": "Whooping cough in Honduras - Outbreak News Today",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QMnNKeXFWalEzWV9PN2k0QlZ3Ti11ajJNUmVPWEw3RTdEYW1OVDA5QldYSHZnei1jRDVuNlVjX2ZpNnAyNVJFNlFmc2hHNXVMbEduMWtYRDVoczdsV0Yyb0xCWllDeWEtVFdjTTYtWDBEOEl2MVE?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 19:55:22 GMT",
-      "description": "Whooping cough in Honduras Outbreak News Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "pertussis",
-      "vaccineLabel": "Whooping cough / Tdap",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "OHSU researchers find ‘holy grail’ for universal malaria vaccine - KOIN.com",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdWtmRmk0bFBRbGlCUXlBZlB3aTU4bTVuWms2UVd3ak8tUEtYdk8takZmcjAyelhoem8tU3pQRHBRQk1va1JaakxmZnEtVXhycm8xWC1FWWRscktRNmdmc0V1SmFOWkREZjdrYy16VVI1TjJiOVJkOGhzNGJuLUJKZWJwYXZUU1FjaThIVFhvbElJM3d5aW9BS1NpdU7SAaIBQVVfeXFMTVlsOURDVmRfT2J5anNaeVpvbnZoWWMyMFJBREJwT3pXS1c0M1R3blp6ZGVuY0dhc3Z0SVRnZjFsS04zSDZHMTU4b3ZXNFVkbXZ6SmxudG80cmg4WVFYUEhrRUp2SndNWGtES2JvejJuQWxWQTdrMUdBTFgyTjNuUlBhMk43OThQQjc3emJ1Y3JCNExacHF2dFh3NDRnUy1BQ05n?oc=5",
       "pubDate": "Sat, 04 Jul 2026 15:00:00 GMT",
@@ -379,6 +387,32 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcDlFcEwzQzZXQjVUX0Y3R0U4X1ZVZjV2SFgweUxjSVRITnhsNm5KbGs3NjFlMXpOMGNtSjFlOUFLRWJyM0h1cXh2VTNBazVVODRSalNrbVJWTVltTlVac1JyV0doR1MyZ1YybEJBSXhhV2ZpN2UxU0Jyd3N1bmZ1UVB4RHc3ZWROUDJqWXBYSzFraFZvaHF6b0hGcEU3XzlDZnNvNXVETU5sQ3JBQ3hVVjlPYmpJaVU?oc=5",
       "pubDate": "Fri, 03 Jul 2026 22:03:00 GMT",
       "description": "White House Agenda Delays Food Rules, Keeps Vaccine Pay Changes Bloomberg Law News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Moderna Stock (MRNA) Opinions on mRNA Flu Vaccine Approval and Stock Surge - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTTFqTm9mbENvX1RoQi1EYjZwOFZlb3pYT1hpTE9rbjVJX2p6azBRc1lfRE5GN3FFNmsyRlNSc3dMd2otdUUwOFhoVm00NDd0bWdiamJBRUpwSVZFQW8xcGRVYk1JQlBQT1N6eWdRRFlZTWJxTjB3UXU5LXJYcVZOYnRmUVJqS0FfQ3JNQWYyZmx5SHZ5alByQ2F1UXVjVWVaOGNTZjBmNWRpUDdHX21DZg?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 17:56:00 GMT",
+      "description": "Moderna Stock (MRNA) Opinions on mRNA Flu Vaccine Approval and Stock Surge Quiver Quantitative",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Government Negligence in Vaccine Management Sparks Calls for Special Investigation - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVmFmakNqYWJBMExpcS1jRUppSHVSVUVTbGVrWVI3MnFTSmZ1bWEyb3EyQXEzNUVIY2d5N3Jkd0JrTlBCTUZldHZjbmtaT1h4M2YyUlFWa0NDeGZQR0lHTVlLeWVUczNEQzZYcm1CNW80QjR2VDRFeUxmUTlwdVgyd1hIRDNxSjAt?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 16:20:55 GMT",
+      "description": "Government Negligence in Vaccine Management Sparks Calls for Special Investigation 조선일보",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -531,6 +565,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Trump’s Newly Disclosed Moderna Trades Preceded FDA Advisory Panel’s Unanimous Backing of mRNA Flu Vaccine - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOTJvQzhSb1dILWR5a2t1bi1VU0l3STZxU2gzTVltbmJNa3JhaDBodUpaaW9haXZid2xGal9jdUlrLXp3ZEhEWGtBcHFEUEZTT0JBRGhLNFVwU1VydG4tMGt3UmJlemF0UTFkckdNMDJSUVpXR3haSXdtZGNMWVRxTHFFUm1rQVdpTU0tUFF0dXhzTmplUDhtcVhzWS1NcWduTE4tYjVMTEhZTi12Z0pSS0FtYVdkNlBrcnQyd3Q0R1NxRFdPemo1QUt2UTdZU250UVQtMHV3cnpfcXo0WjJZaFlRQ01IdkxFNEk4?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 16:58:00 GMT",
+      "description": "Trump’s Newly Disclosed Moderna Trades Preceded FDA Advisory Panel’s Unanimous Backing of mRNA Flu Vaccine Quiver Quantitative",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "New ACIP Charter May Potentially Delay Vaccine Recommendations - Drug Topics",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS0xveXNKeHR4eWZub1Z3enNCTEdsUjdNVWRxSmM2ZlJnMEs3YkxUTDcyU3lBX2tDR1kyUEtNY0JxZlFjenl2a0dkQjBjakpwc1lrWlc4OXk4MzZpeF80T1NGcTJidlFwMkp4dFRIZlprZTFhdmZnUFZfUmVIbWV0UlJQQkVfVUpYaWFieVJLdlN6bWxUWDRSbG9R?oc=5",
       "pubDate": "Thu, 02 Jul 2026 15:18:48 GMT",
@@ -557,15 +604,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "Measles Guidance for Gastroenterologists and Hepatologists - Gastroenterology & Endoscopy News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTHpIanZMa2tWZ1M1a1dQdWlMZHl6VVdTYmlyRWpUNXNGS1dXUktSS0dIa3F4alNiU2s3Uk9hM2ZGTFlxcndEYmR2cnMyYjFMZXlfWUNSRFY1WjA2VzdBQnVyRGZDY3p4WTI3dENoemVOWkhOaHJvWFg0WDlYVll6VWR5dGM2OTF5UnRBSmdKekU3QUFUTzgwMjN3S3dId0JDMTh4SEF0VFU4VElzSWxZYkN0VQ?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 10:09:08 GMT",
-      "description": "Measles Guidance for Gastroenterologists and Hepatologists Gastroenterology & Endoscopy News",
+      "title": "How a Military Vaccine Reversal Was Followed by a Major Flu Outbreak - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMEozcU1rWm14Vjl6bjM5bl95dkRNZkstT0ptcFpKSUdaRkZhanM3dHZ3VTdTbG5kLXA2VnpiNFY4cnQtU0czWVpGYU1PdlFCSm9ETEc4X0RPN0p2Y1JpenNlY0p3NDBuSmFxUEtXd3lDOWl2ZmJ1bG9TUDR5ZTRWUjhMU2ZBWWRUX0hneHh2aDBvS21PeHJhZDQ3cWJxczltV2p5WA?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 11:22:00 GMT",
+      "description": "How a Military Vaccine Reversal Was Followed by a Major Flu Outbreak Newsweek",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -648,6 +695,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Meningitis vaccine required for Texas college students, pharmacist warns of deadly risk - KCBD",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUXFYMmk4WnhtOTJpZlJ6V1FyZ28xM1ZYalVKNkZ0STBPT1RuQmh2WWFNbWFFT3RPb0xhcGg2cGhJSWZXN3hBOEZBTDJWYlF5Qml3NXZ1bTg1QVBOREVjWF92aElMR2hGbjd4VkY3bHRxRWV1TGtySUZUeXhMMTJtcWdob0VIaDdpaEhzM1hCcHFXUE5PbjNjQmlBRmxtY2pxTWZBV1pqQ29YQ19hZ2ZMRzRB0gHGAUFVX3lxTE81aC0wbWZNbWdmU2dobDh4LV9fWVVuc1M2VEdqRlhaLXlteGxyVjVGcUQtVHBIWERMeXgzbjhLWUxYU0Zhdy1IbXpLQUNMMXZWY0xaTmxNNl9rVXBLYmstYUQ5S0k0S3pnY1pTYy1NVkJ2QUFDSjl1dXQ1TGpYNzU3STF0MmxUTjNfZHpGdG5hWmJpVXJmNHkxX1pxLV9xZ0F5N0tlMjRqXzJnb2d5OFA2eGw5akxoZmRQUWdDRkthaTZGQjBZQQ?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 00:59:00 GMT",
+      "description": "Meningitis vaccine required for Texas college students, pharmacist warns of deadly risk KCBD",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "meningococcal",
+      "vaccineLabel": "Meningococcal",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "How personal waivers impact Wisconsin's vaccination numbers - PBS Wisconsin",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbDhWemk3Y0prX2JsNm9VRkJiNGFGNXBBamk4VEo3OW94RnhZSmxFcGRpOU9tbFc0ZHVLbWlEamFybWN5b2JienlVbmZYMk5mMTJHMF9BeENKMGdEdDhXMnZXVEpxYm05VXR6bjZ6SS01aEV3N3RGYVFlQmNTUV9uRzk4aGVBTlFnWVBNTmRIdERsdWxLTkZsa0hR?oc=5",
       "pubDate": "Wed, 01 Jul 2026 22:07:12 GMT",
@@ -713,19 +773,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Is the meningitis vaccine safe? - Understanding Animal Research",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZkMxMDhaTEtYVTVVMDZ6THQ5WV8yU1F0dldqMUVaNHpEZ1Q1aXRLV1c5N3dsOXlhVHpreExYLTNrLWZILVJhbDl0eGRrRXFoZzNnV3NWenF1UTVCbS1pTG9hUU0tRWpycnBjY0lMUVotSXdCZzZJd0ljOTlXdXNwLXdMRVkwYVpKU2c?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 10:14:50 GMT",
-      "description": "Is the meningitis vaccine safe? Understanding Animal Research",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "meningococcal",
-      "vaccineLabel": "Meningococcal",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "Current CDC Vaccine Price List | VFC Program - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzcDlFY0E3MFdhQmZETTZXa2hSdmxmc2x5TC1XVXNhM2xqUmk2V0Vmd09sOUlSc3Y1bjJCQVlrVWZDSF8zc0lXOXRTM0JNaHV5YlVBcnNDdkZEdE5DQUhYVGNwV3FubzVDWThzLUZqcldYMGNOTkE?oc=5",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
@@ -748,32 +795,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "New HIV vaccine shows unprecedented success in primate studies - News-Medical",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVG0xenZOM0Y0TXU4TmhJWlZQbTNNTVhyWEMyX3o1LUM0UTl0ZkEzQV9hN1hSd3hJNkFQQ2RwUUxwYVVWdTRyd2FUOWUzb1lIQUs1SnRick52VDdvZTlzcWlCQ29hbGJzZDVSQmNrdEN5V3U1S3V4MUFxcXd1c3BBWE9TYkVYcFdxbDdrVS1SY2g0eGVTcGR0cjIwUWZ4RmlRZXBLdDl5TnJEVG9hb3ZV?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 03:46:00 GMT",
-      "description": "New HIV vaccine shows unprecedented success in primate studies News-Medical",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Houlahan, Castro, Cisneros Slam Pentagon for Lackland Flu Outbreak, Push for Flu Vaccine Requirement - U.S. Representative Chrissy Houlahan (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Va1NOSl84bjdCNk9xZm5tdmhlb3VobFYwVmxUUEV3TTV4bTl3M0VJMHBHRXZnX0NWT1l2U1pSM2owelhLR1cyeUhNcFBrR3Y4T0piZ0s3SFpIS2c1WGg2TmZwTVhYOHBDaGpzSDVWVjhwVkJXT2c?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 21:34:48 GMT",
-      "description": "Houlahan, Castro, Cisneros Slam Pentagon for Lackland Flu Outbreak, Push for Flu Vaccine Requirement U.S. Representative Chrissy Houlahan (.gov)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -826,58 +847,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Shingles vaccine may also offer protection against dementia, studies increasingly show - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNallBSDBBcFk4S2I3VU5VN0xhQW5KVjBKZ2JwZWp5UnZCeTZrbjR0N0Z2Mm85SHlrU0VWa2c5QTZRMF8wN2loQzdqWXBZc2JXaEVIMHZCWXRCVkRHcWZielE3OEI4VlI3U3VaandONG1iYXRHWTlBQzRKeHF4WkpFSHkzYXZBalNneE0yQklPR2lQTEFGWjh1cHNaOHM0RV9SWnpDbmVWamthbkx5cUluSUJ3?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 18:02:00 GMT",
-      "description": "Shingles vaccine may also offer protection against dementia, studies increasingly show NBC News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "shingles",
-      "vaccineLabel": "Shingles",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Basecamp Research brings EDEN's antibiotic and vaccine design models to Claude Science - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbEpkQUswNmxQa3lHN2NjZUxOOEVubkhCUkpYOUpnYVhvOHE4VDVZaFBEYS1YMnpoLXJ0cWs0QS16RDdTVGxUaEV2TEdJY1ktamhsUGl1b1I5eWsxVDR4NnZDZFNkX3p1OTMtTGVBN21SU0QtREY3VjAtQVZNY2dReGpqWnhrZVpQZW9RVnhkY2lSZ3Zsa3lteDhRWEpxZ1V5Y19sZm9GQWlkWnJISmd1Y1ZqbnJuTU0xZXJxYXF1XzdpRlU3bEllRG05YVV3ME1veTRzZFdhdy0?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 17:00:00 GMT",
-      "description": "Basecamp Research brings EDEN's antibiotic and vaccine design models to Claude Science PR Newswire",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
-      "title": "A Vaccine for Strep A May Finally Be in Reach - Global Health NOW",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwYTFFbkhKc2VEV0RKa3ZHMnZVUWxuRUJkSDd3Y2NoWFhGbW1LNUdRdXdudUpJdC1KZzQ2c3BrMU1IYkg4N2FKZ0lXdkViSF9FR1hYZk1iZG1Nek9CRGN6V1J6M0xyXzNyT3E5RTN0WTN3cTNUU3FEbTZB?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 10:47:59 GMT",
-      "description": "A Vaccine for Strep A May Finally Be in Reach Global Health NOW",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Supreme Court rejects legal battle over New York's COVID-19 vaccine mandate for healthcare workers - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRTJBTjlweHlrd3FDYWxlOTFCbmRPZFJOSUJySHFmRW9kRjlRbkwtODduT3NHcWhtX2FQLTNxR0VzVjNOOE85bXRPMS1fS25MdGZNYkptTEpOWTI4bjZ4XzF6d2dNYW5oNjlKcGRLTVJZNGowTkZTeEg4N3FGWEQzSnk5bmZ1a3dJZVh5NVdONW42NE4wOFpjLVF1UXc?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 13:52:00 GMT",
-      "description": "Supreme Court rejects legal battle over New York's COVID-19 vaccine mandate for healthcare workers CBS News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     }
