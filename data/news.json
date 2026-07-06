@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-07-06T01:08:33.218Z",
-  "itemCount": 67,
+  "updatedAt": "2026-07-06T02:11:35.135Z",
+  "itemCount": 75,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 6
+      "count": 8
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 4
+      "count": 5
     },
     {
       "key": "rsv",
@@ -30,7 +30,7 @@
     {
       "key": "pertussis",
       "label": "Whooping cough / Tdap",
-      "count": 1
+      "count": 2
     },
     {
       "key": "hepatitis",
@@ -45,7 +45,7 @@
     {
       "key": "shingles",
       "label": "Shingles",
-      "count": 2
+      "count": 3
     },
     {
       "key": "malaria",
@@ -55,10 +55,23 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 40
+      "count": 43
     }
   ],
   "items": [
+    {
+      "title": "Declining vaccination rates behind whooping cough spike across WA's south - ABC News & Headlines – Australian Broadcasting Corporation",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN0ZhTWxMVzhKZXlIU3J6aXZIbjJwM2o2em9ZcmI4N3JwaGpYR2x5YjZkU1Bvb2h0Z3l4NnlONVBIUk1vZHJ3YmxSSG92NHBoaDBoS293dXBFYzc3SlZNY0FSNFh3NHhwbEhLUFZpWmNEcllDUEZTb0d2QW55TzF5dy1JSFhzZTFOY25DOXV3NUdoZlZPZWtzbVpvNTRNSzZFSTU4SG52aF9hN0c4RDR2dQ?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 23:04:33 GMT",
+      "description": "Declining vaccination rates behind whooping cough spike across WA's south ABC News & Headlines – Australian Broadcasting Corporation",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "pertussis",
+      "vaccineLabel": "Whooping cough / Tdap",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Inside Pa.’s measles outbreak: A family rides out the virus, doctors treat severely ill children - TribLIVE.com",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wOGZveWQ0azQzNjRHMTRhR3k4RldtUVhWd1RSVnpGWk14X3JSNi1ocTM1Qk84cGxud2duTkZNSGIwcXMzcnpqU2gxeE9YY1I4NUFkd1ZR?oc=5",
@@ -77,19 +90,6 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcE5QVGI3Q0EtUVMtTFVfUEx6UVMyZ2FwYXh5OHBXMDlVRk5yQW5zUlRIVW5oZnFraDJhUVcxRnpKRFBBbWNGUDlYd21uWHAyejNfS0tWRTJJN2J3V1o3eW5rdjRuWGswOHFkRi1FS1o4dDFGVTFmbFlZRTVvd21ocThxYw?oc=5",
       "pubDate": "Sun, 05 Jul 2026 19:31:55 GMT",
       "description": "Western Australia expands diphtheria outbreak vaccination program as cases stand at 170 Outbreak News Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Mom’s Vax Tale on RFK Jr. Group’s Podcast Takes Dark Turn - The Daily Beast",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUVJTS0Z2a2pEcnJpdDRvZ1F4a2Utd1lTNlBuczhHNFdzUWRLbWhPVlJlTE1jZjlsV0oyNjRITG5mQWhUU1VraEtXMHljZ3ZBallFRVR3Q1lka2tGSVZrcDJlaWRKMTdOcUhIYWw4NDd1X3NJTXhldUhobmI0VlEtT0FzYnp1YmNZcjFubWg1Szd6cXFyTFVLUXJlV0I?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 19:21:00 GMT",
-      "description": "Mom’s Vax Tale on RFK Jr. Group’s Podcast Takes Dark Turn The Daily Beast",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -160,6 +160,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "COVID-19 cases surge as health chief calls for early vaccination - Macau Business",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVEZjMGRPN1Q1Z3V6QWxiME9nTlVsR0VUQkJEeUozeWd5Tm04TElibUtxUFRaLVd1TEFydmQzdlVpb0lST24wOHdGc0tTRU13YTRtNF9CaWpsOU03dVJwWkcwNkFYeGZQZW9fb24yQkdtY1EyTUExNU00QUlQcDlSTWpraHh2dGJ0LVhLdU1TR1JCbmtCUWFDQTg0VGhmZw?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 12:48:23 GMT",
+      "description": "COVID-19 cases surge as health chief calls for early vaccination Macau Business",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -242,19 +255,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "South Korea's Vaccine Scandal Demands Special Probe into Government Mismanagement - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVmFmakNqYWJBMExpcS1jRUppSHVSVUVTbGVrWVI3MnFTSmZ1bWEyb3EyQXEzNUVIY2d5N3Jkd0JrTlBCTUZldHZjbmtaT1h4M2YyUlFWa0NDeGZQR0lHTVlLeWVUczNEQzZYcm1CNW80QjR2VDRFeUxmUTlwdVgyd1hIRDNxSjAt?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 17:20:33 GMT",
-      "description": "South Korea's Vaccine Scandal Demands Special Probe into Government Mismanagement 조선일보",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Johns Hopkins scientists develop nose spray DNA vaccine for tuberculosis - ScienceDaily",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55NEFfSlp1Mk44REJLM2xaM1ZpRHBxb1ktWThCQjdaRmtaZ2RFRzUySTZzY21LSFZYNjFjNFV6d3pnZGtTYzNPeWNzQmdjamVSc2ttSXdjWW9VdFZzcFp5ZndsRkpzTGgxZ2o5Vnk0Yw?oc=5",
       "pubDate": "Sat, 04 Jul 2026 08:56:35 GMT",
@@ -294,6 +294,45 @@
       "articleLabel": "News"
     },
     {
+      "title": "Study suggests ocular history may raise risk for recurrent shingles - Eyes On Eyecare",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa1lnZ0dNZ1NIbk9ZUk51N0lFZ1kwNHotYkNmUENoSnlMMG8wNmFNVlQyYzdQMkt3SDZBUkJZRTMzQnp6WkZndXRJS3AtR2tVS25NdWlvUWh6dXRNWnkyZ0FyemY5NlBvZHJpWFJLaGNaZ1hDRXdXeEZHR2RkeUlObmNQMEttbXFlZFJZejNldkc3cUxlMDJoMkdDTUxNeU9xM0pWSEdhdnFXbGxXV1JXUlptZ2NJSE5oU0RyVQ?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 19:36:47 GMT",
+      "description": "Study suggests ocular history may raise risk for recurrent shingles Eyes On Eyecare",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "shingles",
+      "vaccineLabel": "Shingles",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Moderna Stock (MRNA) Opinions on mRNA Flu Vaccine Approval and Stock Surge - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTTFqTm9mbENvX1RoQi1EYjZwOFZlb3pYT1hpTE9rbjVJX2p6azBRc1lfRE5GN3FFNmsyRlNSc3dMd2otdUUwOFhoVm00NDd0bWdiamJBRUpwSVZFQW8xcGRVYk1JQlBQT1N6eWdRRFlZTWJxTjB3UXU5LXJYcVZOYnRmUVJqS0FfQ3JNQWYyZmx5SHZ5alByQ2F1UXVjVWVaOGNTZjBmNWRpUDdHX21DZg?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 17:56:00 GMT",
+      "description": "Moderna Stock (MRNA) Opinions on mRNA Flu Vaccine Approval and Stock Surge Quiver Quantitative",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Government Negligence in Vaccine Management Sparks Calls for Special Investigation - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVmFmakNqYWJBMExpcS1jRUppSHVSVUVTbGVrWVI3MnFTSmZ1bWEyb3EyQXEzNUVIY2d5N3Jkd0JrTlBCTUZldHZjbmtaT1h4M2YyUlFWa0NDeGZQR0lHTVlLeWVUczNEQzZYcm1CNW80QjR2VDRFeUxmUTlwdVgyd1hIRDNxSjAt?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 16:20:55 GMT",
+      "description": "Government Negligence in Vaccine Management Sparks Calls for Special Investigation 조선일보",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "U.S. Measles Cases in 2026 Nearly Match Full-Year 2025 Toll With Six Months Still Remaining - Global Biodefense",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVGpUWDMzdGtPTmZjSWpSME5PV29DTmV2TEdsTjgzMDZ6djVydVNMTjE4UXhBS3YxeHRDTEd4N0dRZ2lzRmFmNjNZZzkzV0dDYWlXcWJuRFFwWVBZX20xVW5hbEN0Y1IxdUJJUXZPNzEzQUNwbDU0a2hUTlNfQ25QNzFWRGV2SWVacGROcmVMa2QzS2RaUlVCTGJkVDd1eHh5NU14QU1TZWI0LXdqalh2SkllTjJNcGF2Yk5kOFBjRnZlelhYb2ViQ2k2SQ?oc=5",
       "pubDate": "Fri, 03 Jul 2026 13:24:51 GMT",
@@ -316,6 +355,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Six Years After the First COVID-19 mRNA Vaccines, Billions of Doses Clarify Their Protection and Rare Risks - Discover Magazine",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcm1UNExtb1FhMDQyZXZwSGpOVlVRS2R0cjNQbmJVNklmMmVfcVhLdTdxeWFtYnQ5U1VzV3ZwZ0J3ZVJxejVwRXEzVnZOLURHa09YemVfb21ucEdSMkIzaWxobExOUTR3VjA1b3JMeTVwSUxxZHNnX090NUdITk5OWFlaUzVDRGNhMDJBOElkOENRbFBXVEItRE8tRDZkYmdoSHgxWlRRUFNUYWpjZVVrMF9sN3Z2NUJxSWVPZW9fYVlLTWhIRnBSZVNiS3F0MDY1MTZBZDlKVy1TNzNEa2c?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 22:31:47 GMT",
+      "description": "Six Years After the First COVID-19 mRNA Vaccines, Billions of Doses Clarify Their Protection and Rare Risks Discover Magazine",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -398,6 +450,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Gavi Board meeting underlines commitment to country sovereignty, fragility and health security - Gavi, the Vaccine Alliance",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMDk0UFhoNVAwV1ZMQkdfeHI1TExFRkV1ZXFlZmM4ZkpCaWZWUVh5bmM5eFNvUWNCaUJ5QV9makhuVGNDZFV6TlJVWXNhMWxBTE55SkZYclV4Z2FMWW1najZQSWZpdnZzcnpxd1d5MEZWMDN5aFFSSUpUemh2blUtRnIyLUxWY0pRVjE3bDhpYlhPSk9sUDVsQWJCbVgxMFd4aW11TVc1cnBwV1dCZ2pKeF8wZnhxUlhjV1F1V0tqUDI?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 15:36:19 GMT",
+      "description": "Gavi Board meeting underlines commitment to country sovereignty, fragility and health security Gavi, the Vaccine Alliance",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Virginia has high vaccination rates. Why do we have a large measles outbreak? - Charlottesville Tomorrow",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNm9ydzlvTzNZTkNqdjNMVXhLOFN6ejZiT3NITDJGWHNfWkNBVVBXUTVJZGs0S0pzTTZLckhDWE94am8tWUI2R1c3X25fSE8ydVVOVExrZzJUS0xRQ25CLW1GT2dUenZqeHliRjl1dC1DcWJPVWM4VUZwclR6NF9VMmJtSmlkOTFzazFBUkZYTVBGaGVCZEs5UlZvcFFyUjdCQWg1Zm5MTnNyYkU?oc=5",
       "pubDate": "Thu, 02 Jul 2026 14:22:19 GMT",
@@ -428,6 +493,19 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcDlBSjREV0Jkb0tQellCaW15LVQ0TEhpMjFfdm16ODJKXzR5SFRBMmU4UVpLLUYwdDRXLVo4ZkJMajRMNDlMS1JGemI3VldpcndsTGFqVkMyemt6Zi1NQXFQOTlrOVAwUnRUTVhCcURkd29fZG84ZnF6MmVLT2NxT3lRQmJyTFBkSDZzSzF5NA?oc=5",
       "pubDate": "Thu, 02 Jul 2026 12:39:13 GMT",
       "description": "Free pet vaccine clinic offered Thursday in Missoula NBC Montana",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "How a Military Vaccine Reversal Was Followed by a Major Flu Outbreak - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMEozcU1rWm14Vjl6bjM5bl95dkRNZkstT0ptcFpKSUdaRkZhanM3dHZ3VTdTbG5kLXA2VnpiNFY4cnQtU0czWVpGYU1PdlFCSm9ETEc4X0RPN0p2Y1JpenNlY0p3NDBuSmFxUEtXd3lDOWl2ZmJ1bG9TUDR5ZTRWUjhMU2ZBWWRUX0hneHh2aDBvS21PeHJhZDQ3cWJxczltV2p5WA?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 11:22:00 GMT",
+      "description": "How a Military Vaccine Reversal Was Followed by a Major Flu Outbreak Newsweek",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -528,6 +606,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "SK Bioscience to lead Gates-backed AI vaccine project - The Korea Herald",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5hR3lLbExObFllNHZRSzBnbjYwVzhZc2FNX1JNVzh1NjVfTkNKWnZiM0FNNnViejJsemR0RjNWUGN3TlJ1ZkRHaVN1V29jNmRJdlVjUjhwVQ?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 05:10:41 GMT",
+      "description": "SK Bioscience to lead Gates-backed AI vaccine project The Korea Herald",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "KFF poll finds vaccine myths reach many Americans but convince few - News-Medical",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUXc1Q1BRV3hJcjNFNS14NkJHZnp0ZWlVY1NhY2IycjBPdENDc0xRQXZsdmY2anFYbEJzQU91dldRYlBqTnFkWDU1SXVhLUxwZFF1UzdwTEdtdElUOVRURWlnSXI2X0NiYkI4UENKMm9NMklIVkhsa0FxZjFlUE5ycnhHOFdNb1BRdzREZkcxRkNIUTBuZEpORk54d1FIclF1VFpfeVluNThONFlmRFU5V3hMOFU?oc=5",
       "pubDate": "Thu, 02 Jul 2026 03:21:00 GMT",
@@ -554,10 +645,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "How personal waivers impact Wisconsin's vaccination numbers - PBS Wisconsin",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbDhWemk3Y0prX2JsNm9VRkJiNGFGNXBBamk4VEo3OW94RnhZSmxFcGRpOU9tbFc0ZHVLbWlEamFybWN5b2JienlVbmZYMk5mMTJHMF9BeENKMGdEdDhXMnZXVEpxYm05VXR6bjZ6SS01aEV3N3RGYVFlQmNTUV9uRzk4aGVBTlFnWVBNTmRIdERsdWxLTkZsa0hR?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 22:07:12 GMT",
-      "description": "How personal waivers impact Wisconsin's vaccination numbers PBS Wisconsin",
+      "title": "SK bioscience to lead Gates Foundation-backed AI platform for vaccine development - koreabiomed.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12QVlfd3lTeEMyYldQOE51WXpGZHBYbERlcjNCcWtmZDI5OThnbnZhOFNBN196R2NmVVpha0FTY2xsS2tsLS1pV3p3MjJkYWdaZUtGQnhmek9DYTRYaENUVjhZZE0wRVlXb3FqdVRB?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 00:34:17 GMT",
+      "description": "SK bioscience to lead Gates Foundation-backed AI platform for vaccine development koreabiomed.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -567,10 +658,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Vaccine booster protections – and more health headlines - WGN-TV",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYzllVUxaYTNxaVNFV0J5UFY3TlRqZWRBbWc1blFxSUZDalVfelY2YmNCZVBiS1k1TlhLNE9HN3pQQUdQdU10blIzRnpqM1RPenlRcWswNDZpQ1IzRXdDZUt6Zl9mVnlEelB6WXZtRXFKR3dYS19pdlBaOU1yWTAxQU44V2lVSERKY0h6dER4Q2ZmRDBkVVHSAZsBQVVfeXFMUHdkUF9ZY2ozWmh2cnBiTS1PUTNqWlRBNkthVldGbnRfRkMxbWtEUXdrZHJ6em03cXk3azRvcTFoTGt2VTQzZjg5dnEycDVoTV9RVEZFRXNLZzZ1aG1xNm54UFA1LUJYaFBwTkowTjB4dVIyWjJ2UjJxbHJicC15UFkyVEU0dWh4cHV2c1g0eHFkdmc4d1dKY0NMRk0?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 21:26:41 GMT",
-      "description": "Vaccine booster protections – and more health headlines WGN-TV",
+      "title": "How personal waivers impact Wisconsin's vaccination numbers - PBS Wisconsin",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbDhWemk3Y0prX2JsNm9VRkJiNGFGNXBBamk4VEo3OW94RnhZSmxFcGRpOU9tbFc0ZHVLbWlEamFybWN5b2JienlVbmZYMk5mMTJHMF9BeENKMGdEdDhXMnZXVEpxYm05VXR6bjZ6SS01aEV3N3RGYVFlQmNTUV9uRzk4aGVBTlFnWVBNTmRIdERsdWxLTkZsa0hR?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 22:07:12 GMT",
+      "description": "How personal waivers impact Wisconsin's vaccination numbers PBS Wisconsin",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -682,6 +773,19 @@
       "vaccineLabel": "Shingles",
       "articleType": "research",
       "articleLabel": "Research"
+    },
+    {
+      "title": "American vaccines that transformed public health over 250 years: 'Outweighs harm' - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMDNVX3JuVGFBc0VTRm1QOTRMLUEzOTBrRi1BOUJlaUN0cHRsSWlXb2tDaE5NZkljem5rbmRfMkpKMjROYWstdk5hOFI3emtMOGQtdE9Ka053LURMRU9fclhGMWk2N25HVlVjMU9XTl9YOHNacUs4eXdZSW1GWW5kWEtIdGcwU2V3dk4xSTVCdEhwRURHeEJlQmtMNlJtWC1nMjA4ZGJGa9IBrAFBVV95cUxOTy0xbHpxVUtONHFBOXFxVXUzT0FUMmQ1dHl2d1hGUUh1Qkg5c2JEWHYwY1ZrbHJmVTdXYzBkYU1CNFRVczFLcV91VVNPWmFVRDZGTkNJVm9RUnBrMnRCeUE0b2VIendFY2VOc05yLVpRUURaZXc4MVdianhTbkhvZmY1LXlJWHlnLVJvQk9tRUF0Vm5SVnBJenhocDlwRS1tYnVzaDk3a0s4TGRs?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 11:09:48 GMT",
+      "description": "American vaccines that transformed public health over 250 years: 'Outweighs harm' Fox News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Current CDC Vaccine Price List | VFC Program - Centers for Disease Control and Prevention | CDC (.gov)",
@@ -853,6 +957,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Basecamp Research brings EDEN's antibiotic and vaccine design models to Claude Science - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbEpkQUswNmxQa3lHN2NjZUxOOEVubkhCUkpYOUpnYVhvOHE4VDVZaFBEYS1YMnpoLXJ0cWs0QS16RDdTVGxUaEV2TEdJY1ktamhsUGl1b1I5eWsxVDR4NnZDZFNkX3p1OTMtTGVBN21SU0QtREY3VjAtQVZNY2dReGpqWnhrZVpQZW9RVnhkY2lSZ3Zsa3lteDhRWEpxZ1V5Y19sZm9GQWlkWnJISmd1Y1ZqbnJuTU0xZXJxYXF1XzdpRlU3bEllRG05YVV3ME1veTRzZFdhdy0?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 17:00:00 GMT",
+      "description": "Basecamp Research brings EDEN's antibiotic and vaccine design models to Claude Science PR Newswire",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
       "title": "A Vaccine for Strep A May Finally Be in Reach - Global Health NOW",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwYTFFbkhKc2VEV0RKa3ZHMnZVUWxuRUJkSDd3Y2NoWFhGbW1LNUdRdXdudUpJdC1KZzQ2c3BrMU1IYkg4N2FKZ0lXdkViSF9FR1hYZk1iZG1Nek9CRGN6V1J6M0xyXzNyT3E5RTN0WTN3cTNUU3FEbTZB?oc=5",
       "pubDate": "Tue, 30 Jun 2026 10:47:59 GMT",
@@ -870,19 +987,6 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSFNVLVhXR0FjdFkxM3BHbzltaEdyb3VTMld1V0VHeEhoR29SbERSNVpraWpWMXJMc3pPR2xjMFNNSHdHMEdRQ1hxdU53ZkFrSTZvbTE3cEVHYUV0STViMHA3R1R2ZEstaWtmRDEzUzU3RzJCcjU0bWhKZzNOUTZOdEp0X1BueE9vc1ZicE53QXVqU0hkRzVoeVZsVFBFNFFJY2M2VFlEMDdzdHRLT0ZfNS02Y2ZhS1k?oc=5",
       "pubDate": "Tue, 30 Jun 2026 09:08:40 GMT",
       "description": "KFF Tracking Poll on Health Information and Trust: Update on Common Vaccine Myths KFF",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Poll: People Without a Trusted Health Care Provider Are More Likely to Endorse Vaccine Myths, As Are Those Who Often Use Social Media or AI for Health Information - KFF",
-      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPNDFkUy1wWEZLd1FPMGk4NnZRZUhqa3dUalZlMVZIdU5SRnFPVWgzVnZnRk9jMXpfTDViRUtDMmNjTEttOXhyTkFRdzgxQTRmT1JEeFhDMzJQTG9aR3ZmbEVBYUtycFVJRHF4S2diNkUyMkF3UG1CUTJoaFkyTDU3R3lQOGJsYk5VTnVya0NxM3dlMVdfOEVDMmpFQmVGZVhFUGZUdUhrek01V1lVbC1EMnBDa0xpQTRjSm92UFFmakFFS2VMbmxGMGoxb1JXWE5xcUdSOGNfbUYxUkVkX0lDck84eW1ibzRUMy0tZGhsLXZHZFhNd0FaWUhRQjZpRzJmUnBGUmxqWV9iRkQ3X1FtQmttX0NQSl9ra094YzlybkFGSkl0NTFWMnZ3Sl9iYlE?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 09:01:30 GMT",
-      "description": "Poll: People Without a Trusted Health Care Provider Are More Likely to Endorse Vaccine Myths, As Are Those Who Often Use Social Media or AI for Health Information KFF",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
