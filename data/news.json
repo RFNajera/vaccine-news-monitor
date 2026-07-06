@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-06T15:39:22.480Z",
-  "itemCount": 69,
+  "updatedAt": "2026-07-06T17:25:44.694Z",
+  "itemCount": 75,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 5
+      "count": 6
     },
     {
       "key": "flu",
@@ -20,7 +20,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 7
+      "count": 6
     },
     {
       "key": "hpv",
@@ -50,10 +50,88 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 44
+      "count": 50
     }
   ],
   "items": [
+    {
+      "title": "New HIV vaccine shows unprecedented success in preclinical study - La Jolla Institute",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcll0djBPajJncjNPSUxUeExVWHNDMjVwQWNFVF9oX0s4QkRfMDdvOFJHSF9JNlNmYUpWTEc0ejVzT0pLNHRSMm1UOFBmc0Q4amF4Nl9ORTBMdXpFSHJFUGptQUI5U01tR3Fjc1VoTUlkamJwb2lCVmJwTmtkS3NzcS00ak82RXNOQUxPMU10MlV2Z1hOUk00XzdrWjB0N2NGcWs1RkZOMmNkSGc?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 17:21:01 GMT",
+      "description": "New HIV vaccine shows unprecedented success in preclinical study La Jolla Institute",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Moderna shares rise as investors continue to digest pipeline expansion and flu vaccine progress - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVlFzUDQ2R0dEbGZJS2pmMkQtXzN3QTZUNUZfa0tNWVRiMEd5ckgxQVJyb3loT1laM3lCcDZIQlFFSExCS281UEVMUDBaYVIxWS1wMWNRSG1lRUwtNjBuNE1sWXM0RVdUUlBzZDdJMDJGY1BpNy1aVWt5UjBoWlpDTHVIdldmLTVJZDNIUTBtRmhKRzk4b1o5TVJ6dlFVc1pPSUhIUzA2Y0hSNC1qVm1GbjlzQ0hDMXVvN3BXcHlJM19fNEpfd0I4?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 16:19:00 GMT",
+      "description": "Moderna shares rise as investors continue to digest pipeline expansion and flu vaccine progress Quiver Quantitative",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "You’re Less Likely to Trust Common Vaccines If You Seek Health Advice Online: Study - extremetech.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS2FROXFmUlVFb05INll4MWNnUUcwU29TOWVEMWtQSU1qdjNRU1VBdjhWdUtKSU44a1hScGtCaUY5MEoxMEtKRXhST1BtcW5xMUdBeEpFaXRiLUYtZkMtOXpKMHR3ei1peHZFdjBMbDh1SThBUXgzdU5jVUo4a1lPdWNaWlJ6SWJWcHdxbmZvY0Ywb25tRjV0djJhODBDNjhRNGZTdlJmZmVjUjVqNDJRVA?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 16:00:49 GMT",
+      "description": "You’re Less Likely to Trust Common Vaccines If You Seek Health Advice Online: Study extremetech.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Brain tumor vaccine links mutation targeting to eight-year survival gains - Medical Xpress",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmNpQUhrREZYbUVjTy1kcWtKRE5NSGNwRkpKSEZwU1hnX2oxdkl2OTZvbEdGSU5fZTRBNFlQM052ZkpWbmVzM3E3Rk9NRXZUeVN5X1hhZzRDT3hxdEpmclU4OWtWZTV0dWFNNlRtRUs4bXRMX0J0d3I3ZllldEhzSzNMUWg?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 16:00:09 GMT",
+      "description": "Brain tumor vaccine links mutation targeting to eight-year survival gains Medical Xpress",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Matica Bio, VaxDome partner on antigen-agnostic antiviral-vaccine hybrids - BioSpectrum Asia",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQlVDQ2cwRnlWS0JHaUQ3amZIWXFhMWRnTjJqLV9kVWxMOWV3YmVvM3lvLVNqUTZHM24yblBwempwTVlhVkM0WmVNYlJmVlJMRmp4OTdNcVdBUE5NZ3dXNFNod2RVWWlGY3NRd0dTV1Q1UUN5eXVOR2psVEREd1BBRTAtSGFWS1hPYkR0V2x1M21TY3RETHp5U1g1N2hjenNzNV96Q2psOHIzUlVqRXRhQ0QxZ0U4ZzgwWDBCWTlKSmE?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 15:50:21 GMT",
+      "description": "Matica Bio, VaxDome partner on antigen-agnostic antiviral-vaccine hybrids BioSpectrum Asia",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "In 'Klimek v. CentraCare Health System,' Eighth Circuit Reverses Grant of Summary Judgment for Employer and Sets Groundwork for More Employee ADA Claims Based on Vaccine Refusal - Law.com",
+      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQb1FtTUFJT2VHeEJWc00zN1pnRTFNTVhJMEd1WUwzUnhxX1BkdkNoeXdsYzR6R3dNOG9Wb29XdE9GdTFkVWNnc0daZS0zNGY2SWttSTBpV2tQNElXaEdXNkktVGRyTTU1VFdacDNiWGtDekthWEREaklCd3Y4UXZTUGJBbUprSHNZbG5JblBTUENPUUZERlh5TUxkTVdXQlBSZDRQaHZBTDQ4R2RwUjdrMGdWVXVFalNwbmdSQUh0cUFLd1dyQzFLbEZXTmt1bFp5ZEZxWWFDYkdJX0k3UTFGYmJCYktfZExjZmp0c3NLZVdnazZ4VE1WOUNEUW0tYkRrZVpUQnA2TlE1VVIyRWlCdHg1MWxiY2RCVC1WeDBCcmlpTzNRVHhJUUE2aTlKdw?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 15:34:00 GMT",
+      "description": "In 'Klimek v. CentraCare Health System,' Eighth Circuit Reverses Grant of Summary Judgment for Employer and Sets Groundwork for More Employee ADA Claims Based on Vaccine Refusal Law.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "A parasitic disease is quietly spreading across the US: OSU researcher may have vaccine - Cleveland.com",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMWVYRXNjNWQ2LUFtdGRDU2F5Uy1mWTRjREllYnc2ek0zQXVnUlJBYU1hNTBVT2pucG5XUXUyb1pTSW9jallQZlE4YS1jS25oRkV1aEFEcnJBZWtnOUctS0JzR0VKbFNkQUsteVV5M3VDNVVyMno3aVMxRi1CVzNMeDUzRkg3U3pKSVA5S2c4bW4xQnFxMGw5VHVNeFdUUWtCX0RwczE3WWVOa1NGYUczaHhUVDAwWWllU1V5UW5lNlAzSjI2TWJrQ1dyQTJEWUFa?oc=5",
@@ -137,6 +215,19 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVTBiTklYbmYxT09jLU9heDhCQUZINkhpR2F6TDRwYTZxbzJOM1R6OW1Fd1ZCNmh4UGU2cWZqRVFBMjJVOVZMQjZha1dlWWxRb1pVM3IzanRuWGpfN1h5VXgyT1AydkZITEU2cUdscEF2UG9ja29hdEZ4UzVDVVpXUi0xZERvRTFid0xyNXNyT19ia3Uz?oc=5",
       "pubDate": "Mon, 06 Jul 2026 12:52:39 GMT",
       "description": "County Health Department Hosting Rabies Vaccination Clinic Next Week WXHC.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Free Back 2 School Immunization Clinics in Thurston County - ThurstonTalk",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ3pfTXdXM1o0enZnd0ctaWdTa1BxQTVUVlBSQVFlQzZiMEdoM0ZESmZEWHhZVXZLUzliUWR4MFRDcWJtT1M1b003MU9ieGxUNFd1Qzd1NmhTVjF5Zm1hV1d3cXV1cU1OdEVfTUtpSXJPTHNFSVB3Sy1EdTBQVnhoQmMxbzlUc0kxTEo5eHk2R21yODNSUWRSUWprbmN3LWNL?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 12:48:44 GMT",
+      "description": "Free Back 2 School Immunization Clinics in Thurston County ThurstonTalk",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -302,10 +393,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "The misnamed ‘medical freedom’ movement stalls in Florida as Republican legislators fail to advance legislation that would end school vaccine mandates - Genetic Literacy Project",
+      "title": "Misnamed ‘medical freedom’ movement stalls in Florida as Republicans fail to advance legislation ending school vaccine mandates - Genetic Literacy Project",
       "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOSEZpUXl0c19BUVV2TzNRTk5INE5rVFMtMEJvbGNUd2xYUk1kZV80WHdfeEdoNEtBUzY2TXNmVW9xTU02ellZaEZod1RTR2lXNHZiRFBENnh4ak1IUXloZHpaVFI2U2FrX0NaeXZkOWt1R1FrbmVzVzJ2ZFV6TF9xMWtJeXltZmJMMjhiaWRvY1hrWFN4VUhCR3RtandaYVZlZGZNVGI0Znd2UlZONlJGa0FBbmk2Mm84QTVlWDVjRFEzWTl3b1B3ZXpYSEIzazVaU1RKS05EbVROQkNodjFtNGtVSWluOGt0VW5KblVGSUtQQk1WMHExeEJ6UU5lTE8zRENHZjhMb3NaZnJPbUlKT1RfWERqMTA1ZWxBelJYNWI?oc=5",
       "pubDate": "Mon, 06 Jul 2026 04:05:22 GMT",
-      "description": "The misnamed ‘medical freedom’ movement stalls in Florida as Republican legislators fail to advance legislation that would end school vaccine mandates Genetic Literacy Project",
+      "description": "Misnamed ‘medical freedom’ movement stalls in Florida as Republicans fail to advance legislation ending school vaccine mandates Genetic Literacy Project",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -410,19 +501,6 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcE5QVGI3Q0EtUVMtTFVfUEx6UVMyZ2FwYXh5OHBXMDlVRk5yQW5zUlRIVW5oZnFraDJhUVcxRnpKRFBBbWNGUDlYd21uWHAyejNfS0tWRTJJN2J3V1o3eW5rdjRuWGswOHFkRi1FS1o4dDFGVTFmbFlZRTVvd21ocThxYw?oc=5",
       "pubDate": "Sun, 05 Jul 2026 19:31:55 GMT",
       "description": "Western Australia expands diphtheria outbreak vaccination program as cases stand at 170 Outbreak News Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Mom’s Vax Tale on RFK Jr. Group’s Podcast Takes Dark Turn - The Daily Beast",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUVJTS0Z2a2pEcnJpdDRvZ1F4a2Utd1lTNlBuczhHNFdzUWRLbWhPVlJlTE1jZjlsV0oyNjRITG5mQWhUU1VraEtXMHljZ3ZBallFRVR3Q1lka2tGSVZrcDJlaWRKMTdOcUhIYWw4NDd1X3NJTXhldUhobmI0VlEtT0FzYnp1YmNZcjFubWg1Szd6cXFyTFVLUXJlV0I?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 19:21:00 GMT",
-      "description": "Mom’s Vax Tale on RFK Jr. Group’s Podcast Takes Dark Turn The Daily Beast",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -679,32 +757,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Measles vaccination rates climb slightly for some Texas children - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVktENTFXQzNwajlTWEptRFF0MTk1eVdaeXJjaWZpTUVndUxwZUtybEVMT2hLek9POWRteDB4di1zVUlzdEtvZVkycUFHS3ZUNm5CbUwxUE1Oa2FfVW5iQWE1TkQ5NHNXcWFVSkhzVlBaUXNBZVhjRkk1SGE5bWlHMUc4bUhRUWhPclVSWlN3RDhLRkE5ekJPemN3?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 18:22:56 GMT",
-      "description": "Measles vaccination rates climb slightly for some Texas children Yahoo",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Trump’s Newly Disclosed Moderna Trades Preceded FDA Advisory Panel’s Unanimous Backing of mRNA Flu Vaccine - Quiver Quantitative",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOTJvQzhSb1dILWR5a2t1bi1VU0l3STZxU2gzTVltbmJNa3JhaDBodUpaaW9haXZid2xGal9jdUlrLXp3ZEhEWGtBcHFEUEZTT0JBRGhLNFVwU1VydG4tMGt3UmJlemF0UTFkckdNMDJSUVpXR3haSXdtZGNMWVRxTHFFUm1rQVdpTU0tUFF0dXhzTmplUDhtcVhzWS1NcWduTE4tYjVMTEhZTi12Z0pSS0FtYVdkNlBrcnQyd3Q0R1NxRFdPemo1QUt2UTdZU250UVQtMHV3cnpfcXo0WjJZaFlRQ01IdkxFNEk4?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 16:58:00 GMT",
-      "description": "Trump’s Newly Disclosed Moderna Trades Preceded FDA Advisory Panel’s Unanimous Backing of mRNA Flu Vaccine Quiver Quantitative",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "New ACIP Charter May Potentially Delay Vaccine Recommendations - Drug Topics",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS0xveXNKeHR4eWZub1Z3enNCTEdsUjdNVWRxSmM2ZlJnMEs3YkxUTDcyU3lBX2tDR1kyUEtNY0JxZlFjenl2a0dkQjBjakpwc1lrWlc4OXk4MzZpeF80T1NGcTJidlFwMkp4dFRIZlprZTFhdmZnUFZfUmVIbWV0UlJQQkVfVUpYaWFieVJLdlN6bWxUWDRSbG9R?oc=5",
       "pubDate": "Thu, 02 Jul 2026 15:18:48 GMT",
@@ -722,6 +774,19 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbFBzMHBOaFI5d2tzU0JqcElIREdEalNZSHU2eW0ydjZhblpEYWRsbmRFdkR2NnVxNWI5Yzh3bldDdG1vYXBCWmJwOXA2VzlMeXFuNTFiRUZYRWtUTDNib2dXUnhBRDg1WjZCQk1hNkoyY1lrdnBWNlJkWk1YVDQwY3o4a2pvT0xpOEd4MWcxNmFvZzJ3QXYwclUwTGRYeWM?oc=5",
       "pubDate": "Thu, 02 Jul 2026 14:46:00 GMT",
       "description": "Africa’s vaccine sovereignty goal is set for its biggest hurdle Semafor",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "New Poll Connects Social Media and Chatbots With Spread of Vaccine Misinformation - CNET",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMjczNFBvOHltcklidjZFODdqdnZXSG5wdUFiYnBwSWF1NDhheWV2LWhnMEZHMkRITnlfWU02M3J3YmdpdkxmU2NUOGUxeDVKYU1Dc1dQS0p0Vmt0UEJWelUxSzdPcGdNM050dTYxOWx2NlpiMVllMm1odDVtNDhDS2IxRVo4R2FWNWt0c2t1czk2Z2hmTjZWa3JPMjFLQmtmbVlNZE45Q2VOQXdEc1Uw?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 14:00:00 GMT",
+      "description": "New Poll Connects Social Media and Chatbots With Spread of Vaccine Misinformation CNET",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -809,6 +874,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "COVID-19 made mRNA vaccines mainstream. WashU researchers say flu shots are next - STLPR",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc0dxajZybXVWZVI0Ti0zbExNajFTRGdCT21IUTRyeDBGQ3VTZlBzRDVZNjFJQ2F0QU9TbGhxM01ZTFdVaTlrNTZJc2FTc1BJOHBmU3lidE9wb0w0bHFKRk94YjJ6T3FGdmk1SmZjd2NlNW1rZ3pNSTY1TjNMdUM2dUZTa2F5c0loSmFSZUcweFo0c3ExcTRxaS1UQ0RzTTBwMW1tYV9SMWtwZ1h5aERhU3RlLWJzaXdQek1nQ3J4cFQweWozWEx1bV93SmR2ekpTUnJhcExR?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 10:00:00 GMT",
+      "description": "COVID-19 made mRNA vaccines mainstream. WashU researchers say flu shots are next STLPR",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Financial innovation can deliver a Bundibugyo Ebola vaccine - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sZlBlVy10emtCWGZJa3ZiV0ZjY0QzUm1ITGZzSnU5Zk10Q3JGRFNETnBnMDZGeW9wSjNyTTlWMEVTV0dQNlVEWllDNDhmeFF4WEs3VkhneFp2c0R0MFpV?oc=5",
       "pubDate": "Thu, 02 Jul 2026 09:22:15 GMT",
@@ -874,19 +952,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "HPV vaccine prevents cervical cancer before it starts - UW Medicine | Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU3JyZmdHREN5U1h3aVNmRlBtbU1tZ3BXUTB4NTBsNG41YzJHWFJHeXczY0w1aHdrWVBTRkNSTno3RFdDX2FaSEFEa1RwbWk5Tjh6ZWdmQjAxbURzQXRQSW1EQXlGQmdSbDR5ZGZiRGlLZDF1TVc2cFlNTmJKc3ZOT3oydXNvaFZUejR3czl6Q2dTTnY4dGc?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 18:13:56 GMT",
-      "description": "HPV vaccine prevents cervical cancer before it starts UW Medicine | Newsroom",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hpv",
-      "vaccineLabel": "HPV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Following an outbreak, lawmakers push to require flu vaccine for all service members in budget bill provision - Military Times",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPUnRZWGExNDRhdmpTTFZCWTdDT002cFhxWkZBclFDY2pBMkVsMEVpRVF6WXk5WXhRWDY1NzhIMnJEN192UmRvVWttelRvV2tVTEUxRi1Dd2tOdXVydzBWVHFXQ1VMM1FjSndPaU5vV1JRWjFYVWRoSWFjb1Y3YTBMQmNCVGVPRExiUEdqQVBmbEI0TEVTTzctNmE1TGlTbjJVOHhVdlVMdXdPUkpkUjZpYVpFeTY5VkJ1dF8tak56MUNwdngxbHl5T2RNTGp1UlNUZmdobDd5d0UwME93dll6VTVHSHZ3QWFRaHE4bzNzbzdxcGNrSzJDb1BtMEdMeENwaEtz?oc=5",
       "pubDate": "Wed, 01 Jul 2026 16:41:35 GMT",
@@ -896,6 +961,19 @@
       "sourceLabel": "News",
       "vaccineKey": "flu",
       "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Abortion medication, HPV vaccine laws take effect Wednesday in three states - Stateline",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX1pzOFRVd3JKRzBvU09lTlhQZ3pPS25xUC1PSXZxNFZjZ0s1VzR4ejJKV1RKRHpfaml0ckRnSU5ncWwzbjI1T2JYVW9uZlpDRlM3ZndlMWFmMGtUMmpGa0pDZHVJYkZSSmtvVjZ6a2xfRXV6bXB4cTN2ZGY5SjJ0SGlhX1BLT0tCSHZxekJWVHFhS3Y0ZmItLXJYeGxDcjgxbXhxRFZHSQ?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 15:47:41 GMT",
+      "description": "Abortion medication, HPV vaccine laws take effect Wednesday in three states Stateline",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hpv",
+      "vaccineLabel": "HPV",
       "articleType": "news",
       "articleLabel": "News"
     },
