@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-07-06T13:41:33.773Z",
+  "updatedAt": "2026-07-06T15:39:22.480Z",
   "itemCount": 69,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 8
+      "count": 5
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 5
+      "count": 4
     },
     {
       "key": "rsv",
@@ -20,12 +20,22 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 6
+      "count": 7
+    },
+    {
+      "key": "hpv",
+      "label": "HPV",
+      "count": 1
+    },
+    {
+      "key": "polio",
+      "label": "Polio",
+      "count": 1
     },
     {
       "key": "hepatitis",
       "label": "Hepatitis",
-      "count": 1
+      "count": 2
     },
     {
       "key": "meningococcal",
@@ -44,6 +54,71 @@
     }
   ],
   "items": [
+    {
+      "title": "A parasitic disease is quietly spreading across the US: OSU researcher may have vaccine - Cleveland.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMWVYRXNjNWQ2LUFtdGRDU2F5Uy1mWTRjREllYnc2ek0zQXVnUlJBYU1hNTBVT2pucG5XUXUyb1pTSW9jallQZlE4YS1jS25oRkV1aEFEcnJBZWtnOUctS0JzR0VKbFNkQUsteVV5M3VDNVVyMno3aVMxRi1CVzNMeDUzRkg3U3pKSVA5S2c4bW4xQnFxMGw5VHVNeFdUUWtCX0RwczE3WWVOa1NGYUczaHhUVDAwWWllU1V5UW5lNlAzSjI2TWJrQ1dyQTJEWUFa?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 15:24:00 GMT",
+      "description": "A parasitic disease is quietly spreading across the US: OSU researcher may have vaccine Cleveland.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hepatitis",
+      "vaccineLabel": "Hepatitis",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "New Polio Vaccination Campaign to Begin Tomorrow in Southern Afghanistan - KabulNow",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTi01eVd1T21LaXliX055X2Z4azFxaFhrY0pzNmtWcGh4UmNRVlNFbEpjaW1FVzhrV1pBa2N5ZDY0NWFfMXpnZlE1NF9QaGYzRVlNa3h5ZjNYQk4zOWlPbUo4Qld5U0VTVnQwQTFtMVppZmtDMFdZWldSM1VXdWxUOVB5SjlLVWJCSkdtWExubWFVaHljMjdtV2lvbzFTTGlQYkNxRQ?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 14:13:07 GMT",
+      "description": "New Polio Vaccination Campaign to Begin Tomorrow in Southern Afghanistan KabulNow",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "polio",
+      "vaccineLabel": "Polio",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Matica Bio and VaxDome Partner to Develop Antigen-Agnostic Antiviral-Vaccine Hybrids with Influenza as One of the Disease Models - BioSpace",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQbDhLVzR3SWtFSEt3ZGdQUkNRRXcxSUY1cnVYWG9qUi1saWl2UzNsLTN0RjBHQkp2YTFRX3NJVDlSSUtlaWVhZmREcTlYVFg2NWNWenYzR2tBcG53QlcyTTBlUDhGM1ljUjNEOVh6VktOWDltSEpwX0F0V0t1VzF1NkJuOHdMQ1ZiQ0syaGprakJBYlFMOHBmdGgwaGtRbTdjdWtvdnAtbWl2emsyS3lYYUVsb3N4ajAtTlY4cVZTWG1kcXZHRzEyMndsa05nZUp0dDJVanJDWWRtSVFPTk4ydzM1OUhYT2JUQkxDb01mU09JMjFtYlJwOWVVY3Y?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 14:12:57 GMT",
+      "description": "Matica Bio and VaxDome Partner to Develop Antigen-Agnostic Antiviral-Vaccine Hybrids with Influenza as One of the Disease Models BioSpace",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "State+constitutional+claims+over+student+vaccination+reinstated - North Carolina Lawyers Weekly",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNmNjd1dpdEJPLTBMSEVqZHE2WGZQbzFLRDljZmw5QWFlNzRsdkJqRUNISFgwcklhamdQQWxOMW15Z3NfX3M0S0FGN1hWVlhfOHhEMTRtLURERXZMQmtieXhvNElONU02RE1pQk5VX3VrZWg1RElQMF9GOF9hVm8wbV84Z21HWHljejZFNk5jc1pDSlRSU0NnWVdkdV9LdEc5cXZTdXZ3?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 14:09:09 GMT",
+      "description": "State+constitutional+claims+over+student+vaccination+reinstated North Carolina Lawyers Weekly",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Idaho Mother Who Claimed Vaccines Killed Her Twins Is Now Charged With Their Murders - Latin Times",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTk9SMjVHbjZ6Tkg3NXZibUF4djRaV3dCUVYtejVfcUd4Y1lLMVlkWTBfY3JLZElIRnRjVUVUM1BZR2l0MjA4cVpUTVdXSjl3LVNxWXFvcWlqUEhKTUdDR010c2lFYkNDVDd2X2dHTm1udERHdEdRc3RKXzZqR3JzLUdBNHJkbEx1LU9rTjdjZzBnWjQ3aEpOQzRYLWVXbUVZS1JDdU8wY1htWkg5UUN3?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 13:56:44 GMT",
+      "description": "Idaho Mother Who Claimed Vaccines Killed Her Twins Is Now Charged With Their Murders Latin Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Chautauqua County Health Department Announces Animal Rabies Immunization Clinics in the Town of Poland - Chautauqua County, NY (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNTZaQ0pFNjlwS3FCM2RMMzFDc0t4UGVMNXU3OGMyN0VXWDd6SW9LT3F4Qm13SDc4YWg2LXVXV0t6TGlQT0xwOXFqQ01HOEUtVEJ6ZUV4VjN5c0pycHdvcndqVzRBb2lYMDR2QTRmTG81NjlYWW54R2NWbHdQOGJVVVUwTnkzNUFmTS05RUtZVHBHZHFZamxRdHgwaXhCWGxTbm84ZGhFTmVjYjVMSTRqeWNndDBhcDVtQnc0ZUkxVG01T0tpWnBxMURn?oc=5",
@@ -110,19 +185,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Matica Bio and VaxDome Partner to Develop Antigen-Agnostic Antiviral-Vaccine Hybrids with Influenza as One of the Disease Models - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNRDBoUmluMlJMdUdFVW8zV2JUeHF0N2FuWUJudXRkRGFlU0x4cG1BRFdzX2piWFp6WFZRQ2RyZExEZXdTMi1LeFFoWGNFR0hVX041NFRzYWVtamNjQmlINV8tdzB4ZUJDRjg5ZXJFUkRReFBiUFNJcnJhdm43WGlMQTc0Ynlha21zR0ZwV2RfTGlHN05faDN4Z25jTXRZVDV2czh1bzdwci1ITjdYaXhWVVNDX2RwOWdqT2RPb0hoUVJjcHRGVkhaVGtPVERvQzlkYWM4eGdMYVJqUjVVV1doRk1CQTRlbk9OcHBCeUJVWDNNbVhOTjRJWUk4eHdXNHZBTlhqMTNoTVRMNTRIQV9uc0xSZGstdWh2?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 12:00:00 GMT",
-      "description": "Matica Bio and VaxDome Partner to Develop Antigen-Agnostic Antiviral-Vaccine Hybrids with Influenza as One of the Disease Models Morningstar",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "BCG vaccine may remodel the human brain's immune environment - News-Medical",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnNYRVdaZWkzc0xZY1gxMXZZM3R1TENFWUFWV2V1Q3hyZWtwdWRxZnJaZUQ4ZWh5ZnA1SmpBcUFUNk1MRFhCNnZQWWFTWThkRzI1UlYxamVLU0czNWdsVnIwcTViSkNWLW1DbmV3dHo1RHFGanZ6OEdwazdQRWhrbWgwM0lEa0ZtTzJLQTNxRFBrNjl1TXk3SGY4a0V6SWs4OVlUanl4Ty05bWc?oc=5",
       "pubDate": "Mon, 06 Jul 2026 11:47:00 GMT",
@@ -179,6 +241,19 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdlhqVlhGdTVNT2l1SUNDRnd6b1FNUGZXMHdfd1ExMnBONWpDZm1tX1Uzclowa2ROMlhOaTRTNzZzbmlQd3dESmRkZFNHZGlmYzlxOG5uRUttN1VCZWlPUk1udV9nR0szY3duZTVEN2VCbmdlZ25zZlpkTlJwUVd6ZVk1Y1E1S0F0MEtLa3V0d2YwNmlXbUZyUkotc3dTbkVhVE5yZnRKLUlLdUZPcU5hY0JvMEU5dw?oc=5",
       "pubDate": "Mon, 06 Jul 2026 09:08:55 GMT",
       "description": "Biogal's VacciCheck Supports Evidence-Based Vaccination Through Rapid In-Clinic Antibody Titer Testing The National Law Review",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Marshall County Health Department to host Back-To-School Immunization Clinics this month - giant.fm",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMFNQV3Fsd3JVRV93bThjaUlMVzh4YllERFlobFg2cHlzSXNDY3hOWEhNcmswNFdfZ0Z3OGhsYTJINkxVM240RzRqWkthTi13ejlVNDJLYld1dk9tUXU5MHFoYWQ1emJnUFZGTHd3WFlDNFV2VjZKSTBPVVo5Sm45cVBJcm9KN3NfUW1BUmlGb3RqVDJkM0M4NXp6U19wSHhHLVdxNF9Da3A1ZmNsaUpmcUp4elI0MDg1ODk2aVd4NUpveWFmRW9TZ0xzMWNrOUNRQmZUdGRsc09HQQ?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 08:03:14 GMT",
+      "description": "Marshall County Health Department to host Back-To-School Immunization Clinics this month giant.fm",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -292,19 +367,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Marshall County Health Department to host Back-To-School Immunization Clinics this month - giant.fm",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMFNQV3Fsd3JVRV93bThjaUlMVzh4YllERFlobFg2cHlzSXNDY3hOWEhNcmswNFdfZ0Z3OGhsYTJINkxVM240RzRqWkthTi13ejlVNDJLYld1dk9tUXU5MHFoYWQ1emJnUFZGTHd3WFlDNFV2VjZKSTBPVVo5Sm45cVBJcm9KN3NfUW1BUmlGb3RqVDJkM0M4NXp6U19wSHhHLVdxNF9Da3A1ZmNsaUpmcUp4elI0MDg1ODk2aVd4NUpveWFmRW9TZ0xzMWNrOUNRQmZUdGRsc09HQQ?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 02:49:53 GMT",
-      "description": "Marshall County Health Department to host Back-To-School Immunization Clinics this month giant.fm",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Scientists find the “Achilles’ heel” of deadly gut bacteria - ScienceDaily",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SZ0RyMWVac09yWjFIbHRWUmxTR0dBdlRGbURQaTNLeUE2Y19vM0xvQko2SXpldXM2alpxZTZvNUNjb0FlLU53MmYzVnZoNjRrbm1PNTNLUkFGM1dKMnZhVXVkV1doTFdGTXRkVkJpaw?oc=5",
       "pubDate": "Mon, 06 Jul 2026 02:18:42 GMT",
@@ -348,6 +410,19 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcE5QVGI3Q0EtUVMtTFVfUEx6UVMyZ2FwYXh5OHBXMDlVRk5yQW5zUlRIVW5oZnFraDJhUVcxRnpKRFBBbWNGUDlYd21uWHAyejNfS0tWRTJJN2J3V1o3eW5rdjRuWGswOHFkRi1FS1o4dDFGVTFmbFlZRTVvd21ocThxYw?oc=5",
       "pubDate": "Sun, 05 Jul 2026 19:31:55 GMT",
       "description": "Western Australia expands diphtheria outbreak vaccination program as cases stand at 170 Outbreak News Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Mom’s Vax Tale on RFK Jr. Group’s Podcast Takes Dark Turn - The Daily Beast",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUVJTS0Z2a2pEcnJpdDRvZ1F4a2Utd1lTNlBuczhHNFdzUWRLbWhPVlJlTE1jZjlsV0oyNjRITG5mQWhUU1VraEtXMHljZ3ZBallFRVR3Q1lka2tGSVZrcDJlaWRKMTdOcUhIYWw4NDd1X3NJTXhldUhobmI0VlEtT0FzYnp1YmNZcjFubWg1Szd6cXFyTFVLUXJlV0I?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 19:21:00 GMT",
+      "description": "Mom’s Vax Tale on RFK Jr. Group’s Podcast Takes Dark Turn The Daily Beast",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -422,6 +497,19 @@
       "articleLabel": "Opinion"
     },
     {
+      "title": "Would Missouri hunters take a Lyme disease vaccine? We asked them - KCUR",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOHc0ajVIaF91R1FMalVEZ0JiTVQ2bldvM3hpOFcwYnJnR1FTVUUyRU81YXVGbDhsT1QzbndjZE9DdDZZTXN3ZGl1RlVtbm5jZFdwOTB3SlBxbGF2MVgtc2h6RjBKOGtZeWVqOUNHTVZUSGk2RnZ5NC1zV3RPalVUQngtTnVtLXhvMUNBUnd6cXBJbkxBem1LdVcyeDJKTWNTaFFWNWRJd3VUTmZWcVJLZkpENHh6blE?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 09:00:00 GMT",
+      "description": "Would Missouri hunters take a Lyme disease vaccine? We asked them KCUR",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "OHSU researchers find ‘holy grail’ for universal malaria vaccine - KOIN.com",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdWtmRmk0bFBRbGlCUXlBZlB3aTU4bTVuWms2UVd3ak8tUEtYdk8takZmcjAyelhoem8tU3pQRHBRQk1va1JaakxmZnEtVXhycm8xWC1FWWRscktRNmdmc0V1SmFOWkREZjdrYy16VVI1TjJiOVJkOGhzNGJuLUJKZWJwYXZUU1FjaThIVFhvbElJM3d5aW9BS1NpdU7SAaIBQVVfeXFMTVlsOURDVmRfT2J5anNaeVpvbnZoWWMyMFJBREJwT3pXS1c0M1R3blp6ZGVuY0dhc3Z0SVRnZjFsS04zSDZHMTU4b3ZXNFVkbXZ6SmxudG80cmg4WVFYUEhrRUp2SndNWGtES2JvejJuQWxWQTdrMUdBTFgyTjNuUlBhMk43OThQQjc3emJ1Y3JCNExacHF2dFh3NDRnUy1BQ05n?oc=5",
       "pubDate": "Sat, 04 Jul 2026 15:00:00 GMT",
@@ -452,45 +540,6 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNzdfWWZQQnUyZ0lMNjBjakVObkpvUU9IdzczVEFmTVd4eVRsVlRNSjRBa1V3b1BiM2RWand2MVIyV2xSRHVyblZQUUdiWENDN3A4Q2tmTTRIYVFJY0p2ZUk2SEFvbDY4dk03ZEVrY29SYTFVaWIzTjZwc1V2ZXh6QVVRMzJERk9QMFEyb0NGLVFvV1pHY0E?oc=5",
       "pubDate": "Sat, 04 Jul 2026 00:00:00 GMT",
       "description": "Watch Ebola Vaccine Trials Could Start This Year Bloomberg.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "White House Agenda Delays Food Rules, Keeps Vaccine Pay Changes - Bloomberg Law News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcDlFcEwzQzZXQjVUX0Y3R0U4X1ZVZjV2SFgweUxjSVRITnhsNm5KbGs3NjFlMXpOMGNtSjFlOUFLRWJyM0h1cXh2VTNBazVVODRSalNrbVJWTVltTlVac1JyV0doR1MyZ1YybEJBSXhhV2ZpN2UxU0Jyd3N1bmZ1UVB4RHc3ZWROUDJqWXBYSzFraFZvaHF6b0hGcEU3XzlDZnNvNXVETU5sQ3JBQ3hVVjlPYmpJaVU?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 22:03:00 GMT",
-      "description": "White House Agenda Delays Food Rules, Keeps Vaccine Pay Changes Bloomberg Law News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Moderna Stock (MRNA) Opinions on mRNA Flu Vaccine Approval and Stock Surge - Quiver Quantitative",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTTFqTm9mbENvX1RoQi1EYjZwOFZlb3pYT1hpTE9rbjVJX2p6azBRc1lfRE5GN3FFNmsyRlNSc3dMd2otdUUwOFhoVm00NDd0bWdiamJBRUpwSVZFQW8xcGRVYk1JQlBQT1N6eWdRRFlZTWJxTjB3UXU5LXJYcVZOYnRmUVJqS0FfQ3JNQWYyZmx5SHZ5alByQ2F1UXVjVWVaOGNTZjBmNWRpUDdHX21DZg?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 17:56:00 GMT",
-      "description": "Moderna Stock (MRNA) Opinions on mRNA Flu Vaccine Approval and Stock Surge Quiver Quantitative",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Government Negligence in Vaccine Management Sparks Calls for Special Investigation - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVmFmakNqYWJBMExpcS1jRUppSHVSVUVTbGVrWVI3MnFTSmZ1bWEyb3EyQXEzNUVIY2d5N3Jkd0JrTlBCTUZldHZjbmtaT1h4M2YyUlFWa0NDeGZQR0lHTVlLeWVUczNEQzZYcm1CNW80QjR2VDRFeUxmUTlwdVgyd1hIRDNxSjAt?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 16:20:55 GMT",
-      "description": "Government Negligence in Vaccine Management Sparks Calls for Special Investigation 조선일보",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -539,15 +588,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "Six Years After the First COVID-19 mRNA Vaccines, Billions of Doses Clarify Their Protection and Rare Risks - Discover Magazine",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcm1UNExtb1FhMDQyZXZwSGpOVlVRS2R0cjNQbmJVNklmMmVfcVhLdTdxeWFtYnQ5U1VzV3ZwZ0J3ZVJxejVwRXEzVnZOLURHa09YemVfb21ucEdSMkIzaWxobExOUTR3VjA1b3JMeTVwSUxxZHNnX090NUdITk5OWFlaUzVDRGNhMDJBOElkOENRbFBXVEItRE8tRDZkYmdoSHgxWlRRUFNUYWpjZVVrMF9sN3Z2NUJxSWVPZW9fYVlLTWhIRnBSZVNiS3F0MDY1MTZBZDlKVy1TNzNEa2c?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 22:31:47 GMT",
-      "description": "Six Years After the First COVID-19 mRNA Vaccines, Billions of Doses Clarify Their Protection and Rare Risks Discover Magazine",
+      "title": "A year after measles outbreak, here’s what happened to Tarrant County’s vaccination rate - Fort Worth Star-Telegram",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zVk9DVUM2T3NzT3R5RjlYaDh6YTZaMG1uR2c1dnIzNzhwM1ZwN19BajVOZF9IdG9uY0gyejY4cVctcjQtNDVUSGZKQlBDN25hTUdWR0VRWlZUSXR1dmRfWl80c1plb2xqOXVIN2hBZ9IBb0FVX3lxTE90Q0F6Mi1JU292QjVUTzRiTkltRGcyRTNBdnVLVkl2R3R0Zl9QOVQ0cVZZMjJ4ZlJRZk5taW9vTTRJeXR6VzY4T1FPOGFsM0Z3TzZ6NGszb202N2lKMDVZNGx2WGZ3NENzRDgyT1hpTQ?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 22:22:00 GMT",
+      "description": "A year after measles outbreak, here’s what happened to Tarrant County’s vaccination rate Fort Worth Star-Telegram",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -630,10 +679,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Measles vaccination rates climb slightly for some Texas children - KVUE",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdHQtaUxVdXNmTjV5Nkxpclp4c29yeGFnSl84SklQR0RGTjRfQ09lM0xMckQzYmNPZmtmZFZRYk5xVXhjcVNJTjBhT29mX003Yzc2aW5FLVl1ZDBFSkpjc1NYSlR6dUMzdDUxc0REejZQa2NjcDk1OHh5SjJVNE85c0Fyb0JOWmI4eHY0cUdwcXQ4NGFsRFVEYzQ0dzlJWnVpWUptdEJvbUxOWmNvT3VoVkhMcw?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 18:35:00 GMT",
-      "description": "Measles vaccination rates climb slightly for some Texas children KVUE",
+      "title": "Measles vaccination rates climb slightly for some Texas children - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVktENTFXQzNwajlTWEptRFF0MTk1eVdaeXJjaWZpTUVndUxwZUtybEVMT2hLek9POWRteDB4di1zVUlzdEtvZVkycUFHS3ZUNm5CbUwxUE1Oa2FfVW5iQWE1TkQ5NHNXcWFVSkhzVlBaUXNBZVhjRkk1SGE5bWlHMUc4bUhRUWhPclVSWlN3RDhLRkE5ekJPemN3?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 18:22:56 GMT",
+      "description": "Measles vaccination rates climb slightly for some Texas children Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -660,6 +709,19 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS0xveXNKeHR4eWZub1Z3enNCTEdsUjdNVWRxSmM2ZlJnMEs3YkxUTDcyU3lBX2tDR1kyUEtNY0JxZlFjenl2a0dkQjBjakpwc1lrWlc4OXk4MzZpeF80T1NGcTJidlFwMkp4dFRIZlprZTFhdmZnUFZfUmVIbWV0UlJQQkVfVUpYaWFieVJLdlN6bWxUWDRSbG9R?oc=5",
       "pubDate": "Thu, 02 Jul 2026 15:18:48 GMT",
       "description": "New ACIP Charter May Potentially Delay Vaccine Recommendations Drug Topics",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Africa’s vaccine sovereignty goal is set for its biggest hurdle - Semafor",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbFBzMHBOaFI5d2tzU0JqcElIREdEalNZSHU2eW0ydjZhblpEYWRsbmRFdkR2NnVxNWI5Yzh3bldDdG1vYXBCWmJwOXA2VzlMeXFuNTFiRUZYRWtUTDNib2dXUnhBRDg1WjZCQk1hNkoyY1lrdnBWNlJkWk1YVDQwY3o4a2pvT0xpOEd4MWcxNmFvZzJ3QXYwclUwTGRYeWM?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 14:46:00 GMT",
+      "description": "Africa’s vaccine sovereignty goal is set for its biggest hurdle Semafor",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -747,19 +809,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "COVID-19 made mRNA vaccines mainstream. WashU researchers say flu shots are next - STLPR",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc0dxajZybXVWZVI0Ti0zbExNajFTRGdCT21IUTRyeDBGQ3VTZlBzRDVZNjFJQ2F0QU9TbGhxM01ZTFdVaTlrNTZJc2FTc1BJOHBmU3lidE9wb0w0bHFKRk94YjJ6T3FGdmk1SmZjd2NlNW1rZ3pNSTY1TjNMdUM2dUZTa2F5c0loSmFSZUcweFo0c3ExcTRxaS1UQ0RzTTBwMW1tYV9SMWtwZ1h5aERhU3RlLWJzaXdQek1nQ3J4cFQweWozWEx1bV93SmR2ekpTUnJhcExR?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 10:00:00 GMT",
-      "description": "COVID-19 made mRNA vaccines mainstream. WashU researchers say flu shots are next STLPR",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Financial innovation can deliver a Bundibugyo Ebola vaccine - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sZlBlVy10emtCWGZJa3ZiV0ZjY0QzUm1ITGZzSnU5Zk10Q3JGRFNETnBnMDZGeW9wSjNyTTlWMEVTV0dQNlVEWllDNDhmeFF4WEs3VkhneFp2c0R0MFpV?oc=5",
       "pubDate": "Thu, 02 Jul 2026 09:22:15 GMT",
@@ -777,19 +826,6 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbnVSdmYxZFhDYXhvTzdJSk81bDQxRWtYTDJIT1hXUDJzRGdmTm1ISEN2aHFYZFdRT2FxbHppTS12eV9XQ0V2SGNRekZHb216RkpGYm03ZWxnNmwyN3ZNSVB1aDZYSG9DYkZkbWQtTENqQXlTTHNPMUhBNWt2TG04MEI4cw?oc=5",
       "pubDate": "Thu, 02 Jul 2026 09:00:06 GMT",
       "description": "BCG vaccine may rewire brain immunity, shift Alzheimer's markers over 12 months Medical Xpress",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Would hunters take a Lyme disease vaccine? - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5SeHRrR2I2NWl2RmFYQ3pWUWNscjB2djJjU0dlUEFqZXpUX3RXb19sRVpNc1NhU0pfYVRISm9ldENJQ0Y4cFNYN3VqQzNHT1BkUWlhQ0xBcWZ2U19GNnpJOWhRZUZ5b2g4LXMzUGpZcDVHRjFNU015cGlXeFU?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 03:00:01 GMT",
-      "description": "Would hunters take a Lyme disease vaccine? Medical Xpress",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -838,6 +874,19 @@
       "articleLabel": "Research"
     },
     {
+      "title": "HPV vaccine prevents cervical cancer before it starts - UW Medicine | Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU3JyZmdHREN5U1h3aVNmRlBtbU1tZ3BXUTB4NTBsNG41YzJHWFJHeXczY0w1aHdrWVBTRkNSTno3RFdDX2FaSEFEa1RwbWk5Tjh6ZWdmQjAxbURzQXRQSW1EQXlGQmdSbDR5ZGZiRGlLZDF1TVc2cFlNTmJKc3ZOT3oydXNvaFZUejR3czl6Q2dTTnY4dGc?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 18:13:56 GMT",
+      "description": "HPV vaccine prevents cervical cancer before it starts UW Medicine | Newsroom",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hpv",
+      "vaccineLabel": "HPV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Following an outbreak, lawmakers push to require flu vaccine for all service members in budget bill provision - Military Times",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPUnRZWGExNDRhdmpTTFZCWTdDT002cFhxWkZBclFDY2pBMkVsMEVpRVF6WXk5WXhRWDY1NzhIMnJEN192UmRvVWttelRvV2tVTEUxRi1Dd2tOdXVydzBWVHFXQ1VMM1FjSndPaU5vV1JRWjFYVWRoSWFjb1Y3YTBMQmNCVGVPRExiUEdqQVBmbEI0TEVTTzctNmE1TGlTbjJVOHhVdlVMdXdPUkpkUjZpYVpFeTY5VkJ1dF8tak56MUNwdngxbHl5T2RNTGp1UlNUZmdobDd5d0UwME93dll6VTVHSHZ3QWFRaHE4bzNzbzdxcGNrSzJDb1BtMEdMeENwaEtz?oc=5",
       "pubDate": "Wed, 01 Jul 2026 16:41:35 GMT",
@@ -877,32 +926,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Cases of Rare but Dangerous Powassan Tick Virus Rising in US - Vaccine Advisor",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN1EtRy1UMVk3bzkwZEZwaGV1UjItclVRckFnZlR0Q1N0QVpaLTRuMkRPckw3dU9kdFM4MjNwVEdPUGpycVZDcGpYbXdYaHVsemc5VFF0aGpSWWZOamcyUm1jZ1dSS3RpV0RfeHMxMTJ6MjBjV2lCc2JiclcyQ0cyMDU5cHNma2hKRDAzaFFmaGVHOTFWOXM3WkZFdmJ1dw?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 04:00:00 GMT",
-      "description": "Cases of Rare but Dangerous Powassan Tick Virus Rising in US Vaccine Advisor",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "RFK Jr Changes Terms for US Vaccine Committee as Email Leak Reveals Sustained Political Interference in Vaccine Policy - Health Policy Watch",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaEtKRlY2Zm1sRC1vNXNkS2dibE9vREd0ZFRuQWdIYno4X2lUMnJxcVNtVHh2MWxlTldmM19JVzV5ZjdYTVNjbnZCUGlzckFvOVFwcm84WloyM1VlN2VtcjhYZFY1U1FnbGVPUlhRSG9SSWpGNlFtYnRCMjhnYTdWdw?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 19:46:32 GMT",
-      "description": "RFK Jr Changes Terms for US Vaccine Committee as Email Leak Reveals Sustained Political Interference in Vaccine Policy Health Policy Watch",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Frequent AI chatbot users more likely to believe anti-vaccine myths, poll finds - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcG1RYzhsWFo0R0lmQld6SXF2Q3l3WmdnX2VwU2x1Q2g2RHp1dXNQWmFRTktPNGpCdVVTc25uRlI2SjA3WXVPNlVMMDVSQjFMU0V1Q3ZPeXdQUktCYm1QNldZcjRyMjdpZHFib1MweVN2a1FYNnVuZmhHRGl5UjhBOVZhZG1tVTNhYTdBZWRhNURkaDA?oc=5",
       "pubDate": "Tue, 30 Jun 2026 19:25:00 GMT",
@@ -912,19 +935,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Vaccine double-header: Same-day flu, COVID shots shown to be safe - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUWttYVhOLXE0aEkxMWN4WjhhN3BON2tHUmY1NzY5S0NtUG9fanc3YkNScmtDY0NLRDFzODZWN3V2LUdlZjlLV3pSaDM5Z1I5SzFSTkNYX0NSbGV5SlRxYmk0VGNKZU9iSHlZNEVaWnZsN3VQWUhPQkRZdmFncHB1a2t1QWhtTnQ0SHcwblFwM1lwMTByODBabEpVejFKT0ptaEZJMXVOdmpGZw?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 19:16:00 GMT",
-      "description": "Vaccine double-header: Same-day flu, COVID shots shown to be safe CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
