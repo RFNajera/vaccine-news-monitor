@@ -1,31 +1,26 @@
 {
-  "updatedAt": "2026-07-06T02:11:35.135Z",
-  "itemCount": 75,
+  "updatedAt": "2026-07-06T03:39:37.850Z",
+  "itemCount": 95,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 8
+      "count": 9
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 5
-    },
-    {
-      "key": "rsv",
-      "label": "RSV",
-      "count": 1
+      "count": 6
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 9
+      "count": 10
     },
     {
       "key": "hpv",
       "label": "HPV",
-      "count": 1
+      "count": 4
     },
     {
       "key": "pertussis",
@@ -38,11 +33,6 @@
       "count": 1
     },
     {
-      "key": "meningococcal",
-      "label": "Meningococcal",
-      "count": 1
-    },
-    {
       "key": "shingles",
       "label": "Shingles",
       "count": 3
@@ -50,15 +40,54 @@
     {
       "key": "malaria",
       "label": "Malaria",
-      "count": 1
+      "count": 2
     },
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 43
+      "count": 58
     }
   ],
   "items": [
+    {
+      "title": "DeKalb Clinic Offers Extended Hours For School Immunizations - The UC Now",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2lRVGNTUzVSc3Z2cXVnd2lzTHZfWHZBSG5TaDNVWXEzWmZvTmhyaHdXZ3REcDJuRXp6STVJZUxFRm41T1JQMzRudjZwaTczRC1ZYUtUUE5nOXJqM1lpbXcxRlBjSUdoSENyRXh2LTBiUl9BNGhxNlU4OW9VQUg2QmpvbTZmbi00ZjRWOUdtUDlzS2F2Rms1Rw?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 03:34:52 GMT",
+      "description": "DeKalb Clinic Offers Extended Hours For School Immunizations The UC Now",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Does HPV vaccine affect fertility? Can herbs cure cancer? The myths and misinformation killing patients - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZ3o4Ynh6b3dnZXBET0NtWVdlcVlydk43Tm40YThGUzNXS1kza1NWX1FmMzMzRGwtYV9DYVNhNkhvYUhXR0paNkNoOEt2VC10MjVweWlFTXd5Z3BldGRxLThfVEJRWDVETXJMZGlZNEstU3lGQVgzNHdER2pfTkhkZDJ2S0Z6d0drQUVsNXdiRF9mNFlNVEgxRG9sOGYtOEZMZllEYkFxaS1sWFg1M3lxNTJ5VXUyLXVvZ25yc1JleS1NLVRxX084MVVlSEU3ZnNNRVcwSzFkUDdndmh5?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 03:01:26 GMT",
+      "description": "Does HPV vaccine affect fertility? Can herbs cure cancer? The myths and misinformation killing patients Daily Nation",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hpv",
+      "vaccineLabel": "HPV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Scientists find the “Achilles’ heel” of deadly gut bacteria - ScienceDaily",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxVFJrSkJmckE3LUxyRVRYUERueXo0WHBTQ2dpUjZfWWs1ZmVsX2RSeU9JSGpzX25rRUJET05CRXdPd2ZDUXdPdWlkVUhxV0FQY3lZbnJwcVJ6VWZyY1BqZExlT1VaSjU0aGxobUdR?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 02:18:42 GMT",
+      "description": "Scientists find the “Achilles’ heel” of deadly gut bacteria ScienceDaily",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Declining vaccination rates behind whooping cough spike across WA's south - ABC News & Headlines – Australian Broadcasting Corporation",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN0ZhTWxMVzhKZXlIU3J6aXZIbjJwM2o2em9ZcmI4N3JwaGpYR2x5YjZkU1Bvb2h0Z3l4NnlONVBIUk1vZHJ3YmxSSG92NHBoaDBoS293dXBFYzc3SlZNY0FSNFh3NHhwbEhLUFZpWmNEcllDUEZTb0d2QW55TzF5dy1JSFhzZTFOY25DOXV3NUdoZlZPZWtzbVpvNTRNSzZFSTU4SG52aF9hN0c4RDR2dQ?oc=5",
@@ -69,6 +98,19 @@
       "sourceLabel": "News",
       "vaccineKey": "pertussis",
       "vaccineLabel": "Whooping cough / Tdap",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Bird flu vaccination gains ground worldwide, WEO meeting hears - The Poultry Site",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeTZVRktaZEozQlVtU0xDOXdESktlZHdTQnFZdW5RaXJ5S1p6OUdoS1RrTlpWMTRCWkdmUE0xamRzZVZFTkQ2aXo3bXhqTExtazJFeFpzejNOR25KM0RheER5X2x6b2g5YzR0aHB0TzczeU02SFUwNlpKVFF5MW9MaGd2YjBrRUN0VFhEYzh0RkVLWVhwZFpmeDhoSjhxTFpnU0RHY2tuaWE?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 23:00:00 GMT",
+      "description": "Bird flu vaccination gains ground worldwide, WEO meeting hears The Poultry Site",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -216,6 +258,19 @@
       "articleLabel": "Opinion"
     },
     {
+      "title": "Nearly 60% of Hong Kong parents mistake deadly disease for a cold, survey finds - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUWx0SnYtUTVGZFlucE9qQlVxeHBpRnNXdElWODd4MnlTWHJUeWZLRklvdDFmbVJPTEFSbzlFNktwTWJ6bldIejVzSmtSS3RqVjktUXptb3I1LXJtSEVDUGxpMWdONzVGVV9yenlOYV9adVNNN3FQMWpSTEhzNklMWU9Ta3BNVjBib3Bsc0swNXp1cFowWDZHSGRadEpoNWI5ZGFOTGpvNURPNmFwdVV0VmlpT25nSXRlUEpBVDdBWG5iamhIQlJlaDNvMUVDR1JoQ2VEaHl30gHWAUFVX3lxTFBEU2ZoUF8zNmZZcDZTTl8waGJ5aUl1UEtQOVNrdXNRcUFpZTZ6VGNoQWhIaXJvYU1wS0dHUFpYU3p5YlYzdzlqajYwWGliZ3NwNnNNNFlHV2x5Mm9jcjlNX3dHR0RETThqZldwUWRacThOalZXMGRFSWowTnJyU1ZSaXV2aXJSUVVQekdfeE91TWQ5SDBSdDFLaGFsXzF2V0hzUktyUWw5S0VqalZIZkVSckNNUWFjYkZnSGNzYk5NREFIUnFhTGR6Wm5LQnJiYzNMNzVFZEE?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 08:47:15 GMT",
+      "description": "Nearly 60% of Hong Kong parents mistake deadly disease for a cold, survey finds South China Morning Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Tackling Drug-Resistant Tuberculosis: Johns Hopkins' New Nasal Vaccine Boosts Effect Of Standard Antibiotics - NDTV",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPa1dRajhXeW04UTFiRHVTR1RHYXVRQ0txeFNTZGUxUEFpbFI0OWVzcHJrS0xDUXNsZThlNGg3dnJXekJUbHpfRnFBbHJLUmh6Mm56UVJOUS0yU1hPeDIwNUN1OENzNFpJQ1FFc25yNjhVQ3F6RG5uNERUYW9jVnNyT2xkUVZVNXhKYmNaTjY2cEtpQlNRaGhKNlVwUmpvT0thRWhhNncyMG9KM28tR0tlMGdmUVQtY1lWdVM1a3gyWlZGUlpDNVUwUjdFXzkzOW4yeWNob05taHJvc0XSAeMBQVVfeXFMT2NwM2JrOGdEMmZlNWJWMWRKMWVveXlHX2NmZHY3QVQ4MHZvVTRqdjE2VDN6enZhU1NmaXB6dDliOXNsRV95T3QwTjN5MW44eXNiaGFtYnFNaWZqQ1doTVZ0WlV2ZU95VWZyZ29iQlBTbndEdXJla3YwcFZudU1uNGZpZnZ1YkJZOEw4a1NYZ2wtRThELUlPR1ZIWlVGYTY5WU9wRk52ejA4VVN3dFZtdmdJS3V4RXFKZFlOVGcyVFJmNnF2eXN6TnlZU3d3NGpEVDNySUE2UnUzekVlVTBEUjJQVTg?oc=5",
       "pubDate": "Sun, 05 Jul 2026 08:30:25 GMT",
@@ -251,6 +306,19 @@
       "sourceLabel": "News",
       "vaccineKey": "pertussis",
       "vaccineLabel": "Whooping cough / Tdap",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "OHSU researchers find ‘holy grail’ for universal malaria vaccine - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX3FtQ0xaeVJocHZSeG5OeTlOem84Mkc4N0htZ2pQeFVSOGY3eGJqMG5ZQTFCVU9MYTZzWlVIMWo0TVU4amdhZXdSdmpsVFo1SU5ubV8xdmw0UFFfTWx2Z2loYktod21iTEJ6MmdDa2k4UzJLeGZ3dzRoN0FJVEVDblJBbmc5MEJWbThnSHZZcVJmY0pNQ2ZWWVhOQkw?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 15:00:00 GMT",
+      "description": "OHSU researchers find ‘holy grail’ for universal malaria vaccine Yahoo",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "malaria",
+      "vaccineLabel": "Malaria",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -307,6 +375,19 @@
       "articleLabel": "Research"
     },
     {
+      "title": "Moderna's Flu Vaccine Surge: A Chasm Between Market Hype and Wall Street's Skepticism - Kavout | AI",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUmVUMjBRUjNJSTdXcWV2WkVNVkMwcnhjQXJHNW1fQ1c1U25oUG9rY1lCcTFBM01Sa3hRcVpmVTFYUWpLLXo3NDduVUJHSDA0Q193emhuSV9PV1BaM0NEVUtGOEZmUk5fSEpsUWpIQ0J2ZU1fQ3JrWFRBOXJVRGpWYWhsb194NDU4dHhzMDJDOU0tem1HdmJ2d0s5QUpzREJMeVlad2JLaEYwOEUzT0NhTWdYTWdGNGJ4Unow?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 19:01:28 GMT",
+      "description": "Moderna's Flu Vaccine Surge: A Chasm Between Market Hype and Wall Street's Skepticism Kavout | AI",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Moderna Stock (MRNA) Opinions on mRNA Flu Vaccine Approval and Stock Surge - Quiver Quantitative",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTTFqTm9mbENvX1RoQi1EYjZwOFZlb3pYT1hpTE9rbjVJX2p6azBRc1lfRE5GN3FFNmsyRlNSc3dMd2otdUUwOFhoVm00NDd0bWdiamJBRUpwSVZFQW8xcGRVYk1JQlBQT1N6eWdRRFlZTWJxTjB3UXU5LXJYcVZOYnRmUVJqS0FfQ3JNQWYyZmx5SHZ5alByQ2F1UXVjVWVaOGNTZjBmNWRpUDdHX21DZg?oc=5",
       "pubDate": "Fri, 03 Jul 2026 17:56:00 GMT",
@@ -346,10 +427,62 @@
       "articleLabel": "News"
     },
     {
+      "title": "Continental Immunization Strategy (CIS) 2026 – 2030 Strengthening immunization to advance resilient primary health care and health systems - ReliefWeb",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSENtbENLY2tCT1ZfUHdFMFpMTUJXc0Z2SEROeHE5dnpVTkZlU0dMQ2hDNXdid080QVZmMVpZaGVvMVlCbnY0aDh2OXlBV01ITWpkNmJyYVcxb1FjNF83NU9YdHNsS0d1QnFaWFlWUzdOZ1o3dk51N2g1RHp2Slp4SU44eGZWX0xyZnBMSno4dFJ4QXZwRjR2VnQ5WmlaaWd1Y3FMMEo1U2dnc1RXbkx6STlwemppXzdBSEhBZFJvclBpckdwbVpwSUltSWpEZDByNG9jMXNERVhoUXVnXzNPRHZQT3JNZkEtMjFCZDAtcTZrT3lVenBTQTB3?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 12:36:36 GMT",
+      "description": "Continental Immunization Strategy (CIS) 2026 – 2030 Strengthening immunization to advance resilient primary health care and health systems ReliefWeb",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "What parents need to know about CDC's recommended vaccine changes - ABC30 Fresno",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPampuQzdOM1kxV0lrVjhjYXUxSkZISHQtVVNXX3p4NTFIajRLUWxpQXk4VlNMUzc4aHN0ZDJOaDVzOUJ2TUVrUF9xb0NNc0E0bWRxdHNZUjlvNUh5YzE3T0YtbnNxQmlIcWxrLWNiejF5SXNQYWN0V2xMbXFJNXBoejdpYVRQOGhSRHNoNUdCQ21JUdIBlwFBVV95cUxNQ0luUHBCNExQMnJHei1wYjRWX0VHZXdPSXQzV3hNR043QTlZUjhpVHlxM2E1YlY2Mm4tdE9OZ1BmWGpMNzlkVFFqUWV3RkU2aHdnQ3o1RFcxMlUyWjNEZ0Z2bUJiNTBxQ0M4bHRRaE5sNHhIN0FFSkY0d1hKVEtVRVc2WE1XblhqaUhncE1FVURDc2dtYTc0?oc=5",
       "pubDate": "Thu, 02 Jul 2026 23:28:19 GMT",
       "description": "What parents need to know about CDC's recommended vaccine changes ABC30 Fresno",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Payette mother arraigned on murder charges in twins' deaths; held on $2M bond - Idaho News 6",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNN2RBT2NESUJmZTVaeExDYklzcWZ5NjNJM0doRWdEanRLMVNBZ2VseG5EVjNXQ2hWdlp3TmJLWXpndFRONlBTemltenBobTNPd25xMV9UQmFRV1lsdFJRWE1rS29NcVJ0Ti1naUdYQWc0R0k2c1BYTlIzS3ZWejlWN0lWMVU1Nzk3VU5ObTh5Xy1uWVFnU2FWX0tWNVE1WmNSVFRTSXFnalhGSENrN1JnbkIxRFV6dWd0WGxLM3l2dURnREhkdEdETTFRVkJvSktSZTZkOGZYMVcxUQ?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 23:10:17 GMT",
+      "description": "Payette mother arraigned on murder charges in twins' deaths; held on $2M bond Idaho News 6",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "HLB Subsidiary Immunomic Therapeutics Announces First Patient Dosed in Phase 1 Trial of Allergy Vaccine Candidate ITI-9001 - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQYUNhSElZUW9FNXRocTRrYWZoc3M4WHEyUWp1b0VLazFySEd2VXVreUZ2M25zdWRXR0pjMDBNRTRCZ0hUSzNzQmVsVnJxTy1PNDFsLVh5Z1Fyanl3OUtfQ29QR19GWGk0YlZpVUpkd1B2QXBwU2p2UUZRRm9RYjNmUGhlNnRYbERRVlhocE1iRzhfU2pfUW90M29BVmRFam5fRkJ1ZEFiODNfNHRiMUpMTWgtcmgzQ2VtSXh0eHdPYkdlNXlKS2NhT2JPSUNtSzYtdGkyRGoyeEdjSXIxb0xITEZIOEVpWXB2Q0pmcHVzdnFjeWhiNkh5Ty1zdjNyR1Ezem51aXJhb1pXcm8?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 23:05:00 GMT",
+      "description": "HLB Subsidiary Immunomic Therapeutics Announces First Patient Dosed in Phase 1 Trial of Allergy Vaccine Candidate ITI-9001 Business Wire",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Grand jury indicts Louisiana's attorney general in fight over changes to local courts - PBS",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaklmUldJSlhKNW9Zc3dwSnhjT0JPTnlGUXJNOWFyYjh1NjlTdm5LUVo5ZE9kM292VlZMb3hXc2xhcjkzc2dsd1RjMHcyLS1DNDlNX3A2alRkZUc3S0l5alJZVWdhY2I0Y1A1VHFOUzh5Tkx2RTByWm93WENEa3oyZFFsSlNkQnQ1MXZud2ZqS05BMFd6eU1GYzF2alRjZlpXTGRVRHhnUzV3Yjg0ZnhNVXRqRUFTZDRZczhac2VDNNIBxAFBVV95cUxQX1NsR0VNdlk2aW9aQWc5bjJMZDdTZmVuVmRLRmE1enBpVFUxVHdsZEtnakoxdFlibmhGZDJDbVhoNGdRaU1CSFo2Z1o3UDNXYkdwektYWTluY1UtcVkzM2RESG1RMFVKZlVlOUI4X2EtYVR5d3l6anVKQ0Uzbm1UUWFMQXFfdlpLWFpZYmtDMmRWbEVIZEhBSXRjcmw4WENtZzhyVEFMbmlyU1hsbHNfTXp0QTBmOG8ta09mbFQ4RzF5NE9D?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 22:55:54 GMT",
+      "description": "Grand jury indicts Louisiana's attorney general in fight over changes to local courts PBS",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -398,17 +531,17 @@
       "articleLabel": "News"
     },
     {
-      "title": "Most women opt for maternal RSV vaccination, prefer it to infant immunization, international study finds - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRXJwa1ZqMWpIV3RZSW9uYzItbzNJQ2RhYkhQV3JpQ181NUFhX3JrYnA1bDJ3NFI4SzF3ZmpYdHF3RDFubXJFZXIyYmFpT0dxVHoxY3BmYjI2eGxFOU9YcU9mLTFTazNkQUZlNnRiYV8xeXBBWUNJY1k3Wk9HREZMbVo3UmxHX0dOYk41eEZZMHVMMEhUWndiQWZuTENXU1JTWHpfOEFUdGV3U0dZYjdXRVVOaEUtdHp2V3dz?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 19:44:00 GMT",
-      "description": "Most women opt for maternal RSV vaccination, prefer it to infant immunization, international study finds CIDRAP",
+      "title": "Inside Pa.’s measles outbreak: A family rides out the virus, doctors treat severely ill children - Inquirer.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcmpWUW1qalRSWXBrRjgxdUNJTkhvekVrUnhaTHFmTVNFTHJvWjNCVTVock5JS2REeTNLX1JNUHVLM2pCN0ZwZUJScFFOTF9aY1BCa0pZY2stTTZjSXZIeEQ5a29XakhZZ0c4bzQzRWlpUFZSbzIxZWIwal9sVGhaaHdCMzF5dDlUR0puVFNuZ2FzQXY4dGNpVDlVZUxlU2xoNU44RUVrc0tpbElfY05lS2xIaGtScms?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 19:35:10 GMT",
+      "description": "Inside Pa.’s measles outbreak: A family rides out the virus, doctors treat severely ill children Inquirer.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "rsv",
-      "vaccineLabel": "RSV",
-      "articleType": "research",
-      "articleLabel": "Research"
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "We can’t entirely blame COVID vaccine mandates for lower vaccination rates today. It’s not that simple - The Conversation",
@@ -433,6 +566,32 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Appeals court sides with city on Chicago police union COVID vaccine mandate case - Chicago Tribune",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUkFXd01OLVRQZUlkN2VTN04xYjRQb3ZVMWNfelNWX1RDSmZLZV9hN3pwSlVJdXE2Xzh1Y2lVOFZPWEN1RWdIcHZwYjdJNVpmcUVybWVjelE0M01KaFRoLUk3ckxXLXl6VlNLcW4wM3RKSWZqb2FGNjhFMFpkUDNuSEpiVQ?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 18:53:08 GMT",
+      "description": "Appeals court sides with city on Chicago police union COVID vaccine mandate case Chicago Tribune",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "A shot at life, Mandsaur’s model for HPV vaccination - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc1g1Q2otQnRGZ191OEdkdHo2YVJLQ1lxcDBWSk9VWGpFQzNfNjhLNXFqX1V3TDFVLVMyNU02Q3RlVDhUejBFY3lQaTRQNDNhZzJhRUxUWS14WFRnNGhZN2Q1SEJEWnZhZHVTcTMwbmVGY1NldU9XSnNNYTVQaUFJUWZObUFENmNtYnNTaWNaeVVab3dWUkxCZ3JVLW9VNTgxUEhBWTBFYVlVWlVBOUHSAbQBQVVfeXFMUEhPdllHZkZ0WjZKMVZMNHY5amxjdGY4T0swcHF2QWRJVTZOQmpqWVRQNFB0RTd4eDZLNWFOWmJ4UzhfcnZVTHVtVE52WnBRNjZlUUo2Skl6ODFYdGdfS1lrN0l1U0lpSHFPeWJ5VmJRS0o3UTlQVlZid01HX1ZDajBJZjcyQ2NpRFp2OVJCWU52UGd6RlBJaFJKNHlpQldsT0NxQ19NOXc1ZVpudjlKcjluRWJf?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 18:38:00 GMT",
+      "description": "A shot at life, Mandsaur’s model for HPV vaccination The Hindu",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hpv",
+      "vaccineLabel": "HPV",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -632,19 +791,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Meningitis vaccine required for Texas college students, pharmacist warns of deadly risk - KCBD",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUXFYMmk4WnhtOTJpZlJ6V1FyZ28xM1ZYalVKNkZ0STBPT1RuQmh2WWFNbWFFT3RPb0xhcGg2cGhJSWZXN3hBOEZBTDJWYlF5Qml3NXZ1bTg1QVBOREVjWF92aElMR2hGbjd4VkY3bHRxRWV1TGtySUZUeXhMMTJtcWdob0VIaDdpaEhzM1hCcHFXUE5PbjNjQmlBRmxtY2pxTWZBV1pqQ29YQ19hZ2ZMRzRB0gHGAUFVX3lxTE81aC0wbWZNbWdmU2dobDh4LV9fWVVuc1M2VEdqRlhaLXlteGxyVjVGcUQtVHBIWERMeXgzbjhLWUxYU0Zhdy1IbXpLQUNMMXZWY0xaTmxNNl9rVXBLYmstYUQ5S0k0S3pnY1pTYy1NVkJ2QUFDSjl1dXQ1TGpYNzU3STF0MmxUTjNfZHpGdG5hWmJpVXJmNHkxX1pxLV9xZ0F5N0tlMjRqXzJnb2d5OFA2eGw5akxoZmRQUWdDRkthaTZGQjBZQQ?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 00:59:00 GMT",
-      "description": "Meningitis vaccine required for Texas college students, pharmacist warns of deadly risk KCBD",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "meningococcal",
-      "vaccineLabel": "Meningococcal",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "SK bioscience to lead Gates Foundation-backed AI platform for vaccine development - koreabiomed.com",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12QVlfd3lTeEMyYldQOE51WXpGZHBYbERlcjNCcWtmZDI5OThnbnZhOFNBN196R2NmVVpha0FTY2xsS2tsLS1pV3p3MjJkYWdaZUtGQnhmek9DYTRYaENUVjhZZE0wRVlXb3FqdVRB?oc=5",
       "pubDate": "Thu, 02 Jul 2026 00:34:17 GMT",
@@ -662,6 +808,19 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbDhWemk3Y0prX2JsNm9VRkJiNGFGNXBBamk4VEo3OW94RnhZSmxFcGRpOU9tbFc0ZHVLbWlEamFybWN5b2JienlVbmZYMk5mMTJHMF9BeENKMGdEdDhXMnZXVEpxYm05VXR6bjZ6SS01aEV3N3RGYVFlQmNTUV9uRzk4aGVBTlFnWVBNTmRIdERsdWxLTkZsa0hR?oc=5",
       "pubDate": "Wed, 01 Jul 2026 22:07:12 GMT",
       "description": "How personal waivers impact Wisconsin's vaccination numbers PBS Wisconsin",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Air Force trainee in San Antonio, Texas, died from flu - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc0NZbWxiOF9qQk9QWlljQXpzN1YyQ210Q3AzcG81TS1ZRENmODJtQjd5YmV2Yy16SEptQXp6d1JpbzF5WXF2Y3VOVm5ZZThiV0c3TW44ZkltTHBsRlVqdEhCNjVDa2o5ZkJYSm9TTDFQODRyWTQtdWN2U0tBQmRLeEZXZzc3emVrUVI2S3dKM01iU0xL?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 21:47:00 GMT",
+      "description": "Air Force trainee in San Antonio, Texas, died from flu CIDRAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -723,6 +882,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "KFF Poll Finds AI Health Chatbot Users More Likely To Believe Vaccine Myths - RTTNews",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNDdxUXVQQXZDbGd2QmZna2UyNzBNWlhaa1FDc0IzV1poOEl0RFBDd3BYLUpsRXZybXlOUFhpNURlYW85TTFuWklXTlJQUEJDbUExX0RsRXRpWHVEQUM5MmxCbnFSZUZSVzlQWTh5TllWOWZja0JrWTJFWkxYY3ctVWtQWGZhek51djN1SEhGQU1RTnRJMTJtV2lydGhZU0NYaEtqdU9MVUFWQUV6eWJhTDVn?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 18:27:00 GMT",
+      "description": "KFF Poll Finds AI Health Chatbot Users More Likely To Believe Vaccine Myths RTTNews",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Following an outbreak, lawmakers push to require flu vaccine for all service members in budget bill provision - Military Times",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPUnRZWGExNDRhdmpTTFZCWTdDT002cFhxWkZBclFDY2pBMkVsMEVpRVF6WXk5WXhRWDY1NzhIMnJEN192UmRvVWttelRvV2tVTEUxRi1Dd2tOdXVydzBWVHFXQ1VMM1FjSndPaU5vV1JRWjFYVWRoSWFjb1Y3YTBMQmNCVGVPRExiUEdqQVBmbEI0TEVTTzctNmE1TGlTbjJVOHhVdlVMdXdPUkpkUjZpYVpFeTY5VkJ1dF8tak56MUNwdngxbHl5T2RNTGp1UlNUZmdobDd5d0UwME93dll6VTVHSHZ3QWFRaHE4bzNzbzdxcGNrSzJDb1BtMEdMeENwaEtz?oc=5",
       "pubDate": "Wed, 01 Jul 2026 16:41:35 GMT",
@@ -732,6 +904,19 @@
       "sourceLabel": "News",
       "vaccineKey": "flu",
       "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Abortion medication, HPV vaccine laws take effect Wednesday in three states - Perryville Republic Monitor",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaHFqbEVMMG1TLW5hWGZaS1EyNEFfRGFBX1FYWkxOSERDeEFIaFdjcktHMmF0WlI4dEtFSVVXQUFPX2FjVHlwS1Q3TDBEZ0hiU3BKLVphWDZkX2ZEOEhYTzE4RDcwTTg3Z0xzR1ZQTDZCeTBHbGc4eGNmaktXa3RjYUc3R0djYVkwZ3BCbjdWNTZMc3dXQzNEQWRxWDFYX3JIRU1ERWxvR3R6WWpObU5Bc3d6b01JYW51?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 16:13:00 GMT",
+      "description": "Abortion medication, HPV vaccine laws take effect Wednesday in three states Perryville Republic Monitor",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hpv",
+      "vaccineLabel": "HPV",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -831,6 +1016,32 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVG0xenZOM0Y0TXU4TmhJWlZQbTNNTVhyWEMyX3o1LUM0UTl0ZkEzQV9hN1hSd3hJNkFQQ2RwUUxwYVVWdTRyd2FUOWUzb1lIQUs1SnRick52VDdvZTlzcWlCQ29hbGJzZDVSQmNrdEN5V3U1S3V4MUFxcXd1c3BBWE9TYkVYcFdxbDdrVS1SY2g0eGVTcGR0cjIwUWZ4RmlRZXBLdDl5TnJEVG9hb3ZV?oc=5",
       "pubDate": "Wed, 01 Jul 2026 03:46:00 GMT",
       "description": "New HIV vaccine shows unprecedented success in primate studies News-Medical",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "RFK Jr. Broke Vaccine Promises, Built Public Health On 'Lies,' GOP Senator Who Helped Confirm Him Says - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcFd5cVdmVWQxRWZLbHZmT2hhNnlmS0JydnBCZXk0SEF0UTg1bDNsXzVIUFVvWU9NaWp5N1J1ZFg0VWRXV1lkWkl6cHRveFBNX29JMUUxQUE3OExCMmZtcEJuMHdGeTVHak9vWkJlakFUZi1CVWkyU1pjNG1waldweUMxTUZTRHo0U282cV9vdTBqRmc?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 03:31:00 GMT",
+      "description": "RFK Jr. Broke Vaccine Promises, Built Public Health On 'Lies,' GOP Senator Who Helped Confirm Him Says Yahoo",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Community Corner: Coastal Health District offering summer immunization and screening clinics to help families avoid the back to school rush - WSAV-TV",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPbFpzQ2ZwZFNvY0xkd05MQ29iZUw2S2prUHVKOW96MnRfNFNlcGhOb08tZXRPR0pSaFFBZjFhbjJpMWVMbUQyakJ3dmkwTzRaYmt6TTdKQnhMYWVuaVlMRzNFWU9fNlpzN1l1ZWZlWE0tLWphVDRqRDEtWXhGWHVSbllKN3oyc0Q5Y21kTXFBbXhMSEFJVmktYmpWS1V5QzN3eXFfUjB5bGlxMzM0VWFrcTc2NEJNSDg5V3ZXdW8xMnh2eUY0ZUt1WXd3TlM0YzFkOTZPeHpqcEpzaDBsY3pvak1oZVRpVnZkVm1pcFJBV0x3TEl1a2pwTERPSVZTU0FHU3NoZ3FB?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 02:26:20 GMT",
+      "description": "Community Corner: Coastal Health District offering summer immunization and screening clinics to help families avoid the back to school rush WSAV-TV",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -970,6 +1181,19 @@
       "articleLabel": "Research"
     },
     {
+      "title": "Billions of mRNA vaccine doses’ review underpins their effectiveness - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV2ZaeTF3VG5wUDlFclQ3SWZGeUZtUkIxc0tjdUI2ZFFtTkFQRTdwQXN5V1N2MGJvRnZCTWlZZ1hjTW8tNGc4dXNYTGpLYVZUUmRxclFETnVIQXBkT1Rya3BBRlEtSENGbXpzbnlTeXRWTndqRFBJNjNYd1ptUUpvLW94REJpTjhiZTh0TUV1bW1VYmt4elBpTXVTc0FmOGFjd2NKWGR5eVRBMUdiZk9F?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 14:48:53 GMT",
+      "description": "Billions of mRNA vaccine doses’ review underpins their effectiveness Euronews.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "A Vaccine for Strep A May Finally Be in Reach - Global Health NOW",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwYTFFbkhKc2VEV0RKa3ZHMnZVUWxuRUJkSDd3Y2NoWFhGbW1LNUdRdXdudUpJdC1KZzQ2c3BrMU1IYkg4N2FKZ0lXdkViSF9FR1hYZk1iZG1Nek9CRGN6V1J6M0xyXzNyT3E5RTN0WTN3cTNUU3FEbTZB?oc=5",
       "pubDate": "Tue, 30 Jun 2026 10:47:59 GMT",
@@ -983,10 +1207,36 @@
       "articleLabel": "News"
     },
     {
+      "title": "Anixa Biosciences secures Korean patent for breast cancer vaccine - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORC1qSXFYdll2aVBGRDI5UjYybTBKbHI2RjFjbnhnT3Q0bk1LVmhaTDBxWFo1RWg2TTgzR09TTjdPV094TW51bFJ5NC14QUxPNV8yVmstbVhmWEpSSFE3ejlDNTc0WXRCOG5JMnV4NzRWbzhXczZDZmpKOGk1d2VLSTl0QkFOQThaekpZTDFaZ19MQzc0WmRwWXZhV2U0b01QQnc?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 10:31:35 GMT",
+      "description": "Anixa Biosciences secures Korean patent for breast cancer vaccine Yahoo Finance",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "KFF Tracking Poll on Health Information and Trust: Update on Common Vaccine Myths - KFF",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSFNVLVhXR0FjdFkxM3BHbzltaEdyb3VTMld1V0VHeEhoR29SbERSNVpraWpWMXJMc3pPR2xjMFNNSHdHMEdRQ1hxdU53ZkFrSTZvbTE3cEVHYUV0STViMHA3R1R2ZEstaWtmRDEzUzU3RzJCcjU0bWhKZzNOUTZOdEp0X1BueE9vc1ZicE53QXVqU0hkRzVoeVZsVFBFNFFJY2M2VFlEMDdzdHRLT0ZfNS02Y2ZhS1k?oc=5",
       "pubDate": "Tue, 30 Jun 2026 09:08:40 GMT",
       "description": "KFF Tracking Poll on Health Information and Trust: Update on Common Vaccine Myths KFF",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Poll: People Without a Trusted Health Care Provider Are More Likely to Endorse Vaccine Myths, As Are Those Who Often Use Social Media or AI for Health Information - KFF",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPNDFkUy1wWEZLd1FPMGk4NnZRZUhqa3dUalZlMVZIdU5SRnFPVWgzVnZnRk9jMXpfTDViRUtDMmNjTEttOXhyTkFRdzgxQTRmT1JEeFhDMzJQTG9aR3ZmbEVBYUtycFVJRHF4S2diNkUyMkF3UG1CUTJoaFkyTDU3R3lQOGJsYk5VTnVya0NxM3dlMVdfOEVDMmpFQmVGZVhFUGZUdUhrek01V1lVbC1EMnBDa0xpQTRjSm92UFFmakFFS2VMbmxGMGoxb1JXWE5xcUdSOGNfbUYxUkVkX0lDck84eW1ibzRUMy0tZGhsLXZHZFhNd0FaWUhRQjZpRzJmUnBGUmxqWV9iRkQ3X1FtQmttX0NQSl9ra094YzlybkFGSkl0NTFWMnZ3Sl9iYlE?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 09:01:30 GMT",
+      "description": "Poll: People Without a Trusted Health Care Provider Are More Likely to Endorse Vaccine Myths, As Are Those Who Often Use Social Media or AI for Health Information KFF",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
