@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-06T23:46:33.967Z",
-  "itemCount": 78,
+  "updatedAt": "2026-07-07T01:06:40.243Z",
+  "itemCount": 76,
   "groups": [
     {
       "key": "covid",
@@ -10,7 +10,7 @@
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 6
+      "count": 5
     },
     {
       "key": "rsv",
@@ -20,7 +20,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 4
+      "count": 3
     },
     {
       "key": "hpv",
@@ -48,12 +48,43 @@
       "count": 1
     },
     {
+      "key": "malaria",
+      "label": "Malaria",
+      "count": 1
+    },
+    {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 50
+      "count": 49
     }
   ],
   "items": [
+    {
+      "title": "Decades-long search for vaccine against common intestinal illness reaches milestone - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HQkRjRU5FWWpnNDNwYlRieXJ6ajZwQ3hydUdJN29ybmMyaEhhZmtfTnhhVEpmMlVVVlBsUThscFNjb2xHMHNPTzJJX1RIMGxIN3FFVy13?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 23:55:08 GMT",
+      "description": "Decades-long search for vaccine against common intestinal illness reaches milestone Fox News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Immunomic Therapeutics Doses First Patient in Phase 1 Trial of saRNA Allergy Vaccine in Japan - BioPharma APAC",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd3kxcUN2VEV2anUxRVpDclBXSWVqdmUtMGJQOS13UVpsY0lnSnNkQVpmZ2VrejVmNUNrR09aTFBiTl9saGMzQUs1Mk01clRsSjZILU9HUV9QTkRKVFlSUGE0WjJrUXhScTNyT1ExQWVYNktmdlg4UURyNXFPNDB2Y0JHRy1yblpuN0pRcHRpXzByZk5CZHJEMDRmeDRMeDUwRUZyb0RDOTNzaXhvcUtsVmVZRWpEMTlqelVEUW1YWDl5SUJVTlFzSERIak10M0VZY3hv?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 23:37:30 GMT",
+      "description": "Immunomic Therapeutics Doses First Patient in Phase 1 Trial of saRNA Allergy Vaccine in Japan BioPharma APAC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
     {
       "title": "An Idaho mother who said her toddler twins died after vaccinations has been charged with murder - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaHpva1QyZ3BpTV81OHcxUnFCaHRoRmt5cE1ONk55b2xabmduZFZ0R2N0cERBcHI2aWY4ZTJPXy1iUTJLeHVWeUM3bGt6N0JtZFp1QURYWTlKWXFGamlHdDFuakFzQy03UVlacVgwZTVFSF82NG5YYVB0SElPR0NnRlpHOUs1X2JyUWFKOXUzeG1rNGVybWh0V0ZGNnRyODFQZE1DSlVxcU3SAa4BQVVfeXFMUGx4ZVJrREtRMXBiNXVOS3BiZ00zNnBqdy0tRjU1RmgyWG5jVGR0Ui1weXUyM1J0ci1uVU9LdFlBQmU4V1hmQ0VuSHNiS29CSllYM2d0cWhvSktjYVZQbjkzaEtOR2M4UVh1UjVFc184eXVTd1FIa3d2R2k4OUxUc285eklVWk5qVHNHd0sxOWE3X2NpTnJHNzRVQXl5b0tOc2I5Vk9Dc2dOQzQ1aG53?oc=5",
@@ -261,6 +292,19 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
+    },
+    {
+      "title": "The smartest school supply: immunizations - Sterling Journal-Advocate",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdVNKU3V3X1RobkRpNFF6aEtvZnF3UGtZNFFSX2ppZnZiOXVCSy1Gc09uNUF6d29ReXZDUk9fZXJxM0J6U3pmZEVDNTVNQ3ZlMzJvMnY3R3RXUmhvWGgzSGJodlY2SG5GV2FoOTV1dmZLS0xCbmltZ2NKVXVRdXFqdElTbzRKam5MT3Y1MWln?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 18:04:39 GMT",
+      "description": "The smartest school supply: immunizations Sterling Journal-Advocate",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
     },
     {
       "title": "AI, social media among factors contributing to persistence of vaccine rumors - BenefitsPRO",
@@ -627,19 +671,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Would hunters take a Lyme disease vaccine? We asked - The Daily Gazette",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTWY3NVVNZzZqa2hydDlGMU1rN3NfcHhyWlpaRUEwaDAzQjRCMTZ4WjlCOUp0bmVGMVhKRFBuTk9yaTMxNzJtR2RhRXd3WFVNRlI1ak1MRm1QZ3ZYQzYwWVE4bmpWTlhEZVRUVEdxazhoZDJOMXVYaUg4QldiaDd2Qkl4UW1TdlVlQmxjaXVqa2VoYVFxYVJyMkl3aG0tYi1SdngxU211RWpPVFhOOE5mRlQwNE5qSVN0eFp2b04teHF3Y242QnNibVZDRWcwcXUtTnJZ?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 08:00:00 GMT",
-      "description": "Would hunters take a Lyme disease vaccine? We asked The Daily Gazette",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Denmark Considers Mass Avian Influenza Vaccination for Turkeys - PoultryMed",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2cXA5MUZMd2ZMdGlaN0VXaHpkS0dpSFkxaEhiV25PdGxkdkhxVEYzZXAzc2QxNGJXZEpMUzhlR3ZCcHpYX1RIRF9CeDJ6elNaUlN4UlJfRUI0dmM?oc=5",
       "pubDate": "Mon, 06 Jul 2026 06:09:08 GMT",
@@ -692,32 +723,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "DeKalb Clinic Offers Extended Hours For School Immunizations - The UC Now",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2lRVGNTUzVSc3Z2cXVnd2lzTHZfWHZBSG5TaDNVWXEzWmZvTmhyaHdXZ3REcDJuRXp6STVJZUxFRm41T1JQMzRudjZwaTczRC1ZYUtUUE5nOXJqM1lpbXcxRlBjSUdoSENyRXh2LTBiUl9BNGhxNlU4OW9VQUg2QmpvbTZmbi00ZjRWOUdtUDlzS2F2Rms1Rw?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 03:34:52 GMT",
-      "description": "DeKalb Clinic Offers Extended Hours For School Immunizations The UC Now",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Marshall County Health Department to host Back-To-School Immunization Clinics this month - giant.fm",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMFNQV3Fsd3JVRV93bThjaUlMVzh4YllERFlobFg2cHlzSXNDY3hOWEhNcmswNFdfZ0Z3OGhsYTJINkxVM240RzRqWkthTi13ejlVNDJLYld1dk9tUXU5MHFoYWQ1emJnUFZGTHd3WFlDNFV2VjZKSTBPVVo5Sm45cVBJcm9KN3NfUW1BUmlGb3RqVDJkM0M4NXp6U19wSHhHLVdxNF9Da3A1ZmNsaUpmcUp4elI0MDg1ODk2aVd4NUpveWFmRW9TZ0xzMWNrOUNRQmZUdGRsc09HQQ?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 02:49:53 GMT",
-      "description": "Marshall County Health Department to host Back-To-School Immunization Clinics this month giant.fm",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Scientists find the “Achilles’ heel” of deadly gut bacteria - ScienceDaily",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SZ0RyMWVac09yWjFIbHRWUmxTR0dBdlRGbURQaTNLeUE2Y19vM0xvQko2SXpldXM2alpxZTZvNUNjb0FlLU53MmYzVnZoNjRrbm1PNTNLUkFGM1dKMnZhVXVkV1doTFdGTXRkVkJpaw?oc=5",
       "pubDate": "Mon, 06 Jul 2026 02:18:42 GMT",
@@ -748,19 +753,6 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcE5QVGI3Q0EtUVMtTFVfUEx6UVMyZ2FwYXh5OHBXMDlVRk5yQW5zUlRIVW5oZnFraDJhUVcxRnpKRFBBbWNGUDlYd21uWHAyejNfS0tWRTJJN2J3V1o3eW5rdjRuWGswOHFkRi1FS1o4dDFGVTFmbFlZRTVvd21ocThxYw?oc=5",
       "pubDate": "Sun, 05 Jul 2026 19:31:55 GMT",
       "description": "Western Australia expands diphtheria outbreak vaccination program as cases stand at 170 Outbreak News Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "SK Bioscience to Lead Gates Foundation-Backed AI Platform for Vaccine Clinical Development - BioPharma APAC",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZjRmYy1RRkdBTDJnSl9nME1PLVdUQnl4T2ZEWUxQVE82b3RGRHVxVEwwMFc3My1OY01yOTA3TklwMFYtTHVGanVPWGRCSktXYnJPM25lRXluUGJEY1hOYzhCd2RjcnRWZnhXYmdMTDJsMWNpUDBlS1g4UHhSajU3eUhlRU9teW0yOEgyLXZmamdpMWhtVjZabjVSUk9uR1AzX0pWaU1GYTV2V251bjVONk1xNXJ4aktBSmRGS1RJbW92aVUzZFZGeDQ5c3N6Q0U?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 18:32:11 GMT",
-      "description": "SK Bioscience to Lead Gates Foundation-Backed AI Platform for Vaccine Clinical Development BioPharma APAC",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -844,6 +836,19 @@
       "sourceLabel": "News",
       "vaccineKey": "pertussis",
       "vaccineLabel": "Whooping cough / Tdap",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "OHSU researchers find ‘holy grail’ for universal malaria vaccine - KOIN.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdWtmRmk0bFBRbGlCUXlBZlB3aTU4bTVuWms2UVd3ak8tUEtYdk8takZmcjAyelhoem8tU3pQRHBRQk1va1JaakxmZnEtVXhycm8xWC1FWWRscktRNmdmc0V1SmFOWkREZjdrYy16VVI1TjJiOVJkOGhzNGJuLUJKZWJwYXZUU1FjaThIVFhvbElJM3d5aW9BS1NpdU7SAaIBQVVfeXFMTVlsOURDVmRfT2J5anNaeVpvbnZoWWMyMFJBREJwT3pXS1c0M1R3blp6ZGVuY0dhc3Z0SVRnZjFsS04zSDZHMTU4b3ZXNFVkbXZ6SmxudG80cmg4WVFYUEhrRUp2SndNWGtES2JvejJuQWxWQTdrMUdBTFgyTjNuUlBhMk43OThQQjc3emJ1Y3JCNExacHF2dFh3NDRnUy1BQ05n?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 15:00:00 GMT",
+      "description": "OHSU researchers find ‘holy grail’ for universal malaria vaccine KOIN.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "malaria",
+      "vaccineLabel": "Malaria",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -952,45 +957,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Measles vaccination rates climb slightly for some Texas children - KVUE",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdHQtaUxVdXNmTjV5Nkxpclp4c29yeGFnSl84SklQR0RGTjRfQ09lM0xMckQzYmNPZmtmZFZRYk5xVXhjcVNJTjBhT29mX003Yzc2aW5FLVl1ZDBFSkpjc1NYSlR6dUMzdDUxc0REejZQa2NjcDk1OHh5SjJVNE85c0Fyb0JOWmI4eHY0cUdwcXQ4NGFsRFVEYzQ0dzlJWnVpWUptdEJvbUxOWmNvT3VoVkhMcw?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 18:35:00 GMT",
-      "description": "Measles vaccination rates climb slightly for some Texas children KVUE",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Trump’s Newly Disclosed Moderna Trades Preceded FDA Advisory Panel’s Unanimous Backing of mRNA Flu Vaccine - Quiver Quantitative",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOTJvQzhSb1dILWR5a2t1bi1VU0l3STZxU2gzTVltbmJNa3JhaDBodUpaaW9haXZid2xGal9jdUlrLXp3ZEhEWGtBcHFEUEZTT0JBRGhLNFVwU1VydG4tMGt3UmJlemF0UTFkckdNMDJSUVpXR3haSXdtZGNMWVRxTHFFUm1rQVdpTU0tUFF0dXhzTmplUDhtcVhzWS1NcWduTE4tYjVMTEhZTi12Z0pSS0FtYVdkNlBrcnQyd3Q0R1NxRFdPemo1QUt2UTdZU250UVQtMHV3cnpfcXo0WjJZaFlRQ01IdkxFNEk4?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 16:58:00 GMT",
-      "description": "Trump’s Newly Disclosed Moderna Trades Preceded FDA Advisory Panel’s Unanimous Backing of mRNA Flu Vaccine Quiver Quantitative",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Africa’s vaccine sovereignty goal is set for its biggest hurdle - Semafor",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbFBzMHBOaFI5d2tzU0JqcElIREdEalNZSHU2eW0ydjZhblpEYWRsbmRFdkR2NnVxNWI5Yzh3bldDdG1vYXBCWmJwOXA2VzlMeXFuNTFiRUZYRWtUTDNib2dXUnhBRDg1WjZCQk1hNkoyY1lrdnBWNlJkWk1YVDQwY3o4a2pvT0xpOEd4MWcxNmFvZzJ3QXYwclUwTGRYeWM?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 14:46:00 GMT",
-      "description": "Africa’s vaccine sovereignty goal is set for its biggest hurdle Semafor",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Vaccination rates in Texas schools have been dropping. Look up the latest vaccination rates in your district. - The Texas Tribune",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeWhxc296NDFWUWROT1B0N0JyRG1Nbl9RRzF2RENxWWY5S1Qyamh2RG1JNTRtb2w4Mlc4YnJZM0tqR2pLdVRUV1N0OTVpQ1JkZGhlTG15NUFuUkpsV2gtR29tdGRHX1B0R3dXWHh1UjZFMXNycVdTWGtGUzVqN0dvSkpDMEtkamUtdGctWGRB?oc=5",
       "pubDate": "Thu, 02 Jul 2026 10:00:00 GMT",
@@ -1060,6 +1026,19 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzcDlFY0E3MFdhQmZETTZXa2hSdmxmc2x5TC1XVXNhM2xqUmk2V0Vmd09sOUlSc3Y1bjJCQVlrVWZDSF8zc0lXOXRTM0JNaHV5YlVBcnNDdkZEdE5DQUhYVGNwV3FubzVDWThzLUZqcldYMGNOTkE?oc=5",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
       "description": "Current CDC Vaccine Price List | VFC Program Centers for Disease Control and Prevention | CDC (.gov)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "KFF Tracking Poll on Health Information and Trust: Update on Common Vaccine Myths - KFF",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSFNVLVhXR0FjdFkxM3BHbzltaEdyb3VTMld1V0VHeEhoR29SbERSNVpraWpWMXJMc3pPR2xjMFNNSHdHMEdRQ1hxdU53ZkFrSTZvbTE3cEVHYUV0STViMHA3R1R2ZEstaWtmRDEzUzU3RzJCcjU0bWhKZzNOUTZOdEp0X1BueE9vc1ZicE53QXVqU0hkRzVoeVZsVFBFNFFJY2M2VFlEMDdzdHRLT0ZfNS02Y2ZhS1k?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 09:08:40 GMT",
+      "description": "KFF Tracking Poll on Health Information and Trust: Update on Common Vaccine Myths KFF",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
