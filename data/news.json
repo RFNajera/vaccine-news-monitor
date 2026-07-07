@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-07T05:49:45.848Z",
-  "itemCount": 77,
+  "updatedAt": "2026-07-07T07:39:39.996Z",
+  "itemCount": 78,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 7
+      "count": 6
     },
     {
       "key": "flu",
@@ -20,7 +20,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 5
+      "count": 6
     },
     {
       "key": "pertussis",
@@ -38,17 +38,51 @@
       "count": 1
     },
     {
-      "key": "malaria",
-      "label": "Malaria",
-      "count": 1
-    },
-    {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 52
+      "count": 54
     }
   ],
   "items": [
+    {
+      "title": "Why is there a wide gap in measles vaccination? - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSUxBQ0RNNzJRVTBiWk1za0pQV0o3bnhJY3RJR2tjMnZTWjZWOEJSdFd5YU5xd2x1SUJpZlRRZE9HTDgyUDVJZ1FKU3Joc29CLUFTM3o4SHNFMmZybXZTQzRVaFVlTzRlVkd4UzM2MXBvRTg2d3ZMSm1XT0c3d2JJc0RJV28tM2J3cE9IbFlaZDNxckZLVHVOcTcwNnVqaTQ?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 07:18:30 GMT",
+      "description": "Why is there a wide gap in measles vaccination? The Daily Star",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Which vaccines do Illinois students need? A breakdown by grade - Peoria Journal Star",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOckVmZzRyczNmZENFUWZ4Si1MQnpUdF9BUzJhNVRJNm1fb1hHblh1d2pNTTBmWGE1ZHdpVzVkVzBJZFEwV09ELWp2TWlEbzhFZHVWYnluTU1lQ2E1Tzg3ZXVCSEtWTlVMU3p4Wm4yYVhMXzNyckVYNUxweUxkWGJRZXZVRlk0OXpXRVh2em1PYmlVMmUtMmE1OG1rM3NkeEJ0Y0JSM2lUQ04tbldUdVFweHNkWHctZU1vTldtbmNFeDYtTVJqSW5sOTZnem14UHNscmFoREMxSzR6UzVjMTB3?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 07:08:00 GMT",
+      "description": "Which vaccines do Illinois students need? A breakdown by grade Peoria Journal Star",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "After the Rush: APAC's mRNA and Vaccine Capacity Hangover - BioPharma APAC",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTmtsUEV0X2hFMEFaV1Rqa1NpZ3NtUzEyZWE4cFN3QVl5SnFsLVlQb2IzeUZQWG5QVmdjdUxYOVFpMUFJNHJxeHJuYjR6VUcyRGkxN2F3cTRFS3VlVUxqdEtQc1U1VDU0X1dRejZUMVJLNGtPYi1iTWxQek5nTVZhNW82SDJpRkh5VEgyWENpRU9wdlFVQkJBdzFuN1dwU1Z5amtocGln?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 05:58:25 GMT",
+      "description": "After the Rush: APAC's mRNA and Vaccine Capacity Hangover BioPharma APAC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Ebola vaccine made in UK now ready for trials - BBC",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0weGIzYUstVzBnYmd3MDF5STYyZEx2V2lRa1Z5V0Q3WnA5Z0Rac1hCeXVfQTdFSWdLV1JRT25hRVpVSGVkbTN2TWdSd0dURy00eTNhdy1GOA?oc=5",
@@ -59,6 +93,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Texas sees slight rise in kindergarten vaccination rates one year after historic measles outbreak - kiiitv.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQUXVxN0pNcnZfZ0dRbXh2WmxOUDUtNnFmLTUyZ0xmUXViLUpTMlFqYUwzN0FoeGFYQTV0Qy02cXh3c0xsWXU0WVljeEluMlA3Ymx0MF9GdW5aU0VNRlgwdHZoR2RqZks4YzltaHNrZG80VE1oV3FCTFZiX2Vvd0ZxdzVrNzZWTW5FUDlicE1FVnRwZHRJOGt5am9RRXBfLWdJTzJUWkpQVVJ6a3B2clcwRjVyd1RxbGt3VTZFN21PTDZNWHNRWE1Uc0JYQjM1N2p4NEI1WUx0dTRzNWhiU1hXMFg4eXhGTFh5dEItWk5UcTZuUVJQVDBWYXRtY1ByeV80S2tRZnVFTkg?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 04:24:00 GMT",
+      "description": "Texas sees slight rise in kindergarten vaccination rates one year after historic measles outbreak kiiitv.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -85,19 +132,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Texas sees slight rise in kindergarten vaccination rates one year after historic measles outbreak - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ201TXI3VFU1N0FsY0wwSF9EelpDcnBKNjFRZjZpNi0yYmRoWnByYTJQYm9CQmZiR2RvMG9hRXppZS10MVM2ckRFdmtWalpZTjY5TlIzdTJjWjY1OGNVUGQ4M2p2VnI2OWtwSXdKaVMtZlVEdFdKalNOWHZlLXNpdGw2VFBLLVdndk90N2lZWUNkdDg?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 03:23:00 GMT",
-      "description": "Texas sees slight rise in kindergarten vaccination rates one year after historic measles outbreak Yahoo",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -427,6 +461,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "BCG vaccine linked to changes in brain immunity and Alzheimer's biomarkers - Medical News Today",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZjBMd3A2Z3hHSWRlcV8wa3d2MlhNXzRDOHY5Q0V3VWtmNWNqYXZEbEFYb3Axby02X0kxZUs1cFY3OUs1WmZVR2ZPblV2T0FNNVY4VEdNVzJQSW5nSGNtUUlPdUxka3dXVFY5MWQ2OW9JMzhESjhRaE9vT05tdVVzYjhrOHpla3ZVY19QR0R3WFI2a0xMTVQtb0Z4N0FsQ2NWNTlJbW96Qzg?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 17:28:15 GMT",
+      "description": "BCG vaccine linked to changes in brain immunity and Alzheimer's biomarkers Medical News Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "False claims about mRNA vaccination via shrimp consumption resurface - AFP Fact Check",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zcEkyVWxFMHFxbEl2NFVKY3dURmtMMU8xMkRsYmc5RlJjYVgxOFozdlNNbjJoRmRGTVdma1c3aWFzd3NfZXI1YUdxdTRkaE9BYWN1N3FDUXk?oc=5",
       "pubDate": "Mon, 06 Jul 2026 17:27:56 GMT",
@@ -700,19 +747,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Survey: nearly 1 in 6 in the Netherlands regret Covid vaccination - NL Times",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRVpJaVFjOHNuZnhNaDdsRWhVQVphSUxnNGFpby13RFJBSURDdWwxdmVQS0p1bDZtSDhpQ2wtRnhUdEJ1Y1hrenI0VDJtSy1od3I0YUhXNXR0TFlvZGVoTkQ4Mk45R0ZocUVVS01MWUw4US0zelNRa3hIVVRPT19OeFBkTzQ4bzlpdWxqOA?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 11:40:00 GMT",
-      "description": "Survey: nearly 1 in 6 in the Netherlands regret Covid vaccination NL Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Hong Kong doctor issued 3,713 fraudulent Covid vaccine exemptions, court hears - South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZjVRelBNUjd5c1l1QmxBYk5vZEtNUmNTaXpvVUV1TFdIVmt4SXlQTDV1d1B2NUNMOU1UV1JxdmNkYklOWF9kOHJ1V04tQ3MtMnZGUWd5RndLOTZzTjRvQkpJRk5tNlVRc1NZODZlbmdQaDM3ZXdhSVZpOG01c0kxT0RkZTJ4M3JQempjTDJOUk0yM0RCY2pzTlJfUXF0bzVTeC1fWE56YXVGZnNoYTg0NXRYb3JXZ0V6MlRIWGFXdkl1SkRqako4Qy1jN0RJVTN2N015Q0NKb1lNT0tIZy1LSdIB4AFBVV95cUxQaGZvRTB3SUc1eDVZOGVLOFVOOWRzajhTRV9WLXMwZW5zcjZHUWk4QzhNYjJmdlhxY2NmOGpNc1UzTm95QkctaGhzRnZhWEQ5TUJPQkw0N2tNQ3l4NVBDRU1LdEdEeTNuanZDTmNEN1RCVEpuOGhMR2h6Z3dYczNUNkNFRHJJdmFBeUphZ1B6VzBqbmI4ZUxYV09aVkFNZ2JDWE5zd0QxVmc2UWwzMDZMN3VfNmYtSmh6ZmFHM2VrSHItZktSaXZnaHlBNWxocGNyMVJFdnZXTlVPVnVTTHFhTQ?oc=5",
       "pubDate": "Mon, 06 Jul 2026 10:19:11 GMT",
@@ -730,19 +764,6 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQV9NSGJPRG1GbjNhN0RGcDRxTng1Q1BPNHFpRk5rTVdBNElwUlFFSlh2OElnWU02TlQzdmlsQ2N1SHRabE92NEJHbjY2cGE0bENadlp2ck05Y0VjTTVyNlhCbWFiQ2FIaWw0aC1jWXl6TWF5THhnN2dKNjNSTXlEeUdIVQ?oc=5",
       "pubDate": "Mon, 06 Jul 2026 10:01:00 GMT",
       "description": "Vaccine clinic at Knox Elementary School this month WKVI Information Center",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Misnamed ‘medical freedom’ movement stalls in Florida as Republicans fail to advance legislation ending school vaccine mandates - Genetic Literacy Project",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOSEZpUXl0c19BUVV2TzNRTk5INE5rVFMtMEJvbGNUd2xYUk1kZV80WHdfeEdoNEtBUzY2TXNmVW9xTU02ellZaEZod1RTR2lXNHZiRFBENnh4ak1IUXloZHpaVFI2U2FrX0NaeXZkOWt1R1FrbmVzVzJ2ZFV6TF9xMWtJeXltZmJMMjhiaWRvY1hrWFN4VUhCR3RtandaYVZlZGZNVGI0Znd2UlZONlJGa0FBbmk2Mm84QTVlWDVjRFEzWTl3b1B3ZXpYSEIzazVaU1RKS05EbVROQkNodjFtNGtVSWluOGt0VW5KblVGSUtQQk1WMHExeEJ6UU5lTE8zRENHZjhMb3NaZnJPbUlKT1RfWERqMTA1ZWxBelJYNWI?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 04:05:22 GMT",
-      "description": "Misnamed ‘medical freedom’ movement stalls in Florida as Republicans fail to advance legislation ending school vaccine mandates Genetic Literacy Project",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -830,19 +851,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Baseless vaccine lawsuits threaten public health | Opinion - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeTBhRjcxc0ZQbmo3eDNCYXVacUJ0X0NyeUcxSzBaMXdUajB6SVlpTnZXNXJTNWhMOTZrdGNWYjVQR1RScUktQ1pJM05TZHFKQjY2NkR6UlctYkRpckoyZllfa3pGeDVQZWNiWWRSQ2hmeDZvN2VVMFVudm16d3lMUlVWQ2xvaE14WkNYQTJJaXhuMkxw?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 10:00:00 GMT",
-      "description": "Baseless vaccine lawsuits threaten public health | Opinion Newsweek",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "opinion",
-      "articleLabel": "Opinion"
-    },
-    {
       "title": "Would Missouri hunters take a Lyme disease vaccine? We asked them - KCUR",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOHc0ajVIaF91R1FMalVEZ0JiTVQ2bldvM3hpOFcwYnJnR1FTVUUyRU81YXVGbDhsT1QzbndjZE9DdDZZTXN3ZGl1RlVtbm5jZFdwOTB3SlBxbGF2MVgtc2h6RjBKOGtZeWVqOUNHTVZUSGk2RnZ5NC1zV3RPalVUQngtTnVtLXhvMUNBUnd6cXBJbkxBem1LdVcyeDJKTWNTaFFWNWRJd3VUTmZWcVJLZkpENHh6blE?oc=5",
       "pubDate": "Sun, 05 Jul 2026 09:00:00 GMT",
@@ -878,19 +886,6 @@
       "sourceLabel": "News",
       "vaccineKey": "pertussis",
       "vaccineLabel": "Whooping cough / Tdap",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "OHSU researchers find ‘holy grail’ for universal malaria vaccine - KOIN.com",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdWtmRmk0bFBRbGlCUXlBZlB3aTU4bTVuWms2UVd3ak8tUEtYdk8takZmcjAyelhoem8tU3pQRHBRQk1va1JaakxmZnEtVXhycm8xWC1FWWRscktRNmdmc0V1SmFOWkREZjdrYy16VVI1TjJiOVJkOGhzNGJuLUJKZWJwYXZUU1FjaThIVFhvbElJM3d5aW9BS1NpdU7SAaIBQVVfeXFMTVlsOURDVmRfT2J5anNaeVpvbnZoWWMyMFJBREJwT3pXS1c0M1R3blp6ZGVuY0dhc3Z0SVRnZjFsS04zSDZHMTU4b3ZXNFVkbXZ6SmxudG80cmg4WVFYUEhrRUp2SndNWGtES2JvejJuQWxWQTdrMUdBTFgyTjNuUlBhMk43OThQQjc3emJ1Y3JCNExacHF2dFh3NDRnUy1BQ05n?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 15:00:00 GMT",
-      "description": "OHSU researchers find ‘holy grail’ for universal malaria vaccine KOIN.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "malaria",
-      "vaccineLabel": "Malaria",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1021,6 +1016,19 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Financial innovation can deliver a Bundibugyo Ebola vaccine - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sZlBlVy10emtCWGZJa3ZiV0ZjY0QzUm1ITGZzSnU5Zk10Q3JGRFNETnBnMDZGeW9wSjNyTTlWMEVTV0dQNlVEWllDNDhmeFF4WEs3VkhneFp2c0R0MFpV?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 09:22:15 GMT",
+      "description": "Financial innovation can deliver a Bundibugyo Ebola vaccine Nature",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
