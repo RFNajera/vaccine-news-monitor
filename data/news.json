@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-07T11:24:38.436Z",
-  "itemCount": 79,
+  "updatedAt": "2026-07-07T12:19:03.221Z",
+  "itemCount": 83,
   "groups": [
     {
       "key": "covid",
@@ -10,17 +10,17 @@
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 4
+      "count": 3
     },
     {
       "key": "rsv",
       "label": "RSV",
-      "count": 3
+      "count": 4
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 9
+      "count": 10
     },
     {
       "key": "pertussis",
@@ -40,10 +40,101 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 51
+      "count": 54
     }
   ],
   "items": [
+    {
+      "title": "NHS launches new four-in-one vaccine drive to protect children against measles - Open Access Government",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbktYZ0s2NWdBaFF4U1ptbWU3cnFVUGlZRFNOZ1ZQVG1NSjZQUzVUakpMZU1oVDFlNmtOX1NPdGhyNV9RR3dxbGZqVUo4MlQtOERhR2x3dFd0emtacVlKNWYxSXF1cVdESHlFblBRQ1VuQlliZWpWMWhjcDVvUEVxQ1NYWk1kd3UwNlJjUnJRc1R0cWtEWk1QN1JOV1lXSTRlOVpiTnBPSFRLU2J0b1BDN0xfb1Y3MHZOcHZHUFl4WWM?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 12:08:06 GMT",
+      "description": "NHS launches new four-in-one vaccine drive to protect children against measles Open Access Government",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "UNM SRMC to Host Free Back-to-School Vaccine Clinic for Sandoval County - UNM HSC Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbHg1MG0wd0U1XzduU1diSFpjbXg3U1loM1kxclB5OWlKTFRsemNSbDctOGdFTGZLN0kzcEFXV0JwOHhMWXBuVTlZSXhIWDc0ekliOXVaRzJxRXpqS1VycjdkU3BoNjFKQkUyZmN3SHJhTDN5Snh2a0ZEUWkyVXR5aTNpRksybjd3elpHWE5hdGMwWTNRMm5WREZ5RTR3eXpCOGc?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 12:07:44 GMT",
+      "description": "UNM SRMC to Host Free Back-to-School Vaccine Clinic for Sandoval County UNM HSC Newsroom",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Zoetis (ZTS) Gains EU Approval for New Poulvac Vaccine - GuruFocus",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN0JId0MwX0tWZVBESEFqS1pxV29hbTI5MktrV0lSNU9DTzlfZFdsSUp5d2tncGdkRGhMeHc3RGhfbWtGRndBVlJuOHRXbkpOVFlESDVncklIbk11R25KY1Fld05DNEU4NkZId3o3ajZqclBvVVI4REdvLU93bmRJdUtmMWJmdVZYdk5NMl9rTzlId0piSlE?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 12:06:39 GMT",
+      "description": "Zoetis (ZTS) Gains EU Approval for New Poulvac Vaccine GuruFocus",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Maternal RSV Shot Largely Safe, Except for Hypertension Risk - Medscape",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZHh0TzFkb0NVNW4yOWVpa1A4UHgzMjhmNDRrWW11dHlVdXBZdmVLS0MyMmZwd1pEX0JRSkpxb3FyT25BRW9BWmtqTjlaY0tfUWRWMXZvX012SER5QXl5Nkd1TUo1a2swbjEyM2VUSVNDNWM2Y2VReWZ3eXg4azgwOW45ZmJYbGNHNXF1Y1dqdjVlNzFuQnlIVkRDTHBDLXZBMUNDc0piVjA3QkE?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 11:51:50 GMT",
+      "description": "Maternal RSV Shot Largely Safe, Except for Hypertension Risk Medscape",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "rsv",
+      "vaccineLabel": "RSV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Bavarian Nordic splits up commercial division – appoints global head of emergency vaccines - medwatch.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tV2Q1ZnVKajdsbDlsYUlMZ2d4dWJZQlRVcVpwZTdQdF9mRTh5Ym5kcXR0MTFjbjYtbTYzaVFGUzRZak51c2RpUDZWSzJoWnB3S0ZqeGJ0enlyay1Wc1ZySDM4bG9PZ2dfUWRnN3pOTQ?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 11:41:03 GMT",
+      "description": "Bavarian Nordic splits up commercial division – appoints global head of emergency vaccines medwatch.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Opinion | Why the CDC refusing to publish covid vaccine research is so worrying - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOU9DMXJJczRxeFlzNy1Oem1NMFhjMldDRW11RDUwYnZxNFVKQ3pCYlFjazJqWFhMXzJZUGExUVloXzhHa3JHZlJHcnNQSS00TWtoZHRHNXNZZ3I5dkV0bkItWGNoWDM2ZXduRnROWXAwLUZ1V282TmlSRjBhZVVWUU5aZVNaREZuaS1uZmluWkdkUW1CaW03SEMxd1ZPamc0emdlOXpsdmE4UQ?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 11:37:57 GMT",
+      "description": "Opinion | Why the CDC refusing to publish covid vaccine research is so worrying The Washington Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "opinion",
+      "articleLabel": "Opinion"
+    },
+    {
+      "title": "San Antonio area pet owners urged to vaccinate animals amid rabies season - KSAT",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR2gybjJYUFMwdVR1WDJlWHZPMjZlNjJLS1Z3OExSM1ZsUXloZUN4NUd3Sm1TSzdsc0hCZVI5T3hfTUFuN2Vzanp4U3F3d210ODNxYzJWTGtrMlpIR2Nvcm5mMzFTR3VENkFkZFNUZ25FaHpNajQtcTMyQjQxY0hNUWVMelVoMmxXUlBTMy1LNFdBNno5LW9CSDF2VGl6clZhOTEtV2RRbEJvSFRtNHJQUHI2VHJCNzR0?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 11:20:08 GMT",
+      "description": "San Antonio area pet owners urged to vaccinate animals amid rabies season KSAT",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "With measles cases rising, UK launches vaccination drive - pharmaphorum",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLXI3dFlKdldiUkdmTkdxVXpDd2xDZFdvZ2dXNDl0VmJXTHZSeU82NGJ6UWVVakdOc2Z6dkUzTUhiQ1BmM2dyUW82X3QzMkZ3aUJNb1JJTjFoV3pqNGhxcWZfdkRHeHB1ZmJoZThQd2ZpNFA3c3E0UlpRbmNMQnVyUG5WdTN1NVk?oc=5",
@@ -95,19 +186,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "Opinion | Why the CDC refusing to publish covid vaccine research is so worrying - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOU9DMXJJczRxeFlzNy1Oem1NMFhjMldDRW11RDUwYnZxNFVKQ3pCYlFjazJqWFhMXzJZUGExUVloXzhHa3JHZlJHcnNQSS00TWtoZHRHNXNZZ3I5dkV0bkItWGNoWDM2ZXduRnROWXAwLUZ1V282TmlSRjBhZVVWUU5aZVNaREZuaS1uZmluWkdkUW1CaW03SEMxd1ZPamc0emdlOXpsdmE4UQ?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 10:07:57 GMT",
-      "description": "Opinion | Why the CDC refusing to publish covid vaccine research is so worrying The Washington Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "opinion",
-      "articleLabel": "Opinion"
     },
     {
       "title": "Is the measles vaccine safe? - Understanding Animal Research",
@@ -227,19 +305,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "An Idaho mother who said her toddler twins died after vaccinations has been charged with murder - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaHpva1QyZ3BpTV81OHcxUnFCaHRoRmt5cE1ONk55b2xabmduZFZ0R2N0cERBcHI2aWY4ZTJPXy1iUTJLeHVWeUM3bGt6N0JtZFp1QURYWTlKWXFGamlHdDFuakFzQy03UVlacVgwZTVFSF82NG5YYVB0SElPR0NnRlpHOUs1X2JyUWFKOXUzeG1rNGVybWh0V0ZGNnRyODFQZE1DSlVxcU3SAa4BQVVfeXFMUGx4ZVJrREtRMXBiNXVOS3BiZ00zNnBqdy0tRjU1RmgyWG5jVGR0Ui1weXUyM1J0ci1uVU9LdFlBQmU4V1hmQ0VuSHNiS29CSllYM2d0cWhvSktjYVZQbjkzaEtOR2M4UVh1UjVFc184eXVTd1FIa3d2R2k4OUxUc285eklVWk5qVHNHd0sxOWE3X2NpTnJHNzRVQXl5b0tOc2I5Vk9Dc2dOQzQ1aG53?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 03:48:15 GMT",
-      "description": "An Idaho mother who said her toddler twins died after vaccinations has been charged with murder ABC News - Breaking News, Latest News and Videos",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Texas sees slight rise in kindergarten vaccination rates one year after historic measles outbreak - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ201TXI3VFU1N0FsY0wwSF9EelpDcnBKNjFRZjZpNi0yYmRoWnByYTJQYm9CQmZiR2RvMG9hRXppZS10MVM2ckRFdmtWalpZTjY5TlIzdTJjWjY1OGNVUGQ4M2p2VnI2OWtwSXdKaVMtZlVEdFdKalNOWHZlLXNpdGw2VFBLLVdndk90N2lZWUNkdDg?oc=5",
       "pubDate": "Tue, 07 Jul 2026 03:23:00 GMT",
@@ -316,6 +381,19 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
+    },
+    {
+      "title": "An Idaho mother who said her toddler twins died after vaccinations has been charged with murder - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaHpva1QyZ3BpTV81OHcxUnFCaHRoRmt5cE1ONk55b2xabmduZFZ0R2N0cERBcHI2aWY4ZTJPXy1iUTJLeHVWeUM3bGt6N0JtZFp1QURYWTlKWXFGamlHdDFuakFzQy03UVlacVgwZTVFSF82NG5YYVB0SElPR0NnRlpHOUs1X2JyUWFKOXUzeG1rNGVybWh0V0ZGNnRyODFQZE1DSlVxcU3SAa4BQVVfeXFMUGx4ZVJrREtRMXBiNXVOS3BiZ00zNnBqdy0tRjU1RmgyWG5jVGR0Ui1weXUyM1J0ci1uVU9LdFlBQmU4V1hmQ0VuSHNiS29CSllYM2d0cWhvSktjYVZQbjkzaEtOR2M4UVh1UjVFc184eXVTd1FIa3d2R2k4OUxUc285eklVWk5qVHNHd0sxOWE3X2NpTnJHNzRVQXl5b0tOc2I5Vk9Dc2dOQzQ1aG53?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 22:44:50 GMT",
+      "description": "An Idaho mother who said her toddler twins died after vaccinations has been charged with murder ABC News - Breaking News, Latest News and Videos",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "The Rabies Vaccine Debuted Nearly 150 Years Ago Today - Nautilus | Science",
@@ -773,19 +851,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Matica Bio and VaxDome Partner to Develop Antigen-Agnostic Antiviral-Vaccine Hybrids with Influenza as One of the Disease Models - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPZVhxZkVpNXAwc1NKOGFvYnhLbVVQYVlCd05hb0lRd29xU0pYZWlBckI0UGNVZGlNOE9UbDJIQlEzMlYzaUxWdnBFTmFiUGlOV2EyRldUQno4MzM0Ri02bXZDQXdYM05uSm0xU015UzNmODZnd3o2N1lMNzlISnpmNjNqd19nc0NZd2hpdFJpeGtnWDEyVkprWmxTVVJ0N1hLYmtIQmY3M3RHNmlPRENUU3Fjb3BrQ2Fia2IyX3E2eWVOOTU1a0loVmkxQ1dvdE5BSlkxc1BwT3Jwdnh1R0JySk1mdEtLd0lZSThrUUlRUVRqVUVfdWlzeU1YaU5aaDljcE1IeV9CS3JSUnJRLVZvM0V3?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 12:00:00 GMT",
-      "description": "Matica Bio and VaxDome Partner to Develop Antigen-Agnostic Antiviral-Vaccine Hybrids with Influenza as One of the Disease Models PR Newswire",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "BCG vaccine may remodel the human brain's immune environment - News-Medical",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnNYRVdaZWkzc0xZY1gxMXZZM3R1TENFWUFWV2V1Q3hyZWtwdWRxZnJaZUQ4ZWh5ZnA1SmpBcUFUNk1MRFhCNnZQWWFTWThkRzI1UlYxamVLU0czNWdsVnIwcTViSkNWLW1DbmV3dHo1RHFGanZ6OEdwazdQRWhrbWgwM0lEa0ZtTzJLQTNxRFBrNjl1TXk3SGY4a0V6SWs4OVlUanl4Ty05bWc?oc=5",
       "pubDate": "Mon, 06 Jul 2026 11:47:00 GMT",
@@ -842,19 +907,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeTZVRktaZEozQlVtU0xDOXdESktlZHdTQnFZdW5RaXJ5S1p6OUdoS1RrTlpWMTRCWkdmUE0xamRzZVZFTkQ2aXo3bXhqTExtazJFeFpzejNOR25KM0RheER5X2x6b2g5YzR0aHB0TzczeU02SFUwNlpKVFF5MW9MaGd2YjBrRUN0VFhEYzh0RkVLWVhwZFpmeDhoSjhxTFpnU0RHY2tuaWE?oc=5",
       "pubDate": "Sun, 05 Jul 2026 23:00:00 GMT",
       "description": "Bird flu vaccination gains ground worldwide, WEO meeting hears The Poultry Site",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Western Australia expands diphtheria outbreak vaccination program as cases stand at 170 - Outbreak News Today",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcE5QVGI3Q0EtUVMtTFVfUEx6UVMyZ2FwYXh5OHBXMDlVRk5yQW5zUlRIVW5oZnFraDJhUVcxRnpKRFBBbWNGUDlYd21uWHAyejNfS0tWRTJJN2J3V1o3eW5rdjRuWGswOHFkRi1FS1o4dDFGVTFmbFlZRTVvd21ocThxYw?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 19:31:55 GMT",
-      "description": "Western Australia expands diphtheria outbreak vaccination program as cases stand at 170 Outbreak News Today",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
