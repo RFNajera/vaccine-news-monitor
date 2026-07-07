@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-07T15:25:13.127Z",
-  "itemCount": 84,
+  "updatedAt": "2026-07-07T16:19:08.342Z",
+  "itemCount": 86,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 6
+      "count": 7
     },
     {
       "key": "flu",
@@ -45,10 +45,75 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 58
+      "count": 59
     }
   ],
   "items": [
+    {
+      "title": "We can’t entirely blame COVID vaccine mandates for lower vaccination rates today. It’s not that simple - Gavi, the Vaccine Alliance",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcWJZRkVqV0x1Q1pfeHV4NFVONDNWYmJNZFVucy1GM3QtX0pPcFVYS1d1MlBYXzNLd0U2V0R0aGVHUEJFZ2pxUUxEOTNlSFB6Tm5vNHllUWlYc2NMRnZxZ2ZQbU1lQjQ3c3JuX1dGUVJncmw2Q1Vob2NuY21zZmpkeXJnSUxic2hXcmc2azBybF96ZVZSUHNPVHRlM3VYSWZ3ck1lVWhkTWd3NHlFZW8zTVVFaHdCOEF6?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 16:10:25 GMT",
+      "description": "We can’t entirely blame COVID vaccine mandates for lower vaccination rates today. It’s not that simple Gavi, the Vaccine Alliance",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Opinion | Why the CDC refusing to publish covid vaccine research is so worrying - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOU9DMXJJczRxeFlzNy1Oem1NMFhjMldDRW11RDUwYnZxNFVKQ3pCYlFjazJqWFhMXzJZUGExUVloXzhHa3JHZlJHcnNQSS00TWtoZHRHNXNZZ3I5dkV0bkItWGNoWDM2ZXduRnROWXAwLUZ1V282TmlSRjBhZVVWUU5aZVNaREZuaS1uZmluWkdkUW1CaW03SEMxd1ZPamc0emdlOXpsdmE4UQ?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 16:07:57 GMT",
+      "description": "Opinion | Why the CDC refusing to publish covid vaccine research is so worrying The Washington Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "opinion",
+      "articleLabel": "Opinion"
+    },
+    {
+      "title": "Boehringer expands cancer vaccine push with Prime Vector licensing deal - The Pharma Letter",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMG9rMVFwQlF3dllhNXFMdmNFTkFQZ2IxZlJlRWN2SmM4eVBublF1SWNvU21nRjBZOGsyQzFzNWxiOUsyN19mSkV4VWdCQzRzSkpmdXMzeE9WSzY0NVl5TnhiQUs1Zk5uYm1OSVNOTC1JdE9KVlVvSXR3TmpYM0lPa2pqZWJpLXptODFsTTNwVnVfRWFKZXFockFhNXRlYjVScEhmMTBQV3pvUFhZSExhWmQ3dDFlRFE?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 15:57:33 GMT",
+      "description": "Boehringer expands cancer vaccine push with Prime Vector licensing deal The Pharma Letter",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Brain Cancer Vaccine Shows Long-Term Promise in Clinical Trial - Technology Networks",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUkljUFIyb01LOEtVZTQ5eldCMTV4SkVWWVN6ZDBiMkhNUVRscjhSeHBhQ09mdVNCVHUybWJjRzhnVDdIMGdRNkxnM0czaGFveGptdXB5SVlGOElOZ3RVc092OUF4OVZUcjl1M2JJcXpEbWlTYVJmV0VzU2VSUUlLUDZkZzBPR3d1dW03Y1VqNUZsdzI5WXJWS3pPZkZ4V0NPbzRUcnJSNEpHaTJEdEh0cFh3?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 15:47:55 GMT",
+      "description": "Brain Cancer Vaccine Shows Long-Term Promise in Clinical Trial Technology Networks",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Colossal Foundation Partners with the University of Tasmania to ‘Give Tasmanian Devils a Fighting Chance’ - Dallas Innovates",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOR1FkZ3FCZklLQkFOMDYxOVlZWHdLY3BMdDRraXdmc3lDck0tbzh2RmtNYzV1YTJHZldYcFZBRmlvcHl4VWhvZTJlODIwdGhpUTkzSndaR2ZvWEJLMmZ1eVFNM1lTSFpVOG0zNVpxZG5YTVJtMmZLTF9LcTgtZ09wMU1DUWF1VXd5Q3lsQjRRZk42dEl3cWZuLVAyOFpNQkxieVRxSlJpYWFCSFg4OTY5QnZVN2JPakwxc0k5bEJMV3ZwRTZLYVVqb2xYUU0?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 15:44:29 GMT",
+      "description": "Colossal Foundation Partners with the University of Tasmania to ‘Give Tasmanian Devils a Fighting Chance’ Dallas Innovates",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Bringing nomadic communities into the immunisation fold in Pakistan - Gavi, the Vaccine Alliance",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOFlGZ0FvTDkyMU1JaDdDRkZ4UXQ1WnZnMEkyQWpieFFUWEtBVkdDMUxoYi0zaV9BV0dMNmtIc3l5Ql9JZlpJcDFmV0loc3VYTlVOTlkwMzhqZ0NnaHhoVk0yUUx1bEhWazZWZVBSQW84ekQ3b1Rma21GeHkzNTVZdHNDekdoVnk4aDlRLXlzZ3JiR2M?oc=5",
@@ -126,19 +191,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "Opinion | Why the CDC refusing to publish covid vaccine research is so worrying - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOU9DMXJJczRxeFlzNy1Oem1NMFhjMldDRW11RDUwYnZxNFVKQ3pCYlFjazJqWFhMXzJZUGExUVloXzhHa3JHZlJHcnNQSS00TWtoZHRHNXNZZ3I5dkV0bkItWGNoWDM2ZXduRnROWXAwLUZ1V282TmlSRjBhZVVWUU5aZVNaREZuaS1uZmluWkdkUW1CaW03SEMxd1ZPamc0emdlOXpsdmE4UQ?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 14:37:57 GMT",
-      "description": "Opinion | Why the CDC refusing to publish covid vaccine research is so worrying The Washington Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "opinion",
-      "articleLabel": "Opinion"
     },
     {
       "title": "Boehringer bags PVT’s viral vector platform for cancer vaccine R&D - Fierce Biotech",
@@ -399,19 +451,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "Is the measles vaccine safe? - Understanding Animal Research",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaGcyV2N2TmdyR2xXZ3B1QUNXTHNwZlZlTjlnaFVFY0F5TXFUdVlRLVB1S3VVSml2eVlWcTRsX2JtRnVxdE1Cb0d4RVBDamZqd3A3VDFqcFh6RDJoU1JTT0NDbkt3ekc3MjZxR3U5N0ctYVgwZVVZMnBwdXUxSkhPeFNvcEFYQQ?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 09:33:45 GMT",
-      "description": "Is the measles vaccine safe? Understanding Animal Research",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "Tuberculosis Vaccine BCG Appears to Reduce Alzheimer’s Risk. Now We Have Clues To Why - IFLScience",
@@ -856,19 +895,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Brain tumor vaccine links mutation targeting to eight-year survival gains - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmNpQUhrREZYbUVjTy1kcWtKRE5NSGNwRkpKSEZwU1hnX2oxdkl2OTZvbEdGSU5fZTRBNFlQM052ZkpWbmVzM3E3Rk9NRXZUeVN5X1hhZzRDT3hxdEpmclU4OWtWZTV0dWFNNlRtRUs4bXRMX0J0d3I3ZllldEhzSzNMUWg?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 16:00:09 GMT",
-      "description": "Brain tumor vaccine links mutation targeting to eight-year survival gains Medical Xpress",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Why U.S. measles outbreaks have grown harder to extinguish - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnRWTW5ZU3dmUTZNNWppTnFDTFk5b2tQUmltdEZLYVkwME1yUkJ4QWN2aWhBZGVyUzBzQVNMblI4NzlJNl9raWdUcUtpVmk4SnRxRlo2THZiOHhRQlVpVkZ4cnVNS1NmdXQ5YkNxQlBHVmRua3U0aGt5MzdNNkNWMk4yREMwQnU0NWtXRjZVWHJkS2Q4OTdKLW92enJmQmV2ejd6X25B?oc=5",
       "pubDate": "Mon, 06 Jul 2026 16:00:00 GMT",
@@ -960,6 +986,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Is the measles vaccine safe? - Understanding Animal Research",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaGcyV2N2TmdyR2xXZ3B1QUNXTHNwZlZlTjlnaFVFY0F5TXFUdVlRLVB1S3VVSml2eVlWcTRsX2JtRnVxdE1Cb0d4RVBDamZqd3A3VDFqcFh6RDJoU1JTT0NDbkt3ekc3MjZxR3U5N0ctYVgwZVVZMnBwdXUxSkhPeFNvcEFYQQ?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 12:29:39 GMT",
+      "description": "Is the measles vaccine safe? Understanding Animal Research",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
       "title": "RSV Prevention in Practice: Eliminating Gaps in Immunization Coverage - Contemporary Pediatrics",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSXRzVU5uN0o4eGIyU2VETzNPU1JsOGx0WFNwREhDcDdaaXVsMHkyWGo2VzdpV3hoZjU3R3I0MzlxbWVCQkxtakpTU0ltQWVoZnd2dUdHMlBXUmpGaUFKNnZlRW0wOGF5XzVXX1RTLWpwYnNieGRNMkVWeFJUazFwR2VEWmRLUkVTVS1TaG5Rd1pkSGx1V2dueTZwOVdac28taTRqVTE4allDWTgwcFZZeEZB?oc=5",
       "pubDate": "Mon, 06 Jul 2026 12:14:13 GMT",
@@ -969,19 +1008,6 @@
       "sourceLabel": "News",
       "vaccineKey": "rsv",
       "vaccineLabel": "RSV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "The race for an Ebola therapy begins - STAT",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTEQ0TzJlTFprRlJ0NkRMMWpmUFZ2cUlncUU2WW5PSDFWeHpCaVJNUVRGbkhMYUlmdUxfeE5WTXRoMXB2T2lYcmpoYzZPRlJTVE14UHJIaUdieFBHM3Z4WVNDOXo3dmFqc0pnTmhiUUZOUnV1REFTNXd3MGVhX2dZaENFdVpMUFF1?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 12:09:22 GMT",
-      "description": "The race for an Ebola therapy begins STAT",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
