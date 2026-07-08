@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-08T05:31:45.460Z",
-  "itemCount": 78,
+  "updatedAt": "2026-07-08T07:16:05.929Z",
+  "itemCount": 76,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 9
+      "count": 8
     },
     {
       "key": "flu",
@@ -28,6 +28,11 @@
       "count": 2
     },
     {
+      "key": "pertussis",
+      "label": "Whooping cough / Tdap",
+      "count": 1
+    },
+    {
       "key": "hepatitis",
       "label": "Hepatitis",
       "count": 2
@@ -38,34 +43,29 @@
       "count": 1
     },
     {
-      "key": "rabies",
-      "label": "Rabies",
-      "count": 1
-    },
-    {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 52
+      "count": 51
     }
   ],
   "items": [
     {
-      "title": "Brain tumors: New vaccine offers patients hope for more time - Yahoo News UK",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPajZlOWV4ajFtWUNNVE9IeTh3NDVzQWQxaE94MTFXMWJvMngtNTNLVEFsLUF3am9yLU1RdTFKcmxLMm44S0tDSWRnMEt6WWFSM2JLcFRTaHZoeldPZEV5Z043QmtRSXhIbmJyLXdIU1JRNTI2ZzFQRGlVa0JuZGM3Z3lkbw?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 05:28:00 GMT",
-      "description": "Brain tumors: New vaccine offers patients hope for more time Yahoo News UK",
+      "title": "China updates immunization protocol, lowering DTaP age standard - China Daily",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBibEM5VlF3S0REUTRsZVQxdUlrYjhuLVU0MXBqUzVWc0RyUlEyWkp5aGNkaXhnUWdRTTkwYk5qRXJJZDRJZ3k4RFRvcGJZYllfQ3ZlZ1dLVHVDZE1qODNhdHo2ekVFaHA1VXpjbkRvZmhnRGRKY2R6MUZuSjdKZw?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 06:01:02 GMT",
+      "description": "China updates immunization protocol, lowering DTaP age standard China Daily",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
+      "vaccineKey": "pertussis",
+      "vaccineLabel": "Whooping cough / Tdap",
       "articleType": "news",
       "articleLabel": "News"
     },
     {
       "title": "After the Rush: APAC's mRNA and Vaccine Capacity Hangover - BioPharma APAC",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNGYxSDBYQU8zWmNDc0VjUkRjMGU2Mks2YVFpUFgyRXVtX3ByNzVHUFU2T3djdVVsbUx0WmVHeGV5THdxU01hbEJpY3BfX0NsV3cyZkExT0RHX082cThtTTUwMG1EWk9wbHo0SDNEMENzUXVJSGVOeXFiNGZpbjNGbDl0R1djd3h0aEhSTnpENm1rWUFpWFl3d2xaNkRJSVlGSmR6YS1janFHb1k?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 04:47:14 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR0VoOW5fa3ZtaDRNd0VhMkRWZnhUZGVXVHFxSHVpTXpINWhud3pSZDRPOUVWTWEyazV1NDZtZ09UVkFjU1pndGhwLUd4MVdncWdpUm1memVUREpQYWVTR1R5SE1nUldrU2N0OGxlYV9HV0gtMjJVaGZ3WmtZQzExbEpIMDNQdDR1V1RXMy03d3JBenpGaVB4QXZTR00zRDM2RUNGaTBn?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 05:37:30 GMT",
       "description": "After the Rush: APAC's mRNA and Vaccine Capacity Hangover BioPharma APAC",
       "source": "news.google.com",
       "sourceType": "news",
@@ -76,10 +76,23 @@
       "articleLabel": "News"
     },
     {
-      "title": "HIV vaccine showing successful results in recent preclinical study - fox5sandiego.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lSmp3eF9CekRUTHBiTGlNOU1oeHlaaFJLRGJaX3BUZWJWQzN4d1hpTUNLbkVkb1JCNEt0RVNXXzEyR3pEVmNNZy1MdVJXMGt1UTM3YnFpTS1IR3F3cm4yNkpEWVRYWHBzcml3Vl9GYmpLLXN5d2fSAXtBVV95cUxPYlo1M2JCY1d4SWluaUtMZTlqbDV0ZkVzbGxOUVRTM3hZcGdJcmJyU3dNSDd2OWg1RVNXRlBZSEFyeFhKLVhmd1ZjT3RfY1pxc0FmQjM2QnRERWstd3htcmJEdGMtWUp5Rm93SUhaYmdoRDhLOWNhWWVqYVU?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 04:30:31 GMT",
-      "description": "HIV vaccine showing successful results in recent preclinical study fox5sandiego.com",
+      "title": "Brain tumors: New vaccine offers patients hope for more time - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWnd5NHNXTlVnSV81dHItSG5wTlhCalZ6cTI3Z0JFVm83S2dUYlVlalM5NTFrWjBmQ3RoZWVZMXVoa3hnOFcyajh2cG9YdWQyQ0E4TWlCSDJqMnh1MldoLVo2Z3l5cVA5NU8waE5uck9BcnA0RV9ZaVlmU1g3Vzlrd3VzeDIyY2ZHcTNoZWZfSFpncUcwWHZV?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 05:29:53 GMT",
+      "description": "Brain tumors: New vaccine offers patients hope for more time DW.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Researchers test HIV vaccine with success in preclinical study - NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rYXN6TlQxS1JaYXBtNk0zMlJtaTh5S29vdEF1MUpvUVhiUkpLOG1aUG1HV3NsR1Fic3ZCQXJmTXNTMjJNV0U4TUc2elJZNk1zdi1XTjQ4Y0RqV2RtZFRtMXlOOGx6ZGxGaVBoSF8zRFluSmNWQ2hB0gF8QVVfeXFMTVBDM3V0SWRWbDJkaFkzS2g2bUJCRmp3YXZyZHY0UXFnNlhDTXhVc0hrRGlUVHNMRjRENlpFa01XRGx6ZHJUaWJIZVpzNnMzc1g5d3ZQZXl5WnRPejNkbnBXUUhReWFaN09zUk0tTDdfa0RHNzU5cFI4N3JaaQ?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 03:45:16 GMT",
+      "description": "Researchers test HIV vaccine with success in preclinical study NewsNation",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -167,6 +180,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Andrea Shaw, Plaintiff in Anti-Vaccine Suit, Is Charged With Murder of Her Twins - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZnBjOG1vUldiZDB1V0hVcUVkTnhvZlZ3X1piOElHQnJOOWpveFpaZWtPaVd3WnkzRGFWOGYzeXNzdWJYLUtLelhDT1pwbFRHbkZsOEV6U1p1VWFzRTBSYUZkZmV3VFJJd0hKX2ZmVlZ2SWNtYURidjBsVWNrdFYzX2J2eXh6Q01U?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 21:42:44 GMT",
+      "description": "Andrea Shaw, Plaintiff in Anti-Vaccine Suit, Is Charged With Murder of Her Twins The New York Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Tuberculosis Vaccine May Help Prevent Alzheimer's by Influencing the Brain's Immune System - Discover Magazine",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN3lLMWo0c2twalR3Sk5BTFNIRFdySGxGZk1Hc1FHT01keURTYWlrWUd6OXRpOE1xdFpNQlpndjdka1VEMlRXd1VvVkdGVm1vdjBaelZmZ3gzV1NhQTdLYTlFOGhoRm9CY2g2SU1wbFBjdWhDQmNPd0hZdmpiRTA5dEw4aWM2OFc1S2c0Z002Rk9OYmc4dUZQUW5YNjJwSjdiS2pfM0NYZGZnQ2cyeXpqM3EyQ0Vhby1LMTBmblpDdFA2LWhGSTlyRQ?oc=5",
       "pubDate": "Tue, 07 Jul 2026 21:30:23 GMT",
@@ -217,19 +243,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "Andrea Shaw, Plaintiff in Anti-Vaccine Suit, Is Charged With Murder of Her Twins - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZnBjOG1vUldiZDB1V0hVcUVkTnhvZlZ3X1piOElHQnJOOWpveFpaZWtPaVd3WnkzRGFWOGYzeXNzdWJYLUtLelhDT1pwbFRHbkZsOEV6U1p1VWFzRTBSYUZkZmV3VFJJd0hKX2ZmVlZ2SWNtYURidjBsVWNrdFYzX2J2eXh6Q01U?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 19:53:26 GMT",
-      "description": "Andrea Shaw, Plaintiff in Anti-Vaccine Suit, Is Charged With Murder of Her Twins The New York Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "Tracing evolution of vaccine for cancer, malaria - Harvard Gazette",
@@ -501,19 +514,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "All the News That’s Fit: Saliva’s sleep signature, watermelon eating and the origin of the rabies vaccine - San Diego Union-Tribune",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOX2lCdG9lMTRNaFRHSURwdFFHVFdXS2ZQVFQtc2NvbGhHNk1qdkl5S0piM2FON08tWktUWjMyQXlpblZsbkd0azlOdjhEX2hFVklGUnkzTFVSdE1PWHF6eDZPNy1Ga1ZwMzhiTlJ5N0pfNmp1NzlvVGRQVGFBUXkxWkNka1E2ZFI2cHFSSkxCUlAxSmxzM0ViMFR5N2lGdk15Q1RBcHJYVlZVeHBzVjNyUTRwUmFqSjlNNmFjWi1EVjlUMUs3MkpONWRHQ1V6eUtpd1pWYWUyOGJfeEtibklBc0ZiSGE?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 12:31:07 GMT",
-      "description": "All the News That’s Fit: Saliva’s sleep signature, watermelon eating and the origin of the rabies vaccine San Diego Union-Tribune",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "rabies",
-      "vaccineLabel": "Rabies",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -934,10 +934,10 @@
       "articleLabel": "Research"
     },
     {
-      "title": "BCG vaccine may remodel the human brain's immune environment - News-Medical",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnNYRVdaZWkzc0xZY1gxMXZZM3R1TENFWUFWV2V1Q3hyZWtwdWRxZnJaZUQ4ZWh5ZnA1SmpBcUFUNk1MRFhCNnZQWWFTWThkRzI1UlYxamVLU0czNWdsVnIwcTViSkNWLW1DbmV3dHo1RHFGanZ6OEdwazdQRWhrbWgwM0lEa0ZtTzJLQTNxRFBrNjl1TXk3SGY4a0V6SWs4OVlUanl4Ty05bWc?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 11:47:00 GMT",
-      "description": "BCG vaccine may remodel the human brain's immune environment News-Medical",
+      "title": "The race for an Ebola therapy begins - STAT",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTEQ0TzJlTFprRlJ0NkRMMWpmUFZ2cUlncUU2WW5PSDFWeHpCaVJNUVRGbkhMYUlmdUxfeE5WTXRoMXB2T2lYcmpoYzZPRlJTVE14UHJIaUdieFBHM3Z4WVNDOXo3dmFqc0pnTmhiUUZOUnV1REFTNXd3MGVhX2dZaENFdVpMUFF1?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 12:09:22 GMT",
+      "description": "The race for an Ebola therapy begins STAT",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -947,15 +947,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "Hong Kong doctor issued 3,713 fraudulent Covid vaccine exemptions, court hears - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZjVRelBNUjd5c1l1QmxBYk5vZEtNUmNTaXpvVUV1TFdIVmt4SXlQTDV1d1B2NUNMOU1UV1JxdmNkYklOWF9kOHJ1V04tQ3MtMnZGUWd5RndLOTZzTjRvQkpJRk5tNlVRc1NZODZlbmdQaDM3ZXdhSVZpOG01c0kxT0RkZTJ4M3JQempjTDJOUk0yM0RCY2pzTlJfUXF0bzVTeC1fWE56YXVGZnNoYTg0NXRYb3JXZ0V6MlRIWGFXdkl1SkRqako4Qy1jN0RJVTN2N015Q0NKb1lNT0tIZy1LSdIB4AFBVV95cUxQaGZvRTB3SUc1eDVZOGVLOFVOOWRzajhTRV9WLXMwZW5zcjZHUWk4QzhNYjJmdlhxY2NmOGpNc1UzTm95QkctaGhzRnZhWEQ5TUJPQkw0N2tNQ3l4NVBDRU1LdEdEeTNuanZDTmNEN1RCVEpuOGhMR2h6Z3dYczNUNkNFRHJJdmFBeUphZ1B6VzBqbmI4ZUxYV09aVkFNZ2JDWE5zd0QxVmc2UWwzMDZMN3VfNmYtSmh6ZmFHM2VrSHItZktSaXZnaHlBNWxocGNyMVJFdnZXTlVPVnVTTHFhTQ?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 10:19:11 GMT",
-      "description": "Hong Kong doctor issued 3,713 fraudulent Covid vaccine exemptions, court hears South China Morning Post",
+      "title": "BCG vaccine may remodel the human brain's immune environment - News-Medical",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnNYRVdaZWkzc0xZY1gxMXZZM3R1TENFWUFWV2V1Q3hyZWtwdWRxZnJaZUQ4ZWh5ZnA1SmpBcUFUNk1MRFhCNnZQWWFTWThkRzI1UlYxamVLU0czNWdsVnIwcTViSkNWLW1DbmV3dHo1RHFGanZ6OEdwazdQRWhrbWgwM0lEa0ZtTzJLQTNxRFBrNjl1TXk3SGY4a0V6SWs4OVlUanl4Ty05bWc?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 11:47:00 GMT",
+      "description": "BCG vaccine may remodel the human brain's immune environment News-Medical",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1029,32 +1029,6 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOHc0ajVIaF91R1FMalVEZ0JiTVQ2bldvM3hpOFcwYnJnR1FTVUUyRU81YXVGbDhsT1QzbndjZE9DdDZZTXN3ZGl1RlVtbm5jZFdwOTB3SlBxbGF2MVgtc2h6RjBKOGtZeWVqOUNHTVZUSGk2RnZ5NC1zV3RPalVUQngtTnVtLXhvMUNBUnd6cXBJbkxBem1LdVcyeDJKTWNTaFFWNWRJd3VUTmZWcVJLZkpENHh6blE?oc=5",
       "pubDate": "Sun, 05 Jul 2026 09:00:00 GMT",
       "description": "Would Missouri hunters take a Lyme disease vaccine? We asked them KCUR",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Watch Ebola Vaccine Trials Could Start This Year - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNzdfWWZQQnUyZ0lMNjBjakVObkpvUU9IdzczVEFmTVd4eVRsVlRNSjRBa1V3b1BiM2RWand2MVIyV2xSRHVyblZQUUdiWENDN3A4Q2tmTTRIYVFJY0p2ZUk2SEFvbDY4dk03ZEVrY29SYTFVaWIzTjZwc1V2ZXh6QVVRMzJERk9QMFEyb0NGLVFvV1pHY0E?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 00:00:00 GMT",
-      "description": "Watch Ebola Vaccine Trials Could Start This Year Bloomberg.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Current CDC Vaccine Price List | VFC Program - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzcDlFY0E3MFdhQmZETTZXa2hSdmxmc2x5TC1XVXNhM2xqUmk2V0Vmd09sOUlSc3Y1bjJCQVlrVWZDSF8zc0lXOXRTM0JNaHV5YlVBcnNDdkZEdE5DQUhYVGNwV3FubzVDWThzLUZqcldYMGNOTkE?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "description": "Current CDC Vaccine Price List | VFC Program Centers for Disease Control and Prevention | CDC (.gov)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
