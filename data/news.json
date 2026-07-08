@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-08T11:59:13.870Z",
-  "itemCount": 81,
+  "updatedAt": "2026-07-08T12:58:31.661Z",
+  "itemCount": 87,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 8
+      "count": 10
     },
     {
       "key": "flu",
@@ -23,9 +23,14 @@
       "count": 4
     },
     {
+      "key": "hpv",
+      "label": "HPV",
+      "count": 1
+    },
+    {
       "key": "polio",
       "label": "Polio",
-      "count": 2
+      "count": 1
     },
     {
       "key": "pertussis",
@@ -35,7 +40,7 @@
     {
       "key": "hepatitis",
       "label": "Hepatitis",
-      "count": 1
+      "count": 2
     },
     {
       "key": "shingles",
@@ -45,10 +50,127 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 54
+      "count": 57
     }
   ],
   "items": [
+    {
+      "title": "E coli-produced HPV vaccine effective against cancer-causing strains of HPV - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOWxubDlqbDBlQ3NBZ0pGMkg1bjFoNnBpZ2ZhcWtRUTFjVXFYZHM3dWZjYUx3eGw0ZkF6elJuV0tmRXVUS3gzSHF6UUVZa1BtSVNNWk11VHVaOWRzTy1sSVJhZ0ZrVG5SZlBwRzdaV1RleTc2eEpTMmd3cHJwOFZDY0dFbW9xcWp0T3lyTmZlN2xWbkxzY0o4c2FvVEZEaEhpS245RGNoTkFWQXBpcUR3dmdwZmEyZnFucFpwY0tDMA?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 12:43:00 GMT",
+      "description": "E coli-produced HPV vaccine effective against cancer-causing strains of HPV CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hpv",
+      "vaccineLabel": "HPV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Opinion: Europe cannot talk about strategic autonomy and ignore the vaccine industry - medwatch.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rbzlHWmR3dDI5a0NMQ0FEQ2VBdnlHdnNuRGxPMmpkamhsMVJwblJyNEFscHVtZ2VGcFkzQ0lnSGhPdmNUM2pNSEp5NjdydVhZUVc5M2UzVTlsOGc4eWwxNXhLSkxIZlVmcVRvNG82bUZFajh4?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 12:35:16 GMT",
+      "description": "Opinion: Europe cannot talk about strategic autonomy and ignore the vaccine industry medwatch.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "opinion",
+      "articleLabel": "Opinion"
+    },
+    {
+      "title": "She blamed flu shots for her twins’ deaths. Now she’s charged with murder. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeTZZcV9TQnRXcnVpYTZjdy02bHNHVnFoUzd2T0hOTDEwbkkyNkVPY0ZEMWc3cjBfRXE1bWItakwzbTlPOXZJa3V3S0NLWElwUXpRd1RnaDhxUlVRcDExcGZoNHdFU0xOaXJoS1VrZk40X3BUZVV6UXhEY0pvRGZvekI3WWlEQzl2WTdWMzFaWEJFVTIxallHaU5lYnFlcDlaTndvclBvenlZS2NOcC1IbDdiVUJQVWs?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 12:32:28 GMT",
+      "description": "She blamed flu shots for her twins’ deaths. Now she’s charged with murder. The Washington Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Free vaccine clinic aims to help families prepare for school - KOAT",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQUtsRGRHUUZTMEk5Zl9URmVwVmVKcklPWXZlZ1RERTBfT1o3Z2FLZWY0RFNMb0N2dVk1VDU2UzZyWXJNNWxDeU0wazhhZC1iek1SRkFSczRDYkN1LWFTdkt1dGk3ckFKLS1QVXFSVXJKZ2hCTlNLbHRfdlM5T1BfMEZYUHk2UkUyQndvRllBQQ?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 12:26:00 GMT",
+      "description": "Free vaccine clinic aims to help families prepare for school KOAT",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "BioNTech, Pfizer defeat Promosome Covid-19 vaccine patent lawsuit at UPC - MLex",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUNwVmxXemdsYllqc25Lai1NSldNcklqVkpHam56NmxGXzJRVV9KREVWYklpSlVzeXJGQ0JVRTFLUEpWS2tOWUhxR2dYY25LN1FDSGdsVDFKcnZ2bWJHYkFGcFBYUW1JV2wyQ0pQYTh4dHptSjlkc2llTkhaVVR6dHhFQnREdzBHejM3Q25UT0FMR0N5VWVqOU5tbThOanMyYWF5bUVLV0lrVmlLb2RFWTk2cznSAVpBVV95cUxNeTFldlQyLWQ5WFZ2akZLNUM1VkNiN3VKVkJfSGFNb3BZSGEyUGl1QndzeE9DNDZPYmltVlF0NS01bW1rWVVoZ042X3FIMHA1NTJFUThCWFQ4VlE?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 12:24:00 GMT",
+      "description": "BioNTech, Pfizer defeat Promosome Covid-19 vaccine patent lawsuit at UPC MLex",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Same-Day COVID, Flu Vaccination Appears Safe - Conexiant",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUWVwbVJVX25LX0pia2xlNkswajRfUkQ2WUdyNjY1OFNWc3Z1NF95bmJneFNROFRwYjczbFVRbzdLVW9vclU4RllNNzNQODdmb2J3ZFVrWTE5MDVBdmYwTjBwVDJ2djhLOFFaNXIxSDgzdW1vc0g0d3RyLXN2YWMtVDRFWjZkWDdfRllQek1XU0taSUNVOFBzUnZFcGtIejRYSnNrQkVKN2NFbWc4SlN3?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 12:20:17 GMT",
+      "description": "Same-Day COVID, Flu Vaccination Appears Safe Conexiant",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Boehringer Ingelheim acquires viral vector platform for cancer vaccines from Prime Vector - AllSci",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT3Bta3ZfbnZhX0dqdVJyc2lJQlEwQmZqUnJlbVMxNXdOTW9pWTJlbzI2WUQwTGk5Wl9HXzVXeVF4ZWdsUm1OYk5FaWpaaXU4VEIxbXU1MEIwLWx3cVRrMFlNNVROUXpGYkZiZGxBSlFRVjg4QlZvZzVYUzk3Y1BCV0dFczM0bmJSaWM3ZGk0X0Yzc3lZQ3JxN2dMWE9ZOHduZm94SU1hUlk1cDBmallaODBLNFFnenlDa20zUGcwc1p0ejdBZlVYN0NWX2JFQThJb0xwb2lBb2NzWjg?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 12:15:40 GMT",
+      "description": "Boehringer Ingelheim acquires viral vector platform for cancer vaccines from Prime Vector AllSci",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Grant call scheme to push RnD of 11 vaccine antigens, govt says - ANTARA News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRF9JT3lvZTNOQjJ5SjBQWUJFcjlTODZyTS1jNl9xYXYxVnl5R2lxazN3NDJOLUNfYnh6UVlLNnlXUnJVX1ZZV2o1aDBvZEZwVmF2NDd2WFh3UXJIajAwY3dQVzE0SkRCSFd1V1lOTFlUWjZwVFdGYk54WHN1dTM0bmwxbGItaTB0bVU4MXlQd2xBRmhaMWZWRnRNWTB4S1Q3aGfSAacBQVVfeXFMTmVDLXcyVWpOdERmLTZlb0UwdlNMYUZVU1VQVnVGZ2d3RVRFWWUzb1ZEdVRsRGxaVzlOUFRCXzhOUHoxT0R4bG9WbFNYbVBFaUpIeC04aVA0Z0Q4V240Z2U5RkNOd2NvbUxaRzFHVDhIbnRiWnM2SG9SdVZFRENwWkltcVMtZjVWMDd5Sk1LZ2IzRnF4MzZ2cU1zWU9pVDZ5M0Q4ajg4ZGM?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 12:11:30 GMT",
+      "description": "Grant call scheme to push RnD of 11 vaccine antigens, govt says ANTARA News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Food is the tuberculosis vaccine we already have - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYk1tbEFQYWtfQjhPY25aRTVRWWpqamM1TERYWjZiTmp5M1VBeG1rNGl6ekJ3cXFGMjJGQ0dHNmVDcEpLOHN1elQwaV9xSzZYYWlJMnVjZzJrdG9fRzRna0JlNUd2UTZsSXFTYl9YaHBEcDVJNkdwaDZORE1pTmgxNjlzbnlqbzdzb255NVBUZEJ0Skpvd25XZEpVQnQzWUdEYmc5ajZfNnlXNWdV0gGzAUFVX3lxTE9HSm4yZVU3R2dwMDVBc0hSZE11NUFERTQxdG4xeEtPZWVudksyaERESXczZmt0aUhsYkxCeUJsdXduN3hfZFlTejB6Ym1GbUZxc1BOTnVPZWR4Y0tZVGpSaU5yLXAtRjczb3I5T0VuNUVhcnV6TTNXWS11X0ozRm9udTVqaEZNMmVCV1lYY3l2c2NSQTViLVdjYmpuUHdsWU5jamFaN3o0S19sVm5zNnM3OWxV?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 11:53:49 GMT",
+      "description": "Food is the tuberculosis vaccine we already have The Indian Express",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hepatitis",
+      "vaccineLabel": "Hepatitis",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Vaccine Storage Equipment Market to Reach US$2.3 Billion by 2033 at 7.3% CAGR | Persistence Market Research - EIN Presswire",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUjY4VHEwbGdUMXl5TVZ0N2prd3I2XzY1VS1BemlaZWlWbU53VW05X0NaNElhNDBfd1NnUDRoLVNodF81R0t2NkN2cFJ1Q0Q5VUhTWmx4bkRxUXh4UWhYb3NJejFfQ0dVaVR6R1lJYmRWR1h6aFdRVnIzNXpSdERJLU9fSk1aYVVLdVV3RXpCckZ3ajJEUHBZTE8wenhQZlFlWkk0RFVhQWNtUjg1aUY3bnVrbFU3Tk15NktadVB1dGh5Yk5yTENORFRDX2NhNU1RX09xTDFqNFg2T1VqZ0ZTSlNQd1YxQQ?oc=5",
@@ -98,19 +220,6 @@
       "sourceLabel": "News",
       "vaccineKey": "flu",
       "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "She blamed flu shots for her twins’ deaths. Now she’s charged with murder. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeTZZcV9TQnRXcnVpYTZjdy02bHNHVnFoUzd2T0hOTDEwbkkyNkVPY0ZEMWc3cjBfRXE1bWItakwzbTlPOXZJa3V3S0NLWElwUXpRd1RnaDhxUlVRcDExcGZoNHdFU0xOaXJoS1VrZk40X3BUZVV6UXhEY0pvRGZvekI3WWlEQzl2WTdWMzFaWEJFVTIxallHaU5lYnFlcDlaTndvclBvenlZS2NOcC1IbDdiVUJQVWs?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 10:31:45 GMT",
-      "description": "She blamed flu shots for her twins’ deaths. Now she’s charged with murder. The Washington Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -210,19 +319,6 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNFpzM1c3V2E4alc1bnhmWlRzdUlIWFBFVXd4UzRqS0xFMXNOM3pjTE1DZEhCamJLNTFtQWxWUmJPaVU1a1hscEg0ZWFFdnYwcGZqVi1sV2d4Um9ybDg4ZDgzX29EUk5jbkFhVGJ4ZUxzVmtEdXVZeVNiT2twZnZmR2ttRjBNNUNtTmRmMkNBTVdlUG0ycWhLZnVkcTlYTFF1NE9zZWo0aDFPV3dpOFg1cnVsT09PWjEybkNnZm9IajJDQ1pQeThoNnpQMGZNUQ?oc=5",
       "pubDate": "Wed, 08 Jul 2026 08:35:38 GMT",
       "description": "Structural blueprint for dry mRNA vaccine patches eliminates need for cold-chain storage Open Access Government",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Boehringer Ingelheim acquires viral vector platform from Prime Vector Technologies for cancer vaccines - AllSci",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMVRkUXZFbHczTjRieUhOTlNndkNfbEVLRmR2LS1ra0pqRmljbzRjVVJqR1dKYXI5ZFh5dWRManN1V0U3VjVZUDhZeFNxTkprT1ZxQnlpaUpVX0t0RmlSUFVKWWF1ZlB6eVpUZVBKZERLWF85VDhZSHZSbTdVNzQ5VHBEUDFNVTVsTU5pRlVrR0ZudnlHbzQxRGlybk02MnNKRGhzaUNBOTR1eGNpVlRnNklGVWdCZ0JwanlYaW5fcjZvb2hRWWppRWV3ZWloU1hpTXc?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 08:15:33 GMT",
-      "description": "Boehringer Ingelheim acquires viral vector platform from Prime Vector Technologies for cancer vaccines AllSci",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -350,7 +446,7 @@
     },
     {
       "title": "6th Circ. Revives Pilot's Disability Claims In Vaccination Row - Law360",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSUJEaS13akFFYzgybFBIQUN1Mndnb0NYR2w5aHA0SmJGTG53bmg0WFlfZUY0Y1V3R3RoZlMtLWJQQTd5d3k4YlUzM1JabTZfX0tRbWdnUlpqNWZOcjV0MWtZM2FoTkZzSDdjVGZZUUZoSU5pS1p3WXZPQjZmRW8yZkZaUm5XaklXTG5ILXdNRXpucEtCVG03UWtSS1EtODZhdVBkazJna2RybnNDVVZmTVVpYkJhQ2QtSDB5MFdXZERHZ0VGTTgwRFhUdUk0UXBLMV9TNtIBckFVX3lxTE1ib205bnRQN2tOWVhtM2hQbGVhdlhZLUt3c3R6eXNhaTc2S1RmNlFzWkNpSEc1SEF5UnJOTjJqb05jUlVkSWZUczZkUFowYl80M21nZm5xY1BmekQ2TUk1cmswUDJob2RBTXhSS1FXSkladw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNXF4aDMwblBUTnktM2NWMFN5amZfa3R6X2E4TXhGRmt4aHYxUldSVUtyUGlzZHBMWkNZQVJIcWRTUVhnOEVPRnFWMTlzeDZubUx3c29KazQ1cC1QZ0E4UmMtU2xyRWY3LTFER1d4aWRGQ3hGM1VxT2pleEp4b21VNXdVb0FhZkRVMnhBM3U3bUxsNTV2Tkg2a1M1TUdlVEt1NWwxWdIBVkFVX3lxTE9pZWVncVFqb2lMVzhEN19TOUZDQXlHdzZPU1ZHR2pTR3RsaU5wbXlFb2t6UE94YVB4TnF4SVRCLVN2OTBGY2FKb2JCRTRvMTdXdEJfdzZ3?oc=5",
       "pubDate": "Tue, 07 Jul 2026 23:39:00 GMT",
       "description": "6th Circ. Revives Pilot's Disability Claims In Vaccination Row Law360",
       "source": "news.google.com",
@@ -362,10 +458,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Decline in Kindergarten Vaccine Rates - LEX18",
+      "title": "Decline in Kindergarten Vaccine Rates - LEX 18 News",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZDZ3c3hJV3gzNXRzdkNQdWI2QklPbW40WFUzeWNzNXhlMEx4cWlLUTB4TVNNeUtNSzFqV1ZVM2V3bVh1ZnBLWVBuWkF5Z1h1VDQwaHBzMzlQTWNoRmJ3Wnprc056TnM4OWJidGxQZ09DWlEzZHo4dlZRLVNWdjJxM2ZlSlg1RDd0eUlyam1IR2lHNWc?oc=5",
       "pubDate": "Tue, 07 Jul 2026 23:21:28 GMT",
-      "description": "Decline in Kindergarten Vaccine Rates LEX18",
+      "description": "Decline in Kindergarten Vaccine Rates LEX 18 News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -375,10 +471,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Declining vaccination rates among Kentucky kindergartners raise public health concerns - LEX18",
+      "title": "Declining vaccination rates among Kentucky kindergartners raise public health concerns - LEX 18 News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTk1ndnNDUURUdzVkUzg1QnhOZW1JcWZpYWhtUlNaRFhzb2lkbDRNb2huVHRnQkppVGRLdGFIcFZnTjVhMUlFams4YlNCVTVEMEQzUmJOb3FHTk1uMlEyb1hFdHJrVEdjZjZWMjdVX2llUkF6SzFuc2tQSDFhMU01NmtyUEEtNXRfOXlpRTc2ektfT01hQ3VFUzJpMnU1Z3Q5aHlxWmN6bHJpZy1heDQyVVY1bVVFTnlSWkU4N09LSF9ZSHR6MEktWXdIODA?oc=5",
       "pubDate": "Tue, 07 Jul 2026 23:04:42 GMT",
-      "description": "Declining vaccination rates among Kentucky kindergartners raise public health concerns LEX18",
+      "description": "Declining vaccination rates among Kentucky kindergartners raise public health concerns LEX 18 News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -596,19 +692,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Novel adjuvant may help injectable polio vaccine to stop viral spread - Labmate Online",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUGFRZXVoR21VVkwtUlpwZjB1RVdqMTdkM1cwMDM3ZVJqX3VZRGdFeWpZSUd1UUhTd3FRbWNLWnE5Q1k1SVcwUjlUSk9nT244LXZnMFZwY25sUndycjFyaU1adEEyczNzT2ZNcjByTHh4WEpNMFhPN2Z1eVFJM1duMDdMRGRrdGZsZGtfOWhpRFlzd2Frd1U0N0NCTmdtNE94bEpERmxsa25lRHVGeGlYamdNOEQ4ZmdEbXVOTTlxZmduaW9pMW5NTFo5VDREZEtTZk1BX25FR3ZoYXFXU1Bra1diTFdDNThfT0o3bUJFSTh6ZG54YkRaQ1d5aw?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 15:00:00 GMT",
-      "description": "Novel adjuvant may help injectable polio vaccine to stop viral spread Labmate Online",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "polio",
-      "vaccineLabel": "Polio",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Shigella vaccine shows promise in phase 2 trial - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdUlIVlJyb0ZRUkN5bV9ZbUhhbzdjV3NwN2ZrekpYLWx5OV9vaGVuaFhQMlAwZGpyQWMtUHFUV2FzeXJFcUtLVGtUaWxhbU9ETFFzSVpMRnYzYjRCSTF0aFpPeE1EN0ZIWU9fakE2TXowNzBZMGZyb3RaUUg1QWRyTnRjR0N0aHc?oc=5",
       "pubDate": "Tue, 07 Jul 2026 14:42:00 GMT",
@@ -644,6 +727,19 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Mom Who Said Her Toddler Twins Died After Vaccinations Charged With Murder - MedPage Today",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aWW5QUlNsWTJFYnE1dlpWbDBZdlNrWTYyMnNmMmRZSFJ6MGxzZS1GdXVPblNYMll6bnk4bkhfOFFRZnl1blNvOHUzUTBCWmJMYkUzc2NXVWl3YmViVDYzbmNpM3pjdjQ?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 14:04:19 GMT",
+      "description": "Mom Who Said Her Toddler Twins Died After Vaccinations Charged With Murder MedPage Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -834,19 +930,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZndWRDZwbmwzT0dkSDU3MkVPLVRoUl95OVpPeU9yQ1pxZzlBT0ZjVjR1OF9nSXV2aUQ0aXZBY0QtZFhrYkZKdlBGemVKQlBGSEVnUFBnSWY2MEFvNlZwaWktdzdFWXhOQnU4OGtlWmtSeUd1TmN4Ymk4Qk1nUWluNnRFWWVaM29oaWs3SjRVNzRSQnZHdlJqck5LVGhySFVVUmFVRdIBqgFBVV95cUxOdWVJeXdid0Vzbm8xQ3RlYjNnX1F2ZS1WS256dnFGdmhIMnlkMm9CUDcxamdCWGFDM0hwRENzOTFPTGxBU2ZRSkJESXFDNEVjUkktUG1JeGw1SXJLSDU0cHNISklGejNDNHBSMDU1ZzlBWHl5TXVZNkt3TW5aaUlCMkdnSnpVanBPbGpLU3RDdV82T1FTcnVkV09vc0FWUThDSlNJMGtibGdoZw?oc=5",
       "pubDate": "Mon, 06 Jul 2026 23:57:07 GMT",
       "description": "Experimental vaccine shows promise against dangerous intestinal illness Fox News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "An Idaho mother who said her toddler twins died after vaccinations has been charged with murder - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaHpva1QyZ3BpTV81OHcxUnFCaHRoRmt5cE1ONk55b2xabmduZFZ0R2N0cERBcHI2aWY4ZTJPXy1iUTJLeHVWeUM3bGt6N0JtZFp1QURYWTlKWXFGamlHdDFuakFzQy03UVlacVgwZTVFSF82NG5YYVB0SElPR0NnRlpHOUs1X2JyUWFKOXUzeG1rNGVybWh0V0ZGNnRyODFQZE1DSlVxcU3SAa4BQVVfeXFMUGx4ZVJrREtRMXBiNXVOS3BiZ00zNnBqdy0tRjU1RmgyWG5jVGR0Ui1weXUyM1J0ci1uVU9LdFlBQmU4V1hmQ0VuSHNiS29CSllYM2d0cWhvSktjYVZQbjkzaEtOR2M4UVh1UjVFc184eXVTd1FIa3d2R2k4OUxUc285eklVWk5qVHNHd0sxOWE3X2NpTnJHNzRVQXl5b0tOc2I5Vk9Dc2dOQzQ1aG53?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 22:44:50 GMT",
-      "description": "An Idaho mother who said her toddler twins died after vaccinations has been charged with murder ABC News - Breaking News, Latest News and Videos",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
