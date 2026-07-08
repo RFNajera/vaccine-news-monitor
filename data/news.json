@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T21:47:52.355Z",
+  "updatedAt": "2026-07-08T22:45:32.989Z",
   "itemCount": 93,
   "groups": [
     {
@@ -10,7 +10,7 @@
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 9
+      "count": 8
     },
     {
       "key": "rsv",
@@ -20,7 +20,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 7
+      "count": 6
     },
     {
       "key": "hpv",
@@ -55,7 +55,7 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 59
+      "count": 61
     }
   ],
   "items": [
@@ -64,6 +64,19 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYmhtY3R6M3pXSU5LT1JNR2VSVUR6VlMyZmxjTDh3S2puU1M3ZUgyYjh4QkxZRUxuRU94bUlET2MwZFNZNGRtTVZaYktfRl9uMHhjbmxBWnNHdUNpZ2g4bFJ3bUliMExPeEdmTXhvRnZyd2NYQ0VwX3dWWmstRjJzZmlRUmFWanpiall1V00tVmhVVnZfbXJOUkxBSkpjcGlzVm0xUVBhTzB0UnhlalE?oc=5",
       "pubDate": "Wed, 08 Jul 2026 21:23:00 GMT",
       "description": "Connecticut launches pro-vaccine videos inspired by 'Schoolhouse Rock!' Connecticut Public",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Immunize El Paso extends hours for back-to-school vaccinations - KTSM 9 News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOFhwWmJlOHdKSWZZRUNhVWswWS00elpaNmZKZkp3azJUSFVtb0dRUWh3RFFmZ1UwQkVMWXlyaXhEYVNYUExsdm1xSHlZTlBmdHBtczNjMy1QcGdyYkVrNThpQmc0MlVKbWFOOTdnTk1Pa28wM1BYdzR0dmc4d3lKVW1FVlhaVWlxV091U3FTRkRyeURtSlZsS1JjdjZHc0N1VU1fSU1QQdIBrAFBVV95cUxNaDdYRG82b2RnODRRXzZmODlOVFhwTU5DN01UTGhSLWlJd1dCTFNJQm5IYzJSdTNHLU9GNU5XampNQ2xWeXRHSTFyREFjX1FxbjdkRmdmUXhPT2FtWnRCMjhJSkxJbXUwWlkzVTIyWTBheGZvcktIRWZtOFJ5d3ByOS1IRUl6WVVIRzQ4cjdQSmEzZnVFUWN6cWtZOUg5TEJ2UlNVNnF3V3lwWmZQ?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 21:20:09 GMT",
+      "description": "Immunize El Paso extends hours for back-to-school vaccinations KTSM 9 News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -164,19 +177,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Health officials confirm measles case in central Iowa - KCCI",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWElRc1h5TDlBaWxYZDBUbFRNRVc4RVp0UU5sQ05STWFyaHdocS0wblBOV0tra1dlNDZ5NHVEdHF5bk9qWkhWZ0taUmZyWFBFNlMtSG1idlkteVRkTTdjWXhSY1ZxQTlxYzRYQzFtb0xqZjV4a1pjaE5zajRyUjI3MnBKbmZnaG0weTQ1LXZwd09JNl95czFNZjBR?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 19:03:00 GMT",
-      "description": "Health officials confirm measles case in central Iowa KCCI",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "The difference between a monoclonal antibody and a vaccine may surprise you - Managed Healthcare Executive",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOWZqdG5IekwtWklYamt1UWVYaldQWmRaUnpPNHVFSjJzTXF1MHdla19CajdIM2dJM290Q0xWenJJVWF3M1ZDdmRiRHhBbFl5UXpRek1QUGtDcXBHWm9KRXdENHFHRmtQSlBNZFBpc21FVEgzWkRMYUNEVVdNVlJlT3E5WXExWHRHemMwQUJPS1pSUnlMYkMwTVJFbjg4MWlUWnBCVC1HMXFQSmNtdXUxaXlSVUc0Z09tM21sWVZEVXI?oc=5",
       "pubDate": "Wed, 08 Jul 2026 18:41:26 GMT",
@@ -199,6 +199,19 @@
       "sourceLabel": "News",
       "vaccineKey": "flu",
       "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Andrea Shaw, Plaintiff in Anti-Vaccine Suit, Is Charged With Murder of Her Twins - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZnBjOG1vUldiZDB1V0hVcUVkTnhvZlZ3X1piOElHQnJOOWpveFpaZWtPaVd3WnkzRGFWOGYzeXNzdWJYLUtLelhDT1pwbFRHbkZsOEV6U1p1VWFzRTBSYUZkZmV3VFJJd0hKX2ZmVlZ2SWNtYURidjBsVWNrdFYzX2J2eXh6Q01U?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 18:28:00 GMT",
+      "description": "Andrea Shaw, Plaintiff in Anti-Vaccine Suit, Is Charged With Murder of Her Twins The New York Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -277,19 +290,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Sanofi offers to stop disparaging CSL’s flu vaccine after EU probe - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQnl4akZBR2hNenN4ME4zendaNEVueUFsM0d3ZG1OSndyVDE4RlFPVjhrdVBXUG90X0drdC10bDBTdHJGY1A1RjQ3akw1V0FWZllPOWRmeFRLY3NTTGNkZ21xQ1dwS3FyZVcySENaNjBPOXVQZzh2WW91c3p3QmV5REEzYnRhN3puQnUwNFJGbnBaNEhGbDlN?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 15:57:02 GMT",
-      "description": "Sanofi offers to stop disparaging CSL’s flu vaccine after EU probe Seeking Alpha",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -671,19 +671,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "After the Rush: APAC's mRNA and Vaccine Capacity Hangover - BioPharma APAC",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR0VoOW5fa3ZtaDRNd0VhMkRWZnhUZGVXVHFxSHVpTXpINWhud3pSZDRPOUVWTWEyazV1NDZtZ09UVkFjU1pndGhwLUd4MVdncWdpUm1memVUREpQYWVTR1R5SE1nUldrU2N0OGxlYV9HV0gtMjJVaGZ3WmtZQzExbEpIMDNQdDR1V1RXMy03d3JBenpGaVB4QXZTR00zRDM2RUNGaTBn?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 05:37:30 GMT",
-      "description": "After the Rush: APAC's mRNA and Vaccine Capacity Hangover BioPharma APAC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Researchers test HIV vaccine with success in preclinical study - NewsNation",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rYXN6TlQxS1JaYXBtNk0zMlJtaTh5S29vdEF1MUpvUVhiUkpLOG1aUG1HV3NsR1Fic3ZCQXJmTXNTMjJNV0U4TUc2elJZNk1zdi1XTjQ4Y0RqV2RtZFRtMXlOOGx6ZGxGaVBoSF8zRFluSmNWQ2hB0gF8QVVfeXFMTVBDM3V0SWRWbDJkaFkzS2g2bUJCRmp3YXZyZHY0UXFnNlhDTXhVc0hrRGlUVHNMRjRENlpFa01XRGx6ZHJUaWJIZVpzNnMzc1g5d3ZQZXl5WnRPejNkbnBXUUhReWFaN09zUk0tTDdfa0RHNzU5cFI4N3JaaQ?oc=5",
       "pubDate": "Wed, 08 Jul 2026 05:35:00 GMT",
@@ -697,10 +684,10 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Brain tumors: New vaccine offers patients hope for more time - dw.com",
+      "title": "Brain tumors: New vaccine offers patients hope for more time - DW.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWnd5NHNXTlVnSV81dHItSG5wTlhCalZ6cTI3Z0JFVm83S2dUYlVlalM5NTFrWjBmQ3RoZWVZMXVoa3hnOFcyajh2cG9YdWQyQ0E4TWlCSDJqMnh1MldoLVo2Z3l5cVA5NU8waE5uck9BcnA0RV9ZaVlmU1g3Vzlrd3VzeDIyY2ZHcTNoZWZfSFpncUcwWHZV0gGXAUFVX3lxTE9QUTVNY21TXzhEczE2blZ0SExGbGItZlBDTkVNZ2NmUW51bVZPOHFScW1pcmFlNjNxQ3o0TmJ4UGVwNXVmaVdWMEdjSmZlaHpBTUs3R2FPMGhkQlFzVHU5SjI1SXJSRncxdm5JdEhFckNOT2xKbkVSTjExZ2xQaVVHMFptekpmY195b29XcXFTdF9CWFZRTDg?oc=5",
       "pubDate": "Wed, 08 Jul 2026 05:29:53 GMT",
-      "description": "Brain tumors: New vaccine offers patients hope for more time dw.com",
+      "description": "Brain tumors: New vaccine offers patients hope for more time DW.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -802,7 +789,7 @@
     },
     {
       "title": "UNM Sandoval Regional Medical Center to host free vaccine event - KRQE",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU0k4eXlSWF9paWp1QjRNMTZDVnFUZXdJbjd3cDM1US12X1NzcnR5OXJjdDZ3aWN3ZmctRWJNWDdwdE1wcWRXOHFsblgwREhSYXpQUU9vN0Q2V0wxUXc5aF9mY2ZBcU4xRXpYb0xOam90eExDS0ZCTVhrWWphRlhRZ3BudlB0M2tkbWJOUmVRTVpsaHVLN3p3S2t2NmlzY29XeVhV?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU0k4eXlSWF9paWp1QjRNMTZDVnFUZXdJbjd3cDM1US12X1NzcnR5OXJjdDZ3aWN3ZmctRWJNWDdwdE1wcWRXOHFsblgwREhSYXpQUU9vN0Q2V0wxUXc5aF9mY2ZBcU4xRXpYb0xOam90eExDS0ZCTVhrWWphRlhRZ3BudlB0M2tkbWJOUmVRTVpsaHVLN3p3S2t2NmlzY29XeVhV0gGoAUFVX3lxTE5CUmtVWU1vMzdpamliV3dpVS1Va1Z2SV9ZM19YWVlSZTdPZjFjRF9lNE5yN3dqM2w3VU5uX242YkdTZ3JYLTRES3JwX2pJNks1MExCS0xmRVRoalhjQVVzeXZHWGdvNEU2Y2liLU1nZWZyMVBTaUJMc3c2ZFZ0T3Q0Q1pELV9Reld6NlA5anA5bkpaUXlwaU0xZnhLTjZvUlVqc3h3TF9GRg?oc=5",
       "pubDate": "Tue, 07 Jul 2026 21:14:20 GMT",
       "description": "UNM Sandoval Regional Medical Center to host free vaccine event KRQE",
       "source": "news.google.com",
@@ -818,19 +805,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTGZsT0xBaE5RdHNwTWJzNzdMZTlWTDA1Zlh6bE1FQV9LUG5OYXlTVHYtdFVONEItY3RSNWxXY2h5UGpWR1RjbFpRSjQ4S1pzaEdKekc2bVhab2x6ZnBjR3RlUmQxQ2UzSzN1eTZUTVhtSE5tWlY3Y29ZaTZvOFdrQ2xHVDkzMHJib3BqdnJwZHREVV9JblI2N1FZUWxIX0xhUEdEellMRQ?oc=5",
       "pubDate": "Tue, 07 Jul 2026 21:01:16 GMT",
       "description": "Vaccine Order Sparks Concern Among Experts Infectious Disease Special Edition",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Andrea Shaw, Plaintiff in Anti-Vaccine Suit, Is Charged With Murder of Her Twins - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZnBjOG1vUldiZDB1V0hVcUVkTnhvZlZ3X1piOElHQnJOOWpveFpaZWtPaVd3WnkzRGFWOGYzeXNzdWJYLUtLelhDT1pwbFRHbkZsOEV6U1p1VWFzRTBSYUZkZmV3VFJJd0hKX2ZmVlZ2SWNtYURidjBsVWNrdFYzX2J2eXh6Q01U?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 20:04:02 GMT",
-      "description": "Andrea Shaw, Plaintiff in Anti-Vaccine Suit, Is Charged With Murder of Her Twins The New York Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -903,6 +877,19 @@
       "vaccineLabel": "COVID-19",
       "articleType": "opinion",
       "articleLabel": "Opinion"
+    },
+    {
+      "title": "Brain Cancer Vaccine Shows Long-Term Promise in Clinical Trial - Technology Networks",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdWdjLWQwUjNJTU5GWlRzVHBaWlhZOC1YMkJvQ29vb2UyS3pDS0Vfb29ZVXZQOVE3LUhCUTFTeVpzMkFqS3pHbGcxM3B4SERaQlRWZlF0ZnBDSEtHQ1Q1eEFyLUpqZ3pVbkhfZDFUQkNtRG9ndktjSHU1bGppVFZHdE1jRVZoSmZrOGJ2S0lfSVdxcHBFYlo3NFktX2dCSjNtb1VwRHNsdXp1bmc2VWMwM1B0d1RsUnd5LUxTaEhrVlhDSFE?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 15:47:55 GMT",
+      "description": "Brain Cancer Vaccine Shows Long-Term Promise in Clinical Trial Technology Networks",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
     },
     {
       "title": "Shigella vaccine shows promise in phase 2 trial - CIDRAP",
@@ -1083,6 +1070,19 @@
       "sourceLabel": "News",
       "vaccineKey": "flu",
       "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "TB Vaccine Flushes Alzheimer’s Amyloid - Neuroscience News",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyQ3RTNzZxVGtmbFdEc1A3OFlEY0ZWdzVYZlRMQ0pobl9MS1lJcGM0RzVUYlE4Z3kzX3pVZnNCV2xhZ0pVNUhmVnNybENQa0N4UlhlREgtSFFSWktCMHVNX0trMGlWOVZMSk50eGlRY2lOdDh1NVFkcG5qT2V4Zw?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 18:24:29 GMT",
+      "description": "TB Vaccine Flushes Alzheimer’s Amyloid Neuroscience News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
