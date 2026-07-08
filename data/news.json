@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-08T18:54:13.656Z",
-  "itemCount": 90,
+  "updatedAt": "2026-07-08T19:58:28.128Z",
+  "itemCount": 92,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 11
+      "count": 10
     },
     {
       "key": "flu",
@@ -15,12 +15,12 @@
     {
       "key": "rsv",
       "label": "RSV",
-      "count": 1
+      "count": 2
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 5
+      "count": 6
     },
     {
       "key": "hpv",
@@ -50,10 +50,49 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 58
+      "count": 59
     }
   ],
   "items": [
+    {
+      "title": "FBI Workers Denied Class Status in Vaccine Mandate Challenge - Bloomberg Law News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVFg0RXh5RHhEanNwZS1wRU1OMVVINjhoR1l4c1lFTHFvQm9LSTJLd3BZZ2ZvWGdmMDBpQXluRjcxSlZlYVdVbjUtTUtHRTJKVnJpdXlQOURpa2FDWktSN0EwdGNXakpUc1BRaDFnNUZwU3pBcXY0X2cyYlBJaFB6Z2dENDlSUk1TX0FJMW5OeHN6MFFjN21sbVplSWVIS1JiREplT1ZndlJiY29XV3c?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 19:50:00 GMT",
+      "description": "FBI Workers Denied Class Status in Vaccine Mandate Challenge Bloomberg Law News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "She blamed flu shots for her twins’ deaths. Now she’s charged with murder. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeTZZcV9TQnRXcnVpYTZjdy02bHNHVnFoUzd2T0hOTDEwbkkyNkVPY0ZEMWc3cjBfRXE1bWItakwzbTlPOXZJa3V3S0NLWElwUXpRd1RnaDhxUlVRcDExcGZoNHdFU0xOaXJoS1VrZk40X3BUZVV6UXhEY0pvRGZvekI3WWlEQzl2WTdWMzFaWEJFVTIxallHaU5lYnFlcDlaTndvclBvenlZS2NOcC1IbDdiVUJQVWs?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 19:31:45 GMT",
+      "description": "She blamed flu shots for her twins’ deaths. Now she’s charged with murder. The Washington Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Health officials confirm measles case in central Iowa - KCCI",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWElRc1h5TDlBaWxYZDBUbFRNRVc4RVp0UU5sQ05STWFyaHdocS0wblBOV0tra1dlNDZ5NHVEdHF5bk9qWkhWZ0taUmZyWFBFNlMtSG1idlkteVRkTTdjWXhSY1ZxQTlxYzRYQzFtb0xqZjV4a1pjaE5zajRyUjI3MnBKbmZnaG0weTQ1LXZwd09JNl95czFNZjBR?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 19:03:00 GMT",
+      "description": "Health officials confirm measles case in central Iowa KCCI",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "The difference between a monoclonal antibody and a vaccine may surprise you - Managed Healthcare Executive",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOWZqdG5IekwtWklYamt1UWVYaldQWmRaUnpPNHVFSjJzTXF1MHdla19CajdIM2dJM290Q0xWenJJVWF3M1ZDdmRiRHhBbFl5UXpRek1QUGtDcXBHWm9KRXdENHFHRmtQSlBNZFBpc21FVEgzWkRMYUNEVVdNVlJlT3E5WXExWHRHemMwQUJPS1pSUnlMYkMwTVJFbjg4MWlUWnBCVC1HMXFQSmNtdXUxaXlSVUc0Z09tM21sWVZEVXI?oc=5",
@@ -77,32 +116,6 @@
       "sourceLabel": "News",
       "vaccineKey": "flu",
       "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "She blamed flu shots for her twins’ deaths. Now she’s charged with murder. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeTZZcV9TQnRXcnVpYTZjdy02bHNHVnFoUzd2T0hOTDEwbkkyNkVPY0ZEMWc3cjBfRXE1bWItakwzbTlPOXZJa3V3S0NLWElwUXpRd1RnaDhxUlVRcDExcGZoNHdFU0xOaXJoS1VrZk40X3BUZVV6UXhEY0pvRGZvekI3WWlEQzl2WTdWMzFaWEJFVTIxallHaU5lYnFlcDlaTndvclBvenlZS2NOcC1IbDdiVUJQVWs?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 18:34:34 GMT",
-      "description": "She blamed flu shots for her twins’ deaths. Now she’s charged with murder. The Washington Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Andrea Shaw, Plaintiff in Anti-Vaccine Suit, Is Charged With Murder of Her Twins - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZnBjOG1vUldiZDB1V0hVcUVkTnhvZlZ3X1piOElHQnJOOWpveFpaZWtPaVd3WnkzRGFWOGYzeXNzdWJYLUtLelhDT1pwbFRHbkZsOEV6U1p1VWFzRTBSYUZkZmV3VFJJd0hKX2ZmVlZ2SWNtYURidjBsVWNrdFYzX2J2eXh6Q01U?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 18:28:00 GMT",
-      "description": "Andrea Shaw, Plaintiff in Anti-Vaccine Suit, Is Charged With Murder of Her Twins The New York Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -458,6 +471,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Declining vaccination rates among Kentucky kindergartners raise public health concerns - LEX 18 News",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTk1ndnNDUURUdzVkUzg1QnhOZW1JcWZpYWhtUlNaRFhzb2lkbDRNb2huVHRnQkppVGRLdGFIcFZnTjVhMUlFams4YlNCVTVEMEQzUmJOb3FHTk1uMlEyb1hFdHJrVEdjZjZWMjdVX2llUkF6SzFuc2tQSDFhMU01NmtyUEEtNXRfOXlpRTc2ektfT01hQ3VFUzJpMnU1Z3Q5aHlxWmN6bHJpZy1heDQyVVY1bVVFTnlSWkU4N09LSF9ZSHR6MEktWXdIODA?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 10:04:56 GMT",
+      "description": "Declining vaccination rates among Kentucky kindergartners raise public health concerns LEX 18 News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Sanofi offers to remedy EU’s antitrust concerns over flu vaccine (update*) - MLex",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSTBvc3lIeVd1ajdEanpzVTB2WEFXZDM5aS1tRl90TTlldHNUSkNfZWJmX21Ld1QzUlJCZGsxYk9MV2REVHBKYl9PNnhYQjFSQm1fMlFwaXNVbU5TcVU1bFhJUHN6RFJybkpYZkxhS29FeE43X29PdFBWanBlaEV2WnRqUzNTbjItWUJKakk5SzJnNTdNVXBxN016c2FXR3VRTlltTTFleF9sdDFvck9WSFhGWjBleGFDVUJVOTJzejUzdmE00gFaQVVfeXFMT1lQVGhoVUpxRzRQdWNsTXNYS0t4eV84YTkyWlJyZVFWaDYySEU1ZC1UNjRWTFJzalljN2IydXZfdXA1cVBUeG9fX1lNNmNkNVZUREw5cFd3cWlB?oc=5",
       "pubDate": "Wed, 08 Jul 2026 09:45:00 GMT",
@@ -575,10 +601,23 @@
       "articleLabel": "News"
     },
     {
-      "title": "Brain tumors: New vaccine offers patients hope for more time - dw.com",
+      "title": "Researchers test HIV vaccine with success in preclinical study - NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rYXN6TlQxS1JaYXBtNk0zMlJtaTh5S29vdEF1MUpvUVhiUkpLOG1aUG1HV3NsR1Fic3ZCQXJmTXNTMjJNV0U4TUc2elJZNk1zdi1XTjQ4Y0RqV2RtZFRtMXlOOGx6ZGxGaVBoSF8zRFluSmNWQ2hB0gF8QVVfeXFMTVBDM3V0SWRWbDJkaFkzS2g2bUJCRmp3YXZyZHY0UXFnNlhDTXhVc0hrRGlUVHNMRjRENlpFa01XRGx6ZHJUaWJIZVpzNnMzc1g5d3ZQZXl5WnRPejNkbnBXUUhReWFaN09zUk0tTDdfa0RHNzU5cFI4N3JaaQ?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 05:35:00 GMT",
+      "description": "Researchers test HIV vaccine with success in preclinical study NewsNation",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Brain tumors: New vaccine offers patients hope for more time - DW.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWnd5NHNXTlVnSV81dHItSG5wTlhCalZ6cTI3Z0JFVm83S2dUYlVlalM5NTFrWjBmQ3RoZWVZMXVoa3hnOFcyajh2cG9YdWQyQ0E4TWlCSDJqMnh1MldoLVo2Z3l5cVA5NU8waE5uck9BcnA0RV9ZaVlmU1g3Vzlrd3VzeDIyY2ZHcTNoZWZfSFpncUcwWHZV0gGXAUFVX3lxTE9QUTVNY21TXzhEczE2blZ0SExGbGItZlBDTkVNZ2NmUW51bVZPOHFScW1pcmFlNjNxQ3o0TmJ4UGVwNXVmaVdWMEdjSmZlaHpBTUs3R2FPMGhkQlFzVHU5SjI1SXJSRncxdm5JdEhFckNOT2xKbkVSTjExZ2xQaVVHMFptekpmY195b29XcXFTdF9CWFZRTDg?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 05:27:42 GMT",
-      "description": "Brain tumors: New vaccine offers patients hope for more time dw.com",
+      "pubDate": "Wed, 08 Jul 2026 05:29:53 GMT",
+      "description": "Brain tumors: New vaccine offers patients hope for more time DW.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -588,17 +627,17 @@
       "articleLabel": "News"
     },
     {
-      "title": "HIV vaccine showing successful results in recent preclinical study - fox5sandiego.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lSmp3eF9CekRUTHBiTGlNOU1oeHlaaFJLRGJaX3BUZWJWQzN4d1hpTUNLbkVkb1JCNEt0RVNXXzEyR3pEVmNNZy1MdVJXMGt1UTM3YnFpTS1IR3F3cm4yNkpEWVRYWHBzcml3Vl9GYmpLLXN5d2fSAXtBVV95cUxPYlo1M2JCY1d4SWluaUtMZTlqbDV0ZkVzbGxOUVRTM3hZcGdJcmJyU3dNSDd2OWg1RVNXRlBZSEFyeFhKLVhmd1ZjT3RfY1pxc0FmQjM2QnRERWstd3htcmJEdGMtWUp5Rm93SUhaYmdoRDhLOWNhWWVqYVU?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 04:30:31 GMT",
-      "description": "HIV vaccine showing successful results in recent preclinical study fox5sandiego.com",
+      "title": "Adverse Event Risk Not Up With Same Day COVID-19, Flu Vaccination - Vaccine Advisor",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMG1McmRBS3NiMGF0bUdaYm51cW51UUMyMnZLVkY4SGJ6OS1GNTh1ZTJsWjUteW13Umd1WDFja25XNEMxWnlKNDIxU2tQYUxOTmprWDdld0lzTFZYbExyTEx1ZjB1WHRHdmM4NzQ0NHFkazVIdURXcXJrZVhxWmRoaVR1RjJnREhYSkFYck9SM1UtSm5SNlU0VGFFcXB4MEVmWGFr?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 04:00:00 GMT",
+      "description": "Adverse Event Risk Not Up With Same Day COVID-19, Flu Vaccination Vaccine Advisor",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "MMR and Varicella Vaccines Do Not Increase Relapse Risk in Multiple Sclerosis - Neurology Advisor",
@@ -618,19 +657,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQODYxdWlaWk5xV0VLN0ZXWnlCMUIzWVd6OUlnTndlaGF2WUlnMWFWbnNCbndiUnRlT2FldlVuTVVRUlZab0hjR0RVNnpVNDMxekp4RTAzTHJYTDNtWDM0Sy1UWWd0SExZeEo1VmJCWXBxMzV3RHVrNDlFeFAxck9lcEdlVm9GaHlyQ2NoeU5SRHlkUQ?oc=5",
       "pubDate": "Wed, 08 Jul 2026 04:00:00 GMT",
       "description": "CDC: Overall US Death Rate Reduced From 2024 to 2025 Vaccine Advisor",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Declining vaccination rates among Kentucky kindergartners raise public health concerns - WTVQ",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa2c2Z0tMeEp5NTktanQtbDN6b0JLUVY1ay02bWx5YXJYc0ZNX2NhSlFfaUNvWjZaSXpvYXJuaW9DQ2dSQl9MaGpDQWRWbzllRENSRFprNHFXcEVFOFAtSW9ZWU05X1hhd2libEgySnl4d28wZnU3TnRsN1ZzWUtRZ19nWDc1LWpvRlE4VTZkb0pOSkdOTXJMMUxUc01EcUgtd2p6X0Y1ZE9BUVdG?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 02:35:45 GMT",
-      "description": "Declining vaccination rates among Kentucky kindergartners raise public health concerns WTVQ",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -744,17 +770,17 @@
       "articleLabel": "News"
     },
     {
-      "title": "Moderna bets on mRNA's second act with cancer, autoimmune programs and AI research platform - drugdiscoverytrends.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSG9yT1ZwdGdqX0VTN0lOOHJ3V1R3LTkydHhlSk5DRFpTdk9Odm9wVFpBRHBhVmJpbXpQZHl3M3VQT19mOUplMldXWEVtcV8tbzUtYzREdkhKaXg2ajFLX05XUjN1dkcxVENrU2xPVjFtZ1JsNzFheXFIQ0JKQl82Y2ZaX2RzZGRJMV9SSTlGOVRiaWVfeVRmemZwV2ZCcFpGcVpzVlY5dXlsTUlQN1U1VHAzTmg0RDI2TkUtSzhuZHdDWUty?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 20:32:46 GMT",
-      "description": "Moderna bets on mRNA's second act with cancer, autoimmune programs and AI research platform drugdiscoverytrends.com",
+      "title": "Andrea Shaw, Plaintiff in Anti-Vaccine Suit, Is Charged With Murder of Her Twins - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZnBjOG1vUldiZDB1V0hVcUVkTnhvZlZ3X1piOElHQnJOOWpveFpaZWtPaVd3WnkzRGFWOGYzeXNzdWJYLUtLelhDT1pwbFRHbkZsOEV6U1p1VWFzRTBSYUZkZmV3VFJJd0hKX2ZmVlZ2SWNtYURidjBsVWNrdFYzX2J2eXh6Q01U?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 19:59:45 GMT",
+      "description": "Andrea Shaw, Plaintiff in Anti-Vaccine Suit, Is Charged With Murder of Her Twins The New York Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Tracing evolution of vaccine for cancer, malaria - Harvard Gazette",
@@ -913,6 +939,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Maternal RSV Shot Largely Safe, Except for Hypertension Risk - Medscape",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZHh0TzFkb0NVNW4yOWVpa1A4UHgzMjhmNDRrWW11dHlVdXBZdmVLS0MyMmZwd1pEX0JRSkpxb3FyT25BRW9BWmtqTjlaY0tfUWRWMXZvX012SER5QXl5Nkd1TUo1a2swbjEyM2VUSVNDNWM2Y2VReWZ3eXg4azgwOW45ZmJYbGNHNXF1Y1dqdjVlNzFuQnlIVkRDTHBDLXZBMUNDc0piVjA3QkE?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 11:51:50 GMT",
+      "description": "Maternal RSV Shot Largely Safe, Except for Hypertension Risk Medscape",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "rsv",
+      "vaccineLabel": "RSV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "With measles cases rising, UK launches vaccination drive - pharmaphorum",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLXI3dFlKdldiUkdmTkdxVXpDd2xDZFdvZ2dXNDl0VmJXTHZSeU82NGJ6UWVVakdOc2Z6dkUzTUhiQ1BmM2dyUW82X3QzMkZ3aUJNb1JJTjFoV3pqNGhxcWZfdkRHeHB1ZmJoZThQd2ZpNFA3c3E0UlpRbmNMQnVyUG5WdTN1NVk?oc=5",
       "pubDate": "Tue, 07 Jul 2026 11:01:14 GMT",
@@ -935,32 +974,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Maternal Immunization Boosts Infant Influenza and COVID-19 Vaccine Uptake - Infectious Disease Advisor",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZlhZcUlTMU1qYnZEc1k2VUFLYlVhTVBvSGlkNlA4M1JjVWd6WDlHT3RlZXNYZVJqb082c3U1S2ZPTVExREVfOHNJelZtTVM2MjZtMl9DdzZab1J3R3VNQ0xKSnhlNjQxbkJLbmF5MWRoRTh2UnJjbjlsY1BmVG11VEtJU0I0NEZ6M29fczRndzY0MU9JREZXUVBwb0RqdXBpaktCVi05b0FRbUNa?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 04:00:00 GMT",
-      "description": "Maternal Immunization Boosts Infant Influenza and COVID-19 Vaccine Uptake Infectious Disease Advisor",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Adverse Event Risk Not Up With Same Day COVID-19, Flu Vaccination - Infectious Disease Advisor",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNHV6NzREQlpieFgtZ3htZGFRWEQtR3RtMU52Y2d3WVU5bVl6SmVpZXVHVUpoQzRWbEc2dVMzbFNjSWcwRGRMcHdMTWJaZXQyS3dITEl2RktqcmtTSThmRjdJYUxsbkd3RzVxTXNtbzNaZnB4eDdKdWJPSW1YTjBtRXFiZHpic0N4S05zRURtRGg5Mnh6OEp0WktSVEN0U1lIWDBTbnl2YUszanQ2YWNwcw?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 04:00:00 GMT",
-      "description": "Adverse Event Risk Not Up With Same Day COVID-19, Flu Vaccination Infectious Disease Advisor",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1082,6 +1095,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Dougherty County health department hosting back-to-school vaccine clinic Saturday - WALB",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTmhvOFJRVUFFRnpSZUxCamFFM1JDZ1VfS0VXSU9zRUtZRXBTWk14Z01Xd2FtTVJHbWVOam0wZXBWUTdHRjE2c1NUcnlNTmNWbjlaOVFOUnRsR1hFbnFVWDNCdVZwcVBKcDJnMXoxdE5rb2JoUWlOWWVPMElPeHRnbTROQmR1cnBiWlh3ejdsM3hmX0ZpRWhQclNiTkxoUFhJd3dLY2FsWG82LWFYWHNFSEZfTmjSAcgBQVVfeXFMTk1nbEltcUhta1JrVm1LbWtXN2JnZHpEaGg1STZDWUpzS0JMRXBOYkpuZldIOThjcW8xcmE1ZlhpdENLMHBTN2RlbWl1Vk5QbEJqUlJGeWpOenRZUHBjN0k5d05ucFFNbVFGSzY0ZUlIcVJ6TnB6VmNWSXVreVJoVDlYNk9MQkRlZTZBS3Jzb1FydWVoWkdFN3FrVlF2dXdMVnZGTUxROFE0NVBDOHUxZ0R4NVlQSDk0R0IyU1E1VmpEa0lsTGFYcXY?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 18:18:00 GMT",
+      "description": "Dougherty County health department hosting back-to-school vaccine clinic Saturday WALB",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "FDA Advisory Committee Supports Moderna mRNA Flu Vaccine Review - AJMC",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQVBaZlUxZUlqaXFDOGFNTnJ0M3JFSThMUUJyZl9xVWlHRnRCWThhdmUtSEg5WTd1YWk4MHJpY29MU3RjSkpmc29YQXE3SmtsU3NGQzBKUmFublVZUGN3SHRvc2sxemxnamZSX1diRkN4REVvMHg1TzE5Z0VmZjdycktiYVlGUjNPZVBKbFhfQnlzN28?oc=5",
       "pubDate": "Mon, 06 Jul 2026 18:11:17 GMT",
@@ -1091,19 +1117,6 @@
       "sourceLabel": "News",
       "vaccineKey": "flu",
       "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Flu Shot Offered Robust Protection Against Death in Kids - MedPage Today",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1c1V6WF9RSFVSLTQxLS1uYnFJUGZLR3N0RUhPVGJhSGhvcGppNUtMYkltd2I2WkxLdC1pdmRKVTZFWldOSWR0Vzl1dllaRUFuUjZoV2JiRFNibzFCeVFVam9XVEJEdw?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 18:09:31 GMT",
-      "description": "Flu Shot Offered Robust Protection Against Death in Kids MedPage Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1216,6 +1229,19 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOHc0ajVIaF91R1FMalVEZ0JiTVQ2bldvM3hpOFcwYnJnR1FTVUUyRU81YXVGbDhsT1QzbndjZE9DdDZZTXN3ZGl1RlVtbm5jZFdwOTB3SlBxbGF2MVgtc2h6RjBKOGtZeWVqOUNHTVZUSGk2RnZ5NC1zV3RPalVUQngtTnVtLXhvMUNBUnd6cXBJbkxBem1LdVcyeDJKTWNTaFFWNWRJd3VUTmZWcVJLZkpENHh6blE?oc=5",
       "pubDate": "Sun, 05 Jul 2026 09:00:00 GMT",
       "description": "Would Missouri hunters take a Lyme disease vaccine? We asked them KCUR",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Cervical cancer - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YbGwxRnppT1RaNDdubnJjdHVudGV4b0tQMTRYQzF4VkhEbldzZTMzY0U1YTRQdWg1V1F3UVdZd1g5OXd4TXBzUndMZ19lRDlqTV9NQmtUVDRjaFJfcERtN1Eyb212bFh6S1JvRWtYQ250QQ?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 07:00:00 GMT",
+      "description": "Cervical cancer World Health Organization (WHO)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
