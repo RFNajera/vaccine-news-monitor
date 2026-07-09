@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-07-09T15:32:55.572Z",
-  "itemCount": 92,
+  "updatedAt": "2026-07-09T17:11:43.026Z",
+  "itemCount": 93,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 10
+      "count": 12
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 6
+      "count": 5
     },
     {
       "key": "rsv",
@@ -33,8 +33,8 @@
       "count": 3
     },
     {
-      "key": "meningococcal",
-      "label": "Meningococcal",
+      "key": "pneumococcal",
+      "label": "Pneumococcal",
       "count": 1
     },
     {
@@ -43,17 +43,90 @@
       "count": 2
     },
     {
-      "key": "rabies",
-      "label": "Rabies",
-      "count": 1
-    },
-    {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 56
+      "count": 57
     }
   ],
   "items": [
+    {
+      "title": "State Health Officer warns Mississippi Board of Health about declining kindergartener vaccination rates - Magnolia Tribune",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWklua2thMV81MDhoTF9weFE4RlN5Mkw1MUpNRHdoeXBqTUNEU1hhVmFMcHlXZklhN0dOUHNtZndNN0JMQ1FITXpHWGNQLVRGX3JZMlcyemVsOTJBM3p5VFRuRkV2RlZTSm9tbW01Z2tRTmtPMkZ6QVBiaDR3aUZCaGNhUXJzR3dMQktOR2FXSnlxUEJjeUVQcGI2akhDM3lDZms3WWZTVTJHU2dlR0JDYnV2dVMtZ2RQeVJZYlBvdmI1MzhpTk5rLUF2VEVQMm52VlhFbWw2TVJoMkU?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 17:09:54 GMT",
+      "description": "State Health Officer warns Mississippi Board of Health about declining kindergartener vaccination rates Magnolia Tribune",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Julie DeVuono, former nurse practitioner who sold fake COVID vaccination cards, gets historic $544K state penalty - Newsday",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc18yUGpOa0JaZWVFUHE3X1RYWGZTQkxBbUp4M1d5N2lsejFjVklCQmNUWXk5OUVPLW5sdXlXOFFMNFczazYyX0hnTkppSU81ZFdSQ290YUNhNE9tdGt4RXRabjN5ZjVWZlRjcG9FajRrUGFUYmphN3gxdlBGWEI2U0gwN1U3SVdiNE1yM0N4Wk1qVzZiMzJvanFfVG9fcUVjX3dEb24wN1lxa05SUXk0Zl9NdXI1UnJHTVFNTw?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 17:01:36 GMT",
+      "description": "Julie DeVuono, former nurse practitioner who sold fake COVID vaccination cards, gets historic $544K state penalty Newsday",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Conservative MP calls for public participation in COVID-19 vaccine injury inquiry - Global News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQU1IRzhXaEctUlFKbk5FaWFnNGJ3QXQ4T19mdzJkRmxxbHh2cTVjRXRtRDJQQmFYVUxtaGpkR0plRkRaaWFwWjhId0lfS2d6S3JKVkxhd0JCOGlTdWY5RHlXd3ljeXV1TFNVMkpWSmZPRXFlT1dOblFlb2tqMTdmbTlEUkxTSWtXM1JYRkRPNFdwVkp3cUp4bTVycnpjWXhrR0htUDJYX3FLMzZ6TXdfT3gxZndRVVQ2dHUw?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 16:35:07 GMT",
+      "description": "Conservative MP calls for public participation in COVID-19 vaccine injury inquiry Global News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "HIV vaccine candidates reach milestone in primates - Chemical & Engineering News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNzMwNFdEZ092bm5uVkhLcVpxc2p1YXVmcXJ4YVMzSEtUN0o1a1NtYlk5TWd1aHJnZjgyVEE0M0hYZ2dyUFVmQS16NWdoWWRLeV9JRG5qdHlfb2RucnlzYzI2LUlvSThMVGlqalBrUlM0MVJFTnFlMXpvWWw4eEpmX2x5RXhjS3FxOEtleXVMc3E1X3FBTXZXWkZWUFlHcFdK?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 16:24:42 GMT",
+      "description": "HIV vaccine candidates reach milestone in primates Chemical & Engineering News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Antibiotic Resistance in Pneumococcal Disease Falls as Vaccine Serotypes Recede - Drug Topics",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcnBqNV9TY2xIV0FUelZwR0dIaXRUWW81ME5wdmVsa2ZSQlQxYzlTTmRNSTc1LV9CMU10RDZoN0hvdDd0NEtlTUFhMTlSeHpqX0ZwTXNpa0llenYzZlNURVJzbEdKQ2NvMzZ2SzN4dkM3TGxhc01PZDNWcXpONU91NUNhTVh6RzFjeXc0ZzZMN0o2TEQ0U3poVDVSYjgwLUZVV2Rpek5SSmFkWXd2aW1NMg?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 15:37:41 GMT",
+      "description": "Antibiotic Resistance in Pneumococcal Disease Falls as Vaccine Serotypes Recede Drug Topics",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "pneumococcal",
+      "vaccineLabel": "Pneumococcal",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Measles cases return to CT, but doctor says high vaccination rates should prevent wider spread - Connecticut Public",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPek85ejAxLUNDREhQYVNFeUZWUWR1aEVCNmRja1VQM20wNEJUYVBxQkdDNmgyM3lXdkJOZVpPRTZhQ3NkV0hCUktSQU9ZelZlVm1LajlqT1I0U2tKNmdBREJXQnZCcjdjQ3VwZlB0N1lBdjNUY1d0Mk54Sjg3cmJKWWRVTTFFbWpFaUxGZ2JfYXNTWkJ3Q0ZVSkZUU2ZPdS1jcE15X2lHdkVmYldWUEw0MlJyRThuMmpfeGxUUVpKbXZCeXdTbzlhRDlEZ0k4OWc?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 15:35:00 GMT",
+      "description": "Measles cases return to CT, but doctor says high vaccination rates should prevent wider spread Connecticut Public",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "As Ramaswamy vacations in Europe, biotech he founded collects $950M COVID vaccine payment - TiffinOhio.net",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONjZCb3U2VFFwVmRVcjBZcHZUMXFCak9mOUxzdWEwWDAtNFpMV3pTaHhRVGpxemZZZThIYWcwUEFVcVJLOWRYTDd2VzFIM2Vpc0d3U3V2RFU2cWI1Uy10aDNiVnVEUVV4N0FBUU4yc3VGQlZYZmFRVmZEbmNVVUJYQUY1SW5fV3h0ZEVRdkZB?oc=5",
@@ -107,17 +180,17 @@
       "articleLabel": "News"
     },
     {
-      "title": "New HIV Vaccine Offers Strong Protection Against The Virus: What The Study Found - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM3djbDVtTll2dWRVNWRTZjZqalhjbDBaSVJsVGxrZkpDZXp3Qko2WGQ3dDJXbW0tdklDbWdZYkxKX0p1WVNWcWhFQ08xYi1IYnhOLVZ6TmhSQXlEYmJOUC1QTGdPSk5MWnc4cDNCUTVrVGtuUGpiOElidUw4RDNrZzE2U3hVYXhqU2g3cXFJS2twRkQzR0YtcFZlN3l3a1ZHOExlTVFteGVfeVRnVlBDRjI1UjlUM0VFUVVaaWFR0gG_AUFVX3lxTE12ZDdRZFNESzFaWkNVSUk2clc3R2F5T1VqM205RXBBNmdheUNGSmFxbWFQWEhpS19ULUFaUmJKSkw0LTlMNXl0aklZOXVpOU93X3BPNk9EenNuaUFtZHpOdnFHWVhiTmE1S3hHbTgxQm4tWWM1cE8yaXR6Y0ZZc2gtbGVDakt0ZFBWTFFOTmFrQVBSTVg4WjBKVllzMmo4LWxnRlJMYTJMQmNJWGV6MkxsY3RIMVY2S0RDeS1NNEc4?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 13:43:38 GMT",
-      "description": "New HIV Vaccine Offers Strong Protection Against The Virus: What The Study Found NDTV",
+      "title": "What Employers Can Learn From Recent Cases Addressing Vaccine Exemptions - Law.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa3pzQUNWQktTM3ZTNG5uNjhMM0k4STU0N0lFRUVxOWRsd1dlVW1CQ2lTQTIzT0RELVhCNWNzcWZHbnp6YWgzRzlwRlVRMHMzcDBXVzRZT1F2NGFrVDlkZUE4STF6M2oxYkhaV3ppblBZSy16cHVsY3FoUG9FNTY5c3UwdlJ6YUctRHhYbXBEMTI5Nzc0dGNjcm1QeEhoeW5uRThvanA5VXc2NDQtVGtMMVhfYldQWXZ6M2xPdHJ2bmFrdHp4?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 14:17:00 GMT",
+      "description": "What Employers Can Learn From Recent Cases Addressing Vaccine Exemptions Law.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Back‑to‑school vaccines: what DE requires before school year starts - The News Journal",
@@ -254,6 +327,19 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xNVRsWjNOX0pQSTZEUG1lakthekNmLVg1ZC1meXJDanUySVZuekI4Yms0SjVuOGk1bTNuMjZKQmt6SV9UbFUzYU5IZi1mZEFJZUZhWXFTYXdpNkF5LTBnZmFNalFtZnJRRzRLT25Vcw?oc=5",
       "pubDate": "Thu, 09 Jul 2026 09:50:20 GMT",
       "description": "Nordea sees bright future for Bavarian Nordic's vaccine sales medwatch.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Việt Nam, France urged to pursue long-term vision in vaccine cooperation - vietnamnews.vn",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcS1CQVZOS3NveHUyYS1FVlVBWHVkOGRkVUZCYnc5bUY1d2M3X0VQTlAxYlp1dWx2dTBBbnpyT2J1OTBId2dBQTRIUDdoLW83SFhaNnBGNjFqaTRPcDFlNHN4Q0sxeVdtaXVLODl3c2FOZ01pUVI3aUVqWGt3YVU3cXN4Y2N2VG9FVk4yV2VYUTN6RUczUlNmbjQzalh2R0JaY0MwOUFhS3NZbjVhejA1Si0wSWlPZw?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 09:44:00 GMT",
+      "description": "Việt Nam, France urged to pursue long-term vision in vaccine cooperation vietnamnews.vn",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -497,19 +583,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "MenB vaccine offers men no protection from gonorrhoea, claims major study - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12M3hmSXhYQ0NMdF9ja01KMC1PYmJmbDh4b2ZvbU5PTmdIMi1xRnFTWDBNRV9kQTNRdTlWT2dDb0MtS2lyMGlON2FsNUZ6ci1GUHRfVEhtR0F6Q0ls?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 21:06:53 GMT",
-      "description": "MenB vaccine offers men no protection from gonorrhoea, claims major study BBC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "meningococcal",
-      "vaccineLabel": "Meningococcal",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "Hep A outbreak prompts health unit to expand vaccine access - Northwest Ontario News",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWHFQd0VwTFYtVlFwbF80UFlEYld0Z3U2NS1uV1ZVa3VZMlpXM0FnRFpVQVUtR2w0clpXRlgwQnVqQzJ4cTB0MGtqUER4Yk8zbEZJRXR2eDd6UnFUa1FILTlkTHhaWkoxU1ZiSUVQUWNjd205dXUzT3hYVm56Z3dZeGwxUzhpTWlBSldkWUg4Y3YyeGZPR2FKZEhvR3lqZXlydzFEWlBEMzBxdmM?oc=5",
       "pubDate": "Wed, 08 Jul 2026 21:04:06 GMT",
@@ -605,19 +678,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOWZqdG5IekwtWklYamt1UWVYaldQWmRaUnpPNHVFSjJzTXF1MHdla19CajdIM2dJM290Q0xWenJJVWF3M1ZDdmRiRHhBbFl5UXpRek1QUGtDcXBHWm9KRXdENHFHRmtQSlBNZFBpc21FVEgzWkRMYUNEVVdNVlJlT3E5WXExWHRHemMwQUJPS1pSUnlMYkMwTVJFbjg4MWlUWnBCVC1HMXFQSmNtdXUxaXlSVUc0Z09tM21sWVZEVXI?oc=5",
       "pubDate": "Wed, 08 Jul 2026 18:41:26 GMT",
       "description": "The difference between a monoclonal antibody and a vaccine may surprise you Managed Healthcare Executive",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Trump, RFK Jr. and your child’s shots: what to know before school - Bergen Record",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUVpnbEJCV3Jyck1TVWVBTGtXN1hGbHY2QXFLZjl6RkI3T3BVUHdzZnU3NkFidHpobE01WFhxNEs4YmRReG5VdlZqejdrREoycDRuOVNHYnZlVThGYlhmVndKSndRS24xYkU2RzFfZ2J6SW9DbVhZeWtpQVc4VzU2WmNZVVZIVjh2VktfUHhqWlpqMm1VYTNzUC03RWlBVDBRZlhZNUZYeHFPTjNyVW5pemZzZUxMX2NQbFhidmUzcWVPN0tk?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 18:15:00 GMT",
-      "description": "Trump, RFK Jr. and your child’s shots: what to know before school Bergen Record",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -757,19 +817,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Declining vaccination rates among Kentucky kindergartners raise public health concerns - LEX18",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTk1ndnNDUURUdzVkUzg1QnhOZW1JcWZpYWhtUlNaRFhzb2lkbDRNb2huVHRnQkppVGRLdGFIcFZnTjVhMUlFams4YlNCVTVEMEQzUmJOb3FHTk1uMlEyb1hFdHJrVEdjZjZWMjdVX2llUkF6SzFuc2tQSDFhMU01NmtyUEEtNXRfOXlpRTc2ektfT01hQ3VFUzJpMnU1Z3Q5aHlxWmN6bHJpZy1heDQyVVY1bVVFTnlSWkU4N09LSF9ZSHR6MEktWXdIODA?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 10:04:56 GMT",
-      "description": "Declining vaccination rates among Kentucky kindergartners raise public health concerns LEX18",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Vaccination Rates Lag in Patients With Rheumatic Diseases - European Medical Journal",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSXVVVzZHcTBQOGo0V0V0VFVGcFU3YjFTcm5jLWlvTTRUYVZFMDZEVm5SeVpITmxtZzBhd3doSDdEa1BmWlMzaVdVZS1wcXpwRXZkR1NSdDEtWUtueFR2NE94Z2RUMkZjamI0dm8tQW9pdk9lcFpYUWhFSEVhdURpcW1iMndRWTkyT0RodndFajVBLTk0dFk1aWE0cnZibmtfRk1iX0p3?oc=5",
       "pubDate": "Wed, 08 Jul 2026 09:03:52 GMT",
@@ -781,19 +828,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "Evaxion to Present New Preclinical Data for AI-Designed CMV Vaccine Candidate - The Hearing Review",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZEFIb2gtbHN0NGRQS2ttMTQ5UTRXNS1FdTRtRHRrb29nLVYtcXprMzJDdWZSWk5vLUowTXNsWVRZbkZDc0RQTTVtbjBBbzN1cWJuS3A1OTVjYnFwdDd0RF9ySDg0c2dEZGVJUE1Ed09RWU1JNUFTcDhoQ0gxMkwwQjY0dVJ0TGlzalFWMm9nM1dlQXRzdnFXNHE1YWwyejBYalI4bjlSNWJMTEowVGl0WEFZRVZLNHVKUkdnYlpzTnZ4OXlrYkE?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 08:58:02 GMT",
-      "description": "Evaxion to Present New Preclinical Data for AI-Designed CMV Vaccine Candidate The Hearing Review",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "Dry mRNA vaccine patches reveal design rules for room-temperature storage - Medical Xpress",
@@ -848,19 +882,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "MMR and Varicella Vaccines Do Not Increase Relapse Risk in Multiple Sclerosis - Neurology Advisor",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONkRzWVV4VDBVY1czS3RGQlFpREhYOURyQmJGX1dEM1ZFSkd2dHRUTy0wWnBHbllWbVRGWnZXSFUtLVBWVV9IYkd3Z2ltSjZzUEZHZ0FXQUU3bFBoNldOUTZZVm40VUR2ajh4Wks5enplTGw0NDRkbmpUM1RmUEcxaWJYTFBUWTdfUmtvTkJxNXROZjA?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 04:00:00 GMT",
-      "description": "MMR and Varicella Vaccines Do Not Increase Relapse Risk in Multiple Sclerosis Neurology Advisor",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Germline‑Targeting HIV Vaccine Generates Broadly Neutralizing Antibodies in Primates - Genetic Engineering and Biotechnology News",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOXZXSXFfWEVua3c5OVo3RGp6UzVZVHFIN2RxQ3NwdTVKVUpvVjE5X0Q3TFp6WWpscVVpRmh4ampyTWVXYzd6WVBaejB2RG9XMUdPN0JiSDdPSFFaQlFIVXhiTXQ1UkxYdC1LTEhDNFhhNlplNjVUbHpPWm1VRmEwRGNxV2NEeEM5RVhIX2VpSlM2QTlnUkNhaE0xWXRHd0dOT25LU200TUdGX0xkdDJaY2hIWWhEMzV4RkZrdkZtWHFpckIwRGJiZExIWllpWlhubjBCY3dB?oc=5",
       "pubDate": "Wed, 08 Jul 2026 00:06:06 GMT",
@@ -900,6 +921,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Vaccine Order Raises Concern From ID Experts - Infectious Disease Special Edition",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTGZsT0xBaE5RdHNwTWJzNzdMZTlWTDA1Zlh6bE1FQV9LUG5OYXlTVHYtdFVONEItY3RSNWxXY2h5UGpWR1RjbFpRSjQ4S1pzaEdKekc2bVhab2x6ZnBjR3RlUmQxQ2UzSzN1eTZUTVhtSE5tWlY3Y29ZaTZvOFdrQ2xHVDkzMHJib3BqdnJwZHREVV9JblI2N1FZUWxIX0xhUEdEellMRQ?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 21:01:16 GMT",
+      "description": "Vaccine Order Raises Concern From ID Experts Infectious Disease Special Edition",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Andrea Shaw, Plaintiff in Anti-Vaccine Suit, Is Charged With Murder of Her Twins - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZnBjOG1vUldiZDB1V0hVcUVkTnhvZlZ3X1piOElHQnJOOWpveFpaZWtPaVd3WnkzRGFWOGYzeXNzdWJYLUtLelhDT1pwbFRHbkZsOEV6U1p1VWFzRTBSYUZkZmV3VFJJd0hKX2ZmVlZ2SWNtYURidjBsVWNrdFYzX2J2eXh6Q01U?oc=5",
       "pubDate": "Tue, 07 Jul 2026 19:53:26 GMT",
@@ -911,19 +945,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "New Study Shows Flu Vaccine Helps Prevent Death in Kids & Teens - Parents",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT0RRRTMzaE1sUjdmY2xYaVF5YmpRNjgtZ2ZFZ3M1TlREbFo5QUhFUlB4MlZpZmxReFAzVGF0WnFiN3VGWHZnQ3l0cUhwVkpXYXRhdG9SRElxSGhxeVB5TWZLd3hKSkF4RDUxOXBUU2VfRjJpVDhNY3pfblJMZ3JIYk13?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 19:00:00 GMT",
-      "description": "New Study Shows Flu Vaccine Helps Prevent Death in Kids & Teens Parents",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "Zoetis receives EU authorization for Newcastle vaccine in poultry - Feedstuffs",
@@ -1117,19 +1138,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "The Rabies Vaccine Debuted Nearly 150 Years Ago Today - Nautilus | Science",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaXZ2MDRVOFFudktEZmt2WlF5Vm9ON3Q5TTZmbDNqUHR2SzNodFZ5V2lZVlVOeTQ4TDJRS3BrLWpGX2tBbGtvVHYwRExOS09FSGRteldJMkhKX2Jod3dhU3FzclhDQXpHWDJFaXJEblFjMndOTHdvWGxCUk1keDdZcmctSGdiUQ?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 22:00:00 GMT",
-      "description": "The Rabies Vaccine Debuted Nearly 150 Years Ago Today Nautilus | Science",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "rabies",
-      "vaccineLabel": "Rabies",
       "articleType": "news",
       "articleLabel": "News"
     },
