@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-07-09T11:35:14.824Z",
+  "updatedAt": "2026-07-09T13:28:47.051Z",
   "itemCount": 88,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 7
+      "count": 6
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 5
+      "count": 4
     },
     {
       "key": "rsv",
       "label": "RSV",
-      "count": 2
+      "count": 3
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 6
+      "count": 7
     },
     {
       "key": "hpv",
@@ -30,7 +30,7 @@
     {
       "key": "hepatitis",
       "label": "Hepatitis",
-      "count": 2
+      "count": 3
     },
     {
       "key": "shingles",
@@ -38,12 +38,82 @@
       "count": 2
     },
     {
+      "key": "rabies",
+      "label": "Rabies",
+      "count": 1
+    },
+    {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 63
+      "count": 61
     }
   ],
   "items": [
+    {
+      "title": "Back‑to‑school vaccines: what DE requires before school year starts - The News Journal",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcGdoZFVZWVFKWkc1ajR4UnR3R1NkbkluWXRyZXUyTWllUjFva1E0MFlmSV9majNWbkJEUDBJX2tzU0VtQ1NXNUg2b0JsckV3Y1ZjOEFTSjFvVTEtZFcycnhiaHNsUzluUVhTcy1LcUt1MHd5REczSjFZWUx4X0lVcGtHQ2cxYUVPa05nMkVGZ19MYUlKT1ZWRFJsNW9GR2FiRl9sam9rWUh4VXN6Y1E2aFcxQ2l1NnhUVzdNVTZ2WS0zSTNMclBYNjVn?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 13:06:00 GMT",
+      "description": "Back‑to‑school vaccines: what DE requires before school year starts The News Journal",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "A century-old vaccine may have an unexpected role in protecting the brain - Gavi, the Vaccine Alliance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX2t2ZjZmelZ3Ty1PMFI2dFNNTm5ScU9yQ3ZWY0ZWLWZlTkVSMmdKdGxuUG1xc3Y2WlNWZUp0ZVpkNHVjSld2VkVCZmt1eEJtQlFkNU1UNDdXQWtwR2JnUk5VZ3BfU29EOV83aFF0NWxkM3ZGLXd1UjNtZkhkeF9CZng3VjlFTlpSalY4bzZheEFBZGsxYjJHcXZrUQ?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 12:55:57 GMT",
+      "description": "A century-old vaccine may have an unexpected role in protecting the brain Gavi, the Vaccine Alliance",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hepatitis",
+      "vaccineLabel": "Hepatitis",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Moderna wins EU contract for RSV vaccine supply - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcTVCVnkxZk5MNExDemVjYXdMTzgwQUtUdTBKVWxvMU96TUdCRlFjaG56alB4OU9kLS1sa01XQm5YbUVJSVFxVDJQaXdycHVNVWFEWklYcEF6RFBDZmJZb1hMLVdZdEs4WW5zdmRWSEhhaDhlMDlpdzN5cFhLeE1yUXF6VXp6cV9ERWxHdEdjRlBoaDRHdG9CWHp2LXJFVjVuZjN5bzRaRFN6ZnNqTmJoTkhIcTlJQQ?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 12:11:49 GMT",
+      "description": "Moderna wins EU contract for RSV vaccine supply Reuters",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "rsv",
+      "vaccineLabel": "RSV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "New Vaccine Offers Hope Against One of the Deadliest Brain Tumors - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWFJMNVhzQUlPbFFZSnFWRGluZmZEeVpocTRoZFVEOC00MVI0ZkFENUNNdm5UNU53ZE1XX0hyQTkxZjZfMV9JUjhSNVFMTlZhaVVRT2xfSVpkZ2o4WGRIYlBXZzNQWVNSLW9hNk5MUE1GSW5zcjREOVM4OFNvRXNNR1M1T1ZtWlU?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 12:08:00 GMT",
+      "description": "New Vaccine Offers Hope Against One of the Deadliest Brain Tumors Newsweek",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "New KFF Poll Examines Patterns of Belief Across Common Vaccine Myths — The Monitor - KFF",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZFV2YTNIM0hTdXNQR2Z1VXlzWVdtVWhyZHF1LTk3Y0dSR0RER2JwdjFPaGliRFlCanN1dkc4VHhOamhRNmlnWWU0Z1Bxa09kVk5YT1MyU0EtajhGY3hDWjliZlNoOXA5ODhUNEdKa0lzMmI0ZWI3QWhHRkpBdGxqaEphY3JPdmx3cjVnM1ZfMGU5X3BvdkpzQXc2a1V5NExQYlhmT0Izcm1VQV80a2tKT0s3dnRUYzJ0aXl0ZXJzbjdNVlBW?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 12:00:00 GMT",
+      "description": "New KFF Poll Examines Patterns of Belief Across Common Vaccine Myths — The Monitor KFF",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Who’s going to run the FDA? - STAT",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81WDYwX3VhSnczX2poN29rWTNEWUw3SjYxVDJKLVFxQTdfVXhlYU1GcXhLdGxnWHQ2bWxwY05admM4a1UxV1JscDIzVlk5Z2h2T1ZHbUFGQ2puSzBTOC1GVHhGcFhDYktYcFcyWXdpZkpwM1U3XzJsczdoa1FZWjg?oc=5",
@@ -58,10 +128,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Moderna wins EU contract for RSV vaccine supply - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcTVCVnkxZk5MNExDemVjYXdMTzgwQUtUdTBKVWxvMU96TUdCRlFjaG56alB4OU9kLS1sa01XQm5YbUVJSVFxVDJQaXdycHVNVWFEWklYcEF6RFBDZmJZb1hMLVdZdEs4WW5zdmRWSEhhaDhlMDlpdzN5cFhLeE1yUXF6VXp6cV9ERWxHdEdjRlBoaDRHdG9CWHp2LXJFVjVuZjN5bzRaRFN6ZnNqTmJoTkhIcTlJQQ?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 11:18:11 GMT",
-      "description": "Moderna wins EU contract for RSV vaccine supply Reuters",
+      "title": "Moderna wins EU contract for RSV vaccine supply - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ0VLYVREemN3YTh2ay01UEcwa0duZkw5TjhFWm4wTGJvMHR3N2p4TzNVbElTMmVtdzdCZFZJcjdyVUJxR3NIQk9CdHZjTXhKanBrOGVJVmZlV3dSTmVLSW5aV0ZOLWFwMzllelBpclM4bXNFaFF1Y3FTYWMxZkVQbXJlb0pTQXd6bVE1WHRZUjhSSnpTcDVKa0U3R3VDekl6ZmZOQVpaY2hSbVNTSDFwODkxWndISlNa?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 11:15:01 GMT",
+      "description": "Moderna wins EU contract for RSV vaccine supply TradingView",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -422,19 +492,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "FBI Workers Denied Class Status in Vaccine Mandate Challenge - Bloomberg Law News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVFg0RXh5RHhEanNwZS1wRU1OMVVINjhoR1l4c1lFTHFvQm9LSTJLd3BZZ2ZvWGdmMDBpQXluRjcxSlZlYVdVbjUtTUtHRTJKVnJpdXlQOURpa2FDWktSN0EwdGNXakpUc1BRaDFnNUZwU3pBcXY0X2cyYlBJaFB6Z2dENDlSUk1TX0FJMW5OeHN6MFFjN21sbVplSWVIS1JiREplT1ZndlJiY29XV3c?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 19:50:00 GMT",
-      "description": "FBI Workers Denied Class Status in Vaccine Mandate Challenge Bloomberg Law News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "E coli-produced HPV vaccine effective against cancer-causing strains of HPV - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOWxubDlqbDBlQ3NBZ0pGMkg1bjFoNnBpZ2ZhcWtRUTFjVXFYZHM3dWZjYUx3eGw0ZkF6elJuV0tmRXVUS3gzSHF6UUVZa1BtSVNNWk11VHVaOWRzTy1sSVJhZ0ZrVG5SZlBwRzdaV1RleTc2eEpTMmd3cHJwOFZDY0dFbW9xcWp0T3lyTmZlN2xWbkxzY0o4c2FvVEZEaEhpS245RGNoTkFWQXBpcUR3dmdwZmEyZnFucFpwY0tDMA?oc=5",
       "pubDate": "Wed, 08 Jul 2026 19:35:00 GMT",
@@ -461,15 +518,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "EU Invites Market Feedback on Sanofi’s Proposed Antitrust Commitments in Flu Vaccine Case - PYMNTS.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQelB0MVFQbmFkMU1DMHRUZ2NfR0k1anlTSjlqcmU1RGJMVFZsa2ctQkpOR1Y5eGN1dTFOc2xxTmdCQ3pVeWN2QmxZV2k2UVVZZmctRzk4dGdGanF5d2lMUVM2LUtWY196N0JHNnNzbi1QcHhUMGpRV2szQmNrRVRCdXM3ek84Vm1OQ0lFZ0N1d29NTXlpVW1GaDFkVV85SHRPVkhCY2gyd01jVmhORG1scW5NdjdYUTZSZVhBblNfYw?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 18:35:28 GMT",
-      "description": "EU Invites Market Feedback on Sanofi’s Proposed Antitrust Commitments in Flu Vaccine Case PYMNTS.com",
+      "title": "Andrea Shaw, Plaintiff in Anti-Vaccine Suit, Is Charged With Murder of Her Twins - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZnBjOG1vUldiZDB1V0hVcUVkTnhvZlZ3X1piOElHQnJOOWpveFpaZWtPaVd3WnkzRGFWOGYzeXNzdWJYLUtLelhDT1pwbFRHbkZsOEV6U1p1VWFzRTBSYUZkZmV3VFJJd0hKX2ZmVlZ2SWNtYURidjBsVWNrdFYzX2J2eXh6Q01U?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 18:28:00 GMT",
+      "description": "Andrea Shaw, Plaintiff in Anti-Vaccine Suit, Is Charged With Murder of Her Twins The New York Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -500,10 +557,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "AWLA wins largest grant in its history to address veterinary care access - ALXnow",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYm5hcU5KU21ESVk5M0lWMFFsLXdjYnJHZWZPTWVPR25aX1dIR2YwdEVWRDVHcUctQXlSOU9vTnpuTGF4Tk1QZDNtRDJuZS1hdmlqZ2E2NldBMU5hUFBLWXVGTzFFaER5VVEtdTlIdzJscFY0SldZLXBIcUJNVktfN29ET2xoQ2sxbHpEaUd1QXRUNGVvSGJMczBZd242TERRb0djMExOdEhHX1k?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 17:45:45 GMT",
-      "description": "AWLA wins largest grant in its history to address veterinary care access ALXnow",
+      "title": "Brain tumors: New vaccine offers patients hope for more time - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWnd5NHNXTlVnSV81dHItSG5wTlhCalZ6cTI3Z0JFVm83S2dUYlVlalM5NTFrWjBmQ3RoZWVZMXVoa3hnOFcyajh2cG9YdWQyQ0E4TWlCSDJqMnh1MldoLVo2Z3l5cVA5NU8waE5uck9BcnA0RV9ZaVlmU1g3Vzlrd3VzeDIyY2ZHcTNoZWZfSFpncUcwWHZV0gGXAUFVX3lxTE9QUTVNY21TXzhEczE2blZ0SExGbGItZlBDTkVNZ2NmUW51bVZPOHFScW1pcmFlNjNxQ3o0TmJ4UGVwNXVmaVdWMEdjSmZlaHpBTUs3R2FPMGhkQlFzVHU5SjI1SXJSRncxdm5JdEhFckNOT2xKbkVSTjExZ2xQaVVHMFptekpmY195b29XcXFTdF9CWFZRTDg?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 17:18:59 GMT",
+      "description": "Brain tumors: New vaccine offers patients hope for more time DW.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -522,19 +579,6 @@
       "sourceLabel": "News",
       "vaccineKey": "shingles",
       "vaccineLabel": "Shingles",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Second Chance Animal Services Brings Free Pet Vaccine Clinic to the Community - WWLP",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNajA4NVMtMjVaZFBydEJxWFdQemtQdUQ0QnFfRlctSU1YUDk0RzVpSnV5QklZMDVuRFlnUzcwMlNUR3pEX1NhWVZ2eDJKdl9zcFU1UFdCSzIzT1R5UXFzUzRCQUJ1Nk9DX1ZNeW5UM2NSdVUtZHlRMXZOT1puaXZFUV9tTU05RWFZc0ZmbHdOMlJxdFVzYllTV2ZQOGM2R0VzYTJEelBnX010Vm1pa2VF0gG0AUFVX3lxTE5LRS1mbFp1X1R1VEFSaHNqY3Z6eldHNzNuOXE0SnNkVW5hMTZMTFZsY2RsRkxpQ25heGhLN2VIV1JpNFNsWXV6WC1BeFF2U3JhRjFWN1BfYmxkN29kZ0wxdFFNcEd3bnpaM2NXUm02MTJVSHFBRzNtRmV5LTBJNlFTamVZNnhZcjZBcW9BeEtPZklWNkc2b2M4VlUyd0RFUUFhc3lnMUtDTllOXzdybGRoakJjaw?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 17:03:13 GMT",
-      "description": "Second Chance Animal Services Brings Free Pet Vaccine Clinic to the Community WWLP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -591,19 +635,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "ZTS Wins European Commission Approval for New Poultry Disease Vaccine - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMUZCdFNmLW8zbEJzNF9jYUtoeXFzZE5BeEQzUlZtT2VnbXI2SVdxMm5KS2tFVlB3WUJ6R0MyZUpOMkFlcVdITUI5OGo0a0ZlNnoweGgtdENtLWhmZEhOY1lWY0Q3dU9BU09uQm5oYWJtWFNiMHcxcGZ5TmhFU2tYcWwzbGlrSlNRR19FaEExNEV0dGxZUUpCT1c5VWpfb00?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 14:15:00 GMT",
-      "description": "ZTS Wins European Commission Approval for New Poultry Disease Vaccine Yahoo Finance",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Sanofi to stop disparaging rival flu vaccine to stave off EU antitrust fine - Reuters",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUHFURTcyQkdFdHVfWEFxYjZaaFZIY1dFSVpmNC1LZHpycnE2eUtDSmgzb1kxaG4wTDE0VE13NHIyTkpnQVlIenlQNF9iNTlFZHZkeE80OHRTanM1ZjZUMjlaX3hvZ0g4bC14SFZKdGpMVFFrdkxhY21UTkVWZDBsaW8yVlp2UjZlNU9JajRZbnBFWlgwX0hybUxiODZ5S0VZVi1UN3UzQ3NmU1lyY21uSzE1enhtbF80b1YwX1VxbFNKNWxvcWs3WkczNElsOTVzWTA1a3RPQnZlMUhlVFZNNg?oc=5",
       "pubDate": "Wed, 08 Jul 2026 13:35:50 GMT",
@@ -626,19 +657,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Recombinant vaccine inhibits HBV-associated HCC growth - BioWorld News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQkU0VnBfVEVyQXhqSHc5NC1iWGpZemlRQV9IQkNjVE1rUDA3M0RlQnJ0ZnNoZnpfMGt5VFZ2WGFTczZESXU1YmlEZTJndTh3NGk0b2l2T2tvWExaZkdYMWZOYkZnSzNJQ0IzdERXNXdLM3pfWFJMQ3N5T3d4eHN1dzA4bUNqVDNmMjAwb3FJSnBJSHFuRHMzem5YYw?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 13:00:00 GMT",
-      "description": "Recombinant vaccine inhibits HBV-associated HCC growth BioWorld News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hepatitis",
-      "vaccineLabel": "Hepatitis",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -773,19 +791,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Brain tumors: New vaccine offers patients hope for more time - dw.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWnd5NHNXTlVnSV81dHItSG5wTlhCalZ6cTI3Z0JFVm83S2dUYlVlalM5NTFrWjBmQ3RoZWVZMXVoa3hnOFcyajh2cG9YdWQyQ0E4TWlCSDJqMnh1MldoLVo2Z3l5cVA5NU8waE5uck9BcnA0RV9ZaVlmU1g3Vzlrd3VzeDIyY2ZHcTNoZWZfSFpncUcwWHZV0gGXAUFVX3lxTE9QUTVNY21TXzhEczE2blZ0SExGbGItZlBDTkVNZ2NmUW51bVZPOHFScW1pcmFlNjNxQ3o0TmJ4UGVwNXVmaVdWMEdjSmZlaHpBTUs3R2FPMGhkQlFzVHU5SjI1SXJSRncxdm5JdEhFckNOT2xKbkVSTjExZ2xQaVVHMFptekpmY195b29XcXFTdF9CWFZRTDg?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 05:29:53 GMT",
-      "description": "Brain tumors: New vaccine offers patients hope for more time dw.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "HIV vaccine showing successful results in recent preclinical study - fox5sandiego.com",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lSmp3eF9CekRUTHBiTGlNOU1oeHlaaFJLRGJaX3BUZWJWQzN4d1hpTUNLbkVkb1JCNEt0RVNXXzEyR3pEVmNNZy1MdVJXMGt1UTM3YnFpTS1IR3F3cm4yNkpEWVRYWHBzcml3Vl9GYmpLLXN5d2fSAXtBVV95cUxPYlo1M2JCY1d4SWluaUtMZTlqbDV0ZkVzbGxOUVRTM3hZcGdJcmJyU3dNSDd2OWg1RVNXRlBZSEFyeFhKLVhmd1ZjT3RfY1pxc0FmQjM2QnRERWstd3htcmJEdGMtWUp5Rm93SUhaYmdoRDhLOWNhWWVqYVU?oc=5",
       "pubDate": "Wed, 08 Jul 2026 04:30:31 GMT",
@@ -812,19 +817,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "MMR and Varicella Vaccines Do Not Increase Relapse Risk in Multiple Sclerosis - Neurology Advisor",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONkRzWVV4VDBVY1czS3RGQlFpREhYOURyQmJGX1dEM1ZFSkd2dHRUTy0wWnBHbllWbVRGWnZXSFUtLVBWVV9IYkd3Z2ltSjZzUEZHZ0FXQUU3bFBoNldOUTZZVm40VUR2ajh4Wks5enplTGw0NDRkbmpUM1RmUEcxaWJYTFBUWTdfUmtvTkJxNXROZjA?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 04:00:00 GMT",
-      "description": "MMR and Varicella Vaccines Do Not Increase Relapse Risk in Multiple Sclerosis Neurology Advisor",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "CDC: Overall US Death Rate Reduced From 2024 to 2025 - Vaccine Advisor",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQODYxdWlaWk5xV0VLN0ZXWnlCMUIzWVd6OUlnTndlaGF2WUlnMWFWbnNCbndiUnRlT2FldlVuTVVRUlZab0hjR0RVNnpVNDMxekp4RTAzTHJYTDNtWDM0Sy1UWWd0SExZeEo1VmJCWXBxMzV3RHVrNDlFeFAxck9lcEdlVm9GaHlyQ2NoeU5SRHlkUQ?oc=5",
       "pubDate": "Wed, 08 Jul 2026 04:00:00 GMT",
@@ -834,6 +826,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "MMR and Varicella Vaccines Do Not Increase Relapse Risk in Multiple Sclerosis - Neurology Advisor",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONkRzWVV4VDBVY1czS3RGQlFpREhYOURyQmJGX1dEM1ZFSkd2dHRUTy0wWnBHbllWbVRGWnZXSFUtLVBWVV9IYkd3Z2ltSjZzUEZHZ0FXQUU3bFBoNldOUTZZVm40VUR2ajh4Wks5enplTGw0NDRkbmpUM1RmUEcxaWJYTFBUWTdfUmtvTkJxNXROZjA?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 04:00:00 GMT",
+      "description": "MMR and Varicella Vaccines Do Not Increase Relapse Risk in Multiple Sclerosis Neurology Advisor",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -890,19 +895,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Andrea Shaw, Plaintiff in Anti-Vaccine Suit, Is Charged With Murder of Her Twins - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZnBjOG1vUldiZDB1V0hVcUVkTnhvZlZ3X1piOElHQnJOOWpveFpaZWtPaVd3WnkzRGFWOGYzeXNzdWJYLUtLelhDT1pwbFRHbkZsOEV6U1p1VWFzRTBSYUZkZmV3VFJJd0hKX2ZmVlZ2SWNtYURidjBsVWNrdFYzX2J2eXh6Q01U?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 19:53:26 GMT",
-      "description": "Andrea Shaw, Plaintiff in Anti-Vaccine Suit, Is Charged With Murder of Her Twins The New York Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "New Study Shows Flu Vaccine Helps Prevent Death in Kids & Teens - Parents",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT0RRRTMzaE1sUjdmY2xYaVF5YmpRNjgtZ2ZFZ3M1TlREbFo5QUhFUlB4MlZpZmxReFAzVGF0WnFiN3VGWHZnQ3l0cUhwVkpXYXRhdG9SRElxSGhxeVB5TWZLd3hKSkF4RDUxOXBUU2VfRjJpVDhNY3pfblJMZ3JIYk13?oc=5",
       "pubDate": "Tue, 07 Jul 2026 19:00:00 GMT",
@@ -914,19 +906,6 @@
       "vaccineLabel": "Influenza (flu)",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "Tracing evolution of vaccine for cancer, malaria - Harvard Gazette",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRjhKbm1HRkFnclN3QkNPVUQtNDRoUWFyLWZqaUJjX1hobDZTRUFMdjgwdkpCV0UtdHp2VjREYU9YSFFGdWtlTlRlZmZ6cGk3Snlnb2xNTTJlbmh0UUxGMHlveFZRTlRIQ1o3QVJFQmcyWmxkazlET1lucEEtNnY0aE5XYkpVZWJiVFZ6ZkRaVUFoUmN3dWJZOXVMUQ?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 18:51:22 GMT",
-      "description": "Tracing evolution of vaccine for cancer, malaria Harvard Gazette",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "Zoetis receives EU authorization for Newcastle vaccine in poultry - Feedstuffs",
@@ -979,19 +958,6 @@
       "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "Shigella vaccine shows promise in phase 2 trial - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdUlIVlJyb0ZRUkN5bV9ZbUhhbzdjV3NwN2ZrekpYLWx5OV9vaGVuaFhQMlAwZGpyQWMtUHFUV2FzeXJFcUtLVGtUaWxhbU9ETFFzSVpMRnYzYjRCSTF0aFpPeE1EN0ZIWU9fakE2TXowNzBZMGZyb3RaUUg1QWRyTnRjR0N0aHc?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 14:42:00 GMT",
-      "description": "Shigella vaccine shows promise in phase 2 trial CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "Boehringer bags viral vector platform for cancer vaccine R&D - Fierce Biotech",
@@ -1085,15 +1051,41 @@
       "articleLabel": "News"
     },
     {
-      "title": "HHS to Phase Out COVID-19 Emergency Use Authorizations - Vaccine Advisor",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWEd2NDBrcndYcVVtSWRrdFRoUUJadEtFa3NGa1ZnREFybWZZQ2k4TVI4OElYalo5UThOeE9SQU9NVmc0Y2lHM2M0d0dSLURVbVdfeENqVjlNSS1rakRjWkxpUGs1dGlqN3VXWTAxSzBEaHJ4S01VR1BHcHR0ZnZpVFdRQWZuSDg5TEQ3MF9FX1J4Rjh4Y2c?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 04:00:00 GMT",
-      "description": "HHS to Phase Out COVID-19 Emergency Use Authorizations Vaccine Advisor",
+      "title": "Texas sees slight rise in kindergarten vaccination rates one year after historic measles outbreak - kens5.com",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNNnlwRUlZVlZ0TFlOVl9EbTB6RnVuQmxEZ0ZzdEVZRGZGUGdWMU5FM29yTFI0SG1oeEtqVFB6OHpkR0JQYXhLSXZpMGdUeUFjek5vQy16MWVCaXhYMW41TFVyWF9Ic3BmR1FLUUQ3OTJ5Q3ktZnl5Y2RxTU10LWp2Y1JuYW5Fdk5zNHhSanJraXJPYVFEbnlFTUdyTnpGWFZ3bmtqWkdNWUVtSlh4aTdrNE04dU1SanRVNWV2V0VybVhXUWo5ZE9sQVF0YjJnQTl1aUx1RWc0a1djdURhWEVYWERXY0tycnduTDZHUDJJeDJybFd2NDR1Z0FtM3hNZXNHaDg3MFlUOW40OVNtNUV3?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 04:24:00 GMT",
+      "description": "Texas sees slight rise in kindergarten vaccination rates one year after historic measles outbreak kens5.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Vaccine rates see slight dips in McAllen and Brownsville school districts - KRGV",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcUZSa1o1Vlp0ZTJVTjRwQklDSFY0WHhKVlU3SWNOS2tScnBJcWRROGsyRHRTLVFFVUQ0ck1xQ3JPTXFHZXNsczQwbUU3eXpMSnUzQkxMRDZ4QlA1MFpEQkhWZU1DRFRoX182dkJhVkhoMlYxR2lxRUI5WFJ5cEx0NXA3eWcySnRsT2ljZlQ5RGt2dzBuTDJzd3VaSldzMjZBM3c?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 02:37:07 GMT",
+      "description": "Vaccine rates see slight dips in McAllen and Brownsville school districts KRGV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Vaccination rates in Texas schools have been dropping. Look up the latest vaccination rates in your district. - KRGV",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWUpVUC1nQkVRdFVwM0ppQ1F6M0N5R01KaEZjYUt2aEZlSmQtajRfZFprSlJqNngybjljRVVkV0ZLOXJGdHVMMm9obHEweVNZdEVEanF4X3Y2WjMwNUlLOFRITHlqallGbnN4cE9ueEVBXzR4UmFaSm5aQ2pQVThFQ255QWZkQmtYMGJXdGs1RlBhcmpJTXJWN0s4Mk1idUt0RU16NVVxWmgtbHRBTGJyWUwxR3Jjb1hudUYwbE1sRzdHeU1zQlQzMjFZMGpUUUdD?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 00:06:04 GMT",
+      "description": "Vaccination rates in Texas schools have been dropping. Look up the latest vaccination rates in your district. KRGV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hepatitis",
+      "vaccineLabel": "Hepatitis",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1102,6 +1094,32 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZndWRDZwbmwzT0dkSDU3MkVPLVRoUl95OVpPeU9yQ1pxZzlBT0ZjVjR1OF9nSXV2aUQ0aXZBY0QtZFhrYkZKdlBGemVKQlBGSEVnUFBnSWY2MEFvNlZwaWktdzdFWXhOQnU4OGtlWmtSeUd1TmN4Ymk4Qk1nUWluNnRFWWVaM29oaWs3SjRVNzRSQnZHdlJqck5LVGhySFVVUmFVRdIBqgFBVV95cUxOdWVJeXdid0Vzbm8xQ3RlYjNnX1F2ZS1WS256dnFGdmhIMnlkMm9CUDcxamdCWGFDM0hwRENzOTFPTGxBU2ZRSkJESXFDNEVjUkktUG1JeGw1SXJLSDU0cHNISklGejNDNHBSMDU1ZzlBWHl5TXVZNkt3TW5aaUlCMkdnSnpVanBPbGpLU3RDdV82T1FTcnVkV09vc0FWUThDSlNJMGtibGdoZw?oc=5",
       "pubDate": "Mon, 06 Jul 2026 23:57:07 GMT",
       "description": "Experimental vaccine shows promise against dangerous intestinal illness Fox News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "The Rabies Vaccine Debuted Nearly 150 Years Ago Today - Nautilus | Science",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaXZ2MDRVOFFudktEZmt2WlF5Vm9ON3Q5TTZmbDNqUHR2SzNodFZ5V2lZVlVOeTQ4TDJRS3BrLWpGX2tBbGtvVHYwRExOS09FSGRteldJMkhKX2Jod3dhU3FzclhDQXpHWDJFaXJEblFjMndOTHdvWGxCUk1keDdZcmctSGdiUQ?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 22:00:00 GMT",
+      "description": "The Rabies Vaccine Debuted Nearly 150 Years Ago Today Nautilus | Science",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "rabies",
+      "vaccineLabel": "Rabies",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "A new HIV vaccine offers hope for eliminating the disease — plus more medical headlines - WGN-TV",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSS1hbnFTSkNSa1ViajNZYWhyUHI1dlVKQmt1WnV3cHl2MkIwMlNRWlpaZ2VMN0JzVlpNbDNxRXI2cHB6dDBtSHBWZTVOblU0UExtRTFyR0pDc0lTVGNRcnFBbUlGaUZFUVczazQ1Qkg3YmdLWmpkZnlIaHdFZVAxTXliT0RBb1VKNVUxbEpjdHFXTWtCaVpnNF85NjNtYTVuV2p0ME1GZHlJbk5FSFJvXzBDek9WQTY2dXp5VFZKVWTSAcYBQVVfeXFMUGRrX1Ixa1k0b3FNdVBEcW53TVFXT2J0NTVETEh4OWJ0TjB5X05paXlONHc1RUFJTm1qTnZPY1ZHT1VuWEItaU91YjJTSElrVEZGM0ROYWtkOHR5QXd0NS14d1FRVDdHbnlNNWRyeDdBUmRuSmdpTURyZWlheVVxUXY2bFl6MlBVVEZ2Mi01OGhkUDdfVGp5a3poZlBhMFZ3SHVQN0NscDFHU0hvemN6dWl0bXFmNXkxSlp6cWJjLWF4UHBsSDJn?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 21:46:29 GMT",
+      "description": "A new HIV vaccine offers hope for eliminating the disease — plus more medical headlines WGN-TV",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1154,19 +1172,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1c1V6WF9RSFVSLTQxLS1uYnFJUGZLR3N0RUhPVGJhSGhvcGppNUtMYkltd2I2WkxLdC1pdmRKVTZFWldOSWR0Vzl1dllaRUFuUjZoV2JiRFNibzFCeVFVam9XVEJEdw?oc=5",
       "pubDate": "Mon, 06 Jul 2026 18:09:31 GMT",
       "description": "Flu Shot Offered Robust Protection Against Death in Kids MedPage Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "BCG vaccine linked to changes in brain immunity and Alzheimer's biomarkers - Medical News Today",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZjBMd3A2Z3hHSWRlcV8wa3d2MlhNXzRDOHY5Q0V3VWtmNWNqYXZEbEFYb3Axby02X0kxZUs1cFY3OUs1WmZVR2ZPblV2T0FNNVY4VEdNVzJQSW5nSGNtUUlPdUxka3dXVFY5MWQ2OW9JMzhESjhRaE9vT05tdVVzYjhrOHpla3ZVY19QR0R3WFI2a0xMTVQtb0Z4N0FsQ2NWNTlJbW96Qzg?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 17:28:15 GMT",
-      "description": "BCG vaccine linked to changes in brain immunity and Alzheimer's biomarkers Medical News Today",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
