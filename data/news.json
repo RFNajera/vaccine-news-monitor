@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-09T22:51:56.458Z",
-  "itemCount": 87,
+  "updatedAt": "2026-07-09T23:49:12.569Z",
+  "itemCount": 88,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 19
+      "count": 16
     },
     {
       "key": "flu",
@@ -20,7 +20,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 4
+      "count": 5
     },
     {
       "key": "hpv",
@@ -30,7 +30,7 @@
     {
       "key": "hepatitis",
       "label": "Hepatitis",
-      "count": 2
+      "count": 3
     },
     {
       "key": "pneumococcal",
@@ -45,15 +45,54 @@
     {
       "key": "mpox",
       "label": "Mpox",
-      "count": 1
+      "count": 2
     },
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 52
+      "count": 53
     }
   ],
   "items": [
+    {
+      "title": "Julie DeVuono, former nurse practitioner, gets historic $544,000 state penalty for falsifying pediatric vaccine records - Newsday",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc18yUGpOa0JaZWVFUHE3X1RYWGZTQkxBbUp4M1d5N2lsejFjVklCQmNUWXk5OUVPLW5sdXlXOFFMNFczazYyX0hnTkppSU81ZFdSQ290YUNhNE9tdGt4RXRabjN5ZjVWZlRjcG9FajRrUGFUYmphN3gxdlBGWEI2U0gwN1U3SVdiNE1yM0N4Wk1qVzZiMzJvanFfVG9fcUVjX3dEb24wN1lxa05SUXk0Zl9NdXI1UnJHTVFNTw?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 23:43:09 GMT",
+      "description": "Julie DeVuono, former nurse practitioner, gets historic $544,000 state penalty for falsifying pediatric vaccine records Newsday",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Oregon pushes mpox vaccines as more serious type of virus spreads - Statesman Journal",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ3N4TXFPeEQySVpCX0h6aGdoMzJ4a0NTMEoxdjhKbm9Xek82Y3FJTEkxeGFPZXVaTUdOVy1EYk9iT0d4Q3pyMTBUQ0llc0NoSDJYWFJKLTJIWGFjb1ZhR1gyM09RTTNMYnJydVBwS2VPY2RVM2dZVklndlE1THRPNi1IcEtDZVdEOENPOWVJN0JYN3RhLTVaSVJWd1QzTkJ5aGc?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 23:38:00 GMT",
+      "description": "Oregon pushes mpox vaccines as more serious type of virus spreads Statesman Journal",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "mpox",
+      "vaccineLabel": "Mpox",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Long Island nurse who made $1.5M selling fake COVID vaccine cards slapped with $544 fine - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMmVMRHNtMGppUzBTOHo3MkpsU1ZfQ251T201UEZMcXotNU94YVdGZlJRTjE2OUlmanQ1N0t3MHRMMlZ2NXByNDJDdjI3WG1GN1FkRmlRZ0gzVEV6ZEFCWGhlMU91dnN3QUlJeXUyN2ZvVTdYQW9wZXJBWElpY3ZuZUxsUlZkbEtZRWRLX2ZBY2lNc3BIRTdpc0l3amtqMWVJTHg4WGl0TVJBQlhrTEF6OXZJOEVsME5SVk5rSU1Kc1ZUMTA?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 22:50:00 GMT",
+      "description": "Long Island nurse who made $1.5M selling fake COVID vaccine cards slapped with $544 fine New York Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "She Sold Fake COVID Vaccine Cards, New York Just Added a $544K Penalty - Yahoo News UK",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kazhsdm80N0x0U0d0X1podDlMNWRzeTZSZGVKWnBMdkJFY1VKSjIycTRyRGlXWkZWS1Q3WFhWM3dMYkdNaUh5U3Zwd2ZUSTNENXBGYWgwNjlhUk16SjIxOUpSWXdib3JlaGlaUTlCTjNMVHAwVlhB?oc=5",
@@ -66,6 +105,19 @@
       "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
+    },
+    {
+      "title": "A vaccine against equine strangles offers “significant protection” for a year or more - study - Vet Times",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbDZfd2t6OFhiaUN2emV1ZjlYOHZYaThVZlRrbEIwUHFVSUJjZDV4WE9IUy1DSjBBaTdGWVNZUThRbmJ2ZGV2RHFsaW0xeEk5QUZWb21RaWt3ODFvMmtsMXJPUThxZkJ0UmhncmZ6dWpzMW0wV0I2TmtfNUpmZFlkbU1LSEVpMjB0N2I5MnVlQXJKYjg?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 22:19:07 GMT",
+      "description": "A vaccine against equine strangles offers “significant protection” for a year or more - study Vet Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
     },
     {
       "title": "Nurse who forged COVID vaccine records to pay $544,000 fine - CBS News",
@@ -107,19 +159,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Mom who blamed toddlers' deaths on vaccine now facing murder charges - wng.org",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWTFicmVzZFpCTTJMZ3hfYTJwSmpCOXhYSmVTNWoyRGh4cU5wVjVTc3N4bGc3NHhBWG83Mm9RNm1uckNmcGF2bUFNUUZzTGtKZW5ObzdEQ0xuVEYtZVFyV1pGb0FLd3JUTUdVeGVyMzNXS25zQ1htNTc1WDczVDZmUVk1WQ?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 21:01:00 GMT",
-      "description": "Mom who blamed toddlers' deaths on vaccine now facing murder charges wng.org",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "OHA urges vaccination amid global rise in clade I mpox transmission - The News Guard",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZ2ZSTy03VGl6Q0pHZjhEUE90blVmQkZDY3V3b1ZkRG5NUWRiQ2stYVRNVlk1ZzNUVHg4SGd3QWM5ODVubXEyMGlteWZPajFubEpjaHJuSjd4QlU3cDBDM3lFcjVJVHhUM1ZBVi1jSUNTdGgxczZ4X0xQNEZUSElkUjJyQW1KNEY2c1liTlFvZ2R6V1pNb19DczJUNXYwdGlXSERjd0RpbkFZd0prZnc4TkM2WTJRZ3IwSmxCckwxN1JzNklYem9jRE1QdUhNbC1STl93NERTS1dtX1hHZUE1aHk4OE9Bdw?oc=5",
       "pubDate": "Thu, 09 Jul 2026 20:45:00 GMT",
@@ -133,19 +172,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Peltola’s record of absenteeism, Covid vaccine mandates, and legislative flops - Alaska Story",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWUNJSFc4Nkp6eng0cmNRdFpXd2Qxb1o5WHZBTlhoN0NybVNKdHRqQ2cyUGc0Q2hHR0ZjTGFoNEI3dmJqVk03NTIxd1h2Q2VYaWVYTHU1RmR1MXNBOTJ0ODlDcEZmWXhiR2FVblZDMHBYSjFQUjk3TTdJWUtDNTFnTXFBWHJpQS1xSFlRd0pTbFZGd1dOYnRVVklDbU05MTVlRFFqWGhB?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 20:28:02 GMT",
-      "description": "Peltola’s record of absenteeism, Covid vaccine mandates, and legislative flops Alaska Story",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Still no ACIP quorum, collapsing lawsuits, and vaccine questions answered: The State of U.S. Vaccine Policy - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGlRVTZXN0NnNWZWalZSSnItN0stNVNicVBwelR6bGl6RjFGRVMtVmM5cUo4U2dLZmZkcG9MMU52ZGRMWnhJcVN0N204Skx3QWlCaXpTc05nbXNfWlBZOEIzZ3BvcTRDMVY0cGtkMjN5STdmTU56TkJuU2x6U0ZCRjFLUTFTMU5QOFdCOWVSTjJLN1pHYzQ3SFlEWU5IWWN2ZU0wRXBhU3gwWkxDTDMtcUxKMFlFSzJoeXg3UDFDOA?oc=5",
       "pubDate": "Thu, 09 Jul 2026 20:12:04 GMT",
@@ -155,19 +181,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Julie DeVuono, former nurse practitioner who sold fake COVID vaccination cards, gets historic $544,000 state penalty - Newsday",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc18yUGpOa0JaZWVFUHE3X1RYWGZTQkxBbUp4M1d5N2lsejFjVklCQmNUWXk5OUVPLW5sdXlXOFFMNFczazYyX0hnTkppSU81ZFdSQ290YUNhNE9tdGt4RXRabjN5ZjVWZlRjcG9FajRrUGFUYmphN3gxdlBGWEI2U0gwN1U3SVdiNE1yM0N4Wk1qVzZiMzJvanFfVG9fcUVjX3dEb24wN1lxa05SUXk0Zl9NdXI1UnJHTVFNTw?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 20:10:30 GMT",
-      "description": "Julie DeVuono, former nurse practitioner who sold fake COVID vaccination cards, gets historic $544,000 state penalty Newsday",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -237,10 +250,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Former Suffolk nurse who falsified COVID-19 vaccine cards hit with historic $544K state penalty - News 12 - Hudson Valley",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOVM1aTFvemtBLVlYQ1V5TktIb0k3NkVhR3cwaU92bF9oaTN5TThoXzNLSWZJMllILXZBdFFFbnZCVTVtVm85NnY1Y1ViRTFfRDMzSlptblhMcHZsdzBza1cyVDR4VDZLa3M2MWhxVjQ5dEJyY09ac01Keks0NUFSVFZnU1R5YzFjWml5bEVnSlpRUTlaT21FQTBRYWNfQlRjM1pkSU9Wa1VkUFhEZTZoOHpTelU2OTBRbEZLd0cwbExwUmZn?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 18:37:06 GMT",
-      "description": "Former Suffolk nurse who falsified COVID-19 vaccine cards hit with historic $544K state penalty News 12 - Hudson Valley",
+      "title": "Former Suffolk nurse who falsified COVID-19 vaccine cards hit with historic $544K state penalty - News12 | Brooklyn",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYUpvZTdacXhVdVNKNk93NGQ1b1FSMTJxV0JiWE1zRE5QNDZHVGZrdTJxVVRrRTVxMVU2ZTlqeVlGNVh4dE90cEVkLVJ2WGVCbS1NRkJOdnNWc3AtN1Z2ZkphT1FrMG9pdGdmSjlvaWpZaXhsU1MtYnViSjJ2ZTUyRjE3S1diY0hhcFBJMm5xaEpDZ2NfVkxKalREa0dHNklEZWhkdWNJTnA5VV9zYW9HOGFtZU5EV0tsd2k4RFRINA?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 18:36:10 GMT",
+      "description": "Former Suffolk nurse who falsified COVID-19 vaccine cards hit with historic $544K state penalty News12 | Brooklyn",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -298,19 +311,6 @@
       "sourceLabel": "News",
       "vaccineKey": "rsv",
       "vaccineLabel": "RSV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Conservative MP calls for public participation in COVID-19 vaccine injury inquiry - Global News",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQU1IRzhXaEctUlFKbk5FaWFnNGJ3QXQ4T19mdzJkRmxxbHh2cTVjRXRtRDJQQmFYVUxtaGpkR0plRkRaaWFwWjhId0lfS2d6S3JKVkxhd0JCOGlTdWY5RHlXd3ljeXV1TFNVMkpWSmZPRXFlT1dOblFlb2tqMTdmbTlEUkxTSWtXM1JYRkRPNFdwVkp3cUp4bTVycnpjWXhrR0htUDJYX3FLMzZ6TXdfT3gxZndRVVQ2dHUw?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 16:35:07 GMT",
-      "description": "Conservative MP calls for public participation in COVID-19 vaccine injury inquiry Global News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -497,10 +497,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Pfizer/BioNTech fend off Promosome’s UPC covid vaccine suit - IAM Patent",
+      "title": "Pfizer/BioNTech fend off Promosome’s UPC covid vaccine suit - IAM Media",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdGR1NC1XbDFydVNRRjN4dENFeW9LN25sUGhXYUU3QklCQ3N4U0lmUjk5ZjNUUm41OUVRRXZJckFXR3YyNHpIUFZEUE5VSUhGaGhjY0Z6YUN5TVJpUkhNYWNIM3VoZ1hOQzJ4dzVvamtDQ0t3aUtycE1SR2tnSDExdTVnLUNVNXEyOXpFMHdQWlg?oc=5",
       "pubDate": "Thu, 09 Jul 2026 12:07:35 GMT",
-      "description": "Pfizer/BioNTech fend off Promosome’s UPC covid vaccine suit IAM Patent",
+      "description": "Pfizer/BioNTech fend off Promosome’s UPC covid vaccine suit IAM Media",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -744,6 +744,19 @@
       "articleLabel": "Research"
     },
     {
+      "title": "First Iowa measles case of 2026 confirmed by HHS - The Des Moines Register",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ3psVjd3elZ1ZGhRTVdBVTNSbWdYMXFPOHhIRUxja2tJMlByZGxRbXd4cUVQaTRfRlZ4Z1F0S0NvUklQMWtfRUxXa01ULXoyMFBWbl95eFdxSEc1aElLZTNzZnAtckE0Z2s2VnRKMzNxNGc2V3ZVcndnUXBlR2dYaFdFZjcxZVJxV21YQTdqaUQtYndVX0xfSTd4cHlWZ0R6RUlLQVNBbw?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 22:13:39 GMT",
+      "description": "First Iowa measles case of 2026 confirmed by HHS The Des Moines Register",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Connecticut launches pro-vaccine videos inspired by 'Schoolhouse Rock!' - Connecticut Public",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYmhtY3R6M3pXSU5LT1JNR2VSVUR6VlMyZmxjTDh3S2puU1M3ZUgyYjh4QkxZRUxuRU94bUlET2MwZFNZNGRtTVZaYktfRl9uMHhjbmxBWnNHdUNpZ2g4bFJ3bUliMExPeEdmTXhvRnZyd2NYQ0VwX3dWWmstRjJzZmlRUmFWanpiall1V00tVmhVVnZfbXJOUkxBSkpjcGlzVm0xUVBhTzB0UnhlalE?oc=5",
       "pubDate": "Wed, 08 Jul 2026 21:23:00 GMT",
@@ -753,6 +766,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Hep A outbreak prompts health unit to expand vaccine access - Northwest Ontario News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWHFQd0VwTFYtVlFwbF80UFlEYld0Z3U2NS1uV1ZVa3VZMlpXM0FnRFpVQVUtR2w0clpXRlgwQnVqQzJ4cTB0MGtqUER4Yk8zbEZJRXR2eDd6UnFUa1FILTlkTHhaWkoxU1ZiSUVQUWNjd205dXUzT3hYVm56Z3dZeGwxUzhpTWlBSldkWUg4Y3YyeGZPR2FKZEhvR3lqZXlydzFEWlBEMzBxdmM?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 21:04:06 GMT",
+      "description": "Hep A outbreak prompts health unit to expand vaccine access Northwest Ontario News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hepatitis",
+      "vaccineLabel": "Hepatitis",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -913,6 +939,19 @@
       "articleLabel": "Opinion"
     },
     {
+      "title": "Hawkins Health Department to host back-to-school vaccine clinics - Kingsport Times News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbGp0Ym1UNERYZDc5ZGt1S0ZvZ1hzeGt6TnpkdldHbXM5d1VObzRGT1psR1pYM3gzMG10dFRaeHBRdDl3eUNEbkplT283QTBQeVQwY2sta3Y3a24xXzhEN1E2QXBITVZJLS1VeU5rSEgycVV5clBpc0kyT3JIWUJEQjFiYWx4bFhVa3hrRFRHTEdMLWJTX1RHVlFMcWZ1YXcz?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 11:00:00 GMT",
+      "description": "Hawkins Health Department to host back-to-school vaccine clinics Kingsport Times News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "COVID-19 Vaccine Shows Significant Protection Against MACE in Veterans 75 or Older - U.S. Medicine",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRzJRZENNRmVwcmVGd2dLUFFZV05CNmpUWXNTX2RLeFR1d1VnYV9XRGdyckFuOUxYVElEUW91QnlRY1JGMVZua0w3ODJJcGdKaERETHFrMVpYWVcyUllPMEkzcmVwRWk1enNkY2hhMzQ5MWFjWEVWUk5LZl81aFctWTJvdXVreXVzbnRBSHRQY2dYckw4T21LdlZoSnhSM1l0Tm9IaHlaWVl6M1dKMnFVLTV1Vnc0LXQ4M09KZ2JSQV9mQ2xGOUY1V1V6VHI3cEdl?oc=5",
       "pubDate": "Wed, 08 Jul 2026 10:36:50 GMT",
@@ -995,19 +1034,6 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOXZXSXFfWEVua3c5OVo3RGp6UzVZVHFIN2RxQ3NwdTVKVUpvVjE5X0Q3TFp6WWpscVVpRmh4ampyTWVXYzd6WVBaejB2RG9XMUdPN0JiSDdPSFFaQlFIVXhiTXQ1UkxYdC1LTEhDNFhhNlplNjVUbHpPWm1VRmEwRGNxV2NEeEM5RVhIX2VpSlM2QTlnUkNhaE0xWXRHd0dOT25LU200TUdGX0xkdDJaY2hIWWhEMzV4RkZrdkZtWHFpckIwRGJiZExIWllpWlhubjBCY3dB?oc=5",
       "pubDate": "Wed, 08 Jul 2026 00:06:06 GMT",
       "description": "Germline‑Targeting HIV Vaccine Generates Broadly Neutralizing Antibodies in Primates Genetic Engineering and Biotechnology News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Tuberculosis Vaccine May Help Prevent Alzheimer's by Influencing the Brain's Immune System - Discover Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN3lLMWo0c2twalR3Sk5BTFNIRFdySGxGZk1Hc1FHT01keURTYWlrWUd6OXRpOE1xdFpNQlpndjdka1VEMlRXd1VvVkdGVm1vdjBaelZmZ3gzV1NhQTdLYTlFOGhoRm9CY2g2SU1wbFBjdWhDQmNPd0hZdmpiRTA5dEw4aWM2OFc1S2c0Z002Rk9OYmc4dUZQUW5YNjJwSjdiS2pfM0NYZGZnQ2cyeXpqM3EyQ0Vhby1LMTBmblpDdFA2LWhGSTlyRQ?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 21:30:23 GMT",
-      "description": "Tuberculosis Vaccine May Help Prevent Alzheimer's by Influencing the Brain's Immune System Discover Magazine",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1117,19 +1143,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "HHS to Phase Out COVID-19 Emergency Use Authorizations - Vaccine Advisor",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWEd2NDBrcndYcVVtSWRrdFRoUUJadEtFa3NGa1ZnREFybWZZQ2k4TVI4OElYalo5UThOeE9SQU9NVmc0Y2lHM2M0d0dSLURVbVdfeENqVjlNSS1rakRjWkxpUGs1dGlqN3VXWTAxSzBEaHJ4S01VR1BHcHR0ZnZpVFdRQWZuSDg5TEQ3MF9FX1J4Rjh4Y2c?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 04:00:00 GMT",
-      "description": "HHS to Phase Out COVID-19 Emergency Use Authorizations Vaccine Advisor",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
