@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-08T23:46:32.378Z",
-  "itemCount": 93,
+  "updatedAt": "2026-07-09T01:03:04.342Z",
+  "itemCount": 94,
   "groups": [
     {
       "key": "covid",
@@ -10,7 +10,7 @@
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 6
+      "count": 7
     },
     {
       "key": "rsv",
@@ -28,11 +28,6 @@
       "count": 1
     },
     {
-      "key": "pertussis",
-      "label": "Whooping cough / Tdap",
-      "count": 1
-    },
-    {
       "key": "hepatitis",
       "label": "Hepatitis",
       "count": 1
@@ -45,7 +40,7 @@
     {
       "key": "shingles",
       "label": "Shingles",
-      "count": 2
+      "count": 1
     },
     {
       "key": "rabies",
@@ -55,10 +50,23 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 62
+      "count": 64
     }
   ],
   "items": [
+    {
+      "title": "More pharmacists will be able to vaccinate children under 5. Here’s what you need to know - The Conversation",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOXgzYmdMeUROUWV6XzMzSnhLb0o2TXZUeVpqVk1qanlBS1lGdy02dGx3Wk5RWTl4dW1JeGhVSEpBRG4yUi1wU0QxeVVlNFFfY01US2F4SlMtU0xub0p4cG9KN0hjT3lFeUlPSTZJU21Sa3BZeXpPZ0ZkM3c1ZXhTWGdvZnBuZWhuZFhFVjZRR2UxQnZLcDNZY2tER2VpNzJXbkdTOUlRdWdDSVdrcjVsRnp1WEVPM1dRMDBrR1Q0NA?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 00:36:00 GMT",
+      "description": "More pharmacists will be able to vaccinate children under 5. Here’s what you need to know The Conversation",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "NCLA to Fifth Circuit: Revive Suit Against Gov’t-Led Censorship of Covid Vaccine-Injured Americans - The Manila Times",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMFBldnRaWDY0VWNiNWVzbUNaUEtyLThyYi1iU2c4cjdYYWFaaEprOW1xSDgxbElMY0VIVUM1dTcxengxbnloZlpFdWs5QVRURXpEanRRVEM0MUZnMXNsc1ZlOFpId3hTVFotREFSalFSeXpfRUg1YTBVMmtzeXFXQ1VrM1ZUMDlvbldWVFJpQmxUTThxX0xOUVVtUzN3el9TVVd2QzlNaWpvcC1hX05tQm5RcUFuTkFsSloyczZFSE1JZkdWV0Q1ajhRTGZ1XzRZUS1NdFZObGoxZlFuMXhxeUtoQTlfTURUQzZBaGRXODM3NEhGMHlvcVFoUkhfMm_SAYQCQVVfeXFMTVBhdG4xYk5Gc29nSkprNThvWldYLUZQcVppc1NBUnJNSktmdTR6UExtOTlCQTRGQUJldTRyQWRuMHF2TkRTa3A1bjBmMUoweG10ZUVKNXRGU3gzSTVFSlB5bzYtMjh0Z04wdFVEWC1yVGpoNElsOXAwMm5yMHlrdU9JRXQtdDBHbWpQbEZOOVlwVGk5ZjRJcVUzMUVudlBjWXhKTVcwQUxldm55Q0s0a2FKN0k0ZVpwLXdnQ1cxYkY0ZDg1cW53VnJGWUxKRVRjM3F1M3NMMUI3N2VFNzhFUGhPalo1TzNmRUdZTER5TEVoNnJUXzE3THNQNWIyeVhQbWU3bjk?oc=5",
@@ -238,6 +246,32 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "E coli-produced HPV vaccine effective against cancer-causing strains of HPV - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOWxubDlqbDBlQ3NBZ0pGMkg1bjFoNnBpZ2ZhcWtRUTFjVXFYZHM3dWZjYUx3eGw0ZkF6elJuV0tmRXVUS3gzSHF6UUVZa1BtSVNNWk11VHVaOWRzTy1sSVJhZ0ZrVG5SZlBwRzdaV1RleTc2eEpTMmd3cHJwOFZDY0dFbW9xcWp0T3lyTmZlN2xWbkxzY0o4c2FvVEZEaEhpS245RGNoTkFWQXBpcUR3dmdwZmEyZnFucFpwY0tDMA?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 19:35:00 GMT",
+      "description": "E coli-produced HPV vaccine effective against cancer-causing strains of HPV CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hpv",
+      "vaccineLabel": "HPV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Sanofi to stop disparaging rival flu vaccine to stave off EU antitrust fine | Business Information & News | FE - Westlaw Today",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPV3duQmRNdm5ZUm5JMWd4UG5XR1paTDNFajZXY2ZYQ1ZSZVZCQUE4b1hweVdXM3RNRkZaNldjb1hWbmZIdUJUYnplYWVFa3hDeks2YTRTNEJLUlZ6Uy1nUk5DWTE2SkNvZTk4a2JQeVoySFNxcUxVYjk5enBlMjdhMHh5UWp1TzFTWjdzN052bWFJeEZLUmhsd0xfNkNfRVE2T0FlcW1aS2kxYk5sTDd3SWFWVmx6WmVjVkdBVEE4dGVSUlROR1A4LWxCRFNjeDNUUXBkZWtRYVppWXA1?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 18:53:23 GMT",
+      "description": "Sanofi to stop disparaging rival flu vaccine to stave off EU antitrust fine | Business Information & News | FE Westlaw Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -489,19 +523,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "E coli-produced HPV vaccine effective against cancer-causing strains of HPV - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOWxubDlqbDBlQ3NBZ0pGMkg1bjFoNnBpZ2ZhcWtRUTFjVXFYZHM3dWZjYUx3eGw0ZkF6elJuV0tmRXVUS3gzSHF6UUVZa1BtSVNNWk11VHVaOWRzTy1sSVJhZ0ZrVG5SZlBwRzdaV1RleTc2eEpTMmd3cHJwOFZDY0dFbW9xcWp0T3lyTmZlN2xWbkxzY0o4c2FvVEZEaEhpS245RGNoTkFWQXBpcUR3dmdwZmEyZnFucFpwY0tDMA?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 12:43:00 GMT",
-      "description": "E coli-produced HPV vaccine effective against cancer-causing strains of HPV CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hpv",
-      "vaccineLabel": "HPV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Back‑to‑school vaccines: what NJ requires before school year starts - Bergen Record",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMjlHbW05Y3FreUktUEd3MDd6MU5yV2UtUUtfNGljVmIta0ZUTVl3SkZHam9lblB4cWpkODl4bTloQ0EwU1Zqam9udlExQkQ0cmpseTJQQTR6SUlsdVprWGpJQU42bVI0cFNEMDlORnlKTmV4WEg2Y3pYRk1JUVEzQVUtamV1SzhleEpFcWN3b2J0U2c5d3BCWkdkWS1FLWc3b29Wenl0VzdhMEhwTkVKMWZhR0t3djRKcjJZZ0lqZ1FFWFBHVFE?oc=5",
       "pubDate": "Wed, 08 Jul 2026 12:40:00 GMT",
@@ -697,32 +718,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "China updates immunization protocol, lowering DTaP age standard - China Daily",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBibEM5VlF3S0REUTRsZVQxdUlrYjhuLVU0MXBqUzVWc0RyUlEyWkp5aGNkaXhnUWdRTTkwYk5qRXJJZDRJZ3k4RFRvcGJZYllfQ3ZlZ1dLVHVDZE1qODNhdHo2ekVFaHA1VXpjbkRvZmhnRGRKY2R6MUZuSjdKZw?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 06:01:02 GMT",
-      "description": "China updates immunization protocol, lowering DTaP age standard China Daily",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "pertussis",
-      "vaccineLabel": "Whooping cough / Tdap",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Researchers test HIV vaccine with success in preclinical study - NewsNation",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rYXN6TlQxS1JaYXBtNk0zMlJtaTh5S29vdEF1MUpvUVhiUkpLOG1aUG1HV3NsR1Fic3ZCQXJmTXNTMjJNV0U4TUc2elJZNk1zdi1XTjQ4Y0RqV2RtZFRtMXlOOGx6ZGxGaVBoSF8zRFluSmNWQ2hB0gF8QVVfeXFMTVBDM3V0SWRWbDJkaFkzS2g2bUJCRmp3YXZyZHY0UXFnNlhDTXhVc0hrRGlUVHNMRjRENlpFa01XRGx6ZHJUaWJIZVpzNnMzc1g5d3ZQZXl5WnRPejNkbnBXUUhReWFaN09zUk0tTDdfa0RHNzU5cFI4N3JaaQ?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 05:35:00 GMT",
-      "description": "Researchers test HIV vaccine with success in preclinical study NewsNation",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "Brain tumors: New vaccine offers patients hope for more time - DW.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWnd5NHNXTlVnSV81dHItSG5wTlhCalZ6cTI3Z0JFVm83S2dUYlVlalM5NTFrWjBmQ3RoZWVZMXVoa3hnOFcyajh2cG9YdWQyQ0E4TWlCSDJqMnh1MldoLVo2Z3l5cVA5NU8waE5uck9BcnA0RV9ZaVlmU1g3Vzlrd3VzeDIyY2ZHcTNoZWZfSFpncUcwWHZV0gGXAUFVX3lxTE9QUTVNY21TXzhEczE2blZ0SExGbGItZlBDTkVNZ2NmUW51bVZPOHFScW1pcmFlNjNxQ3o0TmJ4UGVwNXVmaVdWMEdjSmZlaHpBTUs3R2FPMGhkQlFzVHU5SjI1SXJSRncxdm5JdEhFckNOT2xKbkVSTjExZ2xQaVVHMFptekpmY195b29XcXFTdF9CWFZRTDg?oc=5",
       "pubDate": "Wed, 08 Jul 2026 05:29:53 GMT",
@@ -734,6 +729,19 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
+    },
+    {
+      "title": "HIV vaccine showing successful results in recent preclinical study - fox5sandiego.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lSmp3eF9CekRUTHBiTGlNOU1oeHlaaFJLRGJaX3BUZWJWQzN4d1hpTUNLbkVkb1JCNEt0RVNXXzEyR3pEVmNNZy1MdVJXMGt1UTM3YnFpTS1IR3F3cm4yNkpEWVRYWHBzcml3Vl9GYmpLLXN5d2fSAXtBVV95cUxPYlo1M2JCY1d4SWluaUtMZTlqbDV0ZkVzbGxOUVRTM3hZcGdJcmJyU3dNSDd2OWg1RVNXRlBZSEFyeFhKLVhmd1ZjT3RfY1pxc0FmQjM2QnRERWstd3htcmJEdGMtWUp5Rm93SUhaYmdoRDhLOWNhWWVqYVU?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 04:30:31 GMT",
+      "description": "HIV vaccine showing successful results in recent preclinical study fox5sandiego.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
     },
     {
       "title": "Adverse Event Risk Not Up With Same Day COVID-19, Flu Vaccination - Hematology Advisor",
@@ -784,19 +792,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
-      "title": "Brown University study suggests shingles vaccine could reduce dementia risk - WPRI.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOamxWa3NwMDVFandmZnFTcU5pWXU5NktMamlqMjdXTXlRbGZpcGZNMF9nUkNvTEY1aHJUY0d0S3JpWktHa3RzMUJLNTIxcHQwZDQ3NHc2bXViWE9tak50WFNnb3dlRU5fZi1ubkNVREJqTTkxaXhvb25iZHBJdlpHREVTTlRUazVMWUE3ZzlYTjliRFkzZ0d2MlJGR1pRamZnZmJwUElzQ01ZLUl4Qy10SVY0Q3h3emNnTTRDRV81VHBBUEtrTkhGRdIBzgFBVV95cUxPcHFncmdyNVV3ZlI4blIyWnNQdkRaeHhkdDk4dXB5U3IyNE1YZEZ3TGxadk5OOVFHNTd3UXlwd3NTQXM3RUtoUmdIeTc0VkhwdnM3a1FoR3V0T2xQYTI5Z2xtV2s5NGd3MTlEZXgwTGRxOG42QTFxZ2ttWElnQ3RTbERlMmkxOEFGdWxMRDlmNy1qd096bkFuUXRJTlFmaEJPLW93ODVaQmVlNUxaUE9XNnBNMTlENjhxN1RWTVdBZWNxbi00czYzUFRqRHpIdw?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 00:58:04 GMT",
-      "description": "Brown University study suggests shingles vaccine could reduce dementia risk WPRI.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "shingles",
-      "vaccineLabel": "Shingles",
       "articleType": "research",
       "articleLabel": "Research"
     },
@@ -1005,6 +1000,19 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Vaccine rates see slight dips in McAllen and Brownsville school districts - KRGV",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcUZSa1o1Vlp0ZTJVTjRwQklDSFY0WHhKVlU3SWNOS2tScnBJcWRROGsyRHRTLVFFVUQ0ck1xQ3JPTXFHZXNsczQwbUU3eXpMSnUzQkxMRDZ4QlA1MFpEQkhWZU1DRFRoX182dkJhVkhoMlYxR2lxRUI5WFJ5cEx0NXA3eWcySnRsT2ljZlQ5RGt2dzBuTDJzd3VaSldzMjZBM3c?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 02:37:07 GMT",
+      "description": "Vaccine rates see slight dips in McAllen and Brownsville school districts KRGV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
