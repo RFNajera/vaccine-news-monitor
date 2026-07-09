@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-09T17:11:43.026Z",
-  "itemCount": 93,
+  "updatedAt": "2026-07-09T18:06:05.474Z",
+  "itemCount": 89,
   "groups": [
     {
       "key": "covid",
@@ -20,7 +20,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 9
+      "count": 7
     },
     {
       "key": "hpv",
@@ -30,7 +30,7 @@
     {
       "key": "hepatitis",
       "label": "Hepatitis",
-      "count": 3
+      "count": 4
     },
     {
       "key": "pneumococcal",
@@ -45,10 +45,23 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 57
+      "count": 54
     }
   ],
   "items": [
+    {
+      "title": "Hepatitis A Vaccine Eligibility Related to Ongoing Outbreak in Northern Manitoba - Thunder Bay District Health Unit",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRXk2RWo1VjBZbXpHdUMycGVqMHljZGpCYkRidThWUGR3ZVJCLVN3aEo0VDEwS21QN3lEQXZURTcwU1NaSUtfakVxdnBSTGR0OFZYanhJR0lQQUdzVDRWYnNjWUxJc1FLeVpZMjBzTDVRT1NKMFZ3elpZUGFMMDVVTWRCWUd1YUFvQnhkZ1JxUGFXd3pMRVlXQUVLZlpJSE1WZWt0bw?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 17:53:14 GMT",
+      "description": "Hepatitis A Vaccine Eligibility Related to Ongoing Outbreak in Northern Manitoba Thunder Bay District Health Unit",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hepatitis",
+      "vaccineLabel": "Hepatitis",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "State Health Officer warns Mississippi Board of Health about declining kindergartener vaccination rates - Magnolia Tribune",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWklua2thMV81MDhoTF9weFE4RlN5Mkw1MUpNRHdoeXBqTUNEU1hhVmFMcHlXZklhN0dOUHNtZndNN0JMQ1FITXpHWGNQLVRGX3JZMlcyemVsOTJBM3p5VFRuRkV2RlZTSm9tbW01Z2tRTmtPMkZ6QVBiaDR3aUZCaGNhUXJzR3dMQktOR2FXSnlxUEJjeUVQcGI2akhDM3lDZms3WWZTVTJHU2dlR0JDYnV2dVMtZ2RQeVJZYlBvdmI1MzhpTk5rLUF2VEVQMm52VlhFbWw2TVJoMkU?oc=5",
@@ -65,13 +78,26 @@
     {
       "title": "Julie DeVuono, former nurse practitioner who sold fake COVID vaccination cards, gets historic $544K state penalty - Newsday",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc18yUGpOa0JaZWVFUHE3X1RYWGZTQkxBbUp4M1d5N2lsejFjVklCQmNUWXk5OUVPLW5sdXlXOFFMNFczazYyX0hnTkppSU81ZFdSQ290YUNhNE9tdGt4RXRabjN5ZjVWZlRjcG9FajRrUGFUYmphN3gxdlBGWEI2U0gwN1U3SVdiNE1yM0N4Wk1qVzZiMzJvanFfVG9fcUVjX3dEb24wN1lxa05SUXk0Zl9NdXI1UnJHTVFNTw?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 17:01:36 GMT",
+      "pubDate": "Thu, 09 Jul 2026 17:03:04 GMT",
       "description": "Julie DeVuono, former nurse practitioner who sold fake COVID vaccination cards, gets historic $544K state penalty Newsday",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Moderna secures up to 24 million RSV vaccine dose contract with Europe - Pharmaceutical Technology",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbVJVVEpVN2Y3aGN6UW1jWGNvaGRyYi1vSGZSWXR6bUpIY3NDSjhmeVJCaGZlbTN0MlVwMXBLbkZoRFc4Rnh2QThNM0hRQ1JSd29XMXRVNW95UkpiYmRJbUpodHNPSmYtWlNiWVRmT1dwalN1SVd5ZDRlMk5IS1d4eWgyOVA5RjE1dlJydXo0OFp3akVlWHZDcW9TdV9fbVhrWjFydkI1YzNZV2pDazdEbVFhcUV4UExuc3c?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 16:57:04 GMT",
+      "description": "Moderna secures up to 24 million RSV vaccine dose contract with Europe Pharmaceutical Technology",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "rsv",
+      "vaccineLabel": "RSV",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -204,6 +230,19 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
+    },
+    {
+      "title": "A no-brainer for protecting your brain - The Economist",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWUlqMk5Td19keEwxYk1Rck5TTXdFUkdOYzJNS1JnNEJlWXE5bkJPOW12WG1jZzlzSG9ydVcyVkRkR0I5aDRpZlBoRHBlbkgxRWJJTmhnSkRweW9RaU9SYVFET2tydVZwaHBIZ3dqeWF6cTl6b2Z4MHNLQVlDZWhoN0U1aUhOWmNuYmhv?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 13:03:07 GMT",
+      "description": "A no-brainer for protecting your brain The Economist",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "A century-old vaccine may have an unexpected role in protecting the brain - Gavi, the Vaccine Alliance",
@@ -622,19 +661,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Free Pet Vaccination Clinic Coming To North County - Patch",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMV9Bdkt5YllRN2tLUS1qc09HMVNlTWd2cWVrOEdVNUdIMDFPZjh5cE1MTU5CWkZjenFoU3NvMzlQeFBNRDdxYUEzNGxnNmZkWXNySWI1N0hfdjBCS2JlVDF5b25FdURsZUNWekpUV0thcEhyb1ViVm1UbUFLR2lIY2NGdDZfSjRldjVtay1yNNIBpAFBVV95cUxPRW9DbVJ4TUhka3U1bFFFMlZmM1V2Z21VaTBBUlhxTXotbEQ0aVpXcUtKdkRCXzJVbDZiVTRrY0R1eDMyODVXMEhLMnp3RzJnd3dlUjdvczVjQUxDa2hBRHpsQ0ZLVVdIa29UTWp6b0xFSUNVVTFoRVhBOW5VMmVMZHh1RFNrS3c4Uk9BZnE3YmE5ZGNObGRvbUZpYmpvUjZFZHJJUQ?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 20:31:06 GMT",
-      "description": "Free Pet Vaccination Clinic Coming To North County Patch",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Sanofi floats flu shot marketing pledges to pacify EU antitrust probe - Fierce Pharma",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWXV4MDI3d1VqT1FNMmJ5WTNqVmZXX1pWbzA2a2xoeHFPYVhDY2FaLTZDeDkxRWE4eUJkTDl5ZVcxcUotUUdSQzk2Nk1tNVB5Z240YUpjRXVMRkJodFJMRzZ0Sjl6dzFfcmczOENhQ1JReTc4M1hqR3NOYjRpYnVieDN0MUhMenloUEtGZTlGUW5iQjB2dWJvMk8zdk5zemp3d3VaRQ?oc=5",
       "pubDate": "Wed, 08 Jul 2026 20:26:53 GMT",
@@ -687,15 +713,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "School immunization requirements and Virginia Measles outbreak | Rachel Dumene Central Shenandoah Health District - Rocktown Now",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVml2ek05cVpacnpka2lHNld3aUxKT0FQcmJkR0MyTVNmWVNIVGgyd0JFQWxqT0VVMjhBRWJHTVZDSS1JRzdMY0pGR2d6RjBoMTJnTXQ2aXp4OXRGY1V6dEVteG1VR2tCVHJIM0h4WWU3MHNHMUpwYV9MMXppR0drTzY1UGQwdUJxUFAtYjdsbmV1WFRCaHR2a1BIQjNUT1JTdjBZRk5aa3N5NGpJUS1hc09YUWRTR0Vrc1duTFZITXZPZm5vdkRIV0NUSXJTd2h4WE1ZVW16MlRnRFhCbmc?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 18:14:30 GMT",
-      "description": "School immunization requirements and Virginia Measles outbreak | Rachel Dumene Central Shenandoah Health District Rocktown Now",
+      "title": "Andrea Shaw, Plaintiff in Anti-Vaccine Suit, Is Charged With Murder of Her Twins - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZnBjOG1vUldiZDB1V0hVcUVkTnhvZlZ3X1piOElHQnJOOWpveFpaZWtPaVd3WnkzRGFWOGYzeXNzdWJYLUtLelhDT1pwbFRHbkZsOEV6U1p1VWFzRTBSYUZkZmV3VFJJd0hKX2ZmVlZ2SWNtYURidjBsVWNrdFYzX2J2eXh6Q01U?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 18:28:00 GMT",
+      "description": "Andrea Shaw, Plaintiff in Anti-Vaccine Suit, Is Charged With Murder of Her Twins The New York Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -804,6 +830,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Hawkins Health Department to host back-to-school vaccine clinics - Kingsport Times News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbGp0Ym1UNERYZDc5ZGt1S0ZvZ1hzeGt6TnpkdldHbXM5d1VObzRGT1psR1pYM3gzMG10dFRaeHBRdDl3eUNEbkplT283QTBQeVQwY2sta3Y3a24xXzhEN1E2QXBITVZJLS1VeU5rSEgycVV5clBpc0kyT3JIWUJEQjFiYWx4bFhVa3hrRFRHTEdMLWJTX1RHVlFMcWZ1YXcz?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 11:00:00 GMT",
+      "description": "Hawkins Health Department to host back-to-school vaccine clinics Kingsport Times News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "COVID-19 Vaccine Shows Significant Protection Against MACE in Veterans 75 or Older - U.S. Medicine",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRzJRZENNRmVwcmVGd2dLUFFZV05CNmpUWXNTX2RLeFR1d1VnYV9XRGdyckFuOUxYVElEUW91QnlRY1JGMVZua0w3ODJJcGdKaERETHFrMVpYWVcyUllPMEkzcmVwRWk1enNkY2hhMzQ5MWFjWEVWUk5LZl81aFctWTJvdXVreXVzbnRBSHRQY2dYckw4T21LdlZoSnhSM1l0Tm9IaHlaWVl6M1dKMnFVLTV1Vnc0LXQ4M09KZ2JSQV9mQ2xGOUY1V1V6VHI3cEdl?oc=5",
       "pubDate": "Wed, 08 Jul 2026 10:36:50 GMT",
@@ -895,32 +934,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "UNM Sandoval Regional Medical Center to host free vaccine event - KRQE",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU0k4eXlSWF9paWp1QjRNMTZDVnFUZXdJbjd3cDM1US12X1NzcnR5OXJjdDZ3aWN3ZmctRWJNWDdwdE1wcWRXOHFsblgwREhSYXpQUU9vN0Q2V0wxUXc5aF9mY2ZBcU4xRXpYb0xOam90eExDS0ZCTVhrWWphRlhRZ3BudlB0M2tkbWJOUmVRTVpsaHVLN3p3S2t2NmlzY29XeVhV0gGoAUFVX3lxTE5CUmtVWU1vMzdpamliV3dpVS1Va1Z2SV9ZM19YWVlSZTdPZjFjRF9lNE5yN3dqM2w3VU5uX242YkdTZ3JYLTRES3JwX2pJNks1MExCS0xmRVRoalhjQVVzeXZHWGdvNEU2Y2liLU1nZWZyMVBTaUJMc3c2ZFZ0T3Q0Q1pELV9Reld6NlA5anA5bkpaUXlwaU0xZnhLTjZvUlVqc3h3TF9GRg?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 21:14:20 GMT",
-      "description": "UNM Sandoval Regional Medical Center to host free vaccine event KRQE",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Cefaneffe’s promise to help her baby growup healthy - Unicef",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaTVlVEJkQ3Zkdk9xOURQTGdkNjVFVU1faGdTd2pCdUJHWVVrS3V4SUtVd3lQWWJzeXludXVCSjBiQUIyUl9wenFubXdqd3ZkUnpCRnhRRzRyV2V1RlZ2Z0xGMmNWbzRpOC10SUhRVEJTNG5kdzBmNFlpT3R0TWY2SDZrUjJUSUd2aUtVd1VyYVM?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 21:05:30 GMT",
-      "description": "Cefaneffe’s promise to help her baby growup healthy Unicef",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Vaccine Order Raises Concern From ID Experts - Infectious Disease Special Edition",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTGZsT0xBaE5RdHNwTWJzNzdMZTlWTDA1Zlh6bE1FQV9LUG5OYXlTVHYtdFVONEItY3RSNWxXY2h5UGpWR1RjbFpRSjQ4S1pzaEdKekc2bVhab2x6ZnBjR3RlUmQxQ2UzSzN1eTZUTVhtSE5tWlY3Y29ZaTZvOFdrQ2xHVDkzMHJib3BqdnJwZHREVV9JblI2N1FZUWxIX0xhUEdEellMRQ?oc=5",
       "pubDate": "Tue, 07 Jul 2026 21:01:16 GMT",
@@ -934,17 +947,17 @@
       "articleLabel": "News"
     },
     {
-      "title": "Andrea Shaw, Plaintiff in Anti-Vaccine Suit, Is Charged With Murder of Her Twins - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZnBjOG1vUldiZDB1V0hVcUVkTnhvZlZ3X1piOElHQnJOOWpveFpaZWtPaVd3WnkzRGFWOGYzeXNzdWJYLUtLelhDT1pwbFRHbkZsOEV6U1p1VWFzRTBSYUZkZmV3VFJJd0hKX2ZmVlZ2SWNtYURidjBsVWNrdFYzX2J2eXh6Q01U?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 19:53:26 GMT",
-      "description": "Andrea Shaw, Plaintiff in Anti-Vaccine Suit, Is Charged With Murder of Her Twins The New York Times",
+      "title": "New Study Shows Flu Vaccine Helps Prevent Death in Kids & Teens - Parents",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT0RRRTMzaE1sUjdmY2xYaVF5YmpRNjgtZ2ZFZ3M1TlREbFo5QUhFUlB4MlZpZmxReFAzVGF0WnFiN3VGWHZnQ3l0cUhwVkpXYXRhdG9SRElxSGhxeVB5TWZLd3hKSkF4RDUxOXBUU2VfRjJpVDhNY3pfblJMZ3JIYk13?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 19:00:00 GMT",
+      "description": "New Study Shows Flu Vaccine Helps Prevent Death in Kids & Teens Parents",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "research",
+      "articleLabel": "Research"
     },
     {
       "title": "Zoetis receives EU authorization for Newcastle vaccine in poultry - Feedstuffs",
@@ -1029,19 +1042,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZVJUMHFSMVU4RzNOc0ZDZlkyWDA4cG1Wdm9DaUhpc0lGZ0RoSGVRVHFMM0dGSzg4MEREQVdqT1lfbW1CeFJyUTBVZFlQeFJUOW1BOTktUkZVTGdNbGsxVUM1Z3p6RTdqX3BhWVJEYVBCVkZsX1lPYXFxMnZKVFlSNXEzRTcyMW95bm54ZXI3REUyUmxHRFhqd1c4dVl5ZnBNcUtUOHNOZjM?oc=5",
       "pubDate": "Tue, 07 Jul 2026 12:55:10 GMT",
       "description": "Oklahoma Caring Van offering vaccination clinics in the Tulsa area KTUL",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "UNM SRMC to Host Free Back-to-School Vaccine Clinic for Sandoval County - UNM HSC Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbHg1MG0wd0U1XzduU1diSFpjbXg3U1loM1kxclB5OWlKTFRsemNSbDctOGdFTGZLN0kzcEFXV0JwOHhMWXBuVTlZSXhIWDc0ekliOXVaRzJxRXpqS1VycjdkU3BoNjFKQkUyZmN3SHJhTDN5Snh2a0ZEUWkyVXR5aTNpRksybjd3elpHWE5hdGMwWTNRMm5WREZ5RTR3eXpCOGc?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 12:07:44 GMT",
-      "description": "UNM SRMC to Host Free Back-to-School Vaccine Clinic for Sandoval County UNM HSC Newsroom",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1142,6 +1142,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "A new HIV vaccine offers hope for eliminating the disease — plus more medical headlines - WGN-TV",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSS1hbnFTSkNSa1ViajNZYWhyUHI1dlVKQmt1WnV3cHl2MkIwMlNRWlpaZ2VMN0JzVlpNbDNxRXI2cHB6dDBtSHBWZTVOblU0UExtRTFyR0pDc0lTVGNRcnFBbUlGaUZFUVczazQ1Qkg3YmdLWmpkZnlIaHdFZVAxTXliT0RBb1VKNVUxbEpjdHFXTWtCaVpnNF85NjNtYTVuV2p0ME1GZHlJbk5FSFJvXzBDek9WQTY2dXp5VFZKVWTSAcYBQVVfeXFMUGRrX1Ixa1k0b3FNdVBEcW53TVFXT2J0NTVETEh4OWJ0TjB5X05paXlONHc1RUFJTm1qTnZPY1ZHT1VuWEItaU91YjJTSElrVEZGM0ROYWtkOHR5QXd0NS14d1FRVDdHbnlNNWRyeDdBUmRuSmdpTURyZWlheVVxUXY2bFl6MlBVVEZ2Mi01OGhkUDdfVGp5a3poZlBhMFZ3SHVQN0NscDFHU0hvemN6dWl0bXFmNXkxSlp6cWJjLWF4UHBsSDJn?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 21:46:29 GMT",
+      "description": "A new HIV vaccine offers hope for eliminating the disease — plus more medical headlines WGN-TV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Alzheimer's Biomarkers Change After Tuberculosis Vaccination - MedPage Today",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uSi1XZ1hteFhtSlZTTlBJTm4yWm5ldlZ6Ti1fOHpVRGhFeFZSVHIzbHVhOUtaZlJZTm5Wak5Ia1lzbGotRDZxSWdMaVRoSDBEbnBydUNjMjFRRnF3azlBVTdTZ1RNbGVYeVUxanBrYnA?oc=5",
       "pubDate": "Mon, 06 Jul 2026 21:33:33 GMT",
@@ -1155,10 +1168,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "New HIV vaccine successfully generates broadly neutralizing antibodies in primates - News-Medical",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMndHVXZvQ2ludy1VQlhrSmdvb1JkUlFMbWVJVExEWVI0dDNOaFFsYXJzTnYyTk4tT1ZROFQxcGgtOUtMNUlBOUZIcHg5QmlxMjVOSUNoMTBVdWpmOVdYeGZkZE1WRFNsMVNmeUJqRnAyZ0dtNlcwZDhzdVJIUXBsSHh3NkxUUWxYdWtoMkZETmlZUlZpVlRXQkFWc2VJWXZwS2JJcnV5WExLcml0SXMtY3BTV0pOdGlZRVdaeTFQT3RpUEdONlFIbERR?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 20:07:00 GMT",
-      "description": "New HIV vaccine successfully generates broadly neutralizing antibodies in primates News-Medical",
+      "title": "HIV vaccine triggers broadly neutralizing antibodies in 44% of primates - Medical Xpress",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV09YZDZ0TE5QTFJDXy1vajNvdlRVYWhHR2tzVlJuN05Gd243QXQ4NXpuUmtLVjA2RHlhMzNIaW9RN095Tk9JQXVhQWliVDh4ZDZRcGZkWmpFWmZqYXVtN2p1VlJuQ3ItUGZMMmNQYXdmaS1lMWw0Q1hXcFNpNl96RWwxT19WeXZjR1ZYLUhn?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 20:30:02 GMT",
+      "description": "HIV vaccine triggers broadly neutralizing antibodies in 44% of primates Medical Xpress",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1181,45 +1194,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Dougherty County health department hosting back-to-school vaccine clinic Saturday - WALB",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTmhvOFJRVUFFRnpSZUxCamFFM1JDZ1VfS0VXSU9zRUtZRXBTWk14Z01Xd2FtTVJHbWVOam0wZXBWUTdHRjE2c1NUcnlNTmNWbjlaOVFOUnRsR1hFbnFVWDNCdVZwcVBKcDJnMXoxdE5rb2JoUWlOWWVPMElPeHRnbTROQmR1cnBiWlh3ejdsM3hmX0ZpRWhQclNiTkxoUFhJd3dLY2FsWG82LWFYWHNFSEZfTmjSAcgBQVVfeXFMTk1nbEltcUhta1JrVm1LbWtXN2JnZHpEaGg1STZDWUpzS0JMRXBOYkpuZldIOThjcW8xcmE1ZlhpdENLMHBTN2RlbWl1Vk5QbEJqUlJGeWpOenRZUHBjN0k5d05ucFFNbVFGSzY0ZUlIcVJ6TnB6VmNWSXVreVJoVDlYNk9MQkRlZTZBS3Jzb1FydWVoWkdFN3FrVlF2dXdMVnZGTUxROFE0NVBDOHUxZ0R4NVlQSDk0R0IyU1E1VmpEa0lsTGFYcXY?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 18:18:00 GMT",
-      "description": "Dougherty County health department hosting back-to-school vaccine clinic Saturday WALB",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "FDA Advisory Committee Supports Moderna mRNA Flu Vaccine Review - AJMC",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQVBaZlUxZUlqaXFDOGFNTnJ0M3JFSThMUUJyZl9xVWlHRnRCWThhdmUtSEg5WTd1YWk4MHJpY29MU3RjSkpmc29YQXE3SmtsU3NGQzBKUmFublVZUGN3SHRvc2sxemxnamZSX1diRkN4REVvMHg1TzE5Z0VmZjdycktiYVlGUjNPZVBKbFhfQnlzN28?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 18:11:17 GMT",
-      "description": "FDA Advisory Committee Supports Moderna mRNA Flu Vaccine Review AJMC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "New HIV vaccine shows unprecedented success in preclinical study - La Jolla Institute",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcll0djBPajJncjNPSUxUeExVWHNDMjVwQWNFVF9oX0s4QkRfMDdvOFJHSF9JNlNmYUpWTEc0ejVzT0pLNHRSMm1UOFBmc0Q4amF4Nl9ORTBMdXpFSHJFUGptQUI5U01tR3Fjc1VoTUlkamJwb2lCVmJwTmtkS3NzcS00ak82RXNOQUxPMU10MlV2Z1hOUk00XzdrWjB0N2NGcWs1RkZOMmNkSGc?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 17:21:01 GMT",
-      "description": "New HIV vaccine shows unprecedented success in preclinical study La Jolla Institute",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "Brain tumor vaccine links mutation targeting to eight-year survival gains - Medical Xpress",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmNpQUhrREZYbUVjTy1kcWtKRE5NSGNwRkpKSEZwU1hnX2oxdkl2OTZvbEdGSU5fZTRBNFlQM052ZkpWbmVzM3E3Rk9NRXZUeVN5X1hhZzRDT3hxdEpmclU4OWtWZTV0dWFNNlRtRUs4bXRMX0J0d3I3ZllldEhzSzNMUWg?oc=5",
       "pubDate": "Mon, 06 Jul 2026 16:00:09 GMT",
@@ -1231,32 +1205,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "Vaccine Ready: Dr. Allison Garsva's Back-To-School Guide - CaroMont Health",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeHdmazBpenpVWmE4Z2RoUzRRRGszODlKWnpNSnJSdEs4VGVoMHVxTlBlZFpLcTlBSnlhRnVsMW83Z2JQa0FUWXBERk1aV1FLU1NSc0pFS2Fyang5M0tsNzVUS1E5YmdrVXNKTU9WX3l6bzBzRmZSY0Q4cEllaUVjbmxHTFlTVDUzVjB6T19Cdw?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 13:09:21 GMT",
-      "description": "Vaccine Ready: Dr. Allison Garsva's Back-To-School Guide CaroMont Health",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "rsv",
-      "vaccineLabel": "RSV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Is the measles vaccine safe? - Understanding Animal Research",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaGcyV2N2TmdyR2xXZ3B1QUNXTHNwZlZlTjlnaFVFY0F5TXFUdVlRLVB1S3VVSml2eVlWcTRsX2JtRnVxdE1Cb0d4RVBDamZqd3A3VDFqcFh6RDJoU1JTT0NDbkt3ekc3MjZxR3U5N0ctYVgwZVVZMnBwdXUxSkhPeFNvcEFYQQ?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 12:29:39 GMT",
-      "description": "Is the measles vaccine safe? Understanding Animal Research",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "research",
-      "articleLabel": "Research"
     }
   ]
 }
