@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-07-09T18:06:05.474Z",
-  "itemCount": 89,
+  "updatedAt": "2026-07-09T19:01:06.418Z",
+  "itemCount": 86,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 12
+      "count": 15
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 5
+      "count": 4
     },
     {
       "key": "rsv",
@@ -30,7 +30,7 @@
     {
       "key": "hepatitis",
       "label": "Hepatitis",
-      "count": 4
+      "count": 3
     },
     {
       "key": "pneumococcal",
@@ -45,10 +45,49 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 54
+      "count": 50
     }
   ],
   "items": [
+    {
+      "title": "HHS advances plan to pay out Covid-19 vaccine injury claims - Endpoints News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMkZGLUQ4Z2ZCUUE4aXBKZDh4SlF0X3BpOWNqZ0hvVU93N3NEUDZiSFhFdTZIR0Y4V3VwTHA1WUFUZldoTm9TZVFsM1JnUXRWenU0YXktLURfbFZGYWlDcm1GQUxIeTVsMnp0X2RzNWdpRmg1LVpJWFZqSWljdDBWQkVaVllJbjVBWmJz?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 18:58:00 GMT",
+      "description": "HHS advances plan to pay out Covid-19 vaccine injury claims Endpoints News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Former Suffolk nurse who falsified COVID-19 vaccine cards hit with historic $544K state penalty - News12 | Long Island",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUGl5NjhNVXI5SDEwcnFQaGowcWVWNk5DZXVieTh0bkFtei1POHZraVNQWmdEblAybU82Q0JrTlQwX3VVaS1WT2RpQnlOWVZlSWxoZkwxdGZKLVc1QWhuTzhJcVBJWFBFNy1aZUFJSEdQNHJ1bUllY25jY1JTUjQxZ3BiVUhZQjBmallYVE85MnBRVTc0bDdEU2dXYXpQVkVISmpNa0FCTWo3a1hNM09FcWVnQmV4bUVvVk5Sd1VKLUJzUQ?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 18:35:36 GMT",
+      "description": "Former Suffolk nurse who falsified COVID-19 vaccine cards hit with historic $544K state penalty News12 | Long Island",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "‘Loved her children’: Idaho attorney says vaccine reaction, not mom, killed twins - Idaho Statesman",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YMjZfQ2dFUnhabmhJWmtiUHlnZFUwVDNnc0F4bnlROEQzUG5XU2NaU2Y1eElmcTA3VExTak0wcEVLQzJRNjZ4YkFnZWVaTVZ2RzdYeEF2eVFxTk5UVGN5Tl9jM0dOLXJmV0V5bHZzcUhPaFNwR0VpTNIBeEFVX3lxTE4wWk5jZnV4NWZaTm90M2JnSWxYM0MtajBnYnRSUHFhbXZVeVlIOU1PcnRVdWV3Z3cyc0tXZnlSRlZxRm0zSG1sWXl6XzFBWnpXMHZTWDJsZkEwREdtVUFrRVBXbldwSVBQRjdwODg1LXV1T2tReVZ1NQ?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 18:19:53 GMT",
+      "description": "‘Loved her children’: Idaho attorney says vaccine reaction, not mom, killed twins Idaho Statesman",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Hepatitis A Vaccine Eligibility Related to Ongoing Outbreak in Northern Manitoba - Thunder Bay District Health Unit",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRXk2RWo1VjBZbXpHdUMycGVqMHljZGpCYkRidThWUGR3ZVJCLVN3aEo0VDEwS21QN3lEQXZURTcwU1NaSUtfakVxdnBSTGR0OFZYanhJR0lQQUdzVDRWYnNjWUxJc1FLeVpZMjBzTDVRT1NKMFZ3elpZUGFMMDVVTWRCWUd1YUFvQnhkZ1JxUGFXd3pMRVlXQUVLZlpJSE1WZWt0bw?oc=5",
@@ -63,6 +102,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Julie DeVuono, former nurse practitioner who sold fake COVID vaccination cards, gets historic $544,000 state penalty - Newsday",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc18yUGpOa0JaZWVFUHE3X1RYWGZTQkxBbUp4M1d5N2lsejFjVklCQmNUWXk5OUVPLW5sdXlXOFFMNFczazYyX0hnTkppSU81ZFdSQ290YUNhNE9tdGt4RXRabjN5ZjVWZlRjcG9FajRrUGFUYmphN3gxdlBGWEI2U0gwN1U3SVdiNE1yM0N4Wk1qVzZiMzJvanFfVG9fcUVjX3dEb24wN1lxa05SUXk0Zl9NdXI1UnJHTVFNTw?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 17:24:51 GMT",
+      "description": "Julie DeVuono, former nurse practitioner who sold fake COVID vaccination cards, gets historic $544,000 state penalty Newsday",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "State Health Officer warns Mississippi Board of Health about declining kindergartener vaccination rates - Magnolia Tribune",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWklua2thMV81MDhoTF9weFE4RlN5Mkw1MUpNRHdoeXBqTUNEU1hhVmFMcHlXZklhN0dOUHNtZndNN0JMQ1FITXpHWGNQLVRGX3JZMlcyemVsOTJBM3p5VFRuRkV2RlZTSm9tbW01Z2tRTmtPMkZ6QVBiaDR3aUZCaGNhUXJzR3dMQktOR2FXSnlxUEJjeUVQcGI2akhDM3lDZms3WWZTVTJHU2dlR0JDYnV2dVMtZ2RQeVJZYlBvdmI1MzhpTk5rLUF2VEVQMm52VlhFbWw2TVJoMkU?oc=5",
       "pubDate": "Thu, 09 Jul 2026 17:09:54 GMT",
@@ -72,19 +124,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Julie DeVuono, former nurse practitioner who sold fake COVID vaccination cards, gets historic $544K state penalty - Newsday",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc18yUGpOa0JaZWVFUHE3X1RYWGZTQkxBbUp4M1d5N2lsejFjVklCQmNUWXk5OUVPLW5sdXlXOFFMNFczazYyX0hnTkppSU81ZFdSQ290YUNhNE9tdGt4RXRabjN5ZjVWZlRjcG9FajRrUGFUYmphN3gxdlBGWEI2U0gwN1U3SVdiNE1yM0N4Wk1qVzZiMzJvanFfVG9fcUVjX3dEb24wN1lxa05SUXk0Zl9NdXI1UnJHTVFNTw?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 17:03:04 GMT",
-      "description": "Julie DeVuono, former nurse practitioner who sold fake COVID vaccination cards, gets historic $544K state penalty Newsday",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -150,6 +189,19 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Peltola’s record of absenteeism, Covid vaccine mandates, and legislative flops - Alaska Story",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWUNJSFc4Nkp6eng0cmNRdFpXd2Qxb1o5WHZBTlhoN0NybVNKdHRqQ2cyUGc0Q2hHR0ZjTGFoNEI3dmJqVk03NTIxd1h2Q2VYaWVYTHU1RmR1MXNBOTJ0ODlDcEZmWXhiR2FVblZDMHBYSjFQUjk3TTdJWUtDNTFnTXFBWHJpQS1xSFlRd0pTbFZGd1dOYnRVVklDbU05MTVlRFFqWGhB?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 15:23:02 GMT",
+      "description": "Peltola’s record of absenteeism, Covid vaccine mandates, and legislative flops Alaska Story",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -247,7 +299,7 @@
     {
       "title": "A century-old vaccine may have an unexpected role in protecting the brain - Gavi, the Vaccine Alliance",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX2t2ZjZmelZ3Ty1PMFI2dFNNTm5ScU9yQ3ZWY0ZWLWZlTkVSMmdKdGxuUG1xc3Y2WlNWZUp0ZVpkNHVjSld2VkVCZmt1eEJtQlFkNU1UNDdXQWtwR2JnUk5VZ3BfU29EOV83aFF0NWxkM3ZGLXd1UjNtZkhkeF9CZng3VjlFTlpSalY4bzZheEFBZGsxYjJHcXZrUQ?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 12:55:57 GMT",
+      "pubDate": "Thu, 09 Jul 2026 12:57:30 GMT",
       "description": "A century-old vaccine may have an unexpected role in protecting the brain Gavi, the Vaccine Alliance",
       "source": "news.google.com",
       "sourceType": "news",
@@ -375,19 +427,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Việt Nam, France urged to pursue long-term vision in vaccine cooperation - vietnamnews.vn",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcS1CQVZOS3NveHUyYS1FVlVBWHVkOGRkVUZCYnc5bUY1d2M3X0VQTlAxYlp1dWx2dTBBbnpyT2J1OTBId2dBQTRIUDdoLW83SFhaNnBGNjFqaTRPcDFlNHN4Q0sxeVdtaXVLODl3c2FOZ01pUVI3aUVqWGt3YVU3cXN4Y2N2VG9FVk4yV2VYUTN6RUczUlNmbjQzalh2R0JaY0MwOUFhS3NZbjVhejA1Si0wSWlPZw?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 09:44:00 GMT",
-      "description": "Việt Nam, France urged to pursue long-term vision in vaccine cooperation vietnamnews.vn",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Sanofi offers EU commitments for flu vaccine disparagement claims - Manufacturing Chemist",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNmpyVGZsSGFaNFJrbXJiRkZUQWg5dGxrRTJpaW4tT3RYM0JOTkpSWmpoR2c0SXBtUnRhRm9wZ25NUmo1S20yWDVFR1E3Q043ZG5ZU2Q2Ri1mV0RFSzB4R2MtbUpNdWNscjJUNURIZHlNTWZLOXdvaHoxVkh4c2VaTnVjZmlwU0t2b2Zod0lBbFU?oc=5",
       "pubDate": "Thu, 09 Jul 2026 08:55:19 GMT",
@@ -412,19 +451,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "Commission seeks feedback on commitments offered by Sanofi over possible anticompetitive conduct regarding the promotion of a flu vaccine for vulnerable patients - The European Sting",
-      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOck0yMUp6dF9IcDJqTm12QlRzRWpnbkFWMHc2Qi1LNDNZMjJDSzk2aDFhZ1RwYU9IVXJfQUZYV2Mybm5QcWhRVUdUeVJLeW5JRFNfLTV6dFgwNDV4YTltRUNDNjRkYjRBcUdwcm1XaDhMMllzMFZxMm1IMk9GTnFYSmhneGdqTzBUcXotWEowTUtRQm9WWndBM0wtYVNRYjkxSnJtYllrbHdmdTNNQmROUEc1eWxrOUdjSENvSl9hcUp2YUdvT01QaVBvNnRXbmFfM0dia3MtdGF4ZlJ2bHdOTHBubWd0emRDOTZhY0dXb21UdnJ5RVpKR1VMUjd3UlRydmpSOElxdXUtcFlST3RnRVNqVGhjcmNGVUhHUUNLTW5KM1o2bkE?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 06:31:59 GMT",
-      "description": "Commission seeks feedback on commitments offered by Sanofi over possible anticompetitive conduct regarding the promotion of a flu vaccine for vulnerable patients The European Sting",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "Protecting particles that carry mRNA in dry vaccine patches - Lab + Life Scientist",
@@ -462,19 +488,6 @@
       "sourceLabel": "News",
       "vaccineKey": "shingles",
       "vaccineLabel": "Shingles",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Idaho Mother Accused of Killing Her Twins Faces Hearing as Defense Blames Vaccines - Medical Daily",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSUpxOFRRSEMtVnByVkNzVkgxcXh0c3dsM2xDazJEeU82X1ZuLW1qUkJSWXRtNE05RmlpTlh5eGRSOTdoZmtzS2plSWVSd09oWmRrbmdQekJyN2k2UWtRRlAybWstMUkyNTBRYVBZR1J2cWR4VkNLdE1uNjZfUENoZEY4blYtaWZCNmVmRWlmZnhqbVI5YWpTWTRXdw?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 03:00:17 GMT",
-      "description": "Idaho Mother Accused of Killing Her Twins Faces Hearing as Defense Blames Vaccines Medical Daily",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -661,19 +674,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Sanofi floats flu shot marketing pledges to pacify EU antitrust probe - Fierce Pharma",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWXV4MDI3d1VqT1FNMmJ5WTNqVmZXX1pWbzA2a2xoeHFPYVhDY2FaLTZDeDkxRWE4eUJkTDl5ZVcxcUotUUdSQzk2Nk1tNVB5Z240YUpjRXVMRkJodFJMRzZ0Sjl6dzFfcmczOENhQ1JReTc4M1hqR3NOYjRpYnVieDN0MUhMenloUEtGZTlGUW5iQjB2dWJvMk8zdk5zemp3d3VaRQ?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 20:26:53 GMT",
-      "description": "Sanofi floats flu shot marketing pledges to pacify EU antitrust probe Fierce Pharma",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Henrico Schools to host 3 vaccination clinics for rising 7th, 12th graders in July and August - Henrico Citizen",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ2hMV0RoSENTdXdHcUNpRThjaVJPOXlYTXV6V0RHVHZmc0tpS3dBYm5uWHFOQ3BTa2YzNUk2bk5aZzhvS2ktMExtaVFBcGM4c1pCVDRBd2NORElWcFRXMW5zeVBGck5XNUxlTXpuOFQxOHdfeDRiaXBVQ1FYSXlWcHVpbVJyeWUwVnhWbFJZV0VSREhwdHplN3hIbkp1b1lQeHR5QVgzYjV0bWRtbDNrNGNGVFQzRGFVOTY3c1U5emhycWdiVzZyYVBpbWN2eTgwUW5MT2FNbw?oc=5",
       "pubDate": "Wed, 08 Jul 2026 20:24:46 GMT",
@@ -817,19 +817,6 @@
       "articleLabel": "Opinion"
     },
     {
-      "title": "Free vaccine clinic aims to help families prepare for school - KOAT",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQUtsRGRHUUZTMEk5Zl9URmVwVmVKcklPWXZlZ1RERTBfT1o3Z2FLZWY0RFNMb0N2dVk1VDU2UzZyWXJNNWxDeU0wazhhZC1iek1SRkFSczRDYkN1LWFTdkt1dGk3ckFKLS1QVXFSVXJKZ2hCTlNLbHRfdlM5T1BfMEZYUHk2UkUyQndvRllBQQ?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 12:26:00 GMT",
-      "description": "Free vaccine clinic aims to help families prepare for school KOAT",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Hawkins Health Department to host back-to-school vaccine clinics - Kingsport Times News",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbGp0Ym1UNERYZDc5ZGt1S0ZvZ1hzeGt6TnpkdldHbXM5d1VObzRGT1psR1pYM3gzMG10dFRaeHBRdDl3eUNEbkplT283QTBQeVQwY2sta3Y3a24xXzhEN1E2QXBITVZJLS1VeU5rSEgycVV5clBpc0kyT3JIWUJEQjFiYWx4bFhVa3hrRFRHTEdMLWJTX1RHVlFMcWZ1YXcz?oc=5",
       "pubDate": "Wed, 08 Jul 2026 11:00:00 GMT",
@@ -925,6 +912,19 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOXZXSXFfWEVua3c5OVo3RGp6UzVZVHFIN2RxQ3NwdTVKVUpvVjE5X0Q3TFp6WWpscVVpRmh4ampyTWVXYzd6WVBaejB2RG9XMUdPN0JiSDdPSFFaQlFIVXhiTXQ1UkxYdC1LTEhDNFhhNlplNjVUbHpPWm1VRmEwRGNxV2NEeEM5RVhIX2VpSlM2QTlnUkNhaE0xWXRHd0dOT25LU200TUdGX0xkdDJaY2hIWWhEMzV4RkZrdkZtWHFpckIwRGJiZExIWllpWlhubjBCY3dB?oc=5",
       "pubDate": "Wed, 08 Jul 2026 00:06:06 GMT",
       "description": "Germline‑Targeting HIV Vaccine Generates Broadly Neutralizing Antibodies in Primates Genetic Engineering and Biotechnology News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Tuberculosis Vaccine May Help Prevent Alzheimer's by Influencing the Brain's Immune System - Discover Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN3lLMWo0c2twalR3Sk5BTFNIRFdySGxGZk1Hc1FHT01keURTYWlrWUd6OXRpOE1xdFpNQlpndjdka1VEMlRXd1VvVkdGVm1vdjBaelZmZ3gzV1NhQTdLYTlFOGhoRm9CY2g2SU1wbFBjdWhDQmNPd0hZdmpiRTA5dEw4aWM2OFc1S2c0Z002Rk9OYmc4dUZQUW5YNjJwSjdiS2pfM0NYZGZnQ2cyeXpqM3EyQ0Vhby1LMTBmblpDdFA2LWhGSTlyRQ?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 21:30:23 GMT",
+      "description": "Tuberculosis Vaccine May Help Prevent Alzheimer's by Influencing the Brain's Immune System Discover Magazine",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1077,10 +1077,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Texas sees slight rise in kindergarten vaccination rates one year after historic measles outbreak - kens5.com",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNNnlwRUlZVlZ0TFlOVl9EbTB6RnVuQmxEZ0ZzdEVZRGZGUGdWMU5FM29yTFI0SG1oeEtqVFB6OHpkR0JQYXhLSXZpMGdUeUFjek5vQy16MWVCaXhYMW41TFVyWF9Ic3BmR1FLUUQ3OTJ5Q3ktZnl5Y2RxTU10LWp2Y1JuYW5Fdk5zNHhSanJraXJPYVFEbnlFTUdyTnpGWFZ3bmtqWkdNWUVtSlh4aTdrNE04dU1SanRVNWV2V0VybVhXUWo5ZE9sQVF0YjJnQTl1aUx1RWc0a1djdURhWEVYWERXY0tycnduTDZHUDJJeDJybFd2NDR1Z0FtM3hNZXNHaDg3MFlUOW40OVNtNUV3?oc=5",
+      "title": "Texas sees slight rise in kindergarten vaccination rates one year after historic measles outbreak - kiiitv.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQUXVxN0pNcnZfZ0dRbXh2WmxOUDUtNnFmLTUyZ0xmUXViLUpTMlFqYUwzN0FoeGFYQTV0Qy02cXh3c0xsWXU0WVljeEluMlA3Ymx0MF9GdW5aU0VNRlgwdHZoR2RqZks4YzltaHNrZG80VE1oV3FCTFZiX2Vvd0ZxdzVrNzZWTW5FUDlicE1FVnRwZHRJOGt5am9RRXBfLWdJTzJUWkpQVVJ6a3B2clcwRjVyd1RxbGt3VTZFN21PTDZNWHNRWE1Uc0JYQjM1N2p4NEI1WUx0dTRzNWhiU1hXMFg4eXhGTFh5dEItWk5UcTZuUVJQVDBWYXRtY1ByeV80S2tRZnVFTkg?oc=5",
       "pubDate": "Tue, 07 Jul 2026 04:24:00 GMT",
-      "description": "Texas sees slight rise in kindergarten vaccination rates one year after historic measles outbreak kens5.com",
+      "description": "Texas sees slight rise in kindergarten vaccination rates one year after historic measles outbreak kiiitv.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1103,49 +1103,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Vaccine rates see slight dips in McAllen and Brownsville school districts - KRGV",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcUZSa1o1Vlp0ZTJVTjRwQklDSFY0WHhKVlU3SWNOS2tScnBJcWRROGsyRHRTLVFFVUQ0ck1xQ3JPTXFHZXNsczQwbUU3eXpMSnUzQkxMRDZ4QlA1MFpEQkhWZU1DRFRoX182dkJhVkhoMlYxR2lxRUI5WFJ5cEx0NXA3eWcySnRsT2ljZlQ5RGt2dzBuTDJzd3VaSldzMjZBM3c?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 02:37:07 GMT",
-      "description": "Vaccine rates see slight dips in McAllen and Brownsville school districts KRGV",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Vaccination rates in Texas schools have been dropping. Look up the latest vaccination rates in your district. - KRGV",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWUpVUC1nQkVRdFVwM0ppQ1F6M0N5R01KaEZjYUt2aEZlSmQtajRfZFprSlJqNngybjljRVVkV0ZLOXJGdHVMMm9obHEweVNZdEVEanF4X3Y2WjMwNUlLOFRITHlqallGbnN4cE9ueEVBXzR4UmFaSm5aQ2pQVThFQ255QWZkQmtYMGJXdGs1RlBhcmpJTXJWN0s4Mk1idUt0RU16NVVxWmgtbHRBTGJyWUwxR3Jjb1hudUYwbE1sRzdHeU1zQlQzMjFZMGpUUUdD?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 00:06:04 GMT",
-      "description": "Vaccination rates in Texas schools have been dropping. Look up the latest vaccination rates in your district. KRGV",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hepatitis",
-      "vaccineLabel": "Hepatitis",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Experimental vaccine shows promise against dangerous intestinal illness - Fox News",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZndWRDZwbmwzT0dkSDU3MkVPLVRoUl95OVpPeU9yQ1pxZzlBT0ZjVjR1OF9nSXV2aUQ0aXZBY0QtZFhrYkZKdlBGemVKQlBGSEVnUFBnSWY2MEFvNlZwaWktdzdFWXhOQnU4OGtlWmtSeUd1TmN4Ymk4Qk1nUWluNnRFWWVaM29oaWs3SjRVNzRSQnZHdlJqck5LVGhySFVVUmFVRdIBqgFBVV95cUxOdWVJeXdid0Vzbm8xQ3RlYjNnX1F2ZS1WS256dnFGdmhIMnlkMm9CUDcxamdCWGFDM0hwRENzOTFPTGxBU2ZRSkJESXFDNEVjUkktUG1JeGw1SXJLSDU0cHNISklGejNDNHBSMDU1ZzlBWHl5TXVZNkt3TW5aaUlCMkdnSnpVanBPbGpLU3RDdV82T1FTcnVkV09vc0FWUThDSlNJMGtibGdoZw?oc=5",
       "pubDate": "Mon, 06 Jul 2026 23:57:07 GMT",
       "description": "Experimental vaccine shows promise against dangerous intestinal illness Fox News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "A new HIV vaccine offers hope for eliminating the disease — plus more medical headlines - WGN-TV",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSS1hbnFTSkNSa1ViajNZYWhyUHI1dlVKQmt1WnV3cHl2MkIwMlNRWlpaZ2VMN0JzVlpNbDNxRXI2cHB6dDBtSHBWZTVOblU0UExtRTFyR0pDc0lTVGNRcnFBbUlGaUZFUVczazQ1Qkg3YmdLWmpkZnlIaHdFZVAxTXliT0RBb1VKNVUxbEpjdHFXTWtCaVpnNF85NjNtYTVuV2p0ME1GZHlJbk5FSFJvXzBDek9WQTY2dXp5VFZKVWTSAcYBQVVfeXFMUGRrX1Ixa1k0b3FNdVBEcW53TVFXT2J0NTVETEh4OWJ0TjB5X05paXlONHc1RUFJTm1qTnZPY1ZHT1VuWEItaU91YjJTSElrVEZGM0ROYWtkOHR5QXd0NS14d1FRVDdHbnlNNWRyeDdBUmRuSmdpTURyZWlheVVxUXY2bFl6MlBVVEZ2Mi01OGhkUDdfVGp5a3poZlBhMFZ3SHVQN0NscDFHU0hvemN6dWl0bXFmNXkxSlp6cWJjLWF4UHBsSDJn?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 21:46:29 GMT",
-      "description": "A new HIV vaccine offers hope for eliminating the disease — plus more medical headlines WGN-TV",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
