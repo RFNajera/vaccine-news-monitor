@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-07-10T15:18:50.902Z",
-  "itemCount": 78,
+  "updatedAt": "2026-07-10T16:12:10.869Z",
+  "itemCount": 81,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 21
+      "count": 20
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 1
+      "count": 2
     },
     {
       "key": "rsv",
@@ -20,7 +20,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 5
+      "count": 6
     },
     {
       "key": "hpv",
@@ -48,6 +48,11 @@
       "count": 1
     },
     {
+      "key": "chickenpox",
+      "label": "Chickenpox",
+      "count": 1
+    },
+    {
       "key": "mpox",
       "label": "Mpox",
       "count": 2
@@ -55,10 +60,49 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 41
+      "count": 42
     }
   ],
   "items": [
+    {
+      "title": "Here Are the Groups Impacted by CDC's Chickenpox Vaccine U-Turn - MedPage Today",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jTUNPWGNnemRxU0F5OFJ1NmQxbEtxVUN4LTJwYVlyQXpwblVYaDhKb1VmRGhTNjhLMjNJYUE4VnBGQm15N3FNQ3hYSzNncGQ4dno3eG1uOXpFWmt3UmlRbkctd0k1QQ?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 15:50:46 GMT",
+      "description": "Here Are the Groups Impacted by CDC's Chickenpox Vaccine U-Turn MedPage Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "chickenpox",
+      "vaccineLabel": "Chickenpox",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Measles Vaccine Usage Trends in Children Aged 12-47 Months, 2015-2025 - Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ1hWREYtbzNBcUpDN3UtZnFJMFlKTFBOZVRTbG9aN3c4TVBJQnhiTmR6dnlsZ1prT0dMWnFkS3VqTUJjb0hhcWlGYXB0M3Q2b1BJVEN2U0xXNEVHYnJqV3dBaWRHZmZxYUVHcUE0OW0wcnpVNUlMMWtfZndCRHRCNWhPNjZEUEVKbGstQi1hSVAzTzBmNFR4RA?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 15:48:43 GMT",
+      "description": "Measles Vaccine Usage Trends in Children Aged 12-47 Months, 2015-2025 Bioengineer.org",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "South Africa to allow private foot-and-mouth vaccine imports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOUVOQUR4cWFMd1piX0lneDJaVktrNTQyZ2lWeEljYndwTzRtcFA2Z1dGU25PYUxYOW1jWXhnQnJtUktXeXAxMmhtbGd2UnRwRjk3LVk4NmZsQTFEUUZ0Q1VSOGdlSmNWNDFwTjR0ekV3am5tc1ZBRnBfbnFGd1NfV3lRQ05KLVF1TlBrRUkxeHJFMXVoUGJoOEl6VXc2YXdGU1dDcUpQVlJrZE0xay1kcnpwRzhYcUVhQXl4ZEdESDZlNzJxRHo3Rw?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 15:35:43 GMT",
+      "description": "South Africa to allow private foot-and-mouth vaccine imports Reuters",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Senate investigates what health officials knew about COVID-19 vaccine side effects - KCBY",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTFJoOXY0b3p2NnNKMFV2YXdzZXpVdlFLLU9XSDFYYnFNdHNBQVU2VF9mSDFsM0dTM0dGbFo4UHAxSlp4eHZNTWhDUWdkUUVpS01GVC1jN3JTb2o5TEU4QUFwZml3OWZZUXJHck1CM21MemtxMEdDNENDR1hYVGQyM3B1U05ZWm1wSHhqV1M5UW9Ob2wtYWVpcV9kbFhTYks5N0g4QUkxazZYMTdoa2NvZFU3UF91cmVCN1BRSGNUeUszVlFMdHdCLVdXY29CU3pab204eEVQMDRXRHc?oc=5",
@@ -82,6 +126,19 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "NMPA reviews QMS for regulation of vaccine and drug GMP compliance - The Pharma Letter",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRVRMMEJYWHVyaDBobXdfdW5nSV94bXFZeEtaWllUN1hOUS1IMmlWc2dOeEFfOFFZM0dBRnI2LTMxUmNuRXpEaGROX2VDVTBCM0VuNi1NUWE4bWJ5Sjd4RWpJbGVwZnFXOHRRM25teEhqM3M3OTc4V000cVlBbXAzbmdSTUR1dWJNZXg1N3JKLThDbXdEYmVLQi1KQjd5TktoM2dRUDhlWHp3VGk4bmI4?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 15:00:00 GMT",
+      "description": "NMPA reviews QMS for regulation of vaccine and drug GMP compliance The Pharma Letter",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -116,19 +173,6 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaHp2ZDNWcjZfMjkzZWpiRnVaZ2tUdTctUElkZE1pZS14Z3p1NWpXczdFTFJCcHZxNmdnWHZpVVFaeXlwbnVleXpHSUZZOHhZZWZDMTJMUnNGVDRid0dYTlVGbWdpNVNzRWtrYTM1Umc5eGhiTmR0MDhiQlhvV3VsbFBGQm9hVG1Ea1N2V2REaHFMZ3JiOEJuWGdBUnRxUWYyMjBPREFkWGQzYm9QczZwOA?oc=5",
       "pubDate": "Fri, 10 Jul 2026 14:00:02 GMT",
       "description": "Scientists Discovered a Hidden Immune Backup System That Could Make mRNA Cancer Vaccines Far More Powerful Medical Daily",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "NMPA reviews QMS for regulation of vaccine and drug GMP compliance - The Pharma Letter",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRVRMMEJYWHVyaDBobXdfdW5nSV94bXFZeEtaWllUN1hOUS1IMmlWc2dOeEFfOFFZM0dBRnI2LTMxUmNuRXpEaGROX2VDVTBCM0VuNi1NUWE4bWJ5Sjd4RWpJbGVwZnFXOHRRM25teEhqM3M3OTc4V000cVlBbXAzbmdSTUR1dWJNZXg1N3JKLThDbXdEYmVLQi1KQjd5TktoM2dRUDhlWHp3VGk4bmI4?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 13:52:04 GMT",
-      "description": "NMPA reviews QMS for regulation of vaccine and drug GMP compliance The Pharma Letter",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -229,6 +273,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Legislators, Former Defense Health Board Members Object to Discontinuation of Mandated Military Flu Shots - U.S. Medicine",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWFpqWGtISEx4UTZYWVpvS0QtcU95LWhBbUc5UGQ5VWhldFFRWlk4T0haMU16R1NVc2twczJWNzJuNjloU0NTLXd6Ynh5Z1B4X3VOZUYtRmFnWVpibGdfR1RjY3lCc0twOERGcnpLSl9RM0U3QzhqTjhiMFVNRG5IdFIxSDN3ZG4tZGZla1VhSzdjNkxLc3hTTXI2SWQyWjlOR25xR0lvM0M0OEVTckU1YlZTN0NHb0RSVEowZlVRYTV2ZE9PZUhwdDcyUDEyMFRxczB1MUxUYk15dFdUdTJlT2VnY1N5OU1xTWI4R0dUYw?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 10:47:37 GMT",
+      "description": "Legislators, Former Defense Health Board Members Object to Discontinuation of Mandated Military Flu Shots U.S. Medicine",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Ex-nurse hit with record $544k fine over falsifying children's' vaccination records - WKRC",
       "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOYWMwNjZoVC10b2wzS2o5cEo3Wm9ma2I0Y0lqSHRjN1pJXy1YQUU5djR0T3Z1M2Y5VlhyN1drZWZSVG9JVGoySnZjN09ZODhVNy1OY2lBZmhZOGpDWkgtbXhjOWM4b2dLdnd0eExXbTBBNDdjQzI4Y0R5U3NsQUlVWXFoeThDdVV1TGVDX3laaC1DTXZTelpBVHhQZzZVRk80YWVhWDk1clB6QkJoSlYyMG1sU29VOXZLaGZHbWNYZkFKWi10QTIxUTVPamZ5dEh6RXZ6M3RLYlptbVNrYUctYmdLVTVFeXVqOWNRMlQzWjdqNl9HcGc0NnF5TFFINlVIOFRBWjM2NmVUSEpobWIxYmpzZGNxR0FEZWJmaTZaNElhcVk4ei1QeFYtVTBKLXhxbjBZbGUwLWRyX1lOMmxZblQ5WWRyMlNOQ2tKU2JEbmk1U1NrR3BaeWFXbF9LNFR1OXQ4VjZ3Rm1jeUtLVEVMTWlzaw?oc=5",
       "pubDate": "Fri, 10 Jul 2026 10:30:38 GMT",
@@ -257,7 +314,7 @@
     {
       "title": "Thousands of young people offered free MenB vaccine in Shropshire, Telford and Wrekin - Shropshire Council Newsroom",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYUx2VHNfTklhaGJHZ3ViQjNIelRwLVhwUHdqSk0yeWlvREdoM3Vlak1zS3VtTlEzS2U0d3NCeWJrbjQzYlNXX1NmVFUwUjZRS1RGMUlncjU4aU5pOHJtek44eTdDb2Fka2RBUk1sV0ZvbHhxMmJjZ01MYkRjbjNrTHE4S0ItNmx2VV9vem5PTW1aSTJMRksxcjV3LVFLbVA3VnhOeFA3MHZLb3JrZjJOZGNXZVpfV1lXSWtXamgzM3pSQ2lJLWZn?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 09:56:15 GMT",
+      "pubDate": "Fri, 10 Jul 2026 09:56:52 GMT",
       "description": "Thousands of young people offered free MenB vaccine in Shropshire, Telford and Wrekin Shropshire Council Newsroom",
       "source": "news.google.com",
       "sourceType": "news",
@@ -294,23 +351,23 @@
       "articleLabel": "News"
     },
     {
+      "title": "Study validates 100% protection of Argentina’s vaccine against SAT1 foot-and-mouth disease (FMD) - African Farming",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQUhIeU1tOVVrOEs5QkkyWGRTaHlaZkt4QkdRaHNIRzROVjlhdEpIM001eVc3Q1JiYlZrWTd4NDQ4X1hVWm9kT0h5OEdZR0hRaTVWUXZ6NzFpT0ZWdENINjBvdWo4RHVjdzFBVWI5aVZGWkpWTl9NYklCNHNfMkJNdGp2M1VmWjdjUUVublNVZDB6dmFyd0pPS1RlcmxzQjNYWEtITzZyZFJqQVhvbEE2SFNFWEpzbW5GOWtZaFN4SWxQT0tBWGduc3FMQm9qOHJG?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 08:24:29 GMT",
+      "description": "Study validates 100% protection of Argentina’s vaccine against SAT1 foot-and-mouth disease (FMD) African Farming",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
       "title": "FACT CHECK: Claim that COVID-19 vaccine recipients will only live until 2030 is false - Rappler",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZWdvS244d2dVXzVkOTZkd0VNZjRDVlRZNVFlbEZ4NWJQeHowR3NQclNjc2VyanZpaEQxMl8zS2d6eFBKVm5VTzBOZG9OaWhCQUZuRThWWURjWGlFNk5DaHNIcjZRMFJjZkxIWlNMRUpjVzVndHZqMEhZM0dKNUNuejRVX0NoTkxGNEw2aTZzRkh2alRiQTNpbTRB?oc=5",
       "pubDate": "Fri, 10 Jul 2026 08:15:00 GMT",
       "description": "FACT CHECK: Claim that COVID-19 vaccine recipients will only live until 2030 is false Rappler",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Long Island nurse who made $1.5M selling fake COVID vaccine cards slapped with $544K fine - Forex Factory",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMVBKdmxVRUVKM19McTNGN0Robk0tcXpTbk96UUtxY1pqWHZmN3RBczVZQTQxSlcxRjJWd1p5enBVekFCS3R4WFhob3dEODA0WGs3MTZQU09DbXlPeHpEcHJHZ2tiOGM1M25vdW9wRlk1ei1oVW5WT3M4LWFfblR3dHR1NF8zYVotTVRzRlBn0gGTAUFVX3lxTE04aXRpTXVLcGVyZzB6WmtfNGhuQkphTGZZTmZvVlZoX2ZtUmxoempEV1ZReHRrTEtfcFplbjQ4aW8yUTJtMTdDSlNOLXlPX3E3ODFwc3k0a1lHUE1QcVFhOXFOc2FwZFJUNUFZdmpjNll0NDVTZ2Y3Rk5sYVN0eXJJRHdocjU0ellaSVdiZHR6aHJEdw?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 08:13:00 GMT",
-      "description": "Long Island nurse who made $1.5M selling fake COVID vaccine cards slapped with $544K fine Forex Factory",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -346,10 +403,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Effect of a spore-based Mannheimia haemolytica vaccine on immune responses and respiratory microbiota in sheep - nature.com",
+      "title": "Effect of a spore-based Mannheimia haemolytica vaccine on immune responses and respiratory microbiota in sheep - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNdjF6WDNCMjA4Q01Zem1NZ0RyLU5VQjhqWmI4WWR3YWl3cXp3SHlRVkNqSTZZTjlsZDRHUGFZQmpuUThnTnY5SjdoVzZkTU9FNDJwLTYzUk9SOEt5eFRJ?oc=5",
       "pubDate": "Fri, 10 Jul 2026 05:03:54 GMT",
-      "description": "Effect of a spore-based Mannheimia haemolytica vaccine on immune responses and respiratory microbiota in sheep nature.com",
+      "description": "Effect of a spore-based Mannheimia haemolytica vaccine on immune responses and respiratory microbiota in sheep Nature",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -658,10 +715,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Former Suffolk nurse who falsified COVID-19 vaccine cards hit with historic $544K state penalty - News12 | Long Island",
+      "title": "Former Suffolk nurse who falsified COVID-19 vaccine cards hit with historic $544K state penalty - News12",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOWxseXZJTmxMc0xsc3UxdU1MOEpMdERSblZMSXRmYlNiUVdwY1FhaWdRZ1RxVXFuUngyZXR3dzRGN1MyS1hTOHltV0x1cF9WMHJtY2ZjMjFBOFNsd1AtTy04ZUQ0WjFuTFVpRUZPSDFkdzZGOU9yNmZIMHNKcEh2elFwODk1dXhZWXBsaG1xT1B6VDVjRVFUS2ZHNklUeC10RWNQZ2RMY3JaMlA4RU5uVlBnZXBBNmpxYTNER3AtcWlLMmNabnk0dWRoUDlXckw2UFFqTGtEQVhtOVN3WXVrT3FMT0hJZlo1LU44dDJQcw?oc=5",
       "pubDate": "Thu, 09 Jul 2026 18:35:36 GMT",
-      "description": "Former Suffolk nurse who falsified COVID-19 vaccine cards hit with historic $544K state penalty News12 | Long Island",
+      "description": "Former Suffolk nurse who falsified COVID-19 vaccine cards hit with historic $544K state penalty News12",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -853,19 +910,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "New Vaccine Offers Hope Against One of the Deadliest Brain Tumors - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWFJMNVhzQUlPbFFZSnFWRGluZmZEeVpocTRoZFVEOC00MVI0ZkFENUNNdm5UNU53ZE1XX0hyQTkxZjZfMV9JUjhSNVFMTlZhaVVRT2xfSVpkZ2o4WGRIYlBXZzNQWVNSLW9hNk5MUE1GSW5zcjREOVM4OFNvRXNNR1M1T1ZtWlU?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 12:08:00 GMT",
-      "description": "New Vaccine Offers Hope Against One of the Deadliest Brain Tumors Newsweek",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Pfizer/BioNTech fend off Promosome’s UPC covid vaccine suit - IAM Patent",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdGR1NC1XbDFydVNRRjN4dENFeW9LN25sUGhXYUU3QklCQ3N4U0lmUjk5ZjNUUm41OUVRRXZJckFXR3YyNHpIUFZEUE5VSUhGaGhjY0Z6YUN5TVJpUkhNYWNIM3VoZ1hOQzJ4dzVvamtDQ0t3aUtycE1SR2tnSDExdTVnLUNVNXEyOXpFMHdQWlg?oc=5",
       "pubDate": "Thu, 09 Jul 2026 12:07:35 GMT",
@@ -970,32 +1014,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "La Jolla Institute for Immunology: New HIV vaccine shows unprecedented success in preclinical study - European AIDS Treatment Group",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb2tDNUE5M3RhbE96S1ZoblRWS21reGZrSU13VU1raE41RWJTR19ad1hicEpfT2ZOd3VhLVA2TllVbFFDLUlYZjJQUkhHd3B2eGRLV3FQWnJZY0thT1NvWkJOcng3d29iZHpnSDMyUTJuN01DUWlkaTM5ai11aFFxdjk5LXh6NDJ5a2xKRlh3cGlLRkZVNnBJMFRCYzI5OHMwTXlBMDQwb1JTUEJEMk5UelA1Z2RDVnNRUzdGNHliaGJoWGs2aUZ1MQ?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 22:54:35 GMT",
-      "description": "La Jolla Institute for Immunology: New HIV vaccine shows unprecedented success in preclinical study European AIDS Treatment Group",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
-      "title": "Connecticut launches pro-vaccine videos inspired by 'Schoolhouse Rock!' - Connecticut Public",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYmhtY3R6M3pXSU5LT1JNR2VSVUR6VlMyZmxjTDh3S2puU1M3ZUgyYjh4QkxZRUxuRU94bUlET2MwZFNZNGRtTVZaYktfRl9uMHhjbmxBWnNHdUNpZ2g4bFJ3bUliMExPeEdmTXhvRnZyd2NYQ0VwX3dWWmstRjJzZmlRUmFWanpiall1V00tVmhVVnZfbXJOUkxBSkpjcGlzVm0xUVBhTzB0UnhlalE?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 21:23:00 GMT",
-      "description": "Connecticut launches pro-vaccine videos inspired by 'Schoolhouse Rock!' Connecticut Public",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "RFK Jr. plans to create list of injuries caused by Covid-19 vaccines - STAT",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ09mTGlpd0xIVVkxV2ZYVkJwQWZ6ME5GaXVjQW90VGdjQzFNdFdsYk1LbXpHNlVrYkdBQlRKc2JXSGdUUDAzT2pVbE92ajY1cTFBeFhKZGN5X0RmZTVTeTRTZm1xWFhVeEhyYXJKMC1xWC1ORUpHSWYwSUF5LWx3QXlqZFlWVFY5eXBKX1RINGdXMHM?oc=5",
       "pubDate": "Wed, 08 Jul 2026 20:41:49 GMT",
@@ -1026,6 +1044,19 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZnBjOG1vUldiZDB1V0hVcUVkTnhvZlZ3X1piOElHQnJOOWpveFpaZWtPaVd3WnkzRGFWOGYzeXNzdWJYLUtLelhDT1pwbFRHbkZsOEV6U1p1VWFzRTBSYUZkZmV3VFJJd0hKX2ZmVlZ2SWNtYURidjBsVWNrdFYzX2J2eXh6Q01U?oc=5",
       "pubDate": "Tue, 07 Jul 2026 19:53:26 GMT",
       "description": "Plaintiff for Anti-Vaccine Group’s Suit Is Charged With Murder of Her Twins The New York Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Tracing evolution of vaccine for cancer, malaria - Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRjhKbm1HRkFnclN3QkNPVUQtNDRoUWFyLWZqaUJjX1hobDZTRUFMdjgwdkpCV0UtdHp2VjREYU9YSFFGdWtlTlRlZmZ6cGk3Snlnb2xNTTJlbmh0UUxGMHlveFZRTlRIQ1o3QVJFQmcyWmxkazlET1lucEEtNnY0aE5XYkpVZWJiVFZ6ZkRaVUFoUmN3dWJZOXVMUQ?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 18:51:22 GMT",
+      "description": "Tracing evolution of vaccine for cancer, malaria Harvard Gazette",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1070,6 +1101,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Estimated US flu vaccine efficacy against death in kids 80% over 8 seasons - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMDdRVXFvMVNZd1dyc0ozSFJ3TS1fdEVESW5QcXh0d2NTNVNyUlh4RExkQ19CS25oVUhaWE5LbEVyRzc5dHNSdFJJa2pfS3lhNGV1c2RGT2VqVFNGSFBIRGozNTNUcVVkRlk0MnRFTUxGNFRyY1U1S2ZRcG9IR2hPa3R6WkI5VUxoWlVUWXNoR1A1UHRBRGh2ZzY4QURzNkpzUm9hZ0VBYWZ4cVlMLW5oYXJxRUhWeWc?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 19:23:28 GMT",
+      "description": "Estimated US flu vaccine efficacy against death in kids 80% over 8 seasons CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
     }
