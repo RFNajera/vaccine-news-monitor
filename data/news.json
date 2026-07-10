@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-10T03:39:04.684Z",
+  "updatedAt": "2026-07-10T05:46:22.148Z",
   "itemCount": 86,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 14
+      "count": 15
     },
     {
       "key": "flu",
@@ -15,12 +15,12 @@
     {
       "key": "rsv",
       "label": "RSV",
-      "count": 3
+      "count": 2
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 5
+      "count": 6
     },
     {
       "key": "hpv",
@@ -50,10 +50,23 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 55
+      "count": 54
     }
   ],
   "items": [
+    {
+      "title": "New Lancet review rebuts concerns about COVID vaccine safety. Here's the science behind it - American Council on Science and Health",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQenBUekdWbk9jX2h4eGhBS0lidkNiNUVNT1dHR1AyX1Uzb3pQVGNJUE9tSDc3YWZOaFhVQlo3SC1kei1STVFLSFE5WEJoOGt1NkNhQmNGQm12XzFwV05YX1lzNWtIdVA1a2FrSy1HRk1MY1NLMXFEWkpmQU1OQ3p4bjQ5Z19sa1dUZ0R1V1RKbl9yNzdlWFhqbEc2MHkxTzZvVmM4QXc5UVc0dkM3NmE1X2g3eF9maC03NlE?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 04:15:33 GMT",
+      "description": "New Lancet review rebuts concerns about COVID vaccine safety. Here's the science behind it American Council on Science and Health",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Former N.Y. Nurse Who Faked Childhood Vaccination Records for Over 160 Students Faces Record-Breaking Fine - AOL.com",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZOW4yRW9CY0JKSWFSeF9zc184N1JKMDluaEt3ek52SFlybUpmeExaWEJYbGtSemxkMWxlSlFEMU5ZOThHOUdjbk80ZGo3N2t5c3FMWmRxM0hWS0FwdVdvdmRTTlJEWkNFeU5BUjZ2RTJkMVhE?oc=5",
@@ -79,6 +92,32 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
+    },
+    {
+      "title": "VDH reminds parents of back-to-school shots after measles outbreak in the area - WHSV",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdDU2WllpV0tJQ2cwcHcyZXBJSWF6b0tBcWxxNlIwM0ZRRm03SGhYMFJWTkxQLVlGZTBjNW1OTHFLUmFmX1BmU3FtaThzYXNFaGRLUXdrUE1zQ0NiN3NSS3Q2ZjZWaVdhdFoxa2tGR2tWMm1rTE81YUFDM1FNSW1OdUN1cjZyZllVLXJHYWs4bldoemYzeWU2NmdyX0tyeGc4MVgw0gG3AUFVX3lxTFBzd2ttVGRWaF9hUmxnRm5DbklDMkJVall6VTBQWW9OQkpRYVJKck1ZRWl1NWdYUkV0d1RJVXhjMlA3TGJ4cWMzeDdLdDRhNVdwWjNSSHd6TkQ5dTVlZ2QzRmVkWHVVNTI4NUtwSklEQ0ZFTFdGemJ2bVo5SHZKc0dWYnNtd1NTYS1nS0pkTHA0b0xlWmZ5eUFkZm1USno2RExLdzFTUFZvVUItV3l1b2I2WlFrT2cybw?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 02:47:00 GMT",
+      "description": "VDH reminds parents of back-to-school shots after measles outbreak in the area WHSV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Remodelling of immune system by TB vaccine may explain its link with lower Alzheimer's risk: Study - ET HealthWorld",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNS2N0dy1nZkVBTVlURldaaWxVUjFvcHJHRU05bFJxcFhkcHRzbHN3T2hzT0VfekhkMDdfdDRoYVNQdHZ5Y3JCeFllYVhYUjEySk1WZl90X1lsa1hXcEo5ZUFsTFJuNzFrR19nd1hMVUNkcjdlOWVETkFPSmVhX2JlUkFOSF9zYmlrSXdLYzdwUW5DaXFOYzlwLVU3UFlHWFFTRl9nUG1yUDZmSnhiZ2hwNWEwREd3S2Flc2w5QWRiZ0FDUmZRNDdHTlVPaGpHeDNFOGlvMmpYdFh2UlEwei0xYng3dlI1YUpVUTJpUF9yamttaFZtUllZ0gH8AUFVX3lxTE9vRHdCak82RnlDTXdCcDRMdXQwZklSeG9EVVRHQXpEYVhYWU1XTFNsckdTYUpvckN0T0VGdEdyaWg0X09GTVdUOGEyQVRkbHVuWXg1Skw1XzUwUTlhaXJUTlh4RC1pblIxeHNLak9rMjE3TWkxdjM4bjZLcXBRRDJVX2xTOXRqbVNuRUtpZnZDQk83TG4wRTk4N3BkaS14dzZ3WExkcGJTNEtiUHNYVENqZUZneG10MFpoaDVHY0w5ZzJ3MHZiSERndVJidHR4TkpLR3dkUDBscmN4SU1DV01rXzlZTU5fOWItUkZXSnhmTlByNGdvZGs3cDltYg?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 01:40:35 GMT",
+      "description": "Remodelling of immune system by TB vaccine may explain its link with lower Alzheimer's risk: Study ET HealthWorld",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
     },
     {
       "title": "OHA urges vaccination amid global rise in clade I mpox transmission - Tillamook Headlight-Herald",
@@ -601,32 +640,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Moderna wins EU contract for RSV vaccine supply - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ0VLYVREemN3YTh2ay01UEcwa0duZkw5TjhFWm4wTGJvMHR3N2p4TzNVbElTMmVtdzdCZFZJcjdyVUJxR3NIQk9CdHZjTXhKanBrOGVJVmZlV3dSTmVLSW5aV0ZOLWFwMzllelBpclM4bXNFaFF1Y3FTYWMxZkVQbXJlb0pTQXd6bVE1WHRZUjhSSnpTcDVKa0U3R3VDekl6ZmZOQVpaY2hSbVNTSDFwODkxWndISlNa?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 11:15:01 GMT",
-      "description": "Moderna wins EU contract for RSV vaccine supply TradingView",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "rsv",
-      "vaccineLabel": "RSV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Zoetis (ZTS) Wins EU Vaccine Approval With Undervalued View Still In Focus - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY0pwaERfN1lWYzRLZ0twZ1FIaDhIZklfS0RwczFpNnZCLUIwanMxZ2ZaenlFZ1YwRWM1RDdJVjdVWTVoclhNdzcxN2Fqc2VGaGQ1Y1JTcHA1MndIY0drRDBCRGJEMjBCQlR3LWNxaUFMVEZ1WURwR2R6VFdKc1VwaFhIdzVHYWE5ZXVHRHZkYl91clJzRzVSRXZmbzRPYmlYU1hrVk5wem1YQmJwdEd5MWNsUEt0NW5XV3RTcjlPN1BOeU8yOXBWMWhUY1Z0a3REaEtz0gHYAUFVX3lxTFBpLTY2S19PZTQzVHNIRnFQNUlwdlJ4TVNQek96ZEk5SzlLZE5zaHJUVVZEWmxlcGtzakpvdVA1a2M1UGY5TzlkRmVyaTJCdHBoSkRkaU1DUloyZkRpakd3WUU2Y3BLQndBUTdTU19wT3d5NUJrSDFhWHktVjdxb3JKOVRYVjVFZlF1bkdZM2NMak5IUVhnNWNJc2QwRDl5dHRXclBkT204cVNJaEdNTTZUbjM0SWF4S05tb21NYXhHTGdEZlFJSzhPeTBTNS1OcDlQWDZfX19Oeg?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 10:35:42 GMT",
-      "description": "Zoetis (ZTS) Wins EU Vaccine Approval With Undervalued View Still In Focus simplywall.st",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Matica Bio Partners with VaxDome to Advance Novel Intranasal Antiviral Vaccine Platform into Clinical Trials - BioPharma APAC",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOU9YbUk2Mmo2cG0zNXhvZlRRVkZ4bUFmaGlWNWE3SFZWME1mc3NDWklkWFVIbFVvdkNKY2RPbW9SVkh4S1VzLURPbUpndnY2R24tcXRBVUg1aXdzc2RNMUtMZmM4b3hmQWtPMzEtdDJCU0ZTSV9RV0h4QTJTakRRT2FseDJCNTc5VnNpLUx6YXpSckJuNDZYOXRtNDJEQno2dHhFQUZwQ3o4ckcxRDJrai1NNzBMOUpodmN1V3VobTNULXJTMThxbjNYa0x6RVpaSzlJNUtaVWVZNDdwSDk3UHFTN1l4blE?oc=5",
       "pubDate": "Thu, 09 Jul 2026 10:10:53 GMT",
@@ -742,19 +755,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "First Iowa measles case of 2026 confirmed by HHS - The Des Moines Register",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ3psVjd3elZ1ZGhRTVdBVTNSbWdYMXFPOHhIRUxja2tJMlByZGxRbXd4cUVQaTRfRlZ4Z1F0S0NvUklQMWtfRUxXa01ULXoyMFBWbl95eFdxSEc1aElLZTNzZnAtckE0Z2s2VnRKMzNxNGc2V3ZVcndnUXBlR2dYaFdFZjcxZVJxV21YQTdqaUQtYndVX0xfSTd4cHlWZ0R6RUlLQVNBbw?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 22:13:39 GMT",
-      "description": "First Iowa measles case of 2026 confirmed by HHS The Des Moines Register",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "Connecticut launches pro-vaccine videos inspired by 'Schoolhouse Rock!' - Connecticut Public",
@@ -1069,19 +1069,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Zoetis receives EU authorization for Newcastle vaccine in poultry - Feedstuffs",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeUhCbmtIU3pEa2tzZUYtQWh2Q25ac2pIR1J4N0xLaV8yOVFQZUVCa25LcjFNeTVyaWdBM2p2eTRjZTl0TUgwRDVralFSWkp2aS1RWkdzcUo3dmxrUHFWSk5WTFdVWFlKYVNXZ0hlZDlIZ0NweEVMdFZ0VUZpM2d6d0k1T0dOVXBHU0hLZHc3OWhFTmpIX3FLWkZ1VnkyVnJVaWc?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 17:22:03 GMT",
-      "description": "Zoetis receives EU authorization for Newcastle vaccine in poultry Feedstuffs",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Opinion | Why the CDC refusing to publish covid vaccine research is so worrying - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOU9DMXJJczRxeFlzNy1Oem1NMFhjMldDRW11RDUwYnZxNFVKQ3pCYlFjazJqWFhMXzJZUGExUVloXzhHa3JHZlJHcnNQSS00TWtoZHRHNXNZZ3I5dkV0bkItWGNoWDM2ZXduRnROWXAwLUZ1V282TmlSRjBhZVVWUU5aZVNaREZuaS1uZmluWkdkUW1CaW03SEMxd1ZPamc0emdlOXpsdmE4UQ?oc=5",
       "pubDate": "Tue, 07 Jul 2026 17:00:01 GMT",
@@ -1093,6 +1080,19 @@
       "vaccineLabel": "COVID-19",
       "articleType": "opinion",
       "articleLabel": "Opinion"
+    },
+    {
+      "title": "Measles Outbreaks Expand Amid Falling Vaccination Rates - American Community Media",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMDBWeVF1N3gybUFSRndnUzJQVUtyaVVIQ2dFSjVOT2FCRkhxLTFuSV9nbGZTbmExV2lNYmVyeG1rLVhCTTd4LW1hcERWbzMxazNEaVVqMS1RS1hjWGMxSTI4ZTYxLWhzcW1rckJKX3QxQm1QbHo2anFaMDFzT3c5RGN0dENwaXlZdlgtSWwyOWRyQmJKeWVJNUVNcmRNVkllaEUxaUlPSW9xVVU?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 16:00:00 GMT",
+      "description": "Measles Outbreaks Expand Amid Falling Vaccination Rates American Community Media",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Boehringer bags viral vector platform for cancer vaccine R&D - Fierce Biotech",
