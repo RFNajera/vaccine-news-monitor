@@ -1,16 +1,11 @@
 {
-  "updatedAt": "2026-07-10T17:05:14.417Z",
-  "itemCount": 84,
+  "updatedAt": "2026-07-10T18:56:19.705Z",
+  "itemCount": 81,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 21
-    },
-    {
-      "key": "flu",
-      "label": "Influenza (flu)",
-      "count": 1
+      "count": 19
     },
     {
       "key": "rsv",
@@ -20,12 +15,17 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 7
+      "count": 5
     },
     {
       "key": "hpv",
       "label": "HPV",
       "count": 2
+    },
+    {
+      "key": "polio",
+      "label": "Polio",
+      "count": 1
     },
     {
       "key": "hepatitis",
@@ -43,11 +43,6 @@
       "count": 1
     },
     {
-      "key": "shingles",
-      "label": "Shingles",
-      "count": 1
-    },
-    {
       "key": "chickenpox",
       "label": "Chickenpox",
       "count": 1
@@ -60,10 +55,62 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 42
+      "count": 44
     }
   ],
   "items": [
+    {
+      "title": "Anti-vaccine lawsuit's lead plaintiff charged with murder; 25 states sue over Medicaid work rules; ACA premiums set to climb again in 2027 — Morning Medical Update Weekly Recap - Medical Economics",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPZUptNldqNFZGMHB1VWRhcWpGYms4NWphVWJyQTZuRTktYnJtTV83TjZ1c3BoQ2dadVRiQzdaY2hHWlJENS03ZnlSZndYYk1kTVlKOW1BNGtJY09RMXN5bXVtOC1PN01XZE5pbmUzLVZuM3JOT1N5Wl8tXy1leVFyTDQzWkUwTFZYVUVsYzFPYTZzVExfMzYteW1uenFLQ1U4ckh1cWppQ1YzZFl2S08tdmxBdm95TUhYQjhvRzN4cFJQcHhONWQ2WUE3OUNHT0x0VUtpa1hUWXBXNWNXLWdDOFAzVlZaUkVVaWJ1VEtUcWliMkNkSjhZMWRhRDNpd3JDUTdpWTJ6cVBxRlFnQ1FjSjM2ZjJWU1hNV1dMV3luXzNqemF1ZTFtRXZfTkVzUWNlYjFUSQ?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 18:33:50 GMT",
+      "description": "Anti-vaccine lawsuit's lead plaintiff charged with murder; 25 states sue over Medicaid work rules; ACA premiums set to climb again in 2027 — Morning Medical Update Weekly Recap Medical Economics",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "County Health Departments provide back-to-school immunization clinics - Daily Leader",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNnhGUjJjLXFtaUMwQkdOdDhrTEt3UU5BNGg1eGp5TTNKRmRaTXA5S2FBeWItOXlZT3l2dEhqZFZ3YjRTa1g3Z25XOHZ0WlBYamFsRlE4U0h3enoxV0ptdXdNdnlzRDVKYXhrbVhUOHF2SW5LTkg2NWFyT1dyaEc5REV4SkItekdiNENSZGZMYWVxc29mZ3l1MnNWWERiNmtGcmJZeUNITDc?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 18:13:48 GMT",
+      "description": "County Health Departments provide back-to-school immunization clinics Daily Leader",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "MDHHS Updates Immunization Documentation Process - Michigan Health & Hospital Association",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZFFsemRVczM5MVFNcmpkS3gzaEZSQnZUN2tHNVRNeHNTMWpuZktMcDBEWVRwSEdfTXFGWF83X1JXMktTTENJX2otWnBjdnViVGNseEl1WjVURlNsS2R3MzQ5MThHNTlrTDhmUFlxbGJoVnlWWE1HLUkyVnRkME1jNTdGTlU?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 17:19:17 GMT",
+      "description": "MDHHS Updates Immunization Documentation Process Michigan Health & Hospital Association",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Polio Vaccination Campaign to Begin in Eastern Afghanistan Amid Ongoing Virus Circulation - KabulNow",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWW1HM1I5cENseFF6WVV3WnVIOXRJNGZwVXdnV3FMZlg1Y1l1WklZbU5QdngzV3dpVVktWXNXV1B0T0tTRXlIbk1MYmtQQXBlTVkxUEg0SUhjNm82ajljTWU3XzFsVjQybUpaZFpzVC10MXd5OVdENUd2ZzdaQTV4X21hMGE2RlN1NUZfVmMzOXo4RUxpTXNwYklfdXk0c1RyQWYxZWRMd1NEWG5zSVRPM21FamJIOS1Bblow?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 17:05:12 GMT",
+      "description": "Polio Vaccination Campaign to Begin in Eastern Afghanistan Amid Ongoing Virus Circulation KabulNow",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "polio",
+      "vaccineLabel": "Polio",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Broome Co. Health Department, BC Transit partner to offer free rides for back to school vaccine appointments - WBNG",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSDB0NE5CbmlFU0ctQ1BNQTlHLUNxbExXMmUzX1JEYUU4M0ZWVV82VzJKV0VIdzlLdS1uZXdGRzFDMkxyd1hFNXhkaDBxSFMyNW9CZE1udTY0LUNqOW1hci03QWo4YmtLTEpISS0zenBOMHlPbUdDYTFjVjFSdXNoUlc0NEx2YUstU3VQVl9jcFNPRnpibU9nU0ZXRGw2cTJwdXc3MzY2TjB4YmVqTElreEJXWF8xcDRvUHJTQnVWSUxwYUhXMXpjMdIB3AFBVV95cUxPbXFWS25ILUdBWkNyUjZuSFdqOXpLWERkTUZMSmpWLVJ4eTF1alpDUWtsOVRMLTNYUTEtVDhta3E1OC1qY0xkSllNUWQ3Y2piZHp1enR0ZXg4dFpEVTkzLVN1M090OFdwam1nNzFVV3RiNGR4V2tXV3NLYUJvMEhpWERVYWYxdHRIYTR3YjdlVy1XSW1UQTUtcEtmcC1rM0RybTVVeEpDNG1BWnZEX0N5ZGIyX3ltOWNkWEF6M0ZubmV4d3R2U2d3Y2xtRUhSbFEteXNNdkt5ZkJmcVpk?oc=5",
@@ -104,19 +151,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "South Africa to allow private foot-and-mouth vaccine imports - WSAU",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS2lMem50WXlvcnFzWDVxYlJXOUlXWWdwOWlsekl1N2ducGtuclV2ZzhIek9RT3RILWZwZ0lYUTh2M0RXNmR6aC16Q0tpTERxNENTazd3SHlkdE9OQmotbU1oTzNWYy1YVDRXanR0UzhnajlVNDVGbllYakU1bjRfcV8wZTR5bWZBTzlIZlp2cVNLTWc?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 16:14:12 GMT",
-      "description": "South Africa to allow private foot-and-mouth vaccine imports WSAU",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Ex-Pediatric Nurse Who Falsified Over 100 Vaccine Records Hit With Record-Breaking Fine - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQXzM0S1pkSjhmSlZ6VEhKV2NGbkt0Y2pJRm54SUpWcmNBcF8yOTZLMXd5TUQyZUUyUVh6LVJ6Nm9RX0htcVdwcVZpN2huYzFjSzF3SGNGSS1tSVRMeFJ4NVdWcGxOakloeTMzZHBzdmlxaVFJcUtTYUtnX2VJVjFnMHBlODhEV2tsTFo1MV91US0?oc=5",
       "pubDate": "Fri, 10 Jul 2026 16:09:55 GMT",
@@ -139,19 +173,6 @@
       "sourceLabel": "News",
       "vaccineKey": "chickenpox",
       "vaccineLabel": "Chickenpox",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Measles Vaccine Usage Trends in Children Aged 12-47 Months, 2015-2025 - Bioengineer.org",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ1hWREYtbzNBcUpDN3UtZnFJMFlKTFBOZVRTbG9aN3c4TVBJQnhiTmR6dnlsZ1prT0dMWnFkS3VqTUJjb0hhcWlGYXB0M3Q2b1BJVEN2U0xXNEVHYnJqV3dBaWRHZmZxYUVHcUE0OW0wcnpVNUlMMWtfZndCRHRCNWhPNjZEUEVKbGstQi1hSVAzTzBmNFR4RA?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 15:48:43 GMT",
-      "description": "Measles Vaccine Usage Trends in Children Aged 12-47 Months, 2015-2025 Bioengineer.org",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -182,10 +203,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Senate investigates what health officials knew about COVID-19 vaccine side effects - wtwcfox",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT3dyMFh4Y3RwMHJad0RGejNYQkd4aTV6WnJ3SVR6bk1pRmI0LS00X0V5RERvME54MGVKbkFLaVNlTjE1YnowMkwxY0VYSUhYV2JaOFd6VFc0cmxGWG5UeEFHdTVsZkpldFE4SEtSUmZmUFhQamdrV3FnRi14VjIzR1FUc0hHaWg3VUhWV2J5SUZZb3MxUm5QXzhHNmYwSXlzLWJzcVQ3bk1sVW83em9qbFhEYllCRFJNbFJ5ckZSUXNBbkpEc1N1NS1kd25EVGZs?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 15:05:52 GMT",
-      "description": "Senate investigates what health officials knew about COVID-19 vaccine side effects wtwcfox",
+      "title": "Senate investigates what health officials knew about COVID-19 vaccine side effects - WKRC",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOXMxa3hsRkFPSU9QMVBnY285VmhWQUZxNWtHd0dnLU9oX094bUdobVN4VmZTYkFCc2FRRnZCY3ZHcGlPcHotQnhGVXBVeEFEQ3lEX0dhV1EyTGxSMGRXdjBYNHBoY2JiNHRkand1OWpLX1ppei1BMDhsdTBKbXVPWTJGR1ZrelF4TXh0UnB3WTBtN3EtQmFZemRLTmZUel9ISlY1YjNEdldXTkRPYjR6eU14cjZ3ZlBlMW9QQ0lUeEs4YUxOMHNFbXVUekpNTENWTENSTg?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 15:09:59 GMT",
+      "description": "Senate investigates what health officials knew about COVID-19 vaccine side effects WKRC",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -208,17 +229,17 @@
       "articleLabel": "News"
     },
     {
-      "title": "Reduced Shingrix Vaccine Response in Systemic Sclerosis Patients, finds study - Medical Dialogues",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRTdxRUFoUDhwUnlaU0tsN0dhaEdKWU5zWFNnWVZoV01CQVE5ZC0wSGFHRmllSkEwRlN4eHROMWZwREp4dmF0VEJJNmxyTHd5X2MwZWdOZXNzSUs5V1FZcm1weHYyOTRfQ3ZTRS1lNnczQWNXYUNHZmhYczBITk04aHI4TVZlOERnanBQWVFNSXFnNUFBQnUxYTRhN204UElZVm14UW5zMTB0ellJTUdOZ3ktME11YjNGMVRwSnJMUXo2S0d6eDZV0gHMAUFVX3lxTE5HbU1PVXlUOTNLanBpU3VYcGdTT1hwcGNmbXR3dmdZSXZPR3NFY0Z6NGU4OS1rU2lIX3pDOEdRSkpRNDVjd2V1RmN0d00wVDh4UlNPQ1ByQ3RmSXM2SjZPcUdOTmhmZ1I4WkZMV2tsUnlSWmxodUE1VGNfLUVTLThWMlhzM2dRcV93bmFBei1uWFJFaS03RFFDQVdIb1lXTDlaNFhvUGs3MS1JdjlCZ05RV2VtanZzaVRZdEZVdVg0Rm9RblA3NGs4UUJpbg?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 14:45:46 GMT",
-      "description": "Reduced Shingrix Vaccine Response in Systemic Sclerosis Patients, finds study Medical Dialogues",
+      "title": "Misinformation cost this motorcycle racer his life - EFE - Agencia de noticias",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc2IwSFkwWjVQMXhhQkxJWmFDY1BDbjRXS09hOGI0b2tFV1FsN1RfQ3dPSnFxRFRiWTZEWFM1a2xuMGNYa1pSYVZZai1zVTcwNjJVcDNlWTQyekxMMFNaNDhUbHlDRS1RMFEydU9ud2xBam14eVpVcnhoV1FjVFNYb0xMUkhOaFFSSUlyN0tNUl95OEpiLXBzb2p3?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 14:43:22 GMT",
+      "description": "Misinformation cost this motorcycle racer his life EFE - Agencia de noticias",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "shingles",
-      "vaccineLabel": "Shingles",
-      "articleType": "research",
-      "articleLabel": "Research"
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Record penalty follows high-profile COVID-19 vaccine card scheme - Cleveland.com",
@@ -230,19 +251,6 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Scientists Discovered a Hidden Immune Backup System That Could Make mRNA Cancer Vaccines Far More Powerful - Medical Daily",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaHp2ZDNWcjZfMjkzZWpiRnVaZ2tUdTctUElkZE1pZS14Z3p1NWpXczdFTFJCcHZxNmdnWHZpVVFaeXlwbnVleXpHSUZZOHhZZWZDMTJMUnNGVDRid0dYTlVGbWdpNVNzRWtrYTM1Umc5eGhiTmR0MDhiQlhvV3VsbFBGQm9hVG1Ea1N2V2REaHFMZ3JiOEJuWGdBUnRxUWYyMjBPREFkWGQzYm9QczZwOA?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 14:00:02 GMT",
-      "description": "Scientists Discovered a Hidden Immune Backup System That Could Make mRNA Cancer Vaccines Far More Powerful Medical Daily",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -429,19 +437,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Long Island nurse who made $1.5M selling fake COVID vaccine cards slapped with $544K fine - Forex Factory",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMVBKdmxVRUVKM19McTNGN0Robk0tcXpTbk96UUtxY1pqWHZmN3RBczVZQTQxSlcxRjJWd1p5enBVekFCS3R4WFhob3dEODA0WGs3MTZQU09DbXlPeHpEcHJHZ2tiOGM1M25vdW9wRlk1ei1oVW5WT3M4LWFfblR3dHR1NF8zYVotTVRzRlBn0gGTAUFVX3lxTE04aXRpTXVLcGVyZzB6WmtfNGhuQkphTGZZTmZvVlZoX2ZtUmxoempEV1ZReHRrTEtfcFplbjQ4aW8yUTJtMTdDSlNOLXlPX3E3ODFwc3k0a1lHUE1QcVFhOXFOc2FwZFJUNUFZdmpjNll0NDVTZ2Y3Rk5sYVN0eXJJRHdocjU0ellaSVdiZHR6aHJEdw?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 08:13:00 GMT",
-      "description": "Long Island nurse who made $1.5M selling fake COVID vaccine cards slapped with $544K fine Forex Factory",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Growing evidence links respiratory infections & chronic disease - VaccinesToday",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZGdqdWphWk53LU4xVV8wRktMdFZIQXBPbDlTWk51QWE4cExBQklVZHdqdGRBT3RfUDd0Qkd4S3hLcmFHZERLbmtRTUhQTFpUSzlSWU5FYTFYdFRhWHE4akNQVHp5Q0tnWWgySDZoSGp2Qjc1QWFYeGpXRmlJcmRlcXNDVWYxM0dfUzNkSTB3dy1DYlA3N0UwWmZTSzB5aDUweGk0WTNHS1VvT2k2c0ZwUTB4aXZjcVlFX3lxRDNkMDZ4dw?oc=5",
       "pubDate": "Fri, 10 Jul 2026 07:55:55 GMT",
@@ -451,19 +446,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Sanofi’s flu vaccine antitrust commitments market-tested by EU Commission - MLex",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVVYZU43bkV1ZlZ5YWpzdmszZHRhNHhPTzZkUmxENWhmM1BBNFk0bUV1T29KUjQwbW9TRTVtVS1rZWNGQUR2N3RubU9jLW5KTmRBbGRwMXpSWTljWnBCTkNwdXI3a0stX1E2c0xOTGkzVXZ4VzUtNVdtVldhVW5RRXhhWjI1SFhTVnBzOTU0SDNxVzZzVFJULUdJMG5LdFhjQUwyamxnYzcxdXJoLVg0d1hMalFxOEXSAVpBVV95cUxQMElISXAxaEg1WE1GNGVUekJZSDk0UGVXTHVqd1JpSWVMdXRYSnR2a1NUZzFnRHlZRXZGeV9lcVYtSzZUczZOdThDdDV3ZTNVOHk0anF1VnNZZlE?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 07:23:00 GMT",
-      "description": "Sanofi’s flu vaccine antitrust commitments market-tested by EU Commission MLex",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -494,10 +476,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Adverse Event Risk Not Increased With Same Day COVID-19, Flu Vaccination - Neurology Advisor",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQnJNNFFGRTlYZElkVUFZY1hNSU5WOHlNUUN3dThDVFJ1NzhIR1VfVllXaGZWdlhEeWtrck1nc3dIYWpQM2R6dkNmMklWT0ZkMG44M2FRR2NGYTJLNWZxZTI0eDZxQUdlc2JvNTllYWE3RFdHbEVnS3hWTUd6ajNjSHhZazJKRGtaSGE1MXk4Z292V2ZYdGJGOFNkeFdOcVExR25FdVQtN0Vuc19iNXRz?oc=5",
+      "title": "Adverse Event Risk Not Associated With Same Day COVID-19, Influenza Vaccination - Pulmonology Advisor",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTnk1TDVNeDNRSUVOYjVrcFF6OEZ5cW9VM05sdkJWQkZfQ3FScVJHc19JUE11TDdCNlAyUGh3VWFZYS1UbnBHdTlrUHlRdEhuTEhJcFFCbV9FSW9mUUlkc0NNR2x2WVkzRTJnWGZmRXE3NU9YVDRKWk43ZlFsQ04xWDJyeFM4UV9NYlR6UFVFRE5teXZ4R2QzLS1KUW5jWG02S1l2ZTRRYjlUTTFQT1FBVC1neVUxZkZrNTlF?oc=5",
       "pubDate": "Fri, 10 Jul 2026 04:00:00 GMT",
-      "description": "Adverse Event Risk Not Increased With Same Day COVID-19, Flu Vaccination Neurology Advisor",
+      "description": "Adverse Event Risk Not Associated With Same Day COVID-19, Influenza Vaccination Pulmonology Advisor",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -767,10 +749,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Former Suffolk nurse who falsified COVID-19 vaccine cards hit with historic $544K state penalty - News12 | Long Island",
+      "title": "Former Suffolk nurse who falsified COVID-19 vaccine cards hit with historic $544K state penalty - News12",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOWxseXZJTmxMc0xsc3UxdU1MOEpMdERSblZMSXRmYlNiUVdwY1FhaWdRZ1RxVXFuUngyZXR3dzRGN1MyS1hTOHltV0x1cF9WMHJtY2ZjMjFBOFNsd1AtTy04ZUQ0WjFuTFVpRUZPSDFkdzZGOU9yNmZIMHNKcEh2elFwODk1dXhZWXBsaG1xT1B6VDVjRVFUS2ZHNklUeC10RWNQZ2RMY3JaMlA4RU5uVlBnZXBBNmpxYTNER3AtcWlLMmNabnk0dWRoUDlXckw2UFFqTGtEQVhtOVN3WXVrT3FMT0hJZlo1LU44dDJQcw?oc=5",
       "pubDate": "Thu, 09 Jul 2026 18:35:36 GMT",
-      "description": "Former Suffolk nurse who falsified COVID-19 vaccine cards hit with historic $544K state penalty News12 | Long Island",
+      "description": "Former Suffolk nurse who falsified COVID-19 vaccine cards hit with historic $544K state penalty News12",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -910,17 +892,17 @@
       "articleLabel": "News"
     },
     {
-      "title": "Back‑to‑school vaccines: what DE requires before school year starts - The News Journal",
+      "title": "Back‑to‑school vaccines: what DE requires before school year starts - Delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcGdoZFVZWVFKWkc1ajR4UnR3R1NkbkluWXRyZXUyTWllUjFva1E0MFlmSV9majNWbkJEUDBJX2tzU0VtQ1NXNUg2b0JsckV3Y1ZjOEFTSjFvVTEtZFcycnhiaHNsUzluUVhTcy1LcUt1MHd5REczSjFZWUx4X0lVcGtHQ2cxYUVPa05nMkVGZ19MYUlKT1ZWRFJsNW9GR2FiRl9sam9rWUh4VXN6Y1E2aFcxQ2l1NnhUVzdNVTZ2WS0zSTNMclBYNjVn?oc=5",
       "pubDate": "Thu, 09 Jul 2026 13:06:00 GMT",
-      "description": "Back‑to‑school vaccines: what DE requires before school year starts The News Journal",
+      "description": "Back‑to‑school vaccines: what DE requires before school year starts Delawareonline.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "A no-brainer for protecting your brain - The Economist",
@@ -1014,19 +996,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Eastern Iowa doctor urges residents to check vaccination status after state’s first measles case confirmed - KTTC | Rochester, MN",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZUZSeFVIYkg5MXBkb0tGOFFpcTVDRHdYMnJqTEVCWGE2UnVmbkFIT2dadk52VmxWQW14T2U5MlpMeVVRVmRCSE9hLUtwcWxIaDZhZm83ZU9BMlBlODJ5aHBJQmtMcjE2MHRjRzB1Q01LQ1FzYTFiaTk3OGRVTVhvQVBQaE9LOVdNc1MwQldST1RPY0ZsOGtZSnZOY1VLeHZ0OVB2WG9fX0hzTHBzS3JFZlJPMmNXVGFUMjFmZHQzb21pOTdQZEQzczF5MUZQeE440gHkAUFVX3lxTE9ZSUNuOFliZUNOMFFQWGxhUjc5M2w2c0pqNGpSZEdJU3ViYy1fQVFFZXV3c0dTYmtDc3ExOVZTY2NRa2VpUnNoTWtjazMwc0hGWldBOHc0VG90bmc1TmxzUlNDR0lzUG9LdzkyV2I0VVRCNkg0bW1pazViYUs3aVNLTUx0VlQ2S0tPUlJZOWJ1ZXhZVE9fWERYbV9Za2JUdTdway1JRjhxNExJbFRnRkt1di12N3hpbGNvcndBYk1fLUJscWk3bzMtTEpaUHBUbGhjR0JBYUpmNXdWVXZhc3otZjF0RQ?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 02:32:00 GMT",
-      "description": "Eastern Iowa doctor urges residents to check vaccination status after state’s first measles case confirmed KTTC | Rochester, MN",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Mom who claimed her twins died after vaccination indicted on murder by suffocation charges - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcWZfYUhlTkVXd3prU1RCa3lOandDTy02XzlwaUszY05XcGtiakpubVpxTEdCVWQ3Q2haTTBQeFEtQ0NFOGs3OVIxOThIQnRZczluTzFodVI1a0VST2Z1SDUwdW1Ybm5rZEJXcW13dzhIaTMwaE1aVHZZc3FFV1JvZWU2Y1BJakZQRW11SWQ3UjFzZ9IBlwFBVV95cUxQLTdRWUQ3MW9kR1lqSXBWOVdqSTdZY3VHcnlKbDg1cnBoSGI5dkxOSTRjWm1wQmUtVExXWUdhTENGT01qSUNkZzJkQXJzbTFZWUtmWEFDazlMR2lLSzhEU3NxUXBweDBMWkVGX2thNUM1NTRVeWhzWnF4Q3NfcXNjSmZxc1dSWXF4RDZRMHJSN3FaaWw5d3hj?oc=5",
       "pubDate": "Thu, 09 Jul 2026 01:28:26 GMT",
@@ -1116,19 +1085,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "Opinion | Why the CDC refusing to publish covid vaccine research is so worrying - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOU9DMXJJczRxeFlzNy1Oem1NMFhjMldDRW11RDUwYnZxNFVKQ3pCYlFjazJqWFhMXzJZUGExUVloXzhHa3JHZlJHcnNQSS00TWtoZHRHNXNZZ3I5dkV0bkItWGNoWDM2ZXduRnROWXAwLUZ1V282TmlSRjBhZVVWUU5aZVNaREZuaS1uZmluWkdkUW1CaW03SEMxd1ZPamc0emdlOXpsdmE4UQ?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 17:00:01 GMT",
-      "description": "Opinion | Why the CDC refusing to publish covid vaccine research is so worrying The Washington Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "opinion",
-      "articleLabel": "Opinion"
     },
     {
       "title": "Shigella vaccine shows promise in phase 2 trial - CIDRAP",
