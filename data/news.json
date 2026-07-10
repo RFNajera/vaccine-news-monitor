@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-10T09:39:20.376Z",
-  "itemCount": 92,
+  "updatedAt": "2026-07-10T11:24:52.312Z",
+  "itemCount": 89,
   "groups": [
     {
       "key": "covid",
@@ -38,6 +38,11 @@
       "count": 1
     },
     {
+      "key": "meningococcal",
+      "label": "Meningococcal",
+      "count": 1
+    },
+    {
       "key": "shingles",
       "label": "Shingles",
       "count": 1
@@ -50,10 +55,62 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 59
+      "count": 55
     }
   ],
   "items": [
+    {
+      "title": "Moderna secures up to 24 million RSV vaccine dose contract with Europe - Pharmaceutical Technology",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbVJVVEpVN2Y3aGN6UW1jWGNvaGRyYi1vSGZSWXR6bUpIY3NDSjhmeVJCaGZlbTN0MlVwMXBLbkZoRFc4Rnh2QThNM0hRQ1JSd29XMXRVNW95UkpiYmRJbUpodHNPSmYtWlNiWVRmT1dwalN1SVd5ZDRlMk5IS1d4eWgyOVA5RjE1dlJydXo0OFp3akVlWHZDcW9TdV9fbVhrWjFydkI1YzNZV2pDazdEbVFhcUV4UExuc3c?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 10:52:30 GMT",
+      "description": "Moderna secures up to 24 million RSV vaccine dose contract with Europe Pharmaceutical Technology",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "rsv",
+      "vaccineLabel": "RSV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Ex-nurse hit with record $544k fine over falsifying children's' vaccination records - WKRC",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOYWMwNjZoVC10b2wzS2o5cEo3Wm9ma2I0Y0lqSHRjN1pJXy1YQUU5djR0T3Z1M2Y5VlhyN1drZWZSVG9JVGoySnZjN09ZODhVNy1OY2lBZmhZOGpDWkgtbXhjOWM4b2dLdnd0eExXbTBBNDdjQzI4Y0R5U3NsQUlVWXFoeThDdVV1TGVDX3laaC1DTXZTelpBVHhQZzZVRk80YWVhWDk1clB6QkJoSlYyMG1sU29VOXZLaGZHbWNYZkFKWi10QTIxUTVPamZ5dEh6RXZ6M3RLYlptbVNrYUctYmdLVTVFeXVqOWNRMlQzWjdqNl9HcGc0NnF5TFFINlVIOFRBWjM2NmVUSEpobWIxYmpzZGNxR0FEZWJmaTZaNElhcVk4ei1QeFYtVTBKLXhxbjBZbGUwLWRyX1lOMmxZblQ5WWRyMlNOQ2tKU2JEbmk1U1NrR3BaeWFXbF9LNFR1OXQ4VjZ3Rm1jeUtLVEVMTWlzaw?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 10:30:38 GMT",
+      "description": "Ex-nurse hit with record $544k fine over falsifying children's' vaccination records WKRC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Pfizer Vaccine Dispute Hits Polish, Romania Air Traffic Agencies - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMDhlV2h5aFNoemxBVnczS0wxbThFRUFrRUZ5NzNpakVzQmRHTmFSUjJNX2pGaXJvN3lkOEFyaG5PN0lkMmF6akVPNXY3TzlWc0UyZDlfZnRHVWszbWVqbGhvVzkxQmJvYWlpU0kxWWtKOF9nZmM3Y0tmMTd4YmN0VTY0WVM5RDNpM01uYkZlR2llSWdfOFpDdzhPSm93YzQ1V2xYYllnQ3UyeGxkVWUyOEtyN3k?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 10:03:09 GMT",
+      "description": "Pfizer Vaccine Dispute Hits Polish, Romania Air Traffic Agencies Bloomberg.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Thousands of young people offered free MenB vaccine in Shropshire, Telford and Wrekin - Shropshire Council Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYUx2VHNfTklhaGJHZ3ViQjNIelRwLVhwUHdqSk0yeWlvREdoM3Vlak1zS3VtTlEzS2U0d3NCeWJrbjQzYlNXX1NmVFUwUjZRS1RGMUlncjU4aU5pOHJtek44eTdDb2Fka2RBUk1sV0ZvbHhxMmJjZ01MYkRjbjNrTHE4S0ItNmx2VV9vem5PTW1aSTJMRksxcjV3LVFLbVA3VnhOeFA3MHZLb3JrZjJOZGNXZVpfV1lXSWtXamgzM3pSQ2lJLWZn?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 09:56:15 GMT",
+      "description": "Thousands of young people offered free MenB vaccine in Shropshire, Telford and Wrekin Shropshire Council Newsroom",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "meningococcal",
+      "vaccineLabel": "Meningococcal",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Shigella Vaccine Shows Promise in Phase 2 Clinical Trial - Food Safety Magazine",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSElIRkFZSGFRM3hnZkt4VFFqLTFRWWQ4eWlWand6X19sbVNOVTNiWlRtYnhleVpvckdFVmlQRUNSdXJUX1lZYkpuV0plQ0xJSnBkZlUzRjRkQy1YcnlIaHg5ekd4ODJoYmlNRVAwZmE5VDcwZUNLV00zSFZrcEUwTWZFZU1mdTVYTjNZX1prODU3Q2RacXE0dDVmTkpNOG1z?oc=5",
@@ -393,19 +450,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Is Anti-Vaxx Really Anti-Science? - Commonweal Magazine",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43T0hycmZDTml5dEtwUkZEblJfMU5DVU5ReVpHWUt3Sk9RUWhLV1J5Y3FhUjdERmRPN1dlczlfbmtrZEREQXJIUm9kTDdyTkJmakY1cVdrYWJySlotbXphNmZ2ODF1dmJyY2RyREc0eF95WWhRQmJLMzZOLTA?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 19:41:51 GMT",
-      "description": "Is Anti-Vaxx Really Anti-Science? Commonweal Magazine",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "HHS Moves to Create List of COVID Vaccine Injuries - MedPage Today",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GTXhfNERIa2FmdTluYTA3cHhkLUgtdnRvRmRjbHQyR1kzaUdRNGZ6VkxHc0xzTVh0dFZXX3pzdC1TQjZUNGFlaThhM1RBbXJUMGNBTThKbmFNYVU4QmZVSElBT1I2b2U3RUJWc1dYY3MyUF9EUGZV?oc=5",
       "pubDate": "Thu, 09 Jul 2026 19:26:01 GMT",
@@ -497,19 +541,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Moderna secures up to 24 million RSV vaccine dose contract with Europe - Pharmaceutical Technology",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbVJVVEpVN2Y3aGN6UW1jWGNvaGRyYi1vSGZSWXR6bUpIY3NDSjhmeVJCaGZlbTN0MlVwMXBLbkZoRFc4Rnh2QThNM0hRQ1JSd29XMXRVNW95UkpiYmRJbUpodHNPSmYtWlNiWVRmT1dwalN1SVd5ZDRlMk5IS1d4eWgyOVA5RjE1dlJydXo0OFp3akVlWHZDcW9TdV9fbVhrWjFydkI1YzNZV2pDazdEbVFhcUV4UExuc3c?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 16:57:04 GMT",
-      "description": "Moderna secures up to 24 million RSV vaccine dose contract with Europe Pharmaceutical Technology",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "rsv",
-      "vaccineLabel": "RSV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "HIV vaccine candidates reach milestone in primates - Chemical & Engineering News",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNzMwNFdEZ092bm5uVkhLcVpxc2p1YXVmcXJ4YVMzSEtUN0o1a1NtYlk5TWd1aHJnZjgyVEE0M0hYZ2dyUFVmQS16NWdoWWRLeV9JRG5qdHlfb2RucnlzYzI2LUlvSThMVGlqalBrUlM0MVJFTnFlMXpvWWw4eEpmX2x5RXhjS3FxOEtleXVMc3E1X3FBTXZXWkZWUFlHcFdK?oc=5",
       "pubDate": "Thu, 09 Jul 2026 16:24:42 GMT",
@@ -571,19 +602,6 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Granite City school district to host back-to-school physical, immunization clinics July 30 and Aug. 6 - RiverBender.com",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcTFzZDZkLU9SSEFCSERyWFFYZDBsRVNoRjNsUjVuQ1B3dzJiU2MycmJjaU8yQUUtbkNoOGt1M0RUOF94cUZTSV9BUU5aN1N1Z3dqdFpzamY0dkU1bzRNZmdqVGlBTG9hN2xMWUR2TEhFV08tempBbEs5dDh5Ykg1X2c3bTFYcElfWXRoRGpxTkhxaG5OMVozY2V0dmtGVzNWT0RrMW4wclBfdTVVYzlIdUhmZkdDdTFiOTFDX0wzZlZlcWZpcUp6b2NqS1hQeXBSN2RPX3hPV2h0cklhYmw3eWVR?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 15:06:40 GMT",
-      "description": "Granite City school district to host back-to-school physical, immunization clinics July 30 and Aug. 6 RiverBender.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -900,6 +918,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "New HIV Vaccine Shows Unprecedented Success in Preclinical Study - POZ",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONVZQRF9hNHRaaktDYVBSZHVmMG53dFhzYUQ3SmhZY0NSNkx2RWo5YksxRVJJUXBncWt0Q3doXzBEdVQyU0VxUnE4TWJlYmFEOWloRng1dkM1WjNLY0RPYlI4QWJHdTJnblpIRFpPTWE4OTJuOWhFUzl2LXVtSk5YQXFhMjF2cW9LWHpFOFlUdFBZY1E?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 18:37:28 GMT",
+      "description": "New HIV Vaccine Shows Unprecedented Success in Preclinical Study POZ",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
       "title": "Can the shingles vaccine lower your dementia risk? - Futurity",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZMmJxMGlzU1NseGk2MzgzdVFsYWNKRnNiMVI3N3BPVTA4MmN6WnVJaUVXVG9xZm5JZjFhVjRUN3lEQVdzMkZRbm5kQVFXNTJMOURJTjBMV2gydGUya1A3dW95ZDJ4cG9JTGtkTUpodFVidw?oc=5",
       "pubDate": "Wed, 08 Jul 2026 17:03:18 GMT",
@@ -965,19 +996,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Opinion: Europe cannot talk about strategic autonomy and ignore the vaccine industry - medwatch.com",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rbzlHWmR3dDI5a0NMQ0FEQ2VBdnlHdnNuRGxPMmpkamhsMVJwblJyNEFscHVtZ2VGcFkzQ0lnSGhPdmNUM2pNSEp5NjdydVhZUVc5M2UzVTlsOGc4eWwxNXhLSkxIZlVmcVRvNG82bUZFajh4?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 12:35:16 GMT",
-      "description": "Opinion: Europe cannot talk about strategic autonomy and ignore the vaccine industry medwatch.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "opinion",
-      "articleLabel": "Opinion"
-    },
-    {
       "title": "COVID-19 Vaccine Shows Significant Protection Against MACE in Veterans 75 or Older - U.S. Medicine",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRzJRZENNRmVwcmVGd2dLUFFZV05CNmpUWXNTX2RLeFR1d1VnYV9XRGdyckFuOUxYVElEUW91QnlRY1JGMVZua0w3ODJJcGdKaERETHFrMVpYWVcyUllPMEkzcmVwRWk1enNkY2hhMzQ5MWFjWEVWUk5LZl81aFctWTJvdXVreXVzbnRBSHRQY2dYckw4T21LdlZoSnhSM1l0Tm9IaHlaWVl6M1dKMnFVLTV1Vnc0LXQ4M09KZ2JSQV9mQ2xGOUY1V1V6VHI3cEdl?oc=5",
       "pubDate": "Wed, 08 Jul 2026 10:36:50 GMT",
@@ -987,19 +1005,6 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Declining vaccination rates among Kentucky kindergartners raise public health concerns - LEX 18 News",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTk1ndnNDUURUdzVkUzg1QnhOZW1JcWZpYWhtUlNaRFhzb2lkbDRNb2huVHRnQkppVGRLdGFIcFZnTjVhMUlFams4YlNCVTVEMEQzUmJOb3FHTk1uMlEyb1hFdHJrVEdjZjZWMjdVX2llUkF6SzFuc2tQSDFhMU01NmtyUEEtNXRfOXlpRTc2ektfT01hQ3VFUzJpMnU1Z3Q5aHlxWmN6bHJpZy1heDQyVVY1bVVFTnlSWkU4N09LSF9ZSHR6MEktWXdIODA?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 10:04:56 GMT",
-      "description": "Declining vaccination rates among Kentucky kindergartners raise public health concerns LEX 18 News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1108,32 +1113,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "UNM Sandoval Regional Medical Center to host free vaccine event - KRQE",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU0k4eXlSWF9paWp1QjRNMTZDVnFUZXdJbjd3cDM1US12X1NzcnR5OXJjdDZ3aWN3ZmctRWJNWDdwdE1wcWRXOHFsblgwREhSYXpQUU9vN0Q2V0wxUXc5aF9mY2ZBcU4xRXpYb0xOam90eExDS0ZCTVhrWWphRlhRZ3BudlB0M2tkbWJOUmVRTVpsaHVLN3p3S2t2NmlzY29XeVhV0gGoAUFVX3lxTE5CUmtVWU1vMzdpamliV3dpVS1Va1Z2SV9ZM19YWVlSZTdPZjFjRF9lNE5yN3dqM2w3VU5uX242YkdTZ3JYLTRES3JwX2pJNks1MExCS0xmRVRoalhjQVVzeXZHWGdvNEU2Y2liLU1nZWZyMVBTaUJMc3c2ZFZ0T3Q0Q1pELV9Reld6NlA5anA5bkpaUXlwaU0xZnhLTjZvUlVqc3h3TF9GRg?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 21:14:20 GMT",
-      "description": "UNM Sandoval Regional Medical Center to host free vaccine event KRQE",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Vaccine Order Raises Concern From ID Experts - Infectious Disease Special Edition",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTGZsT0xBaE5RdHNwTWJzNzdMZTlWTDA1Zlh6bE1FQV9LUG5OYXlTVHYtdFVONEItY3RSNWxXY2h5UGpWR1RjbFpRSjQ4S1pzaEdKekc2bVhab2x6ZnBjR3RlUmQxQ2UzSzN1eTZUTVhtSE5tWlY3Y29ZaTZvOFdrQ2xHVDkzMHJib3BqdnJwZHREVV9JblI2N1FZUWxIX0xhUEdEellMRQ?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 21:01:16 GMT",
-      "description": "Vaccine Order Raises Concern From ID Experts Infectious Disease Special Edition",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Plaintiff for Anti-Vaccine Group’s Suit Is Charged With Murder of Her Twins - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZnBjOG1vUldiZDB1V0hVcUVkTnhvZlZ3X1piOElHQnJOOWpveFpaZWtPaVd3WnkzRGFWOGYzeXNzdWJYLUtLelhDT1pwbFRHbkZsOEV6U1p1VWFzRTBSYUZkZmV3VFJJd0hKX2ZmVlZ2SWNtYURidjBsVWNrdFYzX2J2eXh6Q01U?oc=5",
       "pubDate": "Tue, 07 Jul 2026 19:53:26 GMT",
@@ -1229,19 +1208,6 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uSi1XZ1hteFhtSlZTTlBJTm4yWm5ldlZ6Ti1fOHpVRGhFeFZSVHIzbHVhOUtaZlJZTm5Wak5Ia1lzbGotRDZxSWdMaVRoSDBEbnBydUNjMjFRRnF3azlBVTdTZ1RNbGVYeVUxanBrYnA?oc=5",
       "pubDate": "Mon, 06 Jul 2026 21:33:33 GMT",
       "description": "Alzheimer's Biomarkers Change After Tuberculosis Vaccination MedPage Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "HIV vaccine triggers broadly neutralizing antibodies in 44% of primates - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV09YZDZ0TE5QTFJDXy1vajNvdlRVYWhHR2tzVlJuN05Gd243QXQ4NXpuUmtLVjA2RHlhMzNIaW9RN095Tk9JQXVhQWliVDh4ZDZRcGZkWmpFWmZqYXVtN2p1VlJuQ3ItUGZMMmNQYXdmaS1lMWw0Q1hXcFNpNl96RWwxT19WeXZjR1ZYLUhn?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 20:30:02 GMT",
-      "description": "HIV vaccine triggers broadly neutralizing antibodies in 44% of primates Medical Xpress",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
