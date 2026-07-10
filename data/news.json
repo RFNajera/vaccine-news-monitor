@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-07-10T16:12:10.869Z",
-  "itemCount": 81,
+  "updatedAt": "2026-07-10T17:05:14.417Z",
+  "itemCount": 84,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 20
+      "count": 21
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 2
+      "count": 1
     },
     {
       "key": "rsv",
@@ -20,12 +20,12 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 6
+      "count": 7
     },
     {
       "key": "hpv",
       "label": "HPV",
-      "count": 1
+      "count": 2
     },
     {
       "key": "hepatitis",
@@ -55,7 +55,7 @@
     {
       "key": "mpox",
       "label": "Mpox",
-      "count": 2
+      "count": 3
     },
     {
       "key": "general",
@@ -64,6 +64,71 @@
     }
   ],
   "items": [
+    {
+      "title": "Broome Co. Health Department, BC Transit partner to offer free rides for back to school vaccine appointments - WBNG",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSDB0NE5CbmlFU0ctQ1BNQTlHLUNxbExXMmUzX1JEYUU4M0ZWVV82VzJKV0VIdzlLdS1uZXdGRzFDMkxyd1hFNXhkaDBxSFMyNW9CZE1udTY0LUNqOW1hci03QWo4YmtLTEpISS0zenBOMHlPbUdDYTFjVjFSdXNoUlc0NEx2YUstU3VQVl9jcFNPRnpibU9nU0ZXRGw2cTJwdXc3MzY2TjB4YmVqTElreEJXWF8xcDRvUHJTQnVWSUxwYUhXMXpjMdIB3AFBVV95cUxPbXFWS25ILUdBWkNyUjZuSFdqOXpLWERkTUZMSmpWLVJ4eTF1alpDUWtsOVRMLTNYUTEtVDhta3E1OC1qY0xkSllNUWQ3Y2piZHp1enR0ZXg4dFpEVTkzLVN1M090OFdwam1nNzFVV3RiNGR4V2tXV3NLYUJvMEhpWERVYWYxdHRIYTR3YjdlVy1XSW1UQTUtcEtmcC1rM0RybTVVeEpDNG1BWnZEX0N5ZGIyX3ltOWNkWEF6M0ZubmV4d3R2U2d3Y2xtRUhSbFEteXNNdkt5ZkJmcVpk?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 16:51:00 GMT",
+      "description": "Broome Co. Health Department, BC Transit partner to offer free rides for back to school vaccine appointments WBNG",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Mpox cases rising; Oregon Health Authority recommends vaccine for those at higher risk - OregonLive.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSEkxekUzVmJFUzVSVFRrdVZZbGtpN0JyUFA4dE1YREFRbklTeFFhRlRzaXVURzBrLVI5Y29JQUlLaDlnM29ScmxrTDRLUGZ5YXRCVUl4Yldxc3lEbkszTEFqYTVXd0N3VWtZNVJsNkZiVHZqYm02NGJoWE5TdVFTV3F5ekRia1lRbllDVTVuSGpMMVZNQXhLYzVQY29STjZCdkNSY29ZTWlpMWZZaDlLRFNGQjhRSnVzQjJ0UzJFdENlRENTMEtqTVNoZ2_SAeABQVVfeXFMTkVIT05zSjFCRnJHVzZjVkZGMk05bjBxR3VFWUxhU3VHVHZxUVBYOUwtZDlpTUd1djBvVnFQbnlfQllaYnMtcWk0VFhjU3paM1F3V1R4cXI4VUg2T25qZWhjUHFIS2FlR3BVeU1QY0RKVGhjTDBpMXhpTmc0N2sxUlZDaGJoZzZtUWNvYmpCMURqQk9mZHE2ZTZGdGNIQnExTlU4SDVKRzA3Mk4yUDNmb2ZkOTJXeGc5Szg3U2pBakNzWnVLTFBqMFZidk13SVZHY1FVQTBFUDhhLWtFTEd5dXY?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 16:46:00 GMT",
+      "description": "Mpox cases rising; Oregon Health Authority recommends vaccine for those at higher risk OregonLive.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "mpox",
+      "vaccineLabel": "Mpox",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "King County MMRV Vaccination Rate Remained at 15 Percent From 2015 to 2025 - geneonline.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORTdYZ0hJNWxPdXAtVWhscEhtMXFfUThUZkRqSVcwenY0TWpPdXhrV3FGZHZYZWtPTEJTY0doZmVCNDRwdW0xMjdHYlVFQVBIUS1scjduQm9Tc1ZtVkpyZkRyeW9jSzVOR1dTQ0QtXzNQbENVV09Ib0htX21Gek1IQ0Fydk5zRlVNcFV0VE1oY3FLdDY5U295dnVWeDlXVTNzUWNGNA?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 16:18:56 GMT",
+      "description": "King County MMRV Vaccination Rate Remained at 15 Percent From 2015 to 2025 geneonline.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "South Africa to allow private foot-and-mouth vaccine imports - WSAU",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS2lMem50WXlvcnFzWDVxYlJXOUlXWWdwOWlsekl1N2ducGtuclV2ZzhIek9RT3RILWZwZ0lYUTh2M0RXNmR6aC16Q0tpTERxNENTazd3SHlkdE9OQmotbU1oTzNWYy1YVDRXanR0UzhnajlVNDVGbllYakU1bjRfcV8wZTR5bWZBTzlIZlp2cVNLTWc?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 16:14:12 GMT",
+      "description": "South Africa to allow private foot-and-mouth vaccine imports WSAU",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Ex-Pediatric Nurse Who Falsified Over 100 Vaccine Records Hit With Record-Breaking Fine - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQXzM0S1pkSjhmSlZ6VEhKV2NGbkt0Y2pJRm54SUpWcmNBcF8yOTZLMXd5TUQyZUUyUVh6LVJ6Nm9RX0htcVdwcVZpN2huYzFjSzF3SGNGSS1tSVRMeFJ4NVdWcGxOakloeTMzZHBzdmlxaVFJcUtTYUtnX2VJVjFnMHBlODhEV2tsTFo1MV91US0?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 16:09:55 GMT",
+      "description": "Ex-Pediatric Nurse Who Falsified Over 100 Vaccine Records Hit With Record-Breaking Fine Yahoo",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Here Are the Groups Impacted by CDC's Chickenpox Vaccine U-Turn - MedPage Today",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jTUNPWGNnemRxU0F5OFJ1NmQxbEtxVUN4LTJwYVlyQXpwblVYaDhKb1VmRGhTNjhLMjNJYUE4VnBGQm15N3FNQ3hYSzNncGQ4dno3eG1uOXpFWmt3UmlRbkctd0k1QQ?oc=5",
@@ -286,10 +351,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Ex-nurse hit with record $544k fine over falsifying children's' vaccination records - WKRC",
+      "title": "Ex-nurse hit with record $544k fine over falsifying children's vaccination records - WKRC",
       "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOYWMwNjZoVC10b2wzS2o5cEo3Wm9ma2I0Y0lqSHRjN1pJXy1YQUU5djR0T3Z1M2Y5VlhyN1drZWZSVG9JVGoySnZjN09ZODhVNy1OY2lBZmhZOGpDWkgtbXhjOWM4b2dLdnd0eExXbTBBNDdjQzI4Y0R5U3NsQUlVWXFoeThDdVV1TGVDX3laaC1DTXZTelpBVHhQZzZVRk80YWVhWDk1clB6QkJoSlYyMG1sU29VOXZLaGZHbWNYZkFKWi10QTIxUTVPamZ5dEh6RXZ6M3RLYlptbVNrYUctYmdLVTVFeXVqOWNRMlQzWjdqNl9HcGc0NnF5TFFINlVIOFRBWjM2NmVUSEpobWIxYmpzZGNxR0FEZWJmaTZaNElhcVk4ei1QeFYtVTBKLXhxbjBZbGUwLWRyX1lOMmxZblQ5WWRyMlNOQ2tKU2JEbmk1U1NrR3BaeWFXbF9LNFR1OXQ4VjZ3Rm1jeUtLVEVMTWlzaw?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 10:30:38 GMT",
-      "description": "Ex-nurse hit with record $544k fine over falsifying children's' vaccination records WKRC",
+      "pubDate": "Fri, 10 Jul 2026 10:31:58 GMT",
+      "description": "Ex-nurse hit with record $544k fine over falsifying children's vaccination records WKRC",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -299,10 +364,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Pfizer Vaccine Dispute Hits Polish, Romania Air Traffic Agencies - Bloomberg",
+      "title": "Pfizer Vaccine Dispute Hits Polish, Romania Air Traffic Agencies - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMDhlV2h5aFNoemxBVnczS0wxbThFRUFrRUZ5NzNpakVzQmRHTmFSUjJNX2pGaXJvN3lkOEFyaG5PN0lkMmF6akVPNXY3TzlWc0UyZDlfZnRHVWszbWVqbGhvVzkxQmJvYWlpU0kxWWtKOF9nZmM3Y0tmMTd4YmN0VTY0WVM5RDNpM01uYkZlR2llSWdfOFpDdzhPSm93YzQ1V2xYYllnQ3UyeGxkVWUyOEtyN3k?oc=5",
       "pubDate": "Fri, 10 Jul 2026 10:03:09 GMT",
-      "description": "Pfizer Vaccine Dispute Hits Polish, Romania Air Traffic Agencies Bloomberg",
+      "description": "Pfizer Vaccine Dispute Hits Polish, Romania Air Traffic Agencies Bloomberg.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -351,23 +416,23 @@
       "articleLabel": "News"
     },
     {
-      "title": "Study validates 100% protection of Argentina’s vaccine against SAT1 foot-and-mouth disease (FMD) - African Farming",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQUhIeU1tOVVrOEs5QkkyWGRTaHlaZkt4QkdRaHNIRzROVjlhdEpIM001eVc3Q1JiYlZrWTd4NDQ4X1hVWm9kT0h5OEdZR0hRaTVWUXZ6NzFpT0ZWdENINjBvdWo4RHVjdzFBVWI5aVZGWkpWTl9NYklCNHNfMkJNdGp2M1VmWjdjUUVublNVZDB6dmFyd0pPS1RlcmxzQjNYWEtITzZyZFJqQVhvbEE2SFNFWEpzbW5GOWtZaFN4SWxQT0tBWGduc3FMQm9qOHJG?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 08:24:29 GMT",
-      "description": "Study validates 100% protection of Argentina’s vaccine against SAT1 foot-and-mouth disease (FMD) African Farming",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "FACT CHECK: Claim that COVID-19 vaccine recipients will only live until 2030 is false - Rappler",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZWdvS244d2dVXzVkOTZkd0VNZjRDVlRZNVFlbEZ4NWJQeHowR3NQclNjc2VyanZpaEQxMl8zS2d6eFBKVm5VTzBOZG9OaWhCQUZuRThWWURjWGlFNk5DaHNIcjZRMFJjZkxIWlNMRUpjVzVndHZqMEhZM0dKNUNuejRVX0NoTkxGNEw2aTZzRkh2alRiQTNpbTRB?oc=5",
       "pubDate": "Fri, 10 Jul 2026 08:15:00 GMT",
       "description": "FACT CHECK: Claim that COVID-19 vaccine recipients will only live until 2030 is false Rappler",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Long Island nurse who made $1.5M selling fake COVID vaccine cards slapped with $544K fine - Forex Factory",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMVBKdmxVRUVKM19McTNGN0Robk0tcXpTbk96UUtxY1pqWHZmN3RBczVZQTQxSlcxRjJWd1p5enBVekFCS3R4WFhob3dEODA0WGs3MTZQU09DbXlPeHpEcHJHZ2tiOGM1M25vdW9wRlk1ei1oVW5WT3M4LWFfblR3dHR1NF8zYVotTVRzRlBn0gGTAUFVX3lxTE04aXRpTXVLcGVyZzB6WmtfNGhuQkphTGZZTmZvVlZoX2ZtUmxoempEV1ZReHRrTEtfcFplbjQ4aW8yUTJtMTdDSlNOLXlPX3E3ODFwc3k0a1lHUE1QcVFhOXFOc2FwZFJUNUFZdmpjNll0NDVTZ2Y3Rk5sYVN0eXJJRHdocjU0ellaSVdiZHR6aHJEdw?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 08:13:00 GMT",
+      "description": "Long Island nurse who made $1.5M selling fake COVID vaccine cards slapped with $544K fine Forex Factory",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -559,19 +624,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "A vaccine against equine strangles offers “significant protection” for a year or more - study - Vet Times",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbDZfd2t6OFhiaUN2emV1ZjlYOHZYaThVZlRrbEIwUHFVSUJjZDV4WE9IUy1DSjBBaTdGWVNZUThRbmJ2ZGV2RHFsaW0xeEk5QUZWb21RaWt3ODFvMmtsMXJPUThxZkJ0UmhncmZ6dWpzMW0wV0I2TmtfNUpmZFlkbU1LSEVpMjB0N2I5MnVlQXJKYjg?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 22:19:07 GMT",
-      "description": "A vaccine against equine strangles offers “significant protection” for a year or more - study Vet Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "Nurse who forged COVID vaccine records to pay $544,000 fine - CBS News",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPam16a3JNMTRaTW5UclZ0T0laVGNJM3Zpa3gxOGJHZFNWbkFJV3ZZcktaTlhWS25rMVJCUXhyRVE4WVZKbDV2cFF0aHBkXzJjRjZsUENyUXU2dzJPX05PV0tvYXYzQ3hSZ1dfVnBGeE96V2h2VGJuMmpRNzBmanJucnphQUxSN2g3cUNaNnhBVTFERmpKMDRKTEdVQVI?oc=5",
       "pubDate": "Thu, 09 Jul 2026 22:04:00 GMT",
@@ -715,10 +767,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Former Suffolk nurse who falsified COVID-19 vaccine cards hit with historic $544K state penalty - News12",
+      "title": "Former Suffolk nurse who falsified COVID-19 vaccine cards hit with historic $544K state penalty - News12 | Long Island",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOWxseXZJTmxMc0xsc3UxdU1MOEpMdERSblZMSXRmYlNiUVdwY1FhaWdRZ1RxVXFuUngyZXR3dzRGN1MyS1hTOHltV0x1cF9WMHJtY2ZjMjFBOFNsd1AtTy04ZUQ0WjFuTFVpRUZPSDFkdzZGOU9yNmZIMHNKcEh2elFwODk1dXhZWXBsaG1xT1B6VDVjRVFUS2ZHNklUeC10RWNQZ2RMY3JaMlA4RU5uVlBnZXBBNmpxYTNER3AtcWlLMmNabnk0dWRoUDlXckw2UFFqTGtEQVhtOVN3WXVrT3FMT0hJZlo1LU44dDJQcw?oc=5",
       "pubDate": "Thu, 09 Jul 2026 18:35:36 GMT",
-      "description": "Former Suffolk nurse who falsified COVID-19 vaccine cards hit with historic $544K state penalty News12",
+      "description": "Former Suffolk nurse who falsified COVID-19 vaccine cards hit with historic $544K state penalty News12 | Long Island",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -910,6 +962,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "New Vaccine Offers Hope Against One of the Deadliest Brain Tumors - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWFJMNVhzQUlPbFFZSnFWRGluZmZEeVpocTRoZFVEOC00MVI0ZkFENUNNdm5UNU53ZE1XX0hyQTkxZjZfMV9JUjhSNVFMTlZhaVVRT2xfSVpkZ2o4WGRIYlBXZzNQWVNSLW9hNk5MUE1GSW5zcjREOVM4OFNvRXNNR1M1T1ZtWlU?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 12:08:00 GMT",
+      "description": "New Vaccine Offers Hope Against One of the Deadliest Brain Tumors Newsweek",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Pfizer/BioNTech fend off Promosome’s UPC covid vaccine suit - IAM Patent",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdGR1NC1XbDFydVNRRjN4dENFeW9LN25sUGhXYUU3QklCQ3N4U0lmUjk5ZjNUUm41OUVRRXZJckFXR3YyNHpIUFZEUE5VSUhGaGhjY0Z6YUN5TVJpUkhNYWNIM3VoZ1hOQzJ4dzVvamtDQ0t3aUtycE1SR2tnSDExdTVnLUNVNXEyOXpFMHdQWlg?oc=5",
       "pubDate": "Thu, 09 Jul 2026 12:07:35 GMT",
@@ -949,36 +1014,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "The Fentanyl Vaccine Is Real. The Evidence Strategy Isn’t. - The Clinical Trial Vanguard",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObzdYaWRhY21sbHZPR0p0OWxPa2FJMGxtVENMTmROQnBiRHZYS2lzeWVaakxubUtOUEI3WkZGay1qd3FXNjRGaE1ES2JuaUgwWjlxRTh0aEdfZFNESno5eUdLNEdBWWVzeU13VkdXT3FYT3RsekxGTllwWnRRTzR4czcwSGV2TVFlOTc5LUJ6cV9VSlRQX3VvdTlQZURzRzc4OEJUUQ?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 06:48:13 GMT",
-      "description": "The Fentanyl Vaccine Is Real. The Evidence Strategy Isn’t. The Clinical Trial Vanguard",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
-      "title": "Idaho woman charged in deaths of twin toddlers sues American Academy of Pediatrics, citing vaccine policy - KTVB",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaG0yYnBnQTA2RGhUY3luVEZJUDExeFRUQTRyM3FXODRMMFBEczNTVGl6U2g4WG9sYXBVV1lFd0JSYVFQcnlxMFY3bkdISXlDWTF2bk1TaDZDM3ZIZTR0TWRKVUVxd21TZ0VOMDNHdVBJeXRNX2htbm5aY21GNFplMXFRVWZKb21YczZXWjdqc25FRG5ncUtISWxiYklaVVVxYjFUbWhNX3c5U00yYkdUbmtvNVBHNm5hYVVXal81dmMzS3pGaTdrclNxRzRCRDJvWUY2VGFqbXNxclc0SmNiRTRMdmRQamFhRE1PNUEzNzlXN215ZUFscGhR?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 04:44:00 GMT",
-      "description": "Idaho woman charged in deaths of twin toddlers sues American Academy of Pediatrics, citing vaccine policy KTVB",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Eastern Iowa doctor urges residents to check vaccination status after state’s first measles case confirmed - KCRG",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMF9Ub3R2MUtCQ1pOUU9TOFJ1ZlNkbjM5WDZfU1ludWdBcEJ3bEp6Uzc0a2NQY09faWxtQWxLMDFFbU1kS19OUDE3Q1ZMLWN4Z0tvVTViajhaVjRqN1JSNWVRQ1I4N0lBM3lXcV9ZTFlLOXBCOFI5cC1BOVRNSzIxeVAzR0RhVXhMQkYxdFoxWFpkYS1wSnpyWnJzT2pCbjlicjRXQWZNNmRvWDR6SjlkcHBTZEJLUEhKNy0za2Z0XzlDVWhjUGpEcG80WTFiRUp50gHkAUFVX3lxTE05WmwwQk9UdkZsWWpNUjFxeFhreU9SLUd1QjNsc2JJZ1pIcEEyZ0FBTE9oWllHb1ZNU3JGaW5hX3h6V213UzFEUUdUaXQ3SFdpTUphWTdHNFE2WVotdkdaQzdSZzRDN1dIemI3Ujk3TmtuWnNFbVpEc21XTnB6cE5NSHJ0SVJxWmQ5RmZoQ0RnWng5bmJ6em5IRFAwTEJwWUpSOUhMWEZyaXZJaGxoOEozS0lxTEFpanA4QkhwV3VKaVczNU10RmZJdno4T0VwUW5La2xRYUVQcDF2MTBOWm1uNDFZZA?oc=5",
+      "title": "Eastern Iowa doctor urges residents to check vaccination status after state’s first measles case confirmed - KTTC | Rochester, MN",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZUZSeFVIYkg5MXBkb0tGOFFpcTVDRHdYMnJqTEVCWGE2UnVmbkFIT2dadk52VmxWQW14T2U5MlpMeVVRVmRCSE9hLUtwcWxIaDZhZm83ZU9BMlBlODJ5aHBJQmtMcjE2MHRjRzB1Q01LQ1FzYTFiaTk3OGRVTVhvQVBQaE9LOVdNc1MwQldST1RPY0ZsOGtZSnZOY1VLeHZ0OVB2WG9fX0hzTHBzS3JFZlJPMmNXVGFUMjFmZHQzb21pOTdQZEQzczF5MUZQeE440gHkAUFVX3lxTE9ZSUNuOFliZUNOMFFQWGxhUjc5M2w2c0pqNGpSZEdJU3ViYy1fQVFFZXV3c0dTYmtDc3ExOVZTY2NRa2VpUnNoTWtjazMwc0hGWldBOHc0VG90bmc1TmxzUlNDR0lzUG9LdzkyV2I0VVRCNkg0bW1pazViYUs3aVNLTUx0VlQ2S0tPUlJZOWJ1ZXhZVE9fWERYbV9Za2JUdTdway1JRjhxNExJbFRnRkt1di12N3hpbGNvcndBYk1fLUJscWk3bzMtTEpaUHBUbGhjR0JBYUpmNXdWVXZhc3otZjF0RQ?oc=5",
       "pubDate": "Thu, 09 Jul 2026 02:32:00 GMT",
-      "description": "Eastern Iowa doctor urges residents to check vaccination status after state’s first measles case confirmed KCRG",
+      "description": "Eastern Iowa doctor urges residents to check vaccination status after state’s first measles case confirmed KTTC | Rochester, MN",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1023,6 +1062,19 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "E coli-produced HPV vaccine effective against cancer-causing strains of HPV - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOWxubDlqbDBlQ3NBZ0pGMkg1bjFoNnBpZ2ZhcWtRUTFjVXFYZHM3dWZjYUx3eGw0ZkF6elJuV0tmRXVUS3gzSHF6UUVZa1BtSVNNWk11VHVaOWRzTy1sSVJhZ0ZrVG5SZlBwRzdaV1RleTc2eEpTMmd3cHJwOFZDY0dFbW9xcWp0T3lyTmZlN2xWbkxzY0o4c2FvVEZEaEhpS245RGNoTkFWQXBpcUR3dmdwZmEyZnFucFpwY0tDMA?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 19:35:00 GMT",
+      "description": "E coli-produced HPV vaccine effective against cancer-causing strains of HPV CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hpv",
+      "vaccineLabel": "HPV",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1101,19 +1153,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Estimated US flu vaccine efficacy against death in kids 80% over 8 seasons - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMDdRVXFvMVNZd1dyc0ozSFJ3TS1fdEVESW5QcXh0d2NTNVNyUlh4RExkQ19CS25oVUhaWE5LbEVyRzc5dHNSdFJJa2pfS3lhNGV1c2RGT2VqVFNGSFBIRGozNTNUcVVkRlk0MnRFTUxGNFRyY1U1S2ZRcG9IR2hPa3R6WkI5VUxoWlVUWXNoR1A1UHRBRGh2ZzY4QURzNkpzUm9hZ0VBYWZ4cVlMLW5oYXJxRUhWeWc?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 19:23:28 GMT",
-      "description": "Estimated US flu vaccine efficacy against death in kids 80% over 8 seasons CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
     }
