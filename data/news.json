@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-10T21:44:36.118Z",
+  "updatedAt": "2026-07-10T22:44:05.973Z",
   "itemCount": 86,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 20
+      "count": 21
     },
     {
       "key": "rsv",
@@ -15,7 +15,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 4
+      "count": 5
     },
     {
       "key": "hpv",
@@ -50,10 +50,23 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 49
+      "count": 47
     }
   ],
   "items": [
+    {
+      "title": "King County MMRV Vaccination Rate Remained at 15 Percent From 2015 to 2025 - geneonline.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORTdYZ0hJNWxPdXAtVWhscEhtMXFfUThUZkRqSVcwenY0TWpPdXhrV3FGZHZYZWtPTEJTY0doZmVCNDRwdW0xMjdHYlVFQVBIUS1scjduQm9Tc1ZtVkpyZkRyeW9jSzVOR1dTQ0QtXzNQbENVV09Ib0htX21Gek1IQ0Fydk5zRlVNcFV0VE1oY3FLdDY5U295dnVWeDlXVTNzUWNGNA?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 22:06:04 GMT",
+      "description": "King County MMRV Vaccination Rate Remained at 15 Percent From 2015 to 2025 geneonline.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "NAM Report: Falling Vaccination Rates Come with an Economic Cost - National Association of Manufacturers - NAM",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOS1sMWwyeWVUNGppaUVnNTg1MUJOTmt5U3NOWTIwd2tpQ09BOUhBWjRLQW1DVTVHNG1ld2h4a19uRnZpWko1U25xcXBMeHo3YUdVVHNlSkxMTmhsakxyejh4eV9oc0lwRk5Qd2lyME9NdENUZ0tzRFRqdk9VUFlWYzRETGhEU0U?oc=5",
@@ -64,6 +77,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "HHS compiling list of injuries eligible for automatic COVID vaccine compensation - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN2VIQkUwNEg3NllnWkFuTmlXY250RGtJOHZQRk1qZFYzLXEzNktEVzg5VUc1c0I0TUhpbkRwV1I2MWJVbEQtYjE2eVZLaXl6MUQ2SHg4ejVaX1VJMm9NOEpnY21mSTVKM21HRFJtUnZ5WC1zQmU3eU9taVVhcm5EUTVfQUJ6QTlyZU5kV2VXYnprUjd2R1NvZDI3ajRWRG9TVnFGemstYVNtWkFoSGI3Tw?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 21:22:00 GMT",
+      "description": "HHS compiling list of injuries eligible for automatic COVID vaccine compensation CBS News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -250,19 +276,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "King County MMRV Vaccination Rate Remained at 15 Percent From 2015 to 2025 - geneonline.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORTdYZ0hJNWxPdXAtVWhscEhtMXFfUThUZkRqSVcwenY0TWpPdXhrV3FGZHZYZWtPTEJTY0doZmVCNDRwdW0xMjdHYlVFQVBIUS1scjduQm9Tc1ZtVkpyZkRyeW9jSzVOR1dTQ0QtXzNQbENVV09Ib0htX21Gek1IQ0Fydk5zRlVNcFV0VE1oY3FLdDY5U295dnVWeDlXVTNzUWNGNA?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 16:18:56 GMT",
-      "description": "King County MMRV Vaccination Rate Remained at 15 Percent From 2015 to 2025 geneonline.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Ex-Pediatric Nurse Who Falsified Over 100 Vaccine Records Hit With Record-Breaking Fine - HuffPost",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbEZuQlhydTFaeVlYb3BWaDRCQ1NJbmVLNXhXbEY3OU5HMVVOWGg2ald1ZTZTdVR1dmgzS1hSWjNhbEIzcEtQb2EwMVoxQ2dBbE1wRnVCeXZub3FzU0ljclRQRGlndzlzVkJ0Mk9kQjVKdTFib2dOX3FSOVc4bWNESWZZdHRMeFJYQTFtcXM4OVFrb3RRdDh2Qk13RVo1aVAySElaaHZKMkotU2VWaTFFSTNn0gG3AUFVX3lxTE5NTHBabUtyT0hrTFlkZHhVY3RTXy1HanNSRjVxU0pTdGNGZ1ZhVTloZHQ0cjVuZnpGYTZ6U1VPOFE4MVFac1V5RHlzN2ZzNDVzZFpfbkxiSkFNTC01anZUQzRLdVhnZkxxTUlrTzhXYkpVM2pmZWlNX0dXY0ZPdVdjb2JVWkQ3TGo3dUlfZGNRU2tkR0FHWnh1WGV1MXhaOEhjc2thM2kwbGJCM0dOaDFqMWNmT2xBcw?oc=5",
       "pubDate": "Fri, 10 Jul 2026 16:09:55 GMT",
@@ -272,6 +285,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "ACIP dropped MMRV coverage. New data show it was a lifeline for VFC-eligible kids - Contemporary Pediatrics",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSFhUVlcza0hOQVpSMGg5U0tEX2JJRHZlQTdZZTFGTWlVRVI0TEMzNUJ0SDhxY1FGc3lIQnF1NW9sWE1XaVI1cFk2dEFaUFlYSElpRWFFckEyV0tFSDRvME9QLXRaTUQwUFYtb2lYSnFJOW1sRTJCNUxXX2ZUQVdSLVp6T3N1MDFyMVdZclJtRGpvcjg5UnJJWURYS2U5anBQN3k3WW9OS2Zoc19XNE9fWEFNNkhUT2pyMlBIQUVnbU96Zw?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 16:07:44 GMT",
+      "description": "ACIP dropped MMRV coverage. New data show it was a lifeline for VFC-eligible kids Contemporary Pediatrics",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -553,19 +579,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZGdqdWphWk53LU4xVV8wRktMdFZIQXBPbDlTWk51QWE4cExBQklVZHdqdGRBT3RfUDd0Qkd4S3hLcmFHZERLbmtRTUhQTFpUSzlSWU5FYTFYdFRhWHE4akNQVHp5Q0tnWWgySDZoSGp2Qjc1QWFYeGpXRmlJcmRlcXNDVWYxM0dfUzNkSTB3dy1DYlA3N0UwWmZTSzB5aDUweGk0WTNHS1VvT2k2c0ZwUTB4aXZjcVlFX3lxRDNkMDZ4dw?oc=5",
       "pubDate": "Fri, 10 Jul 2026 07:55:55 GMT",
       "description": "Growing evidence links respiratory infections & chronic disease VaccinesToday",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Effect of a spore-based Mannheimia haemolytica vaccine on immune responses and respiratory microbiota in sheep - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNdjF6WDNCMjA4Q01Zem1NZ0RyLU5VQjhqWmI4WWR3YWl3cXp3SHlRVkNqSTZZTjlsZDRHUGFZQmpuUThnTnY5SjdoVzZkTU9FNDJwLTYzUk9SOEt5eFRJ?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 05:03:54 GMT",
-      "description": "Effect of a spore-based Mannheimia haemolytica vaccine on immune responses and respiratory microbiota in sheep Nature",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -956,19 +969,6 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWUwzTnFzYmMwZkM4Y3cxTEc2cDYwNGZEUHZlaDBCTlI3c3JneTBhSVJpYjI3Nm5TNVUzcnIwLV9PenVrWXVCaEpqZnJJQ05TcVp4NGtHNk9MOTZDb21vTTMxRUtNMzJ1N1E0Nllfek1xRFJvbS1uQUdXNUpxZXhyU3F3emFvSmNHN2xLVGRrM25lRk10b1hlNWFOV0VIOXZ1UXpkcmIyeEZyelB1RmdsWUlJV3hZTE54eTVkMnprcjNKY3VGdVE?oc=5",
       "pubDate": "Thu, 09 Jul 2026 14:28:36 GMT",
       "description": "Single-Shot Respiratory Vaccine Could Transform Pharmacist Counseling and Immunization Rates Pharmacy Times – Pharmacy Practice News and Expert Insights",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Back‑to‑school vaccines: what DE requires before school year starts - Delawareonline.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcGdoZFVZWVFKWkc1ajR4UnR3R1NkbkluWXRyZXUyTWllUjFva1E0MFlmSV9majNWbkJEUDBJX2tzU0VtQ1NXNUg2b0JsckV3Y1ZjOEFTSjFvVTEtZFcycnhiaHNsUzluUVhTcy1LcUt1MHd5REczSjFZWUx4X0lVcGtHQ2cxYUVPa05nMkVGZ19MYUlKT1ZWRFJsNW9GR2FiRl9sam9rWUh4VXN6Y1E2aFcxQ2l1NnhUVzdNVTZ2WS0zSTNMclBYNjVn?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 13:06:00 GMT",
-      "description": "Back‑to‑school vaccines: what DE requires before school year starts Delawareonline.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
