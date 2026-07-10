@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-09T23:49:12.569Z",
-  "itemCount": 88,
+  "updatedAt": "2026-07-10T01:01:37.479Z",
+  "itemCount": 87,
   "groups": [
     {
       "key": "covid",
@@ -10,7 +10,7 @@
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 2
+      "count": 1
     },
     {
       "key": "rsv",
@@ -25,12 +25,12 @@
     {
       "key": "hpv",
       "label": "HPV",
-      "count": 1
+      "count": 2
     },
     {
       "key": "hepatitis",
       "label": "Hepatitis",
-      "count": 3
+      "count": 2
     },
     {
       "key": "pneumococcal",
@@ -55,15 +55,15 @@
   ],
   "items": [
     {
-      "title": "Julie DeVuono, former nurse practitioner, gets historic $544,000 state penalty for falsifying pediatric vaccine records - Newsday",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc18yUGpOa0JaZWVFUHE3X1RYWGZTQkxBbUp4M1d5N2lsejFjVklCQmNUWXk5OUVPLW5sdXlXOFFMNFczazYyX0hnTkppSU81ZFdSQ290YUNhNE9tdGt4RXRabjN5ZjVWZlRjcG9FajRrUGFUYmphN3gxdlBGWEI2U0gwN1U3SVdiNE1yM0N4Wk1qVzZiMzJvanFfVG9fcUVjX3dEb24wN1lxa05SUXk0Zl9NdXI1UnJHTVFNTw?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 23:43:09 GMT",
-      "description": "Julie DeVuono, former nurse practitioner, gets historic $544,000 state penalty for falsifying pediatric vaccine records Newsday",
+      "title": "Christopher Morgan: The Evidence on HPV Vaccine Integration is Compelling - Oncodaily",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IZ1dUMlQzTzR2eVdaUUl2N2J3ajZ5czZPODc1c19uYTJxYzVuYVFOeVVZYXMyemUwV1JzMFQ5NjhsWTgyRWItLVkwOUdsVFgycl9RSWZxTm9nb0c5dk5JRlVZcmE?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 00:18:41 GMT",
+      "description": "Christopher Morgan: The Evidence on HPV Vaccine Integration is Compelling Oncodaily",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
+      "vaccineKey": "hpv",
+      "vaccineLabel": "HPV",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -81,10 +81,10 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Long Island nurse who made $1.5M selling fake COVID vaccine cards slapped with $544 fine - New York Post",
+      "title": "Long Island nurse who made $1.5M selling fake COVID vaccine cards slapped with $544K fine - New York Post",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMmVMRHNtMGppUzBTOHo3MkpsU1ZfQ251T201UEZMcXotNU94YVdGZlJRTjE2OUlmanQ1N0t3MHRMMlZ2NXByNDJDdjI3WG1GN1FkRmlRZ0gzVEV6ZEFCWGhlMU91dnN3QUlJeXUyN2ZvVTdYQW9wZXJBWElpY3ZuZUxsUlZkbEtZRWRLX2ZBY2lNc3BIRTdpc0l3amtqMWVJTHg4WGl0TVJBQlhrTEF6OXZJOEVsME5SVk5rSU1Kc1ZUMTA?oc=5",
       "pubDate": "Thu, 09 Jul 2026 22:50:00 GMT",
-      "description": "Long Island nurse who made $1.5M selling fake COVID vaccine cards slapped with $544 fine New York Post",
+      "description": "Long Island nurse who made $1.5M selling fake COVID vaccine cards slapped with $544K fine New York Post",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -103,6 +103,19 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Julie DeVuono, former nurse practitioner, gets historic $544,000 state penalty for falsifying pediatric vaccine records - Newsday",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc18yUGpOa0JaZWVFUHE3X1RYWGZTQkxBbUp4M1d5N2lsejFjVklCQmNUWXk5OUVPLW5sdXlXOFFMNFczazYyX0hnTkppSU81ZFdSQ290YUNhNE9tdGt4RXRabjN5ZjVWZlRjcG9FajRrUGFUYmphN3gxdlBGWEI2U0gwN1U3SVdiNE1yM0N4Wk1qVzZiMzJvanFfVG9fcUVjX3dEb24wN1lxa05SUXk0Zl9NdXI1UnJHTVFNTw?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 22:21:11 GMT",
+      "description": "Julie DeVuono, former nurse practitioner, gets historic $544,000 state penalty for falsifying pediatric vaccine records Newsday",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -250,10 +263,36 @@
       "articleLabel": "News"
     },
     {
-      "title": "Former Suffolk nurse who falsified COVID-19 vaccine cards hit with historic $544K state penalty - News12 | Brooklyn",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYUpvZTdacXhVdVNKNk93NGQ1b1FSMTJxV0JiWE1zRE5QNDZHVGZrdTJxVVRrRTVxMVU2ZTlqeVlGNVh4dE90cEVkLVJ2WGVCbS1NRkJOdnNWc3AtN1Z2ZkphT1FrMG9pdGdmSjlvaWpZaXhsU1MtYnViSjJ2ZTUyRjE3S1diY0hhcFBJMm5xaEpDZ2NfVkxKalREa0dHNklEZWhkdWNJTnA5VV9zYW9HOGFtZU5EV0tsd2k4RFRINA?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 18:36:10 GMT",
-      "description": "Former Suffolk nurse who falsified COVID-19 vaccine cards hit with historic $544K state penalty News12 | Brooklyn",
+      "title": "Mississippi School Immunization Medical and Religious Exemptions Report 2025-2026 - Mississippi State Health Department (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Md1Ayc2pjVXhBMWlVc3hCZGxBT2N4S1ZEVGwyaDhMYkhQS0RXcHFicjBKdHhaLWhhQVpoRk5SbzVXMWNtWlJfVFJrWGJMeWZfZDUwVnNJTQ?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 18:52:20 GMT",
+      "description": "Mississippi School Immunization Medical and Religious Exemptions Report 2025-2026 Mississippi State Health Department (.gov)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Mississippi School Immunization Compliance Report 2025-2026 - Mississippi State Health Department (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3T05IVHFwWWlkT0JKczhrbUFkQmd5dEY1RFpmQVIzd0dXSzZNSkQzbWR3R2RNaUdNUHZuSkJvZVluQ0FHUnptblF4dnFKRjliLThheFJhOA?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 18:52:17 GMT",
+      "description": "Mississippi School Immunization Compliance Report 2025-2026 Mississippi State Health Department (.gov)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Former Suffolk nurse who falsified COVID-19 vaccine cards hit with historic $544K state penalty - News12 | Long Island",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUGl5NjhNVXI5SDEwcnFQaGowcWVWNk5DZXVieTh0bkFtei1POHZraVNQWmdEblAybU82Q0JrTlQwX3VVaS1WT2RpQnlOWVZlSWxoZkwxdGZKLVc1QWhuTzhJcVBJWFBFNy1aZUFJSEdQNHJ1bUllY25jY1JTUjQxZ3BiVUhZQjBmallYVE85MnBRVTc0bDdEU2dXYXpQVkVISmpNa0FCTWo3a1hNM09FcWVnQmV4bUVvVk5Sd1VKLUJzUQ?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 18:35:36 GMT",
+      "description": "Former Suffolk nurse who falsified COVID-19 vaccine cards hit with historic $544K state penalty News12 | Long Island",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -272,19 +311,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Hepatitis A Vaccine Eligibility Related to Ongoing Outbreak in Northern Manitoba - Thunder Bay District Health Unit (TBDHU)",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRXk2RWo1VjBZbXpHdUMycGVqMHljZGpCYkRidThWUGR3ZVJCLVN3aEo0VDEwS21QN3lEQXZURTcwU1NaSUtfakVxdnBSTGR0OFZYanhJR0lQQUdzVDRWYnNjWUxJc1FLeVpZMjBzTDVRT1NKMFZ3elpZUGFMMDVVTWRCWUd1YUFvQnhkZ1JxUGFXd3pMRVlXQUVLZlpJSE1WZWt0bw?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 17:53:14 GMT",
-      "description": "Hepatitis A Vaccine Eligibility Related to Ongoing Outbreak in Northern Manitoba Thunder Bay District Health Unit (TBDHU)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hepatitis",
-      "vaccineLabel": "Hepatitis",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -497,10 +523,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Pfizer/BioNTech fend off Promosome’s UPC covid vaccine suit - IAM Media",
+      "title": "Pfizer/BioNTech fend off Promosome’s UPC covid vaccine suit - IAM Patent",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdGR1NC1XbDFydVNRRjN4dENFeW9LN25sUGhXYUU3QklCQ3N4U0lmUjk5ZjNUUm41OUVRRXZJckFXR3YyNHpIUFZEUE5VSUhGaGhjY0Z6YUN5TVJpUkhNYWNIM3VoZ1hOQzJ4dzVvamtDQ0t3aUtycE1SR2tnSDExdTVnLUNVNXEyOXpFMHdQWlg?oc=5",
       "pubDate": "Thu, 09 Jul 2026 12:07:35 GMT",
-      "description": "Pfizer/BioNTech fend off Promosome’s UPC covid vaccine suit IAM Media",
+      "description": "Pfizer/BioNTech fend off Promosome’s UPC covid vaccine suit IAM Patent",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -601,19 +627,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Sanofi offers EU commitments for flu vaccine disparagement claims - Manufacturing Chemist",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNmpyVGZsSGFaNFJrbXJiRkZUQWg5dGxrRTJpaW4tT3RYM0JOTkpSWmpoR2c0SXBtUnRhRm9wZ25NUmo1S20yWDVFR1E3Q043ZG5ZU2Q2Ri1mV0RFSzB4R2MtbUpNdWNscjJUNURIZHlNTWZLOXdvaHoxVkh4c2VaTnVjZmlwU0t2b2Zod0lBbFU?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 08:55:19 GMT",
-      "description": "Sanofi offers EU commitments for flu vaccine disparagement claims Manufacturing Chemist",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "The Fentanyl Vaccine Is Real. The Evidence Strategy Isn’t. - The Clinical Trial Vanguard",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObzdYaWRhY21sbHZPR0p0OWxPa2FJMGxtVENMTmROQnBiRHZYS2lzeWVaakxubUtOUEI3WkZGay1qd3FXNjRGaE1ES2JuaUgwWjlxRTh0aEdfZFNESno5eUdLNEdBWWVzeU13VkdXT3FYT3RsekxGTllwWnRRTzR4czcwSGV2TVFlOTc5LUJ6cV9VSlRQX3VvdTlQZURzRzc4OEJUUQ?oc=5",
       "pubDate": "Thu, 09 Jul 2026 06:48:13 GMT",
@@ -625,19 +638,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "Protecting particles that carry mRNA in dry vaccine patches - Lab + Life Scientist",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM3puUjVLZS1BQ2JpWkJCcWdkV1hocU1CRnhDS0lRbWt1eVBObTFlRDVTR01Tc2ZFQVhHT0YwSDAxMnpuMTR1LUpGZnV5S3lVOU9UODBIVWVfTjM0S0JHUm56Rmx3VHN5bzhDaDFfUjJEMDZwcUlIemx3dncxY2gxM0lTdGVDWk1pc1JMdWUzYXc4eGlSWE1Cc2lJR0lqeWZXWDM1YkljNDlQUDBrYXNWcldzbHIwRVZ5Nk1xcWdhbFAwMFpaNnM3Rg?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 05:41:34 GMT",
-      "description": "Protecting particles that carry mRNA in dry vaccine patches Lab + Life Scientist",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "Idaho woman charged in deaths of twin toddlers sues American Academy of Pediatrics, citing vaccine policy - KTVB",
@@ -1125,19 +1125,6 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdmRoZHkyemluSS1MUDFqTktsaXlVUGpMTmJicy1sdkduOTY3STFHVTdLZVdUV2Foa0NVNVdNVFNkUmkzSVcwbWFwZGs3UG91NmJPUkNSeHJoWWVsRDNIRVpOTVpFTVpENFFSSVY5ZlFJYTI1SG1GZXp2OFE0R2FadnQtZDlOZGVxYml6dkl0Z0IybXZZbkJva1hXcDZuNlc1TjNKaWpZWVk4TjBuWWlRUTBPcDZBWUZxcVJHQi1faw?oc=5",
       "pubDate": "Tue, 07 Jul 2026 14:00:00 GMT",
       "description": "The First AI‑Designed Vaccine Has Been Tested in People. Here’s What Happened. SingularityHub",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Oklahoma Caring Van offering vaccination clinics in the Tulsa area - KTUL",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZVJUMHFSMVU4RzNOc0ZDZlkyWDA4cG1Wdm9DaUhpc0lGZ0RoSGVRVHFMM0dGSzg4MEREQVdqT1lfbW1CeFJyUTBVZFlQeFJUOW1BOTktUkZVTGdNbGsxVUM1Z3p6RTdqX3BhWVJEYVBCVkZsX1lPYXFxMnZKVFlSNXEzRTcyMW95bm54ZXI3REUyUmxHRFhqd1c4dVl5ZnBNcUtUOHNOZjM?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 12:55:10 GMT",
-      "description": "Oklahoma Caring Van offering vaccination clinics in the Tulsa area KTUL",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
