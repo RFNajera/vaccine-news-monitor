@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-12T17:44:52.296Z",
-  "itemCount": 71,
+  "updatedAt": "2026-07-12T18:42:15.284Z",
+  "itemCount": 68,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 14
+      "count": 15
     },
     {
       "key": "flu",
@@ -33,11 +33,6 @@
       "count": 1
     },
     {
-      "key": "shingles",
-      "label": "Shingles",
-      "count": 1
-    },
-    {
       "key": "chickenpox",
       "label": "Chickenpox",
       "count": 1
@@ -45,12 +40,12 @@
     {
       "key": "mpox",
       "label": "Mpox",
-      "count": 3
+      "count": 2
     },
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 41
+      "count": 39
     }
   ],
   "items": [
@@ -159,19 +154,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Patient groups call for shingles vaccine subsidies as survey flags 15 times risk for vulnerable group - The Standard (HK)",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMXFhVV9FZGNneHZBRWtHekdRb3NjUFc2NV84b3Z4Z1J6X1lHd2dfazROdGc3UW9aYlNTWHA2M2dvaUVJbUw4bTI4MXkwYXlfX1FneEpkRWg5OWxtVnJ1N0VncXRzMUtMME5WNWJNaVRLbEY0UlZYbDNUdDNuR1lwZnpWNlRJWFdaLXZZQzB4NVFWU196ZUpwRkhobzFyUFhGTDJyMTZSbzRJbGluaC1xbnhHeU1DRE9lMkNDQjBQQU1JQTRacGdGaGQ2SGd0MUo1NzFtTmhxTVNvQ3ZURzVKdFhQM2dGMXc?oc=5",
-      "pubDate": "Sun, 12 Jul 2026 05:21:18 GMT",
-      "description": "Patient groups call for shingles vaccine subsidies as survey flags 15 times risk for vulnerable group The Standard (HK)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "shingles",
-      "vaccineLabel": "Shingles",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Azerbaijan health officials deny mumps epidemic in Baku - Outbreak News Today",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pdGFEWkpXLUFHNDZobnBLNWpfVExiczFZY3RJUkRQN0ZzUnprTTJicGxjM1A2V2dFV1diWUhSbzRUTGp5V2pDdm5YSzVZdFR0Y1Z3VE55OEIzRVNqUDI4QzU3bTdlTWh3WnA2VjNvRUVVQnJ4dXdwTjB1R2FDQQ?oc=5",
       "pubDate": "Sun, 12 Jul 2026 02:12:49 GMT",
@@ -202,19 +184,6 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1FOTldQcjlHVHVrS0drN0hSREtWSVFadC1ySVljVjJINHE3MG8ycFRaeUM3bTA2NElPRUxIU0dXY09GNENrM196RWtuT1lqY2RkdjhEamJMY1NDbzdXa1hhbWJhbHZWMWg2bG9tZzY5M1BoM1JIU3p2Tkszb2xzVzNqU3ZxWExXNFlMdVlqZ181cDRUSS00WlRLb05WYjQxaTNZMGMwSWd3YUY0U3pYVDNn?oc=5",
       "pubDate": "Sat, 11 Jul 2026 09:02:33 GMT",
       "description": "In a heartbeat: Don’t let vaccine misinformation leave you immune to science TribLIVE.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Engel: Vaccine skippers imperil communities - Boston Herald",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVndkZmdBQnQ4WGNzeV9fVWQzX2lwdFp2Y3NqTWxteTZ3ZEFfSHNna3VibzIwVlpFSV8xbEthSmQxcWUzTGp2UkZDMzYwa2V4YVljY2YtUTVGcVJYbVJ3V2Z1MlZUdm1TcG90aVZlUEVWNjNLX21hUnNLcW5aODB6djZENm5DYmlEeldoNFdR?oc=5",
-      "pubDate": "Sat, 11 Jul 2026 07:50:11 GMT",
-      "description": "Engel: Vaccine skippers imperil communities Boston Herald",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -341,19 +310,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "South Africa to allow private foot-and-mouth vaccine imports - WTVB",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaFNUclRyRG9DTTFIbFRhc1lObHYxcHI1TkRTWW85UW5zNjBVd05mZVktYkZlbXc1ekhobDFzUWlrek5UQ0FLdndOTlJnaTgyT0JOVl9IRGY4TGNGS2ZybGhVVEVhU2lPX0tGaEttbW9qYkFrSFIxZVUwbFUweVJHU3FwNnZHWm1hM3ZZUEs2RVM5VGxETkE?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 16:09:14 GMT",
-      "description": "South Africa to allow private foot-and-mouth vaccine imports WTVB",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Here Are the Groups Impacted by CDC's Chickenpox Vaccine U-Turn - MedPage Today",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jTUNPWGNnemRxU0F5OFJ1NmQxbEtxVUN4LTJwYVlyQXpwblVYaDhKb1VmRGhTNjhLMjNJYUE4VnBGQm15N3FNQ3hYSzNncGQ4dno3eG1uOXpFWmt3UmlRbkctd0k1QQ?oc=5",
       "pubDate": "Fri, 10 Jul 2026 15:50:46 GMT",
@@ -445,19 +401,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "FACT CHECK: Claim that COVID-19 vaccine recipients will only live until 2030 is false - Rappler",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZWdvS244d2dVXzVkOTZkd0VNZjRDVlRZNVFlbEZ4NWJQeHowR3NQclNjc2VyanZpaEQxMl8zS2d6eFBKVm5VTzBOZG9OaWhCQUZuRThWWURjWGlFNk5DaHNIcjZRMFJjZkxIWlNMRUpjVzVndHZqMEhZM0dKNUNuejRVX0NoTkxGNEw2aTZzRkh2alRiQTNpbTRB?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 08:15:00 GMT",
-      "description": "FACT CHECK: Claim that COVID-19 vaccine recipients will only live until 2030 is false Rappler",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Growing evidence links respiratory infections & chronic disease - VaccinesToday",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZGdqdWphWk53LU4xVV8wRktMdFZIQXBPbDlTWk51QWE4cExBQklVZHdqdGRBT3RfUDd0Qkd4S3hLcmFHZERLbmtRTUhQTFpUSzlSWU5FYTFYdFRhWHE4akNQVHp5Q0tnWWgySDZoSGp2Qjc1QWFYeGpXRmlJcmRlcXNDVWYxM0dfUzNkSTB3dy1DYlA3N0UwWmZTSzB5aDUweGk0WTNHS1VvT2k2c0ZwUTB4aXZjcVlFX3lxRDNkMDZ4dw?oc=5",
       "pubDate": "Fri, 10 Jul 2026 07:55:55 GMT",
@@ -480,6 +423,19 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "New Lancet review rebuts concerns about COVID vaccine safety. Here's the science behind it - American Council on Science and Health",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQenBUekdWbk9jX2h4eGhBS0lidkNiNUVNT1dHR1AyX1Uzb3pQVGNJUE9tSDc3YWZOaFhVQlo3SC1kei1STVFLSFE5WEJoOGt1NkNhQmNGQm12XzFwV05YX1lzNWtIdVA1a2FrSy1HRk1MY1NLMXFEWkpmQU1OQ3p4bjQ5Z19sa1dUZ0R1V1RKbl9yNzdlWFhqbEc2MHkxTzZvVmM4QXc5UVc0dkM3NmE1X2g3eF9maC03NlE?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 04:15:33 GMT",
+      "description": "New Lancet review rebuts concerns about COVID vaccine safety. Here's the science behind it American Council on Science and Health",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -575,15 +531,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "OHA urges vaccination amid global rise in clade I mpox transmission - The Coos Bay World",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOTZ5ZVNIYmNtaXNxZWd2czZYZF9oSU56cmhYMzRiQURXS29GQXc1X0ZaQlVrUnpJekFXZGp0YUROSzhBMVhKVjFJQksxanpWa0p1d2QyZTF6UG9pRnh2QUphTHl1NHlfd0NDOFJTQVRBRk11VUJXNkYzTVJ4VGFxVFpzellWNmRjbVZYMkxGYkl0NW01ODIyY1RTa21DQ1laaC1MQUY4T0ZYOFVmX1hqWXE3YlNYRDRyY05LaE9lS3IzRlBMazFPRURzSnlWc0R5dFhDYm0xcHREMlhMUHZwRA?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 20:45:00 GMT",
-      "description": "OHA urges vaccination amid global rise in clade I mpox transmission The Coos Bay World",
+      "title": "Mom who blamed toddlers’ deaths on vaccine now facing murder charges - wng.org",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWTFicmVzZFpCTTJMZ3hfYTJwSmpCOXhYSmVTNWoyRGh4cU5wVjVTc3N4bGc3NHhBWG83Mm9RNm1uckNmcGF2bUFNUUZzTGtKZW5ObzdEQ0xuVEYtZVFyV1pGb0FLd3JUTUdVeGVyMzNXS25zQ1htNTc1WDczVDZmUVk1WQ?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 21:01:00 GMT",
+      "description": "Mom who blamed toddlers’ deaths on vaccine now facing murder charges wng.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "mpox",
-      "vaccineLabel": "Mpox",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -757,6 +713,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "As Ramaswamy vacations in Europe, biotech he founded collects $950M COVID vaccine payment - TiffinOhio.net",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONjZCb3U2VFFwVmRVcjBZcHZUMXFCak9mOUxzdWEwWDAtNFpMV3pTaHhRVGpxemZZZThIYWcwUEFVcVJLOWRYTDd2VzFIM2Vpc0d3U3V2RFU2cWI1Uy10aDNiVnVEUVV4N0FBUU4yc3VGQlZYZmFRVmZEbmNVVUJYQUY1SW5fV3h0ZEVRdkZB?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 15:10:00 GMT",
+      "description": "As Ramaswamy vacations in Europe, biotech he founded collects $950M COVID vaccine payment TiffinOhio.net",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "In compensation push, HHS gears up to draft COVID vaccine injury table - Fierce Pharma",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNWRHS1JXX0swMEktUy1vSXlzVUJQNDFhdFgycmw4WnBQdGF5N1hxb1Fnc2FrMTdHUmY1V3BudTREVFZIWk14NW9SXzR5Q3l4UkNMcVIxZHJveVJKZndPNS1SbjdoNkF3Skhxc1FGMzl4OHJ3bk1FR0RSRW1LUGxxczEyUWwtNjNZTmIwTnFLdU1JRHp5dzQ0bDNDWVFGZ3RmRjdiMlhRRzNuUQ?oc=5",
       "pubDate": "Thu, 09 Jul 2026 15:08:39 GMT",
@@ -844,19 +813,6 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "New KFF Poll Examines Patterns of Belief Across Common Vaccine Myths — The Monitor - KFF",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZFV2YTNIM0hTdXNQR2Z1VXlzWVdtVWhyZHF1LTk3Y0dSR0RER2JwdjFPaGliRFlCanN1dkc4VHhOamhRNmlnWWU0Z1Bxa09kVk5YT1MyU0EtajhGY3hDWjliZlNoOXA5ODhUNEdKa0lzMmI0ZWI3QWhHRkpBdGxqaEphY3JPdmx3cjVnM1ZfMGU5X3BvdkpzQXc2a1V5NExQYlhmT0Izcm1VQV80a2tKT0s3dnRUYzJ0aXl0ZXJzbjdNVlBW?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 12:00:00 GMT",
-      "description": "New KFF Poll Examines Patterns of Belief Across Common Vaccine Myths — The Monitor KFF",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
