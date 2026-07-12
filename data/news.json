@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-12T20:40:19.900Z",
-  "itemCount": 68,
+  "updatedAt": "2026-07-12T21:41:13.013Z",
+  "itemCount": 67,
   "groups": [
     {
       "key": "covid",
@@ -28,6 +28,11 @@
       "count": 2
     },
     {
+      "key": "polio",
+      "label": "Polio",
+      "count": 1
+    },
+    {
       "key": "hepatitis",
       "label": "Hepatitis",
       "count": 1
@@ -40,7 +45,7 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 38
+      "count": 36
     }
   ],
   "items": [
@@ -75,19 +80,6 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOODdjZU9CVmFKcVRiMVJNeG9lOFpRNG90ZU5KQjNZVjh0enpsZ2RtZG1YbWZjU3RhLVhyVndQLWJmTVl4SzlXNkhHVTI3NnZKUFhsOFY1bWk3cHk2UE0wald1bndkeEtFN0hTQ0VuWVdRbF9jalR6eG9FTjlEZkUtaDRCcFdESlNWSWRMT21XUndGX1djNVNfUWtrUy1MclpjVUtzV29OQzBFdnVyTU1pR0FKdk54MTQ?oc=5",
       "pubDate": "Sun, 12 Jul 2026 14:06:16 GMT",
       "description": "Evaxion presents preclinical data on AI-designed CMV vaccine Investing.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Evaxion presents new preclinical data for cytomegalovirus vaccine program EVX-V1 - The Manila Times",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOY2JOLWZBMEpuek16MjVfeHI1cjZfY2VzSVZQNl8ydllaN3hRbUpjZTh3WjlYalFTSlZiUmVZcTF3SERhQjhvd2h1WVE3azQwS09nQ0E0MEgtekZVZ0N3QUl5Ni1OODB0WkM1Z2pPR21rTjdwSFMwdm1LY05IWmNVUWswZ3VjUkM0Q0J4SEphZG5sc0VZY1hfVk9ldGk1dlM0d0tlZkJ0MzczWHYxMGs0UUtoT19FRFJQWUxTRFN6WDdvNmtGeTl0RnNSampUSjkzQWFzVGxPSWpmWEF5VGpCT2lhODJXSHVpOUHSAe8BQVVfeXFMTTc1T2VuejVTTE5SbjZ3NXNEYnhKcFV3NWJlSHlSYzBnYzBDUkczQ21ocGF0QURHWWtUcFpodGNhMWR4bXlHTUptSl9oX1c4NzY4eXQ5emVYVlRJMm9JcTNLRk45OWlaeFlaek1jaU04YlM3OGhFa2JYTU1BZUN1ZTItTGhRQXlWb1lvaWVicnlPTS1ackpIZ21uclY4QklSZXhDOEZBREtZbGFwc0kyU2VxMG9aanlSOVFMRWJMNWM3di05cnNEb0lqT3J3VE45RWU0RTNCZDMzYy15WHp1TUg5VUZOa2RWVnpCYWVyZTg?oc=5",
-      "pubDate": "Sun, 12 Jul 2026 13:50:04 GMT",
-      "description": "Evaxion presents new preclinical data for cytomegalovirus vaccine program EVX-V1 The Manila Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -197,6 +189,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "As It Appeared in The Spirit: The polio vaccine - The Punxsutawney Spirit",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOalhSQldaQ3Y0d3dXcGlCNG90WlBQWGdYUWlkVGFIanRmbHJTQlAyZVVoM21mYU5rY1lxTHI5eUgxRUsyRlJLQkVGYWNKZG1XOFl3Y0pYOHkwVkx2Unc2YzA3amtsc0syNU5YR0ZhdmRhdVRxQkxvRlRnUldTQjRKUFhlNHp2QkFTZk5ncTlOVzl1NlBVTWV2dWpYbEtfMWdRR1JQLW1iWFdGZGxhem5WX09XU3RLVm11eEQtUkZ0TFZtOFZrUllMMWJCWWZTQTJaMmc?oc=5",
+      "pubDate": "Sat, 11 Jul 2026 01:03:00 GMT",
+      "description": "As It Appeared in The Spirit: The polio vaccine The Punxsutawney Spirit",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "polio",
+      "vaccineLabel": "Polio",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -808,19 +813,6 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Who’s going to run the FDA? - STAT",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81WDYwX3VhSnczX2poN29rWTNEWUw3SjYxVDJKLVFxQTdfVXhlYU1GcXhLdGxnWHQ2bWxwY05admM4a1UxV1JscDIzVlk5Z2h2T1ZHbUFGQ2puSzBTOC1GVHhGcFhDYktYcFcyWXdpZkpwM1U3XzJsczdoa1FZWjg?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 11:26:24 GMT",
-      "description": "Who’s going to run the FDA? STAT",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
