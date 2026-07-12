@@ -1,11 +1,16 @@
 {
-  "updatedAt": "2026-07-12T15:43:46.554Z",
-  "itemCount": 71,
+  "updatedAt": "2026-07-12T16:41:48.729Z",
+  "itemCount": 72,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
       "count": 16
+    },
+    {
+      "key": "flu",
+      "label": "Influenza (flu)",
+      "count": 1
     },
     {
       "key": "rsv",
@@ -15,7 +20,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 6
+      "count": 5
     },
     {
       "key": "hpv",
@@ -50,10 +55,36 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 38
+      "count": 39
     }
   ],
   "items": [
+    {
+      "title": "Moderna (MRNA) Faces A Fresh Valuation Test Following Its Flu Vaccine Decision - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbFFsdFU1NDJXcm03cmU3NGxnZ2lJMDlHU01STUp4cWFicXpPdnVsUC1fcm1aemR4RFVIbDFSakRwNGN6a1NHVnNiY0tFbS0tUGR3TDBqUzFrTlVxLWd6c0lOWU82NnV2OXRPa1ltd015YVVtN3lFT1o4TDFkakxFT2phdjJJVjd2cHVXZDhzcm9raDdzSjc1d0ZzeWRUelI2TGpQRFA3Q1ljcm93NW9CdDlPR1JTWE5vRlNQTVA3V3BOZzV5QTFTcmhQODFNODBaNFNiY01rONIB3AFBVV95cUxPRjlwSVVORWF2UklDaHVXYmpfaVhpQ05ZTVNZYlhPZHg0VnJHbjA4OWxKcFBMTHYyTV9ieDhVNkx0bW53eDRmY281WlNuRnNGQWZRS19vSHhtYlFhd0RuV2oxbERxaTBEWjhLMUZOd2NJLW5rMkFRblpJeklrX1Jub3RfY0lmMU1ZLURqWUJZZW9mWGxwbnlUSm5HUi04MmNqTHY0REY5TlM4a3FLYnlqZW4wOHJGcDMwSGRKLWU3RnhWSGVURWkta3FTTmMxX09qZnppaV8yVk9pa1JN?oc=5",
+      "pubDate": "Sun, 12 Jul 2026 16:24:54 GMT",
+      "description": "Moderna (MRNA) Faces A Fresh Valuation Test Following Its Flu Vaccine Decision simplywall.st",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "How Canada’s vaccine infrastructure has helped guard against infectious disease during the FIFA World Cup - The Conversation",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbU9zeTNBMkJOT0k5c2dTRkQxeFJ2dTR4ZGlteFZjTnBKV0FVbml5V1NqT2pTSmtpd0pBeGMtQlRiV1RkRy02bERtbm1fTjB2VVRBZlg1Y1RSemVFSHZHcVBiZmRBWi04UG1Pc09aTUZyYkZQdzhaNlp6SDFGV0EtX0FEQVpqUlFLRlFLdGtNUXlrSzY2Y0E2QUJOcFdRbnNTZTFqR0FFWHBiRmJuVUdZX0F0SWMxTGpHbTJMc2EyRFdqeVpDSkpNTXNfZkQ1ZTV1OWxpdGdn?oc=5",
+      "pubDate": "Sun, 12 Jul 2026 16:03:17 GMT",
+      "description": "How Canada’s vaccine infrastructure has helped guard against infectious disease during the FIFA World Cup The Conversation",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Evaxion presents preclinical data on CMV vaccine candidate - Investing.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc21obGRFM3pNcVA1bmtrR01RRW1TN0dJSDFUMkVvbXYzMmxsM3hSZDQ0Q0gyTmhBcFlZS1lIdUF1UmFBc0pKWmNmTDdaZFB1T2xZWm1IVzYzV21JYVVzOE5mQk9KUS1kMjMycnZtS20xeEFheVhySG03NThEMkdweXc4UGoxZWxHQldWM2pGQkVqMzlBcG5jbWNGcmJ3VjYzMjY4aF9JZVVGWW1rSDVJeWZQOE9tdw?oc=5",
@@ -471,19 +502,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "VDH reminds parents of back-to-school shots after measles outbreak in the area - WHSV",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdDU2WllpV0tJQ2cwcHcyZXBJSWF6b0tBcWxxNlIwM0ZRRm03SGhYMFJWTkxQLVlGZTBjNW1OTHFLUmFmX1BmU3FtaThzYXNFaGRLUXdrUE1zQ0NiN3NSS3Q2ZjZWaVdhdFoxa2tGR2tWMm1rTE81YUFDM1FNSW1OdUN1cjZyZllVLXJHYWs4bldoemYzeWU2NmdyX0tyeGc4MVgw0gG3AUFVX3lxTFBzd2ttVGRWaF9hUmxnRm5DbklDMkJVall6VTBQWW9OQkpRYVJKck1ZRWl1NWdYUkV0d1RJVXhjMlA3TGJ4cWMzeDdLdDRhNVdwWjNSSHd6TkQ5dTVlZ2QzRmVkWHVVNTI4NUtwSklEQ0ZFTFdGemJ2bVo5SHZKc0dWYnNtd1NTYS1nS0pkTHA0b0xlWmZ5eUFkZm1USno2RExLdzFTUFZvVUItV3l1b2I2WlFrT2cybw?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 02:47:00 GMT",
-      "description": "VDH reminds parents of back-to-school shots after measles outbreak in the area WHSV",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Oregon pushes mpox vaccines as more serious type of virus spreads - Statesman Journal",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ3N4TXFPeEQySVpCX0h6aGdoMzJ4a0NTMEoxdjhKbm9Xek82Y3FJTEkxeGFPZXVaTUdOVy1EYk9iT0d4Q3pyMTBUQ0llc0NoSDJYWFJKLTJIWGFjb1ZhR1gyM09RTTNMYnJydVBwS2VPY2RVM2dZVklndlE1THRPNi1IcEtDZVdEOENPOWVJN0JYN3RhLTVaSVJWd1QzTkJ5aGc?oc=5",
       "pubDate": "Thu, 09 Jul 2026 23:38:00 GMT",
@@ -623,6 +641,19 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "‘Loved her children’: Idaho attorney says vaccine reaction, not mom, killed twins - Idaho Statesman",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YMjZfQ2dFUnhabmhJWmtiUHlnZFUwVDNnc0F4bnlROEQzUG5XU2NaU2Y1eElmcTA3VExTak0wcEVLQzJRNjZ4YkFnZWVaTVZ2RzdYeEF2eVFxTk5UVGN5Tl9jM0dOLXJmV0V5bHZzcUhPaFNwR0VpTNIBeEFVX3lxTE4wWk5jZnV4NWZaTm90M2JnSWxYM0MtajBnYnRSUHFhbXZVeVlIOU1PcnRVdWV3Z3cyc0tXZnlSRlZxRm0zSG1sWXl6XzFBWnpXMHZTWDJsZkEwREdtVUFrRVBXbldwSVBQRjdwODg1LXV1T2tReVZ1NQ?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 19:07:10 GMT",
+      "description": "‘Loved her children’: Idaho attorney says vaccine reaction, not mom, killed twins Idaho Statesman",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -852,19 +883,6 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZFV2YTNIM0hTdXNQR2Z1VXlzWVdtVWhyZHF1LTk3Y0dSR0RER2JwdjFPaGliRFlCanN1dkc4VHhOamhRNmlnWWU0Z1Bxa09kVk5YT1MyU0EtajhGY3hDWjliZlNoOXA5ODhUNEdKa0lzMmI0ZWI3QWhHRkpBdGxqaEphY3JPdmx3cjVnM1ZfMGU5X3BvdkpzQXc2a1V5NExQYlhmT0Izcm1VQV80a2tKT0s3dnRUYzJ0aXl0ZXJzbjdNVlBW?oc=5",
       "pubDate": "Thu, 09 Jul 2026 12:00:00 GMT",
       "description": "New KFF Poll Examines Patterns of Belief Across Common Vaccine Myths — The Monitor KFF",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Who’s going to run the FDA? - STAT",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81WDYwX3VhSnczX2poN29rWTNEWUw3SjYxVDJKLVFxQTdfVXhlYU1GcXhLdGxnWHQ2bWxwY05admM4a1UxV1JscDIzVlk5Z2h2T1ZHbUFGQ2puSzBTOC1GVHhGcFhDYktYcFcyWXdpZkpwM1U3XzJsczdoa1FZWjg?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 11:26:24 GMT",
-      "description": "Who’s going to run the FDA? STAT",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
