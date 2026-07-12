@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-12T07:16:47.169Z",
-  "itemCount": 68,
+  "updatedAt": "2026-07-12T08:10:23.345Z",
+  "itemCount": 69,
   "groups": [
     {
       "key": "covid",
@@ -55,7 +55,7 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 33
+      "count": 34
     }
   ],
   "items": [
@@ -550,6 +550,19 @@
       "sourceLabel": "News",
       "vaccineKey": "mpox",
       "vaccineLabel": "Mpox",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Still no ACIP quorum, collapsing lawsuits, and vaccine questions answered: The State of US Vaccine Policy - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWXk0aklJRm9IR3Z6SnhRbXpoZlN2SEVlSEMyQjh1cjVqTUNEVnc2UXoyMnJmZm5BMzZXdGRnMmNzZWxfYV9nSWIzVHJEV2trRGZJNndrUk05ZWl5VnNhTU9UaVlPQUFlR0R2eEJ5Zks2b2N5dFowMkxuLTBtenN5OVBsWVlocmVta21SWlZScUVEd210SU0zS2RBLUxxYXBGX3hhRTliUWE1YzZENFM1Zmdvc1lxRERFUldIOGxn?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 20:12:04 GMT",
+      "description": "Still no ACIP quorum, collapsing lawsuits, and vaccine questions answered: The State of US Vaccine Policy CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
