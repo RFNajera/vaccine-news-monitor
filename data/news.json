@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-12T10:02:31.941Z",
-  "itemCount": 68,
+  "updatedAt": "2026-07-12T10:54:15.432Z",
+  "itemCount": 69,
   "groups": [
     {
       "key": "covid",
@@ -21,11 +21,6 @@
       "key": "hpv",
       "label": "HPV",
       "count": 2
-    },
-    {
-      "key": "polio",
-      "label": "Polio",
-      "count": 1
     },
     {
       "key": "hepatitis",
@@ -55,10 +50,23 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 33
+      "count": 35
     }
   ],
   "items": [
+    {
+      "title": "Remodelling of immune system by TB vaccine may explain its link with lower Alzheimer's risk: Study - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSjdLQWJUZ0ZhVlU3eEM2bGtPMHViYlNMWGJDeVRoaG9jYmpOSnIxaGtGMjNRM3p2ZnlUZkRiNE5XNlJoRVJ0bEsyb3g4Vm44MGhRRV85eGFXZW9rd09naHJ6ZHJwcnQ2cXJSWjlhXzVxMnN6VFlXTFVyNGhKTmlFb2dfekhNdU0yWWhsSjJIb25wWkFEV1NXWEo0dVFTaGhBWU9CUFJSWElCZG9TM3pzRGc1X3pwSjBjUXlRaE9OZE5UQmE3MEt6MWg5MnR5R3VwQjNSQ0dtaFlqZEhTQ09xWGRERjI3YkFaTS03czlB0gH0AUFVX3lxTE45N205eTlRQjRELUo1R2tndk5PNEVrcmw2bHZibWtPNGtpcjBXenBvLWhWbmNrUDZLY2RTR2NNSkhjbHNUd2NpME5jWU1fd1FYQTVZbDJ5T0FkLTJZZDIwUXNINUZta1g0OTlCMjg0Q3VSTXo4VWJMbmpKNDYycWFjRHhtbW5lYjZCUXc2d3lpS1JnYzJ4b3ZRYWNtZ1JIRGpXVXNhcm9hS2lIVEV4OVpPaE5ZTjFJQ1BPZEQxSXM0dDBpLVlSRU9wbmFBX0VvTDU1WmhkTklURnpxUmNQV2xHQnZEY3ZRZ2dBbkx6cVJycWIzZFg?oc=5",
+      "pubDate": "Sun, 12 Jul 2026 10:10:11 GMT",
+      "description": "Remodelling of immune system by TB vaccine may explain its link with lower Alzheimer's risk: Study The Hindu",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
     {
       "title": "Patient groups call for shingles vaccine subsidies as survey flags 15 times risk for vulnerable group - The Standard (HK)",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMXFhVV9FZGNneHZBRWtHekdRb3NjUFc2NV84b3Z4Z1J6X1lHd2dfazROdGc3UW9aYlNTWHA2M2dvaUVJbUw4bTI4MXkwYXlfX1FneEpkRWg5OWxtVnJ1N0VncXRzMUtMME5WNWJNaVRLbEY0UlZYbDNUdDNuR1lwZnpWNlRJWFdaLXZZQzB4NVFWU196ZUpwRkhobzFyUFhGTDJyMTZSbzRJbGluaC1xbnhHeU1DRE9lMkNDQjBQQU1JQTRacGdGaGQ2SGd0MUo1NzFtTmhxTVNvQ3ZURzVKdFhQM2dGMXc?oc=5",
@@ -134,19 +142,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "As It Appeared in The Spirit: The polio vaccine - The Punxsutawney Spirit",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOalhSQldaQ3Y0d3dXcGlCNG90WlBQWGdYUWlkVGFIanRmbHJTQlAyZVVoM21mYU5rY1lxTHI5eUgxRUsyRlJLQkVGYWNKZG1XOFl3Y0pYOHkwVkx2Unc2YzA3amtsc0syNU5YR0ZhdmRhdVRxQkxvRlRnUldTQjRKUFhlNHp2QkFTZk5ncTlOVzl1NlBVTWV2dWpYbEtfMWdRR1JQLW1iWFdGZGxhem5WX09XU3RLVm11eEQtUkZ0TFZtOFZrUllMMWJCWWZTQTJaMmc?oc=5",
-      "pubDate": "Sat, 11 Jul 2026 01:03:00 GMT",
-      "description": "As It Appeared in The Spirit: The polio vaccine The Punxsutawney Spirit",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "polio",
-      "vaccineLabel": "Polio",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -888,6 +883,19 @@
       "sourceLabel": "News",
       "vaccineKey": "hpv",
       "vaccineLabel": "HPV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Brain tumors: New vaccine offers patients hope for more time - dw.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWnd5NHNXTlVnSV81dHItSG5wTlhCalZ6cTI3Z0JFVm83S2dUYlVlalM5NTFrWjBmQ3RoZWVZMXVoa3hnOFcyajh2cG9YdWQyQ0E4TWlCSDJqMnh1MldoLVo2Z3l5cVA5NU8waE5uck9BcnA0RV9ZaVlmU1g3Vzlrd3VzeDIyY2ZHcTNoZWZfSFpncUcwWHZV0gGXAUFVX3lxTE9QUTVNY21TXzhEczE2blZ0SExGbGItZlBDTkVNZ2NmUW51bVZPOHFScW1pcmFlNjNxQ3o0TmJ4UGVwNXVmaVdWMEdjSmZlaHpBTUs3R2FPMGhkQlFzVHU5SjI1SXJSRncxdm5JdEhFckNOT2xKbkVSTjExZ2xQaVVHMFptekpmY195b29XcXFTdF9CWFZRTDg?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 05:29:53 GMT",
+      "description": "Brain tumors: New vaccine offers patients hope for more time dw.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
