@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-13T05:39:27.914Z",
+  "updatedAt": "2026-07-13T07:34:33.449Z",
   "itemCount": 62,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 14
+      "count": 15
     },
     {
       "key": "flu",
@@ -20,7 +20,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 5
+      "count": 3
     },
     {
       "key": "hpv",
@@ -30,6 +30,11 @@
     {
       "key": "polio",
       "label": "Polio",
+      "count": 1
+    },
+    {
+      "key": "meningococcal",
+      "label": "Meningococcal",
       "count": 1
     },
     {
@@ -44,6 +49,45 @@
     }
   ],
   "items": [
+    {
+      "title": "MenB vaccine for students & young people - Meningitis Now",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3M5TkZWUEYyT2dpMndmTzZKT3dBSXF6UlJZX2ZoZTNDZmtGU2Q5cWdsVmRJeDk3UU02OEJJYi1mODlyamEyanFJTm5nN2ZXVEJUSDE2dm9ndWhjMlpiWmNBODU4ZFdtY0dSZzlGRzd0LXlKUVFJWVJkb0ZWVjE3MUVYbFZYQ3ZLaHNiS1ZWZ1pFcHVQZE5YR3AtZ2tCOTBidlh6bi1oUDZvdWtIdEE?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 07:01:36 GMT",
+      "description": "MenB vaccine for students & young people Meningitis Now",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "meningococcal",
+      "vaccineLabel": "Meningococcal",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "mRNA COVID-19 Vaccination Following PD-1/PD-L1 Inhibitor Therapy and Survival in Liver Cancer - EMJ",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYW5MUFF5UE9KOGljNDVCdHZGQ1IxellaT09jbXdmQ1M5YUtZT0gtUjFkLUFHYU1VTjZiejdnbGRNVmctcXFvYTZNcmlzLVlxdjlaOFEyVlZNZmRDTGlFRkVXajJnckxCbkZzd3dvTW9FQ3ItV2I5cmt1bG1iQllUOTZFUUtHaDdlODVMVVhJbDJMdExmNURzOU8tQm52OExrZUVoeUxtVHdZUkFLbk10bm1Jckd1X09RbHBkUnc4ODFSOERIUEdIOGVROFNZWUpsNnBMRWdYUUE5WXYzNDNpYjln?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 06:27:42 GMT",
+      "description": "mRNA COVID-19 Vaccination Following PD-1/PD-L1 Inhibitor Therapy and Survival in Liver Cancer EMJ",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "To Improve the Performance of the Immunization Program in Libya: World Health Organization Launches Training Workshops for Vaccination Supervisors in Municipalities - libyaupdate.com",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPNjFiREY3S3VrZWZKSjh3bWpRVFRUVTFfT3RIdFJodDM0TUZSMy1UNG1qTHZkZ3hPaEIwZUQtVm9hNk1mWDlkOU16bWZwWl8xNlIxQ25DREF4dk5ueWJmN2tBVGJLdHdYYk9HZ2dMdnpseTRESk9Zcmp6VmYxMUpHeldITGJwYWVoQ1ctcjVmTWdmdXM2V29KTzJXTFNfT0pVUkp4cWZtWlpBUUFwX0dSLXRfMThDNEJrOTNXUGZQNUJzdDVETlJvNmdHZXlCb19OLTF3djZMVmEwTWthYlRMQnpseE5HVkRfN1NJNFF3VGRkYTd3emNiUlVacUwxZlZwdnJpTHhnRldZNG1IWGg5cm12SEZMc1E?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 06:03:59 GMT",
+      "description": "To Improve the Performance of the Immunization Program in Libya: World Health Organization Launches Training Workshops for Vaccination Supervisors in Municipalities libyaupdate.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Boy Receiving a Vaccination - Lehigh Valley Business",
       "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNU0dHd3ppc1V1czItSWgzRjFiVzNabWllR3RUa2Q0QjJpQUVqTTA4TlliSk51ZlhKY3NaNkpDYjlJYWprNmxnNEJKaDE5alBQMXJENThseExfdDhoVnhtbUh1TzRORmhEOXlheHEyOTJEcnRxeFRlX1JWMGNHRHpZZlZ2Y0lha3FEbDdjd2p3Tlh2NWFTMHBEZk5IRjM3cjJPUFFvbWJnSnVRYk9ERFdtVDF6N3Y4UUJXTFRacDlUM0F3bGdBQ3pSTF9oRDh6UGdRUUFubHI3U1UzQzFuWlVHdTBmbldjaTFZMmF5WWk1OGk1WmlaLW9RTjgxOTNBOTFBcHZGem5qMVNveWdOaWtfeGFoczhUQzcyWVBTWjRYTV9jYVVVYml3d1N2VE5mWHNOcjZtS18tMnNCZEpMQVgxdk9HUQ?oc=5",
@@ -71,9 +115,22 @@
       "articleLabel": "News"
     },
     {
+      "title": "Free NHS meningitis jab available for some teenagers - what you need to know - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54MWJZaG5lZ2tRTDBYLTNGRTQzU2VudmpGM3hpcGxHQ1FEak9zcjFQYXhjMHBTdWdmX1ppemgzNUhuZTlTMUM0LXEta2VZanJ3WDZ0bWhiYm4ycVlm?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 00:11:11 GMT",
+      "description": "Free NHS meningitis jab available for some teenagers - what you need to know BBC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Moderna (MRNA) Faces A Fresh Valuation Test Following Its Flu Vaccine Decision - simplywall.st",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbFFsdFU1NDJXcm03cmU3NGxnZ2lJMDlHU01STUp4cWFicXpPdnVsUC1fcm1aemR4RFVIbDFSakRwNGN6a1NHVnNiY0tFbS0tUGR3TDBqUzFrTlVxLWd6c0lOWU82NnV2OXRPa1ltd015YVVtN3lFT1o4TDFkakxFT2phdjJJVjd2cHVXZDhzcm9raDdzSjc1d0ZzeWRUelI2TGpQRFA3Q1ljcm93NW9CdDlPR1JTWE5vRlNQTVA3V3BOZzV5QTFTcmhQODFNODBaNFNiY01rONIB3AFBVV95cUxPRjlwSVVORWF2UklDaHVXYmpfaVhpQ05ZTVNZYlhPZHg0VnJHbjA4OWxKcFBMTHYyTV9ieDhVNkx0bW53eDRmY281WlNuRnNGQWZRS19vSHhtYlFhd0RuV2oxbERxaTBEWjhLMUZOd2NJLW5rMkFRblpJeklrX1Jub3RfY0lmMU1ZLURqWUJZZW9mWGxwbnlUSm5HUi04MmNqTHY0REY5TlM4a3FLYnlqZW4wOHJGcDMwSGRKLWU3RnhWSGVURWkta3FTTmMxX09qZnppaV8yVk9pa1JN?oc=5",
-      "pubDate": "Sun, 12 Jul 2026 16:24:54 GMT",
+      "pubDate": "Sun, 12 Jul 2026 17:03:08 GMT",
       "description": "Moderna (MRNA) Faces A Fresh Valuation Test Following Its Flu Vaccine Decision simplywall.st",
       "source": "news.google.com",
       "sourceType": "news",
@@ -331,6 +388,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Ex-Pediatric Nurse Who Falsified Over 100 Vaccine Records Hit With Record-Breaking Fine - HuffPost",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbEZuQlhydTFaeVlYb3BWaDRCQ1NJbmVLNXhXbEY3OU5HMVVOWGg2ald1ZTZTdVR1dmgzS1hSWjNhbEIzcEtQb2EwMVoxQ2dBbE1wRnVCeXZub3FzU0ljclRQRGlndzlzVkJ0Mk9kQjVKdTFib2dOX3FSOVc4bWNESWZZdHRMeFJYQTFtcXM4OVFrb3RRdDh2Qk13RVo1aVAySElaaHZKMkotU2VWaTFFSTNn0gG3AUFVX3lxTE5NTHBabUtyT0hrTFlkZHhVY3RTXy1HanNSRjVxU0pTdGNGZ1ZhVTloZHQ0cjVuZnpGYTZ6U1VPOFE4MVFac1V5RHlzN2ZzNDVzZFpfbkxiSkFNTC01anZUQzRLdVhnZkxxTUlrTzhXYkpVM2pmZWlNX0dXY0ZPdVdjb2JVWkQ3TGo3dUlfZGNRU2tkR0FHWnh1WGV1MXhaOEhjc2thM2kwbGJCM0dOaDFqMWNmT2xBcw?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 16:09:55 GMT",
+      "description": "Ex-Pediatric Nurse Who Falsified Over 100 Vaccine Records Hit With Record-Breaking Fine HuffPost",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "South Africa to allow private foot-and-mouth vaccine imports - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOUVOQUR4cWFMd1piX0lneDJaVktrNTQyZ2lWeEljYndwTzRtcFA2Z1dGU25PYUxYOW1jWXhnQnJtUktXeXAxMmhtbGd2UnRwRjk3LVk4NmZsQTFEUUZ0Q1VSOGdlSmNWNDFwTjR0ekV3am5tc1ZBRnBfbnFGd1NfV3lRQ05KLVF1TlBrRUkxeHJFMXVoUGJoOEl6VXc2YXdGU1dDcUpQVlJrZE0xay1kcnpwRzhYcUVhQXl4ZEdESDZlNzJxRHo3Rw?oc=5",
       "pubDate": "Fri, 10 Jul 2026 15:35:43 GMT",
@@ -422,19 +492,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Shigella Vaccine Shows Promise in Phase 2 Clinical Trial - Food Safety Magazine",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSElIRkFZSGFRM3hnZkt4VFFqLTFRWWQ4eWlWand6X19sbVNOVTNiWlRtYnhleVpvckdFVmlQRUNSdXJUX1lZYkpuV0plQ0xJSnBkZlUzRjRkQy1YcnlIaHg5ekd4ODJoYmlNRVAwZmE5VDcwZUNLV00zSFZrcEUwTWZFZU1mdTVYTjNZX1prODU3Q2RacXE0dDVmTkpNOG1z?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 09:00:00 GMT",
-      "description": "Shigella Vaccine Shows Promise in Phase 2 Clinical Trial Food Safety Magazine",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "FACT CHECK: Claim that COVID-19 vaccine recipients will only live until 2030 is false - Rappler",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZWdvS244d2dVXzVkOTZkd0VNZjRDVlRZNVFlbEZ4NWJQeHowR3NQclNjc2VyanZpaEQxMl8zS2d6eFBKVm5VTzBOZG9OaWhCQUZuRThWWURjWGlFNk5DaHNIcjZRMFJjZkxIWlNMRUpjVzVndHZqMEhZM0dKNUNuejRVX0NoTkxGNEw2aTZzRkh2alRiQTNpbTRB?oc=5",
       "pubDate": "Fri, 10 Jul 2026 08:15:00 GMT",
@@ -470,6 +527,19 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "New Lancet review rebuts concerns about COVID vaccine safety. Here's the science behind it - American Council on Science and Health",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQenBUekdWbk9jX2h4eGhBS0lidkNiNUVNT1dHR1AyX1Uzb3pQVGNJUE9tSDc3YWZOaFhVQlo3SC1kei1STVFLSFE5WEJoOGt1NkNhQmNGQm12XzFwV05YX1lzNWtIdVA1a2FrSy1HRk1MY1NLMXFEWkpmQU1OQ3p4bjQ5Z19sa1dUZ0R1V1RKbl9yNzdlWFhqbEc2MHkxTzZvVmM4QXc5UVc0dkM3NmE1X2g3eF9maC03NlE?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 04:15:33 GMT",
+      "description": "New Lancet review rebuts concerns about COVID vaccine safety. Here's the science behind it American Council on Science and Health",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -682,19 +752,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Measles cases return to CT, but doctor says high vaccination rates should prevent wider spread - Connecticut Public",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPek85ejAxLUNDREhQYVNFeUZWUWR1aEVCNmRja1VQM20wNEJUYVBxQkdDNmgyM3lXdkJOZVpPRTZhQ3NkV0hCUktSQU9ZelZlVm1LajlqT1I0U2tKNmdBREJXQnZCcjdjQ3VwZlB0N1lBdjNUY1d0Mk54Sjg3cmJKWWRVTTFFbWpFaUxGZ2JfYXNTWkJ3Q0ZVSkZUU2ZPdS1jcE15X2lHdkVmYldWUEw0MlJyRThuMmpfeGxUUVpKbXZCeXdTbzlhRDlEZ0k4OWc?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 15:35:00 GMT",
-      "description": "Measles cases return to CT, but doctor says high vaccination rates should prevent wider spread Connecticut Public",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "As Ramaswamy vacations in Europe, biotech he founded collects $950M COVID vaccine payment - TiffinOhio.net",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONjZCb3U2VFFwVmRVcjBZcHZUMXFCak9mOUxzdWEwWDAtNFpMV3pTaHhRVGpxemZZZThIYWcwUEFVcVJLOWRYTDd2VzFIM2Vpc0d3U3V2RFU2cWI1Uy10aDNiVnVEUVV4N0FBUU4yc3VGQlZYZmFRVmZEbmNVVUJYQUY1SW5fV3h0ZEVRdkZB?oc=5",
       "pubDate": "Thu, 09 Jul 2026 15:10:00 GMT",
@@ -704,32 +761,6 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "In compensation push, HHS gears up to draft COVID vaccine injury table - Fierce Pharma",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNWRHS1JXX0swMEktUy1vSXlzVUJQNDFhdFgycmw4WnBQdGF5N1hxb1Fnc2FrMTdHUmY1V3BudTREVFZIWk14NW9SXzR5Q3l4UkNMcVIxZHJveVJKZndPNS1SbjdoNkF3Skhxc1FGMzl4OHJ3bk1FR0RSRW1LUGxxczEyUWwtNjNZTmIwTnFLdU1JRHp5dzQ0bDNDWVFGZ3RmRjdiMlhRRzNuUQ?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 15:08:39 GMT",
-      "description": "In compensation push, HHS gears up to draft COVID vaccine injury table Fierce Pharma",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Measles is back in Iowa. What to know about vaccines and symptoms. - The Des Moines Register",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdnM4dEdMTTEyT05vR0tJQmdpMi1leWE2Ynd3V09mNzhEM1pTNi1lNmE2Y01GQ0VUQVZ0M0NDSnhydVQwUkFqbjFCTDY0RmJZUVBoR2R2XzR2bW5Hc19sMmhCVDBjb082VmtDbmdtYlJTRmEtRDdfUTlzQ1gyamtSRThnWnFxS2VpTHpIdVdLV0Uxc1I0ckp5U2owb3h4bkdubFlNZWlJQUxqM0ZHUV9xLVRSY1dlalh1?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 14:30:00 GMT",
-      "description": "Measles is back in Iowa. What to know about vaccines and symptoms. The Des Moines Register",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -812,36 +843,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "HIV vaccine showing successful results in recent preclinical study - fox5sandiego.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lSmp3eF9CekRUTHBiTGlNOU1oeHlaaFJLRGJaX3BUZWJWQzN4d1hpTUNLbkVkb1JCNEt0RVNXXzEyR3pEVmNNZy1MdVJXMGt1UTM3YnFpTS1IR3F3cm4yNkpEWVRYWHBzcml3Vl9GYmpLLXN5d2fSAXtBVV95cUxPYlo1M2JCY1d4SWluaUtMZTlqbDV0ZkVzbGxOUVRTM3hZcGdJcmJyU3dNSDd2OWg1RVNXRlBZSEFyeFhKLVhmd1ZjT3RfY1pxc0FmQjM2QnRERWstd3htcmJEdGMtWUp5Rm93SUhaYmdoRDhLOWNhWWVqYVU?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 04:30:31 GMT",
-      "description": "HIV vaccine showing successful results in recent preclinical study fox5sandiego.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "Plaintiff for Anti-Vaccine Group’s Suit Is Charged With Murder of Her Twins - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZnBjOG1vUldiZDB1V0hVcUVkTnhvZlZ3X1piOElHQnJOOWpveFpaZWtPaVd3WnkzRGFWOGYzeXNzdWJYLUtLelhDT1pwbFRHbkZsOEV6U1p1VWFzRTBSYUZkZmV3VFJJd0hKX2ZmVlZ2SWNtYURidjBsVWNrdFYzX2J2eXh6Q01U?oc=5",
       "pubDate": "Tue, 07 Jul 2026 19:53:26 GMT",
       "description": "Plaintiff for Anti-Vaccine Group’s Suit Is Charged With Murder of Her Twins The New York Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Boehringer bags viral vector platform for cancer vaccine R&D - Fierce Biotech",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNWE0VjYwaFFHYlgtVEdPSFRHQnlWdmhUYjhSNWgxLXF0UnNrYVJpbWpzSk9vcnZkcVpJSFlSMGMtcHExWmZ4QVFyb0g2b1hlMlNLdEZJWl9DSGxUUUVCT0R4QVdIOEt6YTZqa1czZGhSckh6anNaV1R5cmxTcnBVQlBORlNoV2Q3aE9ORnp5cS03azBSX0dqb0wtZEo4bkE?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 14:35:39 GMT",
-      "description": "Boehringer bags viral vector platform for cancer vaccine R&D Fierce Biotech",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
