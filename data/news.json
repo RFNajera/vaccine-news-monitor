@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-13T13:11:49.398Z",
-  "itemCount": 65,
+  "updatedAt": "2026-07-13T14:11:37.568Z",
+  "itemCount": 57,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 6
+      "count": 1
     },
     {
       "key": "flu",
@@ -15,12 +15,12 @@
     {
       "key": "rsv",
       "label": "RSV",
-      "count": 2
+      "count": 1
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 3
+      "count": 2
     },
     {
       "key": "hpv",
@@ -30,22 +30,12 @@
     {
       "key": "polio",
       "label": "Polio",
-      "count": 2
+      "count": 1
     },
     {
       "key": "meningococcal",
       "label": "Meningococcal",
-      "count": 3
-    },
-    {
-      "key": "chickenpox",
-      "label": "Chickenpox",
-      "count": 1
-    },
-    {
-      "key": "mpox",
-      "label": "Mpox",
-      "count": 1
+      "count": 5
     },
     {
       "key": "general",
@@ -55,8 +45,73 @@
   ],
   "items": [
     {
+      "title": "Mother whose son was critically ill with MenB urges young to get vaccine - the-independent.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdGVZVzZOUHRXQWx4MVQtNGQzUzdWNDVEaXNCZWtLblRVYmpOM0R0aDU3MHlFMzROaFJ4cDNKdXFsQklvV1Rrclg2RDVzMjMxQjlMZTBPeGU0WEVBdGF0Ul9Hd1VhVXJEVnBMalo1dHhoTTQ0ZmtzTzY5Z0NoWS1JUFlnTGFkZDhFeVpQSDR1b0F5d0NwT0E?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 13:35:00 GMT",
+      "description": "Mother whose son was critically ill with MenB urges young to get vaccine the-independent.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "meningococcal",
+      "vaccineLabel": "Meningococcal",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Are you starting uni? What you need to know about the meningitis B vaccine in Scotland - Yahoo Lifestyle Canada",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5SXzdmQ2lPbmROWDlnSkpFaWNtTFhzN1BCc09CUUhBTFE4TWpJZmtVdTNILTlUdkZLLTFIQ3hNb0pWanVsSmZiQUlSZWVBekJYNHJEYWVjRWFtU0NLaVowdnUxZGxrRDdxUl8xd3RYbkdLMVg0RllqS3JqSkY?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 13:21:15 GMT",
+      "description": "Are you starting uni? What you need to know about the meningitis B vaccine in Scotland Yahoo Lifestyle Canada",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Ebola vaccine human trials will soon begin in the UK - Gamereactor UK",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbWJqVEY0TDdSbTBUV0dxN3BkRG52WkVaN2pScFVSRldIT1hLT01OR05aSDVfWC12enJfTVAwSkw4S3l6OHdKQi1KRy1HeGpmckNlMGhCMWxvMUxhZUhwc2NvT2o4UjRrWnJfNUtENzQ4NWZZWlpLdDg2MEgzUWR3Q29PU2FUMFQwVlhFMUdDSGlrdw?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 13:20:57 GMT",
+      "description": "Ebola vaccine human trials will soon begin in the UK Gamereactor UK",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Bavarian Nordic’s chikungunya vaccine submitted for approval in Brazil, targeting a major outbreak region. - Pluang",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNjdXRW1oYThNc0VseXg0RWpLMXBQbnI5b05UUExTaEtQd19YWXZwT2haSFpIRkNNT0NIQnB4c3R1eFBTUFpJSWtEMDBRMTdVXzRfQVVCWTdrcjdscmw5bElLQUhZTTlLVmlSeUpxSkZEMkN6WnRjSDQxam15el94aGFqMlFwZ0xSUFN0RUxfQkt1TU9fYS1RcWxZZENUNU8taktvSjNKSQ?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 13:18:43 GMT",
+      "description": "Bavarian Nordic’s chikungunya vaccine submitted for approval in Brazil, targeting a major outbreak region. Pluang",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Texas Air Force Base Flu Outbreak Prompts Partial Reinstatement of Rescinded Vaccine Mandate - thetexan.news",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNTU9sVGtOR3VGcTk5XzFEQ2RaaDl0R0tsUFh6T2k2V2lSeXprbURCeVZxN082N2l5bDZicUVORG1FY01BTDdiX0MwMHBnTlJicUtyeWhkX1Fjd2R5cGV6cGJmM3haQjNaX01hVU5Kc1FxQ1JwTmppMmpsN2ZwRkdhTmZKRW9vS1ZoN3VUU0xIdzhMNDJnbFlvOVpxYjd1NXlvaVdtdFR1dXpGN01HYnJkZWVoc2tPWW1zSjlSUVJuckM5d3hLVWNLSFNnVnZqcEI1ZWk0bG0waEx2NEo1OUp3cHd0Vm5Eck1ZZmdmWW9YSjFZV3hBMFo0RkNlbzdNQ1V5Y0sxeTJJTWhlalJEZlRB?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 13:11:00 GMT",
+      "description": "Texas Air Force Base Flu Outbreak Prompts Partial Reinstatement of Rescinded Vaccine Mandate thetexan.news",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Bavarian Nordic’s Chikungunya Vaccine Submitted for Regulatory Approval in Brazil - GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMnBreUZ3SHRNMkl2UV90ZzdNOXF1MEh3R1liRHpGSmVoZ1FFLXhHQXMtOU16cHdtMXlSQ2ZuZWY1NFdHZzE4Zkp4UGJIaVpUNXFLa0FrU1dhQ2RqSE1HS2R1Y2QtUy1FY08zMWVoOHRxWUE0eFUzQWYyeW84RF90U3hGYmdiel9IQnJSNHNqOEV2a2c3cnloNlhnT1dDSEVyc2dpbzhSTUJQUk5uNTc0U2RPOWc3d2p5blpEZlhJSjhtd2pIS3hpZ05aT3p5RVlZb2ZYZkRLMWx3VUpDM0JFTGV6NlFMVExk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUmJjQTBvNW1wZmRPdVZuc2xhbEl6ZGhDUGMxU2daNEhIeDBqakt5dlV1bGxnbE5PZWpGdkI3Q09reWp0c1JQUDFqSDVvX1lZMFZpZ0NUZEowZll6dzdDRWhEOE56d19fSmFXWkR6bUIxMFRPcmJHUEtXWFdQMlFzWFNUaGotSTNuRVNoeGp4c28xSzVjS0piVTZmaGZLcllGMDU0NzI4WGFmZGNZRmt2eWd2TUZDNGhrWkpzQVhkTFJZUUJiNndoQTBSSGlWV1dOekh1VTFMY0xMOVhWa1Y5OEJPYkU0ZHV6?oc=5",
       "pubDate": "Mon, 13 Jul 2026 13:00:00 GMT",
       "description": "Bavarian Nordic’s Chikungunya Vaccine Submitted for Regulatory Approval in Brazil GlobeNewswire",
       "source": "news.google.com",
@@ -92,6 +147,19 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
+    },
+    {
+      "title": "Delonix Bioworks Announces First Participant Dosed in Phase 1 Clinical Trial of Next-Generation MenB OMV Vaccine DX-104 in China - The Manila Times",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQX05uZFA0b21CQ0RCeUU2UEZMaV9zanhnb0FJS19Bbmtid2lwbGRfOU1SY1haaG81WUtrOXI0NTFIZy1sTEF6emMtTDJ2T0U1Z0owbWl1alFJdkxXVHBIR051MTFqQmhtcFU2ZXBjbEFVSmNUNWl6azVSaHlZZHRzdTZHTHB0WkZaaWc2UkdXTUxuUXhCUFUxUlFrOVNhamZmWTJOc1JzSzNUaVlha2RxYWQ4V1RwRW55Z3ZKUnFaOUpIbW1fQ3BQNU5aQnQtODFia1Y4NlNzWEFkcVBUbTlrdjVfZmJycUVqUDd4RVNWV205Y1pRcXdZQm9PU3FrTVJJcGJUUXY4NEh0RGllMmxSNTNFNWdTdGp2OTY1NmVVeFhKcnVKQ3VJ0gGsAkFVX3lxTE9JaU81ZzRyMlNZOUYyWXVLMk1FT1hLS1lnMTRLZEs1Skg5bEo3cERqLV85WVVUcGlqQTFIelMwc05qbHdDZThyZHpXNndqSUpjT2dyM3dTUlFMMkc0Q2ZWaDNGM1Jzd0NpS2dtOHZyWDR5MUctbGZ2MnYxSVVWTEItUktzRWZpbEE1OWlqdTNqVTlkWTloZjNVMGhLVlJBU1ZjbW5yZXdMYzFEZzRBTGVpODBlRi04OXplMUNlU1YzLWdlSTFWSjgycVEyR2EwblZxaG9lcXJsaG5mM0lsTmVHNG02aGV5enJzbFg4VTM5c1V6SEgyT2o2SmJrNzFVUlg5c01aRWRDWWtTT3RxTkpjbEx1dzdSUEpxTTRtRTVRclNsMXRVSTFqVUFiVw?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 12:17:57 GMT",
+      "description": "Delonix Bioworks Announces First Participant Dosed in Phase 1 Clinical Trial of Next-Generation MenB OMV Vaccine DX-104 in China The Manila Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "meningococcal",
+      "vaccineLabel": "Meningococcal",
+      "articleType": "research",
+      "articleLabel": "Research"
     },
     {
       "title": "RSV Immunization Rates and Vaccine Hesitancy: Practical Strategies for Clinicians - Contemporary Pediatrics",
@@ -137,6 +205,19 @@
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNd1BRTnkwci1aZkU4QThSRFYtcmxwMkpzb1dwNnlHTUszclhWdmhKQS1xVkxfOThhSVVnZ2Y4c2xzeVp0cDdDVHlqRW90U1ZUNVI5Vmw1QUs2aWpaMDRtQ2N2ZEtlaFRjQzlEQlplM2JYWW92eHJ1aTRkclFsYlBzcnBxUGtNNFg4U19JQjBlRDBCa3U1RFNha1ZQVDE3cV9EWjBkYUN4ZVhLZGtOazJZSEFqNjhKZnUwa2NpLW5sLUFhekpxYXA4eTFRT3Z2aDlkblFUbDhWTl9TUDhwS2pB?oc=5",
       "pubDate": "Mon, 13 Jul 2026 11:48:26 GMT",
       "description": "Ahead of the Back to School Season Vaccine Clinics Available this Month with Washington County Public Health KCII Radio",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Human trials of new Ebola vaccine set to begin in UK - Radio Royal",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU29aWHRPOFVaQnF5SkdOWGZBQTNCdEgwMlphUklNdm50M1BWc2d3cWRFUzBkN2JWQ2tlang1Z0thR1Vqc2R3bklwYjhQek5wUWZReU1UbW5QenRQSG5vNm94WktuNGZDLXdxVDUtRHZQS0tFWWZCQkZzMVduWExGSXI3anhVYnpUdHVkVEJEdDllcFhB?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 11:45:47 GMT",
+      "description": "Human trials of new Ebola vaccine set to begin in UK Radio Royal",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -196,6 +277,19 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
+    },
+    {
+      "title": "Oxford begins first vaccine trial for Bundibugyo variant of Ebola - KOHA.net",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQXzBWUE9tOGphd3F4S2dsWTBkZ2RTSnI2YVRBNjU1U1gza3VnVHBTbm5feGpQcnQteTlUaFhGcjBvSFlwZThoR0pOdmxNakJLb1JsMUtMUDh3NjlSNVpvTHNXV1h1ZkRkX0N4OHExQVU3a2FYRVYzQjRvUnpvUFRuazV0a2E3MnhuaHVpM3dUMGVkT3NPeV9Rdjl4YkdsUDdnbzlpdzMtLWg?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 11:05:17 GMT",
+      "description": "Oxford begins first vaccine trial for Bundibugyo variant of Ebola KOHA.net",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
     },
     {
       "title": "Ebola vaccine developed in eight weeks set for UK trials - Health Tech World",
@@ -276,8 +370,21 @@
       "articleLabel": "News"
     },
     {
+      "title": "South Africa to allow private foot-and-mouth vaccine imports - ZAWYA",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQnB5ajg2bU9nekFjdEJGVENJcUdDV29WTTBIZmVMYVlZSlBlVmdfUllQbzZySENTajJoRlAyTmhjdjRGbkVvY2M3TmN4RWd5NElxWHVLajlqQm5rUUpEQmxCY0xuMXEwWk02UDhpdjZDS0llWmJyOHBvdFF0MDh6UkJ0WGNVdjFiRjVKVDVQV2VhaFhLX0E4UU5FV2JvT2RCRXlfS0xGZktCQTNIMWc?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 10:15:28 GMT",
+      "description": "South Africa to allow private foot-and-mouth vaccine imports ZAWYA",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Human trials of new Ebola vaccine set to begin in UK - Yahoo News UK",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPdm95WUZxdXQ1dHEzTWtQRnlUajhNdXRaZHhzWE54ZlJaVGJ6bHlHZy1Ya1h3dXc0Uk5OcVdWYm5HUEkyQVowXzN4X202YVdTcXBLRVl4c2k0ZDV1OWVCNnZoMUtKd3hwZy1RNzhvSHlkcDdKSXhzVnM5bw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uZDBYNGw4cjA5VldlRXd4dzdveE5iTXBXdjl0aW5XRmhISjBxeW1zY21lSzc1VWZGWWstUkVyZjJJaktXNnVmWklaMjV6dWZaTnhQWk9YTV9ZM2hSbGpqTnp0b1M3Q3dETFMzUmctYTV1RWxpYUk2dGFMMA?oc=5",
       "pubDate": "Mon, 13 Jul 2026 10:10:00 GMT",
       "description": "Human trials of new Ebola vaccine set to begin in UK Yahoo News UK",
       "source": "news.google.com",
@@ -332,6 +439,19 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMkhIQTk3MUtkM250eWtrelhHSFVmSjVwWDZoUzJFb2dnMDU1YUwybVJ1Y1psaEhhOWZQWldqbDRZMzJzRkFwRUpjQy1TOFR6blJfREl1LXM5V1Zvano0Z2syT2t2WkNoZ0pwaWNuaFR5d0xpdGhrVFJDRVZ0UnJmNDQ3TElCUnliR3p5VkZmWkF2c1ctQ01DZXFVT1lRaXZwcml3RHlEaXhrNXlhWHJ5LTJfb0NKV3RBd0NwWUFCV0JCZEgwdU4w?oc=5",
       "pubDate": "Mon, 13 Jul 2026 09:47:20 GMT",
       "description": "Oxford begins first human trial of Bundibugyo Ebola vaccine Reuters",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Oxford University begins first human trial of Bundibugyo Ebola vaccine - The Straits Times",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYVRLYjlWY0g4MzZCSGFlTnlMUWRTRDdkYkFKenFGeVlDRVA2d0lFczVQWDlOdy1ZOFVpTksxQU1hM0dBZVJiZ2FfOTBzRHIxUlR2RFkxQVFEUzltaGVheEVKOENwdENhZm0ycjBITTNBUW1zaG5MM1pGNFE2WUFMZXVOZEJiNGxJSnM2OEJLQTZkMkI2VUh4ejl3?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 09:45:48 GMT",
+      "description": "Oxford University begins first human trial of Bundibugyo Ebola vaccine The Straits Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -402,6 +522,19 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Ebola vaccine made in UK now ready for trials - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KMVl4cXd4WWdTd0NNQzk1RUxrSzJXSENwVGxBeU4zX0FDTUw0VUpTQXN5M3QyTkdDTjJkSl9SZk9PVXVrbTVKbnB3WHNjZ21UZDhhMHBEM0Z6Zw?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 08:36:21 GMT",
+      "description": "Ebola vaccine made in UK now ready for trials BBC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -510,6 +643,32 @@
       "articleLabel": "News"
     },
     {
+      "title": "Evaxion presents preclinical data on AI-designed CMV vaccine - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOODdjZU9CVmFKcVRiMVJNeG9lOFpRNG90ZU5KQjNZVjh0enpsZ2RtZG1YbWZjU3RhLVhyVndQLWJmTVl4SzlXNkhHVTI3NnZKUFhsOFY1bWk3cHk2UE0wald1bndkeEtFN0hTQ0VuWVdRbF9jalR6eG9FTjlEZkUtaDRCcFdESlNWSWRMT21XUndGX1djNVNfUWtrUy1MclpjVUtzV29OQzBFdnVyTU1pR0FKdk54MTQ?oc=5",
+      "pubDate": "Sun, 12 Jul 2026 14:06:16 GMT",
+      "description": "Evaxion presents preclinical data on AI-designed CMV vaccine Investing.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Evaxion Presents New Preclinical Data Supporting Multi-Component CMV Vaccine Candidate EVX-V1 at International Herpesvirus Workshop 2026 - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxON2NTaFJSTmNwSlRPUWtUNUYxaTMxMXhseWU5STFNYjRmbUUxekFGUzZJcURZVGpWaDdTeVRTWXV6eXBINnBHNm9BSE0yR2U4TjZVbGhnWi1jT1lHV3Vob1M0TWdWcVJuckFuZk1aenVXa2tNV2FNTmxUb2tiRkkzbWw5aEdXT0xyRm53VU5yZENJR3VnalVFZ05KVGtSeExrX0FoR25FaE1xblJvdEd6ajNPV3VBVnB5Q1JyQXVpRWVRTjVXRmtnS0txNDRMQzZpYmJrOGRVejZCUWRsTEFZNEhLTmNrb2pET0ZJZUg2UnE4Z1A1Y3kxMVV5d0gxUQ?oc=5",
+      "pubDate": "Sun, 12 Jul 2026 13:40:00 GMT",
+      "description": "Evaxion Presents New Preclinical Data Supporting Multi-Component CMV Vaccine Candidate EVX-V1 at International Herpesvirus Workshop 2026 Quiver Quantitative",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "CEPI-backed Bundibugyo ebolavirus vaccine trial launched by Oxford Vaccine Group - CEPI",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNllGSG1jamo1RTQ4LUxzTkd5NHJlRjF0cmEzTXdyU2dYTm5ZYW5DT2w0a2NsbGpTZThQZjdGLXJHNGF2WUE0emlMVHJwemNWdkU2eTdPS2FUbXpxbVhVVERRdW1iRU1oeGM5dzdmNHY0M20yWXgzdjFuQlFOV09IVnktYVdib0ZqNE9MN3B0Z3pUVkhaaTVWSnlR?oc=5",
       "pubDate": "Sun, 12 Jul 2026 07:00:00 GMT",
@@ -521,19 +680,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "Azerbaijan health officials deny mumps epidemic in Baku - Outbreak News Today",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pdGFEWkpXLUFHNDZobnBLNWpfVExiczFZY3RJUkRQN0ZzUnprTTJicGxjM1A2V2dFV1diWUhSbzRUTGp5V2pDdm5YSzVZdFR0Y1Z3VE55OEIzRVNqUDI4QzU3bTdlTWh3WnA2VjNvRUVVQnJ4dXdwTjB1R2FDQQ?oc=5",
-      "pubDate": "Sun, 12 Jul 2026 02:12:49 GMT",
-      "description": "Azerbaijan health officials deny mumps epidemic in Baku Outbreak News Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "Knowledge, Attitudes, and Practices Regarding HPV Vaccination Among Healthcare Students and Professionals at a Tertiary Care Institution in Northern India - Cureus",
@@ -575,71 +721,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Engel: Vaccine skippers imperil communities - Boston Herald",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeUVKazJXbHgtcTdfcm1RdjE2WTBpWUVTZHJuUmltcnl1YzNvSjlSelBEZ09IRnptQVc3d1hQNmFJSFRLQmJhNE95QjVtVjgtRjFubjNjQjgzYU9RNVJ6MDJndTJSQ0VSNWIxcXl2TGxQajFHbGQ4QU5TamJLWHZaM3F4bHVQNTZ5aGdF?oc=5",
-      "pubDate": "Sat, 11 Jul 2026 07:09:29 GMT",
-      "description": "Engel: Vaccine skippers imperil communities Boston Herald",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Jabs plea from bereaved mum of Meningitis B victim - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56SXRIY3JRUGY0clVUR29ZMjhqUVZwZ183dGdVVnhDOWloa194NllYMlpMOGh0NVhlYTdBd1o0NUNyVElRYnhOWGRpWEFhS1V3X21WOUFOYVNZdw?oc=5",
-      "pubDate": "Sat, 11 Jul 2026 06:20:12 GMT",
-      "description": "Jabs plea from bereaved mum of Meningitis B victim BBC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "As It Appeared in The Spirit: The polio vaccine - The Punxsutawney Spirit",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOalhSQldaQ3Y0d3dXcGlCNG90WlBQWGdYUWlkVGFIanRmbHJTQlAyZVVoM21mYU5rY1lxTHI5eUgxRUsyRlJLQkVGYWNKZG1XOFl3Y0pYOHkwVkx2Unc2YzA3amtsc0syNU5YR0ZhdmRhdVRxQkxvRlRnUldTQjRKUFhlNHp2QkFTZk5ncTlOVzl1NlBVTWV2dWpYbEtfMWdRR1JQLW1iWFdGZGxhem5WX09XU3RLVm11eEQtUkZ0TFZtOFZrUllMMWJCWWZTQTJaMmc?oc=5",
-      "pubDate": "Sat, 11 Jul 2026 01:03:00 GMT",
-      "description": "As It Appeared in The Spirit: The polio vaccine The Punxsutawney Spirit",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "polio",
-      "vaccineLabel": "Polio",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "HHS compiling list of injuries eligible for automatic COVID vaccine compensation - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN2VIQkUwNEg3NllnWkFuTmlXY250RGtJOHZQRk1qZFYzLXEzNktEVzg5VUc1c0I0TUhpbkRwV1I2MWJVbEQtYjE2eVZLaXl6MUQ2SHg4ejVaX1VJMm9NOEpnY21mSTVKM21HRFJtUnZ5WC1zQmU3eU9taVVhcm5EUTVfQUJ6QTlyZU5kV2VXYnprUjd2R1NvZDI3ajRWRG9TVnFGemstYVNtWkFoSGI3Tw?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 21:22:00 GMT",
-      "description": "HHS compiling list of injuries eligible for automatic COVID vaccine compensation CBS News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "North Beach PAWS offers final low-cost vaccination clinic of 2026 - The Daily World",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZk03T1ZBX3Y3ZGM0RjFHWTVQbmdMZFRlVGZ2VWllNW9QN3VpS0paS2xPYXpUYjlVaUZpTHlzWTNZRVcyMy04ZHQ2Z0txeVh4aHZxSEtuMEVnRkxXTWw4Rjd6bTlhUkVxdVFCWDZBWmo0bGxtMDdKVjJ6UW9XRENsZFB1M3I4TExUb0c2c0x1a1hrSWlCb05Rb0VRV3ZPN192U2xRSWdBSUptelE?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 20:22:21 GMT",
-      "description": "North Beach PAWS offers final low-cost vaccination clinic of 2026 The Daily World",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Study shows how toxic RFK Jr.’s change to measles vaccine is for US toddlers - Ars Technica",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM3ZsZ0M3VEJHV3hQNkV3LUpxdXFqQUdlNjJGQlFxZnRMQzZ1X1ZTS2lia0NZbWpacjNGQ1FYTVcxY3QtLS1jRDVBd19UbDhoUTJ5RjhvY2RsNnJWSk9rdEtkNWdxWE9heFlkZ1FLWVZZNE1lMGVsQ3BLM2xNdkVPT2RSeFhqcGZkSFlCbVlVRzZFcjZPNWRoa2l2Z09ORXctRzJzRldOcUJ4XzRsZHpteVdUWnNjZ09tOGc?oc=5",
       "pubDate": "Fri, 10 Jul 2026 19:25:04 GMT",
@@ -653,127 +734,10 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Anti-vaccine lawsuit's lead plaintiff charged with murder; 25 states sue over Medicaid work rules; ACA premiums set to climb again in 2027 — Morning Medical Update Weekly Recap - Medical Economics",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPZUptNldqNFZGMHB1VWRhcWpGYms4NWphVWJyQTZuRTktYnJtTV83TjZ1c3BoQ2dadVRiQzdaY2hHWlJENS03ZnlSZndYYk1kTVlKOW1BNGtJY09RMXN5bXVtOC1PN01XZE5pbmUzLVZuM3JOT1N5Wl8tXy1leVFyTDQzWkUwTFZYVUVsYzFPYTZzVExfMzYteW1uenFLQ1U4ckh1cWppQ1YzZFl2S08tdmxBdm95TUhYQjhvRzN4cFJQcHhONWQ2WUE3OUNHT0x0VUtpa1hUWXBXNWNXLWdDOFAzVlZaUkVVaWJ1VEtUcWliMkNkSjhZMWRhRDNpd3JDUTdpWTJ6cVBxRlFnQ1FjSjM2ZjJWU1hNV1dMV3luXzNqemF1ZTFtRXZfTkVzUWNlYjFUSQ?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 18:33:50 GMT",
-      "description": "Anti-vaccine lawsuit's lead plaintiff charged with murder; 25 states sue over Medicaid work rules; ACA premiums set to climb again in 2027 — Morning Medical Update Weekly Recap Medical Economics",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "MDHHS Updates Immunization Documentation Process - Michigan Health & Hospital Association",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZFFsemRVczM5MVFNcmpkS3gzaEZSQnZUN2tHNVRNeHNTMWpuZktMcDBEWVRwSEdfTXFGWF83X1JXMktTTENJX2otWnBjdnViVGNseEl1WjVURlNsS2R3MzQ5MThHNTlrTDhmUFlxbGJoVnlWWE1HLUkyVnRkME1jNTdGTlU?oc=5",
       "pubDate": "Fri, 10 Jul 2026 17:19:17 GMT",
       "description": "MDHHS Updates Immunization Documentation Process Michigan Health & Hospital Association",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Broome Co. Health Department, BC Transit partner to offer free rides for back to school vaccine appointments - WBNG",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSDB0NE5CbmlFU0ctQ1BNQTlHLUNxbExXMmUzX1JEYUU4M0ZWVV82VzJKV0VIdzlLdS1uZXdGRzFDMkxyd1hFNXhkaDBxSFMyNW9CZE1udTY0LUNqOW1hci03QWo4YmtLTEpISS0zenBOMHlPbUdDYTFjVjFSdXNoUlc0NEx2YUstU3VQVl9jcFNPRnpibU9nU0ZXRGw2cTJwdXc3MzY2TjB4YmVqTElreEJXWF8xcDRvUHJTQnVWSUxwYUhXMXpjMdIB3AFBVV95cUxPbXFWS25ILUdBWkNyUjZuSFdqOXpLWERkTUZMSmpWLVJ4eTF1alpDUWtsOVRMLTNYUTEtVDhta3E1OC1qY0xkSllNUWQ3Y2piZHp1enR0ZXg4dFpEVTkzLVN1M090OFdwam1nNzFVV3RiNGR4V2tXV3NLYUJvMEhpWERVYWYxdHRIYTR3YjdlVy1XSW1UQTUtcEtmcC1rM0RybTVVeEpDNG1BWnZEX0N5ZGIyX3ltOWNkWEF6M0ZubmV4d3R2U2d3Y2xtRUhSbFEteXNNdkt5ZkJmcVpk?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 16:51:00 GMT",
-      "description": "Broome Co. Health Department, BC Transit partner to offer free rides for back to school vaccine appointments WBNG",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "South Africa to allow private foot-and-mouth vaccine imports - WTVB",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaFNUclRyRG9DTTFIbFRhc1lObHYxcHI1TkRTWW85UW5zNjBVd05mZVktYkZlbXc1ekhobDFzUWlrek5UQ0FLdndOTlJnaTgyT0JOVl9IRGY4TGNGS2ZybGhVVEVhU2lPX0tGaEttbW9qYkFrSFIxZVUwbFUweVJHU3FwNnZHWm1hM3ZZUEs2RVM5VGxETkE?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 16:09:14 GMT",
-      "description": "South Africa to allow private foot-and-mouth vaccine imports WTVB",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Here Are the Groups Impacted by CDC's Chickenpox Vaccine U-Turn - MedPage Today",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jTUNPWGNnemRxU0F5OFJ1NmQxbEtxVUN4LTJwYVlyQXpwblVYaDhKb1VmRGhTNjhLMjNJYUE4VnBGQm15N3FNQ3hYSzNncGQ4dno3eG1uOXpFWmt3UmlRbkctd0k1QQ?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 15:51:34 GMT",
-      "description": "Here Are the Groups Impacted by CDC's Chickenpox Vaccine U-Turn MedPage Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "chickenpox",
-      "vaccineLabel": "Chickenpox",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "South Africa to allow private foot-and-mouth vaccine imports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOUVOQUR4cWFMd1piX0lneDJaVktrNTQyZ2lWeEljYndwTzRtcFA2Z1dGU25PYUxYOW1jWXhnQnJtUktXeXAxMmhtbGd2UnRwRjk3LVk4NmZsQTFEUUZ0Q1VSOGdlSmNWNDFwTjR0ekV3am5tc1ZBRnBfbnFGd1NfV3lRQ05KLVF1TlBrRUkxeHJFMXVoUGJoOEl6VXc2YXdGU1dDcUpQVlJrZE0xay1kcnpwRzhYcUVhQXl4ZEdESDZlNzJxRHo3Rw?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 15:35:43 GMT",
-      "description": "South Africa to allow private foot-and-mouth vaccine imports Reuters",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Senate investigates what health officials knew about COVID-19 vaccine side effects - KBOI",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNVpsRG5JZVRiT2haRFJ2WkpZNVlZV0JvN3J6VEE4Z0l6cFpOekpfMDBabmh1N25rYXhxTW5VWWluT0JZaEVkTmtJM2dFY2xRQWVIM2ZUUWdQMmRfUEFsOENSck52Mk9tcElCck5RcGNFR1JxTGVkMk5KRnRFQmhmUWFWMmN4SW43MUE2c1NDYVl2WTlUY1JYMGpnV3NJUmE4V1BjMlVpNWNVYzJUb1o2cVhkd0c1c3drWUl6Zk1ZMVdwTHVoUGJjeXNhbWFXZWNIdzFpQTRwNA?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 15:08:43 GMT",
-      "description": "Senate investigates what health officials knew about COVID-19 vaccine side effects KBOI",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Record penalty follows high-profile COVID-19 vaccine card scheme - Cleveland.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb0tPQk14SGVUQ0RoOUhpajdYdFZOclJPTXhsdzJTWkhfejl5R2h5dzgybGxmZnBmSnlMMDN5SWhyYmdWVllPdExaMkQ2emVXd0V4VUZJVEZsY1RxT291anR4d0ZiZHk0X1dQTC1OYVd5WlFpZTJkT0xjNWk3TXBLWG5veWJ4dDd5R2ZXeEp0OG5jRk5QWXdWYms4MTRfa1FZQzVsZV8walpMY1ZO0gHAAUFVX3lxTE0xUGc0alhsV3p5TFViTDVqOHhNbkZlY1hBZUxnbDNEUHozUC1jdUZLMzBiM1doVkJOaktZNWY1eTVHTUk1UllVdjA3Wko1Q1hlMllKNjF6WVpnV0RMLUtja2ZFM3c1ZjMyM1luc0dSb0FBX0lRWWNxOU9QSkpfWkQtb1cxdjE5QzFRTVRkb3ZVYlhTdTRPR1ZhNFotV1ZKWThEdUlaZGhzc0NiVktJUEV4ZHNZWENXZGp6Q1MzMmNwcw?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 14:30:00 GMT",
-      "description": "Record penalty follows high-profile COVID-19 vaccine card scheme Cleveland.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Ex-nurse hit with record $544k fine over falsifying children's vaccination records - WKRC",
-      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOYWMwNjZoVC10b2wzS2o5cEo3Wm9ma2I0Y0lqSHRjN1pJXy1YQUU5djR0T3Z1M2Y5VlhyN1drZWZSVG9JVGoySnZjN09ZODhVNy1OY2lBZmhZOGpDWkgtbXhjOWM4b2dLdnd0eExXbTBBNDdjQzI4Y0R5U3NsQUlVWXFoeThDdVV1TGVDX3laaC1DTXZTelpBVHhQZzZVRk80YWVhWDk1clB6QkJoSlYyMG1sU29VOXZLaGZHbWNYZkFKWi10QTIxUTVPamZ5dEh6RXZ6M3RLYlptbVNrYUctYmdLVTVFeXVqOWNRMlQzWjdqNl9HcGc0NnF5TFFINlVIOFRBWjM2NmVUSEpobWIxYmpzZGNxR0FEZWJmaTZaNElhcVk4ei1QeFYtVTBKLXhxbjBZbGUwLWRyX1lOMmxZblQ5WWRyMlNOQ2tKU2JEbmk1U1NrR3BaeWFXbF9LNFR1OXQ4VjZ3Rm1jeUtLVEVMTWlzaw?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 10:31:58 GMT",
-      "description": "Ex-nurse hit with record $544k fine over falsifying children's vaccination records WKRC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Pfizer Vaccine Dispute Hits Polish, Romania Air Traffic Agencies - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMDhlV2h5aFNoemxBVnczS0wxbThFRUFrRUZ5NzNpakVzQmRHTmFSUjJNX2pGaXJvN3lkOEFyaG5PN0lkMmF6akVPNXY3TzlWc0UyZDlfZnRHVWszbWVqbGhvVzkxQmJvYWlpU0kxWWtKOF9nZmM3Y0tmMTd4YmN0VTY0WVM5RDNpM01uYkZlR2llSWdfOFpDdzhPSm93YzQ1V2xYYllnQ3UyeGxkVWUyOEtyN3k?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 10:03:09 GMT",
-      "description": "Pfizer Vaccine Dispute Hits Polish, Romania Air Traffic Agencies Bloomberg.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -796,45 +760,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Former N.Y. Nurse Who Faked Childhood Vaccination Records for Over 160 Students Faces Record-Breaking Fine - People.com",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSHgxek9sM1RlaWFDSUQ2TFpPVEdXYWlDdkVTV2FXVUZFUGFhTlBPY1hXWENVWmNsUzNOMlJJLVVTS3phS3JZVTJFQ01ZR2trR0wyX054MWxsYzFRT01BWUtaSnFLa1ZxWk00SzZpQkRaV1F6Q0tUTUVoMUxReldTbUNzVFZydldIOGdOa2NyMVNyNEFrWk11ajYwMWUtcVVlX0IyM3E4QzFTRjY3VUxHR2FUN2dmM1BGY2RuT210RXpoYzY5NWU0SEp1U1lHdw?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 03:12:19 GMT",
-      "description": "Former N.Y. Nurse Who Faked Childhood Vaccination Records for Over 160 Students Faces Record-Breaking Fine People.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Oregon pushes mpox vaccines as more serious type of virus spreads - Statesman Journal",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ3N4TXFPeEQySVpCX0h6aGdoMzJ4a0NTMEoxdjhKbm9Xek82Y3FJTEkxeGFPZXVaTUdOVy1EYk9iT0d4Q3pyMTBUQ0llc0NoSDJYWFJKLTJIWGFjb1ZhR1gyM09RTTNMYnJydVBwS2VPY2RVM2dZVklndlE1THRPNi1IcEtDZVdEOENPOWVJN0JYN3RhLTVaSVJWd1QzTkJ5aGc?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 23:38:00 GMT",
-      "description": "Oregon pushes mpox vaccines as more serious type of virus spreads Statesman Journal",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "mpox",
-      "vaccineLabel": "Mpox",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
-      "title": "RFK Jr. plans COVID-19 vaccine injury list - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM0lJYkNXMVN3WUNNT3AtZGRjam4zR21JNEM2bVB5QUNCTmp2OUd4eV8zdDRqaGlWbUViY09zNm0xYjU4LWJFYkhpMFRTcDVsblg5YjBGRktZZ1FHRjRjal83bU1leW9BV0dSZUhNdlRfY19kTFNNdzZrSDhVcmhWRnJNNHlkUdIBiwFBVV95cUxNVnREMEVveDVWZEV3VTdrUVJHWi1IZVFLaFZ5cUdnczBDbGtWeWp1aDhjQWhxZTlIejFNQkx0WTNPeDh5NUotVUJNV0dhTjlZNGlJMllVOE5SVjVSLWwyOFd5b3VJV1g0Ynh4NnpLeWN3aWdack5IMkxLWmppU3VIM0liY1llRDFaTjNz?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 21:28:00 GMT",
-      "description": "RFK Jr. plans COVID-19 vaccine injury list The Hill",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Still no ACIP quorum, collapsing lawsuits, and vaccine questions answered: The State of US Vaccine Policy - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWXk0aklJRm9IR3Z6SnhRbXpoZlN2SEVlSEMyQjh1cjVqTUNEVnc2UXoyMnJmZm5BMzZXdGRnMmNzZWxfYV9nSWIzVHJEV2trRGZJNndrUk05ZWl5VnNhTU9UaVlPQUFlR0R2eEJ5Zks2b2N5dFowMkxuLTBtenN5OVBsWVlocmVta21SWlZScUVEd210SU0zS2RBLUxxYXBGX3hhRTliUWE1YzZENFM1Zmdvc1lxRERFUldIOGxn?oc=5",
       "pubDate": "Thu, 09 Jul 2026 20:12:04 GMT",
@@ -848,49 +773,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Former Suffolk nurse who falsified COVID-19 vaccine cards hit with historic $544K state penalty - News12 | Long Island",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOWxseXZJTmxMc0xsc3UxdU1MOEpMdERSblZMSXRmYlNiUVdwY1FhaWdRZ1RxVXFuUngyZXR3dzRGN1MyS1hTOHltV0x1cF9WMHJtY2ZjMjFBOFNsd1AtTy04ZUQ0WjFuTFVpRUZPSDFkdzZGOU9yNmZIMHNKcEh2elFwODk1dXhZWXBsaG1xT1B6VDVjRVFUS2ZHNklUeC10RWNQZ2RMY3JaMlA4RU5uVlBnZXBBNmpxYTNER3AtcWlLMmNabnk0dWRoUDlXckw2UFFqTGtEQVhtOVN3WXVrT3FMT0hJZlo1LU44dDJQcw?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 18:35:36 GMT",
-      "description": "Former Suffolk nurse who falsified COVID-19 vaccine cards hit with historic $544K state penalty News12 | Long Island",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "A no-brainer for protecting your brain - The Economist",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWUlqMk5Td19keEwxYk1Rck5TTXdFUkdOYzJNS1JnNEJlWXE5bkJPOW12WG1jZzlzSG9ydVcyVkRkR0I5aDRpZlBoRHBlbkgxRWJJTmhnSkRweW9RaU9SYVFET2tydVZwaHBIZ3dqeWF6cTl6b2Z4MHNLQVlDZWhoN0U1aUhOWmNuYmhv?oc=5",
       "pubDate": "Thu, 09 Jul 2026 13:03:07 GMT",
       "description": "A no-brainer for protecting your brain The Economist",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Moderna wins EU contract for RSV vaccine supply - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcTVCVnkxZk5MNExDemVjYXdMTzgwQUtUdTBKVWxvMU96TUdCRlFjaG56alB4OU9kLS1sa01XQm5YbUVJSVFxVDJQaXdycHVNVWFEWklYcEF6RFBDZmJZb1hMLVdZdEs4WW5zdmRWSEhhaDhlMDlpdzN5cFhLeE1yUXF6VXp6cV9ERWxHdEdjRlBoaDRHdG9CWHp2LXJFVjVuZjN5bzRaRFN6ZnNqTmJoTkhIcTlJQQ?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 12:11:49 GMT",
-      "description": "Moderna wins EU contract for RSV vaccine supply Reuters",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "rsv",
-      "vaccineLabel": "RSV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Mom who claimed her twins died after vaccination indicted on murder by suffocation charges - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcWZfYUhlTkVXd3prU1RCa3lOandDTy02XzlwaUszY05XcGtiakpubVpxTEdCVWQ3Q2haTTBQeFEtQ0NFOGs3OVIxOThIQnRZczluTzFodVI1a0VST2Z1SDUwdW1Ybm5rZEJXcW13dzhIaTMwaE1aVHZZc3FFV1JvZWU2Y1BJakZQRW11SWQ3UjFzZ9IBlwFBVV95cUxQLTdRWUQ3MW9kR1lqSXBWOVdqSTdZY3VHcnlKbDg1cnBoSGI5dkxOSTRjWm1wQmUtVExXWUdhTENGT01qSUNkZzJkQXJzbTFZWUtmWEFDazlMR2lLSzhEU3NxUXBweDBMWkVGX2thNUM1NTRVeWhzWnF4Q3NfcXNjSmZxc1dSWXF4RDZRMHJSN3FaaWw5d3hj?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 01:28:26 GMT",
-      "description": "Mom who claimed her twins died after vaccination indicted on murder by suffocation charges ABC News - Breaking News, Latest News and Videos",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
