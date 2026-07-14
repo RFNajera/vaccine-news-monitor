@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-14T03:32:29.535Z",
-  "itemCount": 65,
+  "updatedAt": "2026-07-14T05:16:34.040Z",
+  "itemCount": 63,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 5
+      "count": 4
     },
     {
       "key": "flu",
@@ -35,7 +35,7 @@
     {
       "key": "meningococcal",
       "label": "Meningococcal",
-      "count": 3
+      "count": 2
     },
     {
       "key": "mpox",
@@ -49,6 +49,19 @@
     }
   ],
   "items": [
+    {
+      "title": "Vaccine trial launched in Oxford in response to deadly outbreak - Yahoo News UK",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZGlNV0RIZk1pTzBKc2lOQkM5R0hnb1FXb2UydFc3STdqUVV0VVYzYUVXRExkc21DRms4THo3RDFFMFRwZFdZekJtX1dyazd2aVdTcWV1MEUxcXl2TWd2UjVIWDRReDFWeVV3QjRHWVM4ZU80QVZBYVFoaDZhd25yY0hhR3djZw?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 04:00:00 GMT",
+      "description": "Vaccine trial launched in Oxford in response to deadly outbreak Yahoo News UK",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
     {
       "title": "First human trial of Bundibugyo Ebola vaccine begins - The Seattle Times",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNelJkV1RkZW5sdV9IUTMyWkxDV013S2c2TkNzb0tpQmt1V3Y2ejI5MndFbnRIM3FmUFRIODQzZnUwMlY1czdja3JiaDdCdHVKVFRKOFFuck01WUJDc3BWM19IUVQ0eTVqZmswNmMwUXowY1dIUEhueU1SSk9mRWdvWWV5cS1VSVUwSk9sOHdITmhDVTRDeGI5czcwUmN3NDBwNGgxQg?oc=5",
@@ -128,19 +141,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Polio Made Mitch McConnell MAHA’s Enemy - Mother Jones",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUUxPVVQ1NkxVSEs3NC1vbW03ZzQxeFRzR2hJMjZjM21JM1VqUWlxNWRyRzVxM0h4SHE3ZF9PNURjS3JUR2hfM3R1OFczTGwwcXh0bzhBX0ZzTFk1b2h5UlBwYkpJMFhiY1BmM2JCUlJpSWpyZUgwQkxTQk5OeTl0UzZEck5wazl4QVVWUWhmcXpLTHBGNEE2ZUNLRXlfbkRMaWUzMXBDNU9Tal9IVDA1QQ?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 22:25:01 GMT",
-      "description": "Polio Made Mitch McConnell MAHA’s Enemy Mother Jones",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "polio",
-      "vaccineLabel": "Polio",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Free back-to-school vaccine clinic begins in Texas City - The Daily News | Texas' Oldest Newspaper",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPakxqYjRUUUpTU0FLSW1CUi1xcFVaQ0kzaXprcmFrR0k1STFmb01QRERsbTVJWGVoa2hWZHZESmFwUVNHdFlHMXZROFJiUExjaWxYdnc0NlN6VENrYnNMSkpsdTJhLWhuQlprZVFzODlmaDh2MEJod1g4MjN6Z2RvOHdKSDd2N1V2OVdyWkxKT2dPT0lmVHAxdk50dzVOTjYwamplakt4N2ZVNFdnSkdEdElkbUdzMU5QNDFCdUdkRUJJbmZ2UWFVOTlzc3daLUdB?oc=5",
       "pubDate": "Mon, 13 Jul 2026 21:33:00 GMT",
@@ -165,6 +165,19 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
+    },
+    {
+      "title": "Polio Made Mitch McConnell MAHA’s Enemy - Mother Jones",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUUxPVVQ1NkxVSEs3NC1vbW03ZzQxeFRzR2hJMjZjM21JM1VqUWlxNWRyRzVxM0h4SHE3ZF9PNURjS3JUR2hfM3R1OFczTGwwcXh0bzhBX0ZzTFk1b2h5UlBwYkpJMFhiY1BmM2JCUlJpSWpyZUgwQkxTQk5OeTl0UzZEck5wazl4QVVWUWhmcXpLTHBGNEE2ZUNLRXlfbkRMaWUzMXBDNU9Tal9IVDA1QQ?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 21:07:48 GMT",
+      "description": "Polio Made Mitch McConnell MAHA’s Enemy Mother Jones",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "polio",
+      "vaccineLabel": "Polio",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Midland Health Services offering vaccine clinic ahead of school year - Midland Reporter-Telegram",
@@ -349,19 +362,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Longevity Gene Therapy Holds in Aged Dogs: Pfizer COVID Vaccine LNP Partner Backs SIRT6 Platform - Tech Times",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdjlrRWRkVEV6YXkwaU5LZ3A0WlpKNTFHVGJMZ0NJMEhJWVF6V29zZ1dKVGVOZ183ZEVKV044S1IzcnNlYy0xaExManFWaEJMWTQxbVMtOVVmTDVzLTFndnlyWW4xdVBnWklpR2ZiSnZHZ3dxOWVJalBVdnZ6eXFUUUN3XzVvZ3NYVWpzSE9Ca2ZKMm84NVNZc0ZzQ29ZZEJ5N2F6SnJvVmpTREZIYzVIZENUVVRudWhrbjZtRDJ2c1IycDBCTDZhQVdUMnlMcHNGb0pOOHdadDRwUDZ6RExtRg?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 15:06:11 GMT",
-      "description": "Longevity Gene Therapy Holds in Aged Dogs: Pfizer COVID Vaccine LNP Partner Backs SIRT6 Platform Tech Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Face the Facts: DPH commissioner discusses Connecticut's vaccine strategy - NBC Connecticut",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWWNiZmZ6RHlSWjFtQkJQd0s4UWZUUm5IbDNtc0xUSFBRbkFnc085Q3FRdnpVLTkwOHZFU2ZsMkdSOW8wZzRwSWxFMVBtajN6dkpFYWE0alhzdDJqZ3FXV1hpTTFabl9kbVN2cXh4eDV0MzJsU3VCTjlPSzhNNWtnaWdzLTl2OVlPekhGSXFmbHFhZlNxNklpVERGcWhKb3pCZ2tUN3Y4THdvU1loeTlza1ZUS1N5SzY3eWVnOVg4VmxhWjNnTkFrYVg2UnpoOXJKVzhObnlGTdIB3wFBVV95cUxQSzl1YjVhR1lXTGRKV0lFb1VldFhKOGlBc2xlUEVUelNmWEV2d0pZSmZtdGs2eFBKMEh6MGliU0RyTGVKb2pRNTRuVFdTWDd1VloyLThtV3JBTWdoYlJSV1NRQWx1VWFudHlTTGY1TGNiVnRnTEYzN0VHYVhqcldBRkVjMEl2TTdraFZhRTQtb3huT05OSllBV2hKQ18xLXk1dFMzZE1fdGllUFZ1QmhmaHdrWEVrOWc0S1RmYU53LUpXY1NQRkFpRUFDTE9tMHlWV3NBT19NQmlGckYzWnpj?oc=5",
       "pubDate": "Mon, 13 Jul 2026 15:01:54 GMT",
@@ -415,7 +415,7 @@
     },
     {
       "title": "Are you starting uni? What you need to know about the meningitis B vaccine in Scotland - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CLVFIS3d5c09adG5ESzZaMloxdzU5aE82RmVsaXZQenQ3ZFJCUTJobWRCd19IS0ROZlRHWjFleUtzamYxZzlhVlJEQzRYdURPNU9DVDFyTWZ5Zw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rMXRvUl9IZ0NzOG1Kc0Rrd3lfVDliMnYtRUFVTm1qT2h2NHlXSGxDWU9fQjFjSWhzZFp6dl9WY2diejFCZWg3bWs5bW9jUGdJYlpqRFlYSjdpdy1B?oc=5",
       "pubDate": "Mon, 13 Jul 2026 13:20:30 GMT",
       "description": "Are you starting uni? What you need to know about the meningitis B vaccine in Scotland BBC",
       "source": "news.google.com",
@@ -579,19 +579,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "University meningitis vaccine rollout opens at pharmacies, what parents of teens need to know - MadeForMums",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMkVLTEhLVjFkTWdZWlhTNW00NmNWRWVmOW1oQUViNlQ2eTlmN0lENTlpVzVheFhWVEJ1YkluZVhHWGdfdXlhRm5udllsbVlwTEs2bVFzRHRSbjNJM2pVaENITGEtbW5Nb0g3eWthUXd0N3VyeGxjMl9wSGRheTNWTHl2b0ZrcVFUNVMta24tMVZaV3c4YnpDM0ZUVnhaZWg1SWdZSVE0YmpSVjdJaXAzOWZMUmN2a0lBUFcxd0d1eFNuVkljRU5kblVaMTJZWFQwMU5nRg?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 10:49:40 GMT",
-      "description": "University meningitis vaccine rollout opens at pharmacies, what parents of teens need to know MadeForMums",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "meningococcal",
-      "vaccineLabel": "Meningococcal",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -852,19 +839,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Still no ACIP quorum, collapsing lawsuits, and vaccine questions answered: The State of US Vaccine Policy - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWXk0aklJRm9IR3Z6SnhRbXpoZlN2SEVlSEMyQjh1cjVqTUNEVnc2UXoyMnJmZm5BMzZXdGRnMmNzZWxfYV9nSWIzVHJEV2trRGZJNndrUk05ZWl5VnNhTU9UaVlPQUFlR0R2eEJ5Zks2b2N5dFowMkxuLTBtenN5OVBsWVlocmVta21SWlZScUVEd210SU0zS2RBLUxxYXBGX3hhRTliUWE1YzZENFM1Zmdvc1lxRERFUldIOGxn?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 20:12:04 GMT",
-      "description": "Still no ACIP quorum, collapsing lawsuits, and vaccine questions answered: The State of US Vaccine Policy CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
