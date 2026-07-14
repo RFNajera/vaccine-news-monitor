@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-14T05:16:34.040Z",
-  "itemCount": 63,
+  "updatedAt": "2026-07-14T06:09:52.190Z",
+  "itemCount": 66,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 4
+      "count": 5
     },
     {
       "key": "flu",
@@ -35,7 +35,7 @@
     {
       "key": "meningococcal",
       "label": "Meningococcal",
-      "count": 2
+      "count": 3
     },
     {
       "key": "mpox",
@@ -45,22 +45,61 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 44
+      "count": 45
     }
   ],
   "items": [
     {
-      "title": "Vaccine trial launched in Oxford in response to deadly outbreak - Yahoo News UK",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZGlNV0RIZk1pTzBKc2lOQkM5R0hnb1FXb2UydFc3STdqUVV0VVYzYUVXRExkc21DRms4THo3RDFFMFRwZFdZekJtX1dyazd2aVdTcWV1MEUxcXl2TWd2UjVIWDRReDFWeVV3QjRHWVM4ZU80QVZBYVFoaDZhd25yY0hhR3djZw?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 04:00:00 GMT",
-      "description": "Vaccine trial launched in Oxford in response to deadly outbreak Yahoo News UK",
+      "title": "NSW sees large increase in cattle tick vaccine orders after a rise in outbreaks - Beef Central",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMVA5X0xlVEp5eEpoMTVTRGMtSEZ6V25hd0I0aWRtOUNxMV9yYnkzaFlsTVpSSk9GTnJUcmN4dDZ2aWp2dU1sNDM0aENDZUdFQXVaUVNwOUhYb25yb2lrZWZNRjlnMVhFd0xkUE8zN1MybUt4N3dXN3BqYmprU2JBelpjRlA5TjlTeEpuQ2dvVFlZVFdvVVpicU94N1MzNjZfenRyM3FLSmNUSmswd0R4aWxkS3BkQ2NXbHRz?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 06:04:39 GMT",
+      "description": "NSW sees large increase in cattle tick vaccine orders after a rise in outbreaks Beef Central",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Delonix doses first participant in China trial of MenB OMV vaccine - BioSpectrum Asia",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb3JQRUdJWUY4cGRFRUNyYzNfTnNYZkRjSUxhbUVEWVJYTElpbHo4WHJIQ1NHbkw3SWhEd0UwU2Rvb1pxVFB1SVVmT2EybmVFSkhjT2o4UUJaMEpIbmh0UlJpNThlM2NaN2g2ZGd1ZFlPOGYxSXJ3akxuN1ZGaUVlNE5kVFVjRG1vUzlVTHh0ZnVkcG5URWRnUXNtMndFOVlNVVB0dGRhTGZ1ejBoRVQ2cFJIYl9pUkhH?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 05:56:48 GMT",
+      "description": "Delonix doses first participant in China trial of MenB OMV vaccine BioSpectrum Asia",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "meningococcal",
+      "vaccineLabel": "Meningococcal",
       "articleType": "research",
       "articleLabel": "Research"
+    },
+    {
+      "title": "Who Needs COVID Vaccine and Who Can Skip It? - Mirage News",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPajlYMjFpTmRzam41UDFPaE5hMUdBczhIcW0ydDFZV0t0c0hNVXYteVFYcEhJMUhKNkw5dWg2NGN6SXRybE45ajlSWi1sWHBSWnFpZUtLakhTdHV4X2RtUXJpeHBjdFFkTUt6TUF5UkRlY3l6SFNBSzVxNm5tSEFaSXhrbnNEUQ?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 05:50:00 GMT",
+      "description": "Who Needs COVID Vaccine and Who Can Skip It? Mirage News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Poultry Farm SLH Maintains Vaccination Despite Rising Costs - CodeBlue",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON091SkhYOTZEMmNhWHVjc2pIRE1HMGJJQml5WG84ZmstOTRTTDNMbE5ZdVh3OXYyUHhoOUNwX3lEX0F2eGNHUWc5ekcwMUp3TVZOOXRyb2k1dlpzWmVNVEluLUJyaFJQeHBWNnRmVERySDAwV0trWjU0djRBNmJzMi1lNE1aWW01UlJoeUVMcXJYMnBTZW9CcEhYV0VTYVNtZGdv?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 05:42:01 GMT",
+      "description": "Poultry Farm SLH Maintains Vaccination Despite Rising Costs CodeBlue",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "First human trial of Bundibugyo Ebola vaccine begins - The Seattle Times",
@@ -87,6 +126,19 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
+    },
+    {
+      "title": "UK children will be one of unhealthiest generations in decades, doctors say - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOS1oRFhVU0RGYk44azktenFGNUlrY3NzVkVrUTVVbS01cUFva1JDT0Vka3ZPYWM5VVUzQ0hoVVI5NjVHU0ZHQm9IM0hzSnp1c25VRjNGaDdLNUU0NzZyZXpmUGhBTUpTTThZamNFdW5WR2VkSG9vMUlPRDBFWmJNRDl5cE1oS0VIY0REVlc2d1BlWW95N0l1UEtTbWZWN0hsc2JKRmxn?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 23:01:00 GMT",
+      "description": "UK children will be one of unhealthiest generations in decades, doctors say The Guardian",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Longmire Springs Brewing to host pet vaccine clinic and ‘Paint your Pet’ art class on Saturday - The Daily Chronicle",
@@ -475,19 +527,6 @@
       "sourceLabel": "News",
       "vaccineKey": "rsv",
       "vaccineLabel": "RSV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Iran studies applying WHO New Vaccine Introduction Prioritization and Sequencing Toolkit - Tehran Times",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWDdqNGVDbmFIbk9qYm0xOEhPMklMZ0JzM0FxSmROYVRTYTI3Y0o5QVBEVWlVTVpFUlZUNkJDeXMtZEZIQjdiMEVac3ZsYTlET1BNWTVUeng1SkNGTk1zZEswdjAyenhOQk5nNmtUc3ZYSUJ0REVlbjBRMUoxNzFpSmpsbHZnY3BYZFp6RkhhWl9fdmQ4OEpIQ19RMTdoSWdJYXNTR3M0UHU?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 12:08:40 GMT",
-      "description": "Iran studies applying WHO New Vaccine Introduction Prioritization and Sequencing Toolkit Tehran Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
