@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-15T07:10:52.388Z",
-  "itemCount": 79,
+  "updatedAt": "2026-07-15T08:09:43.897Z",
+  "itemCount": 78,
   "groups": [
     {
       "key": "covid",
@@ -13,14 +13,9 @@
       "count": 1
     },
     {
-      "key": "rsv",
-      "label": "RSV",
-      "count": 1
-    },
-    {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 8
+      "count": 7
     },
     {
       "key": "hepatitis",
@@ -40,7 +35,7 @@
     {
       "key": "malaria",
       "label": "Malaria",
-      "count": 12
+      "count": 13
     },
     {
       "key": "general",
@@ -50,10 +45,36 @@
   ],
   "items": [
     {
-      "title": "New Zealand Detects First H5N1 Bird Flu Case, Starts Vaccination of Endangered Species - U.S. News & World Report",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMW9hOTZodXlvc09uRUwxUm55elppeXNZYkh4VnlrN1hfS3lFLTFaMmN6YWlVWDVuUS1YXy1TcWZHamZHblh5aU9ielV4amxVdklYaURtWlZTSmZmQmd6aXl5ZEl1dVVoRHVBREFyQzhnMHJoOGRhVDQ0SWlSTFhRc3AwVFM3OGo3TGkta2RZWl95azc3aXRsbnRYTm95bjc0RkJPdXJZUVJVQUU4Y1RMMjZzMzY0VWhPOUVaRlZxa1N0Tjh6aUk3blJKUTh4ZDVHdURselFn?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 07:02:02 GMT",
-      "description": "New Zealand Detects First H5N1 Bird Flu Case, Starts Vaccination of Endangered Species U.S. News & World Report",
+      "title": "UN warns of cracks in global immunisation system - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMFpuUVBmNkZid3RCV21tLXNwc2hIYmdMbFhrdmtvZGpsdVdoWWdBcG12SGtVN01LdDVFSE41bTkzRjBPQWxjYUtSaGVNc2dmczJsaF82T0p6TWxlcV93c25mc3JRdTJ1dWNxcV84WUhRSzJVVklXWXdIMUlRMnVGa2JuZklQMTBnZTFtcFlDRWZsNzJVd3YwaFVCTTFZNFJUbHBLSnNNeTdFVmRHZGJF0gG8AUFVX3lxTE5GU0p0WnNNZ0ZBbllGcmxOcXY5NTJVWDFRUTVmaXhHX2NMU2tFcmQyUFRFdDBjdmpSZ3dVYzc4QkJOUGpfOUtsa183dmQwcDFBUURSVkVoYl9NekdIa3h0czlFQXlPaGtDc0tVeUpsamluTDZzSlBPcG0tSnVuN3hObG9ENWh6ZVUyalU1NV9pdmY3dlFyMWtGN3N0aElzNUxwMzBUcXp5bTV6dE1DMHJSbGhhbnlTMmRYUlVH?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 07:53:29 GMT",
+      "description": "UN warns of cracks in global immunisation system The New Indian Express",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Uneven progress, significant gaps: New immunization estimates must accelerate urgent action in the Western Pacific - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPXzhXNU13T3c3QzU3VllPMkRrSGRMTHUtR1ZhVWpMdGNjNGFOTllEcGdPczBEVmZWRDlCbDJIcF9xU0hKYTRnc3RVUXJxb3hqM3hUR0l0QTkyU0o0R09iWHFhcHNxSTdxTDZUaEd5UXcxNTRHZXp3Y3NuNzRZQlIxSllTM0xZakd4aUlXRHhvZDlpWUxwNlgySzRZMWR3dFFRRjVVb1NwOFRSYTV1bVZpdXV0S0VJYmlCTzFnSF9yRmotVjNjTm1Db1BZb19sNUNUUnBzSmEtWkx1NDVlemJYYW5pZHQtWmdmalNzb3gwcHRqTWFXLU1HWHZtWHA5M1E?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 07:19:29 GMT",
+      "description": "Uneven progress, significant gaps: New immunization estimates must accelerate urgent action in the Western Pacific World Health Organization (WHO)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "ECO Animal Health delivers stronger than expected results as vaccine strategy gains momentum (EAH) - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHhMa0Y0R2d1aWYzdXNKTmhROWpPaVZhWDNpUEJ2UmxJVmlBNTRGWVB3WlBPOGJ2THJUVkx1NnItd24wa3Z4RkZqVzVaQXZPWkNwekF5aTlCZVVoZ0MxXzZETi0wLTJDQ19JQW1ta0dyUWgwU1BQWmNYZmZCSTcxeG1kc0tjVDNYR2tBNA?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 07:16:09 GMT",
+      "description": "ECO Animal Health delivers stronger than expected results as vaccine strategy gains momentum (EAH) Yahoo Finance UK",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -76,23 +97,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "newsGP - RSV tops most notified respiratory virus - Royal Australian College of General Practitioners (RACGP)",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcEV4NV9mZUhtajE1WnloVDRDUUo0S2tRVkQyM3RkVUFaTGdWWmtIeGZ1NmxBLXlpT0ltZmFnSjZFeVlBcVNMRE5sNVhOc3RMZXNOSUR0RUNoTXo1djNmZUkwd2Y4YzBnTHJQMmtMVUNZem1tam5CMVZVcmVoYjFja1dNQ2JWYjRYUlE?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 06:43:56 GMT",
-      "description": "newsGP - RSV tops most notified respiratory virus Royal Australian College of General Practitioners (RACGP)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "rsv",
-      "vaccineLabel": "RSV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "New Zealand detects first H5N1 bird flu case, starts vaccination of endangered species - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSFIyOVNENjk2dlFkODhhdHpXUWFQM0dzcUZmdkszdDJ2azVNUGdaOFJ3WDllR1ZFYnlCbWNFQzlDUmFCTl80WTdzbVV6UDJ4cGtYZV9iSUpBUUE0ci1QTTNnWWsxYVZTaFFTWXFYV1d5eXVWLUZ2d2c4aDhnRXE3NmJFR1dmcS1GNm9RSm1wUlBQREl4NlpWQ0RNV293WGtEYXM1MmxFWkRiaUxlRHVCNHJqZmo1dXpCMDJJSDdyUFJiU0VGaE51bk9fMGphS28?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 05:40:39 GMT",
-      "description": "New Zealand detects first H5N1 bird flu case, starts vaccination of endangered species Reuters",
+      "title": "Free Pet Vaccination And Microchip Clinic Coming To Phelan Community Park - VVNG",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZnQ0RGRvN0JCUF90MmlMNVg4TTNjOWZWS0VWU3NXTlQ5dWhwU2ZSd3hNbVdmN0labkhnUGNjalFMVXlVV2Vab3BSaXFlVk5UVmpkZmVQQUhDY2xETFBlY1BSeUdieVZ4VXJGcmlueUNUbzE2M21xTndGZnBHajlQWFoxdTFoNkZPWGgzcHJLVnVOT2xNV25GS3Nlaw?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 05:32:11 GMT",
+      "description": "Free Pet Vaccination And Microchip Clinic Coming To Phelan Community Park VVNG",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -102,10 +110,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Free Pet Vaccination And Microchip Clinic Coming To Phelan Community Park - VVNG",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZnQ0RGRvN0JCUF90MmlMNVg4TTNjOWZWS0VWU3NXTlQ5dWhwU2ZSd3hNbVdmN0labkhnUGNjalFMVXlVV2Vab3BSaXFlVk5UVmpkZmVQQUhDY2xETFBlY1BSeUdieVZ4VXJGcmlueUNUbzE2M21xTndGZnBHajlQWFoxdTFoNkZPWGgzcHJLVnVOT2xNV25GS3Nlaw?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 05:32:11 GMT",
-      "description": "Free Pet Vaccination And Microchip Clinic Coming To Phelan Community Park VVNG",
+      "title": "New Zealand detects first H5N1 bird flu case, starts vaccination of endangered species - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSFIyOVNENjk2dlFkODhhdHpXUWFQM0dzcUZmdkszdDJ2azVNUGdaOFJ3WDllR1ZFYnlCbWNFQzlDUmFCTl80WTdzbVV6UDJ4cGtYZV9iSUpBUUE0ci1QTTNnWWsxYVZTaFFTWXFYV1d5eXVWLUZ2d2c4aDhnRXE3NmJFR1dmcS1GNm9RSm1wUlBQREl4NlpWQ0RNV293WGtEYXM1MmxFWkRiaUxlRHVCNHJqZmo1dXpCMDJJSDdyUFJiU0VGaE51bk9fMGphS28?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 04:43:00 GMT",
+      "description": "New Zealand detects first H5N1 bird flu case, starts vaccination of endangered species Reuters",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -124,6 +132,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Correction: OHA urges vaccination amid global rise in clade I mpox transmission - The News Guard",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZTFEamhyckkwczEzYS11Q3Z2UmJPT2pkZm5iN1VNd0JENEZpdy0ySFl4ZW5rVDVhQWZ5aWNCUEVRX3cydFNwVm42VmRVWHRNUVljOW5Lam1qMGVWd1V2cTJYWUZTTTcxSzRWVGJzS2RMX0FneUFVdTQ1OF93emdSRXBQdGhkb2tPQkZoRUx3YXpPY3lyOE54VE9lN2s1MzVzQWlyZkUxSlBzMFZPRWRMYnRWWUxuTVZQUjAwT3VGSTl0SmpWdDI5QTlhckxCelJsZ1hER3lWRzRhWjB4YVhpeWhaaEJEc2ZGLXVZS093U1BhLTQ2?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 03:08:18 GMT",
+      "description": "Correction: OHA urges vaccination amid global rise in clade I mpox transmission The News Guard",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "mpox",
+      "vaccineLabel": "Mpox",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -207,7 +228,7 @@
     },
     {
       "title": "Cameroon Malaria Vaccine - goSkagit",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVWhqTW1saGxLTWhDTG8xQ1NlQ1AtbUpJaTRVWjRXaWVjTHI3aGFXWlRxOU1NVkgtWERueHdoaVVNcHhpbDhjU2MxV2xVX0MxdTVFN2hGNzVfS1NWS192UFRQYXp6amNzZDVfMDlpXzl2aFJlc2Z1NzgyQU5pNzkxaWFiaXpBQzNFRDV5c3lBanJTc0NQbXJ6RUNYNEFYNDVLTVc0dGoxSVo4Nm5z?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNjd0TmxwRGVoLVVIXzdxYmc1QXJ5anRBRUxZZVpTS3dYYXJxaHJkSFJsLUp0SjA0cENSekl6SEZSTmVGVVRVdUJNUUlyMVhSSXZ2RWhUWTNDa0MzWVhlRk1Bb3Nya0h2MGhfb2JsRG0yeDRMekhEdUwtenl2M2pyc0VwVDFoQnYzNVUtLWM0RE0xb05heVFmVFVOZGZuYmpudlMxdm9TYWFOYnYw?oc=5",
       "pubDate": "Wed, 15 Jul 2026 01:20:26 GMT",
       "description": "Cameroon Malaria Vaccine goSkagit",
       "source": "news.google.com",
@@ -236,6 +257,19 @@
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQN2JLNGdLdFJIMnJyT2FNVlpqMHNtYjZCMmVNVGZCNnpFYnk1a0tybTdZVFd4cmFldWRaTVBkSmF0TzFXcHhhS3VfenpOMDRpNXRjaWtUMi1zcmowbmxreC1KanZWZnJIMlRIak1fRUNWcWZ0NWpWN2xpWlcyN1Z5ZmxscDQ3TXFiWHpIbXZlNHpaQXFsZmo4LWJ5bnRjRFI4bzZNLXpzRXczWTdxVWVMZU5sQW41ZVl5QlhxM2cwOFI3UlRCSlQ5NHZjVEphYml0OW5GbmVZdTNQczhkRmZULVBJRVFXa2lhTTRqbzByU0dDUlFnQ3hGanFMUWJsUXB1RmpxNHVaUTM5R1E?oc=5",
       "pubDate": "Wed, 15 Jul 2026 01:17:28 GMT",
       "description": "The new malaria vaccine helps in Africa but faces a test: Completing all 4 doses Ottumwa Courier",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "malaria",
+      "vaccineLabel": "Malaria",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "The new malaria vaccine helps in Africa but faces a test: Completing all 4 doses - guardonline.com",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRmFvWlRUeXJORXpWSU5sLWJxWElOR1dGTWxlMy02aGVSTWZaUFliekN0cEowMDRsX2R0aVdhNDdab1ZtTnQ1V04tMTlaUm9LcldqX19wVGFQcFZoaWtGNXo4dTkzaXJiczNkS2VVQlFHcEY5S1FncFpBbEo4OUlEWFFMbW9RdVZIMTUtUFlraVJQWUdpendXdDhBZ1o3YWRGM3MzbFBWU0lEY3d4blJxM29rYmV4ejg2cG5Vd3BydHMzV1JrMm43V0JuWWUyOEJuMm5IMmtYWjF6SWhtVEg0Uk9Qa1JFS3BKaWx5UHA1MG4wVXA5Ml9JQkZleWw?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 01:17:28 GMT",
+      "description": "The new malaria vaccine helps in Africa but faces a test: Completing all 4 doses guardonline.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -284,10 +318,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Cameroon Malaria Vaccine - Idaho State Journal",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVFg3aHNNcHY2MWc2b1FDWHotaUdJMG02ZTJ3T1poWE1LdE83aXpIclZYbWRiZlk3OTd3SUdRdFN4Yl83aGNEN3lKcTB5ZWRzZlk5MXpyRHFtdmlsNUV3djJBbnNpMTg0Zl9uTjM2amVSSXE1N1Q0NWplX0Rjd2pJN3FubklpbVVFOUdkQlZvMEFVX29fZy1OSGxtVmdVWFp6M0JLWTJtQ2dfYW83clV3RDkyNEsya1FF?oc=5",
+      "title": "Cameroon Malaria Vaccine - Journal-News.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM2Z0aWxMRWNQYjBfeldpQzRrbXk0UWZqWC1KT2pUaWdEWlh5ckh5QVg4cFI5dF9KYnlNQml0MEJLejh4eDdyX2pnQUNrY01pdEJlUWNiZGFYckg4ajUtZHF6RU9MaFJkWFNHSDJTbjY3TXBEd1NVcEljdDVLZjlJODJoTVZOMDdERHFCdTNsemhVSWpFMWJ1TnoxRDhzMzBrM2R2cHd6WjYtWTA3bU1NQmZZR0Y?oc=5",
       "pubDate": "Wed, 15 Jul 2026 01:00:51 GMT",
-      "description": "Cameroon Malaria Vaccine Idaho State Journal",
+      "description": "Cameroon Malaria Vaccine Journal-News.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -297,10 +331,10 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Cameroon Malaria Vaccine - Journal-News.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM2Z0aWxMRWNQYjBfeldpQzRrbXk0UWZqWC1KT2pUaWdEWlh5ckh5QVg4cFI5dF9KYnlNQml0MEJLejh4eDdyX2pnQUNrY01pdEJlUWNiZGFYckg4ajUtZHF6RU9MaFJkWFNHSDJTbjY3TXBEd1NVcEljdDVLZjlJODJoTVZOMDdERHFCdTNsemhVSWpFMWJ1TnoxRDhzMzBrM2R2cHd6WjYtWTA3bU1NQmZZR0Y?oc=5",
+      "title": "Cameroon Malaria Vaccine - Idaho State Journal",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVFg3aHNNcHY2MWc2b1FDWHotaUdJMG02ZTJ3T1poWE1LdE83aXpIclZYbWRiZlk3OTd3SUdRdFN4Yl83aGNEN3lKcTB5ZWRzZlk5MXpyRHFtdmlsNUV3djJBbnNpMTg0Zl9uTjM2amVSSXE1N1Q0NWplX0Rjd2pJN3FubklpbVVFOUdkQlZvMEFVX29fZy1OSGxtVmdVWFp6M0JLWTJtQ2dfYW83clV3RDkyNEsya1FF?oc=5",
       "pubDate": "Wed, 15 Jul 2026 01:00:51 GMT",
-      "description": "Cameroon Malaria Vaccine Journal-News.com",
+      "description": "Cameroon Malaria Vaccine Idaho State Journal",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -349,23 +383,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Australia's vaccination success story at risk if families become complacent - UNICEF Australia",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZWduZEwtWE1JaGtUUkF5bXBnSFBLcTRqcTRTTENWZDlFNUp6N3h1SkRFaUlEdTByOHBiMnpCYXRJb2FDZ2s4Vk9vTXViUW1nbTlkSmhma3BiVmplbUxIb09TR1pyR2F0aDZKVHdFREtXbzhMOThMcEpDRmd6TFBzRnNFY1l1VjhrSmdWd1ZsUGw4RjJtMDlqS0ktS1dwQnpVaVBVWXV5RjFRSGxpWFVpWVA0amItUQ?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 00:42:03 GMT",
-      "description": "Australia's vaccination success story at risk if families become complacent UNICEF Australia",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Global childhood vaccination rates climb amid rising outbreaks and conflict - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYjJxYmFsNkNhLXVDUjRySmJWLWpVc3BpWDY4VWlfR0FncTlmUk9CRC00bnpmOC1vbGFIbnN0OHg4cm95VFZNRXFnS1BXLU10ZEtYUlk4ZW1XV1ZhZEJXcWl4M0R0MG5ESFBHMHAwWDVFTzNhYnBHTTU4dUVCSXY3Ul9EWDVPTGNvdGlILXh1TmJpRkh0bHBYaVZRSDhtTGkwUmZmMkE1QXBON3lQakZUTmFXNXMtSnlQT2xnZDlzZ2RibkxJaXJQS0JTMTROMmJEUFNGMElWNWE4Rnc?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 00:05:00 GMT",
-      "description": "Global childhood vaccination rates climb amid rising outbreaks and conflict Reuters",
+      "title": "Global childhood vaccination rates climb amid rising outbreaks and conflict - WTVB",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTFFHaUNmZ3N3NFVIY1V3X1RRUG9UY0tNalBwQUduVlRIQkxNMW1WS3pTLVVsdy01V215R1NCZW0ybzhDRkJHQWgyRUphTzdoSlg4VHJOcDIyWl9EOXpFR0RxNUFGUkEwTTh5VmV5ZHk2WFN5SHBpR2I4VTlOVWxZRW1GTllPX2VuMDh2Nk1RaE95c2NtRlZ6S3c4YnRMaVpWSVVUa1lEVTlrQQ?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 00:26:40 GMT",
+      "description": "Global childhood vaccination rates climb amid rising outbreaks and conflict WTVB",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -501,19 +522,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Correction: OHA urges vaccination amid global rise in clade I mpox transmission - The News Guard",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZTFEamhyckkwczEzYS11Q3Z2UmJPT2pkZm5iN1VNd0JENEZpdy0ySFl4ZW5rVDVhQWZ5aWNCUEVRX3cydFNwVm42VmRVWHRNUVljOW5Lam1qMGVWd1V2cTJYWUZTTTcxSzRWVGJzS2RMX0FneUFVdTQ1OF93emdSRXBQdGhkb2tPQkZoRUx3YXpPY3lyOE54VE9lN2s1MzVzQWlyZkUxSlBzMFZPRWRMYnRWWUxuTVZQUjAwT3VGSTl0SmpWdDI5QTlhckxCelJsZ1hER3lWRzRhWjB4YVhpeWhaaEJEc2ZGLXVZS093U1BhLTQ2?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 15:07:36 GMT",
-      "description": "Correction: OHA urges vaccination amid global rise in clade I mpox transmission The News Guard",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "mpox",
-      "vaccineLabel": "Mpox",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -830,17 +838,17 @@
       "articleLabel": "Research"
     },
     {
-      "title": "SPCA Monterey County will host a free pet microchip and $25 vaccine event - KSBW",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU0UwYWVOdkY2VzRjUF9wcU5pRi1tOXNDOW9JanJaOVF4OU9LNk1Dci1LUXZYbzh1UlJXX2dWZTFhWkNaamFybkdJRVJIT1UycjR0bWZvbUdBN3JaQ0p3TXA5bXJrNmlJcFlaR0FJYWcwU01Vd3gzdXV1QXF5RHJwVTAyS2RYOUoyMS1TYk95NA?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 22:46:00 GMT",
-      "description": "SPCA Monterey County will host a free pet microchip and $25 vaccine event KSBW",
+      "title": "Oxford begins first human trial of Bundibugyo Ebola vaccine - 1470 & 100.3 WMBD",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONGlndXJKdm00VTVFNUI2Qm51RXJObkE2R0NkQmhHeXVtYUktS25fekhlS0g2Y3pISnRDZ2lyZ3RIaFhzMDFIWmNQVWhfckpvYkhqQUxLWDdmSnJtX0RpMnhpdVZWclRhcEE5U0thNm5iYkIyaXBNX0VWZEJwd1lINmhtTVkySjNpU3pyWEtTM1lvdktGVktyZg?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 00:14:05 GMT",
+      "description": "Oxford begins first human trial of Bundibugyo Ebola vaccine 1470 & 100.3 WMBD",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
+      "articleType": "research",
+      "articleLabel": "Research"
     },
     {
       "title": "Mpox vaccination recommended for at-risk individuals as cases rise - KTVZ",
@@ -947,19 +955,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Poll finds support for vaccine access as U.S. nears another record year of measles - FOX 32 Chicago",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96ZmdEUWdJQW5TTWdKbTdPbWZVa1VwN3NyZWFRUnhDb0lpVVBodzN6dFpoeEJQMkdnU0VrU1V6VEF2TXNySXRrTHZwbEw2MzVNeHozZ3RnUVRid0VuN1VNeWtYLWNqd9IBa0FVX3lxTE14dzhBa0RPNVNjcHgxSW1jQk11Qnc4dzcxZTZVcFFueXBfS25MQ1FscGlSYjFqSXRWb0R3dm1seWhkbkNNRDdBc1g4cjNJVVdrbDVyVXNTbFU5ZWp4VHprYjZvdm93UVRiSFZz?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 15:19:10 GMT",
-      "description": "Poll finds support for vaccine access as U.S. nears another record year of measles FOX 32 Chicago",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Texas Air Force Base Flu Outbreak Prompts Partial Reinstatement of Rescinded Vaccine Mandate - thetexan.news",
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNTU9sVGtOR3VGcTk5XzFEQ2RaaDl0R0tsUFh6T2k2V2lSeXprbURCeVZxN082N2l5bDZicUVORG1FY01BTDdiX0MwMHBnTlJicUtyeWhkX1Fjd2R5cGV6cGJmM3haQjNaX01hVU5Kc1FxQ1JwTmppMmpsN2ZwRkdhTmZKRW9vS1ZoN3VUU0xIdzhMNDJnbFlvOVpxYjd1NXlvaVdtdFR1dXpGN01HYnJkZWVoc2tPWW1zSjlSUVJuckM5d3hLVWNLSFNnVnZqcEI1ZWk0bG0waEx2NEo1OUp3cHd0Vm5Eck1ZZmdmWW9YSjFZV3hBMFo0RkNlbzdNQ1V5Y0sxeTJJTWhlalJEZlRB?oc=5",
       "pubDate": "Mon, 13 Jul 2026 13:11:00 GMT",
@@ -984,19 +979,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "Oxford begins first human trial of Bundibugyo Ebola vaccine, Germany treats infected US citizen - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IWFJLSEdxSXJLbmMxejBhY0JDdEN2QmQ4aGtjemJueW9kUGN2WEgzWncyZ3RsMDlnSlJVVENCVUhZOG1fMmNBUjF1VlVPUXRickRiX2tIRjBRUjB5ZmRYLV9rNVU3TE0?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 10:05:18 GMT",
-      "description": "Oxford begins first human trial of Bundibugyo Ebola vaccine, Germany treats infected US citizen The Jerusalem Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "Oxford begins first human trial of Bundibugyo Ebola vaccine - Reuters",
