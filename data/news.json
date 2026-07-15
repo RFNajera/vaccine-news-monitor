@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-15T11:56:02.258Z",
-  "itemCount": 74,
+  "updatedAt": "2026-07-15T12:53:41.109Z",
+  "itemCount": 75,
   "groups": [
     {
       "key": "covid",
@@ -10,7 +10,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 4
+      "count": 6
     },
     {
       "key": "hepatitis",
@@ -23,6 +23,11 @@
       "count": 2
     },
     {
+      "key": "rabies",
+      "label": "Rabies",
+      "count": 1
+    },
+    {
       "key": "malaria",
       "label": "Malaria",
       "count": 10
@@ -30,15 +35,28 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 52
+      "count": 50
     }
   ],
   "items": [
     {
-      "title": "Group B Strep Vaccine Advances Could Help Save Thousands of Newborn Lives - fundsforNGOs News",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRVl4YVNoVVJPZV85T0tCT2xiLWpJX1I1LUlIVlhWN3RhRzlIVEMtNW1OLTdzTDVTa3V6LWNNUXk5OGZEWnNOVGhRUURhcW0zMGtWd2hUMldnX2tQNEtubWZjOHRYZWpyWUZRZWQ0aDg4OHYxZEFMd1dQZ0FvX0l6UmYwaVBkMFNCakZUcnJNNFFzeHJobjJIdHoxU2hKcVR5NXk0WEZ4RkU5eVhSOUdMaHVsS0I3UQ?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 10:58:59 GMT",
-      "description": "Group B Strep Vaccine Advances Could Help Save Thousands of Newborn Lives fundsforNGOs News",
+      "title": "WHO and UNICEF estimates show routine immunization has rebounded in the Americas, but declining measles coverage leaves communities vulnerable to outbreaks - Pan American Health Organization (PAHO)",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObGdicVZ6b2tZRjhDQXRNY3NoTVQ1cmMzbnZHOVZXdDZCMFdoVmxrbC1FQ0FleVVZTU1IRWpnMnFvREktN3huUmIwMnY1T1BLOW44eWtxWkdNQlZtcFpIei1QTlMxeDVCck9CcmFJd3hacjl3NDVGQm5iZlZQdGd6OWZKdDBwdXFvZVpNSEdURHBrT1RmU3V3N0ktMzBzSkVzMU81UzBtbm9tV09UVjVRc3pjVzduTkpJQXltQ29ZMA?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 12:38:55 GMT",
+      "description": "WHO and UNICEF estimates show routine immunization has rebounded in the Americas, but declining measles coverage leaves communities vulnerable to outbreaks Pan American Health Organization (PAHO)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "SK Bioscience Accelerates Global Vaccine Push - Businesskorea",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JSkhCdUdZMlA3MXJqZk9GaGVRcThYVVJYZ1JGQjdISmgyVENtVFlPYmJON0U3OHFWZENVaWN1RndCWW9ibFZFUlZKWmVQNzcxdnRNVUlvWDNXRjhIaUpQRXBtbTNmTElUT2RQNW8yaGRqaGhQ?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 12:29:28 GMT",
+      "description": "SK Bioscience Accelerates Global Vaccine Push Businesskorea",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -48,10 +66,88 @@
       "articleLabel": "News"
     },
     {
+      "title": "Hearing Watch: How Can Dr. Erica Schwartz Fix Broken Trump CDC Over RFK Jr’s Objections? - Protect Our Care",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaDJqX3RPNTItQnEzWGNzai1hTGdodXlMQlZ1QWQ2ZFVkSWtOd0lzdXF5bXE4TFV6a2d4T0Nlbi1RNFY2T0NSenZiZmZkUE5IcERoajBUSFFtTllFZ2tuSjNMRDF3bnZ0MXRYNUhoN1dTeU4tZU9DNEFBYktvUGk5aG5YVHJJTXMwcGItU1BDWXVTUWJ6YVV0bFRZZ2NTX2JOeXg1MHBodUZyZXNnRjBDUEE5X25BR1U?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 12:27:30 GMT",
+      "description": "Hearing Watch: How Can Dr. Erica Schwartz Fix Broken Trump CDC Over RFK Jr’s Objections? Protect Our Care",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Free rabies vaccine clinic set for this weekend - WKBN.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNDk4aEZEeDBIV0FQR2VnOUxRcE5SeDhzckt3YzgzQXNLdVd3ZF9pT29ieklxbGYzY3A2eFpGTlBiaGRKVlV6RVJsUkRXejEzYzlSaVYydnE4SkFkcHE3R01uVzdybFQyR0l0WGJvcG9HUC1pNEVrX2ljYm1fRGNXNnN4UG1Ib3hjbXVVNnFUeXFQbFlWbm1HdkFOcTBVQdIBowFBVV95cUxNMU01RlptZzNVU2oxTWtLVHlVQVpXN2tZMGlNRl9tTS15SVhVSUowSjl5S3dGSEIxVWxqNjVhSTJCRkY5R1BJNngtUXRKSDFjRzhRSlgtT2Q0bl9OTDlnb0JNZDZOT3p0MmFJMlNPdG5YR1FaRk5oT2p1RTgtU1c2SWdRT2xMcUhaTkVCYzlDU0RCWlNqd3VmQ2tublZYNzVxbzFF?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 12:23:47 GMT",
+      "description": "Free rabies vaccine clinic set for this weekend WKBN.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "rabies",
+      "vaccineLabel": "Rabies",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "What to watch for as senators question CDC nominee Erica Schwartz - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLUUwdWE2Z2ZCX2s0WWNid19PSG9Bc0xtSzg4X2pOcWhreElfMkVPRnQ1WTBXbTRJNmVTV2VuTVB3VUVpS0ZNZGJXbjllMVdjRjF1VldhczNES1lGMWxWaGlaZmliTWRtVXF2SFowTHROQlIyWU5LY1VnQ0c1MV9vRC1pVmdhYkl0bFFfRXlXSy1pckJKNGxIeGp6akVibm96WmlMX0FYN2g?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 10:32:14 GMT",
+      "pubDate": "Wed, 15 Jul 2026 12:02:14 GMT",
       "description": "What to watch for as senators question CDC nominee Erica Schwartz The Washington Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "NHS Starts Four-in-One Vaccine Drive Against Measles - EMJ",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcTc0dG0yMWE5NzdnbzV4ZVJMRGtJUWNvWEhXRUdTR0FiZHJvaVhoZlN6SEsxLUtkY2lMZTNLVDlERmdIQXpaZTlhMVV0VTR6Y3JtTHBqaHpmRjQ5b0NiSUh0a285d2phR0gtSkFObnNmMWdtUDVUYXd1cm1QQmVvUWtlT0pseWcwOWFZcjk2bFNtZ3JoNlR5Yl9kLXl3Ql9PVjVOWk5XTQ?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 12:01:52 GMT",
+      "description": "NHS Starts Four-in-One Vaccine Drive Against Measles EMJ",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Childhood vaccination rate increases slightly, but millions remain unprotected - UN News",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jbUlIVGROel9Bbml5dUE5SFN1Rk1sdkdSdTJwaEVxREs2U3VaRDE5bWkzNUdpQjhxZHN6MzdmNk1DMkxoajhiVDMtZzdJZVRsSXdNQmdvcw?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 12:01:00 GMT",
+      "description": "Childhood vaccination rate increases slightly, but millions remain unprotected UN News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "India's immunization program reduced child mortality but highlights need for coordinating health, education policies - Medical Xpress",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTXFxdlFxQWR6UlByOEFqUGxpM2hGV0hzcEFJMU54eHBIbU9YN3d4SHROYlZRV3pHVTBmXzdlZHJrWXdkMWdseVpkRFd1SUxsQmtOX0JIT0lBYVBQd0NSSEdyTVNKOUN5ZDgyUWJqalpsTm1jUU9KNGxoLWtRbXBLbldWV2pzWXlVTjlyT3k5RXpSLTA?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 12:00:01 GMT",
+      "description": "India's immunization program reduced child mortality but highlights need for coordinating health, education policies Medical Xpress",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Group B Strep Vaccine Advances Could Help Save Thousands of Newborn Lives - fundsforNGOs News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRVl4YVNoVVJPZV85T0tCT2xiLWpJX1I1LUlIVlhWN3RhRzlIVEMtNW1OLTdzTDVTa3V6LWNNUXk5OGZEWnNOVGhRUURhcW0zMGtWd2hUMldnX2tQNEtubWZjOHRYZWpyWUZRZWQ0aDg4OHYxZEFMd1dQZ0FvX0l6UmYwaVBkMFNCakZUcnJNNFFzeHJobjJIdHoxU2hKcVR5NXk0WEZ4RkU5eVhSOUdMaHVsS0I3UQ?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 10:58:59 GMT",
+      "description": "Group B Strep Vaccine Advances Could Help Save Thousands of Newborn Lives fundsforNGOs News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -122,19 +218,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "The new malaria vaccine helps in Africa but faces a test: Completing all 4 doses - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96aGw5VjF1VkZ1RlRzdmotanF3eVNFWERTdHZyYldhVklRaXRPOUtpSm8zZkxPdk9BMjlPZUVsVVRISUNkM1dHNXU3aDVUbkZJcGtJM1dSalZwN0F4ck1lNkQ4RzJCRU0tamNrZmN2c2hMTjd2bFBXUXdYR1Y?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 08:19:45 GMT",
-      "description": "The new malaria vaccine helps in Africa but faces a test: Completing all 4 doses Medical Xpress",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "malaria",
-      "vaccineLabel": "Malaria",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -230,19 +313,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "New Zealand detects first H5N1 bird flu case, starts vaccination of endangered species - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSFIyOVNENjk2dlFkODhhdHpXUWFQM0dzcUZmdkszdDJ2azVNUGdaOFJ3WDllR1ZFYnlCbWNFQzlDUmFCTl80WTdzbVV6UDJ4cGtYZV9iSUpBUUE0ci1QTTNnWWsxYVZTaFFTWXFYV1d5eXVWLUZ2d2c4aDhnRXE3NmJFR1dmcS1GNm9RSm1wUlBQREl4NlpWQ0RNV293WGtEYXM1MmxFWkRiaUxlRHVCNHJqZmo1dXpCMDJJSDdyUFJiU0VGaE51bk9fMGphS28?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 06:55:17 GMT",
-      "description": "New Zealand detects first H5N1 bird flu case, starts vaccination of endangered species Reuters",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "UN warns of cracks in global immunization system - Hürriyet Daily News",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT0hYT3VDSnRfdEZGUXNBQkJ0eXVOZU1yOEFVZlJFb0g2ZXdlWk5LWklKQjMwMndQZExiTy1PNC02bzJybkNrQkZWcHkwd1JKeG41a0tYeVlBcGgxQkpMOTBwaFhWOUlpRE0zZkNhSlpPRlJVRnpadGUxRTF4MVNSa1Zaclphc0MzU2RteXVWdE9xeHM?oc=5",
       "pubDate": "Wed, 15 Jul 2026 06:19:22 GMT",
@@ -282,10 +352,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "India's childhood immunization program reduced deaths while reshaping educational outcomes - News-Medical",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX0hwcHp2NXlFRnY0TkRHVXkzQTY3UXRVcS0tZWtqQV9lUkZvMFBXamV0Ykd6Z1JFRkJjUHl4cXQ0QmIyNjRWQmtveVMwaERfM1JjRmx5TWNQNnc5NmI2RUlCRmZqOW5HQnhlTnBDTDVfX3AzbjhKQXN1TXE2Q0NvR2VSS1c5aDVLcHl5S2ktcjZvUlNiTWRqV3NKNGUzMjNSNzdjOWxfS0wyVFliS0FjdTh5Tkp2UnFjejhVZzU0U2RzTmdMNU1iZ05vY2IzazI3LTZJ?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 03:46:00 GMT",
-      "description": "India's childhood immunization program reduced deaths while reshaping educational outcomes News-Medical",
+      "title": "New Zealand detects first H5N1 bird flu case, starts vaccination of endangered species - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSFIyOVNENjk2dlFkODhhdHpXUWFQM0dzcUZmdkszdDJ2azVNUGdaOFJ3WDllR1ZFYnlCbWNFQzlDUmFCTl80WTdzbVV6UDJ4cGtYZV9iSUpBUUE0ci1QTTNnWWsxYVZTaFFTWXFYV1d5eXVWLUZ2d2c4aDhnRXE3NmJFR1dmcS1GNm9RSm1wUlBQREl4NlpWQ0RNV293WGtEYXM1MmxFWkRiaUxlRHVCNHJqZmo1dXpCMDJJSDdyUFJiU0VGaE51bk9fMGphS28?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 04:43:00 GMT",
+      "description": "New Zealand detects first H5N1 bird flu case, starts vaccination of endangered species Reuters",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -338,6 +408,19 @@
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbGEyTlhVYUZBMlNGR2wyNm5JaWhDb0pvNHBRVnZHM2FzUVRWM0FBMklxOFlpTmxBX1dIZ3FhZm9DdWEwai1WaWlBenNQMnNCUGtnbUsybUI2T0xJYXJpWE01dm1LZC10SktKcnVKQ0FNSjhVcUJQUGdDQllES0pfQnlvV0plUjVWbjRoSUJLUEh1YnI2aFc3QzEtS2lQOGdLVXVnNmtRVFBrRGhfcHlHTG9ZN3pNWkdBeGRjQVRNQzVGVnZTVy0wQldzT19qNXZPX0drVUpZZGlEb2JxcnNKQ01MQUZzTVFrZXNsMUJ0bnZDdFN1NTY0X1dYZkxaUGJ3?oc=5",
       "pubDate": "Wed, 15 Jul 2026 01:21:06 GMT",
       "description": "The new malaria vaccine helps in Africa but faces a test: Completing all 4 doses Toronto Star",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "malaria",
+      "vaccineLabel": "Malaria",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "The new malaria vaccine helps in Africa but faces a test: Completing all 4 doses - The Seattle Times",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWFlCd1lzS3dVb3JxX1BPRE9QeVVYWUpTZ0VfcmZwa3pzZmJ3dG91X2U4N3I4M2pFaWt5b216T2duN1g3ME45b0xZbndoSjdwLXZycmVtbkF4VjVHS2pGVFhaOUxrbDYtNzZGTk1CRms2eXIyaUlUckxTaWZNUnBwZFNPUWpRUEdNcWkzQmRKcnVmVEE3X0JZNmdjaU9rM3dnOWZfN3Z6Uk9XQ1Vrd1NRQlI2MnpmLTZUNmZlYXA1UWIyYmhnYnhudg?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 01:21:04 GMT",
+      "description": "The new malaria vaccine helps in Africa but faces a test: Completing all 4 doses The Seattle Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -477,10 +560,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Global childhood vaccination rates climb amid rising outbreaks and conflict - WTVB",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTFFHaUNmZ3N3NFVIY1V3X1RRUG9UY0tNalBwQUduVlRIQkxNMW1WS3pTLVVsdy01V215R1NCZW0ybzhDRkJHQWgyRUphTzdoSlg4VHJOcDIyWl9EOXpFR0RxNUFGUkEwTTh5VmV5ZHk2WFN5SHBpR2I4VTlOVWxZRW1GTllPX2VuMDh2Nk1RaE95c2NtRlZ6S3c4YnRMaVpWSVVUa1lEVTlrQQ?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 00:26:40 GMT",
-      "description": "Global childhood vaccination rates climb amid rising outbreaks and conflict WTVB",
+      "title": "Global childhood vaccination rates climb amid rising outbreaks and conflict - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYjJxYmFsNkNhLXVDUjRySmJWLWpVc3BpWDY4VWlfR0FncTlmUk9CRC00bnpmOC1vbGFIbnN0OHg4cm95VFZNRXFnS1BXLU10ZEtYUlk4ZW1XV1ZhZEJXcWl4M0R0MG5ESFBHMHAwWDVFTzNhYnBHTTU4dUVCSXY3Ul9EWDVPTGNvdGlILXh1TmJpRkh0bHBYaVZRSDhtTGkwUmZmMkE1QXBON3lQakZUTmFXNXMtSnlQT2xnZDlzZ2RibkxJaXJQS0JTMTROMmJEUFNGMElWNWE4Rnc?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 00:05:00 GMT",
+      "description": "Global childhood vaccination rates climb amid rising outbreaks and conflict Reuters",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -538,19 +621,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Martha Lillard, 73 years in an iron lung, warned against vaccine resistance - Animals 24-7",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRGRGT2NBLXhOaWVGU2tJU0FvOFl2VXNnVE4zU1RobUl4SktBM0VaLXVXX3VuT0h4RkRVQ0FjWDJ2bE5ueEx0dGtvM044NUNOc0pxS29aMkpSdXNjdVhnNUN6Tkdwb3Q4YXRHRDQ2TE96R3YyMmJDckRoQ1FNeXFlczB6aExvckkwSHE2aTRUZTczcFFSMHNGeHhvLVpra1Z1cWhTZi1IN2xOZ0ljYlBHVk50WQ?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 19:03:01 GMT",
-      "description": "Martha Lillard, 73 years in an iron lung, warned against vaccine resistance Animals 24-7",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -750,10 +820,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "First Bundibugyo Ebola vaccine to start human trials in the UK - Euronews.com",
+      "title": "First Bundibugyo Ebola vaccine to start human trials in the UK - Euronews",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSXBPMzVIVVl0dVlyZk9PNkc1VU51TW9JOGpMVFEyQkFidmN3SmZiRUFLRGVRbU9nZVA0YWgwVjdBLU1QOHIxS1BXMzJmbUlHS2F3OXNMZjhjYUw2QU0wQnNLMGstWEZXZFhtdlVhMXU0aFhZVHRtdUstdkZNRnBCdU1mS2hLUTZYUUpfVmtXX1ZQRnhmNkFYYVVWTENoV1VZM29QY2VLS3k?oc=5",
       "pubDate": "Tue, 14 Jul 2026 10:35:47 GMT",
-      "description": "First Bundibugyo Ebola vaccine to start human trials in the UK Euronews.com",
+      "description": "First Bundibugyo Ebola vaccine to start human trials in the UK Euronews",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -854,19 +924,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Oxford begins first human trial of Bundibugyo Ebola vaccine - 1470 & 100.3 WMBD",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONGlndXJKdm00VTVFNUI2Qm51RXJObkE2R0NkQmhHeXVtYUktS25fekhlS0g2Y3pISnRDZ2lyZ3RIaFhzMDFIWmNQVWhfckpvYkhqQUxLWDdmSnJtX0RpMnhpdVZWclRhcEE5U0thNm5iYkIyaXBNX0VWZEJwd1lINmhtTVkySjNpU3pyWEtTM1lvdktGVktyZg?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 00:14:05 GMT",
-      "description": "Oxford begins first human trial of Bundibugyo Ebola vaccine 1470 & 100.3 WMBD",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "Mpox vaccination recommended for at-risk individuals as cases rise - KTVZ",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUmdVczZIRXRWbExVOE0zWTZJc2puRmxJeGVpM3QyZ21zNDdTNlMtb21rMDFFVUdHRXQ0ZzBUZVFlTU1xbzAwUTMtcmpnTUZ4bmJKdkctdWR2dFp4OFVhakQ1ZXVEeXBJcGJMQjdEamFlRjZNQktSQnMyaGxhN0xJaUhnU1JSMnNINmdiRnM1MUwyMlFvblJwWG5zLTl0VEhBelE?oc=5",
       "pubDate": "Mon, 13 Jul 2026 22:45:06 GMT",
@@ -884,45 +941,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPakxqYjRUUUpTU0FLSW1CUi1xcFVaQ0kzaXprcmFrR0k1STFmb01QRERsbTVJWGVoa2hWZHZESmFwUVNHdFlHMXZROFJiUExjaWxYdnc0NlN6VENrYnNMSkpsdTJhLWhuQlprZVFzODlmaDh2MEJod1g4MjN6Z2RvOHdKSDd2N1V2OVdyWkxKT2dPT0lmVHAxdk50dzVOTjYwamplakt4N2ZVNFdnSkdEdElkbUdzMU5QNDFCdUdkRUJJbmZ2UWFVOTlzc3daLUdB?oc=5",
       "pubDate": "Mon, 13 Jul 2026 21:33:00 GMT",
       "description": "Free back-to-school vaccine clinic begins in Texas City The Daily News | Texas' Oldest Newspaper",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Scientists test first vaccine for lethal leishmaniasis threatening Oklahoma - The Journal Record",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYXgyc0FZTmp3OEstZkpxRHE3NDJvUTdfczRiaWkzS1phMnBNQmlCVU44TVJINlR3dXZiRHZ6MEZSWjlQY25IbmRRMDdyNGdTWk8zbXlQb1FhRkdwTW1ZajBaVTQ5TDA0T29lQ01iV09aTE8wMEd5TGRGdUJZVG5RUXhsNzNjUUtKN2dxUGNKOVNOXzFlenpyVWxnMWEwUQ?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 21:10:19 GMT",
-      "description": "Scientists test first vaccine for lethal leishmaniasis threatening Oklahoma The Journal Record",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
-      "title": "Vaccination rates down across Brazoria County schools - The Facts",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWF9mTHpnb1M4dUwtZDVCeVNpQVF0U2JYQUI0WlVWRU1pTGtDdG9sbUlINjUwTUhuQUdJOGUwWkFRam5zX0otMTNhZmpNODc1a2V1MXNTVzFxaldDbGhjWnQ0alV4RUFMRnQtQWQ3WVgwVE5wUkg1ay1sV2d4dHViRmRuclZTZ0VIUXZ2S3JWa2k2elN5ZEpCQXJCVmJ6MmdkUjdhQnhyRnV2b2ZISk9HSTlRaXdPV1FSVlJfUDhOLUQwT0lPaENKMQ?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 21:04:00 GMT",
-      "description": "Vaccination rates down across Brazoria County schools The Facts",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "New poll reveals who is most likely to endorse vaccine myths - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZzl1RVNHX013RndZMms5RENGTEFTRko1RjVVaU5Ed2d1NW1XRTl0WGl5c0xUWVVtWnFPYTVWblNLd3dXNVFNVzFZVS1fakpxbVloNzhhdVZxSUdoUTIxc0FQTjNFZGZybTFGczFMbVBwOVFUQmNPS0RaNTAweE1hbFktU0I?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 21:00:02 GMT",
-      "description": "New poll reveals who is most likely to endorse vaccine myths Medical Xpress",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
