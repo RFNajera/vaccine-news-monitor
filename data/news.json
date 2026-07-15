@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-07-15T18:46:38.661Z",
+  "updatedAt": "2026-07-15T19:49:12.224Z",
   "itemCount": 97,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 6
+      "count": 7
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 12
+      "count": 13
     },
     {
       "key": "polio",
@@ -45,19 +45,71 @@
     {
       "key": "malaria",
       "label": "Malaria",
-      "count": 7
+      "count": 6
     },
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 65
+      "count": 64
     }
   ],
   "items": [
     {
+      "title": "Sanofi opens new chapters in Pfizer, Moderna mRNA patent litigation sagas - Fierce Pharma",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM3V2clF1LUloc1lzRUR2NTJxVFdPOXluTnlQSUI3MjlVVzkzUk9ndkw5WExtZVJUeFg2TktINGV2dnJybTUxNENfaHUwQ0tEVHVaXzFTY3VCYTlabGRhWE5nODlZenZkeWNndnVzZ2Fzd2tmVWRRaEQ1LXBsZS1GTXQ0NGN5ZXJaQlZuRVRiaHk3czgzOUp4ckctMVdndnBtRmdXYXJiZFhERjg?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 19:32:48 GMT",
+      "description": "Sanofi opens new chapters in Pfizer, Moderna mRNA patent litigation sagas Fierce Pharma",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "CDC nominee refuses to say if she’d defy RFK Jr. on vaccine orders - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZnBtdWVMVEFTd1RIM1E2cVFhYUlHRzl1NWFsNTdPbjJWUll0QlpJLUVfdHZNWGMzU0JHd3JPdDR0NkdveXhhQjNHSl80cThKeHRqNTlqa0JLMTNvTmdyMHRxbmVlaHl2X2c1ZWMybHJIZ1drcV9iRldVSmpNZUxMS1hnVQ?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 19:18:00 GMT",
+      "description": "CDC nominee refuses to say if she’d defy RFK Jr. on vaccine orders Fortune",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Measles Outbreaks Span 57 Countries as Vaccination Stalls Below Outbreak Threshold - Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYlVvdkxIRmFkcUFUR1dGTGRDd0dhaEMtV2F2d3JIN0owQnNUQzRrVGZwUnFEb25XMTA5TVduWFIyUzFPdllkYll4OERFRUtoSmwySkxzblRTUUREUl82X1A4Zm96QkhWYlpDV0dBMXltakZwY1dweVZFcFVsaElHSDlaeGw4OEIteVFzYnlvY1hmbWU4SmFyUFJ0UmFVejRVdFhrbEdkQUFBOURwSGo4ZlVxSUtiSU51enZ3Vm95RFp1YWFTVWkydkpibFREUHc?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 18:59:30 GMT",
+      "description": "Measles Outbreaks Span 57 Countries as Vaccination Stalls Below Outbreak Threshold Tech Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Measles - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CSm90Nlo1aVhLczFhQ3MwSV80amFZNzd4WWZBbHFqbllGaXJ1S3psNFZ5YkxwbVB5bG93bTY5bnc1SEFaOTRtekd3ZVlmYXltT2lvYjRqbTNyc2VBYnE0WTkyYXpUT0k?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 18:35:56 GMT",
+      "description": "Measles World Health Organization (WHO)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Porcine sapovirus study first to evaluate a prescribed vaccine - National Hog Farmer",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPOHNkV1BrWlJvQlExSzZ4dzZIUGRGY0o5UHd1XzNCNDRrU2ViclF6a0ZfakFfQm5XSVg5MnpwN3B4VE5zdUdkNE1VQ18zeVZES0pZVmFFNmNYeENxVnU4ZjlIc0IxTThFeWViOEVOYWltNWpnR3VMY0xhQ1dwbTZxOFNzNC0xT1RxV0dRX2dSVWV6UTF4YURSdTVpb3VlNjBTQnNpcW43dXZ3UGdWc2JvT2sxTTNRcVRhZUlzSTNMWGF6TzNpa0VuUDVBb2FScVRsWGdGSXY0V0J6cE84dG9xR2EyVFZNWTc3OEtWRDVJT0lXX3Y2V2NzTjNGanZfSnBMZTFvVFBaVlhabV9SUW9hSGJweWd0dk0?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 18:35:10 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUU9fYnByanp4QVdOOEFFcU5hakxfdzdMMWVQYnF0MnJ6RjBuQmFzVFRRa1ZnSlQ2c3VFWHZDUjJjSERSVGxoUjhNVkk2cnlMOW9mWk9GWDE2VGluSnVNb0ctbW42WE9OOVE0dVFZMndqMExNaHNRWlR5bDVjZVEwVXFqOGNIUGQtMER3NUkxenhhV2VReVFsblpoNnJ5UndQd1hQZ2FhTFlpblNwMVlkX3ZtVC1fOVhj?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 18:35:17 GMT",
       "description": "Porcine sapovirus study first to evaluate a prescribed vaccine National Hog Farmer",
       "source": "news.google.com",
       "sourceType": "news",
@@ -85,19 +137,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPejc0TE9HSy1hUnpLQ0hNYUI4N0wxa3FLU2VjeDA3aXRhQ2RLOEFGSFdBN1hrbkQxdnAzbDgtM1hiRksxUHlhVVhqaEI1VjE3aF9nZGxEWENBRC14ODBoYkloSlo2b0RDOG1fRlRkZDBOdE8tNWgwQXFYOU5YV01iaThWTllXbW9ndU1raW5mcmQxY2toU1M4d3MxRWR1TXdNMTBhZUhnMzVsSDg?oc=5",
       "pubDate": "Wed, 15 Jul 2026 17:59:09 GMT",
       "description": "Cassidy grills Trump nominee on past vaccine comments in heated exchange STAT",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "'Are you going to protect our kids?': Trump's CDC director pick pressed on vaccine policy - KTBS 3",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQaFhYUGo2dThjSDF5a0tmYmpjT19kM2ZNd1BlSm02VWlxVjJfX1l0eV9keURYNEJ6b0tuX2V0SWZXZFo5OExUXzBDU1FCV01kU3FQb2lPQS1JUEtIOU5BLWUtRlIwQ1R6Z1ptMktRN1dhN2d3SFd0bnhnS2x5X0d4Tzk2U3F3Zk5PNnlZT3BRVzVxT1daWjJyMjB3ZlRoNzBRdzE4NnA1cnVwS1ZWbks3eTUzNkVmWkM1SkFlYkxDNXU4OGl3WTBkS251OTR2bTdOVUNLS3lPUFJIQmc2NFZMeEdIWm9PWExoS3RPUERiRE1SQQ?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 17:49:16 GMT",
-      "description": "'Are you going to protect our kids?': Trump's CDC director pick pressed on vaccine policy KTBS 3",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -224,19 +263,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Measles - World Health Organization (WHO)",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CSm90Nlo1aVhLczFhQ3MwSV80amFZNzd4WWZBbHFqbllGaXJ1S3psNFZ5YkxwbVB5bG93bTY5bnc1SEFaOTRtekd3ZVlmYXltT2lvYjRqbTNyc2VBYnE0WTkyYXpUT0k?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 15:32:54 GMT",
-      "description": "Measles World Health Organization (WHO)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Global Reduction In Unvaccinated Children, But Impact Of Funding Shortage Is Yet To Hit - Health Policy Watch",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOTNXTW10cjFpeVdOdmNoek9ZVE5iZUtHLTBMLTJvUURfSXBhOU9RTElpYXRrNjNaTWx6VDBkbF9yQ3NYcHVOVVdYNUNza1lGNVN4ekVpTEdlOFU4NTN2WTVCUEpmVlo2QkpZeUxqSnFyRXpFR2ttUF9ENlNDZVpsa0RZMk1ON0NKT0ctVTRyMl8wTkFTdjFVZEtUQVhQV0E0WlV4bkd1ODRUak9sSGFsb0J4R3RWVXA3aF80?oc=5",
       "pubDate": "Wed, 15 Jul 2026 15:10:26 GMT",
@@ -272,6 +298,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Long COVID & Vaccine Recovery: Live with Dr. Peter McCullough - AMAC - The Association of Mature American Citizens",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeC14S1dkdUYtQzBFSHZQZHFtcUJvSDNrQVh0TWhTNWdLc2NndXAtSzJ5b3VZRzdHSXdpZmtXRjFYSWx2WWZ3UWl0cGllZ3JnNk8zVnF5cmhWdDlwRVFKN1dfTWZTXzlIUDA0STRJYmtrMFdfMV9ydEtkcmRhRTFyUU5Ha1MtdkhtdHhTWDNxR2ltUmFENWdoRzJIaUl1dVByMXFCYmFrZjVQQVRYalRacFpBR2NYLXpvU0plN1NsV1FRTUV5djQ0eFdNZzFCUDZaSERUbUt0Sk12RHlFQmJKY09HNA?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 14:57:25 GMT",
+      "description": "Long COVID & Vaccine Recovery: Live with Dr. Peter McCullough AMAC - The Association of Mature American Citizens",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -692,10 +731,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Childhood immunization continues to recover across Europe and Central Asia, but gaps remain - Unicef",
+      "title": "Childhood immunization continues to recover across Europe and Central Asia, but gaps remain - UNICEF",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDZSOEJWRF9VbElvVmRvNUE5aW9NckhNRXlxYkpHWml4RjVDVGpyR0FFM05FNXlDWElua1AteUZyWFd0TXJBU1VmZXNDYi16dDA5MGlwYmRkbzJ0NVo0eldQU3NwLW9qTEVkYThKeEo2Tkd0TFR2UWRBNFJkdFFyT2VzcTd5cXVCdC1WR2U2MjNveDBGSnFrc0FudXZ3cDVmTXNmUjlSRzNWaTlkLXlFYUotbkpVcjgyZVBWWFU5bjlubGc?oc=5",
       "pubDate": "Wed, 15 Jul 2026 02:25:05 GMT",
-      "description": "Childhood immunization continues to recover across Europe and Central Asia, but gaps remain Unicef",
+      "description": "Childhood immunization continues to recover across Europe and Central Asia, but gaps remain UNICEF",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -722,19 +761,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQN2JLNGdLdFJIMnJyT2FNVlpqMHNtYjZCMmVNVGZCNnpFYnk1a0tybTdZVFd4cmFldWRaTVBkSmF0TzFXcHhhS3VfenpOMDRpNXRjaWtUMi1zcmowbmxreC1KanZWZnJIMlRIak1fRUNWcWZ0NWpWN2xpWlcyN1Z5ZmxscDQ3TXFiWHpIbXZlNHpaQXFsZmo4LWJ5bnRjRFI4bzZNLXpzRXczWTdxVWVMZU5sQW41ZVl5QlhxM2cwOFI3UlRCSlQ5NHZjVEphYml0OW5GbmVZdTNQczhkRmZULVBJRVFXa2lhTTRqbzByU0dDUlFnQ3hGanFMUWJsUXB1RmpxNHVaUTM5R1E?oc=5",
       "pubDate": "Wed, 15 Jul 2026 01:34:05 GMT",
       "description": "The new malaria vaccine helps in Africa but faces a test: Completing all 4 doses Ottumwa Courier",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "malaria",
-      "vaccineLabel": "Malaria",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "The new malaria vaccine helps in Africa but faces a test: Completing all 4 doses - Toronto Star",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbGEyTlhVYUZBMlNGR2wyNm5JaWhDb0pvNHBRVnZHM2FzUVRWM0FBMklxOFlpTmxBX1dIZ3FhZm9DdWEwai1WaWlBenNQMnNCUGtnbUsybUI2T0xJYXJpWE01dm1LZC10SktKcnVKQ0FNSjhVcUJQUGdDQllES0pfQnlvV0plUjVWbjRoSUJLUEh1YnI2aFc3QzEtS2lQOGdLVXVnNmtRVFBrRGhfcHlHTG9ZN3pNWkdBeGRjQVRNQzVGVnZTVy0wQldzT19qNXZPX0drVUpZZGlEb2JxcnNKQ01MQUZzTVFrZXNsMUJ0bnZDdFN1NTY0X1dYZkxaUGJ3?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 01:21:06 GMT",
-      "description": "The new malaria vaccine helps in Africa but faces a test: Completing all 4 doses Toronto Star",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1238,36 +1264,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Free back-to-school vaccine clinic begins in Texas City - The Daily News | Texas' Oldest Newspaper",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPakxqYjRUUUpTU0FLSW1CUi1xcFVaQ0kzaXprcmFrR0k1STFmb01QRERsbTVJWGVoa2hWZHZESmFwUVNHdFlHMXZROFJiUExjaWxYdnc0NlN6VENrYnNMSkpsdTJhLWhuQlprZVFzODlmaDh2MEJod1g4MjN6Z2RvOHdKSDd2N1V2OVdyWkxKT2dPT0lmVHAxdk50dzVOTjYwamplakt4N2ZVNFdnSkdEdElkbUdzMU5QNDFCdUdkRUJJbmZ2UWFVOTlzc3daLUdB?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 21:33:00 GMT",
-      "description": "Free back-to-school vaccine clinic begins in Texas City The Daily News | Texas' Oldest Newspaper",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Oxford begins first human trial of Bundibugyo Ebola vaccine - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMkhIQTk3MUtkM250eWtrelhHSFVmSjVwWDZoUzJFb2dnMDU1YUwybVJ1Y1psaEhhOWZQWldqbDRZMzJzRkFwRUpjQy1TOFR6blJfREl1LXM5V1Zvano0Z2syT2t2WkNoZ0pwaWNuaFR5d0xpdGhrVFJDRVZ0UnJmNDQ3TElCUnliR3p5VkZmWkF2c1ctQ01DZXFVT1lRaXZwcml3RHlEaXhrNXlhWHJ5LTJfb0NKV3RBd0NwWUFCV0JCZEgwdU4w?oc=5",
       "pubDate": "Mon, 13 Jul 2026 09:47:20 GMT",
       "description": "Oxford begins first human trial of Bundibugyo Ebola vaccine Reuters",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
-      "title": "UK starts first vaccine trial, eight weeks into Ebola emergency - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KXzNvREVfbU5lZUZ0WXozeEd1X0d1VjNNQTdiU1hkTVVtUTQxMEJMSEdQcEFPWmdXUURhakwwbXNZUXJ5bXJvQTRWTWJnZWxaWGlPaXlOUGptOUVx?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 08:00:16 GMT",
-      "description": "UK starts first vaccine trial, eight weeks into Ebola emergency BBC",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
