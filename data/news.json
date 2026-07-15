@@ -1,11 +1,16 @@
 {
-  "updatedAt": "2026-07-15T15:01:58.839Z",
-  "itemCount": 80,
+  "updatedAt": "2026-07-15T15:57:07.654Z",
+  "itemCount": 85,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 4
+      "count": 6
+    },
+    {
+      "key": "flu",
+      "label": "Influenza (flu)",
+      "count": 1
     },
     {
       "key": "measles_mmr",
@@ -40,13 +45,65 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 54
+      "count": 56
     }
   ],
   "items": [
     {
+      "title": "The state of global immunisation in eight charts - Gavi, the Vaccine Alliance",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHRlNTWDBZNVhjRVA1MHAtN092SmxNVW53TE54MU9EUm5IaEQtdDZwcTd3dG40c1k1azVjTkxHYk12bVFHZkVCSjJjYkNxRHBWSndvaXpza19qZTBlR1I1cnNfSU1LMUNadDZzTkI2alV5bHluY3lPTkJyams?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 15:43:24 GMT",
+      "description": "The state of global immunisation in eight charts Gavi, the Vaccine Alliance",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Global Reduction In Unvaccinated Children, But Impact Of Funding Shortage Is Yet To Hit - Health Policy Watch",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOTNXTW10cjFpeVdOdmNoek9ZVE5iZUtHLTBMLTJvUURfSXBhOU9RTElpYXRrNjNaTWx6VDBkbF9yQ3NYcHVOVVdYNUNza1lGNVN4ekVpTEdlOFU4NTN2WTVCUEpmVlo2QkpZeUxqSnFyRXpFR2ttUF9ENlNDZVpsa0RZMk1ON0NKT0ctVTRyMl8wTkFTdjFVZEtUQVhQV0E0WlV4bkd1ODRUak9sSGFsb0J4R3RWVXA3aF80?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 15:10:26 GMT",
+      "description": "Global Reduction In Unvaccinated Children, But Impact Of Funding Shortage Is Yet To Hit Health Policy Watch",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Childhood Vaccination Coverage Improves Worldwide, but Challenges Persist – UNICEF, WHO - The Indian Practitioner",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcjV2S3M5V2JLYWRTWFVwU0xMTTd6c3d0NDFyRkp5UnBIa0RGZndidEgwWk94WlZ2V1ZKbmkzMERTLUd0Y0paS01qSmFCRkpJaF9ZS3RhelR0akx2WG92V0F2ekk1S2NuaHMxV1VMUERRdGhBalFXdnAyWUp1ckhSU2VWZXFYb1hLUGNjUkRjdmhGX0lja0dHdzhOdWY4T0t1eV9FUXB4WlZ0c01NSm9QaXpQc3JZdjNad2c?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 15:06:03 GMT",
+      "description": "Childhood Vaccination Coverage Improves Worldwide, but Challenges Persist – UNICEF, WHO The Indian Practitioner",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "What to watch for as senators question CDC nominee Erica Schwartz - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLUUwdWE2Z2ZCX2s0WWNid19PSG9Bc0xtSzg4X2pOcWhreElfMkVPRnQ1WTBXbTRJNmVTV2VuTVB3VUVpS0ZNZGJXbjllMVdjRjF1VldhczNES1lGMWxWaGlaZmliTWRtVXF2SFowTHROQlIyWU5LY1VnQ0c1MV9vRC1pVmdhYkl0bFFfRXlXSy1pckJKNGxIeGp6akVibm96WmlMX0FYN2g?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 15:02:14 GMT",
+      "description": "What to watch for as senators question CDC nominee Erica Schwartz The Washington Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Sanofi Sues Moderna, Pfizer for Vaccine-Tech Patent Royalties - Bloomberg Law News",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTHEyZEdLLW9qRlpweVk2S2ZjNXBNS1pkZVk3SzZRNTVMT1FydG5HQ0J6aXJuVWFJX2FjRnZ5cGlnaXE2VGlGQlp0MUZCdmNlLXltTEpiSTdleTV4V19yNURfQ2ZQV21lU2g4dUp2NGZMXy1rWWY4bjc1eEpZbEd1RGpSRmxBbldPZjlua21yekNONTNDelRWQm5uX2ZVVXhaMHpERFU2MGpDeXhGdWo4S3hCNTJQQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORkE4alRJN0xWOXNLUkF0WFJ1dlA3dmpPNDV5bTVjWWxCYlI2blI0TExCLVRNMjJpLUlncWZWOHpTdElXV3hVTFBneGhoYmVTM1hZb1d6Vmo3SjhreHk3Sm9seDdWNUxzOEdLUDJ6SlFzR3VUd0FZTV9xY2U1ZVhzSWRTcGpSdUtSQmZBT01STDhRQXBpZUI4TXhqa2tJdw?oc=5",
       "pubDate": "Wed, 15 Jul 2026 14:59:00 GMT",
       "description": "Sanofi Sues Moderna, Pfizer for Vaccine-Tech Patent Royalties Bloomberg Law News",
       "source": "news.google.com",
@@ -75,19 +132,6 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORVJRcXY5bFNtb0VBd0ktSTVkdi1vV0hoQkszSzduSEJ6UmxxVWVXbVJac0xBVmUtUmZ6NUdLcXhiYU1xNHlqRmtqY3pobnhGMXoxNWFhQlN6UEx1cEM2ekRCVGZERl9kYk5KWERka0Zpc3VlWUlMdUs4YThJUHh5S21Udk1oMjF5QWx0bS1Ba3I3ZmVmVEdn?oc=5",
       "pubDate": "Wed, 15 Jul 2026 13:58:39 GMT",
       "description": "Human vaccine trials begin for latest Ebola strain Yahoo",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "What to watch for as senators question CDC nominee Erica Schwartz - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLUUwdWE2Z2ZCX2s0WWNid19PSG9Bc0xtSzg4X2pOcWhreElfMkVPRnQ1WTBXbTRJNmVTV2VuTVB3VUVpS0ZNZGJXbjllMVdjRjF1VldhczNES1lGMWxWaGlaZmliTWRtVXF2SFowTHROQlIyWU5LY1VnQ0c1MV9vRC1pVmdhYkl0bFFfRXlXSy1pckJKNGxIeGp6akVibm96WmlMX0FYN2g?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 13:32:14 GMT",
-      "description": "What to watch for as senators question CDC nominee Erica Schwartz The Washington Post",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -331,19 +375,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "13.5 million children around world missing out on all vaccines, UN warns - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb3ZhaVZraFlkMzY1UGotSzgxNzVfTkFoSkJvcllvT2JCcnVQVHMweFVoYVFQQVBfd1BxNkFhdFBNWDVHaFJOM0dDcFdENDNtUm9yVlBrTnRwc0VrdFR6eC1HdE9zQjcwQ2RkQmxQcmdEQi1yYmlSRG1BRlpWZnk2Y3ZtenZjd1BabFlzNkxNUDNjRHJwSWxYSTRyT0pkLUdH?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 08:12:00 GMT",
-      "description": "13.5 million children around world missing out on all vaccines, UN warns The Independent",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "UN warns of cracks in global immunisation system - France 24",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONTdiQXBxTTRiOW5UNVlrRDluR1VSaFhlSlFkN0lZQTJqZUhCVVpDNkllTThKSDE1UVJfeTlNYWNWTlNJVDZoemU3RDBBUGRKanhvWXhNVmZHSW1DTEtFMzI1SFk0T256bGJoY0ZmUWpVMXQzdVlsSmltMS1nR3hKQlFDaTNaOXdwSll5UFVmTnJXRmNnTFNUeXloTQ?oc=5",
       "pubDate": "Wed, 15 Jul 2026 07:27:11 GMT",
@@ -452,6 +483,32 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeFVOSWFjT3c2NjN6eEg3NEVQUmMycHNKN1UxU1hZOFJKVXJpbmtDZEQ1eHVyUVg4XzkxN2xlM0JsTDVEQzBBMVBXRElIZjVWNWtuOFhwRjIxWUdhQUlibUNZczRxUGEwWjdLMWpNVzBBb0Q1bnlHTEkxMEVTZ1dQRV9memdHTEFmbjllM2x3djVyNll3bjdzYkZtOTBwQkplT2c?oc=5",
       "pubDate": "Wed, 15 Jul 2026 04:13:11 GMT",
       "description": "Human Immune Health Atlas Maps T Cell Changes in Aging the-scientist.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Individualized, Goal-Oriented Cognitive Rehab Beneficial for Long COVID - Vaccine Advisor",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZmhHOHFBYldaMHNobUxXZUVPNkdxYWo1cTRFQmpPLTZEN1lOS3hMSDROWTg1ZXpQMEZXLU1OczdpODE4MUhTRTQzM2xGS2tTNUcxenhiUEwyeG5mblh0WldmZWRkYVN4X0Eybm1NOWVpcThyRGpncGhsdDZkOEpXWGdSbG1RblBiaEc3aVFmSmJhMDRGSmF5WFM2WWQwVmtyTWp2V3QxY0REMms?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 04:00:00 GMT",
+      "description": "Individualized, Goal-Oriented Cognitive Rehab Beneficial for Long COVID Vaccine Advisor",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Lettuce Suspected In Growing Multistate Cyclospora Outbreak - Vaccine Advisor",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdlZHYjZjdmF1ZVFMZGx5NWthZVVpOW4yUmdJUXBjNjNPZURSa0Z6d3B0ZHZxenFCLVI4a1lBNERJOUFCczI3R0lkVmtUbXlCc1NTRTE1WXV1UkJheXdqRDIxUjk0bnJ0alVHd3ZpR05KV04xOWhidmF3ZGZZd0VJQlJoNTdtMUNjN1BJSlZkVURfS1JuS0lPLW9sQjg?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 04:00:00 GMT",
+      "description": "Lettuce Suspected In Growing Multistate Cyclospora Outbreak Vaccine Advisor",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -617,10 +674,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Global childhood vaccination rates climb amid rising outbreaks and conflict - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYjJxYmFsNkNhLXVDUjRySmJWLWpVc3BpWDY4VWlfR0FncTlmUk9CRC00bnpmOC1vbGFIbnN0OHg4cm95VFZNRXFnS1BXLU10ZEtYUlk4ZW1XV1ZhZEJXcWl4M0R0MG5ESFBHMHAwWDVFTzNhYnBHTTU4dUVCSXY3Ul9EWDVPTGNvdGlILXh1TmJpRkh0bHBYaVZRSDhtTGkwUmZmMkE1QXBON3lQakZUTmFXNXMtSnlQT2xnZDlzZ2RibkxJaXJQS0JTMTROMmJEUFNGMElWNWE4Rnc?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 00:05:00 GMT",
-      "description": "Global childhood vaccination rates climb amid rising outbreaks and conflict Reuters",
+      "title": "Global childhood vaccination rates climb amid rising outbreaks and conflict - WTVB",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTFFHaUNmZ3N3NFVIY1V3X1RRUG9UY0tNalBwQUduVlRIQkxNMW1WS3pTLVVsdy01V215R1NCZW0ybzhDRkJHQWgyRUphTzdoSlg4VHJOcDIyWl9EOXpFR0RxNUFGUkEwTTh5VmV5ZHk2WFN5SHBpR2I4VTlOVWxZRW1GTllPX2VuMDh2Nk1RaE95c2NtRlZ6S3c4YnRMaVpWSVVUa1lEVTlrQQ?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 00:26:40 GMT",
+      "description": "Global childhood vaccination rates climb amid rising outbreaks and conflict WTVB",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -773,23 +830,23 @@
       "articleLabel": "News"
     },
     {
-      "title": "Novel vaccine framework illustrates promise for oral cancer vaccines - European Pharmaceutical Review",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRHBBQ29Jdm1GU0JScERBTVFOZldDMTdheE9PWGZWc0hvQnJ0UzlwTUtKVzJQM3d5dzRPQTk3WUZVRDFnRHpNcXhqWGFsdU9EUFhKeW1MOTRPMFJabzRXSzFoSmxuU1FOOENjX1FyeHRxNUM3RzBXNTVTSnpZVmFnY05saFB5cDZiakJOMnVyelNSRjFON3hlVldZM1pNMTU1YnZ3d2I5emxQX1dyVUNFaDlaa25JdnRNX0ZIMzFmZ01RQjc0WEJiZQ?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 13:19:28 GMT",
-      "description": "Novel vaccine framework illustrates promise for oral cancer vaccines European Pharmaceutical Review",
+      "title": "Who needs another COVID vaccine—and who might be able to skip it? - Medical Xpress",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVVzl2MG1OQW1TSXdsWDdMQkhsVm1FMGhVaWtoWWtlTlc5cnMxa3VRV1l5eTBIeUFjS2FmNDNUTEUySVg3c013OHV6aE1tcGdIYVhBdFhWeUlHSnRIT0lxYjRVaktKQVdI?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 13:20:04 GMT",
+      "description": "Who needs another COVID vaccine—and who might be able to skip it? Medical Xpress",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
     {
-      "title": "100 Days To Make A Vaccine: Inside The Visionary Mission To Develop Immunizations For Any Future Pandemic In Record Time - IFLScience",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNU1k4b3NXeHdYa3JFQVM2amo3OXRVZnFBazVaYXhOUlJxU0lZOG1Ta2tMdjZCeXR6VlpOaC1vLTVsSW4wSlMwVDBJclhiZ0tBU0JROVY5UXlKcEVqRF9zN1RDVEx1REJrODB2TGJQV3BicHZ2OERsRVloeGhOLXpJYzFzQ1NPREJoWEVsVW1lWmlRaTJOdjZ0ejBHRGZLMm8yVkRsTl9IeFdrNm1pRDJxMy1XTFNOeXdrczQ4Y1FHbXpoNFNWVk9pRjU5M3ZrU1ViTFVmS1o5enMxSVhQOEMxbGJuSjVpSmc?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 13:17:44 GMT",
-      "description": "100 Days To Make A Vaccine: Inside The Visionary Mission To Develop Immunizations For Any Future Pandemic In Record Time IFLScience",
+      "title": "Novel vaccine framework illustrates promise for oral cancer vaccines - European Pharmaceutical Review",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRHBBQ29Jdm1GU0JScERBTVFOZldDMTdheE9PWGZWc0hvQnJ0UzlwTUtKVzJQM3d5dzRPQTk3WUZVRDFnRHpNcXhqWGFsdU9EUFhKeW1MOTRPMFJabzRXSzFoSmxuU1FOOENjX1FyeHRxNUM3RzBXNTVTSnpZVmFnY05saFB5cDZiakJOMnVyelNSRjFON3hlVldZM1pNMTU1YnZ3d2I5emxQX1dyVUNFaDlaa25JdnRNX0ZIMzFmZ01RQjc0WEJiZQ?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 13:19:28 GMT",
+      "description": "Novel vaccine framework illustrates promise for oral cancer vaccines European Pharmaceutical Review",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -842,19 +899,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOX1hEZm0wRml3Q21HY2NJaFloaFZTem9KaDQzTnhCMVQwTHdHd2dFWWdzMXhqbTh2Y0g1eXU2WnhrVzJtRGU3QnltYThEWW5Db3lraDZ0VDQzZXlkM2dkU01vMHJxZDl5RWd5bUpXekxaVk1ub0RXcTFXdm8xdVp4Y2ZNNWRBdzhLSGdTMkMxRHQ3Z21mcURWNnQyVmFZUlRnejQxR3ZLZWJqV2FENFU4clBBbEUwYVNtbDltaDdMRWZ6eVBPdjRLRFlRZ0RrQXJzNkdrb3plQnBhUjJpNmtxSk0tc2hheVNoVjB4aFJxUGZGaFllNEhRTjZMSWI2T09CTy1HSFF5WQ?oc=5",
       "pubDate": "Tue, 14 Jul 2026 12:33:00 GMT",
       "description": "Anixa Biosciences Expands Global Patent Portfolio with Australian Patent Acceptance for Breast Cancer Vaccine Technology PR Newswire",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "First Bundibugyo Ebola vaccine to start human trials in the UK - Euronews",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSXBPMzVIVVl0dVlyZk9PNkc1VU51TW9JOGpMVFEyQkFidmN3SmZiRUFLRGVRbU9nZVA0YWgwVjdBLU1QOHIxS1BXMzJmbUlHS2F3OXNMZjhjYUw2QU0wQnNLMGstWEZXZFhtdlVhMXU0aFhZVHRtdUstdkZNRnBCdU1mS2hLUTZYUUpfVmtXX1ZQRnhmNkFYYVVWTENoV1VZM29QY2VLS3k?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 10:35:47 GMT",
-      "description": "First Bundibugyo Ebola vaccine to start human trials in the UK Euronews",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -994,6 +1038,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Texas Air Force Base Flu Outbreak Prompts Partial Reinstatement of Rescinded Vaccine Mandate - thetexan.news",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNTU9sVGtOR3VGcTk5XzFEQ2RaaDl0R0tsUFh6T2k2V2lSeXprbURCeVZxN082N2l5bDZicUVORG1FY01BTDdiX0MwMHBnTlJicUtyeWhkX1Fjd2R5cGV6cGJmM3haQjNaX01hVU5Kc1FxQ1JwTmppMmpsN2ZwRkdhTmZKRW9vS1ZoN3VUU0xIdzhMNDJnbFlvOVpxYjd1NXlvaVdtdFR1dXpGN01HYnJkZWVoc2tPWW1zSjlSUVJuckM5d3hLVWNLSFNnVnZqcEI1ZWk0bG0waEx2NEo1OUp3cHd0Vm5Eck1ZZmdmWW9YSjFZV3hBMFo0RkNlbzdNQ1V5Y0sxeTJJTWhlalJEZlRB?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 13:11:00 GMT",
+      "description": "Texas Air Force Base Flu Outbreak Prompts Partial Reinstatement of Rescinded Vaccine Mandate thetexan.news",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "New KFF Poll Reveals Who Is Most Likely To Endorse Vaccine Myths - U.S. News & World Report",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWl9kV0otd1VKUi1TejdWSXh5X3NDanR0NDV6VWE0VkVxVjdWbUFiRUpySUcyall2VUI2RnlfTTN0MmZid1hqTUg4RWFaWnlRSXRQN0pZV3hsSl9oOGlFTGJQZWRnN1ZWX3ZRbnlxUjgxZGJYWF82cEpJVUZ1cDFTVjhPaUU2Q1ZxUHpkaGtGa0h0SGFfbjBjZ1BWSVNmclBpZ01sVUlHMFJuUUV2Y2YyMGxjMmlYNUoyZ3FjLVJDVnRzZw?oc=5",
       "pubDate": "Mon, 13 Jul 2026 11:24:08 GMT",
@@ -1029,6 +1086,19 @@
       "sourceLabel": "News",
       "vaccineKey": "meningococcal",
       "vaccineLabel": "Meningococcal",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "High-Dose Influenza Vaccine Reduces Hospitalizations in Older Adults - Infectious Disease Advisor",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSC0zQS1ZWUtjbnl5YWw2V09JUXV6N1lKdW16Z3V1R1I3NkFsVnNfRE1KUFJwU3prUXJNUkxJc0JheWdZTUpTX1FrMFNlVWxDX1p5VmpyUlROTjU1V3dJUFdZWTgyX3lEcVVjX2RCdnVna3lXV0htSHBWU0JFUmo3ODZjU0RDcS0yWXFyN1J2SlUwZDVJWnRjUkNjVWJqQWRXN3FjeVNIWmdIbEM4Q3V3Tw?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 04:00:00 GMT",
+      "description": "High-Dose Influenza Vaccine Reduces Hospitalizations in Older Adults Infectious Disease Advisor",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
     },
