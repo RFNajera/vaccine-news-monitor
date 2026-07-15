@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-15T14:05:26.922Z",
-  "itemCount": 77,
+  "updatedAt": "2026-07-15T15:01:58.839Z",
+  "itemCount": 80,
   "groups": [
     {
       "key": "covid",
@@ -10,17 +10,22 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 7
+      "count": 10
     },
     {
       "key": "hepatitis",
       "label": "Hepatitis",
-      "count": 2
+      "count": 1
+    },
+    {
+      "key": "meningococcal",
+      "label": "Meningococcal",
+      "count": 1
     },
     {
       "key": "mpox",
       "label": "Mpox",
-      "count": 1
+      "count": 2
     },
     {
       "key": "rabies",
@@ -30,20 +35,46 @@
     {
       "key": "malaria",
       "label": "Malaria",
-      "count": 9
+      "count": 7
     },
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 53
+      "count": 54
     }
   ],
   "items": [
     {
-      "title": "Human vaccine trials begin for latest Ebola strain - Semafor",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWjhUMFRQTlJZTmJQNHJyb2FBVGxCYzZLRnd5dVkyNjg2aTBPSE9RVFB2dTVSZFlNSWZ2SmZYYVhHWC1JdzhzRHpBUDlKVExTaWhFaEFKTXBzcjVESTFvb1ZoRW5lUl9Ja2pnQ3lPSzBCSEl2YU9zald4MnoyLV9RUm9NcFRRQ29qUUxEZEpURFQySWFOLVdTTTNuU0N2SWs4MllVUndGejY?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 13:58:00 GMT",
-      "description": "Human vaccine trials begin for latest Ebola strain Semafor",
+      "title": "Sanofi Sues Moderna, Pfizer for Vaccine-Tech Patent Royalties - Bloomberg Law News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTHEyZEdLLW9qRlpweVk2S2ZjNXBNS1pkZVk3SzZRNTVMT1FydG5HQ0J6aXJuVWFJX2FjRnZ5cGlnaXE2VGlGQlp0MUZCdmNlLXltTEpiSTdleTV4V19yNURfQ2ZQV21lU2g4dUp2NGZMXy1rWWY4bjc1eEpZbEd1RGpSRmxBbldPZjlua21yekNONTNDelRWQm5uX2ZVVXhaMHpERFU2MGpDeXhGdWo4S3hCNTJQQQ?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 14:59:00 GMT",
+      "description": "Sanofi Sues Moderna, Pfizer for Vaccine-Tech Patent Royalties Bloomberg Law News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Expert Q&A: What the MMRV Vaccine Equity Data Means for Pharmacists - Pharmacy Times",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNUFvajVzb0N5RzRKQzRUal91RVV1VG54LWhlOW1EcnYzQU1ZR0U3RzZJTVRtTU42SUVLSDFid0RpLTAySWc5eEs0YmpzVkpJQjdHV2wtaGdxcmI4b05kbkZxelhlQ01ybkRqQU9YVE5UT2p1bFdMc0dEWF8wZEMwMmp4N3lGOTBfZTNFWnp5U1pRWW40LUJ2dEkzZlpSckVkTFYw?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 14:36:01 GMT",
+      "description": "Expert Q&A: What the MMRV Vaccine Equity Data Means for Pharmacists Pharmacy Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Human vaccine trials begin for latest Ebola strain - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORVJRcXY5bFNtb0VBd0ktSTVkdi1vV0hoQkszSzduSEJ6UmxxVWVXbVJac0xBVmUtUmZ6NUdLcXhiYU1xNHlqRmtqY3pobnhGMXoxNWFhQlN6UEx1cEM2ekRCVGZERl9kYk5KWERka0Zpc3VlWUlMdUs4YThJUHh5S21Udk1oMjF5QWx0bS1Ba3I3ZmVmVEdn?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 13:58:39 GMT",
+      "description": "Human vaccine trials begin for latest Ebola strain Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -57,6 +88,19 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLUUwdWE2Z2ZCX2s0WWNid19PSG9Bc0xtSzg4X2pOcWhreElfMkVPRnQ1WTBXbTRJNmVTV2VuTVB3VUVpS0ZNZGJXbjllMVdjRjF1VldhczNES1lGMWxWaGlaZmliTWRtVXF2SFowTHROQlIyWU5LY1VnQ0c1MV9vRC1pVmdhYkl0bFFfRXlXSy1pckJKNGxIeGp6akVibm96WmlMX0FYN2g?oc=5",
       "pubDate": "Wed, 15 Jul 2026 13:32:14 GMT",
       "description": "What to watch for as senators question CDC nominee Erica Schwartz The Washington Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Bundibugyo Ebola Explained: Why Existing Vaccines Don't Work and What Comes Next - Infection Control Today",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNEszZlVYRU1iamNSZDh5Vi1nTVhoMHFhWDIzcHRDT3hnUDFLSFlwcGJKcmx2OVh3c2tjcEpDRnRQQm13TDJIdXB5dVN4a2xMZEx2SmsyMzFzSHVaRzJwamRqQ09ZQmExeU9yN0NqLWZ2aFJvcm9kcWwwbW1aMVhRSmtxNmpLRWxJczRub3hSZGtQczVXS010dldPU1BlUmtERTQ4S2ZaZ3BFRmY3VzVYaGF6TWtqVXdWVVE?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 13:28:04 GMT",
+      "description": "Bundibugyo Ebola Explained: Why Existing Vaccines Don't Work and What Comes Next Infection Control Today",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -196,6 +240,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Measles - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CSm90Nlo1aVhLczFhQ3MwSV80amFZNzd4WWZBbHFqbllGaXJ1S3psNFZ5YkxwbVB5bG93bTY5bnc1SEFaOTRtekd3ZVlmYXltT2lvYjRqbTNyc2VBYnE0WTkyYXpUT0k?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 11:17:18 GMT",
+      "description": "Measles World Health Organization (WHO)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Group B Strep Vaccine Advances Could Help Save Thousands of Newborn Lives - fundsforNGOs News",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRVl4YVNoVVJPZV85T0tCT2xiLWpJX1I1LUlIVlhWN3RhRzlIVEMtNW1OLTdzTDVTa3V6LWNNUXk5OGZEWnNOVGhRUURhcW0zMGtWd2hUMldnX2tQNEtubWZjOHRYZWpyWUZRZWQ0aDg4OHYxZEFMd1dQZ0FvX0l6UmYwaVBkMFNCakZUcnJNNFFzeHJobjJIdHoxU2hKcVR5NXk0WEZ4RkU5eVhSOUdMaHVsS0I3UQ?oc=5",
       "pubDate": "Wed, 15 Jul 2026 10:58:59 GMT",
@@ -235,19 +292,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Trump's CDC pick could have easier path than other nominees - Axios",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOQ1hRcEtvNE0tbnk3U05rdEh0aHdXckNjOHlGdzhyb0w0enpTaE9BWUxpVUNER1hZUS1nZy1QbDRJMUFVYkVIS0ttcnFZMmwzTGt6MTQ4dWxXOUlOX0lXQWxUSVdnOXgwMy1iNmtXOWo4akpHRzhTM3hR?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 09:29:57 GMT",
-      "description": "Trump's CDC pick could have easier path than other nominees Axios",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hepatitis",
-      "vaccineLabel": "Hepatitis",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "WHO, UNICEF warn funding gap could reverse immunisation gains in poorer countries - Premium Times Nigeria",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcFdrWVZ0QkRIOGpTRlVXcWNzLWpGblBvZ0kwektiTlVRbEpySGhhdDJ6a0NRN01BaEsyOTNNTERpbHBwdzgxb0VrYmhDSl9CQUE2NlhTNU9yeEZIZHRnRllnMEt2ZXZCbHpsVkJNWmJ1V1dCeGdjVEU2VnNHLUNYN1RJemFCVVZLRXBlcTVaM3dSc1NkVk14LWlkY2V5eHRWVU83Q3FnaW1GNnNUUWdqbm9JSTM3RnNRT0Q5ZW84bHhlTHRDaTdMUzRxVUs0UzA3NjQyb01mNGJhQQ?oc=5",
       "pubDate": "Wed, 15 Jul 2026 09:15:54 GMT",
@@ -261,15 +305,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "Global childhood vax rates climb amid rising outbreaks and conflict - mediaselangor.com",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51cDNZd0Mya2ZVQWdROXprRkZzQkNJdzg4UW1kREZURTJLUEE1SkIzM2ZNYUpBLTJteENOUW5EdHZGWF85U3BpeUgxR0ptTERIQXhfNDlB?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 09:07:33 GMT",
-      "description": "Global childhood vax rates climb amid rising outbreaks and conflict mediaselangor.com",
+      "title": "The new malaria vaccine helps in Africa but faces a test: Completing all 4 doses - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNUs4OHlaa0Fsd1NZdzNadDVyQ25wcld2TGVXT192OE1aRVNLQkd2Sk5aejZvTnVDN0xRcEdvUVQzSUw0bGItYzJaLUl3bnZfVW9UR0o1SXNFY1NIb0JoMWpDTnNKSVlNVkJaZUd2V1B4bU1CY1Vza3RCb3BTdzA5eUlob2d1VUdZSTQzYngwM25CSDlES29iT0VEZVRGUHlmY3dqSS1HVlltMmk40gGyAUFVX3lxTE9LaGFsbnkxQ2V3clZnME5IMm5hdFNMakw0cElzLUZEWnJjRDBQclg0U2JmUk00RjNOWkVZWVoyaC1iV29DXzNLZzhkOHFVTUtUTjFyamNrN1hoNEdrYmx0Yzk3MTZDUW1HbFV0NmJmQW1rdlhTZDBNbEZaLVlXNTBjLWxkRjhaOU1CQ29yNDc2RmpFRjNYeXJEZ2VZZUk4aTNPbHBjMWJnYnNHOHhGOE1GQUE?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 08:26:17 GMT",
+      "description": "The new malaria vaccine helps in Africa but faces a test: Completing all 4 doses ABC News - Breaking News, Latest News and Videos",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
+      "vaccineKey": "malaria",
+      "vaccineLabel": "Malaria",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -287,36 +331,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "The new malaria vaccine helps in Africa but faces a test: Completing all 4 doses - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96aGw5VjF1VkZ1RlRzdmotanF3eVNFWERTdHZyYldhVklRaXRPOUtpSm8zZkxPdk9BMjlPZUVsVVRISUNkM1dHNXU3aDVUbkZJcGtJM1dSalZwN0F4ck1lNkQ4RzJCRU0tamNrZmN2c2hMTjd2bFBXUXdYR1Y?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 08:19:45 GMT",
-      "description": "The new malaria vaccine helps in Africa but faces a test: Completing all 4 doses Medical Xpress",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "malaria",
-      "vaccineLabel": "Malaria",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "13.5 million children around world missing out on all vaccines, UN warns - The Independent",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb3ZhaVZraFlkMzY1UGotSzgxNzVfTkFoSkJvcllvT2JCcnVQVHMweFVoYVFQQVBfd1BxNkFhdFBNWDVHaFJOM0dDcFdENDNtUm9yVlBrTnRwc0VrdFR6eC1HdE9zQjcwQ2RkQmxQcmdEQi1yYmlSRG1BRlpWZnk2Y3ZtenZjd1BabFlzNkxNUDNjRHJwSWxYSTRyT0pkLUdH?oc=5",
       "pubDate": "Wed, 15 Jul 2026 08:12:00 GMT",
       "description": "13.5 million children around world missing out on all vaccines, UN warns The Independent",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "UN warns of cracks in global immunisation system - The Straits Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU0tKM2ptNTFndVBZX0dnSnJsWDVUYWlvOVBmeWhNblkzUDFMblBjZWhPUUF2ZXBhZ1htakRFVGxoV0VyX1RYSkNZb1FVWFlWNGp0TDE3N0V5amNpSWl3WHR2b2lOeWxMazF4SUF1d2YxSWJSbUJwLV9JV2tpeFJDVVh3b2FpeWpnc2Jv?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 08:10:00 GMT",
-      "description": "UN warns of cracks in global immunisation system The Straits Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -430,6 +448,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Human Immune Health Atlas Maps T Cell Changes in Aging - the-scientist.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeFVOSWFjT3c2NjN6eEg3NEVQUmMycHNKN1UxU1hZOFJKVXJpbmtDZEQ1eHVyUVg4XzkxN2xlM0JsTDVEQzBBMVBXRElIZjVWNWtuOFhwRjIxWUdhQUlibUNZczRxUGEwWjdLMWpNVzBBb0Q1bnlHTEkxMEVTZ1dQRV9memdHTEFmbjllM2x3djVyNll3bjdzYkZtOTBwQkplT2c?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 04:13:11 GMT",
+      "description": "Human Immune Health Atlas Maps T Cell Changes in Aging the-scientist.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Correction: OHA urges vaccination amid global rise in clade I mpox transmission - The News Guard",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZTFEamhyckkwczEzYS11Q3Z2UmJPT2pkZm5iN1VNd0JENEZpdy0ySFl4ZW5rVDVhQWZ5aWNCUEVRX3cydFNwVm42VmRVWHRNUVljOW5Lam1qMGVWd1V2cTJYWUZTTTcxSzRWVGJzS2RMX0FneUFVdTQ1OF93emdSRXBQdGhkb2tPQkZoRUx3YXpPY3lyOE54VE9lN2s1MzVzQWlyZkUxSlBzMFZPRWRMYnRWWUxuTVZQUjAwT3VGSTl0SmpWdDI5QTlhckxCelJsZ1hER3lWRzRhWjB4YVhpeWhaaEJEc2ZGLXVZS093U1BhLTQ2?oc=5",
       "pubDate": "Wed, 15 Jul 2026 03:08:18 GMT",
@@ -447,6 +478,19 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDZSOEJWRF9VbElvVmRvNUE5aW9NckhNRXlxYkpHWml4RjVDVGpyR0FFM05FNXlDWElua1AteUZyWFd0TXJBU1VmZXNDYi16dDA5MGlwYmRkbzJ0NVo0eldQU3NwLW9qTEVkYThKeEo2Tkd0TFR2UWRBNFJkdFFyT2VzcTd5cXVCdC1WR2U2MjNveDBGSnFrc0FudXZ3cDVmTXNmUjlSRzNWaTlkLXlFYUotbkpVcjgyZVBWWFU5bjlubGc?oc=5",
       "pubDate": "Wed, 15 Jul 2026 02:25:05 GMT",
       "description": "Childhood immunization continues to recover across Europe and Central Asia, but gaps remain Unicef",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Zika: risk assessment and vaccine progress - InSight+",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZU9IY3YxdDIza3lFbmIxNFhpUDEwQzBQYk0yY1l6SXRZb2dwblBqMEZycWlROEUtTDJVcHhHS3I0SjZkTGNzOUxBcXZOU1JtNTJyU0w0eUljUWtMcS1hOTNBRFVwZzJtWTd4dmhPYjV3d3pQQ3VEREUwb2hTSld2bXdrYmg4QQ?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 02:23:36 GMT",
+      "description": "Zika: risk assessment and vaccine progress InSight+",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -521,10 +565,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "The new malaria vaccine helps in Africa but faces a test: Completing all 4 doses - guardonline.com",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRmFvWlRUeXJORXpWSU5sLWJxWElOR1dGTWxlMy02aGVSTWZaUFliekN0cEowMDRsX2R0aVdhNDdab1ZtTnQ1V04tMTlaUm9LcldqX19wVGFQcFZoaWtGNXo4dTkzaXJiczNkS2VVQlFHcEY5S1FncFpBbEo4OUlEWFFMbW9RdVZIMTUtUFlraVJQWUdpendXdDhBZ1o3YWRGM3MzbFBWU0lEY3d4blJxM29rYmV4ejg2cG5Vd3BydHMzV1JrMm43V0JuWWUyOEJuMm5IMmtYWjF6SWhtVEg0Uk9Qa1JFS3BKaWx5UHA1MG4wVXA5Ml9JQkZleWw?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 01:17:28 GMT",
-      "description": "The new malaria vaccine helps in Africa but faces a test: Completing all 4 doses guardonline.com",
+      "title": "The new malaria vaccine helps in Africa but faces a test: Completing all 4 doses - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcTRaQzExU0Z5ZEpFSnlFNHBGWXhaaURnR2NMenF5Rmk5Wk9lSHFyU2ViRlh5Wjc0Wkdaakk2bGFROS1QQm5hSnFOSDFPUDc2UThxVlA1aUgzLUtrREdkbk14dG1oaXJsM1gwLWI0S1ViNzBORUVuLU1YOUoxQlE1S09paE90emlzaWh1M01xay15T05IY3RtNG1GYXVtS3hmb181UnA5d2U?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 01:17:00 GMT",
+      "description": "The new malaria vaccine helps in Africa but faces a test: Completing all 4 doses The Independent",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -545,32 +589,6 @@
       "vaccineLabel": "Malaria",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "Cameroon Malaria Vaccine - Journal-News.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM2Z0aWxMRWNQYjBfeldpQzRrbXk0UWZqWC1KT2pUaWdEWlh5ckh5QVg4cFI5dF9KYnlNQml0MEJLejh4eDdyX2pnQUNrY01pdEJlUWNiZGFYckg4ajUtZHF6RU9MaFJkWFNHSDJTbjY3TXBEd1NVcEljdDVLZjlJODJoTVZOMDdERHFCdTNsemhVSWpFMWJ1TnoxRDhzMzBrM2R2cHd6WjYtWTA3bU1NQmZZR0Y?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 01:00:51 GMT",
-      "description": "Cameroon Malaria Vaccine Journal-News.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "malaria",
-      "vaccineLabel": "Malaria",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
-      "title": "Cameroon Malaria Vaccine - Idaho State Journal",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc1p6VklDN2R1WmUydkdQSURzMng5cDdMMTF0YllGM3pXeHlZbXg0NEFSc3ppS0pJSGdaVnMwV25pNWRSZFNpNkU0aG1TRDhGODJBSGFDSXJybmNvLW5VNmZpQ2ZCZkFwQ2pRSVBqUFFZU09iOTg4VVVSSVo4YmwxWDhnRG15aHBhaG1LTEdlTXo3VU44TUF5N1VuMmJpdzNiTHZ3eDhibVp4ZHpVOFZmWEttY01uOEph?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 01:00:50 GMT",
-      "description": "Cameroon Malaria Vaccine Idaho State Journal",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "malaria",
-      "vaccineLabel": "Malaria",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "Global childhood immunization coverage inches forward despite conflict and hesitancy – UNICEF, WHO - World Health Organization (WHO)",
@@ -599,23 +617,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Global childhood vaccination rates climb amid rising outbreaks and conflict - WTVB",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTFFHaUNmZ3N3NFVIY1V3X1RRUG9UY0tNalBwQUduVlRIQkxNMW1WS3pTLVVsdy01V215R1NCZW0ybzhDRkJHQWgyRUphTzdoSlg4VHJOcDIyWl9EOXpFR0RxNUFGUkEwTTh5VmV5ZHk2WFN5SHBpR2I4VTlOVWxZRW1GTllPX2VuMDh2Nk1RaE95c2NtRlZ6S3c4YnRMaVpWSVVUa1lEVTlrQQ?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 00:26:40 GMT",
-      "description": "Global childhood vaccination rates climb amid rising outbreaks and conflict WTVB",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Bangladesh launches free typhoid vaccine for children - Muslim Network TV",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUXYwaU1TTC0zNDhINzN6UnJLZUhfMldYcWZtRS1CbVRlVGF0NElkek1oMkZsREVvbzVIZmxsS0kxaExaVDlmSDFXUnY3LXlFOWVMcGJ1UGdWV0ctTVJzT2YtcE1yR3F1QVB3aEI4MmNCVUpsTE1GUndOWmM4QkU3ZlRDM3F3N05CUDNz?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 22:24:15 GMT",
-      "description": "Bangladesh launches free typhoid vaccine for children Muslim Network TV",
+      "title": "Global childhood vaccination rates climb amid rising outbreaks and conflict - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYjJxYmFsNkNhLXVDUjRySmJWLWpVc3BpWDY4VWlfR0FncTlmUk9CRC00bnpmOC1vbGFIbnN0OHg4cm95VFZNRXFnS1BXLU10ZEtYUlk4ZW1XV1ZhZEJXcWl4M0R0MG5ESFBHMHAwWDVFTzNhYnBHTTU4dUVCSXY3Ul9EWDVPTGNvdGlILXh1TmJpRkh0bHBYaVZRSDhtTGkwUmZmMkE1QXBON3lQakZUTmFXNXMtSnlQT2xnZDlzZ2RibkxJaXJQS0JTMTROMmJEUFNGMElWNWE4Rnc?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 00:05:00 GMT",
+      "description": "Global childhood vaccination rates climb amid rising outbreaks and conflict Reuters",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -742,6 +747,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "New Bipartisan Legislation to Modernize Vaccine Injury Compensation & Provide Relief to COVID-19 Claimants - Congressman Lloyd Doggett | (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcnR1X1NoMjllQXBwZVM3dzBQR3hyTnBVYXVnQ1BiWG84SUZmaEJ2YVRDaVRibDU0X3lUYnRvOVNLaE8zUmFRaHhUQm9UNU9UUjJCMzFkWXZ5VmN6VnRwYjQ4V3QtY0ZJYlJvaHZYa0pLekotZFdNTVJHWk1vOEdiQUFSMHZvU1kzWFlILTQzVjlNWlQ5U1BqblEzOGN4UG5na3A0emk3Szg5c0JrQ0xjSE1tNmxuV1ByMHNj?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 13:47:58 GMT",
+      "description": "New Bipartisan Legislation to Modernize Vaccine Injury Compensation & Provide Relief to COVID-19 Claimants Congressman Lloyd Doggett | (.gov)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "A Group B strep vaccine could save thousands of lives. But countries need to prepare now - Gavi, the Vaccine Alliance",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUDRCMEpCZXRSZEFQVmk5SFRyWGd2V241UjJLcGRfWTRLMjlxLTNlSUU5ME1qRXNTTlB6VkxMcUdGaFJnaTY5YWVFYkRKYl93bDN4Y2pWNkJFa0M4QjJYYkQyY1V3RkVBd2xBTTdhYk9HMmtqS3FhRXFqR0NfV0g3VHpfbE0yUnFYWk9HODZwUU9Db0JVQThMZjZLT1hyREhoTW1qWHlxWkU0YzM0Qnc?oc=5",
       "pubDate": "Tue, 14 Jul 2026 13:30:32 GMT",
@@ -751,19 +769,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Who needs another COVID vaccine—and who might be able to skip it? - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVVzl2MG1OQW1TSXdsWDdMQkhsVm1FMGhVaWtoWWtlTlc5cnMxa3VRV1l5eTBIeUFjS2FmNDNUTEUySVg3c013OHV6aE1tcGdIYVhBdFhWeUlHSnRIT0lxYjRVaktKQVdI?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 13:20:04 GMT",
-      "description": "Who needs another COVID vaccine—and who might be able to skip it? Medical Xpress",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -785,19 +790,6 @@
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNU1k4b3NXeHdYa3JFQVM2amo3OXRVZnFBazVaYXhOUlJxU0lZOG1Ta2tMdjZCeXR6VlpOaC1vLTVsSW4wSlMwVDBJclhiZ0tBU0JROVY5UXlKcEVqRF9zN1RDVEx1REJrODB2TGJQV3BicHZ2OERsRVloeGhOLXpJYzFzQ1NPREJoWEVsVW1lWmlRaTJOdjZ0ejBHRGZLMm8yVkRsTl9IeFdrNm1pRDJxMy1XTFNOeXdrczQ4Y1FHbXpoNFNWVk9pRjU5M3ZrU1ViTFVmS1o5enMxSVhQOEMxbGJuSjVpSmc?oc=5",
       "pubDate": "Tue, 14 Jul 2026 13:17:44 GMT",
       "description": "100 Days To Make A Vaccine: Inside The Visionary Mission To Develop Immunizations For Any Future Pandemic In Record Time IFLScience",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Preclinical data support Evaxion’s platform behind CMV vaccine candidate - BioWorld News",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOTNvTmVmdkE3VUFiLWpqdzFsRWhHYVBlNUxXY0R2dXI1N0E4RW4tYTNGd3dISEFvekZIODNqZnJwbkRfTzMyaUxtS3pfZjhZREljRWZFRk9lMEluMVNqYjl0Tkd1U1drZl9BZjdtOEtwOTE0TFU3bFlPdnEyWDFNVmp1SmpfSEY4UEppcnY1X2xjNkZYX2xjdHgyVEFKVXB2cWZibzJzWUZ6MzhFTnlYS3RB?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 13:00:00 GMT",
-      "description": "Preclinical data support Evaxion’s platform behind CMV vaccine candidate BioWorld News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -859,19 +851,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "UK begins human trials of new Ebola vaccine - Semafor",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSjFSSjhNYkpkWUlvbGU2aDRhdGtOOFA3SjNpTmFhaUZPZktuSzBRVmtMSFBrdkoxZUVaNTBRNzNRNHl3cUJqT2FaWW95SzQ0dW8wQnpBNWlXMW1lZFp2QjlvUWEtU1NtRWdhY2tHbjliNHRjM3Jyalc5bHM3SnZGMFR2Wk54a2hUdjlnWUxqOA?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 12:02:00 GMT",
-      "description": "UK begins human trials of new Ebola vaccine Semafor",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "First Bundibugyo Ebola vaccine to start human trials in the UK - Euronews",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSXBPMzVIVVl0dVlyZk9PNkc1VU51TW9JOGpMVFEyQkFidmN3SmZiRUFLRGVRbU9nZVA0YWgwVjdBLU1QOHIxS1BXMzJmbUlHS2F3OXNMZjhjYUw2QU0wQnNLMGstWEZXZFhtdlVhMXU0aFhZVHRtdUstdkZNRnBCdU1mS2hLUTZYUUpfVmtXX1ZQRnhmNkFYYVVWTENoV1VZM29QY2VLS3k?oc=5",
       "pubDate": "Tue, 14 Jul 2026 10:35:47 GMT",
@@ -896,32 +875,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "First trial of Bundibugyo Ebola vaccine starts in UK - pharmaphorum",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR09zdWtkZ3dpOXE3WGEtSko3ZkVDZzNNUEQtdGJtbE5FX2E2ZDBzc0F5LWJjVUhjQm53N1lMRkJYMEVlMFdDNVJhSC00TG9yT1BOa2dGSnktbnZkT2xfdS1JWHVySjVCX2I2MVl2QnllX3BVelAzMk51Y1lpTlFiUWl3?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 09:57:15 GMT",
-      "description": "First trial of Bundibugyo Ebola vaccine starts in UK pharmaphorum",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
-      "title": "County health departments to host school immunization clinics - Northeast Mississippi Daily Journal",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNmRnQm8xbjNocWRMblZhd0dSLWtpdExCa1NDOFhCbEpITzNPSlZjdGZrdkVtZTZPWmtWYTB6SnVaQ0dLblhrMFZabDlBNFZXYnQyU3kyTEN0ZWV3WkZBOVJsQWNieUROWHNoMDFNZXdCMDI3QjIzQVlmZ0JnZUdRRXh5Z2E3Tkk1eFoxODVFVDMxNHp6VlBUVmZEc0NvMHR2ZTBxR2pzdEpjTHYzZzZ4SllYc0Q5NUlFaE1wZEt2Tk9oeVZ2azRUdHZVTktJQkFpa3hPU3VrOTdCNVNFWmZSaTB3?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 09:00:00 GMT",
-      "description": "County health departments to host school immunization clinics Northeast Mississippi Daily Journal",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "Evaxion presents new preclinical data for cytomegalovirus vaccine program EVX-V1 - News-Medical",
@@ -976,10 +929,75 @@
       "articleLabel": "News"
     },
     {
-      "title": "Human trials of new Ebola vaccine set to begin in UK - Sky News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlNKVHhmZzNzOUpTUlpOLTdnU3lmYmhhaTZTQVJMZ2NpUU4yTkJaR3pORDVvUnB1ZVFIMGRJYmJMMlBkLU9kdlQxZFJiREd6VmtXOFdYNUlEbUR3OTYyRTktbERjeGEwdFh3a3NPSGlmMjBhc1IxLVBQemRfZjdrZXJjUkhRajd1QzluU1lFN3FxQQ?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 11:37:43 GMT",
-      "description": "Human trials of new Ebola vaccine set to begin in UK Sky News",
+      "title": "First human trial of Bundibugyo Ebola vaccine begins - The Seattle Times",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNelJkV1RkZW5sdV9IUTMyWkxDV013S2c2TkNzb0tpQmt1V3Y2ejI5MndFbnRIM3FmUFRIODQzZnUwMlY1czdja3JiaDdCdHVKVFRKOFFuck01WUJDc3BWM19IUVQ0eTVqZmswNmMwUXowY1dIUEhueU1SSk9mRWdvWWV5cS1VSVUwSk9sOHdITmhDVTRDeGI5czcwUmN3NDBwNGgxQg?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 02:08:48 GMT",
+      "description": "First human trial of Bundibugyo Ebola vaccine begins The Seattle Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Mpox vaccination recommended for at-risk individuals as cases rise - KTVZ",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUmdVczZIRXRWbExVOE0zWTZJc2puRmxJeGVpM3QyZ21zNDdTNlMtb21rMDFFVUdHRXQ0ZzBUZVFlTU1xbzAwUTMtcmpnTUZ4bmJKdkctdWR2dFp4OFVhakQ1ZXVEeXBJcGJMQjdEamFlRjZNQktSQnMyaGxhN0xJaUhnU1JSMnNINmdiRnM1MUwyMlFvblJwWG5zLTl0VEhBelE?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 22:45:06 GMT",
+      "description": "Mpox vaccination recommended for at-risk individuals as cases rise KTVZ",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "mpox",
+      "vaccineLabel": "Mpox",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Free back-to-school vaccine clinic begins in Texas City - The Daily News | Texas' Oldest Newspaper",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPakxqYjRUUUpTU0FLSW1CUi1xcFVaQ0kzaXprcmFrR0k1STFmb01QRERsbTVJWGVoa2hWZHZESmFwUVNHdFlHMXZROFJiUExjaWxYdnc0NlN6VENrYnNMSkpsdTJhLWhuQlprZVFzODlmaDh2MEJod1g4MjN6Z2RvOHdKSDd2N1V2OVdyWkxKT2dPT0lmVHAxdk50dzVOTjYwamplakt4N2ZVNFdnSkdEdElkbUdzMU5QNDFCdUdkRUJJbmZ2UWFVOTlzc3daLUdB?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 21:33:00 GMT",
+      "description": "Free back-to-school vaccine clinic begins in Texas City The Daily News | Texas' Oldest Newspaper",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Scientists test first vaccine for lethal leishmaniasis threatening Oklahoma - The Journal Record",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYXgyc0FZTmp3OEstZkpxRHE3NDJvUTdfczRiaWkzS1phMnBNQmlCVU44TVJINlR3dXZiRHZ6MEZSWjlQY25IbmRRMDdyNGdTWk8zbXlQb1FhRkdwTW1ZajBaVTQ5TDA0T29lQ01iV09aTE8wMEd5TGRGdUJZVG5RUXhsNzNjUUtKN2dxUGNKOVNOXzFlenpyVWxnMWEwUQ?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 21:10:19 GMT",
+      "description": "Scientists test first vaccine for lethal leishmaniasis threatening Oklahoma The Journal Record",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Measles vac­ci­nation rates for Texas kinder­garteners inch up slightly after outbreak last year - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM3pHdGM1dmRNMzZTMmxmTTRqY2pTUVVfR0dTUGp0TkxfR01JZUhWZk1QcWUySWpEN0tFa2RBVkExRGE0SzZvdktnV0NTclhOMm5HRHRFanZrbnlhZmJfYjFtSUM3TjlXVk1FY3NJQ0lpSVloQ0picGotRU9lZ2JhUGNZczFpa1hJZWVSQUhUUWlFVXNxVkQxSndveFZRcWI3blVKTkp5RVNwTU9HVnVNLTJCNVNxUDhZU3JUYmtGdw?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 15:30:00 GMT",
+      "description": "Measles vac­ci­nation rates for Texas kinder­garteners inch up slightly after outbreak last year Spectrum News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "New KFF Poll Reveals Who Is Most Likely To Endorse Vaccine Myths - U.S. News & World Report",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWl9kV0otd1VKUi1TejdWSXh5X3NDanR0NDV6VWE0VkVxVjdWbUFiRUpySUcyall2VUI2RnlfTTN0MmZid1hqTUg4RWFaWnlRSXRQN0pZV3hsSl9oOGlFTGJQZWRnN1ZWX3ZRbnlxUjgxZGJYWF82cEpJVUZ1cDFTVjhPaUU2Q1ZxUHpkaGtGa0h0SGFfbjBjZ1BWSVNmclBpZ01sVUlHMFJuUUV2Y2YyMGxjMmlYNUoyZ3FjLVJDVnRzZw?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 11:24:08 GMT",
+      "description": "New KFF Poll Reveals Who Is Most Likely To Endorse Vaccine Myths U.S. News & World Report",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1002,6 +1020,19 @@
       "articleLabel": "Research"
     },
     {
+      "title": "MenB vaccine for students & young people - Meningitis Now",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3M5TkZWUEYyT2dpMndmTzZKT3dBSXF6UlJZX2ZoZTNDZmtGU2Q5cWdsVmRJeDk3UU02OEJJYi1mODlyamEyanFJTm5nN2ZXVEJUSDE2dm9ndWhjMlpiWmNBODU4ZFdtY0dSZzlGRzd0LXlKUVFJWVJkb0ZWVjE3MUVYbFZYQ3ZLaHNiS1ZWZ1pFcHVQZE5YR3AtZ2tCOTBidlh6bi1oUDZvdWtIdEE?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 07:01:36 GMT",
+      "description": "MenB vaccine for students & young people Meningitis Now",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "meningococcal",
+      "vaccineLabel": "Meningococcal",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "How Canada’s vaccine infrastructure helped guard against infectious disease during the FIFA World Cup - The Conversation",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeVVFMVFZTkRoRTZ0d1Y0ZVp6RmRyNGNSdzJLMk0xeHJCVjdqZHUzeHZuTElyN0hiU0JmaE5ZSGNOdkwzV0ctLWl1WWVweW1TQ0xmLUZ0Tnp4WFJROGJKWml1dG5wMUR5Mm9pVlEtUzBkNW1QNjdJQ01ZSVIySWlGd3NMUHV0Y01ONGpTUzRZbzJYTjUtTDlLbWlaeWFKRmlleUpKQVZvMUlUU0ItTXlyVUZjN1lRdk1qZVJvSUhlYXBsVW9saE5NSlN0RkxYVkJ3?oc=5",
       "pubDate": "Sun, 12 Jul 2026 16:03:17 GMT",
@@ -1013,6 +1044,19 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
+    },
+    {
+      "title": "CEPI-backed Bundibugyo ebolavirus vaccine trial launched by Oxford - CEPI",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU3RhWGJpSnFQU0lEeDNPd3JQSWRxR3I2TFRnYUFiLWQxVTYzUGttQ2xsMzdZMmI1SlJyRXhDOEo0RjdRNnBnNjd1eF84VUR6QTRsZjI2eVc1RmdqQjgybW03Nk9SdGl4ekVUOVMwbUwtWjVobWo0aW5qdXVmRU5meDVMb3lRT1k?oc=5",
+      "pubDate": "Sun, 12 Jul 2026 07:00:00 GMT",
+      "description": "CEPI-backed Bundibugyo ebolavirus vaccine trial launched by Oxford CEPI",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
     },
     {
       "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
