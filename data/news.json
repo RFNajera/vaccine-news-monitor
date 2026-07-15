@@ -1,16 +1,11 @@
 {
-  "updatedAt": "2026-07-15T09:09:43.326Z",
-  "itemCount": 78,
+  "updatedAt": "2026-07-15T10:08:46.563Z",
+  "itemCount": 77,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
       "count": 3
-    },
-    {
-      "key": "flu",
-      "label": "Influenza (flu)",
-      "count": 1
     },
     {
       "key": "measles_mmr",
@@ -23,11 +18,6 @@
       "count": 1
     },
     {
-      "key": "shingles",
-      "label": "Shingles",
-      "count": 1
-    },
-    {
       "key": "mpox",
       "label": "Mpox",
       "count": 2
@@ -35,15 +25,54 @@
     {
       "key": "malaria",
       "label": "Malaria",
-      "count": 12
+      "count": 11
     },
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 52
+      "count": 54
     }
   ],
   "items": [
+    {
+      "title": "Meningitis B vaccine rollout begins for students – what you need to know - The Conversation",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNWYzZ3hyVXl6dmpsWENqekcteEptVVVVMjRFRHRWNjFicTh1VTdyalRFWFozczgwUGItUWN1bkU4YU5Xam9xZl9oNFd4YXp6eVRlSS1jUVR6MGc3T3RrajhydGVISkJaTmx4UGJ0VVN6bTNOenZnaFhRWS1nWDVZTGIydktBTVktMlFhUnlCcUpOaEpCckxCTGkwZkhGR1lGSURQdkxuQUQ?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 09:50:23 GMT",
+      "description": "Meningitis B vaccine rollout begins for students – what you need to know The Conversation",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "New Zealand detects first H5N1 bird flu case, starts vaccination of endangered species - 1470 & 100.3 WMBD",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN3NfcXlwRWJLb215algzclhVNnY2MUVyVUQzMjlmN1RaNjFFdXhBYWVSNTNueFctVkJKemllQ3ZqQmN2X0Z5d2JwaG1YeFdzbnpvVC1xU05NUmtVOVN5Q1JWTmxIb19YSEh3dXF1TjhTVDRXTkdybnFQc0ZKcmtZOXFPR1VqZElnbHE5LWVWQ2JSQkZyTW5fTW1Qdk50OFNB?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 09:41:12 GMT",
+      "description": "New Zealand detects first H5N1 bird flu case, starts vaccination of endangered species 1470 & 100.3 WMBD",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "WHO, UNICEF warn funding gap could reverse immunisation gains in poorer countries - Premium Times Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcFdrWVZ0QkRIOGpTRlVXcWNzLWpGblBvZ0kwektiTlVRbEpySGhhdDJ6a0NRN01BaEsyOTNNTERpbHBwdzgxb0VrYmhDSl9CQUE2NlhTNU9yeEZIZHRnRllnMEt2ZXZCbHpsVkJNWmJ1V1dCeGdjVEU2VnNHLUNYN1RJemFCVVZLRXBlcTVaM3dSc1NkVk14LWlkY2V5eHRWVU83Q3FnaW1GNnNUUWdqbm9JSTM3RnNRT0Q5ZW84bHhlTHRDaTdMUzRxVUs0UzA3NjQyb01mNGJhQQ?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 09:15:54 GMT",
+      "description": "WHO, UNICEF warn funding gap could reverse immunisation gains in poorer countries Premium Times Nigeria",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Global childhood vax rates climb amid rising outbreaks and conflict - mediaselangor.com",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51cDNZd0Mya2ZVQWdROXprRkZzQkNJdzg4UW1kREZURTJLUEE1SkIzM2ZNYUpBLTJteENOUW5EdHZGWF85U3BpeUgxR0ptTERIQXhfNDlB?oc=5",
@@ -71,10 +100,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "13.5 million children miss out on all vaccines as UN warns progress ‘too slow’ to meet immunisation targets - Yahoo News UK",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKX2R6YlhGM01HR2ZGbzJLMXhERTZ0VTFXdENFeGNGMmw1Q0lXaTJyRE5SQUdTbTNCY1ZWcDdNU3VJOFlHOFZTUGtWR2Y2WFMzNjgwdFhIZGQ4cDIzeDJBTHJBQ28wd3lVZ2FiMDZ1VnpCQnZhcXc?oc=5",
+      "title": "13.5 million children around world missing out on all vaccines, UN warns - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb3ZhaVZraFlkMzY1UGotSzgxNzVfTkFoSkJvcllvT2JCcnVQVHMweFVoYVFQQVBfd1BxNkFhdFBNWDVHaFJOM0dDcFdENDNtUm9yVlBrTnRwc0VrdFR6eC1HdE9zQjcwQ2RkQmxQcmdEQi1yYmlSRG1BRlpWZnk2Y3ZtenZjd1BabFlzNkxNUDNjRHJwSWxYSTRyT0pkLUdH?oc=5",
       "pubDate": "Wed, 15 Jul 2026 08:12:00 GMT",
-      "description": "13.5 million children miss out on all vaccines as UN warns progress ‘too slow’ to meet immunisation targets Yahoo News UK",
+      "description": "13.5 million children around world missing out on all vaccines, UN warns The Independent",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -145,6 +174,19 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "UN warns of cracks in global immunization system - Hürriyet Daily News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT0hYT3VDSnRfdEZGUXNBQkJ0eXVOZU1yOEFVZlJFb0g2ZXdlWk5LWklKQjMwMndQZExiTy1PNC02bzJybkNrQkZWcHkwd1JKeG41a0tYeVlBcGgxQkpMOTBwaFhWOUlpRE0zZkNhSlpPRlJVRnpadGUxRTF4MVNSa1Zaclphc0MzU2RteXVWdE9xeHM?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 06:19:22 GMT",
+      "description": "UN warns of cracks in global immunization system Hürriyet Daily News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -249,19 +291,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Cameroon Malaria Vaccine - Goshen News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYllNeTR2Y3R2Wk1ZbGE4aW0zMXI1Q1VKT0NmWnQtVTFfQkx1MmFRa0tXeDc1MC1SZlJhZXZON0tuR3huNWZHM0xPX0puOW1zWTByTWlIUEtpbnc3eFhNRFRhZUVlMlFLRF85Q1UxMnhXWTZ6LUtTSmF2cWxlVWg5MERMOTlZR3RwZHFmOW1TSEY0X0lCVWZvSzJUTzNGTmEyQUNmWFVVNExRWVMwc29QejVkRVIzaDlFRVE?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 01:36:55 GMT",
-      "description": "Cameroon Malaria Vaccine Goshen News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "malaria",
-      "vaccineLabel": "Malaria",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -446,19 +475,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "Study: experimental vaccine cuts sea lice by up to 74% in Chilean salmon trial - Salmon Business",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaXFZRjIwNmJKVUZPQW9nZHhBRzQ1aUhWMi1lNzRsYklPeDg4ZHZSYVZqSnVXLVNVMHJhNUlCdEhJU1VkZ0dDSEdNdC0wYlhRR0Z6X0ExMmFpT05PclBFYjFWenFfLS1MODVBWGsybzRtUzVpU2ZYbkRFVFRKT3dJR1hWMzdCdzQwY05TZjBvZjJRc1BLcGFuSUZFSkQxWFl3N2JjcFI2SGRBc2Q4?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 23:30:31 GMT",
-      "description": "Study: experimental vaccine cuts sea lice by up to 74% in Chilean salmon trial Salmon Business",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "Bangladesh launches free typhoid vaccine for children - Muslim Network TV",
@@ -721,19 +737,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Yet Another Study Just Linked This Common Vaccine to Lower Dementia Diagnoses - Yahoo Health",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTGc5dDFxNHRRYzF4VWhuQ2RDdTJySmFBLXRXSVktN2JkeWtWZmt4NnZsYUpzYmYzVGUzODVrcnVEeUpmckQ5aWFFcUN5SHpLelU1eGRTOG1IRGZmbk50RnlWdEVyZ0RfOENkV1RLbXQyWlZYVVR0T0ZoNmtsM0gxN1VfY2JicUZkbHRTdzZjSjFXOGRGSUoxVXBBRHFUbThiTDFpeVNkNEFKRlhNNXc?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 11:00:00 GMT",
-      "description": "Yet Another Study Just Linked This Common Vaccine to Lower Dementia Diagnoses Yahoo Health",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "First Bundibugyo Ebola vaccine to start human trials in the UK - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSXBPMzVIVVl0dVlyZk9PNkc1VU51TW9JOGpMVFEyQkFidmN3SmZiRUFLRGVRbU9nZVA0YWgwVjdBLU1QOHIxS1BXMzJmbUlHS2F3OXNMZjhjYUw2QU0wQnNLMGstWEZXZFhtdlVhMXU0aFhZVHRtdUstdkZNRnBCdU1mS2hLUTZYUUpfVmtXX1ZQRnhmNkFYYVVWTENoV1VZM29QY2VLS3k?oc=5",
       "pubDate": "Tue, 14 Jul 2026 10:35:47 GMT",
@@ -743,19 +746,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Shingles vaccine could prevent 1 in 17 dementia cases among nursing home patients - PsyPost",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWFNCc3dOVWlteTE1Z3VnOHZyQ19ZbUNuTVZnU2hNOHdvMVN5TkhESzNuZnBSem9ZMUFEcElqQjVGdnJnQjZpRExSRWpHMUdfZ1hoaWdIaHUtMm9ISVpXdkxTLTc2dlRkRGd3SldJOU15ejlSZ2RfZnA0clFqdHN0MkM5Q2VnVGIxVlFQaHBzaVl0RzkyTmQtZXVzZWItQWJIS1Brd3FkRXBYdw?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 10:18:50 GMT",
-      "description": "Shingles vaccine could prevent 1 in 17 dementia cases among nursing home patients PsyPost",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "shingles",
-      "vaccineLabel": "Shingles",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1005,19 +995,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "High-Dose Influenza Vaccine Reduces Hospitalizations in Older Adults - Infectious Disease Advisor",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSC0zQS1ZWUtjbnl5YWw2V09JUXV6N1lKdW16Z3V1R1I3NkFsVnNfRE1KUFJwU3prUXJNUkxJc0JheWdZTUpTX1FrMFNlVWxDX1p5VmpyUlROTjU1V3dJUFdZWTgyX3lEcVVjX2RCdnVna3lXV0htSHBWU0JFUmo3ODZjU0RDcS0yWXFyN1J2SlUwZDVJWnRjUkNjVWJqQWRXN3FjeVNIWmdIbEM4Q3V3Tw?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 04:00:00 GMT",
-      "description": "High-Dose Influenza Vaccine Reduces Hospitalizations in Older Adults Infectious Disease Advisor",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "How Canada’s vaccine infrastructure helped guard against infectious disease during the FIFA World Cup - The Conversation",
