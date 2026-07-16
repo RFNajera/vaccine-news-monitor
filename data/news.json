@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-16T20:42:33.301Z",
-  "itemCount": 91,
+  "updatedAt": "2026-07-16T21:46:43.276Z",
+  "itemCount": 90,
   "groups": [
     {
       "key": "covid",
@@ -38,6 +38,11 @@
       "count": 9
     },
     {
+      "key": "shingles",
+      "label": "Shingles",
+      "count": 1
+    },
+    {
       "key": "malaria",
       "label": "Malaria",
       "count": 1
@@ -45,22 +50,48 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 57
+      "count": 55
     }
   ],
   "items": [
     {
-      "title": "Pancreatic Cancer Vaccine Shows Promise in Early Trial - Everyday Health",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOUdnVWNDbGZQRTBXdjlrcHVGelR5ZnV1OGdvUnBMOGhMMmphUmw0M25MZnB1cmN6dHRPOWFtVVJuTzFoYWdva3Z1TnNsVzRnLTZucDVuSG5ydG5zYkMybTRpdlVUX1FMYVVVSG04QzF2akNwd3E0bWhURHVkMGh6VVlYam5qNzlkSkZRdUttcjRaTWphbVBlT1BUakpFS3V6eDE3bw?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 20:35:19 GMT",
-      "description": "Pancreatic Cancer Vaccine Shows Promise in Early Trial Everyday Health",
+      "title": "Can the Shingles Vaccine Protect You From Dementia? - NewYork-Presbyterian",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbTlLd0NIVmU0Z09saU1ld1FCS0JsM19QWnAyRVVqNGlXc2UxUkFqQmxkb09Gano4bjVJYUZzVWF1UDFjVnd3ODZYbTFSQ2tpVldkREoxUzk1cnJLWjRCYUtUZE5hdHNtcVZwWFl2UHVGdEpYMmlrSjFEUm93TjZiNXBHNGNSVXZNWm1LTUs5MEVqZnZ0c1Q1a3hvZVZwTzZTSHc?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 21:41:04 GMT",
+      "description": "Can the Shingles Vaccine Protect You From Dementia? NewYork-Presbyterian",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "shingles",
+      "vaccineLabel": "Shingles",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Opinion | Erica Schwartz’s confirmation hearing shows her impossible task at CDC - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdFVCcmpyX2VuUDVoUENIM1NDUk1lTzhGdHdBNDNGbG5HVXBlUmNqcWhENlladmdqcFdXeUpzdUd0LWhnLVB5dHdfSUlBQzFnOXFuV0hXYnlpb0Z3TEdlYzNhY2o2YkhVd2tMRDNvZDR3dldEeU95Vzg5bGVHVFItNVNiLVlLY2RrRXdsa0JBazhtQmhRVGppdzlKWk9zdmE3ZjVZN0MxNUltVkdSZFgxLXFPeW5MVEZ5?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 21:32:28 GMT",
+      "description": "Opinion | Erica Schwartz’s confirmation hearing shows her impossible task at CDC The Washington Post",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
+      "articleType": "opinion",
+      "articleLabel": "Opinion"
+    },
+    {
+      "title": "Prosecutor: Evidence shows twins were suffocated as mother blames flu shot - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWFVZDhJMTUwWHpPeXlOdE5wRU1rNlZCZG9VZEZkZWlleVNZSnduSFF3ZWRacEptTUhieWZDZjVZSUVvZ1hYSWpXNllPMWpITWR1WElrd3pCejN1RklMV2hGc1NkXzBuM1pyaERmWHNYNlprRHRDUUo3LVJ3U0VkVnhLaHJxV3pxcU96SGVXVjgwRTRSdkJxeld5T1BiTHFnS19uUmFkUzd3NnJleERMVEVfSmdnOVJHS0EwWA?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 21:29:03 GMT",
+      "description": "Prosecutor: Evidence shows twins were suffocated as mother blames flu shot The Washington Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Madison County Health stresses measles vaccine amid new cases in Tennessee - nbc39.com",
@@ -74,6 +105,19 @@
       "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
+    },
+    {
+      "title": "Pancreatic Cancer Vaccine Trial Delivers Positive Early Results - Yahoo Health",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX2Zmb1o2MU8xQWhoQldzWGZEV0lBV3I0YmVnYmFxckJsbFdPM2RyRGNkbXZaVGdpaGowRjFYdk5ibU5mSXR3bDFtQWk1X1pUM2FCeHVvX1VSRWxLd0hfeG5fczBRN1VNZ002cm5kQ1hvVWhnR08tUWwyc29fanVWZTdRWGcwQzhrQlJvaWE5ZnlaelRhQS1NOGNsWUlXT0RieU43SjdmREJWZnhZRU5yTzRjam9Da18wLVlaVy1XSnI1cjg?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 20:32:20 GMT",
+      "description": "Pancreatic Cancer Vaccine Trial Delivers Positive Early Results Yahoo Health",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
     },
     {
       "title": "Gates MRI, Serum Institute sign deal to manufacture novel TB vaccine candidate - The New Indian Express",
@@ -106,19 +150,6 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdGxiSWVmZ0ZucENjZUYwMXpDTHMydENUNS1sbkYwS0k5c1NWWG5MM2Q3NTVhMm1wTkM3ZGdBdG9DZXF0TUQwaWJfOFAyM1BEU09Za3FhbHVXRFBCYmp1R3dyRU1tR0pzMWdGUEh6bGRfSXQ5Z3NiNzNzakVMMWkzTGd1cDkybExYbndpQXY5VEs2YmQ0U1FXWUpXS2xCN1dOSGNJUlZnNEVfTHF1bE5J?oc=5",
       "pubDate": "Thu, 16 Jul 2026 19:44:00 GMT",
       "description": "After $178M payoff from Moderna, Arbutus BioPharma expands patent litigation against Pfizer and BioNTech The Business Journals",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Prosecutor: Evidence shows twins were suffocated as mother blames flu shot - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWFVZDhJMTUwWHpPeXlOdE5wRU1rNlZCZG9VZEZkZWlleVNZSnduSFF3ZWRacEptTUhieWZDZjVZSUVvZ1hYSWpXNllPMWpITWR1WElrd3pCejN1RklMV2hGc1NkXzBuM1pyaERmWHNYNlprRHRDUUo3LVJ3U0VkVnhLaHJxV3pxcU96SGVXVjgwRTRSdkJxeld5T1BiTHFnS19uUmFkUzd3NnJleERMVEVfSmdnOVJHS0EwWA?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 19:38:59 GMT",
-      "description": "Prosecutor: Evidence shows twins were suffocated as mother blames flu shot The Washington Post",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -206,10 +237,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "BioNTech Launches mRNA HIV Vaccine Trial - AllSci",
+      "title": "BioNTech advances mRNA therapeutic HIV vaccine into randomized Phase I/II trial - AllSci",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOVljX3QxQjI4ZG1MMmlQSmxaaFhqRDR2bTBYUWsyTzZFWDZNMGs4bDlzcWxEMUQ4bFdaZkV2ZzEzUFRnXzFYc2RsbEJ0SG43bmNDbUMwNXJaMmRVYzFOdzRHQklKSWtQTVlfc1FSTHItUzRZY0FYLV9tU1FBMndJZ0xJaXNlNUFxNDlkOGxiNHZPRFZtQ29wNW9ZVE9SUlBtMkt0cUN4d1BZWFhVcmo5Wlg5V3g4M2c1LWY3VkM3b1hpaXB1RE0tdTNPQlpTSmM1U1NLeEtDLTNwZw?oc=5",
       "pubDate": "Thu, 16 Jul 2026 17:53:52 GMT",
-      "description": "BioNTech Launches mRNA HIV Vaccine Trial AllSci",
+      "description": "BioNTech advances mRNA therapeutic HIV vaccine into randomized Phase I/II trial AllSci",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -228,6 +259,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Measles cases in 2026 are set to surpass last year's total. Here's why - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTkZhYzdPU2RXVGxsUVIwTmFsd2VHbDRnNlZpZVJ4em53M0J6UTQzek5VYUd6eFg2WEZPeUhNeTl3Sl8wN1JkNjc0ZkIyN3pBeXdQWDVaZ2trYnd4d1owOE8tOTNQVGtPQ2JsLU5iRzB0a2dkeFRBTFZKSHI4dWlqbFNua3k2b0tMSndKZnE4X0p0Z9IBlwFBVV95cUxNMTdwcml0TEp4OXhMZXVHaG96MDBEVHJvQmZkaUZFc056MEladC1TbmJ2MUhSdThXWE1EVS1qYXc1dkRLNjZCa25QSFd6OVFpVUVLRGN2Wkk0UVBWU2NITzVsWGNfUjlPaExNUGtiUE1rUnpLc2NYeFVfb1VRV0d6S0hvbkxlWVFSU0R0SE0tN2JlTVI4Unk0?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 17:34:58 GMT",
+      "description": "Measles cases in 2026 are set to surpass last year's total. Here's why ABC News - Breaking News, Latest News and Videos",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -384,6 +428,19 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Low-Cost Chip and Vaccination Clinic Coming Next Weekend - Ottumwa Radio",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObkx0S1M5cnRDMDNRZFAzSW85MzZfOFN6cHBnQi1MNmNGS3NITlJudGFiV0dldHlfemF0SHpjUXNpeU9pRWxlNXNzcjdqclJDR0tucnNDOUNhMUlSOUtsRE1NanRQMXRLQklkTG9tWGRYeDR5NGpEYW1YOXQ5WFJGVjFMeXdCQmpGdmlmbzAzU0w2MVBN?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 15:25:30 GMT",
+      "description": "Low-Cost Chip and Vaccination Clinic Coming Next Weekend Ottumwa Radio",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -765,19 +822,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "CDC nominee walks tightrope on vaccines, service under RFK Jr. - Roll Call",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQUlYRlpkRjZzUXFkVnNJR1R6LXhOYUxLNjB0YWpHbzhPaW53aU9CT1pLY29XU3lkTXp0ZW5sUEtJSDhtN3IwUkRkenFTZG1ucXc5Z3hqU3NjRGlRY2dNeTJtY2tvdm4tbVdqMVlNTi10dDNWQzdDRTg2Mm9pSk9SY2x1RU13OTU5ZE9VOWhqd01aRVRiME9rVw?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 23:23:53 GMT",
-      "description": "CDC nominee walks tightrope on vaccines, service under RFK Jr. Roll Call",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "'I will never betray the science': CDC nominee to lawmakers - Fierce Healthcare",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOazNJejRubzduUGJ6M2dfUDdCWVRhc0c3OGZ5cW5KZFZ0c282V245TmxTTm9vMXF6MURnenluMkpxVzBIYmlEbjY5VjNjTkhQcEUzaFlQTHNVZkUxb05qTEd1cnV3eTEyeVlkSHh4X2xXV3hGUnpxYmk0WUwyVk1UaUFkZlZFMGI0d1lmaWd2WHZWb3pNUkpnWGpYVGhFTmZ1WkQ4ZVd4elk4YlZwVDZWYWtTWktOMXdrVFhjOHFlb2l2czRQTmdkaQ?oc=5",
       "pubDate": "Wed, 15 Jul 2026 23:00:00 GMT",
@@ -800,19 +844,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Measles cases in 2026 are set to surpass last year's total. Here's why - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTkZhYzdPU2RXVGxsUVIwTmFsd2VHbDRnNlZpZVJ4em53M0J6UTQzek5VYUd6eFg2WEZPeUhNeTl3Sl8wN1JkNjc0ZkIyN3pBeXdQWDVaZ2trYnd4d1owOE8tOTNQVGtPQ2JsLU5iRzB0a2dkeFRBTFZKSHI4dWlqbFNua3k2b0tMSndKZnE4X0p0Z9IBlwFBVV95cUxNMTdwcml0TEp4OXhMZXVHaG96MDBEVHJvQmZkaUZFc056MEladC1TbmJ2MUhSdThXWE1EVS1qYXc1dkRLNjZCa25QSFd6OVFpVUVLRGN2Wkk0UVBWU2NITzVsWGNfUjlPaExNUGtiUE1rUnpLc2NYeFVfb1VRV0d6S0hvbkxlWVFSU0R0SE0tN2JlTVI4Unk0?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 22:24:52 GMT",
-      "description": "Measles cases in 2026 are set to surpass last year's total. Here's why ABC News - Breaking News, Latest News and Videos",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -843,32 +874,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "First-ever vaccine for disfiguring skin disease to begin testing in humans | ChicagoLIVE - FOX 32 Chicago",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxR25qRGd6clJUWHZQVXBoRk5RQVZrSXRjRFdyUXlXZk1JRFFraWQ3cGJMQzgxWXZSM19PTmktUkZmZjRia2txYVlwU2oyX1JVcmM1Nzl1LXB1TmtEa3JpQVhUeGxQd9IBa0FVX3lxTE5RLUQ5akhHVG9IdEtPU2pVTXlEeFQtOWtkLVJvVURjdFE4X25CVGg0VEtWRjFtNTJkTlBWZnNjWkpfQldqa25jZW0zQ1UzT0dCMHJkMkRsVzd1bC1MRTE5VFFWblRscWJ2cEFv?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 21:30:20 GMT",
-      "description": "First-ever vaccine for disfiguring skin disease to begin testing in humans | ChicagoLIVE FOX 32 Chicago",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho State Journal",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPUHhVTl8zQV90SEtiUk9DbmpRN0NOQUdSYWlIYVBVZW10WmZoTmNHZFVHc2gzVGdhOXUxMUVTZm9EcTZQZ1otTUFFc3BkWWdxOXpNanZuM2dOcldOSFJGa2VYdkp6ZmwydEo5cFhhQThOZURVbTRnanlCQk5RZ2o4dmdPaks5YmFDck9pa3paSkdGQ2plLUQ0ejM5SHQwclFoWWt0ZEMyQWV3blNPaUJ0dnFfWmJ3LUtxQkN4UmVaZ0x1amtvOGRFR1dxZmZIcERwdTNuMzhnd3RoZTdJOXVMNjdkUHRkaWo0Q2YxUW91bDlDaXdhZDFGX2pBNTVOWmxRYjNB?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 21:23:54 GMT",
-      "description": "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district Idaho State Journal",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "ACIP vote on combo measles vaccine could especially affect families in greater need - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbXZKbHRiaVZ1SlNRU0JFaHJ0Z1VlV3ZLaU5maVV1bHBYbS13S2NHTkxLbG5GZURpSllyNkY0YlpmSl84R3cydjZ3SFlpamp5dU1hSTBtMFZNWENGbzFVZTBpNDgyS2FyeG5HSUFtOGEzRjFhZ095YUpZQXc4Mm1oMlExM3hXeHktakFGR2EzSHA3MzNPRzVUNm1oZDYzWHVTZE45Z2FPYjBvSUFtQVVHNE1TWUVhVFo4?oc=5",
       "pubDate": "Wed, 15 Jul 2026 21:01:04 GMT",
@@ -878,19 +883,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Senate committee grills CDC director nominee Erica Schwartz - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWU5VNGFNcEJ6Ui1KSnJkcHF2bzFLMTZZVk1KYkJzY0N5aVhNdU1QOFZjbkhyODd2eHk3TDhrR1dTLWtWcXZLUXF2UDFyTlNVWExaVjNSUU1jeEdSOXVucl9nRnhadVVmbi11OGU4Vjl0bnZvTG81dGZsakVKbjZZNHJENXdTUXZUYUY1bnRkMGZLSm5UWVpQRmk1Wno0Q0hDZ3c?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 20:32:36 GMT",
-      "description": "Senate committee grills CDC director nominee Erica Schwartz CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
