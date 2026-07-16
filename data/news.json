@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-16T12:57:08.154Z",
-  "itemCount": 96,
+  "updatedAt": "2026-07-16T14:08:49.098Z",
+  "itemCount": 87,
   "groups": [
     {
       "key": "covid",
@@ -10,7 +10,12 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 17
+      "count": 13
+    },
+    {
+      "key": "hpv",
+      "label": "HPV",
+      "count": 1
     },
     {
       "key": "polio",
@@ -20,25 +25,150 @@
     {
       "key": "meningococcal",
       "label": "Meningococcal",
-      "count": 1
-    },
-    {
-      "key": "rabies",
-      "label": "Rabies",
-      "count": 1
+      "count": 4
     },
     {
       "key": "malaria",
       "label": "Malaria",
-      "count": 3
+      "count": 2
     },
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 68
+      "count": 61
     }
   ],
   "items": [
+    {
+      "title": "UK experts recommend MenB vaccine for 15-year olds following big outbreak - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPb1Q4NE1BelhaWER4QVNYdUJ4LXFqb2NkdWN6a0lrY25OQ2tYWms5MEt4X3ljMmRzNE8zOFVnQUwwSWFRZndNSG1FdG1jRFV0R2VZOV94UE5TRjRyd0hXNkE2WFpGRWpIZHFkV0pBakc4RHBiMW5zM1REUC1jTzI0aGdnNGFMWk1zT0tiLWhQejlMeDZLeXdHVWhCNWN3RUt0SnFENFZCZ0I1OWZrQVUzbTRPX2tXRzZ6bFZzRFk4dk11ZWRsYVNYS2haWlJZVkJEOENnWDhvbVU?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 13:57:45 GMT",
+      "description": "UK experts recommend MenB vaccine for 15-year olds following big outbreak Reuters",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "meningococcal",
+      "vaccineLabel": "Meningococcal",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "MenB: The vaccine young people shouldn't miss - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mazUwNkVsd1NfUVpHWjY0YU5lbk9VQkNyN3dIRUtpSFNBMEUwd3Vlc3dtWDljTnhNaFlsemRZTlEwNExSVUZmTFBGRGwydkZhekM4QUl2VQ?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 13:54:19 GMT",
+      "description": "MenB: The vaccine young people shouldn't miss BBC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "meningococcal",
+      "vaccineLabel": "Meningococcal",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Offer teenagers a meningitis B vaccine on NHS, advisers tell UK government - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR21rd19VaDBNVXFtNS1HclJTNDgyc2FRU18wM3NzWEZpRE5lWEIwR1lVT2NRNDh2eHZSOE82ZmM4NThodjF1LXZtR2NWTnQzc1RaOXBHYnhobnlYQWNDUDlvX1VxbUQ4akRSWmsyVUtQMl9aRFF0bFJQNVlLb05Ea0JRSHVtMklyckZ6MW5BbmdieUtaa2piLXdVVG1oN2pjdmRIZ211Q1hYMS1EaVc1aDBmMzNOY3pSSHRjNy13?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 13:51:00 GMT",
+      "description": "Offer teenagers a meningitis B vaccine on NHS, advisers tell UK government The Guardian",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Give all teenagers meningitis jabs to end deaths, say experts - The Telegraph",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZy1teGNqWE9xU09zUHY5eGl0TEhNdWZ6eWJiQzRRdmJwNU5FQm91VFBuOGk4RV9MS3BKTVVsSkFGQ0dVWmNHRFF3Rk4wdFh1aDR5anN3dDROM1VDN1FoNnA4QlhWeEhzWnJyVkhnUzBCRFlkVENWZnVkdlBPZ0lOWFNMeVBrRmZ6UnBtYVNjV25qd2kyb2ViLUY1bW9zZHVIc0xJ?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 13:45:00 GMT",
+      "description": "Give all teenagers meningitis jabs to end deaths, say experts The Telegraph",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "KRAS Vaccine Spurs Immune Response in High-Risk Patients - Mirage News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeE9CV3lzdDBKYUtLbl9vZlRhT0RNS1ZSWi1Bc3h0MzZ6RUZ4cWlvd0RaNTBDOVFlV0ZCUTVnbXZNV09IdE1ZMDc0Q19hSmQ3TWpEQ2VOaWg4OG1tbVcwaFhKMDNvYnRPODdNTndCVXJzV0U4ZnQ2SHdGU2doTUhDa1RhSV80TEJUV1Fn?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 13:42:00 GMT",
+      "description": "KRAS Vaccine Spurs Immune Response in High-Risk Patients Mirage News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "JCVI publishes new recommendation to Government on adolescent MenB vaccination - GOV.UK",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdUpTc2RzMTY5VEdPR01PUzdDcDdqZ1VBNERxYktydDJvZGpkbXl1RGNKbzBfSVJ2OXpaRVZ2Uy1xMDJZZ04zVFVzNFBFaWt0dmtBNHZMOHpZV1VfVURQOVJKWlVDZ2trLWJ4RjNNRkRRWnFxNEk1VUV2c2ZGZW4xOF9EZDdMZmhoTUZmUlh2VUU3MUpEVnFvQ2R0NllUcG85RUJkYld1RzAwMzB0SVNVclJaMA?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 13:25:31 GMT",
+      "description": "JCVI publishes new recommendation to Government on adolescent MenB vaccination GOV.UK",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "meningococcal",
+      "vaccineLabel": "Meningococcal",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "GSK-developed TB vaccine candidate progresses toward global access with new manufacturing agreement - GSK",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNWluNWg1Z3hYN3VCNlRxVFRLOE9MMVB1cUN6Z3dPNXRJZ3BmVTlaSDBUN0V4ZXNnQkdSX2t1TXJZWVd0dEYzNEtlU3ZuN196VXV0eFRjbVpydWRlaXVMSHh1LUl2dlZjMndLZ2xrWUpzbklVOXJkU25MS3Q3WDZOQUNzaDdrU3R2Mm00MVpvVmhKMXZ1a3dBemN1RE93bTlCeG1kc055RnE0SHV3WElZVnZvWk9fMkxTSWlyY0pQYWQ4OGlzSjV2UXhReEE2eUR1YTlrQWNMUTJGUFBXM003SXVaYw?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 13:18:29 GMT",
+      "description": "GSK-developed TB vaccine candidate progresses toward global access with new manufacturing agreement GSK",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Teenagers from 15 should be given free MenB vaccine, say UK experts - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KaHhEWHlVaFZVR1UtYW41SXYxLVFoaEpJSlF2RDV2SU5qaVVvSEhNemsxQ0pxY2kwcmtKSEJZX3d5aDdKcklzdEpybDdER0xIbklhSWx6NGR1VU0x?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 13:13:40 GMT",
+      "description": "Teenagers from 15 should be given free MenB vaccine, say UK experts BBC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "meningococcal",
+      "vaccineLabel": "Meningococcal",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Bill Gates: HPV Vaccination Reaches Record Number of Girls in 2025 - Oncodaily",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KUHNZOXBGM0J6cHNFdm1nbWZ6cC1aYzhDSTN5cC1ob3lwTkdmcWxJZWZEb1BPMmpURmFZNjFpWXhtSnZza0FZWXFCN0ZBNmdvV25TU0dQTGQ?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 13:08:39 GMT",
+      "description": "Bill Gates: HPV Vaccination Reaches Record Number of Girls in 2025 Oncodaily",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hpv",
+      "vaccineLabel": "HPV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "SNHD hosts back-to-school vaccination clinics throughout Las Vegas Valley - Las Vegas Review-Journal",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSHJuckdFUWZXTmI3TVB2NDZidDNTUTIxTWFlTUtXNXpxUFBWZ2J1M210N0pIMV83eENfcl9sSW5lT3dQOFRqMXJCbm93NVBqRkxVZU0wVkVINXIxQk42RzdUdTd1R2JqTnJKQTgyVzN1MnFodEUyZGhISjJLUjhubHFfQVZYVE9ncnpjSGZsemZRaTVya1dqWFl0UnNfeVVKZDQtTjNkSktsdlYwN1NuUjhSNTZqZXNsYmVIT0FpemJ0V0RlZXcw?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 13:01:00 GMT",
+      "description": "SNHD hosts back-to-school vaccination clinics throughout Las Vegas Valley Las Vegas Review-Journal",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
     {
       "title": "5 Ways to Go from Firefighting to Future-Proofing - Gavi, the Vaccine Alliance",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwaWZSbkN4eXhUdXczeWxxd0Y2M2FzN2NDMnpaeHJPQjdQT2NGM0RjRzFFSG1wb2NHWllvVnY0Nl85VE85M3BBZ0VwMTVoN19SNUdrajF0ZzN3eDkyeEdCaHdMUExBV01WcXNkZER6SXhaSWYtUTJMT19Za3E?oc=5",
@@ -66,6 +196,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "PA launches measles dashboard as Lancaster County leads in cases - WGAL",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUEtCdno1Wm9YOFhtT3VyYk0zT0o1SHJ5T2M5QjlQTjkzeS1DU3JMNllJUFpVZVJtbi1GbVhyRHFHenRNS3NoamZDNnZYZl9NMEdOWWN2b1pXY0l2X0J4OHVjOXRXVzVNOXlWY2diQ2V0SWkzNTBQbE5jX3d0SG0zemVmY2lPVUZtMVNjVkptbHQ2RURJWkE?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 12:05:00 GMT",
+      "description": "PA launches measles dashboard as Lancaster County leads in cases WGAL",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Vaccine Exemption Surge Is Driving the Worst Measles Crisis in Decades, CDC Data Confirms - Medical Daily",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdDhVbGJSTVYwX3g2cHVIamE0dnJrWFNfcEo2ZjFSX1RPWTVnMVU1Y2Qtd0JabVdmZFg4bTNCR18zN0Y3d24wNHNDU3NHNHQzQl9HMmhnYWkxU1hQaXI0bFlENllTX254YmdrOGdrdS1tVE1lNDYzcVcyd2w2WllxVEwtOHJhNTVNU3Q1NEhja1RRcUIwOUU0aTQ3VDRtZlByWnA4Tk9odmE?oc=5",
       "pubDate": "Thu, 16 Jul 2026 12:00:50 GMT",
@@ -88,32 +231,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "PA launches measles dashboard as Lancaster County leads in cases - WGAL",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUEtCdno1Wm9YOFhtT3VyYk0zT0o1SHJ5T2M5QjlQTjkzeS1DU3JMNllJUFpVZVJtbi1GbVhyRHFHenRNS3NoamZDNnZYZl9NMEdOWWN2b1pXY0l2X0J4OHVjOXRXVzVNOXlWY2diQ2V0SWkzNTBQbE5jX3d0SG0zemVmY2lPVUZtMVNjVkptbHQ2RURJWkE?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 09:54:00 GMT",
-      "description": "PA launches measles dashboard as Lancaster County leads in cases WGAL",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Routine Childhood Immunization Rebounds Across the Americas, but Measles Coverage Declines, WHO and UNICEF Warn - fundsforNGOs News",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNc1RteHZ4RWsyVzNkQ3NvUEw1NGdnbklYMnZReWxkMGhQYUlaNHFJODVKemszRFRwMW9fT1ZkYzljbzlSUXQ5ekM5bWlvakxlUWpIMGpHRTdMQzRUeEZkM0RTM1pyTEZYVDRYX0hEMnVMRTR3TUVhZkVjaGFQazFraGVxTjR5ZTFwdXFUR19ueTA2bjJyWHQzUU5kTDBiTDY3QXlkenRrYWctVFdqenZreDRSUmtqTGdtcFctQjVYM3NycXFsQ3MwNkVINndkVmtlSExKWWNvM0tZLTVMM25LWUp5RDE3Zw?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 09:49:54 GMT",
-      "description": "Routine Childhood Immunization Rebounds Across the Americas, but Measles Coverage Declines, WHO and UNICEF Warn fundsforNGOs News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -148,45 +265,6 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbloyWE8tV05QcU05cW1ueVJoYnBxYU8ta0lFbDNEUlZZN29fOUprdDNzRTlaaDdCU2IyT2ROUEFqVWJqUjRoMHhxOEljSWZadEZWdE5kUGZUWklCdE9KZG9kMUN3MTJKbmJnTDBCQWE2X0c2X3NuZFJERFNET0J1S3N2NGxuTWlLUFBwNEFGQXZTLVU?oc=5",
       "pubDate": "Thu, 16 Jul 2026 07:45:05 GMT",
       "description": "Sanofi joins the mRNA vaccine patent wars European Biotechnology Magazine",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Korea overhauls pandemic response and speeds domestic vaccine push - CHOSUNBIZ - Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVXNjei14YjFnR0FoZE1VYXJ0aHVjOEhrdW9LcEZiT2NvRHByUHA4SFc4a2RwUk5EbGZPcWtkS2hvaXVYZTFFMGg4eEczVkFlSVJvSDBmUWprWC1tMkthSVpLUk9SYmFHbVlKSElYOVI3M1hQZnZ4SVJ4SUhrZ05IZdIBlAFBVV95cUxNY3R3U2VRUFhnVVByVFdqajU3aXpDR0lGUGJocUtrSlp0cHZ2YWJneVh3RWhSdzc2V08tTGJldjFra1lZUEprV2RZTWRJNWJKRjJNZGpqRHF2cWVBWWlaWXppTGFWQTU5azNtZlFZNWluWU45c3lyNDUwdkp1SWRfZkt1M3E0UHl2aTN0U2pWY3lmei1V?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 07:37:00 GMT",
-      "description": "Korea overhauls pandemic response and speeds domestic vaccine push - CHOSUNBIZ Chosunbiz",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "CEPI, University of Oxford and Serum Institute of India launch trials for Bundibugyo ebolavirus vaccine - BioSpectrum Asia",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNY1RRRkkzSXdFdC1BV3dMMUFxQXM4T3BoRTlHZ1Q2UkIwLXVXeTAwQmlfTXZOVWhZYjFyVEhpR1A0TjlSZFNKci1lbDk4V3BVTmhfT18wTEhFT2dhdVlLRXdKSG5lU3BIUlJDclV5VTlRcktZNHR4R2NWQ0ZrcUE1cFlCdlU5cGs3c3hhX2x0OWhXLUszY0VkSTVWRVhjLXozVm1PbWRwMHRNeWZlRDNTV0d4ZjZmZGdWNEt1aXpPT3Y1S1Y5R3Azc1p5NXFCNjVaREhUZHViSC15eUZFcXIwbHNwQnRRU29w?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 07:19:35 GMT",
-      "description": "CEPI, University of Oxford and Serum Institute of India launch trials for Bundibugyo ebolavirus vaccine BioSpectrum Asia",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Global Childhood Vaccination Rates Rise Slightly, but Millions Remain Unprotected - fundsforNGOs News",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMUFxTjA5a2tsd19oaEdQcVJubHMzQ2RIZTFFRjlXTXI1UU5pVFVKVTRoMFpGc1ROVE9qNWxaUmVnTkpGQXBoRXJMNkh0LVM5MFItYXdEY05VUU9FdXdrMXg5bEozTG1janluZ3JFUjQ4RGZvOGxyWFp0dmszNDZuZC1pRzVWUHIwcS1pTTc4ZWRCWnh3OHVkVE5LZW0wdmd5Z2VGdkJlN2ZqQl9mU3F6T3VveXJQNXM3WXRuNG0zbw?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 06:36:05 GMT",
-      "description": "Global Childhood Vaccination Rates Rise Slightly, but Millions Remain Unprotected fundsforNGOs News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -252,19 +330,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR1pnbm5xWjNqdWROTmtvY0JmY1l0Tjh0N2MxckZDckQ2RzdqUjdXU1psdHFFWmNlT1dvTFNOSWdRU084OTdEWjc2b18taFJLQzNDaXMxTWxMXzZVRnZyd0RfQnBnVVJ5MjhkUE41VWlGd0RVakxEZkpUQklfcVhIRXBORnBzdUU5?oc=5",
       "pubDate": "Thu, 16 Jul 2026 03:21:00 GMT",
       "description": "CDC nominee Erica Schwartz pressed on whether she will resist RFK Jr’s vaccine agenda The Guardian",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Would hunters take a Lyme disease vaccine? Pfizer has one in the works - The Day",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTFJoSngzLVEwc3VzNWJ3NFV5WEtlbnUyZF9zOVJodHhNMG1JcEpISk4xckt2ZjRXdTY0UHk5SjVtcENqbDgwM1ZtVl9ILU1tQ0FzcVJFajh1TG5RSlhYdE10Rm4tYm5Tc1E1WlEzcEg4MXcxOXJ2OGdMZXFwVWpSNHFZRmd5ay11TDRWN2xxUVB6YWZ0NnRWd3Z0QnE3bnV5YWZr?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 03:02:43 GMT",
-      "description": "Would hunters take a Lyme disease vaccine? Pfizer has one in the works The Day",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -391,19 +456,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Measles cases in 2026 are set to surpass last year's total. Here's why - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTkZhYzdPU2RXVGxsUVIwTmFsd2VHbDRnNlZpZVJ4em53M0J6UTQzek5VYUd6eFg2WEZPeUhNeTl3Sl8wN1JkNjc0ZkIyN3pBeXdQWDVaZ2trYnd4d1owOE8tOTNQVGtPQ2JsLU5iRzB0a2dkeFRBTFZKSHI4dWlqbFNua3k2b0tMSndKZnE4X0p0Z9IBlwFBVV95cUxNMTdwcml0TEp4OXhMZXVHaG96MDBEVHJvQmZkaUZFc056MEladC1TbmJ2MUhSdThXWE1EVS1qYXc1dkRLNjZCa25QSFd6OVFpVUVLRGN2Wkk0UVBWU2NITzVsWGNfUjlPaExNUGtiUE1rUnpLc2NYeFVfb1VRV0d6S0hvbkxlWVFSU0R0SE0tN2JlTVI4Unk0?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 22:24:52 GMT",
-      "description": "Measles cases in 2026 are set to surpass last year's total. Here's why ABC News - Breaking News, Latest News and Videos",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Maryland health officials confirm five new measles cases, urge vaccination checks - WBFF",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOXAyS1MzeFlYWnpsSVVxQWNwTGpldFRRS3ZqZDREeDhBNkI5ZDZqLVc3ZkdJVGNyLS0waGc4NkItZWpXdlhlWGdpQVAwYkdsczE4SEJUZnZnN2ZDTjlRdjFOaTNGcWZjN1pHNmRrUk13NjdtVlpnWDZ1WUQ3dnkzSFRvdGo1bEZLTDk5YmtiRl9sNXZJeDNQanVpcWFRdzBQN2lFVWhTaw?oc=5",
       "pubDate": "Wed, 15 Jul 2026 22:15:12 GMT",
@@ -521,19 +573,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Woman Charged with Murdering Twins Who Claims Deaths Were Caused by Vaccines Has Bond Revoked - People.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWGFEbHFLTElXNlRwVkN3N25FWFMwWlVmTERfdmxMWll6OFZwZEg5Sm9OUTRIZ1NLczc0ZjFmNWl1cTZxRjFsbGxLNjJVWnFkcXlQck4tZjM2UGNKWlpBSUJmMnVnUFFHdE9FSGZQaHVFVDhrNUJoclYyTFNoNHBzd0R4dDlQa2s?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 20:34:43 GMT",
-      "description": "Woman Charged with Murdering Twins Who Claims Deaths Were Caused by Vaccines Has Bond Revoked People.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Senate committee grills CDC director nominee Erica Schwartz - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWU5VNGFNcEJ6Ui1KSnJkcHF2bzFLMTZZVk1KYkJzY0N5aVhNdU1QOFZjbkhyODd2eHk3TDhrR1dTLWtWcXZLUXF2UDFyTlNVWExaVjNSUU1jeEdSOXVucl9nRnhadVVmbi11OGU4Vjl0bnZvTG81dGZsakVKbjZZNHJENXdTUXZUYUY1bnRkMGZLSm5UWVpQRmk1Wno0Q0hDZ3c?oc=5",
       "pubDate": "Wed, 15 Jul 2026 20:32:36 GMT",
@@ -597,32 +636,6 @@
       "vaccineLabel": "COVID-19",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "Sanofi opens new chapters in Pfizer, Moderna mRNA patent litigation sagas - Fierce Pharma",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM3V2clF1LUloc1lzRUR2NTJxVFdPOXluTnlQSUI3MjlVVzkzUk9ndkw5WExtZVJUeFg2TktINGV2dnJybTUxNENfaHUwQ0tEVHVaXzFTY3VCYTlabGRhWE5nODlZenZkeWNndnVzZ2Fzd2tmVWRRaEQ1LXBsZS1GTXQ0NGN5ZXJaQlZuRVRiaHk3czgzOUp4ckctMVdndnBtRmdXYXJiZFhERjg?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 19:32:48 GMT",
-      "description": "Sanofi opens new chapters in Pfizer, Moderna mRNA patent litigation sagas Fierce Pharma",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "MenB vac update: vaccine allocation and ordering - Community Pharmacy England",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM2RxQzAxWEdUbjhwT0s5ZXV0MTY4dGxVNWxKTVl4OWV4SWpVRDRFOFhneFdaVlpaeFg1VGhnRzFtRGlQNHI2S3A5WDcyREptakNCbjlQTGpQM1h6SFlsdkVsSjJvQTdrbnpyY1I5TkF1b0U1MWNNQkJCZHdjamZQQTFn?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 19:31:15 GMT",
-      "description": "MenB vac update: vaccine allocation and ordering Community Pharmacy England",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "meningococcal",
-      "vaccineLabel": "Meningococcal",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "Trump CDC nominee sidesteps questions on standing up to Kennedy on vaccines - Reuters",
@@ -690,19 +703,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Senate panel presses Trump CDC pick on supporting vaccine safety By Reuters - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTGwya3BUSjhaQURkYWp1WXU5VEZpV3dXTnJTUURiWFVrdFMtbThhRU5yMDA4WnQzWjkxTFEzVnVDVmNmVVFQZUhxUndPSnBLdzg2X2RSNWVzb3F5X3FvZEZRZ0RMNG1NNjFJaE54RWc3RnRSQTZzSWduMXNGbGdOYmgzNWxOemZISlVBR3dKQXF2RXVkQmtVaFlPaWlMbVF4YllNTHBObVh3ZmxhQVdJRDhvSUI1aWlFaUE?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 18:33:45 GMT",
-      "description": "Senate panel presses Trump CDC pick on supporting vaccine safety By Reuters Investing.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Back-to-school vaccine appointments open for CCSD students - KSNV",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbGcwT0diekwyT0pQbDkwRkpfU0lUQk15aVh4U29WaVd3U29pMFJGcjZUR1FoZHpQWUdUXy1QOUlZT1owLWdsU00tMFg5Q3owV2FwLTdadklkVjl2djgtTXowdE5qUEtmVl82QXFKZGdXY2QySjRVTFlFQVNaaUxfdU55UDRKNVNtb0E0MmRPSjg4RmZnRUJYQnA5WjV2YW8?oc=5",
       "pubDate": "Wed, 15 Jul 2026 18:11:41 GMT",
@@ -764,32 +764,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "What’s Going Around Digital Extra: Back-to-school physical & vaccine reminder; stomach bug spreading - KY3",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT01wNEtjQTNBWTgxa2JOWWd3NlN3b0xTNnhsdDQ5ODI5SDBZbVdwU2R2YXR6bmxTNFJzSkhXY0Q3V0JLWVJ3aGNBc3JvY29SSHZERUpONFVKY0ViV0pDTHlqS2Y1QlJWNXdyUmUtbjlfcE40eDVPSjF5Z25OMXpicHYzbmhRSHJFZW1MQXNvSUI0SHI3N01VTklNcldNRVQ4LXdDVmhuUnJoSTNoZUZzeXgxcmZYY0VCUnR5eXpLVmQ4bDgxel9WR2EtUUhjZw?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 16:40:00 GMT",
-      "description": "What’s Going Around Digital Extra: Back-to-school physical & vaccine reminder; stomach bug spreading KY3",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Understanding the measles virus - WFXRtv",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoUFlydlFwVDBoSVpxS29uOTU3SFREc0pxUmpLT19Wdy12d0pvNDJrWmNpeUVFUDNzUFpxSTE0OWU5Q2xmNGVXaVRKUnV5WnRWMGVsclNmYThmSHFUdVBacURmRUo5R3REc2k0ZtIBckFVX3lxTFBUXzRtdk5td2NSQzNaNjVrU09vcEtyM0tQdU5scXBTSERudjRiTENBcUloY1NrTzItM2g0ZEp6UERwU1FoMUg4cmxFdUxNa3hMYUhWQlRQT1RuS0pQOEJJWXBHT1NlTDdSbm1LdWhDb3Vldw?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 16:26:22 GMT",
-      "description": "Understanding the measles virus WFXRtv",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -859,6 +833,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Senate panel presses Trump CDC pick on supporting vaccine safety - WTVB",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOWJ5VG1qSFZudXFVTWoyY2hDSUVtLW91WmFTWWE3MjBqUG8wOE5ETlRORUpwVWl3dG9xTEVJSEhsbllEdzZRbUJfUHNpdnlVRTk0WE9pN083MGQ5RDFvU1FDWm5EckZQeUI0OXJiUk5vendFQUZMUDEyVVhDcHI4bUpVYU15RmJpN2pqNXVNbDRXLW1SZGxn?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 15:12:56 GMT",
+      "description": "Senate panel presses Trump CDC pick on supporting vaccine safety WTVB",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Global Reduction In Unvaccinated Children, But Impact Of Funding Shortage Is Yet To Hit - Health Policy Watch",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOTNXTW10cjFpeVdOdmNoek9ZVE5iZUtHLTBMLTJvUURfSXBhOU9RTElpYXRrNjNaTWx6VDBkbF9yQ3NYcHVOVVdYNUNza1lGNVN4ekVpTEdlOFU4NTN2WTVCUEpmVlo2QkpZeUxqSnFyRXpFR2ttUF9ENlNDZVpsa0RZMk1ON0NKT0ctVTRyMl8wTkFTdjFVZEtUQVhQV0E0WlV4bkd1ODRUak9sSGFsb0J4R3RWVXA3aF80?oc=5",
       "pubDate": "Wed, 15 Jul 2026 15:10:26 GMT",
@@ -898,32 +885,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Human vaccine trials begin for latest Ebola strain - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORVJRcXY5bFNtb0VBd0ktSTVkdi1vV0hoQkszSzduSEJ6UmxxVWVXbVJac0xBVmUtUmZ6NUdLcXhiYU1xNHlqRmtqY3pobnhGMXoxNWFhQlN6UEx1cEM2ekRCVGZERl9kYk5KWERka0Zpc3VlWUlMdUs4YThJUHh5S21Udk1oMjF5QWx0bS1Ba3I3ZmVmVEdn?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 13:58:39 GMT",
-      "description": "Human vaccine trials begin for latest Ebola strain Yahoo",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Bundibugyo Ebola Explained: Why Existing Vaccines Don't Work and What Comes Next - Infection Control Today",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNEszZlVYRU1iamNSZDh5Vi1nTVhoMHFhWDIzcHRDT3hnUDFLSFlwcGJKcmx2OVh3c2tjcEpDRnRQQm13TDJIdXB5dVN4a2xMZEx2SmsyMzFzSHVaRzJwamRqQ09ZQmExeU9yN0NqLWZ2aFJvcm9kcWwwbW1aMVhRSmtxNmpLRWxJczRub3hSZGtQczVXS010dldPU1BlUmtERTQ4S2ZaZ3BFRmY3VzVYaGF6TWtqVXdWVVE?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 13:28:04 GMT",
-      "description": "Bundibugyo Ebola Explained: Why Existing Vaccines Don't Work and What Comes Next Infection Control Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "WHO and UNICEF estimates show routine immunization has rebounded in the Americas, but declining measles coverage leaves communities vulnerable to outbreaks - Pan American Health Organization (PAHO)",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObGdicVZ6b2tZRjhDQXRNY3NoTVQ1cmMzbnZHOVZXdDZCMFdoVmxrbC1FQ0FleVVZTU1IRWpnMnFvREktN3huUmIwMnY1T1BLOW44eWtxWkdNQlZtcFpIei1QTlMxeDVCck9CcmFJd3hacjl3NDVGQm5iZlZQdGd6OWZKdDBwdXFvZVpNSEdURHBrT1RmU3V3N0ktMzBzSkVzMU81UzBtbm9tV09UVjVRc3pjVzduTkpJQXltQ29ZMA?oc=5",
       "pubDate": "Wed, 15 Jul 2026 12:38:55 GMT",
@@ -933,19 +894,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Free rabies vaccine clinic set for this weekend - WKBN.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNDk4aEZEeDBIV0FQR2VnOUxRcE5SeDhzckt3YzgzQXNLdVd3ZF9pT29ieklxbGYzY3A2eFpGTlBiaGRKVlV6RVJsUkRXejEzYzlSaVYydnE4SkFkcHE3R01uVzdybFQyR0l0WGJvcG9HUC1pNEVrX2ljYm1fRGNXNnN4UG1Ib3hjbXVVNnFUeXFQbFlWbm1HdkFOcTBVQdIBowFBVV95cUxNMU01RlptZzNVU2oxTWtLVHlVQVpXN2tZMGlNRl9tTS15SVhVSUowSjl5S3dGSEIxVWxqNjVhSTJCRkY5R1BJNngtUXRKSDFjRzhRSlgtT2Q0bl9OTDlnb0JNZDZOT3p0MmFJMlNPdG5YR1FaRk5oT2p1RTgtU1c2SWdRT2xMcUhaTkVCYzlDU0RCWlNqd3VmQ2tublZYNzVxbzFF?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 12:23:47 GMT",
-      "description": "Free rabies vaccine clinic set for this weekend WKBN.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "rabies",
-      "vaccineLabel": "Rabies",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1106,75 +1054,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Idaho mother charged with killing her twins is ‘not a vaccine case,’ prosecutor says, describing evidence of suffocation - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbi04UXVBQ09wdHdPU2pETjg1eTNYazZlLXI2MkVYNEhVbFFrX3hENE1pclBmRHZQcFdGQ2lfQWlCMjh5M3dQRUwxaFFMVC1nZUJkNWFZMEtFeGtndExFVTRxSlBwRGZLRmY5aTh0LVRKZDllbTlMamw1cG83T002UktMWk5tdko2MXpWX3dhODRrTlF5NG1zLUVWeVRhMDdyMF9VeUZ3?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 02:09:00 GMT",
-      "description": "Idaho mother charged with killing her twins is ‘not a vaccine case,’ prosecutor says, describing evidence of suffocation NBC News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "The new malaria vaccine helps in Africa but faces a test: Completing all 4 doses - Oskaloosa Herald",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOSjM5TkdDeEhIY2dzWFRsOVNfTnIwTEc3QnRtU1dXRnNheDJuY0t4NkJDdUgtdGl0Ylh6Q1RxZFhJaXFiYXNBMWF2eV9WczJ2cVRjSm1nQUJDUS10ME5QQ0pJNVgzQl9UUldVX1dlcnRDbmJueGc2ZlB2YjdOOW1RVFpmV3AxN0pDTWxCSGE5WDhQU0EyVmw0UFMyazhnTE0xckVxcl80b2tZT2NUWTRJSFM5NnYwSTJEdy1PUU5HckRDcDlBLV9lTlB5blpSX2J2WXVQRHhBd3BOczM4SDI0eS0tWWowekJoc0lJR0ZwOS1FRS1iZ2JDWkU2clNzOUdob2R1Qg?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 01:17:28 GMT",
-      "description": "The new malaria vaccine helps in Africa but faces a test: Completing all 4 doses Oskaloosa Herald",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "malaria",
-      "vaccineLabel": "Malaria",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Global childhood immunization coverage inches forward despite conflict and hesitancy – UNICEF, WHO - World Health Organization (WHO)",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY0JFVnF1eXRxVFZpOGFIVkNETXI1RGlxV1BkX3ZXZEZFNzh5a1ZTQTMyY0t1MDhuX1pjWFRVUkptU2Z3bG14OWw3M2xES0NhM0cwRU52a1daaWxKZDI0M2hlcG1LUUJBZHZOR1RvR2ltV1NyM2xBQktRRDNaYmtFSEttWjdENUFDRFNUWWF3TFZ1V1dMaGNNZ0xtVm9SV1VHeWtUVE4tZzZra2pPSHhkMHN3THJnb0lIbXA2cUFLYXprTFMzVmxEMnVOZmpYVkMwNVYxTjZR?oc=5",
       "pubDate": "Wed, 15 Jul 2026 00:59:25 GMT",
       "description": "Global childhood immunization coverage inches forward despite conflict and hesitancy – UNICEF, WHO World Health Organization (WHO)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Global childhood vaccination rates climb amid rising outbreaks and conflict - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYjJxYmFsNkNhLXVDUjRySmJWLWpVc3BpWDY4VWlfR0FncTlmUk9CRC00bnpmOC1vbGFIbnN0OHg4cm95VFZNRXFnS1BXLU10ZEtYUlk4ZW1XV1ZhZEJXcWl4M0R0MG5ESFBHMHAwWDVFTzNhYnBHTTU4dUVCSXY3Ul9EWDVPTGNvdGlILXh1TmJpRkh0bHBYaVZRSDhtTGkwUmZmMkE1QXBON3lQakZUTmFXNXMtSnlQT2xnZDlzZ2RibkxJaXJQS0JTMTROMmJEUFNGMElWNWE4Rnc?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 00:05:00 GMT",
-      "description": "Global childhood vaccination rates climb amid rising outbreaks and conflict Reuters",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Measles return to Tennessee: What East Tennessee families need to know - WVLT",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNVpGNmJYUFpKNnItWC1FSXlJdi16Ykg5QUJHUi1RZXNSZlZHM0lTNkY2ZDJmN3hnVTcyRU83dERJZ0VYbzRqWUswcnNhS0dBYUs1ZTB1dXZ1SS1scFhOcklDSzdfZlROdHY1OUxMQWptYVo2ei1uU0N1amZId2lDY29ad0JMQzV2bFk0WGEySlFGZVBrSkFuX1Ezcw?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 23:14:00 GMT",
-      "description": "Measles return to Tennessee: What East Tennessee families need to know WVLT",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Experimental KRAS Vaccine Generates Immune Response Against Pancreatic Cancer in People at High Risk | Newswise - Newswise",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY0VsLWFaMXhmQ2x5NC1iclBscHFIVW9CM2xwZ0J6YkhOUHNGaTdCSXJoOTMyOFNGVWs4U0JUb3FlWkhJUF91SDJmQVhWekhJNzBabzVKd0RQYzFwVE82SGN0eE1USEpoZ1BoQ193MjlUNFFTcjNINHJjQmtJVl9vd1MybzhYNzBqYW4ya0JKTGZMVHZUcTVpNXJCUEM4bnVlTnNfMjB1Q1I2SGtKeXJVTm5mMkc3OWRVQ0g2eDFNMDNFSl9Hd2dKVHNwRVBnWE3SAc8BQVVfeXFMT2NFbC1hWjF4ZkNseTQtYnJQbHBxSFVvQjNscGdCemJITlBzRmk3QklyaDkzMjhTRlVrOFNCVG9xZVpISVBfdUgyZkFYVnpISTcwWm81SndEUGMxcFRPNkhjdHhNVEhKaGdQaENfdzI5VDRRU3IzSDRyY0JrSVZfb3dTMm84WDcwamFuMmtCSkxmTFR2VHE1aTVyQlBDOG51ZU5zXzIwdUNSNkhrSnlyVU5uZjJHNzlkVUNINngxTTAzRUpfR3dnSlRzcEVQZ1hN?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 22:30:00 GMT",
-      "description": "Experimental KRAS Vaccine Generates Immune Response Against Pancreatic Cancer in People at High Risk | Newswise Newswise",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
