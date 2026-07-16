@@ -1,20 +1,25 @@
 {
-  "updatedAt": "2026-07-16T09:10:29.644Z",
-  "itemCount": 96,
+  "updatedAt": "2026-07-16T10:09:36.639Z",
+  "itemCount": 97,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 6
+      "count": 5
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 16
+      "count": 17
     },
     {
       "key": "polio",
       "label": "Polio",
+      "count": 1
+    },
+    {
+      "key": "meningococcal",
+      "label": "Meningococcal",
       "count": 1
     },
     {
@@ -25,15 +30,54 @@
     {
       "key": "malaria",
       "label": "Malaria",
-      "count": 4
+      "count": 3
     },
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 68
+      "count": 69
     }
   ],
   "items": [
+    {
+      "title": "Could A Vaccine Prevent Pancreatic Cancer In Those At High Risk? - HealthDay",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ1NTYWJFUkRmNnNMdnczSUdLY3A2R21hWUk5VkhvS2Q5M3FKclYzd3hzTVFrN0d1NWxEMUdDbnRIV0dDeU5vSmduemdBQUZVbmJmWGNiNXZ1a2NWMU9BU0pxQ2VjZXVSTGdCLU43bDBpSjI0U2xEQ1pqY3YtbUxycExIX1FaNnpxT2JQdEc5bXk4c2l4SjlqWG9mMUdyOHM4ZDFzV09tYXo5RERO?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 10:00:00 GMT",
+      "description": "Could A Vaccine Prevent Pancreatic Cancer In Those At High Risk? HealthDay",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "PA launches measles dashboard as Lancaster County leads in cases - WGAL",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUEtCdno1Wm9YOFhtT3VyYk0zT0o1SHJ5T2M5QjlQTjkzeS1DU3JMNllJUFpVZVJtbi1GbVhyRHFHenRNS3NoamZDNnZYZl9NMEdOWWN2b1pXY0l2X0J4OHVjOXRXVzVNOXlWY2diQ2V0SWkzNTBQbE5jX3d0SG0zemVmY2lPVUZtMVNjVkptbHQ2RURJWkE?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 09:54:00 GMT",
+      "description": "PA launches measles dashboard as Lancaster County leads in cases WGAL",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Measles cases rise in Kent and Medway - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40VnpndHVJZ1J1cDJnUVVhYVBXMnh2eHNSUC12S21DazFPM281bTVGSC15TW1aMG8zR1Zxcm9nc3EtTVJYYnhFQi01LVJDYnAzS0RSdHdYWWMxdw?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 07:51:22 GMT",
+      "description": "Measles cases rise in Kent and Medway BBC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Sanofi joins the mRNA vaccine patent wars - European Biotechnology Magazine",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbloyWE8tV05QcU05cW1ueVJoYnBxYU8ta0lFbDNEUlZZN29fOUprdDNzRTlaaDdCU2IyT2ROUEFqVWJqUjRoMHhxOEljSWZadEZWdE5kUGZUWklCdE9KZG9kMUN3MTJKbmJnTDBCQWE2X0c2X3NuZFJERFNET0J1S3N2NGxuTWlLUFBwNEFGQXZTLVU?oc=5",
@@ -156,19 +200,6 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTFJoSngzLVEwc3VzNWJ3NFV5WEtlbnUyZF9zOVJodHhNMG1JcEpISk4xckt2ZjRXdTY0UHk5SjVtcENqbDgwM1ZtVl9ILU1tQ0FzcVJFajh1TG5RSlhYdE10Rm4tYm5Tc1E1WlEzcEg4MXcxOXJ2OGdMZXFwVWpSNHFZRmd5ay11TDRWN2xxUVB6YWZ0NnRWd3Z0QnE3bnV5YWZr?oc=5",
       "pubDate": "Thu, 16 Jul 2026 03:02:43 GMT",
       "description": "Would hunters take a Lyme disease vaccine? Pfizer has one in the works The Day",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Inside Kenya's growing childhood vaccine shortage - Daily Nation",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPczltcFNIM1J4em44NXFFazNYR2ZnTTdtLU9wcUhiaEVzU0ZoUk1DRG13c2g0eHgzWDRqY0xiWjl3R016dVdRYjJadzU2cFczUkRtOG01akR1MnZCcFg1dlI3YlJtcDNkV09zbnZTRnRzZ0JjYWR0djZjNWUxQUVJSmdkazhJNjExYnFvQThNYnB2RGJhQ2NJ?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 03:00:00 GMT",
-      "description": "Inside Kenya's growing childhood vaccine shortage Daily Nation",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -312,19 +343,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOXAyS1MzeFlYWnpsSVVxQWNwTGpldFRRS3ZqZDREeDhBNkI5ZDZqLVc3ZkdJVGNyLS0waGc4NkItZWpXdlhlWGdpQVAwYkdsczE4SEJUZnZnN2ZDTjlRdjFOaTNGcWZjN1pHNmRrUk13NjdtVlpnWDZ1WUQ3dnkzSFRvdGo1bEZLTDk5YmtiRl9sNXZJeDNQanVpcWFRdzBQN2lFVWhTaw?oc=5",
       "pubDate": "Wed, 15 Jul 2026 22:15:12 GMT",
       "description": "Maryland health officials confirm five new measles cases, urge vaccination checks WBFF",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "5 cases of measles have been confirmed in MD after recent out-of-state travel, per MDH - WMAR 2 News Baltimore",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSUpHTTZxVDhLclFMNkxyMFlvQlAwdEptcmVTV19Gckthc2ZidThxTkpOMXNTN2IteGZUMVItMmVya0FRYnlvVlN1RE9BejdaeGhXdXJfNmRhNlpnNGRhZmhKWlpGX2VucXdrOF9abk55WmZtVldFbmJ1SmNTbGdpb3N5czZ5Q2pCTThKV241UF9hYllCVGZKRTFjZjZJODIyblNvZ3JNQ2tuUGZVT2hsY3o1aURVT0h4?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 22:05:42 GMT",
-      "description": "5 cases of measles have been confirmed in MD after recent out-of-state travel, per MDH WMAR 2 News Baltimore",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -525,6 +543,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "MenB vac update: vaccine allocation and ordering - Community Pharmacy England",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM2RxQzAxWEdUbjhwT0s5ZXV0MTY4dGxVNWxKTVl4OWV4SWpVRDRFOFhneFdaVlpaeFg1VGhnRzFtRGlQNHI2S3A5WDcyREptakNCbjlQTGpQM1h6SFlsdkVsSjJvQTdrbnpyY1I5TkF1b0U1MWNNQkJCZHdjamZQQTFn?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 19:31:15 GMT",
+      "description": "MenB vac update: vaccine allocation and ordering Community Pharmacy England",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "meningococcal",
+      "vaccineLabel": "Meningococcal",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -893,19 +924,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Covid vaccines: transitioning to a new normal - VaccinesToday",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQVYyVktXbEJPSkJWX3BHNkRXT0s1Y2dxcG1vdjVFTUIwUzllYk1RcVRzcWVZaFdiYzFQQkh3YVozNUxtYTctOG41Z1dqTFQxSS1zQkx3Nlp0ZEU4cU1KTEV4Wnp3YjRIQXhGb3A3YUZVQXVFb1hycDNuX1g2dVFJSEpQNkFCZ1dNaUE?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 10:57:41 GMT",
-      "description": "Covid vaccines: transitioning to a new normal VaccinesToday",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Meningitis B vaccine rollout begins for students – what you need to know - The Conversation",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNWYzZ3hyVXl6dmpsWENqekcteEptVVVVMjRFRHRWNjFicTh1VTdyalRFWFozczgwUGItUWN1bkU4YU5Xam9xZl9oNFd4YXp6eVRlSS1jUVR6MGc3T3RrajhydGVISkJaTmx4UGJ0VVN6bTNOenZnaFhRWS1nWDVZTGIydktBTVktMlFhUnlCcUpOaEpCckxCTGkwZkhGR1lGSURQdkxuQUQ?oc=5",
       "pubDate": "Wed, 15 Jul 2026 09:50:23 GMT",
@@ -1062,19 +1080,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Cameroon Malaria Vaccine - goSkagit",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNjd0TmxwRGVoLVVIXzdxYmc1QXJ5anRBRUxZZVpTS3dYYXJxaHJkSFJsLUp0SjA0cENSekl6SEZSTmVGVVRVdUJNUUlyMVhSSXZ2RWhUWTNDa0MzWVhlRk1Bb3Nya0h2MGhfb2JsRG0yeDRMekhEdUwtenl2M2pyc0VwVDFoQnYzNVUtLWM0RE0xb05heVFmVFVOZGZuYmpudlMxdm9TYWFOYnYw?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 01:20:26 GMT",
-      "description": "Cameroon Malaria Vaccine goSkagit",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "malaria",
-      "vaccineLabel": "Malaria",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "The new malaria vaccine helps in Africa but faces a test: Completing all 4 doses - Oskaloosa Herald",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOSjM5TkdDeEhIY2dzWFRsOVNfTnIwTEc3QnRtU1dXRnNheDJuY0t4NkJDdUgtdGl0Ylh6Q1RxZFhJaXFiYXNBMWF2eV9WczJ2cVRjSm1nQUJDUS10ME5QQ0pJNVgzQl9UUldVX1dlcnRDbmJueGc2ZlB2YjdOOW1RVFpmV3AxN0pDTWxCSGE5WDhQU0EyVmw0UFMyazhnTE0xckVxcl80b2tZT2NUWTRJSFM5NnYwSTJEdy1PUU5HckRDcDlBLV9lTlB5blpSX2J2WXVQRHhBd3BOczM4SDI0eS0tWWowekJoc0lJR0ZwOS1FRS1iZ2JDWkU2clNzOUdob2R1Qg?oc=5",
       "pubDate": "Wed, 15 Jul 2026 01:17:28 GMT",
@@ -1170,6 +1175,19 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYXJmeERBWmxyY1h2SVQyTk9WODFtWVBVRFVDQXFEYkdnTDJkUzUyS21CQ0tzS052ZmkxWXZfc09mbnl1R1BfZEJ2bG92eEJRckpaejFmZHE2eFZpWmdfdjhkcEE2QWxNUENUZFVYOFA0SkxScGZUNFpaVFNocFpIWHJPNWJPeTJoUXVxQUJ6OGlBak0?oc=5",
       "pubDate": "Tue, 14 Jul 2026 16:18:40 GMT",
       "description": "CEPI-backed Ebola vaccine set to enter phase 1 trials Fierce Biotech",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "First-ever koala chlamydia vaccine implant inserted into a wild koala - Phys.org",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMXZaWUFaZWFuV1luM2wyQjAxcWdfVHhEX3JnWkZ5WFZnR2I1VkdCRVRWSDRTRFh6NWVlYkQtVjlNbnc5RnlLTm91M0ViUjdHb0QyeTdBNmtJbFlrTzBLcEdqQXlmMjF6MVZCSnBta1d2eWFYS3VQUkVUUzhSaTVsbw?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 15:40:01 GMT",
+      "description": "First-ever koala chlamydia vaccine implant inserted into a wild koala Phys.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
