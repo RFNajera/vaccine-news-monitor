@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-16T19:46:38.671Z",
-  "itemCount": 96,
+  "updatedAt": "2026-07-16T20:42:33.301Z",
+  "itemCount": 91,
   "groups": [
     {
       "key": "covid",
@@ -8,14 +8,9 @@
       "count": 7
     },
     {
-      "key": "flu",
-      "label": "Influenza (flu)",
-      "count": 1
-    },
-    {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 11
+      "count": 13
     },
     {
       "key": "hpv",
@@ -30,7 +25,7 @@
     {
       "key": "hepatitis",
       "label": "Hepatitis",
-      "count": 2
+      "count": 1
     },
     {
       "key": "pneumococcal",
@@ -40,7 +35,7 @@
     {
       "key": "meningococcal",
       "label": "Meningococcal",
-      "count": 10
+      "count": 9
     },
     {
       "key": "malaria",
@@ -50,10 +45,75 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 61
+      "count": 57
     }
   ],
   "items": [
+    {
+      "title": "Pancreatic Cancer Vaccine Shows Promise in Early Trial - Everyday Health",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOUdnVWNDbGZQRTBXdjlrcHVGelR5ZnV1OGdvUnBMOGhMMmphUmw0M25MZnB1cmN6dHRPOWFtVVJuTzFoYWdva3Z1TnNsVzRnLTZucDVuSG5ydG5zYkMybTRpdlVUX1FMYVVVSG04QzF2akNwd3E0bWhURHVkMGh6VVlYam5qNzlkSkZRdUttcjRaTWphbVBlT1BUakpFS3V6eDE3bw?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 20:35:19 GMT",
+      "description": "Pancreatic Cancer Vaccine Shows Promise in Early Trial Everyday Health",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Madison County Health stresses measles vaccine amid new cases in Tennessee - nbc39.com",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMHNhVG1WR2V4amhCSmdEMTRCTlk4RHNzMkVGc3JHaGpYWEZRb1FSaVdRQnh2WVdlRTA5aFU3V0xIdjRhcm1VRVZ6ZE8wcTFZMEJhLUpSTm50LURMdHRSSno4WHVOcFRlRTJZNjZfaEZWYmFoNEczaHM4aHltQnRDQ1NDZ1BfXzVGYXhYdGVGMjNBX1Fyb0g4OWhoZWI0eGNDenJsRXhHZm1NY3ZkNi02eHY0NEFiTjlzZVNNcHNoNUx2OWdnbWp5U3Qzd0FTLThDU2pBMVFqcmx4OEtKTHB2SjJyRnlYQQ?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 20:34:07 GMT",
+      "description": "Madison County Health stresses measles vaccine amid new cases in Tennessee nbc39.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Gates MRI, Serum Institute sign deal to manufacture novel TB vaccine candidate - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOWpGZlpodk1uS2E5ei00SXJzNDhOaXZBVVppSEtrOVQzTlNHLXRlR2JIOE5LSWE4VjZJWEgxZW9JV3Ezc0ltcElCa2l0NDF6U1UtZnk4dENyMHo0cDFHRHl0aUZPMXJUWlJIMjNzaU5JX1d4MHdfNlpzTlBtSnRQNTJmTXBiUm52Qm40ZHB0UExCcGd4OExfaW9QdTNRa3RLWHM4TDA4NUVQVmZEbDc2cG11T1JmYVd1VXVBdVpJTmZobTFvT2dMbU1BUnVkM1VBNU4yMUVR0gHjAUFVX3lxTFBTWmlUbjcxQzBTQlVmejRGR2JlU2xrMU5ia1B2UWlIcmRXQkZZTHMyQ0NGQzlQUW9HQXNXLUtLMXRNSXBQZGNjb3M0bzFTSWcyYl8xekxPc1BaeDRnVlNvb001UlV3S2taaEtQc05KblE4cXpHNEpYcEE3R21fLXY3TmRJZkFKbTdmRjJLZHRZN2lyckZKaU5vcmxQclBPNldjMlZpSGtMbWx3WmFabU9UV19TN3hnS0xmbFU2R0k2SEJFU0ZxLTZ0ajI3aElGX0pBZFBzbTVDdlBnbVJpdEdVb0o0?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 20:09:11 GMT",
+      "description": "Gates MRI, Serum Institute sign deal to manufacture novel TB vaccine candidate The New Indian Express",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Offer teenagers a meningitis B vaccine on NHS, advisers tell UK government - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR21rd19VaDBNVXFtNS1HclJTNDgyc2FRU18wM3NzWEZpRE5lWEIwR1lVT2NRNDh2eHZSOE82ZmM4NThodjF1LXZtR2NWTnQzc1RaOXBHYnhobnlYQWNDUDlvX1VxbUQ4akRSWmsyVUtQMl9aRFF0bFJQNVlLb05Ea0JRSHVtMklyckZ6MW5BbmdieUtaa2piLXdVVG1oN2pjdmRIZ211Q1hYMS1EaVc1aDBmMzNOY3pSSHRjNy13?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 19:59:00 GMT",
+      "description": "Offer teenagers a meningitis B vaccine on NHS, advisers tell UK government The Guardian",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "After $178M payoff from Moderna, Arbutus BioPharma expands patent litigation against Pfizer and BioNTech - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdGxiSWVmZ0ZucENjZUYwMXpDTHMydENUNS1sbkYwS0k5c1NWWG5MM2Q3NTVhMm1wTkM3ZGdBdG9DZXF0TUQwaWJfOFAyM1BEU09Za3FhbHVXRFBCYmp1R3dyRU1tR0pzMWdGUEh6bGRfSXQ5Z3NiNzNzakVMMWkzTGd1cDkybExYbndpQXY5VEs2YmQ0U1FXWUpXS2xCN1dOSGNJUlZnNEVfTHF1bE5J?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 19:44:00 GMT",
+      "description": "After $178M payoff from Moderna, Arbutus BioPharma expands patent litigation against Pfizer and BioNTech The Business Journals",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Prosecutor: Evidence shows twins were suffocated as mother blames flu shot - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWFVZDhJMTUwWHpPeXlOdE5wRU1rNlZCZG9VZEZkZWlleVNZSnduSFF3ZWRacEptTUhieWZDZjVZSUVvZ1hYSWpXNllPMWpITWR1WElrd3pCejN1RklMV2hGc1NkXzBuM1pyaERmWHNYNlprRHRDUUo3LVJ3U0VkVnhLaHJxV3pxcU96SGVXVjgwRTRSdkJxeld5T1BiTHFnS19uUmFkUzd3NnJleERMVEVfSmdnOVJHS0EwWA?oc=5",
@@ -72,19 +132,6 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeTJsVXNqSWt3ZnVKZU5DWHBxUVZkZmF1WklEam5kTUwwTGo0T3NJR0k1aDJsR3JyQkNEa20zNFJlcWxMbGx4eGg0WDZLRDRib295RF9PbUw0RHRJT1FjTC1lLXpIcklEVTA1Qm9HaWVRRmZ6WG9zQ0FoYklRdW9kd01kNFZBTUpDUlhXbnhhWDFadGZrV0Q1VGtRWFBwOENVX0kzc0lKVE4xVFZScDB1TzVVWFR4WE96a2VDSUJua3RfZmhMaVJnWVJfajRNMnM?oc=5",
       "pubDate": "Thu, 16 Jul 2026 19:30:31 GMT",
       "description": "Johns Hopkins Researchers Advancing KRAS-Targeted Pancreatic Cancer Vaccine Precision Medicine Online",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "SII & Gates MRI ink pact to manufacture new TB vaccine candidate after successful Phase 3 trials - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSFpkdF9ZQWg3bXdsRkNnOG02RllIa0FhVFZvWFBOaEVPYlAxbV9Fc1hDX2g0azZrbHZ2dUVDcDV4THkwSEYtMXFjSGU5Q1hYWUxlRzh1Tm5aTzkzNVk2bkpfNnZST0tGU1NNYnpFbG1jWjVma0QwWWlwNlpTby1RdW1FUDhnUGUzOFFsYzRVMHNhUlRKVmpXUXRURUNfem50R1NBR2NzYmJEUWpDOVhHR2NyMEdiNHliMkdUTk1kaDZyanl4dHF1SEwtZG9uaVBub2J6cUh0TFFLNllqLUdEc1RRc0dnSkF5LUJwa1VlbFVZRXRWa2Z0bWZn0gH_AUFVX3lxTE1VLV9lcmtmQ1Y2SWR1SnNubllGSEdfa2p0WUQzYkZGU3J4bTdjQWtrRWE1QmVFd1Jhd1VKY0VPMkJFOHNlV2w4ZUNQYTZsdk9zU1FNa05MdjBXQi1CM2l5SzN4ZHUxbEZJQkw0dlZZYTdEaXJlMFpZbTU2TGdMdVh1ZlRyVnMweXBTa2tVN0RyeFdMVmgzV1FMZ0dmU29SOUpsRzZWeFpyc3VXcDctdDM5TTQzNW1PY0h6R0dsaWNISXc4YmlPckJna1B1SWk2Wm02S2VyRks1OF85bmt1Tl9yWXA2Tlp4QWFNdG5yTVZPVmFiWUZxa0wxaXM2Q2tCbw?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 18:36:00 GMT",
-      "description": "SII & Gates MRI ink pact to manufacture new TB vaccine candidate after successful Phase 3 trials The Times of India",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -315,15 +362,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "Offer teenagers a meningitis B vaccine on NHS, advisers tell UK government - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR21rd19VaDBNVXFtNS1HclJTNDgyc2FRU18wM3NzWEZpRE5lWEIwR1lVT2NRNDh2eHZSOE82ZmM4NThodjF1LXZtR2NWTnQzc1RaOXBHYnhobnlYQWNDUDlvX1VxbUQ4akRSWmsyVUtQMl9aRFF0bFJQNVlLb05Ea0JRSHVtMklyckZ6MW5BbmdieUtaa2piLXdVVG1oN2pjdmRIZ211Q1hYMS1EaVc1aDBmMzNOY3pSSHRjNy13?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 15:52:00 GMT",
-      "description": "Offer teenagers a meningitis B vaccine on NHS, advisers tell UK government The Guardian",
+      "title": "Second Circuit reverses ruling in religious discrimination case involving COVID vaccination - NY Daily Record",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS2JpQlpvaFpIRmVWOS1Yd2hrTUVfOWhvSjEzOWVPbXRIUkw3WGVxTEJXVTNUb1hpa1BBbFEwMkN3Z0hGTThzTzBjei1LWU1qSS1FZjZtSmZ6UUhub3gwRE84XzJPUWNwbktPMGM2RFdXMktjbnQ5TGFwc3J5ZE5Wci1IMGRsTnE4b09jb21JSEpVN005TVhsZ012T2VMX2wzNWU2ODdR?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 15:48:33 GMT",
+      "description": "Second Circuit reverses ruling in religious discrimination case involving COVID vaccination NY Daily Record",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -337,19 +384,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Low-Cost Chip and Vaccination Clinic Coming Next Weekend - Ottumwa Radio",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObkx0S1M5cnRDMDNRZFAzSW85MzZfOFN6cHBnQi1MNmNGS3NITlJudGFiV0dldHlfemF0SHpjUXNpeU9pRWxlNXNzcjdqclJDR0tucnNDOUNhMUlSOUtsRE1NanRQMXRLQklkTG9tWGRYeDR5NGpEYW1YOXQ5WFJGVjFMeXdCQmpGdmlmbzAzU0w2MVBN?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 15:25:30 GMT",
-      "description": "Low-Cost Chip and Vaccination Clinic Coming Next Weekend Ottumwa Radio",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -419,54 +453,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "Explained | Understanding the global crisis of 13.5 million 'zero-dose' children - Deccan Herald",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUGRMX2h3ak9Pb3pwdE50OWJyR0oxcHlXWnRnelYwQWJpQV9WeHNOcDVldUdSNUg1bHlwMUIwX2liR19DOTlseHpXd3RKWXFzR0pwcm9rc3EyZUtmTEFEcVg1QnBmbnQwM00xOEVRQkVGSUtBOGhndzV5QllrV2Z2NzVOazNKNnp1dDZFWTBRc1IxNDBiaFg4OFQ5bUlTOEJkS000V1c2SElOVUhETVZZV0lyS2gxZ1dZXzJ6eTJTSGJ0bVFHNUphb3d3?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 14:45:41 GMT",
-      "description": "Explained | Understanding the global crisis of 13.5 million 'zero-dose' children Deccan Herald",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "JCVI recommends routine MenB vaccination programme for 15-year-olds - Pulse Today",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVTVYN2ZxYUlHWWE0cFkwdDJZbmczcmltZy1GU3ZMcXpPZDR3SHk4NF9DdTBZRlhQT1RHQ0pWb3JNa2N5am1GRnhmbnI1QkFtQk1IQU5ub0E5eDVaV3RDLVBwYzBnWFl0c1dPS0RiS1lDYXBqRHhjMjN1Smd1VzNQNVR5NzJ3c0pWTXEwb1F1N3c4RURtS0F0aHotNkdKUGtac09sRC1vS0t1WHBVYThsMmdlUGJCUXlGMGg3akdPc3hndHphNm5FWTBvb2VGQjVrM0dHQ1Z2Y2lwVi1NMFptZDVORVo3R2VLNC03QQ?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 14:39:07 GMT",
-      "description": "JCVI recommends routine MenB vaccination programme for 15-year-olds Pulse Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "meningococcal",
-      "vaccineLabel": "Meningococcal",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "MenB vaccine rollout a vital step that will save lives expert comment - University of Reading",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaUtNTXU1SHhFR3NrRHRKRURIQlEwWTBVdzVJbndqUE9zX2ZwWWxCMm9MRUV2THhSN09qUVhwTkxad05RT2gyX0lTdUZjTVR5LVd5aWFzR3hHTG1ZMURyeTdqYWZFSUZfdk5vNV9MSHhlUWlvckp0MkhSc1l2WUw3Q2xjUWpNRFFVT3RVbl9wVi11MFY3S2hsam0wbUZqcVpQcEpHMFhpWGxqOWFCaHhENDAxa2I5eE1VT1NqbA?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 14:32:30 GMT",
+      "pubDate": "Thu, 16 Jul 2026 14:37:25 GMT",
       "description": "MenB vaccine rollout a vital step that will save lives expert comment University of Reading",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "meningococcal",
       "vaccineLabel": "Meningococcal",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Senator Hassan asks CDC nominee Schwartz if she will follow RFK Jr order to pause flu vaccine promotion - Межа. Новини України.",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rUmEwTWl6MlY2WktCbTNRb1J1Z3NDYXFqZlhHeXIyQXlPcVdwdUxNTlBYRVZoUXNOYmVmRWdtRFh5djRlaG5UNlJxNmc4eUNkbXBwUVVXcXRsRGRzUENkNURpb0gyS1h0?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 14:18:06 GMT",
-      "description": "Senator Hassan asks CDC nominee Schwartz if she will follow RFK Jr order to pause flu vaccine promotion Межа. Новини України.",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -493,19 +488,6 @@
       "sourceLabel": "News",
       "vaccineKey": "meningococcal",
       "vaccineLabel": "Meningococcal",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Give all teenagers meningitis jabs to end deaths, say experts - The Telegraph",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZy1teGNqWE9xU09zUHY5eGl0TEhNdWZ6eWJiQzRRdmJwNU5FQm91VFBuOGk4RV9MS3BKTVVsSkFGQ0dVWmNHRFF3Rk4wdFh1aDR5anN3dDROM1VDN1FoNnA4QlhWeEhzWnJyVkhnUzBCRFlkVENWZnVkdlBPZ0lOWFNMeVBrRmZ6UnBtYVNjV25qd2kyb2ViLUY1bW9zZHVIc0xJ?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 14:00:00 GMT",
-      "description": "Give all teenagers meningitis jabs to end deaths, say experts The Telegraph",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -601,19 +583,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Canada must take the lead on hepatitis C vaccine research - Healthy Debate",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMXdac0otMWFFZ3JidlV0N0xhQkttU2dQeklCaEdnR3B4V0V2RHVYLVF1Z05VdkNCYm93WldqcG1ZWXk0SlBySF9QNE9fQWpwT081ekdfTnVVU3NOaHJvM2Vjd3MxdjFjeVpTNHozQTNPQ2d3X3dsamVMZTFnc0ZyeTVvcjc5dzd0MDJWUDFVRnNvZDQ4MDA1c3ZhWDJjQQ?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 12:34:53 GMT",
-      "description": "Canada must take the lead on hepatitis C vaccine research Healthy Debate",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hepatitis",
-      "vaccineLabel": "Hepatitis",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "National Launch of Sudan Immunization Strategy 2026-2030 - ReliefWeb",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUFllbXdMSUhjaE50NzNteUM4ZEY5c2UyQ3VYbUNlR25INXVrWndDQ2NqTnowdnZMQkwxMmpJaDZPb3U2cS1oUU9CT2JsT2M5bUpxREp4NjNuT1J2eUlFV0FTb19KLWktRXhSX0l6S1hYa3NGM19tYV9iMEhkcWlDMlVraHlWQllTclFKdS1xSmpfZw?oc=5",
       "pubDate": "Thu, 16 Jul 2026 12:09:27 GMT",
@@ -653,19 +622,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "FMD | Up to 40 million vaccine doses set to arrive in SA within two months - African Farming",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOVZReG1qdkRsUG5QajZJVGxDTEZsS3RaU1Vzb3Q5X3dVOGdyMHhyRlBLUms0WFM5dm9pcUtGWm1Xck5oMS1BZ2hvd0hyYWVxTXNnYmMyWWJRVXRESGlBOHBtYTdVUEVRX2NRZmlRSHVRMUdKT0NSaU9heFU2WU5xVnJhMnhLM0NqREVtbmFlSUczY2xMZ3lRZEpUU2N4M3hGZ1ZWN241U3ZRYTJ0cEQwNWtBZm05QQ?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 11:15:00 GMT",
-      "description": "FMD | Up to 40 million vaccine doses set to arrive in SA within two months African Farming",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Could A Vaccine Prevent Pancreatic Cancer In Those At High Risk? - HealthDay",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ1NTYWJFUkRmNnNMdnczSUdLY3A2R21hWUk5VkhvS2Q5M3FKclYzd3hzTVFrN0d1NWxEMUdDbnRIV0dDeU5vSmduemdBQUZVbmJmWGNiNXZ1a2NWMU9BU0pxQ2VjZXVSTGdCLU43bDBpSjI0U2xEQ1pqY3YtbUxycExIX1FaNnpxT2JQdEc5bXk4c2l4SjlqWG9mMUdyOHM4ZDFzV09tYXo5RERO?oc=5",
       "pubDate": "Thu, 16 Jul 2026 10:00:00 GMT",
@@ -696,6 +652,19 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOakJKRF9zU0d4U3B1dEIyak5QeWM1Z2VvU0E3YjRvVnJHcnpuektHTGgwTGhCT3hESkozNkVnZ01sTGN3LURjb3ozOUVYazFybzNkLXE5YmZYVVZRZjlMN011VGtULTl2MURxZk1VU2U2d25RQ3cxVmY3azNTSTIxaW0ybGNZRjhPLVJZWGRrSkpBRHd1UmlMYWk3T0hsWVQ4LUYyRjdLUVdTMUFyV19zVkc4a0hKSk1nR1JlRjRUaDJCRTlBSlp1SmFqM09wZVk?oc=5",
       "pubDate": "Thu, 16 Jul 2026 05:38:18 GMT",
       "description": "Health Brief: Vaccine scrutiny casts a shadow over Trump nominees The Washington Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "UN Warns Global Immunisation Progress At Risk As Vaccination Gaps Grow - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaXVNdjFucnlqRmJUdEU3Q2lWU3hKTHZIMVBZYXhtRG1ic0hNZGFrYTZuZjhXaG1BYlpOZkpKQ2ozNThSRjM0RkdqX0FfN0x0dFFxTWllX0RIWDh0cjBrd1JZSDhfeFRXNW1GaGNheUZ1cU92bXc4TTFxWkp6SXZSV2ZYa3NmQ0pVUjU1SVhn?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 05:16:05 GMT",
+      "description": "UN Warns Global Immunisation Progress At Risk As Vaccination Gaps Grow NDTV",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -835,6 +804,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Measles cases in 2026 are set to surpass last year's total. Here's why - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTkZhYzdPU2RXVGxsUVIwTmFsd2VHbDRnNlZpZVJ4em53M0J6UTQzek5VYUd6eFg2WEZPeUhNeTl3Sl8wN1JkNjc0ZkIyN3pBeXdQWDVaZ2trYnd4d1owOE8tOTNQVGtPQ2JsLU5iRzB0a2dkeFRBTFZKSHI4dWlqbFNua3k2b0tMSndKZnE4X0p0Z9IBlwFBVV95cUxNMTdwcml0TEp4OXhMZXVHaG96MDBEVHJvQmZkaUZFc056MEladC1TbmJ2MUhSdThXWE1EVS1qYXc1dkRLNjZCa25QSFd6OVFpVUVLRGN2Wkk0UVBWU2NITzVsWGNfUjlPaExNUGtiUE1rUnpLc2NYeFVfb1VRV0d6S0hvbkxlWVFSU0R0SE0tN2JlTVI4Unk0?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 22:24:52 GMT",
+      "description": "Measles cases in 2026 are set to surpass last year's total. Here's why ABC News - Breaking News, Latest News and Videos",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Maryland health officials confirm five new measles cases, urge vaccination checks - WBFF",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOXAyS1MzeFlYWnpsSVVxQWNwTGpldFRRS3ZqZDREeDhBNkI5ZDZqLVc3ZkdJVGNyLS0waGc4NkItZWpXdlhlWGdpQVAwYkdsczE4SEJUZnZnN2ZDTjlRdjFOaTNGcWZjN1pHNmRrUk13NjdtVlpnWDZ1WUQ3dnkzSFRvdGo1bEZLTDk5YmtiRl9sNXZJeDNQanVpcWFRdzBQN2lFVWhTaw?oc=5",
       "pubDate": "Wed, 15 Jul 2026 22:15:12 GMT",
@@ -874,19 +856,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "HES to hold community vaccine clinic - WDEF",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yREY1OTJucl9FUTZWamtzcWRRMERka1ZJSVJqSmhSY3ZNVHpzNml1X0kybXRjQzcyakxRY0xNSGVBMVdZbTF6eTFKYnFMdDUzdENPZ1dnNDdnZm9yODZVUl9MM3VrUWVEMXc?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 21:27:14 GMT",
-      "description": "HES to hold community vaccine clinic WDEF",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho State Journal",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPUHhVTl8zQV90SEtiUk9DbmpRN0NOQUdSYWlIYVBVZW10WmZoTmNHZFVHc2gzVGdhOXUxMUVTZm9EcTZQZ1otTUFFc3BkWWdxOXpNanZuM2dOcldOSFJGa2VYdkp6ZmwydEo5cFhhQThOZURVbTRnanlCQk5RZ2o4dmdPaks5YmFDck9pa3paSkdGQ2plLUQ0ejM5SHQwclFoWWt0ZEMyQWV3blNPaUJ0dnFfWmJ3LUtxQkN4UmVaZ0x1amtvOGRFR1dxZmZIcERwdTNuMzhnd3RoZTdJOXVMNjdkUHRkaWo0Q2YxUW91bDlDaXdhZDFGX2pBNTVOWmxRYjNB?oc=5",
       "pubDate": "Wed, 15 Jul 2026 21:23:54 GMT",
@@ -909,19 +878,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Woman Charged with Murdering Twins Who Claims Deaths Were Caused by Vaccines Has Bond Revoked - People.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWGFEbHFLTElXNlRwVkN3N25FWFMwWlVmTERfdmxMWll6OFZwZEg5Sm9OUTRIZ1NLczc0ZjFmNWl1cTZxRjFsbGxLNjJVWnFkcXlQck4tZjM2UGNKWlpBSUJmMnVnUFFHdE9FSGZQaHVFVDhrNUJoclYyTFNoNHBzd0R4dDlQa2s?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 20:34:43 GMT",
-      "description": "Woman Charged with Murdering Twins Who Claims Deaths Were Caused by Vaccines Has Bond Revoked People.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1043,19 +999,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Health officials urge measles vaccination amid rising cases - WFXRtv",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQU9wbzRlRTRqT3FwSkFXaVlHNTVrQ3BDYkFZZnZobGFwaTdqY2JhUTdJQkttdWk4aW0yRVVVOG9Va0M1Y2NDbzNCVS1fQjc4a05DdTJKUlVFMFBJS1RkYW0zVzJleF91Yldxckt2eHh1UmFscF9JajVJMUxELV9nYUgxWXNxaFpHQnpSajlUZTdlbXlJNndpVjRSaHFHUTDSAaQBQVVfeXFMTW5rdkNkZUU3cllTRTRab1pWZ0pUWGJIdGIyNkZhRGU0QzNvMlNhaUtqeWRiakF1a2VETWlnZUVGd0NoUWJyYmxyUU44em1qMU1OWW42WVhqOGNZdGxNMFc2MHRsS3hzNEdZbjB0bm5uUXRPdlFDLWFpVGNNamlmUGRyWUNQZmtzcGw3Q0hJcWJQQ2dyR0hUWWcyTzJuZEVyc2FDdXY?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 17:58:21 GMT",
-      "description": "Health officials urge measles vaccination amid rising cases WFXRtv",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Cassidy to Trump public health nominee: ‘Why would you repeat those damn lies?’ - The Hill",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOXM1T1psczc1eHVyQ216U1RjTVMxRkl0TEVINVlMcDhSVEhEcDgxeFFWY1hTUi1vaWtwSVdKeXpzdnlFbEFrLUZ0SXJNZHY2RTRaNlJ5bjZRd25IejJkdlNkeHFsWERvdy1IQnhMZk1maG1wRThzMUh3RTMyVVdNMGtzUFhTa1Vnc00xZWlReVVPQVd0RllfYdIBngFBVV95cUxNRUd6OFFXay1wR0RPYVlRSDJtZThnUnJrd1VDOWJJbms4bXdjOVpUU192bEJZeHJEaGhDM2t4M1ZhQWZ0dmt3dHpCcUxsRXNJczZVOUYtcERiUHZwMk5vX01USGNYc1hHbzdtS1BqNnVhaXlsdXdWNUdIcGt4THJwRFlxV1hQamk1aENKUVZYVDd4ZUZhMWNHbldZN3BNUQ?oc=5",
       "pubDate": "Wed, 15 Jul 2026 17:32:00 GMT",
@@ -1078,19 +1021,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Across Eastern Europe, science disinformation has spread far beyond COVID and vaccine denialism. Here’s the grim list. - Genetic Literacy Project",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMmpScjZhOUh0U2U2TmVvVU1BSldWNzRMREFGUFQ5RXcxWFpqT29PNFJLdmFWcXUtRXdETmk1aGdDRVJ4QXFBT0hQTm5pbUF1VGRuTDNMRS1MUHlVeWlVMWZfdUMxcXE5MDN4RjdZUGZkUmI5ejEtQXZtY010clgyZWQ2bHlHYWJBTDJRemtrNFVvcjJhT1dxaHlxaG52LTg4cjlpQzlJTjJGMVVoZXRLNTdUdEN6QVVqMjBUdGM3bm1FVXJRSklHdXZ4QVktZno1X1BSOFk4VkRuRzMxcUVvWHhFelhrWEREQzZYZjNYZDRFcnM?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 16:13:29 GMT",
-      "description": "Across Eastern Europe, science disinformation has spread far beyond COVID and vaccine denialism. Here’s the grim list. Genetic Literacy Project",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1160,6 +1090,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "WHO and UNICEF estimates show routine immunization has rebounded in the Americas, but declining measles coverage leaves communities vulnerable to outbreaks - Pan American Health Organization (PAHO)",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObGdicVZ6b2tZRjhDQXRNY3NoTVQ1cmMzbnZHOVZXdDZCMFdoVmxrbC1FQ0FleVVZTU1IRWpnMnFvREktN3huUmIwMnY1T1BLOW44eWtxWkdNQlZtcFpIei1QTlMxeDVCck9CcmFJd3hacjl3NDVGQm5iZlZQdGd6OWZKdDBwdXFvZVpNSEdURHBrT1RmU3V3N0ktMzBzSkVzMU81UzBtbm9tV09UVjVRc3pjVzduTkpJQXltQ29ZMA?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 12:38:55 GMT",
+      "description": "WHO and UNICEF estimates show routine immunization has rebounded in the Americas, but declining measles coverage leaves communities vulnerable to outbreaks Pan American Health Organization (PAHO)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Childhood vaccination rate increases slightly, but millions remain unprotected - UN News",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jbUlIVGROel9Bbml5dUE5SFN1Rk1sdkdSdTJwaEVxREs2U3VaRDE5bWkzNUdpQjhxZHN6MzdmNk1DMkxoajhiVDMtZzdJZVRsSXdNQmdvcw?oc=5",
       "pubDate": "Wed, 15 Jul 2026 12:01:00 GMT",
@@ -1208,19 +1151,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Idaho mother charged with killing her twins is ‘not a vaccine case,’ prosecutor says, describing evidence of suffocation - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbi04UXVBQ09wdHdPU2pETjg1eTNYazZlLXI2MkVYNEhVbFFrX3hENE1pclBmRHZQcFdGQ2lfQWlCMjh5M3dQRUwxaFFMVC1nZUJkNWFZMEtFeGtndExFVTRxSlBwRGZLRmY5aTh0LVRKZDllbTlMamw1cG83T002UktMWk5tdko2MXpWX3dhODRrTlF5NG1zLUVWeVRhMDdyMF9VeUZ3?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 02:09:00 GMT",
-      "description": "Idaho mother charged with killing her twins is ‘not a vaccine case,’ prosecutor says, describing evidence of suffocation NBC News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
