@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-17T15:54:52.174Z",
-  "itemCount": 91,
+  "updatedAt": "2026-07-17T16:46:55.826Z",
+  "itemCount": 89,
   "groups": [
     {
       "key": "covid",
@@ -20,7 +20,7 @@
     {
       "key": "meningococcal",
       "label": "Meningococcal",
-      "count": 7
+      "count": 8
     },
     {
       "key": "shingles",
@@ -40,7 +40,7 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 65
+      "count": 62
     }
   ],
   "items": [
@@ -54,6 +54,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "JCVI Recommends Routine 4CMenB Vaccination for UK Adolescents - geneonline.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSzd1WTdEU3R2VnNMdUIzeVVUeVY0cXdKOGJmTmlUcXJMeHdla1ZWNmUwVkljR0Z5MXQxQnVJdVdlcVVWRGdUc1B3ay1iY1FhNVdudV9rMjgydlh2Q2JkV2xTRGxoSWFjZDliUW8tZlNucE1OOTNrZ2ZkLWJWZjU0MHdjMzdlQjNweGVXcUJIaG1ocU0?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 15:33:01 GMT",
+      "description": "JCVI Recommends Routine 4CMenB Vaccination for UK Adolescents geneonline.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "meningococcal",
+      "vaccineLabel": "Meningococcal",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -267,7 +280,7 @@
     },
     {
       "title": "JCVI issues recommendation on adolescent MenB vaccination in UK - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSGxzSzBVY2ZCdlJfa09nOFlNOXBWRDQ2UVhDYkFDZ1A4UVNnVTVRakcyVWhQYlpOWDQzODBPVW1XeUhubEtRREszVUNZenpyYWpYaktRSnQ5TEd0MDNGemJKeDVhaXhjWHktM2NkY3JTbklmWGJlUWw0Y3h1Y1h1VWV0Nms3ek9kVEYxVV9RV19Zek5lSGZpS2l3eXNSalN4amxV?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRTNoSzhOUWtNTllmSzZPMVY5LVVsbExoYUdtZWcwaG5VMWl5UGZCVzZheWxkQVJLU3dMenoyNTA0b2dFRm1EVklnZ0pLdnN6NkRrMmhiVmFFNElBX1dLUHk5cUljX1lBTkg3Ni1pWUM0V0x6aTlBb1JKWlFULXRxcmJqTmNNRWdQUVNmQlItM0RpcXRhMmdrMTVjWDktSnFDdENV?oc=5",
       "pubDate": "Fri, 17 Jul 2026 10:10:06 GMT",
       "description": "JCVI issues recommendation on adolescent MenB vaccination in UK Yahoo",
       "source": "news.google.com",
@@ -565,19 +578,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "After $178M payoff from Moderna, Arbutus BioPharma expands patent litigation against Pfizer and BioNTech - The Business Journals",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdGxiSWVmZ0ZucENjZUYwMXpDTHMydENUNS1sbkYwS0k5c1NWWG5MM2Q3NTVhMm1wTkM3ZGdBdG9DZXF0TUQwaWJfOFAyM1BEU09Za3FhbHVXRFBCYmp1R3dyRU1tR0pzMWdGUEh6bGRfSXQ5Z3NiNzNzakVMMWkzTGd1cDkybExYbndpQXY5VEs2YmQ0U1FXWUpXS2xCN1dOSGNJUlZnNEVfTHF1bE5J?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 19:44:00 GMT",
-      "description": "After $178M payoff from Moderna, Arbutus BioPharma expands patent litigation against Pfizer and BioNTech The Business Journals",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Johns Hopkins Researchers Advancing KRAS-Targeted Pancreatic Cancer Vaccine - Precision Medicine Online",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeTJsVXNqSWt3ZnVKZU5DWHBxUVZkZmF1WklEam5kTUwwTGo0T3NJR0k1aDJsR3JyQkNEa20zNFJlcWxMbGx4eGg0WDZLRDRib295RF9PbUw0RHRJT1FjTC1lLXpIcklEVTA1Qm9HaWVRRmZ6WG9zQ0FoYklRdW9kd01kNFZBTUpDUlhXbnhhWDFadGZrV0Q1VGtRWFBwOENVX0kzc0lKVE4xVFZScDB1TzVVWFR4WE96a2VDSUJua3RfZmhMaVJnWVJfajRNMnM?oc=5",
       "pubDate": "Thu, 16 Jul 2026 19:30:31 GMT",
@@ -641,19 +641,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "SNHD hosts back-to-school vaccination clinics throughout Las Vegas Valley - Las Vegas Review-Journal",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSHJuckdFUWZXTmI3TVB2NDZidDNTUTIxTWFlTUtXNXpxUFBWZ2J1M210N0pIMV83eENfcl9sSW5lT3dQOFRqMXJCbm93NVBqRkxVZU0wVkVINXIxQk42RzdUdTd1R2JqTnJKQTgyVzN1MnFodEUyZGhISjJLUjhubHFfQVZYVE9ncnpjSGZsemZRaTVya1dqWFl0UnNfeVVKZDQtTjNkSktsdlYwN1NuUjhSNTZqZXNsYmVIT0FpemJ0V0RlZXcw?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 17:19:33 GMT",
-      "description": "SNHD hosts back-to-school vaccination clinics throughout Las Vegas Valley Las Vegas Review-Journal",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "COVID-19 booster strategies provide lasting immunity - Medical Xpress",
@@ -842,19 +829,6 @@
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWVFWSXdKdXRhbVcyS091b1oxa0UzT3FqU0RLYVFkUDlCYkIwM0FjMzFtdlpOT3Jaby1PSHNfWmg0bU5Vc1Jlckx1V2lwQlhFVHJfd3BBd0VWUVF0c2xyM1NIQkR5WGtmbi1WbS1lN2lFVlJGczV4bHNReTFpbGxTcVB1LVZ6QUVEWGN3eTdpWThsZ3BfQ0ZPNGtTXy1Ecng3WlpDM25IMDl0dzBsc2Y4RWwxb213VTJWZWtGOUJuRlNad0FMQ1NRNVhSbUJscmNVOE9DVQ?oc=5",
       "pubDate": "Thu, 16 Jul 2026 05:11:27 GMT",
       "description": "Declassification of the Department of War Internal After-Action Review of the Coronavirus U.S. Department of War (.gov)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "CDC pick vows to follow science, won’t say if she would challenge RFK Jr. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLUUwdWE2Z2ZCX2s0WWNid19PSG9Bc0xtSzg4X2pOcWhreElfMkVPRnQ1WTBXbTRJNmVTV2VuTVB3VUVpS0ZNZGJXbjllMVdjRjF1VldhczNES1lGMWxWaGlaZmliTWRtVXF2SFowTHROQlIyWU5LY1VnQ0c1MV9vRC1pVmdhYkl0bFFfRXlXSy1pckJKNGxIeGp6akVibm96WmlMX0FYN2g?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 05:03:42 GMT",
-      "description": "CDC pick vows to follow science, won’t say if she would challenge RFK Jr. The Washington Post",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
