@@ -1,16 +1,21 @@
 {
-  "updatedAt": "2026-07-17T20:41:50.622Z",
-  "itemCount": 98,
+  "updatedAt": "2026-07-17T21:41:38.051Z",
+  "itemCount": 92,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 8
+      "count": 7
+    },
+    {
+      "key": "flu",
+      "label": "Influenza (flu)",
+      "count": 1
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 7
+      "count": 8
     },
     {
       "key": "hpv",
@@ -30,7 +35,7 @@
     {
       "key": "meningococcal",
       "label": "Meningococcal",
-      "count": 8
+      "count": 7
     },
     {
       "key": "shingles",
@@ -50,10 +55,62 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 69
+      "count": 63
     }
   ],
   "items": [
+    {
+      "title": "Province hosting measles vaccine clinics after confirmed case in Moncton - CBC",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVjkwT3BlVEpBWXVtRU1xU0VUV2VudDhDNFI5TElFaVRjN1FoQlo2ZmFMMTlpbXl0NmFid2J6WkItWFhnTWMxalhyZV9icTRial9RSmpKaHp5RlAyZk50V1dmSnJWODdwemJyXzlPTHo1Vk9mUzFSd2RIWk9keVBSMVhMTjlBWGRnMUx2XzZTTV9OeFBnc3drQnlvQ0stQQ?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 21:05:30 GMT",
+      "description": "Province hosting measles vaccine clinics after confirmed case in Moncton CBC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Flu Vaccine Options for Older Adults - Infectious Disease Special Edition",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWmZlU2pvbDlGcVFybmFsYmtxdEN2NzItWlNEZXhjWXY0WWRpQ3h0RkIyekZWYUQ5cFFkc0NmR282UHJzNEtNRzZYOUxqbXZLbHpPdV9nRDJJaFVXZHdfU3JLQy14a094cjNKRXk2X0d6b1pHQng0THoyd1VNMDdEZ0xfMm9OcldmWE9yYXVYbU5KZw?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 21:03:14 GMT",
+      "description": "Flu Vaccine Options for Older Adults Infectious Disease Special Edition",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Yavapai County Hosting Free Measles Vaccine Clinics - Signals AZ",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUW9DV09nVnV3T3JheDVLRTRlZmhpeUxvVXBhTHE2UHZDODBBelpNajMxYTNYQUFucEdudDdhWXNRNU5qTG00dUljU25aWVJwbGJYbV9tbmtoZmY3QVNtWlBWWVBYcUJJQ3BJUTdDNUlRS2Jwa1c2Zk1vd1BYYTI3cDhVTWo2Q3V5WGpjOGhvZFQ?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 21:01:51 GMT",
+      "description": "Yavapai County Hosting Free Measles Vaccine Clinics Signals AZ",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Medical Groups Urge 1st Circ. To Back Vaccine Panel Freeze - Law360",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQWE1cE9xc3E3czlCVFN6eGRjUzROX1RjSUlmd2RQNGZzWGhNYkU3T2RkcGNqYzY2U1FHZnhNdWIxUVJwMkdlOFhZZU0welN2RHlRUGNFVHNVVldWYjJ4ZVpYbFV1eU9ldnF6bmVCdzY4b0E0Yjg1WmV6b1lBM2RRRGNwTlVxRkJBMnJPMWc0WnFiQTJ3ZFlMdmZrS0kwRm0xVVVPNlRNdlI1b2pIVTV1NlZ1cWNYM0UxcHpUS3pNc1ViNHdMZnpiVmM4N215Yk9Xc1HSAXJBVV95cUxON2RpQ3BIYjJlNDlKVnlBZGp5SVNtTENtX2tMeVhYVkRGZVZVWXVCeC1fdjVGUzh5bUN5X1JJcGRuaEhUV3gwaW8tNHZmR0F0NTNORWMwYTQ5ZXRWZ1NWZVlBTkVCS1d3dVpXZUY4ZTZHQ1E?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 20:50:00 GMT",
+      "description": "Medical Groups Urge 1st Circ. To Back Vaccine Panel Freeze Law360",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Health Rounds: Environmental plastic may be cardiac risk factor, study suggests - 1470 & 100.3 WMBD",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOFR1VEJ3WmxIVzV3NjVZRXB3NE9OYlJEeDNBNTJONzZjN1ppOVRKS1VNZEhhTzVSVTNOR2Y4V3FDbWNwMmt2c3NoTUthdkwwbnBxdUNZYjI4cjI5aWp4UEl5N1ZIeEhMX0lsM21LcHF6X2tYZWFMN1JQazh6d2dPTS0wNWFyNDRmSkxBeWFzMFFpeDh2STh3dmZvRkx5cGlwY2g5a2hISEVmVG5DSUN6bQ?oc=5",
@@ -198,19 +255,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Opinion | The Inherent Danger in Secretary Kennedy's COVID Vaccine Injury Table - MedPage Today",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45cFJKNk0wS0phMVBrdDFFZkVIT2NhNXg2NGR3dkZEX2NmcU1QZGx3RXA4eXFzLVFiTkVFdjhBYzVJNkNVQWFDemdBMHk1YUFvNVRvWTEwQnZjX0NzWkRKTzFtLW5sOFpPc1NF?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 15:58:47 GMT",
-      "description": "Opinion | The Inherent Danger in Secretary Kennedy's COVID Vaccine Injury Table MedPage Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "opinion",
-      "articleLabel": "Opinion"
-    },
-    {
       "title": "KRAS-Targeted Vaccine Crosses First Clinical Milestone in Pancreatic Cancer Prevention - Genetic Engineering and Biotechnology News",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVHllSmN5cUZIY2N5M2pNWXY3Z1YxVVk2bk1zX1hkUHV6Z3lMYkJNUDVyaEd6OG1uUWtpOGJZME5qS2FoVUIzMHNndHZtQVByeDNKVlNFbzhSeFBadnpkM0VCZUM4ZkIyQ1o3RkVETFdkYjVaRGdTbVh0UjVKZlRYTTNoWm5fRTZFTVVsOTlOcFJ1Qm5Ham9sTWtxLWRjQ0ZNZE9meW1PZUtXaGR6WllTYUtRRXBMWlVrRHJFZmZ5dkM3OGtVdGxV?oc=5",
       "pubDate": "Fri, 17 Jul 2026 15:46:16 GMT",
@@ -315,19 +359,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Experimental vaccine to prevent pancreatic cancer shows positive results - Plataforma Media",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN3JPNmRsYXRvQXgzLTFHY0F2UzUxTzNnb2dWenpJc0hOdnI3NmhHeFh6MXB1VFFzb3NUVHY4eHpkME5lYUhReWtuZWhKdjNrRnI0aGxqODZMSGE0YUw2bTJ3N2xtdFl4LWY0bUZvbThRbmJXaGhjc1RkV01BTFN6QkYyNHhDSEJPUnl4dnhyOU9jWE9TandtTzFhQ08wakxaWFdNbUgtM21FSTg?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 13:43:40 GMT",
-      "description": "Experimental vaccine to prevent pancreatic cancer shows positive results Plataforma Media",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Health news round-up: vaccination, testosterone and neighbourhood health - The Pharmaceutical Journal",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObEVhSzUtc1VsRjZUbXQxQ25rTUpSVFVuNGcxWHEyeXBLRDRQUEhsWDFlY002dWZIeVFpRnNQWVJMQ2p2Skh0bTFDekN4U09NdjJtOGYxYmxYOWlGUll0alNmWWdvdUxmaWJMeUI4TlB1WFlWaG1WYk14a3BadXhZcE1uN0htM2xhcGR5SlBmRk5tTndaMFhnTG9WYnBEcGZlUWtsUVpEeFBWUXpjVlU5OHE4Q3NTcHBPQ0E?oc=5",
       "pubDate": "Fri, 17 Jul 2026 13:42:37 GMT",
@@ -376,19 +407,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Ebola vaccine enters clinical trials - The Naked Scientists",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObUZvNHJUQVc2X0U3RjdEalhXRENPOFpLUW9kbE90M29hUUxCR2h2ajJrWFluVG5NZ09UQlRCY0FrdERkdUNHWGRndDE4dy1OZFIzYlgwVE8zNHViVEo1aGpUTTg4SEo1ZnRVWHZIVnR0eGdGS3gxOW9jd2lXOHQtOF9Fai1FbUtzb096U19WekNLRFhCaFE?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 12:44:51 GMT",
-      "description": "Ebola vaccine enters clinical trials The Naked Scientists",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -445,19 +463,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "UK experts call for meningitis shots for all 15-year-olds - pharmaphorum",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMVA3akU2U2ExN0hpOVp1bk81d3pkVlpINW5YTVBnQmtmS1JMQ0hrQmlxMmktbHJDOXRtS3pxcDlqMkRWQXBzQ2FOXzJDMUgyZGZJRmlYc1VESFN5dzBEdl84ZW05NkxGbDU3dllTSjdBb0dSNnNGQk82Nm9MR3RNQWFuOWdyQQ?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 09:06:45 GMT",
-      "description": "UK experts call for meningitis shots for all 15-year-olds pharmaphorum",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Serum Institute To Make Experimental Tuberculosis Vaccine: Could It Change TB Prevention? - NDTV",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTTg5MERoYW8teENCSXpMdGlzWW9ULW5XekZfQVJwc1Vqa1c5WVRGYzdBS3Q0VGEyTjZlSnVubU5XVDF0M0RIRjBHSDB2aHh6TmhreDBQZ3pEVlJsblJqNXdpOXkyOFVGSllxU2lnLVY4Q2l0bUZVRDdCZk1EWVVXbGhtbFlUU3pKWTY3SldXRGgzY1BOZDBQekszVGJqV3c4QXlmX0tKemlueTVVS19RR0xnOUMzaXJkczl2Um9ZYVdmZw?oc=5",
       "pubDate": "Fri, 17 Jul 2026 08:48:42 GMT",
@@ -469,19 +474,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "Opinion | Erica Schwartz’s confirmation hearing shows her impossible task at CDC - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdFVCcmpyX2VuUDVoUENIM1NDUk1lTzhGdHdBNDNGbG5HVXBlUmNqcWhENlladmdqcFdXeUpzdUd0LWhnLVB5dHdfSUlBQzFnOXFuV0hXYnlpb0Z3TEdlYzNhY2o2YkhVd2tMRDNvZDR3dldEeU95Vzg5bGVHVFItNVNiLVlLY2RrRXdsa0JBazhtQmhRVGppdzlKWk9zdmE3ZjVZN0MxNUltVkdSZFgxLXFPeW5MVEZ5?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 04:20:47 GMT",
-      "description": "Opinion | Erica Schwartz’s confirmation hearing shows her impossible task at CDC The Washington Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "opinion",
-      "articleLabel": "Opinion"
     },
     {
       "title": "Offer teenagers a meningitis B vaccine on NHS, advisers tell UK government - The Guardian",
@@ -523,19 +515,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Eastern Idaho health officials urge residents to check measles vaccination status after Teton County case - Local News 8",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNWlselNxR2tNY2w1Q1dpTjUyWElLcjd5eVFHMUtDU3BlM1F0VmMwV1V6X0ZSdFlEeFZwa1d5NmQwU21QdEhXOW1JSDU0eVhCMVVnTnR3VFJsTm1xb3cwRkNsR25taGNaYTdmS0w5VTBvVE5NdnhqM0xKRUdqTnlGODhfMjRJQ0EwVjBXM2NMZ2JaZ2FSSFFlQ3c1cnVXOENRTUdOSWRJa3I0ZVhLVmlnWFhNdk9ILWNoZE5fR1RDMm1NdmVUZldGSUp3bkRwX1kwdzFfNnNwRnZfVUF5MlE?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 23:24:38 GMT",
-      "description": "Eastern Idaho health officials urge residents to check measles vaccination status after Teton County case Local News 8",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Pancreatic Cancer Vaccine Trial Delivers Positive Early Results - Everyday Health",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOUdnVWNDbGZQRTBXdjlrcHVGelR5ZnV1OGdvUnBMOGhMMmphUmw0M25MZnB1cmN6dHRPOWFtVVJuTzFoYWdva3Z1TnNsVzRnLTZucDVuSG5ydG5zYkMybTRpdlVUX1FMYVVVSG04QzF2akNwd3E0bWhURHVkMGh6VVlYam5qNzlkSkZRdUttcjRaTWphbVBlT1BUakpFS3V6eDE3bw?oc=5",
       "pubDate": "Thu, 16 Jul 2026 23:13:09 GMT",
@@ -547,6 +526,19 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
+    },
+    {
+      "title": "Modest Gains in Global Child Immunization in 2025 - unicef usa",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQmdLM0tPMFhoVnVJNTY0d3RsYWJfd2lPRDZ4M0Rpa3NlZnZhZzZ1V014NjJlZEZvb2JxbnozN2QxRENhZVpDdDY4MHFQV2x3SWx1TjhqSFlZNjB5UThkeE9PV0w0aVdGeGtrdHRMbGVxbm1nNEJVT21iUVgyOVZyNlFtcw?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 23:09:02 GMT",
+      "description": "Modest Gains in Global Child Immunization in 2025 unicef usa",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Structure-guided PCSK9 vaccine shows preclinical promise - EurekAlert!",
@@ -666,19 +658,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "The Blueprint for a Bigger Medical Bureaucracy, Part 2: News Article - Independent Institute",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX3dtamRhQWJjMjdMWWZ1M0g4UVdhT25ZVjFhTDVPUXFfSTRacTF5ZkYwdlB6NmVHeUtvQzZhMjQ1NXFXTUZrblRQcW9ZUi04S3E1a1dwWkkzekNadEhvRk01RVJLUWdIWnI4WG1hdjR2TXdrWUpBY0l6eVktUlVTTHBYbGdXWDFuaC0wQg?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 18:48:32 GMT",
-      "description": "The Blueprint for a Bigger Medical Bureaucracy, Part 2: News Article Independent Institute",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Are skin patches the future of mRNA vaccine technology? - Managed Healthcare Executive",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdkVTak0xTzhlT3dQQkxSOHVhRFUteWFrajZ4aUZtcno1eTloMF93TXNlclIyUE9tNEpGczNtMlNOVEJVZi11QTdEMnktMnFLZmFpYXo2WjFJSzdYYTVhUDkzd21sc2FpRHZ2a3ZkY2NFMWtrX3ZiMFB1Rzg5WUJsMjVFcHBDUWtBTzl1dWtrWk0zSEtCbGh5aWdJTDJHal9mYWpLdUx3?oc=5",
       "pubDate": "Thu, 16 Jul 2026 18:19:15 GMT",
@@ -735,19 +714,6 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPamt3SExNcm5XbjRfM0dHaklqQUpNbWI5M3M1QmxYR2pfUWd3aFlLOWRmeV9rT2FKQUI4R0FZWmVqV1Q1bjNweDJNZm5MZk1ILXBsbEQ5aG1oT3ZHaE12ZUZJY01zOVRWTUN2Tld1Q2p3WTNkMXhVd09uWU9wLVZfdXZtSmN4Z2V0dVM5azFlWmU?oc=5",
       "pubDate": "Thu, 16 Jul 2026 16:16:21 GMT",
       "description": "Senators press CDC nominee on cyclosporiasis outbreak, vaccine policy Chemical & Engineering News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Children Vaccine Levels Rise But Remain Below Pre-Pandemic Levels - 94.5 WPTI",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX29LR0lQUkRMS2JFZnppLTM2UVM0bmRNaUgtVmRXN1BBVzRxOFZLSHNibVNHN1RwU3BmTHhOYlBkZWFoSm9UV0VJS2VRWUg4b2UtaEkyakFlaExZZDdvMENFa1phcjlZVm5aUjI2WkNnWFJxVVdEcFVGeHZsN0JsSVBkQTloeFJWcTh3RENhOUNDS1VPTTBKV1VYUC05YkwwWXZBM2E0dHNlaEM5dTJnREtR?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 16:15:00 GMT",
-      "description": "Children Vaccine Levels Rise But Remain Below Pre-Pandemic Levels 94.5 WPTI",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -887,19 +853,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Teenagers from 15 should be given free MenB vaccine, say UK experts - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KaHhEWHlVaFZVR1UtYW41SXYxLVFoaEpJSlF2RDV2SU5qaVVvSEhNemsxQ0pxY2kwcmtKSEJZX3d5aDdKcklzdEpybDdER0xIbklhSWx6NGR1VU0x?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 13:13:40 GMT",
-      "description": "Teenagers from 15 should be given free MenB vaccine, say UK experts BBC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "meningococcal",
-      "vaccineLabel": "Meningococcal",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "National Launch of Sudan Immunization Strategy 2026-2030 - ReliefWeb",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUFllbXdMSUhjaE50NzNteUM4ZEY5c2UyQ3VYbUNlR25INXVrWndDQ2NqTnowdnZMQkwxMmpJaDZPb3U2cS1oUU9CT2JsT2M5bUpxREp4NjNuT1J2eUlFV0FTb19KLWktRXhSX0l6S1hYa3NGM19tYV9iMEhkcWlDMlVraHlWQllTclFKdS1xSmpfZw?oc=5",
       "pubDate": "Thu, 16 Jul 2026 12:09:27 GMT",
@@ -943,32 +896,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR1pnbm5xWjNqdWROTmtvY0JmY1l0Tjh0N2MxckZDckQ2RzdqUjdXU1psdHFFWmNlT1dvTFNOSWdRU084OTdEWjc2b18taFJLQzNDaXMxTWxMXzZVRnZyd0RfQnBnVVJ5MjhkUE41VWlGd0RVakxEZkpUQklfcVhIRXBORnBzdUU5?oc=5",
       "pubDate": "Thu, 16 Jul 2026 03:21:00 GMT",
       "description": "CDC nominee Erica Schwartz pressed on whether she will resist RFK Jr’s vaccine agenda The Guardian",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Natural Compound Found in Cheese and Mushrooms May Help Boost Vaccine Responses - SciTechDaily",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYkh0eThJcXVtRTBZQkdDak8zdnVKdDJIVWI3R2l3dkxwa1VSZzNVWFlySmozaGtJZVdfQVJHaEtMeXdVeEhORFFNd1NMV0tzbktwYzJtWUwtX0ZCcW1SSG1OWGVlT2JpVW5JOVdXN1YyQ203TV9TTUVGeHBpeGhSdnhteElodXFPVmZUVGFzY1c3dERxd1ppTEwxaUtRSzRvRDRRUE81blA?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 01:49:59 GMT",
-      "description": "Natural Compound Found in Cheese and Mushrooms May Help Boost Vaccine Responses SciTechDaily",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Frederick County holding Back to School Vaccination Clinics for kids - DC News Now",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVll3eEdRS1Q1TGdJNzZzM2RDVkpxSVVXd05KNTZzNGY3NVcxR0JtVGZvc1pOb0FFMy1WQXFJRjIyTi1rWGNCajN5TnM5eFlLU0Z1MUNLNTVnRkVtX0ZlQmloUkYxVmYzRlgweGYtclc5alRNTi1jMWRmc0hzaWlHTF8yYkRsM0FmQUYwU1F6aTloZVE5NThDelJiMndVVlV1WFcwWkFRcnF4ci1CNXlKcXN4MkVxZ3NZbDFuZNIBwgFBVV95cUxQaDNZSE5aZnp4MUY5YkZEakVSdmlHMGlGSk5TN2RPNk5YSENlVF9CTmg0QmdRT1FzVmZTS25VNk9JVGZaNkRoVFgyeFQ5M3RXeWRja0NHcnMwZ2c0U0NoYUdPQ0s0ckY5N2hMNjdpRlVsM05IUE1MQnotT0N5Zk03cWFneFlyUU1vZTVjNFk1eXhqckFfeFBmTmxlMVNDX0NwNGlia2VoU19uVFNHTFpydzY2RnNKUlZ2WVdwSU1OV2loUQ?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 01:13:24 GMT",
-      "description": "Frederick County holding Back to School Vaccination Clinics for kids DC News Now",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
