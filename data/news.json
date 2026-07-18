@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-18T08:05:49.725Z",
-  "itemCount": 85,
+  "updatedAt": "2026-07-18T09:02:02.247Z",
+  "itemCount": 84,
   "groups": [
     {
       "key": "covid",
@@ -55,7 +55,7 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 59
+      "count": 58
     }
   ],
   "items": [
@@ -173,6 +173,19 @@
       "sourceLabel": "News",
       "vaccineKey": "flu",
       "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Public Health holds measles vaccine clinics after case confirmed in Moncton - CBC",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVjkwT3BlVEpBWXVtRU1xU0VUV2VudDhDNFI5TElFaVRjN1FoQlo2ZmFMMTlpbXl0NmFid2J6WkItWFhnTWMxalhyZV9icTRial9RSmpKaHp5RlAyZk50V1dmSnJWODdwemJyXzlPTHo1Vk9mUzFSd2RIWk9keVBSMVhMTjlBWGRnMUx2XzZTTV9OeFBnc3drQnlvQ0stQQ?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 21:05:30 GMT",
+      "description": "Public Health holds measles vaccine clinics after case confirmed in Moncton CBC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -446,19 +459,6 @@
       "sourceLabel": "News",
       "vaccineKey": "meningococcal",
       "vaccineLabel": "Meningococcal",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "HIV vaccine prompts strongest broadly neutralising antibody response yet seen - Labmate Online",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNNFhNNmlFUi04RUZFSjl0eEtxS3g3Qm9feFNJYzlVYmRta3lVVDJLX2Nib2hhNE83a3BqelNodVdkVGxnQ0lid3gweW5MTFZLb2ZCdDhBa2Z1OEJVYlFSUHpEU2NhYllULTFjVnpJejdrWEEtM2hKcjZUamdYaEFiMkMtdVNkWm9QbG5SNkdvN1dGY3plNktvRGR5aDZlSi1sM1VESTYwaWdQR09DNkVKZEF3MmRZQ0FMaWo4a2RKMUZNSnVJX2lvcXlCb013NlNiNTNPTzdGLThqSVRWWGUydWdCWnlqNXk2N3Q5UG9hOUI0dTJuNW9uVDFwSTFyVnZyUG16Vw?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 10:00:00 GMT",
-      "description": "HIV vaccine prompts strongest broadly neutralising antibody response yet seen Labmate Online",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -866,6 +866,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Frederick County holding Back to School Vaccination Clinics for kids - DC News Now",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVll3eEdRS1Q1TGdJNzZzM2RDVkpxSVVXd05KNTZzNGY3NVcxR0JtVGZvc1pOb0FFMy1WQXFJRjIyTi1rWGNCajN5TnM5eFlLU0Z1MUNLNTVnRkVtX0ZlQmloUkYxVmYzRlgweGYtclc5alRNTi1jMWRmc0hzaWlHTF8yYkRsM0FmQUYwU1F6aTloZVE5NThDelJiMndVVlV1WFcwWkFRcnF4ci1CNXlKcXN4MkVxZ3NZbDFuZNIBwgFBVV95cUxQaDNZSE5aZnp4MUY5YkZEakVSdmlHMGlGSk5TN2RPNk5YSENlVF9CTmg0QmdRT1FzVmZTS25VNk9JVGZaNkRoVFgyeFQ5M3RXeWRja0NHcnMwZ2c0U0NoYUdPQ0s0ckY5N2hMNjdpRlVsM05IUE1MQnotT0N5Zk03cWFneFlyUU1vZTVjNFk1eXhqckFfeFBmTmxlMVNDX0NwNGlia2VoU19uVFNHTFpydzY2RnNKUlZ2WVdwSU1OV2loUQ?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 01:13:24 GMT",
+      "description": "Frederick County holding Back to School Vaccination Clinics for kids DC News Now",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Measles vaccine walk-in clinic for kids scheduled amid ‘community spread’ - Buckrail",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOckxPeXhYNFdJcEg3bk5aU2Fqdk5DSW5pUWZqYTBfc1JGUDRKejI2RjQ2SFY2bXlTY0k5Vjc0allVdE5RQ2xseTRscWF3SlNPbWhMZkFxMFRZXzhQWndHdzdxRGpyVjV4aWNBWGl5c0FQQm9ISVhEY2FoZkwzcXB1Nm4zd1RyV3FxTWhwc1ZYZlZCbk5uX2hqaw?oc=5",
       "pubDate": "Thu, 16 Jul 2026 00:00:00 GMT",
@@ -1009,19 +1022,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "County’s fifth measles case emerges; vaccine recommendation expands - Buckrail",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdUdsTldBMHlSdl9IeEtmSmt0bFJTVlU1Sm8wZ3VHenFidThKdVNVM1JXcU14eElPc3ROVThNR29QSFhaYXRZQUEyTVNPVXA1LTc4Y3p1cUZnOEQ0RjZpT24yTkNLZDNKaW82SEpQQ1V2ZnhwSVJ4RjRXeEZRNUlwQkZhMVU2R2twVUFWdTB5X28?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 16:00:00 GMT",
-      "description": "County’s fifth measles case emerges; vaccine recommendation expands Buckrail",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "The state of global immunisation in eight charts - Gavi, the Vaccine Alliance",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHRlNTWDBZNVhjRVA1MHAtN092SmxNVW53TE54MU9EUm5IaEQtdDZwcTd3dG40c1k1azVjTkxHYk12bVFHZkVCSjJjYkNxRHBWSndvaXpza19qZTBlR1I1cnNfSU1LMUNadDZzTkI2alV5bHluY3lPTkJyams?oc=5",
       "pubDate": "Wed, 15 Jul 2026 15:43:24 GMT",
@@ -1148,19 +1148,6 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "UK begins trials of Ebola vaccine developed in just eight weeks - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96Sk1oYlQ0RGtPRGdTbnpoRUczV09WZ1Vna25HQU8teGNDbFhVYi03dGlhc2N4WjZEUVl6LUUtVWFCMXlGZHdSUEVOMER4YUZydDdRLU9yMjkwZw?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 08:00:16 GMT",
-      "description": "UK begins trials of Ebola vaccine developed in just eight weeks BBC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     }
