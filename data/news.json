@@ -1,16 +1,11 @@
 {
-  "updatedAt": "2026-07-19T10:01:39.030Z",
-  "itemCount": 70,
+  "updatedAt": "2026-07-19T10:53:49.671Z",
+  "itemCount": 69,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
       "count": 5
-    },
-    {
-      "key": "flu",
-      "label": "Influenza (flu)",
-      "count": 1
     },
     {
       "key": "measles_mmr",
@@ -30,7 +25,7 @@
     {
       "key": "meningococcal",
       "label": "Meningococcal",
-      "count": 5
+      "count": 4
     },
     {
       "key": "shingles",
@@ -50,7 +45,7 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 50
+      "count": 51
     }
   ],
   "items": [
@@ -337,19 +332,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Flu Vaccine Options for Older Adults - Infectious Disease Special Edition",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWmZlU2pvbDlGcVFybmFsYmtxdEN2NzItWlNEZXhjWXY0WWRpQ3h0RkIyekZWYUQ5cFFkc0NmR282UHJzNEtNRzZYOUxqbXZLbHpPdV9nRDJJaFVXZHdfU3JLQy14a094cjNKRXk2X0d6b1pHQng0THoyd1VNMDdEZ0xfMm9OcldmWE9yYXVYbU5KZw?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 21:07:07 GMT",
-      "description": "Flu Vaccine Options for Older Adults Infectious Disease Special Edition",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -666,6 +648,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Children Vaccine Levels Rise But Remain Below Pre-Pandemic Levels - 94.5 WPTI",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX29LR0lQUkRMS2JFZnppLTM2UVM0bmRNaUgtVmRXN1BBVzRxOFZLSHNibVNHN1RwU3BmTHhOYlBkZWFoSm9UV0VJS2VRWUg4b2UtaEkyakFlaExZZDdvMENFa1phcjlZVm5aUjI2WkNnWFJxVVdEcFVGeHZsN0JsSVBkQTloeFJWcTh3RENhOUNDS1VPTTBKV1VYUC05YkwwWXZBM2E0dHNlaEM5dTJnREtR?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 16:15:00 GMT",
+      "description": "Children Vaccine Levels Rise But Remain Below Pre-Pandemic Levels 94.5 WPTI",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Experimental pancreatic cancer vaccine elicits durable immune responses in high-risk participants - Medical Xpress",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUVFkcElYYS1WY2R0YzZ5cHBnRWh3YkEwNmtXallENTM5bjdTYmJPcGx5OHY4Q3NNOGk2SXBVYkZXOXFfVUxMR2g0SzRhV2Q2bF9kczBGVkJPYnN0WFc4QnA0NW9oWU9xeG1SWkdrcTV4RUhHVnV1cmd1RGJ0Xy16TTdURkx3SVptbGR5UTVyT21nakRT?oc=5",
       "pubDate": "Thu, 16 Jul 2026 16:00:10 GMT",
@@ -779,19 +774,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Teenagers from 15 should be given free MenB vaccine, say UK experts - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KaHhEWHlVaFZVR1UtYW41SXYxLVFoaEpJSlF2RDV2SU5qaVVvSEhNemsxQ0pxY2kwcmtKSEJZX3d5aDdKcklzdEpybDdER0xIbklhSWx6NGR1VU0x?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 13:13:40 GMT",
-      "description": "Teenagers from 15 should be given free MenB vaccine, say UK experts BBC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "meningococcal",
-      "vaccineLabel": "Meningococcal",
       "articleType": "news",
       "articleLabel": "News"
     },
