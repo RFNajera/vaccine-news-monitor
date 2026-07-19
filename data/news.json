@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-19T16:41:50.512Z",
-  "itemCount": 70,
+  "updatedAt": "2026-07-19T17:44:07.363Z",
+  "itemCount": 69,
   "groups": [
     {
       "key": "covid",
@@ -10,7 +10,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 6
+      "count": 4
     },
     {
       "key": "pneumococcal",
@@ -20,7 +20,7 @@
     {
       "key": "meningococcal",
       "label": "Meningococcal",
-      "count": 5
+      "count": 6
     },
     {
       "key": "shingles",
@@ -275,6 +275,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Pharmacists warn of meningitis vaccine shortage - The Telegraph",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSTJLZUZoR3NrUUJYY2NzekVzZzVIZV9DWnl4WlFnLTRWVXVKdllCZGlOeUVIY1NOTVFjY1NQQ1FacnlZaVREVkRQV2IxOTlycnJNLWJMMzVuVG01YTBJWjlXdnJoTHRpQk55VTExMVU3RjVpY08wcjV4NU1hU1pCMTNBbEUwOUR3MXQ3VnFva1B2ZE0?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 05:00:00 GMT",
+      "description": "Pharmacists warn of meningitis vaccine shortage The Telegraph",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "meningococcal",
+      "vaccineLabel": "Meningococcal",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -630,6 +643,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "SNHD hosts back-to-school vaccination clinics throughout Las Vegas Valley - Las Vegas Review-Journal",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSHJuckdFUWZXTmI3TVB2NDZidDNTUTIxTWFlTUtXNXpxUFBWZ2J1M210N0pIMV83eENfcl9sSW5lT3dQOFRqMXJCbm93NVBqRkxVZU0wVkVINXIxQk42RzdUdTd1R2JqTnJKQTgyVzN1MnFodEUyZGhISjJLUjhubHFfQVZYVE9ncnpjSGZsemZRaTVya1dqWFl0UnNfeVVKZDQtTjNkSktsdlYwN1NuUjhSNTZqZXNsYmVIT0FpemJ0V0RlZXcw?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 17:19:33 GMT",
+      "description": "SNHD hosts back-to-school vaccination clinics throughout Las Vegas Valley Las Vegas Review-Journal",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
       "title": "COVID-19 booster strategies provide lasting immunity - Medical Xpress",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc1ZydmVTNEZNUmx0UWxaa1J5S19LdDJEajA2c2FjTkJCZTBXc0swdThYeEhpX2hCbndIZ0dSc3pNYW0xV1NmVXNZVm1QUmZ0bnU1X1B5NTBnZlM5WE0wRG1iVW44UGVaYldjMHY3WVpHajFNZ1dGUGc1Z3l4VGM4XzBSSQ?oc=5",
       "pubDate": "Thu, 16 Jul 2026 16:40:02 GMT",
@@ -773,32 +799,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "PA launches measles dashboard as Lancaster County leads in cases - WGAL",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUEtCdno1Wm9YOFhtT3VyYk0zT0o1SHJ5T2M5QjlQTjkzeS1DU3JMNllJUFpVZVJtbi1GbVhyRHFHenRNS3NoamZDNnZYZl9NMEdOWWN2b1pXY0l2X0J4OHVjOXRXVzVNOXlWY2diQ2V0SWkzNTBQbE5jX3d0SG0zemVmY2lPVUZtMVNjVkptbHQ2RURJWkE?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 12:05:00 GMT",
-      "description": "PA launches measles dashboard as Lancaster County leads in cases WGAL",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Inside RFK Jr.’s push to dismantle decades of U.S. vaccine policy - CNN",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03M2tQajFtNTljaFU1N0xOekhBb1RyM0Q1QzZ3RlpZSGV6amhuT1Z5SjdsVXl3X0FCVlpvX1BBQVpOQ0ZaR3hDRzVjTFpVWjRMWjlsWWdRcVRCeW13bDE0WkhTM2s0TUhXbEFr?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 11:00:25 GMT",
-      "description": "Inside RFK Jr.’s push to dismantle decades of U.S. vaccine policy CNN",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Declassification of the Department of War Internal After-Action Review of the Coronavirus - U.S. Department of War (.gov)",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWVFWSXdKdXRhbVcyS091b1oxa0UzT3FqU0RLYVFkUDlCYkIwM0FjMzFtdlpOT3Jaby1PSHNfWmg0bU5Vc1Jlckx1V2lwQlhFVHJfd3BBd0VWUVF0c2xyM1NIQkR5WGtmbi1WbS1lN2lFVlJGczV4bHNReTFpbGxTcVB1LVZ6QUVEWGN3eTdpWThsZ3BfQ0ZPNGtTXy1Ecng3WlpDM25IMDl0dzBsc2Y4RWwxb213VTJWZWtGOUJuRlNad0FMQ1NRNVhSbUJscmNVOE9DVQ?oc=5",
       "pubDate": "Thu, 16 Jul 2026 05:11:27 GMT",
@@ -821,19 +821,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Measles vaccine walk-in clinic for kids scheduled amid ‘community spread’ - Buckrail",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOckxPeXhYNFdJcEg3bk5aU2Fqdk5DSW5pUWZqYTBfc1JGUDRKejI2RjQ2SFY2bXlTY0k5Vjc0allVdE5RQ2xseTRscWF3SlNPbWhMZkFxMFRZXzhQWndHdzdxRGpyVjV4aWNBWGl5c0FQQm9ISVhEY2FoZkwzcXB1Nm4zd1RyV3FxTWhwc1ZYZlZCbk5uX2hqaw?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 00:00:00 GMT",
-      "description": "Measles vaccine walk-in clinic for kids scheduled amid ‘community spread’ Buckrail",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -942,10 +929,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Experimental KRAS Vaccine Generates Immune Response Against Pancreatic Cancer in People at High Risk | Newswise - Newswise",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY0VsLWFaMXhmQ2x5NC1iclBscHFIVW9CM2xwZ0J6YkhOUHNGaTdCSXJoOTMyOFNGVWs4U0JUb3FlWkhJUF91SDJmQVhWekhJNzBabzVKd0RQYzFwVE82SGN0eE1USEpoZ1BoQ193MjlUNFFTcjNINHJjQmtJVl9vd1MybzhYNzBqYW4ya0JKTGZMVHZUcTVpNXJCUEM4bnVlTnNfMjB1Q1I2SGtKeXJVTm5mMkc3OWRVQ0g2eDFNMDNFSl9Hd2dKVHNwRVBnWE3SAc8BQVVfeXFMT2NFbC1hWjF4ZkNseTQtYnJQbHBxSFVvQjNscGdCemJITlBzRmk3QklyaDkzMjhTRlVrOFNCVG9xZVpISVBfdUgyZkFYVnpISTcwWm81SndEUGMxcFRPNkhjdHhNVEhKaGdQaENfdzI5VDRRU3IzSDRyY0JrSVZfb3dTMm84WDcwamFuMmtCSkxmTFR2VHE1aTVyQlBDOG51ZU5zXzIwdUNSNkhrSnlyVU5uZjJHNzlkVUNINngxTTAzRUpfR3dnSlRzcEVQZ1hN?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 22:30:00 GMT",
-      "description": "Experimental KRAS Vaccine Generates Immune Response Against Pancreatic Cancer in People at High Risk | Newswise Newswise",
+      "title": "Inside RFK Jr.’s push to dismantle decades of U.S. vaccine policy - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeGtkMGMwWTF4Nk9SNE5wTjZmVjB0dlhxVmxldEhyaFR2QTMyZE42Y1A4V1c0SkhVc2RFbGU1V1ZyTlo0R19HRGljVUJXa3pIZk1HN3FoNHRITzVLSk9NQXg5ME9lTG5UbGxIYzhFS3hNNTJKbFJpb05mVU5RWjktRzUzSWhjTG5nVm9YZkhwSzdwS1dVNnNTQ3FhaDNITWUtQThMTHZxMTlidw?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 12:58:25 GMT",
+      "description": "Inside RFK Jr.’s push to dismantle decades of U.S. vaccine policy Reuters",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
