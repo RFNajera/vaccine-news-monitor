@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-19T17:44:07.363Z",
-  "itemCount": 69,
+  "updatedAt": "2026-07-19T18:42:12.786Z",
+  "itemCount": 70,
   "groups": [
     {
       "key": "covid",
@@ -10,7 +10,12 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 4
+      "count": 3
+    },
+    {
+      "key": "hpv",
+      "label": "HPV",
+      "count": 1
     },
     {
       "key": "pneumococcal",
@@ -40,10 +45,23 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 49
+      "count": 50
     }
   ],
   "items": [
+    {
+      "title": "'Drop Dead, Bobby!': Larry David Goes Scorched Earth On RFK Jr. In New HBO Show - HuffPost",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU3BRSWJfOUk3dkZ2U0ZQY0JPU2xlMTZKZnFtRkdpUlJ6amY5SkZTQndwc3haM2EtNHBMVUhVNUxDNTFsVGVjNndwU3dhSjJmdjRLV0JnWE56aUF4NEU2S3dBR0wxU2d2dnRlZjdTRjV0RGJoNFhiMmVxRXUyU2VaTEVlVXVKLUZYVmd2V1ZNZW9uTUk2MEV1cdIBngFBVV95cUxOZVNPVkRwM1hHTExMSmgxNDJWdUxvbU0yTUVpRTJ3UTB1V0gzajlMNHozVGloeUh3LTJGT1I1dWlEdG5sZF9DVGlOR2NYX2p2TXdqRmItQ2hrRU9wdlhobTlCWnMxV2lwbnNha3ZZd1VGbkxLVFdsbWhwdW9ua3dNNDEwNzdLUDVReFQ0cjBEbFJmZzd0dlhJbDBtRWphUQ?oc=5",
+      "pubDate": "Sun, 19 Jul 2026 17:36:16 GMT",
+      "description": "'Drop Dead, Bobby!': Larry David Goes Scorched Earth On RFK Jr. In New HBO Show HuffPost",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Tackling measles requires stronger routine vaccination, research and coordinated action: Experts - The Business Standard",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb0pub3otU01ENmZmZVNzTVJGdDlkV1J1aUlJanFTVlFhRUFWemdySmU4aGlXSjg1Q0ZRR3ozY2dESVg5WmllODVITy1qWmZLQzV0dE9JR2UxMnVQLWJ0NEZjam1vMVA0RWttYU0waVdFalBVODlwQzk0UE85UXdxNFh5RXpTY0FpaFZXN0V5THZkQzZpcGhzVS00UzhRajJHR1dxWGcwdXdoVWc5TXFXZXgzQUNpRDcxSWlrbUd30gHDAUFVX3lxTFBCVGFJSThKNTIxSVdDMEswSUdnUmdPUWEweFlDdnkyY3VsdldaeC1vRXRMczNtSUpEVlhhVjVOaEJQZm10b256YzZNRUE5VHowcGR5ZnVCVW1ybUp0aFo4dXJBMFMxdnpOZmgwVS1kTUgyeXRCZk1sNGpTLTc1X1hJb3pzczcwU280X05keHBySmhDLWdsc3FMbUk4Vjl0RXVVSG16Qy1PS0JqMlBBNU9YNTAzbWowd1otcFRzc255Wmpmbw?oc=5",
@@ -162,19 +180,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Yavapai County Acts Fast After Measles Case in Prescott - Signals AZ",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcS0xVEk1ZjBEcThxY1FQWVhyNm1ZSWlGN256QmdjYUllUnBEay1kLUlzUEZBQWhDX1dheGNILWZ6bXZpWE5LczdhUkRtS0ZILWpLdi1IODlGOTF0MDhQcy1rOXNXeXhNbHVCNkV1Yks3b0xPeWQwRFh0OXJUeVc3VG1jZnk0anJ1V1ZaYmxQR05teUYzNUE?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 20:06:39 GMT",
-      "description": "Yavapai County Acts Fast After Measles Case in Prescott Signals AZ",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "A New Strategy May Finally Put An HIV Vaccine Within Reach - Forbes",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcU51WWhEUHE4UmNheUF6eDhSSEFwYXd1UVd2N19FdC1ORWtpYjA4WDdSYXQ5YU9KUWdDdGZySm9EVEczVlFJVUZPUmUyQWI5eTNidUxCS0F6Z045N0pkR1YwSDdsaHluSFBpUjJsNDR2Yzc1V1ZmVklIRkR5WXdyNHh3aHRHTlJTeG53UHF1enpONEpGYjlJUTZxdWNRNjVhYWhUOUJsRzhZaVZad1FaVU5tV1o4Y28?oc=5",
       "pubDate": "Sat, 18 Jul 2026 18:29:00 GMT",
@@ -288,19 +293,6 @@
       "sourceLabel": "News",
       "vaccineKey": "meningococcal",
       "vaccineLabel": "Meningococcal",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "US Seeks Toss Of Arbutus Patent Suit Over Moderna Vaccine - Law360",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUXpBZW5WeU5NSjhWVjhUSWRnU0NSZE1IcUdLclRBZVR5ak5VcWpSSUVwNElIZTVUa2ZtNW43Vk5PT25UM2ZCNndtdExvQnBobTRhR255UllLVFNkdlVnZzkzc0dxNlZLVmFiUTdfU3FMa2NrNW14NmFuM3NpemFxaS1wakxOLWJGb1lDbUJhU2xZamxHdE9wTUptQWowQdIBVkFVX3lxTFBUMG9yc2dMTExkYkZuWVlmN1p3Z3FiQW5KUUprR0NOTUFvV3ZRMFVqbVU4Z0NUS2xrS2NiV08xYUtjRXduOEdzM1lfZjhyWHdud3hsUjh3?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 02:13:00 GMT",
-      "description": "US Seeks Toss Of Arbutus Patent Suit Over Moderna Vaccine Law360",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -565,6 +557,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "New health assessment flags infant mortality, HPV vaccination gaps as key challenges in Douglas County - WOWT",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMkloTXNNNUd3ZDBqalYtSkF6WVNUeTRVbFlDV01MNk9UNG02TUZzYjkwaE1WaExQTjc3WktSOE1PSTJtSUlFbnJyYmNzelU1cEE5dHkxN1pLTFBpUDhjbFhmNC1odWM3allwZXhUQkNseEloUGgzOC1jTDlUdUhGTmdGOUc3bWVBR3hFREp5X2RHb0JuZHVOTkJKREI0RjZBT29vZy1WVTBBbnBLd3RJeERtUEFCZnZkRE5abHVzVlNoQ09wWm400gHbAUFVX3lxTE45c2VZeTdyZVpTS1BTdGk3U1NsVnhYa1ZVNzFPN2ZlSEgxUmFsNjZwSXgySnkyc24xVmtDWnR0MVVlaV8ydU5vNmlRYUZnWGJtMVhxbHV0cm9JSk5UQkVxc1VmTDA2a1dDR1lkbjA2QTNqMDY2a3FzOE9EYkxSbFYwQmkwYkFfOEZUMHk5c3NRSkJvQ2lkSUpxbjhtZU54ZnZidmJXRHRRdFRaQmJpcWVEY01SaTFsSFZGVG5ZUVFPbGV2cDdYd3MwMU1kTTU1aFpWT1lDdEllS2dNZw?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 22:27:00 GMT",
+      "description": "New health assessment flags infant mortality, HPV vaccination gaps as key challenges in Douglas County WOWT",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hpv",
+      "vaccineLabel": "HPV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Super Shot, Inc. to host back-to-school ‘START SMART!’ vaccine events - WPTA | 21Alive | Fort Wayne, IN",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWlB6b0Z6TS1wS1o3bmpIUGQ0UXJ3Y09NWXlLcTFvaFd1RldmS3FTV0JxaGhLVlU5WGk5aUY1YXRKR0ZrMjE5VWYyS2V6dmk3eEVGQXY5Um00T05nVG9jTmxjUm5ST1lqNjItQ2JXdkYyZ1Y5S1UzajBBc1BqU1RXM2xJOGh6a1VBUXZnTV9CQ3RBdFBFQ3FQR3h3c1BHZkh6bWZ30gG3AUFVX3lxTFBKdG1ZVGdWTGlfYzFwX3NsWEQxdkdwWTlWbzNzMG5zaWRzeXBqT0FNWDVJZjl3MWdGdXFKYXJXNE9GV2VSVzI3dEZ6NDdaSW81d3BLaFJNTnpPOVpZbk5ReVlHa1BOSjQ3NWh0cGpNTWc0Z2hMRmFsSC1sbUtxQjdLOWhfRHFpX241LTk0U1A3bjd0dy1wdDl5elR1c0toOW1neU85OVRubVhwQnIyNmE3WTRjOWRIUQ?oc=5",
       "pubDate": "Thu, 16 Jul 2026 21:59:13 GMT",
@@ -682,6 +687,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Children Vaccine Levels Rise But Remain Below Pre-Pandemic Levels - The Patriot KEIB AM 1150",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV3ljaFdBSk5TX1lISVJpOTZ0Nk9EXzNlTmhCbWFiblhYRmNBelFzVmNoakVFOEVUOG1TRUlkWmJOR19MbXVhYWRFWXZER3p6Z2tIYWQxTVJzM2dmQTVBbzZqRmNwNl9lMWFQa0Q2QmtZUENxN1habWZreVlNUnNLZTQ1am9FQlpXU3B1LUVNREstTmZmZmlfQTNsWm5HVmtuN3BOc2RjR3h5UGhocGJseWlFUGs?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 16:15:00 GMT",
+      "description": "Children Vaccine Levels Rise But Remain Below Pre-Pandemic Levels The Patriot KEIB AM 1150",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Experimental pancreatic cancer vaccine elicits durable immune responses in high-risk participants - Medical Xpress",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUVFkcElYYS1WY2R0YzZ5cHBnRWh3YkEwNmtXallENTM5bjdTYmJPcGx5OHY4Q3NNOGk2SXBVYkZXOXFfVUxMR2g0SzRhV2Q2bF9kczBGVkJPYnN0WFc4QnA0NW9oWU9xeG1SWkdrcTV4RUhHVnV1cmd1RGJ0Xy16TTdURkx3SVptbGR5UTVyT21nakRT?oc=5",
       "pubDate": "Thu, 16 Jul 2026 16:00:10 GMT",
@@ -790,6 +808,19 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUFllbXdMSUhjaE50NzNteUM4ZEY5c2UyQ3VYbUNlR25INXVrWndDQ2NqTnowdnZMQkwxMmpJaDZPb3U2cS1oUU9CT2JsT2M5bUpxREp4NjNuT1J2eUlFV0FTb19KLWktRXhSX0l6S1hYa3NGM19tYV9iMEhkcWlDMlVraHlWQllTclFKdS1xSmpfZw?oc=5",
       "pubDate": "Thu, 16 Jul 2026 12:09:27 GMT",
       "description": "National Launch of Sudan Immunization Strategy 2026-2030 ReliefWeb",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Inside RFK Jr.’s push to dismantle decades of U.S. vaccine policy - CNN",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03M2tQajFtNTljaFU1N0xOekhBb1RyM0Q1QzZ3RlpZSGV6amhuT1Z5SjdsVXl3X0FCVlpvX1BBQVpOQ0ZaR3hDRzVjTFpVWjRMWjlsWWdRcVRCeW13bDE0WkhTM2s0TUhXbEFr?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 11:00:25 GMT",
+      "description": "Inside RFK Jr.’s push to dismantle decades of U.S. vaccine policy CNN",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -920,19 +951,6 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY0JFVnF1eXRxVFZpOGFIVkNETXI1RGlxV1BkX3ZXZEZFNzh5a1ZTQTMyY0t1MDhuX1pjWFRVUkptU2Z3bG14OWw3M2xES0NhM0cwRU52a1daaWxKZDI0M2hlcG1LUUJBZHZOR1RvR2ltV1NyM2xBQktRRDNaYmtFSEttWjdENUFDRFNUWWF3TFZ1V1dMaGNNZ0xtVm9SV1VHeWtUVE4tZzZra2pPSHhkMHN3THJnb0lIbXA2cUFLYXprTFMzVmxEMnVOZmpYVkMwNVYxTjZR?oc=5",
       "pubDate": "Wed, 15 Jul 2026 00:59:25 GMT",
       "description": "Global childhood immunization coverage inches forward despite conflict and hesitancy – UNICEF, WHO World Health Organization (WHO)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Inside RFK Jr.’s push to dismantle decades of U.S. vaccine policy - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeGtkMGMwWTF4Nk9SNE5wTjZmVjB0dlhxVmxldEhyaFR2QTMyZE42Y1A4V1c0SkhVc2RFbGU1V1ZyTlo0R19HRGljVUJXa3pIZk1HN3FoNHRITzVLSk9NQXg5ME9lTG5UbGxIYzhFS3hNNTJKbFJpb05mVU5RWjktRzUzSWhjTG5nVm9YZkhwSzdwS1dVNnNTQ3FhaDNITWUtQThMTHZxMTlidw?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 12:58:25 GMT",
-      "description": "Inside RFK Jr.’s push to dismantle decades of U.S. vaccine policy Reuters",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
