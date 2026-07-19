@@ -1,21 +1,16 @@
 {
-  "updatedAt": "2026-07-19T14:43:22.514Z",
+  "updatedAt": "2026-07-19T15:42:16.218Z",
   "itemCount": 69,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 7
+      "count": 6
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
       "count": 5
-    },
-    {
-      "key": "hpv",
-      "label": "HPV",
-      "count": 1
     },
     {
       "key": "pneumococcal",
@@ -25,7 +20,7 @@
     {
       "key": "meningococcal",
       "label": "Meningococcal",
-      "count": 4
+      "count": 5
     },
     {
       "key": "shingles",
@@ -45,7 +40,7 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 47
+      "count": 48
     }
   ],
   "items": [
@@ -61,6 +56,32 @@
       "vaccineLabel": "COVID-19",
       "articleType": "research",
       "articleLabel": "Research"
+    },
+    {
+      "title": "OPINION | Duty To Disobey - Dallas Express",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42LWFleWgxTF96Z1kzTkJiM01aX3dCQ0JDUi0ySkFFeVE0RFA2eWVzOTRCbVQ4OXgxUzkzUmJhOXBpMWpFNUFOc2hfXzBYTzBhQkZFeFFTQTVKaDJpYlV2QncycmFZQ1lTblE?oc=5",
+      "pubDate": "Sun, 19 Jul 2026 12:35:51 GMT",
+      "description": "OPINION | Duty To Disobey Dallas Express",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "opinion",
+      "articleLabel": "Opinion"
+    },
+    {
+      "title": "FMD vaccine scams: ‘Farmers, beware of fake sellers on social media’ – RMIS - African Farming",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT05tVl9pLUJudHJwXzMwOWgzWTF6d3FtUjQ2azJpRjc3bFEyTEx4RFdXMDRhcTdtU1JCTHgycUQ3RWtwcDc4akhjTUk1ZXpQRWhpTl9TbFVmX2FvSHA3VWpHRjRyRWVtSFQzdzR1a0RTdkRpeFM5Q3NqZ2xraF8xX2pKUFRRbjBQNDUwVnEzbmJNMXJNbXRZOFEwVy1MNWZTVF9idEtuM2dwWC1uQktqaFh3?oc=5",
+      "pubDate": "Sun, 19 Jul 2026 09:00:00 GMT",
+      "description": "FMD vaccine scams: ‘Farmers, beware of fake sellers on social media’ – RMIS African Farming",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "To trial or not to trial: Veteran vaccine advisers say vaccine clinical trials alone don't tell whole story - Medical Xpress",
@@ -505,19 +526,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "New health assessment flags infant mortality, HPV vaccination gaps as key challenges in Douglas County - WOWT",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMkloTXNNNUd3ZDBqalYtSkF6WVNUeTRVbFlDV01MNk9UNG02TUZzYjkwaE1WaExQTjc3WktSOE1PSTJtSUlFbnJyYmNzelU1cEE5dHkxN1pLTFBpUDhjbFhmNC1odWM3allwZXhUQkNseEloUGgzOC1jTDlUdUhGTmdGOUc3bWVBR3hFREp5X2RHb0JuZHVOTkJKREI0RjZBT29vZy1WVTBBbnBLd3RJeERtUEFCZnZkRE5abHVzVlNoQ09wWm400gHbAUFVX3lxTE45c2VZeTdyZVpTS1BTdGk3U1NsVnhYa1ZVNzFPN2ZlSEgxUmFsNjZwSXgySnkyc24xVmtDWnR0MVVlaV8ydU5vNmlRYUZnWGJtMVhxbHV0cm9JSk5UQkVxc1VmTDA2a1dDR1lkbjA2QTNqMDY2a3FzOE9EYkxSbFYwQmkwYkFfOEZUMHk5c3NRSkJvQ2lkSUpxbjhtZU54ZnZidmJXRHRRdFRaQmJpcWVEY01SaTFsSFZGVG5ZUVFPbGV2cDdYd3MwMU1kTTU1aFpWT1lDdEllS2dNZw?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 22:27:00 GMT",
-      "description": "New health assessment flags infant mortality, HPV vaccination gaps as key challenges in Douglas County WOWT",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hpv",
-      "vaccineLabel": "HPV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Super Shot, Inc. to host back-to-school ‘START SMART!’ vaccine events - WPTA | 21Alive | Fort Wayne, IN",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWlB6b0Z6TS1wS1o3bmpIUGQ0UXJ3Y09NWXlLcTFvaFd1RldmS3FTV0JxaGhLVlU5WGk5aUY1YXRKR0ZrMjE5VWYyS2V6dmk3eEVGQXY5Um00T05nVG9jTmxjUm5ST1lqNjItQ2JXdkYyZ1Y5S1UzajBBc1BqU1RXM2xJOGh6a1VBUXZnTV9CQ3RBdFBFQ3FQR3h3c1BHZkh6bWZ30gG3AUFVX3lxTFBKdG1ZVGdWTGlfYzFwX3NsWEQxdkdwWTlWbzNzMG5zaWRzeXBqT0FNWDVJZjl3MWdGdXFKYXJXNE9GV2VSVzI3dEZ6NDdaSW81d3BLaFJNTnpPOVpZbk5ReVlHa1BOSjQ3NWh0cGpNTWc0Z2hMRmFsSC1sbUtxQjdLOWhfRHFpX241LTk0U1A3bjd0dy1wdDl5elR1c0toOW1neU85OVRubVhwQnIyNmE3WTRjOWRIUQ?oc=5",
       "pubDate": "Thu, 16 Jul 2026 21:59:13 GMT",
@@ -596,19 +604,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "The Blueprint for a Bigger Medical Bureaucracy, Part 2: News Article - Independent Institute",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX3dtamRhQWJjMjdMWWZ1M0g4UVdhT25ZVjFhTDVPUXFfSTRacTF5ZkYwdlB6NmVHeUtvQzZhMjQ1NXFXTUZrblRQcW9ZUi04S3E1a1dwWkkzekNadEhvRk01RVJLUWdIWnI4WG1hdjR2TXdrWUpBY0l6eVktUlVTTHBYbGdXWDFuaC0wQg?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 18:48:32 GMT",
-      "description": "The Blueprint for a Bigger Medical Bureaucracy, Part 2: News Article Independent Institute",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "COVID-19 booster strategies provide lasting immunity - Medical Xpress",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc1ZydmVTNEZNUmx0UWxaa1J5S19LdDJEajA2c2FjTkJCZTBXc0swdThYeEhpX2hCbndIZ0dSc3pNYW0xV1NmVXNZVm1QUmZ0bnU1X1B5NTBnZlM5WE0wRG1iVW44UGVaYldjMHY3WVpHajFNZ1dGUGc1Z3l4VGM4XzBSSQ?oc=5",
       "pubDate": "Thu, 16 Jul 2026 16:40:02 GMT",
@@ -626,6 +621,19 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPamt3SExNcm5XbjRfM0dHaklqQUpNbWI5M3M1QmxYR2pfUWd3aFlLOWRmeV9rT2FKQUI4R0FZWmVqV1Q1bjNweDJNZm5MZk1ILXBsbEQ5aG1oT3ZHaE12ZUZJY01zOVRWTUN2Tld1Q2p3WTNkMXhVd09uWU9wLVZfdXZtSmN4Z2V0dVM5azFlWmU?oc=5",
       "pubDate": "Thu, 16 Jul 2026 16:16:21 GMT",
       "description": "Senators press CDC nominee on cyclosporiasis outbreak, vaccine policy Chemical & Engineering News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Children Vaccine Levels Rise But Remain Below Pre-Pandemic Levels - The Patriot KEIB AM 1150",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV3ljaFdBSk5TX1lISVJpOTZ0Nk9EXzNlTmhCbWFiblhYRmNBelFzVmNoakVFOEVUOG1TRUlkWmJOR19MbXVhYWRFWXZER3p6Z2tIYWQxTVJzM2dmQTVBbzZqRmNwNl9lMWFQa0Q2QmtZUENxN1habWZreVlNUnNLZTQ1am9FQlpXU3B1LUVNREstTmZmZmlfQTNsWm5HVmtuN3BOc2RjR3h5UGhocGJseWlFUGs?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 16:15:00 GMT",
+      "description": "Children Vaccine Levels Rise But Remain Below Pre-Pandemic Levels The Patriot KEIB AM 1150",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -665,19 +673,6 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS2JpQlpvaFpIRmVWOS1Yd2hrTUVfOWhvSjEzOWVPbXRIUkw3WGVxTEJXVTNUb1hpa1BBbFEwMkN3Z0hGTThzTzBjei1LWU1qSS1FZjZtSmZ6UUhub3gwRE84XzJPUWNwbktPMGM2RFdXMktjbnQ5TGFwc3J5ZE5Wci1IMGRsTnE4b09jb21JSEpVN005TVhsZ012T2VMX2wzNWU2ODdR?oc=5",
       "pubDate": "Thu, 16 Jul 2026 15:48:33 GMT",
       "description": "Second Circuit reverses ruling in religious discrimination case involving COVID vaccination NY Daily Record",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Department Of War Directs Declassified COVID-19 Vaccine Mandate Review - Dallas Express",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMTROejZzY0tGZkt5ODdlUjZvYndFcUdEYjRKMkU3YW9rSzBqVFprZFR3OHNETVc3LWlNZUhPY3UtVTJpLXdPNXFHSklxOWkwRDR2UzJETHZMTW1rOVZhT1BKZnc0Ujk4Z1pYUUhrZGJYeXBxa3VXYnlfc0RDZVdIMGxzeXBINkMtMGtSakVrZTBqdXI3dzBFc2hZUm5nRUdkWGJrekRNYjJNQQ?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 15:01:45 GMT",
-      "description": "Department Of War Directs Declassified COVID-19 Vaccine Mandate Review Dallas Express",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -752,15 +747,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "National Launch of Sudan Immunization Strategy 2026-2030 - ReliefWeb",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUFllbXdMSUhjaE50NzNteUM4ZEY5c2UyQ3VYbUNlR25INXVrWndDQ2NqTnowdnZMQkwxMmpJaDZPb3U2cS1oUU9CT2JsT2M5bUpxREp4NjNuT1J2eUlFV0FTb19KLWktRXhSX0l6S1hYa3NGM19tYV9iMEhkcWlDMlVraHlWQllTclFKdS1xSmpfZw?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 12:09:27 GMT",
-      "description": "National Launch of Sudan Immunization Strategy 2026-2030 ReliefWeb",
+      "title": "Teenagers from 15 should be given free MenB vaccine, say UK experts - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KaHhEWHlVaFZVR1UtYW41SXYxLVFoaEpJSlF2RDV2SU5qaVVvSEhNemsxQ0pxY2kwcmtKSEJZX3d5aDdKcklzdEpybDdER0xIbklhSWx6NGR1VU0x?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 13:13:40 GMT",
+      "description": "Teenagers from 15 should be given free MenB vaccine, say UK experts BBC",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
+      "vaccineKey": "meningococcal",
+      "vaccineLabel": "Meningococcal",
       "articleType": "news",
       "articleLabel": "News"
     },
