@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T07:16:34.990Z",
+  "updatedAt": "2026-07-19T08:10:26.151Z",
   "itemCount": 70,
   "groups": [
     {
@@ -30,7 +30,7 @@
     {
       "key": "meningococcal",
       "label": "Meningococcal",
-      "count": 4
+      "count": 5
     },
     {
       "key": "shingles",
@@ -45,12 +45,12 @@
     {
       "key": "malaria",
       "label": "Malaria",
-      "count": 2
+      "count": 3
     },
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 51
+      "count": 49
     }
   ],
   "items": [
@@ -64,6 +64,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "The new malaria vaccine helps in Africa but faces a test: Completing all 4 doses - Chronicle-Tribune",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNM1pSeFJzV3lPMGZfRm9Td0xMV1FPSEx0WUp2ZGpMNEpMWXdfWkdSck8yWE42VkFjWEhvSHBxRTY1YUVtQWR0NjZ5X3FtNTQ3OXVmNnpoWTVqMGJDSjNCWGhWemdwYTZQLXlIcDdCdnFpdjZsaEgyOFk5Qnczb0VrRi1wR3JMWFZvZEZDSmhhdlRSMHdpVDNzeFNkdkRHTHlHdEI1SGdjTlRFVWtYUjdYODJkMUE3QVFwQ3pteG1BTzdHWmk4dXVlOXBET3Y4bzN5TlQ3RUdaendrT2p6d0t5Yl9UNkg2ejFZbzJwQUNHYUlBaV85eWI4VVVaZXdLUkNqb1ZZ?oc=5",
+      "pubDate": "Sun, 19 Jul 2026 01:59:17 GMT",
+      "description": "The new malaria vaccine helps in Africa but faces a test: Completing all 4 doses Chronicle-Tribune",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "malaria",
+      "vaccineLabel": "Malaria",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -159,19 +172,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "How New OA Drug and Vaccine Approvals Amid Lawsuits At Zoetis (ZTS) Has Changed Its Investment Story - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjh0cURjQThBTWwycVJwcThSbHN3MHdFOC1ZYUM3WlI3d3ZRTVBsbHUwckRrMkRpNUhhMENwM0xaRzdGNUt1OEJJOVFHdGJ4N3lYQWJTQ0pqZklxVzlyVF95eXBLRW92Y3VjdWlfak40MmNDVFFyOVVqQk9OY0dnWUlxaHloSl84YVN4S283YUVQTzZ5aGZxWHdzZVBFZGtLOTdwQ1ctWHBHUUZoSFJ2NC1kdl9hMXNJSEpKaGNWTjJkOXR6TGQzeHN0MVBzWnlWUm1R0gHYAUFVX3lxTFBrVUpGazFEUmc5eXZ2dzlUMi1NUE5sTEJ2RV81LTZ6RE1QTmx4b25CRzQweHpuUWdqVFFucm9BbVZ4eFB3b0hONHFiTDlENWd4QU5HeTZpa3E2bEszN2hhUlU0a1BfclVGMUVVVENJSnRUNGtCN29tV2wxREQwYS13Z1pWVlhNQk9EeFpqdWJhM0l4ZEVkclFOTXVEd1Q4bHBMM2hzRDk2b0ttbnRtSUN2Tk1lZml0cGIySEdSU01sQ24wbmN1b3BrV0VKMVpCdXhCX2hWZUpDMQ?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 13:29:48 GMT",
-      "description": "How New OA Drug and Vaccine Approvals Amid Lawsuits At Zoetis (ZTS) Has Changed Its Investment Story simplywall.st",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "New pancreatic cancer vaccine - CBS 42",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiVVZLTHo3X29KTzhFdXpremVIWVRmMTBjcDNqY05BbUpnQWN5Q25XNGZGUUJHWDdVeVVRYUF2a0UwcE53dVhEbm13czc5WFlpcTVrZWRCS3lQTVJuSFVPelphcEhBNWZnalZOMmlWT0ZDWGxwSkE?oc=5",
       "pubDate": "Sat, 18 Jul 2026 13:28:16 GMT",
@@ -233,6 +233,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Pharmacists warn of meningitis vaccine shortage - The Telegraph",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSTJLZUZoR3NrUUJYY2NzekVzZzVIZV9DWnl4WlFnLTRWVXVKdllCZGlOeUVIY1NOTVFjY1NQQ1FacnlZaVREVkRQV2IxOTlycnJNLWJMMzVuVG01YTBJWjlXdnJoTHRpQk55VTExMVU3RjVpY08wcjV4NU1hU1pCMTNBbEUwOUR3MXQ3VnFva1B2ZE0?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 05:00:00 GMT",
+      "description": "Pharmacists warn of meningitis vaccine shortage The Telegraph",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "meningococcal",
+      "vaccineLabel": "Meningococcal",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -612,19 +625,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "BioNTech Launches mRNA HIV Vaccine Trial - AllSci",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOVljX3QxQjI4ZG1MMmlQSmxaaFhqRDR2bTBYUWsyTzZFWDZNMGs4bDlzcWxEMUQ4bFdaZkV2ZzEzUFRnXzFYc2RsbEJ0SG43bmNDbUMwNXJaMmRVYzFOdzRHQklKSWtQTVlfc1FSTHItUzRZY0FYLV9tU1FBMndJZ0xJaXNlNUFxNDlkOGxiNHZPRFZtQ29wNW9ZVE9SUlBtMkt0cUN4d1BZWFhVcmo5Wlg5V3g4M2c1LWY3VkM3b1hpaXB1RE0tdTNPQlpTSmM1U1NLeEtDLTNwZw?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 17:53:52 GMT",
-      "description": "BioNTech Launches mRNA HIV Vaccine Trial AllSci",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "Senators press CDC nominee on cyclosporiasis outbreak, vaccine policy - Chemical & Engineering News",
