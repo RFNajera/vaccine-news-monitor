@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-07-20T14:09:31.104Z",
-  "itemCount": 69,
+  "updatedAt": "2026-07-20T15:10:19.565Z",
+  "itemCount": 68,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 2
+      "count": 3
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 1
+      "count": 2
     },
     {
       "key": "rsv",
@@ -21,11 +21,6 @@
       "key": "measles_mmr",
       "label": "Measles / MMR",
       "count": 4
-    },
-    {
-      "key": "pneumococcal",
-      "label": "Pneumococcal",
-      "count": 1
     },
     {
       "key": "meningococcal",
@@ -40,15 +35,54 @@
     {
       "key": "malaria",
       "label": "Malaria",
-      "count": 3
+      "count": 2
     },
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 45
+      "count": 44
     }
   ],
   "items": [
+    {
+      "title": "Investigational mRNA Flu Vaccine Broadens Antibody Defenses, Sustains Immune \"Training Hub\" Longer Than Standard Shot - Pharmacy Times",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVkg3TTdGOHZ4WkRKSTY2N1FwTV8yQUFWTXBZVC1nRktZOW85b3lFc1VYaE52MDU1ZjRORGg4Zi1ZVXlXVUdsTzdWRGRfY0d5V3I1Tjk0dndQWHBjdnBPamZVUjBLVFZmWlh2REtVdDVhTlVSTUl3X25TXzdVYkl3MFRld2RndURmOTJBWW04aTZ0Y2M5RTJCVl9Oa3NnN2lXdU5JczNmRXlsei1qWDFsWVpDWjFYUlgtcS1WUmxybzdaWTMxX0RvUnY4NlRLWGt5Q0kyb05ScVhDVXBpQndXM21zaw?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 14:36:02 GMT",
+      "description": "Investigational mRNA Flu Vaccine Broadens Antibody Defenses, Sustains Immune \"Training Hub\" Longer Than Standard Shot Pharmacy Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Congo’s Ebola Death Toll Hits 930 as Three Drug Trials Race to Fill Vaccine Gap - Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNODNEZ0RHSWtDV0s2WGVDQkhEOWVVQ3F0R3NNVjc3OENqUy1KcjZTZFY1MDVRYy16ZFliT1ZfckhITU9rVmdxZTNoYUptS18tQUwxSjM0VHZHa2U0NFlyemRtdjhsZldXUEZ0TTU1SnhZU1ZHdVNKMG43SjhSWldLSUo0YzNLYlhNaEVHVXI1UHhCWEpETjY2ckVaaU16NW01dlZaeEwxbFRzZmhkcUo5cXBfUE9hTW1uRU15dVV6OEx1bmQ0LVE?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 14:23:43 GMT",
+      "description": "Congo’s Ebola Death Toll Hits 930 as Three Drug Trials Race to Fill Vaccine Gap Tech Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Angola has completed a strategic process to enhance the impact of vaccination - WHO | Regional Office for Africa",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSkV4cmJYQjJ0R1NFUG1OU0ZfMGpxVmFIZmd0R2tPTUZHN2RqbEpVckFJeUtDTGdzTWs3alp6dlRNRzZNcDFkNVFKci1ockpfSkJaTzdhTHJmVHlOLVVnalU1c1ozVlNGMXA1Ql83Wnk5c2xtVzhWcko5WU1COGxDb2wtLXl1LVB0UE8zdEEwMnpqd0JJTG9qc21LM1dkVzl4b1pBV3I0cy15OHlJLWh0LTlR?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 14:21:52 GMT",
+      "description": "Angola has completed a strategic process to enhance the impact of vaccination WHO | Regional Office for Africa",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Kennedy pushes controversial cuts to US childhood vaccination schedule - Межа. Новини України.",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lMXlCeXU5b055Ujd4S0d5cm9acE5vbjhacm5UMnJLR0ZOYVQ0a0JBMko0ODdtV3laM0hldmo3TVVobGNrYktQcDBDOVdDNkNSM05sVFBibG5lRHpTRWloLTJ4SzlVMHRJVDc2V09yTDZibHEt?oc=5",
@@ -76,10 +110,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Koala nicknamed ‘teddy bear’ receives first chlamydia vaccine implant - Popular Science",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52cTRZdmlIVk05U0JaUGJWRHd6dWV3Rjc5RkIwanFpUEc5UjNCWnpjdXNqR0Zsb2trb3E2cXdmS3F6ekJVS3NSa19jTjMxZVNBNEItSlhxWEFpNWtobExPVXo3eExzSTBRbmtSX3dtb2FvYUJfNURGR0FObDlOQQ?oc=5",
+      "title": "Koala nicknamed ‘teddy bear’ receives first chlamydia vaccine implant - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ0NycWFHam43aXRuYjVDSEhISFIta2hWWDBHd0ZYM0xKT2pqVXB4bkREWUVUb0lGZnZhRmw1SHlxaEt2ZGlBOTdjb2xfR0ltUk9VYUp3ejNzZTQwN0ljelRYVDRZcHhBRGZpd1J0WFhrS0VJczlSYUZ2ZkxWWEZPYndRZ3BkRlUxY0d2UEViYkFNaDJoZGcwcUZ3?oc=5",
       "pubDate": "Mon, 20 Jul 2026 13:31:00 GMT",
-      "description": "Koala nicknamed ‘teddy bear’ receives first chlamydia vaccine implant Popular Science",
+      "description": "Koala nicknamed ‘teddy bear’ receives first chlamydia vaccine implant Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -427,19 +461,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "New malaria vaccine works in Africa, but there still are numerous issues - PressReader",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdUZOdE5Jd2Zja0cxWXYzc3VGVjRBVXdvZUEzUl9kRFhLZkxYQ0xxVkhjcWEtaFZ0WTJsTWk5aFF3UVQ2aXEyT3hYd0lTYjBtSFhHWFBMNVpJX2lrT3MzYy1vQUFOcXhuV1hEMy1PWjNDbkpvNWlwcE9BNzN3OWN5a0luZnBKYWI5aDB0dWhfcThPWW8?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 07:27:17 GMT",
-      "description": "New malaria vaccine works in Africa, but there still are numerous issues PressReader",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "malaria",
-      "vaccineLabel": "Malaria",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "BreezeBio and LigaChem Bio launch joint research on mRNA cancer vaccine - koreabiomed.com",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QRTlnal8tVFJPcTZoc1BKYkh6dWFtSVB5MGt3TlN6OGdrcWxtM1BXd3p4YjFfN1BhdU9rRGFIdVlmWGhBMVY0dzJ2NzBvVFc1blM3am5jcXI5WTZOOGhELS1jMlRRQ1BwWVoySTFn0gFyQVVfeXFMTTJiSGU3UUkzYXd3cC1yanlBM2NNdUtIVkc0LTJHdmtjZ1ZzakVBekhYUzBZcVoyUVBxZkYtTjQ2ajJITXJZbFJPYmNXdTlvTHBxWXppeXB5Q1JCczlHRjFDMUxOQU12ak5xNnZlUEF6WlVR?oc=5",
       "pubDate": "Mon, 20 Jul 2026 07:10:17 GMT",
@@ -765,28 +786,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "Lowered Pneumococcal Vaccination Age Has Yet to Close Awareness Gap - Drug Topics",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR2UzNGhUdTBEMG1mYnZ3MnRiallQc0NxZlBsZ3RNQlhqSHhvSllxVXNGbGcyLV9yRUYyR3QwdUhhNUdCSzEzcEtxR1JRQW9nLXB4VllxREwwb3BOSUxHWmVSX05leEVGODBNVU8xX29CTkJQbEVuaVBvLWpvM05SWno2RlNobFhqZkppTGNwZFl3XzZkSnR5ZVBJZGZicy1R?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 17:08:24 GMT",
-      "description": "Lowered Pneumococcal Vaccination Age Has Yet to Close Awareness Gap Drug Topics",
+      "title": "230 troops discharged for refusing COVID-19 vaccine have rejoined, Pentagon says - Military Times",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUnVsRW05WWZRcFZiZ2hpUmRFVF9yanBoRFFFaTM2dUs5Rzl0Mlp0RDRCMFhfSzkwVmdQdFdVZkZHUHlMekJQQUlsU21kdHpxN2xsWUhsOU5EUWVSSnA1OWVBejFsckhSZDNqRnJiaEpmMnhhWXNYVFE0N29OaUN2SnV6Zm03T0lDT1pHWWRUQ2Q5SUVZUjhxcUdzYUdTYjNlWndyZmEyUFlqUUNfWlhSdmxvaDdoOHNSWi15TUdHRFJOWldTTW45VlprRlJZOVhsR1RqVHlabW1naWYx?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 18:44:04 GMT",
+      "description": "230 troops discharged for refusing COVID-19 vaccine have rejoined, Pentagon says Military Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "pneumococcal",
-      "vaccineLabel": "Pneumococcal",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Northern Nevada Public Health to host summer back-to-school vaccine clinics - This Is Reno",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LVS12NzJ3XzY2N3VNRERYcFk4NFY4WTkydUlfWUNhSmdBaTlJZnYwWi1sVXFyelRZR1E2dlk5eXBoLW9HSUhoQWJSY05qVUJQRERCVmNPMHJINmdpQlhGYkxYeVgtSG94a3lmVFFabFQ?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 17:00:00 GMT",
-      "description": "Northern Nevada Public Health to host summer back-to-school vaccine clinics This Is Reno",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -856,19 +864,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "India's Serum Institute partners with Gates MRI to make experimental TB vaccine - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQa2V5YWZ1ZUtXNlY3bG1YUXVHd1EyT1dQZEpQdGNCUE5rWEZaaWxMZmtmSjFtRTZjTFN5a0QxQ05uSi1kMTB2UXJUaHd1ZzB0VVBDOWdGdThadk9aZXVhUWUwdUFNOVJEYzd3eXZCVkt0VVkxRHBBekpUMmZ3WWh1STdVWkFKbWt2enVtejlDR3JOc3pKU1VoaXpDWlp5T2NHUk9KNGxRbUFsc3g4a3k0S2lRT2lnMFk1MW43THlraVFyQzRlcmw1U1JpVkFoUDVscUxfSUVsLW9WVmNNS09RbQ?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 21:44:24 GMT",
-      "description": "India's Serum Institute partners with Gates MRI to make experimental TB vaccine Reuters",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Free back-to-school vaccine clinics available for eligible Placer County families - Placer County (.gov)",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcHBzMXphNXU4ZFUxVHNNZGt1bXk0YzFOT3BRS09PLWpjRDl4ZmtDZ2xsM1hHelc0TXFEZExMcW1va0FYNEZpMFk2UDVmTllBRUJUakNjN0tXMC1WS21lTkdaRWM2bTJjd0FsZDQyeHJtNW1aWkFWY2hvdVBPbVFVS29GWEk?oc=5",
       "pubDate": "Thu, 16 Jul 2026 20:10:49 GMT",
@@ -912,19 +907,6 @@
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03M2tQajFtNTljaFU1N0xOekhBb1RyM0Q1QzZ3RlpZSGV6amhuT1Z5SjdsVXl3X0FCVlpvX1BBQVpOQ0ZaR3hDRzVjTFpVWjRMWjlsWWdRcVRCeW13bDE0WkhTM2s0TUhXbEFr?oc=5",
       "pubDate": "Thu, 16 Jul 2026 11:00:25 GMT",
       "description": "Inside RFK Jr.’s push to dismantle decades of U.S. vaccine policy CNN",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Declassification of the Department of War Internal After-Action Review of the Coronavirus - U.S. Department of War (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWVFWSXdKdXRhbVcyS091b1oxa0UzT3FqU0RLYVFkUDlCYkIwM0FjMzFtdlpOT3Jaby1PSHNfWmg0bU5Vc1Jlckx1V2lwQlhFVHJfd3BBd0VWUVF0c2xyM1NIQkR5WGtmbi1WbS1lN2lFVlJGczV4bHNReTFpbGxTcVB1LVZ6QUVEWGN3eTdpWThsZ3BfQ0ZPNGtTXy1Ecng3WlpDM25IMDl0dzBsc2Y4RWwxb213VTJWZWtGOUJuRlNad0FMQ1NRNVhSbUJscmNVOE9DVQ?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 05:11:27 GMT",
-      "description": "Declassification of the Department of War Internal After-Action Review of the Coronavirus U.S. Department of War (.gov)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
