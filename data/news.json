@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-20T00:59:22.961Z",
-  "itemCount": 64,
+  "updatedAt": "2026-07-20T02:13:03.072Z",
+  "itemCount": 66,
   "groups": [
     {
       "key": "covid",
@@ -25,7 +25,7 @@
     {
       "key": "meningococcal",
       "label": "Meningococcal",
-      "count": 6
+      "count": 5
     },
     {
       "key": "shingles",
@@ -45,7 +45,7 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 47
+      "count": 50
     }
   ],
   "items": [
@@ -126,6 +126,19 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
+    },
+    {
+      "title": "Larry David Appears to Mock Robert F. Kennedy Jr.’s Anti-Vaccine Views in New HBO Series - Complex",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tLVVwRGlOMXdhUHBrYWZOc0dyY09xajd6OFpZOGxsQUNZNVllTjZzNkNjNHdncEg3STg1UGhzOFFyUElLblVMN3VfaVFtMTg3bkphR0p0MGx2TFVvcjh5TEZLLUFJTjZpYklRY0hkcW5WTEFYVEZBb3ppUzZyQ3M?oc=5",
+      "pubDate": "Sun, 19 Jul 2026 06:01:05 GMT",
+      "description": "Larry David Appears to Mock Robert F. Kennedy Jr.’s Anti-Vaccine Views in New HBO Series Complex",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Cayuga Health Dept, SPCA to Host Free Rabies Vaccination Clinic - Finger Lakes Daily News",
@@ -258,19 +271,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Pharmacists warn of meningitis vaccine shortage - The Telegraph",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSTJLZUZoR3NrUUJYY2NzekVzZzVIZV9DWnl4WlFnLTRWVXVKdllCZGlOeUVIY1NOTVFjY1NQQ1FacnlZaVREVkRQV2IxOTlycnJNLWJMMzVuVG01YTBJWjlXdnJoTHRpQk55VTExMVU3RjVpY08wcjV4NU1hU1pCMTNBbEUwOUR3MXQ3VnFva1B2ZE0?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 05:00:00 GMT",
-      "description": "Pharmacists warn of meningitis vaccine shortage The Telegraph",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "meningococcal",
-      "vaccineLabel": "Meningococcal",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Greater Birmingham Humane Society urges pet owners to check rabies vaccination certificate following vaccine recall - CBS 42",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQR2ZXelUzSWxLckVpVmVmVmx5MFFFX3BNNGp3alNkQXBWaUdZM1UwZk1mUUZZS0gxQmNXZUxLS1FDYmdpYUJob0E4OExQYzZIVHB6cFBpLWd2NGt6ZGNpbDN0anJ0VEs3SGRKaHhCUExlTlNBOERwVGNWb0ZXQ1R5Nzg5bkRCQ2gtNE9FTDlVNGR3c0JxSUUtRnJPQk11ems2b0toZGtiY3FtblRlMUh5a2w5MDN3MmFDV0xzREduQU1oYWljWi1VN09pejFZM24tWHdqdEJiQVdMclnSAeABQVVfeXFMT0RaTDViOXM3NXBrSHFMSGJkNkM1MkpJY3VDUDJqbTFmSE9RMFJWWDZKZlRDY2N1SVg0ZVdWbHZPX3FNbEpBNDJ0YUFsdTJXdHFDNmczME40WDVHaGo5NDJ6ZFZfLWJCUWVGV0lReU82V0dvYldUR2RXYXFtMFhHLXhETndNLWZzenROREJoZFB4ZEhZZ3AyZFJpNTlhbXV5SThFU2tyZVpiRkRKcVBVeU5ORGZQb3hpbWxIb0xHRWp0cjNOcXZfM0VMWV8tY0JNOFpZSWxJT3JnTzRldUV6anU?oc=5",
       "pubDate": "Sat, 18 Jul 2026 00:27:43 GMT",
@@ -288,6 +288,19 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQl9WeXZfUnhOYlRRTjVrZk14RXUxTUxnVnhTVEx1RXo4djJ6eEViQXB6M3hfeWdQbHdtSHV4b1hqS250el9WODZHcWFtUkFnRHBTUnM0SFpiaUg2WnE5eTVQeXdPdFdKN3dQX0ttOHFzMEZZRzVKSWhwUlpfVy16aE1TZFjSAYoBQVVfeXFMTm1QVWo5Nm5JNWhGbm10UkNOZ1pYZFhqT3lFUVRXZ0JoSnZfQVY3blRTLVJ6dUh6ekNuR2hPa0pZMmJwWG5xYWtmeGw0aTV6VXB4cDFhU2ZIdDRuYk84aVJlMkpZbVMxYllzUVN1b0Y5S0xSeElWTjlGdGp1R1FXRjJTUjFTMmY0ZHl3?oc=5",
       "pubDate": "Fri, 17 Jul 2026 22:31:20 GMT",
       "description": "Low-cost dog baths and vaccine event in Odessa Yourbasin",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Free Thurston County Back-to-School Immunization Clinics Scheduled for August - MyNorthwest.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcl94U1hRc09oRy1fMkxweU12UDdoWHBGTFh0T3JsSmlXMFpGUUdxUkoxNGdEWGg4SkN5dGdWQjdXU3R0Q19pYjEzb2tWdENaVGZ4dVQ2empmeUFWajlzRXlhR3pwWHlKMjEwV2dKU2pEMWtaOVlDR1FOZzktaWtfUDRzNGtocThzNkliajhsUTAxNFYyd0cwS0txcU8wN1NpZVhuUmhaVER4VU5IclNJT1Y1bjd2YmIybHg3RnNmLVpUaXFmMkNEMVE2UQ?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 21:55:00 GMT",
+      "description": "Free Thurston County Back-to-School Immunization Clinics Scheduled for August MyNorthwest.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -596,23 +609,23 @@
       "articleLabel": "News"
     },
     {
-      "title": "SNHD hosts back-to-school vaccination clinics throughout Las Vegas Valley - Las Vegas Review-Journal",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSHJuckdFUWZXTmI3TVB2NDZidDNTUTIxTWFlTUtXNXpxUFBWZ2J1M210N0pIMV83eENfcl9sSW5lT3dQOFRqMXJCbm93NVBqRkxVZU0wVkVINXIxQk42RzdUdTd1R2JqTnJKQTgyVzN1MnFodEUyZGhISjJLUjhubHFfQVZYVE9ncnpjSGZsemZRaTVya1dqWFl0UnNfeVVKZDQtTjNkSktsdlYwN1NuUjhSNTZqZXNsYmVIT0FpemJ0V0RlZXcw?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 17:19:33 GMT",
-      "description": "SNHD hosts back-to-school vaccination clinics throughout Las Vegas Valley Las Vegas Review-Journal",
+      "title": "Senators press CDC nominee on cyclosporiasis outbreak, vaccine policy - Chemical & Engineering News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPamt3SExNcm5XbjRfM0dHaklqQUpNbWI5M3M1QmxYR2pfUWd3aFlLOWRmeV9rT2FKQUI4R0FZWmVqV1Q1bjNweDJNZm5MZk1ILXBsbEQ5aG1oT3ZHaE12ZUZJY01zOVRWTUN2Tld1Q2p3WTNkMXhVd09uWU9wLVZfdXZtSmN4Z2V0dVM5azFlWmU?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 16:16:21 GMT",
+      "description": "Senators press CDC nominee on cyclosporiasis outbreak, vaccine policy Chemical & Engineering News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
-      "title": "Senators press CDC nominee on cyclosporiasis outbreak, vaccine policy - Chemical & Engineering News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPamt3SExNcm5XbjRfM0dHaklqQUpNbWI5M3M1QmxYR2pfUWd3aFlLOWRmeV9rT2FKQUI4R0FZWmVqV1Q1bjNweDJNZm5MZk1ILXBsbEQ5aG1oT3ZHaE12ZUZJY01zOVRWTUN2Tld1Q2p3WTNkMXhVd09uWU9wLVZfdXZtSmN4Z2V0dVM5azFlWmU?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 16:16:21 GMT",
-      "description": "Senators press CDC nominee on cyclosporiasis outbreak, vaccine policy Chemical & Engineering News",
+      "title": "Children Vaccine Levels Rise But Remain Below Pre-Pandemic Levels - The Patriot KEIB AM 1150",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV3ljaFdBSk5TX1lISVJpOTZ0Nk9EXzNlTmhCbWFiblhYRmNBelFzVmNoakVFOEVUOG1TRUlkWmJOR19MbXVhYWRFWXZER3p6Z2tIYWQxTVJzM2dmQTVBbzZqRmNwNl9lMWFQa0Q2QmtZUENxN1habWZreVlNUnNLZTQ1am9FQlpXU3B1LUVNREstTmZmZmlfQTNsWm5HVmtuN3BOc2RjR3h5UGhocGJseWlFUGs?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 16:15:00 GMT",
+      "description": "Children Vaccine Levels Rise But Remain Below Pre-Pandemic Levels The Patriot KEIB AM 1150",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -674,6 +687,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "MenB: The vaccine young people shouldn't miss - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mazUwNkVsd1NfUVpHWjY0YU5lbk9VQkNyN3dIRUtpSFNBMEUwd3Vlc3dtWDljTnhNaFlsemRZTlEwNExSVUZmTFBGRGwydkZhekM4QUl2VQ?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 13:54:19 GMT",
+      "description": "MenB: The vaccine young people shouldn't miss BBC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "meningococcal",
+      "vaccineLabel": "Meningococcal",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "JCVI publishes new recommendation to Government on adolescent MenB vaccination - GOV.UK",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdUpTc2RzMTY5VEdPR01PUzdDcDdqZ1VBNERxYktydDJvZGpkbXl1RGNKbzBfSVJ2OXpaRVZ2Uy1xMDJZZ04zVFVzNFBFaWt0dmtBNHZMOHpZV1VfVURQOVJKWlVDZ2trLWJ4RjNNRkRRWnFxNEk1VUV2c2ZGZW4xOF9EZDdMZmhoTUZmUlh2VUU3MUpEVnFvQ2R0NllUcG85RUJkYld1RzAwMzB0SVNVclJaMA?oc=5",
       "pubDate": "Thu, 16 Jul 2026 13:25:31 GMT",
@@ -700,15 +726,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "Teenagers from 15 should be given free MenB vaccine, say UK experts - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KaHhEWHlVaFZVR1UtYW41SXYxLVFoaEpJSlF2RDV2SU5qaVVvSEhNemsxQ0pxY2kwcmtKSEJZX3d5aDdKcklzdEpybDdER0xIbklhSWx6NGR1VU0x?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 13:13:40 GMT",
-      "description": "Teenagers from 15 should be given free MenB vaccine, say UK experts BBC",
+      "title": "National Launch of Sudan Immunization Strategy 2026-2030 - ReliefWeb",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUFllbXdMSUhjaE50NzNteUM4ZEY5c2UyQ3VYbUNlR25INXVrWndDQ2NqTnowdnZMQkwxMmpJaDZPb3U2cS1oUU9CT2JsT2M5bUpxREp4NjNuT1J2eUlFV0FTb19KLWktRXhSX0l6S1hYa3NGM19tYV9iMEhkcWlDMlVraHlWQllTclFKdS1xSmpfZw?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 12:09:27 GMT",
+      "description": "National Launch of Sudan Immunization Strategy 2026-2030 ReliefWeb",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "meningococcal",
-      "vaccineLabel": "Meningococcal",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
