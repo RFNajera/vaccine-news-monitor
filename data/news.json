@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-20T20:50:37.958Z",
-  "itemCount": 64,
+  "updatedAt": "2026-07-20T21:48:02.265Z",
+  "itemCount": 67,
   "groups": [
     {
       "key": "covid",
@@ -21,6 +21,11 @@
       "key": "measles_mmr",
       "label": "Measles / MMR",
       "count": 4
+    },
+    {
+      "key": "hpv",
+      "label": "HPV",
+      "count": 1
     },
     {
       "key": "polio",
@@ -45,10 +50,75 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 40
+      "count": 42
     }
   ],
   "items": [
+    {
+      "title": "Global Childhood Vaccination Rates Remain Below Pandemic Levels - respiratory-therapy.com",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRkF1Y1FSeFhhZjJfYXRFVUgwbUJURUw2ZHRvQXhjUWRDd0Q4ZzN1MVZ0V0FkRTkwUUEtUW5mRUFRRzhVWkY3eXA1eEZZYTFxWHlubTNIWG5QdDNnWHZLUXRUcWtncnFyRzFJMEh0OHFhRW9pblk1VkdtNS0wVGp2bU1Ta2d1ZjVPbjdOOURxekx3N0ZBSlJaZTN0MW9iMGxSMlA5WngyRFNwdGstaG5fWnlyekp1U0xRUUY5QXlSVkJUQXgzUG11cE9QOFpyem1DUXpCZEhB?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 21:38:37 GMT",
+      "description": "Global Childhood Vaccination Rates Remain Below Pandemic Levels respiratory-therapy.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Pike Co. Health Dept. Immunization Hours for K, 6th Grade and Senior Students - wwbl.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdzc3aVFPbGR6NmpDRzRiUHJrYVN3VDMweHM3VFNWckdGakNUbHhUaGJ1cWJVRXRZR3JxMFFaNF9lSFBtblByZV9VU1AyZ25wM0pCSlg3QVR6UlBQVjJORGNzYk42RjU0VmhYQjg3bkExX2c3aU5LNGo1STktc1RMU0ZVYU1seVBveGhUTjdUcldqZmVxS2poWFlmd014dDVRN3dBaGV2ZXZnWDA?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 21:11:46 GMT",
+      "description": "Pike Co. Health Dept. Immunization Hours for K, 6th Grade and Senior Students wwbl.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "1st dengue vaccine gets DCGI nod, set to hit market next year - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdnF4YWtGZXVndU5mWm5pVU9MWFU1RVVPVXdKdnBGNS1uQWwwSF9ZNFdhNDJuUWl1VDlEMGkxMml6STFjczdtWlkwMzQ3c1dpTERTYUprN0ZGeXhFODhWcmQ5dUludDAxdk9WR3JtZHFPX05Bd1lLTTZKb1BKY3psSXRuZHJ3Ry1FNi1KOEpwenlqV1c3bWYxdUJIdFJGSTRPcVRTZVBTZV9vY2RqeVV4WXBMYXlEdG9vSlFXMjVjaEE3NUNPRUxz0gHMAUFVX3lxTE4zYkpkT2paMDRUU2VyZGNSUHpVZDVNd3k3bVBVS1NaTDB0SDZoeGllV3RBdlVjY2RuNEFZY3NReHBWLTFEVlpzWmpjYWdsaWVXMi1RWVVlbWU2NkVQRGxIUnVwLW9PbkF1TUN1VFlCWUZ3akxSNERfQ1pPUFZUSzliS0dvQUs1LXpmeXkwSUkzTWhpeXRzTEhIMlBOU0c3b21RcGZQd1drNlo4cUE1aXZaQ0k0eFliV2xOZ3NxWkZNU0NqdW50T0tjUldPTw?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 21:06:00 GMT",
+      "description": "1st dengue vaccine gets DCGI nod, set to hit market next year The Times of India",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "dengue",
+      "vaccineLabel": "Dengue",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Biopharma bites: Scribe sets IPO terms, Takeda's dengue shot OKed in India - FirstWord PHARMA",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fUXFVeEF5Ty1pcGNfMWNybEpOSS1IS2EyWXBrRVRteGN2Y0FXRThCaENWZXQwYUltd1JPbGVFdDdDbHJDTnhxcWxSRDNlaXNjRTM0?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 20:58:32 GMT",
+      "description": "Biopharma bites: Scribe sets IPO terms, Takeda's dengue shot OKed in India FirstWord PHARMA",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Parents Encouraged to Allow Children to Take HPV Vaccine - Jamaica Information Service",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeDN3a1h6eE1Ma2N1cVZtT093bTVhZ3RZZ29iUGpNLXdBZWNfZU1DLTAxRFNtUTluV18zOW05S2FsOEVVdG9Ycl9XbEc0S0JYVHRoei0xempwaUlVdEdhUmpxZU1DZDBuQlc2a2dJSDBXLVZ3T3p3emx3NWc0NjVycXNR?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 20:57:24 GMT",
+      "description": "Parents Encouraged to Allow Children to Take HPV Vaccine Jamaica Information Service",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hpv",
+      "vaccineLabel": "HPV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Workforce Preparation for Fall Immunization Season Starts Now - Pharmacy Times",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd0NFaDdTZTZvTU1sdjIxeFNYRWpCS2JUQm92MElnd2YyU3Y1alBxUTFROHJiME13blZDdGlLRTFFUFhTZWxpbDZNc1hnbHNVUmlXUGp2XzJ6SU4wZEZLSDNnWGZJRHZBNGlrMVdmUS1saWdnSkVTc1RNcm1CZWlMaGdfSjVHc2NRX3o5M0NRdy1QZThhdUJmeTRSXzA?oc=5",
@@ -284,22 +354,9 @@
       "articleLabel": "News"
     },
     {
-      "title": "York student urges teenagers to get the meningitis B vaccine - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42VTVwRlBZNVBFbVpSTWl0QVd5bGw2b0pMWHZLS0tMY2pQT2FvaGQ3Q19YVWJ5MU5UTmtTcjBIUjE0Q0swNHBNT2FxbGQyYnR3WVJpeUZycFpDeER2?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 15:41:29 GMT",
-      "description": "York student urges teenagers to get the meningitis B vaccine BBC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Mutant KRAS Vaccine for Prevention of Pancreatic Cancer Development Shows Durable Immune Responses - The ASCO Post",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNzJMQnBRU0lRUzE5NktJVjZKcUxzQTBzU014TGZZbURqWFBCWHJIYXk4MFBZOW9JOERCNDBvTTRabkpiNG5aRUx0YV9fRHJiaEJ6QmxycUtBek5tM0Fzcl9UTXhRc2ZFQmJLNU5nOVdXY3RJeDJBRXhYbFN6a2JTYmdQUWZIUVplaUpxU1VqamZvYnNKTWJ5aGp5LXNpSUxkdnFiaTdqQnBVS3pfMGZRcUFzTUg4N0JxYnBENjNYUFRjQzQ5ckQwT25yOGVqUzRr?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 15:32:20 GMT",
+      "pubDate": "Mon, 20 Jul 2026 15:33:18 GMT",
       "description": "Mutant KRAS Vaccine for Prevention of Pancreatic Cancer Development Shows Durable Immune Responses The ASCO Post",
       "source": "news.google.com",
       "sourceType": "news",
@@ -436,19 +493,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "India gets its first dengue vaccine as DCGI clears Takeda's QDENGA - The Federal",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVnQyZEZzWFJEMEpZMTFDSjJjNkZ4LU8zZ0VNSGpXbkVoWG5UUEdPOTNGdnJPVGRRRjJFWEppMEpxekRuTGxZQVpnNnpHWjlkU0V6VXVtbWs0RWVnM1FIUEVENkNQNFRUVWF2UWtWNmJGNWhWaktmZmRZRk1aOWNCTndLZGp6WWx5MWw1ZElRVGI2SFFQZzVydnBRVEtfOFpxZmQwaWo3WW0?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 12:38:00 GMT",
-      "description": "India gets its first dengue vaccine as DCGI clears Takeda's QDENGA The Federal",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "dengue",
-      "vaccineLabel": "Dengue",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -648,6 +692,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Takeda dengue vaccine Qdenga wins marketing approval in India - ETPharma.com",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOLUJmTHJoaHVCRG1EQWdZSlItRGdzS2Rveko2ZUhNaklkRDdabXhxeXNONHVnbmlCQ0Y0NTZ4VWtocXVZMjRFS3M0N183TTZkdDZzd1ZhZkVwYmNlUFljX0JMMHFyUWpDVG5lcVJ6VU9UN3dSemZybmtRYTFReEVMUDl3N2RGNmY1UFMwNFo1eWJxWjRueWpMYTkxYk0zZ09jTlVjS0FhVmNIQlJMSUVKS0d2aFFYNExFZVoxLVpVY3JuWHlLSmtnRno5LXVtZ0pDMzZDVHQzSi1BTngtWlZBVFVB0gHnAUFVX3lxTE5BbXYtYm41TVJIenNLbjgwT1B3TzZuVVh1UFlYZkkxS25jVkVjbllkVFVfTjZ0Ym55NE5OYWo1aDhxR0xVeW5FWmpiT0tQMXhPWEtlcVFuek95UExPRDdiMHJvd0d4RjBlS1lRREhwQkVqRUJNRG9oZ0U4VEJjMV9vQ3ZFc0NRdTU4UTFBanJlNUlZbDBULW04NGZOVF9lb2dxNW5mdUpWNTdNVE0wcms1dHotRk00al9KeTBoRU9VVGNOUEd4c0NyODcwbFlkclFENDRQVXZqYkQ1WFZnN3hfTjlJOHFuNA?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 07:44:13 GMT",
+      "description": "Takeda dengue vaccine Qdenga wins marketing approval in India ETPharma.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "dengue",
+      "vaccineLabel": "Dengue",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "India Gets Its First Dengue Vaccine, QDENGA: Effectiveness, Doses, Eligibility Explained - NDTV",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd3JSampGbXJRY0VRMjlnLW1fd2xTLUM3RzR5a2RyazRnb2JKaTFna1FKcnNrMlYwR3pQVGNvOFlTTjdfbkFXajlHcC1mWk5tSkVyRE1qNzFQeHd6Z3VfY1d1S0YxYURVSEk1czAyWWpxNHRqTjNJVnZGM1M1T1ctVXJSUUNIOGpHbGQ5VFVvb0dEbWFObFB6MkxWYW9aX2l0VkZhM2lad01SbDV0c19ibmQtQm1NQmZhUzJnc01B?oc=5",
       "pubDate": "Mon, 20 Jul 2026 07:31:26 GMT",
@@ -713,19 +770,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Takeda Pharmaceutical's Qdenga (Tak-003) Becomes First Dengue Vaccine To Be Approved In India- Statement - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWnFLRUQxc19rQW9jWDUzWlNrMUI0OVlMa2pOTDk1ZFRkMkNxb1VWbkxBV3dDNmRDUDM3TVJjamJEVWlVRHRjMGFXVHRnbFAwd3NBdnYxNjE1MmRRRFlYMGpUMEtvbmdwa0VESVFuSTB6a3A3Yndfa2NoMFNqdEdUczB5SmVubi1FZnhicktrSXd2TE0wenZXTXh2d203eFV3OUtqYkotRmRaVjRBeUVNVFB6dWZVVUtMNmJKWE04R1NZZHVFY01hZG9QWjhPYTdxTGhhYjE3MWR3QnRqQkpWWDZVSzlIbTdwS1dKUEdNNmFDdllIM1JNb1hYb2FvSTYx?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 05:45:00 GMT",
-      "description": "Takeda Pharmaceutical's Qdenga (Tak-003) Becomes First Dengue Vaccine To Be Approved In India- Statement TradingView",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "dengue",
-      "vaccineLabel": "Dengue",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "'My son died of meningitis - young people must get new jab' - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51VkdCLWxZdTBWUHNJOGd0aGlOblhxN2FxVU9NR09uMmJOVkFBd2JmMFdvbzhxcmJnOHJXaWN0dEFrSUlTWVl1Nm40TjZQdlRJdWZoN0J3dzZXZw?oc=5",
       "pubDate": "Mon, 20 Jul 2026 05:31:09 GMT",
@@ -766,8 +810,8 @@
     },
     {
       "title": "Pop-up vaccine clinic offers low-cost pet care in Duplin County - WITN",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaTVTSnhNQU9hN0ZaWmhWUW83Tjd4dTVUMkVYLUhsckxEbTRVZ3BNNHZrczdhQ1ZXSlJ6U2haUzV6NkFMVHotNFpoTndfOXRMcXNCbnVBNzBoRU5BTFdPNFcyNjZwQVEyNHU1bVNoYk9FVGpoZXZnMTNNZUYxS0Rsc25uMWg0ODdjUTRSTjVyVHM5dXc4aFpRWNIBrAFBVV95cUxQajNYbTBQdVFuajhWcDEwbEJHaXpFT0FEa2ZwenJqaS1UYlg3b2drV1RPN1A3bEtMbS1YQzFwRXUwTVJiYXBXRXBzTkJhcWhWeldDUTBxdjdIVjB4SnVkSVROX094WmpITlJqREhfQU1kLUdGdktKRFpSWUpTLXpUejRQWWcxaG0wd1JnbGlrUUVoSnJhUjV0SnRwV3dZbUZHWVlTVmdEMXNnYmtD?oc=5",
-      "pubDate": "Sun, 19 Jul 2026 22:38:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb0tfWm8wamoxOUNEU0hianMwWmc5X19RMlF1eEh3QmpNblREOUdDMUY5cklxSHp2U2gyRTNfMXdYT2JtQ21VXy1zdXhsRjVmT0FmVkZvM1hpbHZfd1R6enFoM3UzVTBBZk9NZDBRQnRta1NXSWNReWQweHZvYXl5cEJON2FlM245dDRjek9jLUR4NlZ1RWFua2U4QWdxTmll?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 23:17:00 GMT",
       "description": "Pop-up vaccine clinic offers low-cost pet care in Duplin County WITN",
       "source": "news.google.com",
       "sourceType": "news",
