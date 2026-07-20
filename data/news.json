@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-20T16:55:13.952Z",
-  "itemCount": 62,
+  "updatedAt": "2026-07-20T18:08:45.871Z",
+  "itemCount": 63,
   "groups": [
     {
       "key": "covid",
@@ -28,9 +28,14 @@
       "count": 1
     },
     {
+      "key": "pneumococcal",
+      "label": "Pneumococcal",
+      "count": 1
+    },
+    {
       "key": "meningococcal",
       "label": "Meningococcal",
-      "count": 4
+      "count": 3
     },
     {
       "key": "dengue",
@@ -40,15 +45,80 @@
     {
       "key": "malaria",
       "label": "Malaria",
-      "count": 2
+      "count": 1
     },
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 33
+      "count": 35
     }
   ],
   "items": [
+    {
+      "title": "Riley County Health Department Receives Continued Funding For Childhood Vaccination - KCLY Radio",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMk9KSnBGaU9XS01kTjJQY201LWxFS0VOMkVrM09XbmlHNkpnZDJIVWstb2dqbkxvbFZuaEFQenp0QnNOX0o5WWhnOXNURkx4VVNHRzBka2drMHNCNF9YbFM5d282SDEwcVA4eF9PaDU3NTNLaGVFWGVabklsMWdOTGhuYTBSNnVrZHJYVGhaNWlvWjNOZk1RRUpicjRNb2JHQzFnaS1zR1VKWlhxVFhCYg?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 17:28:35 GMT",
+      "description": "Riley County Health Department Receives Continued Funding For Childhood Vaccination KCLY Radio",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Moderna says CureVac broke agreement by suing over COVID vaccine patents - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOXN2X000YWh1RENzRDdVZ3NRVHpvWVNTM242XzNjQnVBUXZXbGFaUDhFazVTQlJ1UmxRMWc0ZTY0NUU3c2tPYlJSUHZUa3gwWDg4RUVXUGlJQ3E0TDZGRlRFNm1KRC1kYmt5ZERzMkFlY3cyMExiVTFGb3dCWWhhRk5STFhYTjFqd2ZjcnVVbWxkRG5pUTNGRE81NmRlUktZM3hhMTBGclEzdEFlMVBPdjdPZllRNHY2VkhUU1dEb1BPSUE?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 17:14:18 GMT",
+      "description": "Moderna says CureVac broke agreement by suing over COVID vaccine patents Reuters",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Moderna says CureVac broke agreement by suing over COVID vaccine patents - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdEIyNHBWZXBRbzgyUEdUWkNQclZnZFZLZ2EzLUJGb0ZTNTFacl9MMkNWREN6NEVoelNnQ09qZDZKX0VYX3V1UjltVlRtTnd0bW11ZVBqVUZfV0ZhazFYOWJISUs0Y2VVdkNiSTNVWXh1TEdPNHY2RDh0b1U3eS1XSHZ4TXpJcDZqeVMyMjRfR2h4ZFZiMUxMUTNVcGhZVHBvUnJMajBtX2FyTUdjbzA3N2dqWUVQSzBTbkVETDdNaDh2NjFUN1hmVlluNTIyX1NzNWVBUzdETmxkQQ?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 16:59:43 GMT",
+      "description": "Moderna says CureVac broke agreement by suing over COVID vaccine patents TradingView",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Column: Cook County offers free immunizations as number of unvaccinated students grows in south suburbs - Chicago Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSURzMlgwVktEMEVjbWp3azJoN21LZTNIb1lIcmNMTGl1ZFpyQlpWRThWdllabFdRd0UwdFgxeHE2a2swb3Y1NE1tYTd6dVY1cTZrSVBHUHhzLUJ6UUdRbVQ4WnlSVXNhR3E0MGJFRExvbUVSSEhaZlpFZjFxckhVVG5TRGREejhPRlE?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 16:56:44 GMT",
+      "description": "Column: Cook County offers free immunizations as number of unvaccinated students grows in south suburbs Chicago Tribune",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Q&A: Pharmacists Help Patients Navigate Pneumococcal Vaccine Options - Drug Topics",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdHBpcGxNVlBYdUkyOEpTLVFYWWVJdkNOY0cwQ2c2MXlURU4tS1lpVWJ4cGFzcjVjZVFldGpLQUkxZnJlMGlfYU9DTjRwdnNLenQtYUhabE12SmpxbmpuSmdvcVVTQ3h2a3pZaWRIaTQ0MHFFdUNtOHVyWHVHaUEtZ1BNRUxZRmJROFYzSG5xd2FiOVpLQ2FCNDhPWQ?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 16:54:45 GMT",
+      "description": "Q&A: Pharmacists Help Patients Navigate Pneumococcal Vaccine Options Drug Topics",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "pneumococcal",
+      "vaccineLabel": "Pneumococcal",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "India approves first dengue vaccine as cases surge in South Asia - The Telegraph",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUDZfUlozMF9ramk2OUo1NnBRQi1MN1ptcktRVUh6aFZXczN1bmFNTm03cGIwN0dKd0o1ZVlvNmhTTGNoTXNTa0NncGZWdEFLdjl1QkY4S3lrQXN1UExMR2JsNVQtOGM0OUNkazU3ZER2WU90cFZ2U2l3dEwzVlJKY0ladTlEcEpSc3R3OGFuV0lzOURhb1NLMFlWaFFLTnpkS0IxRGhFMExfekJnVy1hMC1rX2FOR0VReTJaWmh5QQ?oc=5",
@@ -115,54 +185,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "Bereaved parents urge young people to get MenB jab - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hTmthRkVFMVQyR1IyMk9TbXRSNjJDVTRhTVVMVmh6aEgwWk0wVzRiZGUwNVZaUWNvTWdCVnJadEJvckVmUUFmRVZ2MXRTejlUZjRwUTJOT1A5VTNI?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 16:26:20 GMT",
-      "description": "Bereaved parents urge young people to get MenB jab BBC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "meningococcal",
-      "vaccineLabel": "Meningococcal",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Column: Cook County offers free immunizations as number of unvaccinated students grows in south suburbs - Chicago Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSURzMlgwVktEMEVjbWp3azJoN21LZTNIb1lIcmNMTGl1ZFpyQlpWRThWdllabFdRd0UwdFgxeHE2a2swb3Y1NE1tYTd6dVY1cTZrSVBHUHhzLUJ6UUdRbVQ4WnlSVXNhR3E0MGJFRExvbUVSSEhaZlpFZjFxckhVVG5TRGREejhPRlE?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 15:59:44 GMT",
-      "description": "Column: Cook County offers free immunizations as number of unvaccinated students grows in south suburbs Chicago Tribune",
+      "title": "York student urges teenagers to get the meningitis B vaccine - BBC",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNM21QTjYyaW54eWVVTWRBTE1EODBFQXJJejJUeFdtTmp0dmpBNnNyblBiVE1Xenk0SENrakJMMnlFMDBBbW11dGpTdGNVeEhZY2M1THE3OVFaUW5jNUVmVjVjOEdrWi0yb0p1Vlp5Tlg2V0tKUWhYclZIYmoyaU4xZV9jbUJjazBrZXlkSUFpa0RvVGY3cUFfM3ZrbktublhIQUJ0MmotTXhrUWVqS3RzQW94NVJvUGpyaWNhaFpqNW1WVlp1dEdOUTVpMGlqZkpMV0ptZm1NOW91QkFQT3NMM2FR?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 15:41:29 GMT",
+      "description": "York student urges teenagers to get the meningitis B vaccine BBC",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Moderna says CureVac broke agreement by suing over COVID vaccine patents - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOXN2X000YWh1RENzRDdVZ3NRVHpvWVNTM242XzNjQnVBUXZXbGFaUDhFazVTQlJ1UmxRMWc0ZTY0NUU3c2tPYlJSUHZUa3gwWDg4RUVXUGlJQ3E0TDZGRlRFNm1KRC1kYmt5ZERzMkFlY3cyMExiVTFGb3dCWWhhRk5STFhYTjFqd2ZjcnVVbWxkRG5pUTNGRE81NmRlUktZM3hhMTBGclEzdEFlMVBPdjdPZllRNHY2VkhUU1dEb1BPSUE?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 15:54:09 GMT",
-      "description": "Moderna says CureVac broke agreement by suing over COVID vaccine patents Reuters",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Moderna says CureVac broke agreement by suing over COVID vaccine patents - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS2lySlE0ZXZESnUzUjBtR2RUZGJoUFZDNExBV09GcVBKRDVGQ2hGMUJoWmlBOXhyeWtzSkNaVEkwR0U3LW9FTnUxY3VqZV8zVVh6SE1NTC1nVERXdkZ6YVNRaUxqbWVSVlduNmQxaEdYYXZoWUtnZFp1WWttWTVyNndTUld5Z1ZwLUhKeWZEMVI0TGM0cFhjaUJFbDkxbEdsQmxqZjN1a2Jqb2tBcHZLR0NTTGlHeWJjWEdYLWVGSVFqSHVOczJ6TUdER0ZQelB2dFFvWFVWZ2QwZw?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 15:36:34 GMT",
-      "description": "Moderna says CureVac broke agreement by suing over COVID vaccine patents TradingView",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -193,10 +224,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Pfizer (PFE) Faces New International Patent Lawsuits Over Covid 19 Vaccine - Yahoo Finance UK",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbVhqQzU2b2RtXzV5RHNiN3VCNl9RWTZEaTZjLXBPR0JXaTFSTkthOXRZbU1ieXRCRC1GdEJsNFB5dzliTTJZT0tpUHRSLUxKNnUzaTVORHc5ZHhGX1VtVEdNbUxXQzBSQ2luUDJLM3NvVEhLRjdqUEk2TWhPVm1zMDh2bENRaVZ2cjFKSlBDdw?oc=5",
+      "title": "Pfizer (PFE) Faces New International Patent Lawsuits Over Covid 19 Vaccine - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMmsyMmhNQUJuOEZJM25Lbmkwd0tHR2lRNS1mS2lVOHZ2WmxSSTZTWnBYcUQxQUFqMHl5RjJEeWdnMDlVX0J2ZzU3UkY1ZDBZeUVuRFRSTWdDNFBOZUd2T2U2ejUzTG9KdzlDNThJRmdONi1obHFFQTdVNE56UDdSTG5UQThFRnNTOVQ2dno1VTRGeXJ3UkxZQS10bFlpWVk?oc=5",
       "pubDate": "Mon, 20 Jul 2026 15:09:41 GMT",
-      "description": "Pfizer (PFE) Faces New International Patent Lawsuits Over Covid 19 Vaccine Yahoo Finance UK",
+      "description": "Pfizer (PFE) Faces New International Patent Lawsuits Over Covid 19 Vaccine Yahoo Finance",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -271,10 +302,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Koala nicknamed ‘teddy bear’ receives first chlamydia vaccine implant - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ0NycWFHam43aXRuYjVDSEhISFIta2hWWDBHd0ZYM0xKT2pqVXB4bkREWUVUb0lGZnZhRmw1SHlxaEt2ZGlBOTdjb2xfR0ltUk9VYUp3ejNzZTQwN0ljelRYVDRZcHhBRGZpd1J0WFhrS0VJczlSYUZ2ZkxWWEZPYndRZ3BkRlUxY0d2UEViYkFNaDJoZGcwcUZ3?oc=5",
+      "title": "Koala nicknamed ‘teddy bear’ receives first chlamydia vaccine implant - Popular Science",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52cTRZdmlIVk05U0JaUGJWRHd6dWV3Rjc5RkIwanFpUEc5UjNCWnpjdXNqR0Zsb2trb3E2cXdmS3F6ekJVS3NSa19jTjMxZVNBNEItSlhxWEFpNWtobExPVXo3eExzSTBRbmtSX3dtb2FvYUJfNURGR0FObDlOQQ?oc=5",
       "pubDate": "Mon, 20 Jul 2026 13:31:00 GMT",
-      "description": "Koala nicknamed ‘teddy bear’ receives first chlamydia vaccine implant Yahoo",
+      "description": "Koala nicknamed ‘teddy bear’ receives first chlamydia vaccine implant Popular Science",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -596,19 +627,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "New malaria vaccine works in Africa, but there still are numerous issues - PressReader",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdUZOdE5Jd2Zja0cxWXYzc3VGVjRBVXdvZUEzUl9kRFhLZkxYQ0xxVkhjcWEtaFZ0WTJsTWk5aFF3UVQ2aXEyT3hYd0lTYjBtSFhHWFBMNVpJX2lrT3MzYy1vQUFOcXhuV1hEMy1PWjNDbkpvNWlwcE9BNzN3OWN5a0luZnBKYWI5aDB0dWhfcThPWW8?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 07:27:17 GMT",
-      "description": "New malaria vaccine works in Africa, but there still are numerous issues PressReader",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "malaria",
-      "vaccineLabel": "Malaria",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "BreezeBio and LigaChem Bio launch joint research on mRNA cancer vaccine - koreabiomed.com",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QRTlnal8tVFJPcTZoc1BKYkh6dWFtSVB5MGt3TlN6OGdrcWxtM1BXd3p4YjFfN1BhdU9rRGFIdVlmWGhBMVY0dzJ2NzBvVFc1blM3am5jcXI5WTZOOGhELS1jMlRRQ1BwWVoySTFn0gFyQVVfeXFMTTJiSGU3UUkzYXd3cC1yanlBM2NNdUtIVkc0LTJHdmtjZ1ZzakVBekhYUzBZcVoyUVBxZkYtTjQ2ajJITXJZbFJPYmNXdTlvTHBxWXppeXB5Q1JCczlHRjFDMUxOQU12ak5xNnZlUEF6WlVR?oc=5",
       "pubDate": "Mon, 20 Jul 2026 07:10:17 GMT",
@@ -700,19 +718,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Pop-up vaccine clinic offers low-cost pet care in Duplin County - WITN",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaTVTSnhNQU9hN0ZaWmhWUW83Tjd4dTVUMkVYLUhsckxEbTRVZ3BNNHZrczdhQ1ZXSlJ6U2haUzV6NkFMVHotNFpoTndfOXRMcXNCbnVBNzBoRU5BTFdPNFcyNjZwQVEyNHU1bVNoYk9FVGpoZXZnMTNNZUYxS0Rsc25uMWg0ODdjUTRSTjVyVHM5dXc4aFpRWNIBrAFBVV95cUxQajNYbTBQdVFuajhWcDEwbEJHaXpFT0FEa2ZwenJqaS1UYlg3b2drV1RPN1A3bEtMbS1YQzFwRXUwTVJiYXBXRXBzTkJhcWhWeldDUTBxdjdIVjB4SnVkSVROX094WmpITlJqREhfQU1kLUdGdktKRFpSWUpTLXpUejRQWWcxaG0wd1JnbGlrUUVoSnJhUjV0SnRwV3dZbUZHWVlTVmdEMXNnYmtD?oc=5",
-      "pubDate": "Sun, 19 Jul 2026 22:38:00 GMT",
-      "description": "Pop-up vaccine clinic offers low-cost pet care in Duplin County WITN",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Malaria Vaccine's Achilles' Heel: Its 4th Dose - Newser",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWTJsVlpXRHlPWmd0VjdJdldTdmZmYW5UaGw0MkhOY2RSZmw4WXl6MUF1REZWZDNMa2VPcTlNdmktZzFUQk1scDl2WmJ1aXhmSDlfSjg5YktfU3liRnpxSFMwUHo0dmFlV2RNd1lReWp0WGw1UlhQYTVOTG00STlwZ2psYVYySUNBbXVISF9xME1mMUN6UFhVWHpHelF2cWh3?oc=5",
       "pubDate": "Sun, 19 Jul 2026 22:00:00 GMT",
@@ -726,10 +731,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Texas school & childcare vaccine requirements for 2026-2027 - EverythingLubbock.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaG5YWmF3d1U3bXJ4LTBFR0l3WWlOZUQyc1Z4Z0pOZTdmZTByMUlZQ1dJUnZqWU0yb1BobDJKUWlDLW42ZXVlYnFmNldJYTRpTnA2TFN3cVo5czF5TlFwZWh1ZTlVcnZucmoxcjlQVmlGLWxqMFdrX0VTM0lPaTFTZG9fVk4xdlhKTUMxRW0tNDVfbHNfVE9hZ3p4eE5tRVRvOTJFYjNlejA4YmJV0gGyAUFVX3lxTE9zekh4R3N5clVHYmdXMF9Ud0J1Mkp3Z2Z1Y3pPNWhaa0hvMU1wb0lxT1FTcHVsc2NRSFgzVTFPcEUweUQ3dklRMGNGdHQ0bzM5T3ZQNGgzbHdXRjNubWxKR09aSGpFeXR2Y05YTVRTRzBEODg2VTEwSGhZc3JTOVRjNDRUSmk2Wl9LbVRFRXBlNWxLRjNJUU9CX2xYR3pLbDlsZXFuMUZYemZ5Skd5TnFPNkE?oc=5",
-      "pubDate": "Sun, 19 Jul 2026 19:52:01 GMT",
-      "description": "Texas school & childcare vaccine requirements for 2026-2027 EverythingLubbock.com",
+      "title": "Pop-up vaccine clinic offers low-cost pet care in Duplin County - WITN",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb0tfWm8wamoxOUNEU0hianMwWmc5X19RMlF1eEh3QmpNblREOUdDMUY5cklxSHp2U2gyRTNfMXdYT2JtQ21VXy1zdXhsRjVmT0FmVkZvM1hpbHZfd1R6enFoM3UzVTBBZk9NZDBRQnRta1NXSWNReWQweHZvYXl5cEJON2FlM245dDRjek9jLUR4NlZ1RWFua2U4QWdxTmll?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 23:17:00 GMT",
+      "description": "Pop-up vaccine clinic offers low-cost pet care in Duplin County WITN",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -769,6 +774,19 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZk1OZ0RWNGIzdDNudC1mVHJoaXJNa3hTdzJpMzVEYWs0ZnZXVE9CUFRlUVZlZTItenlhdjlCN29kTG5aQVVRSzI5eXVHdndYaUM2dkdxZlgxWDgxUlZrbGp6NFI1cmNQTE84SlB4Smx5YXdrWE9DUkk3aGNtZ3BxY3N1V3JFd2Vqa0J3cU5lVk14UTZsakxtTnF0emxZOEhqZ3ppX1cxQlI4enMtZ3pnZ205QUlDMjE3Tl9WS0I3RkZqRnFxeW9MRg?oc=5",
       "pubDate": "Fri, 17 Jul 2026 13:37:15 GMT",
       "description": "Pancreatic Cancer Vaccine Triggers Immune Response Before Tumors Develop Inside Precision Medicine",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Immunization News | Red Book Online | American Academy of Pediatrics - AAP",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9WS29FcDlhQk9rcUsyX0tlSHRqeUNsS0RsUm1MN2t0N2Uxemp6MDI4ZGlXWEhFMFZvTk94ZGd6T0MzYVU2TXk2M3NZaFNzZm9BRnp0YTBaYWxEQTBzdjRSbTBCMTR5X1BmYzY4U1lUdXd4SGxGQWp3UDV3?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT",
+      "description": "Immunization News | Red Book Online | American Academy of Pediatrics AAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
