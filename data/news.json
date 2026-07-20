@@ -1,10 +1,15 @@
 {
-  "updatedAt": "2026-07-20T13:09:19.369Z",
-  "itemCount": 68,
+  "updatedAt": "2026-07-20T14:09:31.104Z",
+  "itemCount": 69,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
+      "count": 2
+    },
+    {
+      "key": "flu",
+      "label": "Influenza (flu)",
       "count": 1
     },
     {
@@ -28,11 +33,6 @@
       "count": 3
     },
     {
-      "key": "shingles",
-      "label": "Shingles",
-      "count": 1
-    },
-    {
       "key": "dengue",
       "label": "Dengue",
       "count": 9
@@ -50,10 +50,62 @@
   ],
   "items": [
     {
+      "title": "Kennedy pushes controversial cuts to US childhood vaccination schedule - Межа. Новини України.",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lMXlCeXU5b055Ujd4S0d5cm9acE5vbjhacm5UMnJLR0ZOYVQ0a0JBMko0ODdtV3laM0hldmo3TVVobGNrYktQcDBDOVdDNkNSM05sVFBibG5lRHpTRWloLTJ4SzlVMHRJVDc2V09yTDZibHEt?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 14:03:45 GMT",
+      "description": "Kennedy pushes controversial cuts to US childhood vaccination schedule Межа. Новини України.",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "My Vaccine Lawyer Secures $229,845.14 VICP Award for a - GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNWE1oaFExOXZiS3A1elAyM3QwUkdNRE9YanZTSm1UR2VKUDRPX1dKczZwR09xRURDLW43Z1dILUdzWXRYeWVkUVdWYUdNazBMMjRCVDgwdEpjelY4V2h5WGFlaVpNQUktUGpYUVAzNEhFY0dWVjdoZjFHMXBJeUxjX1pWMFBSRHl6bXBLWm1lbEFGMVkzdDNicTcwNUZPN0xORTloV01qYVljVDNZRUtLZW5oYUhpejROQVFiSExzWEtmcG4zWTcwTnh0SVFlaGxCWUVGOFhlUklLRno3YmtYdXZzYmVCenJYRUZkTlN6QjlrNmNONWRVSlZudHF5TVJpa2tZeXdtM2hfUFNmSUh5TmptVTc1N0x0SHZZTnVoUWI?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 14:00:00 GMT",
+      "description": "My Vaccine Lawyer Secures $229,845.14 VICP Award for a GlobeNewswire",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Koala nicknamed ‘teddy bear’ receives first chlamydia vaccine implant - Popular Science",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52cTRZdmlIVk05U0JaUGJWRHd6dWV3Rjc5RkIwanFpUEc5UjNCWnpjdXNqR0Zsb2trb3E2cXdmS3F6ekJVS3NSa19jTjMxZVNBNEItSlhxWEFpNWtobExPVXo3eExzSTBRbmtSX3dtb2FvYUJfNURGR0FObDlOQQ?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 13:31:00 GMT",
+      "description": "Koala nicknamed ‘teddy bear’ receives first chlamydia vaccine implant Popular Science",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "HHS vaccine committee quietly gets new charter - STAT",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRzVQTUc1NnB1QnpYc2l1UzZ1akU5Wl83NFA0WmtFWWJXYXk4NmQwT210NjU4UE1kbll0TEdiOGkxOWlUSXQzV2UxUXdqLVVEa0ZRQTFzdlJYX2Z6cmZBemVvVHliZWVSaDFqUEZmSGE5MXBRcXRoTjFXa0Q3dTNDdUJKV0VLR25kM2cyRDhOM0dya0hqWUNfSFFTcw?oc=5",
       "pubDate": "Mon, 20 Jul 2026 13:03:34 GMT",
       "description": "HHS vaccine committee quietly gets new charter STAT",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "RFK Jr. promised not to take your vaccines. He’s making them unaffordable instead - Washington Examiner",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS2tmaFFmYm1JOEtkaW05Ym5waXVPRkprdFdGNUxpY21kbkJxdzRhdElSSjROLXNmYVlRSUZiNHAxRE5xVlo4WkhBcHJWejBGazVsY0tlNUFOOE02OTU0clc1ZTVlZXdmSnY5SHVpdzBBdFRLb2hHeGx4SS15eEdxN0x6S0ttSU5VeVB2NnMxZDk3SE5KQUE?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 13:00:00 GMT",
+      "description": "RFK Jr. promised not to take your vaccines. He’s making them unaffordable instead Washington Examiner",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -98,19 +150,6 @@
       "sourceLabel": "News",
       "vaccineKey": "dengue",
       "vaccineLabel": "Dengue",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "POZ Poll: Are you vaccinated against shingles? - POZ",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91UU9FLVVXTnhlNFNrdlp0Ni1iOTdQVWk3TVRsS0RrWVVyTndHQ251bWRDeUhRcGZySV9qZXFPZHNCcUh1YnpZWVNlaDNhU1ItdEQwakRBblJ2dVdidERKc3Vn?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 12:30:36 GMT",
-      "description": "POZ Poll: Are you vaccinated against shingles? POZ",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "shingles",
-      "vaccineLabel": "Shingles",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -323,6 +362,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Under 25s in England and Wales to be offered the new MenB vaccination - Warwickshire County Council",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd2k2TDAtM0Z5X0ZvOVBVaFl5MjFSaW0yVEtwT0V3eTRnbmNlYVVJVTlSMVIyUGFOMUFCMzdkbElpeWFVc3RORnBad1RYb0JsWXZMM29qSlgtLV9iak5FcFJ5akNmcUctSTZwUVFmblIzMmhOM29OYWszWmdqTG0wc2VJcjh6SmdoT280OU5nVTVudlhjeXFzSEtqUjVVd2pHTTgycjR5VXhEQUZSZVV6NVM1VUxGR3hBS0pF?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 08:34:21 GMT",
+      "description": "Under 25s in England and Wales to be offered the new MenB vaccination Warwickshire County Council",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "meningococcal",
+      "vaccineLabel": "Meningococcal",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "How Auto-Disable Syringes Make Immunization Safer - The Borgen Project",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NZ1VYc092Q2hPdUUwQnhrVi0ycng0LXdPMjNuZmxZS2VYQU1rQVRraktzSEZhOGpVbk43NnQ0Q3ltRVItVjFDLW03Yzk5U25jSmxSaGNnUnBaeDBy?oc=5",
       "pubDate": "Mon, 20 Jul 2026 08:30:40 GMT",
@@ -464,6 +516,19 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
+    },
+    {
+      "title": "Influenza Vaccination Reduces Pediatric Mortality Risk - Infectious Disease Advisor",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYUZGVHJkRjljVEpmamVSeGI2OUJBdklZS29jMEpCOTAzc1pUOE5fREU3ZnhKWHo3TjNyNVg4SWJNQVFWUElhLUVzSmxoZkJ1TmNGRzVRUmY2bEJaVTF3REFvdHBvYTdHTk9SdVZTa19PR2J1QzB1VGU3Q1ViRWMteWFTS3h3NDFGWFdrZGZsT1F6MXBjVmIwX20ySnBUajNIanBj?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 04:00:00 GMT",
+      "description": "Influenza Vaccination Reduces Pediatric Mortality Risk Infectious Disease Advisor",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Pop-up vaccine clinic offers low-cost pet care in Duplin County - WITN",
@@ -622,6 +687,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Westfield Health Bulletin: Encouraging news regarding a Lyme vaccine - MassLive",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdzlIT3l2dTA2aVpWVDVuWHdlWl9TeFRrampEbUVseGRJUDRHWWNYM3VxREZfMFhrRDdRMm9kbzNpOVZCNTVOT3dQeGFtVzhoVUVZLU5yVTZmb3kyZlNzX1BOVnUwbUZKb2lQR2d5TGkzWmlVWmI1U3Y1QmxnbjVkTFlNVi0xSjRaMDdSRDU4YWdlWnc5WWZpM3RZOWpfU24zZWJEQzNiclBxa0NTakpqXzVkOGdSTHIz?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 10:02:00 GMT",
+      "description": "Westfield Health Bulletin: Encouraging news regarding a Lyme vaccine MassLive",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "These are the new SC student vaccine requirements for the 2026-27 school year - The State",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5nUGljX2ZWMGkwQ3NnS2RWOVZWX1BNSVhqTkFtbkozS2V5dFI4bVhyaEdoWjJwaGxDOHhGT3ljaGxwVzFCcG5uTWl0eUJNSkRZVjN0VTFIaTU5ZEluckxobTQ3UEtfZWs3ZDIyQlcyQzZQQm93M0lra1BkTjjSAXxBVV95cUxOaGhVLUpxaWtzS25vc0NOaTF1YWR6aWo5Wi1sX3VpdW54eW5BeDFDVkYwQkpTSUUzR3F5TVRqRzFkQ1F6RVcxQWloS2hWWGFneEhTRy11Z0tNM1hyVlBST1VvYm9VV1g2NGlTd3VkcUFYLXMtMGliZzRhdFl0?oc=5",
       "pubDate": "Sat, 18 Jul 2026 09:30:00 GMT",
@@ -635,15 +713,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "Greater Birmingham Humane Society urges pet owners to check rabies vaccination certificate following vaccine recall - CBS 42",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQR2ZXelUzSWxLckVpVmVmVmx5MFFFX3BNNGp3alNkQXBWaUdZM1UwZk1mUUZZS0gxQmNXZUxLS1FDYmdpYUJob0E4OExQYzZIVHB6cFBpLWd2NGt6ZGNpbDN0anJ0VEs3SGRKaHhCUExlTlNBOERwVGNWb0ZXQ1R5Nzg5bkRCQ2gtNE9FTDlVNGR3c0JxSUUtRnJPQk11ems2b0toZGtiY3FtblRlMUh5a2w5MDN3MmFDV0xzREduQU1oYWljWi1VN09pejFZM24tWHdqdEJiQVdMclnSAeABQVVfeXFMT0RaTDViOXM3NXBrSHFMSGJkNkM1MkpJY3VDUDJqbTFmSE9RMFJWWDZKZlRDY2N1SVg0ZVdWbHZPX3FNbEpBNDJ0YUFsdTJXdHFDNmczME40WDVHaGo5NDJ6ZFZfLWJCUWVGV0lReU82V0dvYldUR2RXYXFtMFhHLXhETndNLWZzenROREJoZFB4ZEhZZ3AyZFJpNTlhbXV5SThFU2tyZVpiRkRKcVBVeU5ORGZQb3hpbWxIb0xHRWp0cjNOcXZfM0VMWV8tY0JNOFpZSWxJT3JnTzRldUV6anU?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 00:27:43 GMT",
-      "description": "Greater Birmingham Humane Society urges pet owners to check rabies vaccination certificate following vaccine recall CBS 42",
+      "title": "COVID-19 Booster Comparison Shows Higher Antibody Levels With mRNA Vaccine - Drug Topics",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX3ZQZUljdmZBR1lBeFkza1JxRTUwWUJ6dzg5SjVZbFZLdWFSTElLUTA5Y0IxZ3l5cmlHbzhwaU5tU3dzQkNEWk1tdTlkZzVOTEhlbDFWZ1N4eUpmckNYVWlocm9ERjVpZmdjdk1xNFJrT3ZUaVVJRGdkNHJ6TzN1QWxENG50WUczdXFVWW5YcnJvRy01ODZUUzlGMlZLYU90REloTHRXUUpYUQ?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 07:00:00 GMT",
+      "description": "COVID-19 Booster Comparison Shows Higher Antibody Levels With mRNA Vaccine Drug Topics",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -665,19 +743,6 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYlNQeDVMZEJEelNSWkNXN0prQ1hIdHZqOTVlaEpmeVVaR0dTeTVOOGNYZkktVzBNdjMxNG5XTU1jdnlqUWV3UHp6VzhtOFI1Snl5N1NsLUZaRjNmYkNWSndIdmhROHJYWmhPd1R4Nm1zblZzVmNBZWZlZE9HM1cxZHZQUzZUNktXM01ILTUtY3BwMGQ5QkdBUTV4NmhqZ21ESUdCZUY3WVlWLXQ5Zi0yNnNxSks3MXhIcFE?oc=5",
       "pubDate": "Fri, 17 Jul 2026 21:50:00 GMT",
       "description": "Hometown Health: New Vaccine Could Prevent Pancreatic Cancer in High Risk Patients WDBJ7",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Free back-to-school vaccine clinics available for eligible Placer families - Gold Mountain California News Media",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVk02NjEyLTRYTTYyWWV1cUZUbFNaTTVXVktYYjJDRUlIYlUwUFYzc0JtaFM3SmZMY2NPcF9Dd1Y3eW5FcmhvaEZkOHVDOUZGY1NFX0hiQmF2aXBYbFlJY2Y3SmlqVERpZ0pQTXBlaU5hU09aTGwwTFBwWmU4Z0lac0dMemE5QUQxSmtvWi14b1lCQ1dkd2NRcnFQRzBPNU5IekJBcHBUZjZQLWg1cFE0cDdRLWZGVGIxS0E?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 20:30:00 GMT",
-      "description": "Free back-to-school vaccine clinics available for eligible Placer families Gold Mountain California News Media",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -726,19 +791,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "KRAS-Targeted Vaccine Crosses First Clinical Milestone in Pancreatic Cancer Prevention - Genetic Engineering and Biotechnology News",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVHllSmN5cUZIY2N5M2pNWXY3Z1YxVVk2bk1zX1hkUHV6Z3lMYkJNUDVyaEd6OG1uUWtpOGJZME5qS2FoVUIzMHNndHZtQVByeDNKVlNFbzhSeFBadnpkM0VCZUM4ZkIyQ1o3RkVETFdkYjVaRGdTbVh0UjVKZlRYTTNoWm5fRTZFTVVsOTlOcFJ1Qm5Ham9sTWtxLWRjQ0ZNZE9meW1PZUtXaGR6WllTYUtRRXBMWlVrRHJFZmZ5dkM3OGtVdGxV?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 15:46:16 GMT",
-      "description": "KRAS-Targeted Vaccine Crosses First Clinical Milestone in Pancreatic Cancer Prevention Genetic Engineering and Biotechnology News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Frederick County Health Department maintains traditional childhood vaccine requirements despite federal changes - The Frederick News-Post",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQVXJGMW14eUZDVXN5REN0SUVpV3BBVzZBUEtVTndTM3JES3RCRXk5dHVPVXlIcmkxXzdsVlZwbVhELVFzRVhtdFRSNG5mT2IzZGtINGJXZXhucmc1X1lSTGFJYlVTMjBjVm9MdnctNmJPX2tKZjBuNnpGbTRQRXhVLTN1bTc0bmRBVF91SXR3Y0ZoYTRnU1NaTllya2xrX1dLM3JsRzZmTGktY0FldER2RXZnemtmQi0tcEZiY1dfTVJOMXpoenMzbFZZVXpKU2hxTlhCd3d0Y25UTUtEUlctRDY2X1RhUG5abWxoU2pXcWNIVFF4UXJ1UkpFeDc0XzI1TDBjQlUxYWJ4SDVwM01NdU9qdWhCS0pBY0QtU3RFNWlXcTZtaUJ4YXVkUHB5UFY5RVJBbA?oc=5",
       "pubDate": "Fri, 17 Jul 2026 14:01:00 GMT",
@@ -756,32 +808,6 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZk1OZ0RWNGIzdDNudC1mVHJoaXJNa3hTdzJpMzVEYWs0ZnZXVE9CUFRlUVZlZTItenlhdjlCN29kTG5aQVVRSzI5eXVHdndYaUM2dkdxZlgxWDgxUlZrbGp6NFI1cmNQTE84SlB4Smx5YXdrWE9DUkk3aGNtZ3BxY3N1V3JFd2Vqa0J3cU5lVk14UTZsakxtTnF0emxZOEhqZ3ppX1cxQlI4enMtZ3pnZ205QUlDMjE3Tl9WS0I3RkZqRnFxeW9MRg?oc=5",
       "pubDate": "Fri, 17 Jul 2026 13:37:15 GMT",
       "description": "Pancreatic Cancer Vaccine Triggers Immune Response Before Tumors Develop Inside Precision Medicine",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "JCVI issues recommendation on adolescent MenB vaccination in UK - Pharmaceutical Technology",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbG1na1NaS3VlaG13c1U3b1EtTUlfR2hTeUJsRU5rZkxDa2ZUYTZsVHR4eTZnQXdaT29fWGZwWXplanAyUTljM2RiXzRMTEdacHJZVjJKeGJuVDA0STZwcWJ1elRERlFDSDEzTnRzcnV6MDdpMWl6WjBtZjM3ZG5VYTlwR1UwMi1uRTB3dkQ5d1QzWW1fejI2QnFlbw?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 09:10:52 GMT",
-      "description": "JCVI issues recommendation on adolescent MenB vaccination in UK Pharmaceutical Technology",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "meningococcal",
-      "vaccineLabel": "Meningococcal",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Pancreatic Cancer Vaccine Stimulated Responses in 90% of High-Risk Individuals - Technology Networks",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZXhxVlVRRGUwcEN4NVdiWTl4VFBGdnFJWE9hTTdSTEhrdEVtbU1jYWhIRUprR3RuUTg5UXlEcGp0X1JfRzRUcGtTY1BEUWlPQm9zR0h1aXBrOHlRZ25sVURQTHhJQTM4Sjkxbkcyd1JaWEVxdUxORjRqZGh3R0dPb1Y0clREajlBandUUll6czlaZjFLaFk5V3U3aEdVZkJ1UEpUaVYzdUtnOUpFazhrNHpTaVBOY20wSXBJd2gyOGoxOUhPY04wVkhSTHZoOW1QU0N0X0JDUjI?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 08:43:06 GMT",
-      "description": "Pancreatic Cancer Vaccine Stimulated Responses in 90% of High-Risk Individuals Technology Networks",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -821,19 +847,6 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR21rd19VaDBNVXFtNS1HclJTNDgyc2FRU18wM3NzWEZpRE5lWEIwR1lVT2NRNDh2eHZSOE82ZmM4NThodjF1LXZtR2NWTnQzc1RaOXBHYnhobnlYQWNDUDlvX1VxbUQ4akRSWmsyVUtQMl9aRFF0bFJQNVlLb05Ea0JRSHVtMklyckZ6MW5BbmdieUtaa2piLXdVVG1oN2pjdmRIZ211Q1hYMS1EaVc1aDBmMzNOY3pSSHRjNy13?oc=5",
       "pubDate": "Fri, 17 Jul 2026 03:30:00 GMT",
       "description": "Offer teenagers a meningitis B vaccine on NHS, advisers tell UK government The Guardian",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Modest Gains in Global Child Immunization in 2025 - unicef usa",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQmdLM0tPMFhoVnVJNTY0d3RsYWJfd2lPRDZ4M0Rpa3NlZnZhZzZ1V014NjJlZEZvb2JxbnozN2QxRENhZVpDdDY4MHFQV2x3SWx1TjhqSFlZNjB5UThkeE9PV0w0aVdGeGtrdHRMbGVxbm1nNEJVT21iUVgyOVZyNlFtcw?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 23:09:02 GMT",
-      "description": "Modest Gains in Global Child Immunization in 2025 unicef usa",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
