@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-20T09:32:53.917Z",
-  "itemCount": 67,
+  "updatedAt": "2026-07-20T11:23:30.561Z",
+  "itemCount": 68,
   "groups": [
     {
       "key": "covid",
@@ -10,17 +10,12 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 2
-    },
-    {
-      "key": "hpv",
-      "label": "HPV",
-      "count": 1
+      "count": 3
     },
     {
       "key": "meningococcal",
       "label": "Meningococcal",
-      "count": 5
+      "count": 4
     },
     {
       "key": "shingles",
@@ -30,7 +25,7 @@
     {
       "key": "dengue",
       "label": "Dengue",
-      "count": 5
+      "count": 7
     },
     {
       "key": "malaria",
@@ -45,10 +40,101 @@
   ],
   "items": [
     {
+      "title": "Vaccine to Prevent Pancreatic Cancer Shows Early Promise - Medscape",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOajJIN0NJMDQ4SEZOOFFrVWZnUVVnbGdzVHBnOUdFQWt0RjU2dVNGLU91YVJ5b3F4VXE5NTBUWHNKUjNmUWZZLVBvSFBJdkNwZWxheXhpZXhmWjV5cWFFSFVRR1FNMjZHLXE3VW9VUWVXWXo4WjJTeW5kOWpNcTlxZHVweDQxRnctMHM4LUNUNWNZZHlQbm1haEhCLXVBSTJORU1nRjBR?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 10:37:24 GMT",
+      "description": "Vaccine to Prevent Pancreatic Cancer Shows Early Promise Medscape",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Japanese vaccine becomes 1st vaccine approved by India to fight dengue - Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY0ZFbXlzeWk0NHRRa2NfclI1NE9aU0JqQ2Vmd1FKSFhFeWh6S0s3MUtsS0NwdzVCTzBfUmprRzIwdThCdXZ6cnphcDBKX1Rsd1UwenJ4SllJX1pqdER6aHgzSUw3OUVnaEQwX2JHajdtZ3FIeHU1RHZLeTFfNmZhWnhacFFidEQ5Z2N0V1RxdXhXcUVPQTQ0NU5QMmlrZm1fM1lmeS1NUEhrcjlWUDRhdnE4cGxnS1k?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 10:37:01 GMT",
+      "description": "Japanese vaccine becomes 1st vaccine approved by India to fight dengue Anadolu Ajansı",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Experts urge closing vaccine gaps as measles deaths continue despite nationwide campaign - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ2Nia3Jwa2FBbEE3UkRhRmRfdVY4SW5wNGE5RFkzYmx4ZWdzLVFQYnk0M1cxOUFORDNhYURxSXBScHJSVVNHbGVwMExUQW9tREJDekVmd0puTjFTV0o1NXdJb3hBalIxNlluSklpaHcwREd5clFVZTh3cDRVRmZRUFlYT0Q0c1pVSDVHRkxyREVEd1BiNUpYNU40b28xUHBHMzRrU0d5N0pNRWFqTTloOTEyRGliX0J0eWfSAb8BQVVfeXFMT0ptVmpaZWMxV3dSbWphYUNmRFFUMkJmTkNVNXhoMmdfWENwRUZuUDVhRlhSc3BmRWJoLW5qeVZYLTdIN3ZuRnZsdlFlQWxMTXlxTXlYd1dSNF9zRE1FWHZqVERnaWhwNGNmWFJXSEdoN0JsclBPUTJmWXE5WmlGUEhPMHpZMWtWUjZyUE9wbmpwZ05KdGk3MzlldVJsY0tfRk1KS3pvTVlCeXNnMlp5NkZ3R19kRW03Vlg2bFFEWkE?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 09:58:36 GMT",
+      "description": "Experts urge closing vaccine gaps as measles deaths continue despite nationwide campaign The Business Standard",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "More children receive lifesaving vaccines as Indonesia advances immunization coverage and works to close remaining gaps - World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNUTdtUE1YeVB1bUZnbXl5bmNvcEZ1N3RON1p2Y1I1VktaYXlZSzNwbTZfdTl5VkRrbmJYckUzd01tcXFjYXdGX0RFamVxRWI4dk1FU2s1WGRWYmcyM1hkVWlUaklhcC1sX3h2YTZzNDkzMWFKenhIeVh1U2FhUWZqbElYMUxZS3RHbExFejk5MHZuU19nOE1FbVU0TFRaOVZHR2IwOVRGVUVhbXIyUzRoSGFuUFdqdlEtSXBCV3RZeWU1bmRwaU1nYlJqLVpaQXZzbFVLZlQ4MWRxemFhaWU4R3FGOTNaekZ3VUtMSnNBblAxU2Y2eDE2c1JXbDM4dGk1cUE?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 09:40:08 GMT",
+      "description": "More children receive lifesaving vaccines as Indonesia advances immunization coverage and works to close remaining gaps World Health Organization (WHO)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "New measles tracking dashboard from Pa. Department of Health shows more than 100 cases this year - 90.5 WESA",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVkZxNnFBdVlULTlKUmcxb1BPV1M4OWpoS1JUbWlEbTZxaUptR0l4dkNjdFNXUTgybmxfU3l0dnluUmRjVktZdDMzZkxqTFQyeWN0Rm9xdlkxZ1kwZk1oWFlpaThJNGJtRXFjbEthMGRWenVvSW56dExwUS13TGhTd2FReFlOSVJWcmNScndZcHNUdGJwT1BXdUpB?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 09:31:00 GMT",
+      "description": "New measles tracking dashboard from Pa. Department of Health shows more than 100 cases this year 90.5 WESA",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "India’s first dengue vaccine approved: DCGI clears Takeda’s Qdenga for those aged 4 to 60 - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZEhXMkQ5dXJWQjVFdGRpZV9qYzhiVXcyN2s4NVZURFhiWVBZc2p3RUlNQkJHMktCZkNoZ0Z5SmRtbjM4S2VGRlFxZW1SSjJkMjQzcnFUd0dxaXRfSmptcTZBSV9nd3dma2x3Qmc2MGhvMkttSndXMExZWUc5OGJzd2dPRHNZOWlEb0lmOWtwUEo0QjA2WF9qTXh2d2RIQVU3WTE4X2c2cEo2NGRxMXd5VNIBtwFBVV95cUxNVmNnTERELW1wZmRGampDM091LWsxSi1JMWV1bmd1ekgzRWM5RjlWQU9VSWxtejBodTJJTXNkeWN1dG9aVkpkeHJqZXlOX3R1aDMxWUF2MmE3dHBvN3JiNmJSVm50RVNzSjgxVXM0Q2JXNk92RjVMeVdlN2VQOXNOSkliRXBDU1Q4djFudVQxM3pEZDNnY3J4SGh1ck15LU8yRG9fbnc5Q0Y5alZwa25MU0tfYUNhRzg?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 09:26:40 GMT",
+      "description": "India’s first dengue vaccine approved: DCGI clears Takeda’s Qdenga for those aged 4 to 60 The Indian Express",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "dengue",
+      "vaccineLabel": "Dengue",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Fractional Vaccine Dosing Could Stretch Supply Without Reducing Protection - Technology Networks",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbEYtVVlaeTduUFhBTjdYVlpWWklVQkF5MTJ0ZC1XQWRsYXhDX1FqLW1Rc2tsaDRxcFhKdGlZWmdJZ1RhZGx6LWVtYnkwWDQ0TFJ3QzY4bmFvRzJMek1UUm5xVk04cXBGbFNqSV80YUtBcXhRcW50ZjhFbW1WOXRkV3o5SVZDY29yTWpvNkdzckxUVU83TnllNUNkRmY5XzV2cmhVeC1jUzZQTkRKM1VkN0x4WDhnZ3dVTzB0S1Q3aHQ2QQ?oc=5",
       "pubDate": "Mon, 20 Jul 2026 09:11:15 GMT",
       "description": "Fractional Vaccine Dosing Could Stretch Supply Without Reducing Protection Technology Networks",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Why Security companies can’t create an invincible Vaccine against Ransomware - Cybersecurity Insiders",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbVZ3S2U1ZGVyZDZyaFlENGVONXBoMDZsZS10TzdPV05uZE81bTFzOG96SlZIRGRHZzY0Sm1HUkFlWlBNV25oU3B6MHQxM21Id3FEVEtvV0llQzZiOHBLeGQwNS1iWnN0MnpmbkgweWhKNUlUQW1SX0NWT0QyejVrcWotNm1hSnk2dzRNMUU3THZCQlkxMWFjWmhPUmt4QmRaVi1BSzMzMmtMSm5JXzB5MFRiMm5JUQ?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 09:06:16 GMT",
+      "description": "Why Security companies can’t create an invincible Vaccine against Ransomware Cybersecurity Insiders",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -175,9 +261,35 @@
       "articleLabel": "News"
     },
     {
+      "title": "Takeda Pharmaceutical's Qdenga (Tak-003) Becomes First Dengue Vaccine To Be Approved In India- Statement - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWnFLRUQxc19rQW9jWDUzWlNrMUI0OVlMa2pOTDk1ZFRkMkNxb1VWbkxBV3dDNmRDUDM3TVJjamJEVWlVRHRjMGFXVHRnbFAwd3NBdnYxNjE1MmRRRFlYMGpUMEtvbmdwa0VESVFuSTB6a3A3Yndfa2NoMFNqdEdUczB5SmVubi1FZnhicktrSXd2TE0wenZXTXh2d203eFV3OUtqYkotRmRaVjRBeUVNVFB6dWZVVUtMNmJKWE04R1NZZHVFY01hZG9QWjhPYTdxTGhhYjE3MWR3QnRqQkpWWDZVSzlIbTdwS1dKUEdNNmFDdllIM1JNb1hYb2FvSTYx?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 05:45:00 GMT",
+      "description": "Takeda Pharmaceutical's Qdenga (Tak-003) Becomes First Dengue Vaccine To Be Approved In India- Statement TradingView",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "dengue",
+      "vaccineLabel": "Dengue",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "'My son died of meningitis - young people must get new jab' - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51VkdCLWxZdTBWUHNJOGd0aGlOblhxN2FxVU9NR09uMmJOVkFBd2JmMFdvbzhxcmJnOHJXaWN0dEFrSUlTWVl1Nm40TjZQdlRJdWZoN0J3dzZXZw?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 05:31:09 GMT",
+      "description": "'My son died of meningitis - young people must get new jab' BBC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "A Pancreatic Cancer Vaccine Shows Promise in a Phase 1 Clinical Trial - the-scientist.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV1hnZ25sT1pwZlV1amFkVy1qYmlhNk1VLXVvZkpCYmhzVlZOYVFURzJkT25tVnZzcTRZdy1USVFrS2ZxSVhnVFczbnRweDRuVGV2N05nU1pFeE9GdXhrXzdiNmpUUVZMSXJXb05ZTUo3cUlJS0VqOXhEdmVFSVJFbjZlajVZd0VBeG1YeFVPUFQ5YlJQNThrOTNsTDRzRDQyOExHelZoMXI?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 04:02:18 GMT",
+      "pubDate": "Mon, 20 Jul 2026 04:05:24 GMT",
       "description": "A Pancreatic Cancer Vaccine Shows Promise in a Phase 1 Clinical Trial the-scientist.com",
       "source": "news.google.com",
       "sourceType": "news",
@@ -218,19 +330,6 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaG5YWmF3d1U3bXJ4LTBFR0l3WWlOZUQyc1Z4Z0pOZTdmZTByMUlZQ1dJUnZqWU0yb1BobDJKUWlDLW42ZXVlYnFmNldJYTRpTnA2TFN3cVo5czF5TlFwZWh1ZTlVcnZucmoxcjlQVmlGLWxqMFdrX0VTM0lPaTFTZG9fVk4xdlhKTUMxRW0tNDVfbHNfVE9hZ3p4eE5tRVRvOTJFYjNlejA4YmJV0gGyAUFVX3lxTE9zekh4R3N5clVHYmdXMF9Ud0J1Mkp3Z2Z1Y3pPNWhaa0hvMU1wb0lxT1FTcHVsc2NRSFgzVTFPcEUweUQ3dklRMGNGdHQ0bzM5T3ZQNGgzbHdXRjNubWxKR09aSGpFeXR2Y05YTVRTRzBEODg2VTEwSGhZc3JTOVRjNDRUSmk2Wl9LbVRFRXBlNWxLRjNJUU9CX2xYR3pLbDlsZXFuMUZYemZ5Skd5TnFPNkE?oc=5",
       "pubDate": "Sun, 19 Jul 2026 19:52:01 GMT",
       "description": "Texas school & childcare vaccine requirements for 2026-2027 EverythingLubbock.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "'Drop Dead, Bobby!': Larry David Goes Scorched Earth On RFK Jr. In New HBO Show - HuffPost",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU3BRSWJfOUk3dkZ2U0ZQY0JPU2xlMTZKZnFtRkdpUlJ6amY5SkZTQndwc3haM2EtNHBMVUhVNUxDNTFsVGVjNndwU3dhSjJmdjRLV0JnWE56aUF4NEU2S3dBR0wxU2d2dnRlZjdTRjV0RGJoNFhiMmVxRXUyU2VaTEVlVXVKLUZYVmd2V1ZNZW9uTUk2MEV1cdIBngFBVV95cUxOZVNPVkRwM1hHTExMSmgxNDJWdUxvbU0yTUVpRTJ3UTB1V0gzajlMNHozVGloeUh3LTJGT1I1dWlEdG5sZF9DVGlOR2NYX2p2TXdqRmItQ2hrRU9wdlhobTlCWnMxV2lwbnNha3ZZd1VGbkxLVFdsbWhwdW9ua3dNNDEwNzdLUDVReFQ0cjBEbFJmZzd0dlhJbDBtRWphUQ?oc=5",
-      "pubDate": "Sun, 19 Jul 2026 17:36:16 GMT",
-      "description": "'Drop Dead, Bobby!': Larry David Goes Scorched Earth On RFK Jr. In New HBO Show HuffPost",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -604,19 +703,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "New health assessment flags infant mortality, HPV vaccination gaps as key challenges in Douglas County - WOWT",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMkloTXNNNUd3ZDBqalYtSkF6WVNUeTRVbFlDV01MNk9UNG02TUZzYjkwaE1WaExQTjc3WktSOE1PSTJtSUlFbnJyYmNzelU1cEE5dHkxN1pLTFBpUDhjbFhmNC1odWM3allwZXhUQkNseEloUGgzOC1jTDlUdUhGTmdGOUc3bWVBR3hFREp5X2RHb0JuZHVOTkJKREI0RjZBT29vZy1WVTBBbnBLd3RJeERtUEFCZnZkRE5abHVzVlNoQ09wWm400gHbAUFVX3lxTE45c2VZeTdyZVpTS1BTdGk3U1NsVnhYa1ZVNzFPN2ZlSEgxUmFsNjZwSXgySnkyc24xVmtDWnR0MVVlaV8ydU5vNmlRYUZnWGJtMVhxbHV0cm9JSk5UQkVxc1VmTDA2a1dDR1lkbjA2QTNqMDY2a3FzOE9EYkxSbFYwQmkwYkFfOEZUMHk5c3NRSkJvQ2lkSUpxbjhtZU54ZnZidmJXRHRRdFRaQmJpcWVEY01SaTFsSFZGVG5ZUVFPbGV2cDdYd3MwMU1kTTU1aFpWT1lDdEllS2dNZw?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 22:27:00 GMT",
-      "description": "New health assessment flags infant mortality, HPV vaccination gaps as key challenges in Douglas County WOWT",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hpv",
-      "vaccineLabel": "HPV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Super Shot, Inc. to host back-to-school ‘START SMART!’ vaccine events - WPTA | 21Alive | Fort Wayne, IN",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWlB6b0Z6TS1wS1o3bmpIUGQ0UXJ3Y09NWXlLcTFvaFd1RldmS3FTV0JxaGhLVlU5WGk5aUY1YXRKR0ZrMjE5VWYyS2V6dmk3eEVGQXY5Um00T05nVG9jTmxjUm5ST1lqNjItQ2JXdkYyZ1Y5S1UzajBBc1BqU1RXM2xJOGh6a1VBUXZnTV9CQ3RBdFBFQ3FQR3h3c1BHZkh6bWZ30gG3AUFVX3lxTFBKdG1ZVGdWTGlfYzFwX3NsWEQxdkdwWTlWbzNzMG5zaWRzeXBqT0FNWDVJZjl3MWdGdXFKYXJXNE9GV2VSVzI3dEZ6NDdaSW81d3BLaFJNTnpPOVpZbk5ReVlHa1BOSjQ3NWh0cGpNTWc0Z2hMRmFsSC1sbUtxQjdLOWhfRHFpX241LTk0U1A3bjd0dy1wdDl5elR1c0toOW1neU85OVRubVhwQnIyNmE3WTRjOWRIUQ?oc=5",
       "pubDate": "Thu, 16 Jul 2026 21:59:13 GMT",
@@ -721,19 +807,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "MenB: The vaccine young people shouldn't miss - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mazUwNkVsd1NfUVpHWjY0YU5lbk9VQkNyN3dIRUtpSFNBMEUwd3Vlc3dtWDljTnhNaFlsemRZTlEwNExSVUZmTFBGRGwydkZhekM4QUl2VQ?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 13:54:19 GMT",
-      "description": "MenB: The vaccine young people shouldn't miss BBC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "meningococcal",
-      "vaccineLabel": "Meningococcal",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "JCVI publishes new recommendation to Government on adolescent MenB vaccination - GOV.UK",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdUpTc2RzMTY5VEdPR01PUzdDcDdqZ1VBNERxYktydDJvZGpkbXl1RGNKbzBfSVJ2OXpaRVZ2Uy1xMDJZZ04zVFVzNFBFaWt0dmtBNHZMOHpZV1VfVURQOVJKWlVDZ2trLWJ4RjNNRkRRWnFxNEk1VUV2c2ZGZW4xOF9EZDdMZmhoTUZmUlh2VUU3MUpEVnFvQ2R0NllUcG85RUJkYld1RzAwMzB0SVNVclJaMA?oc=5",
       "pubDate": "Thu, 16 Jul 2026 13:25:31 GMT",
@@ -773,19 +846,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Could A Vaccine Prevent Pancreatic Cancer In Those At High Risk? - U.S. News & World Report",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWUV4V1MtNzZmYTg1bk5zSmlVUVo4cUU0dHp0MmxqeHBIS3pKbVduQXBGQkN4LUdNNW96SXU5U1pOU2RGVGdXV0pXMUFMc2F3aHBCeWpEZzJvdTVxZ3JzZXlMdHI5akpDeHNIajZYQnRtTTVXWlVyXzNTdm5ieEFxSVQycHFYRnZid2pYWktWTW9jcjdwT0llaC1QOU1vOGQwU2pmYkNUQzBOamVEak9oUzU0ZmYxdGpTLXlCbHZ1c1k?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 11:04:22 GMT",
-      "description": "Could A Vaccine Prevent Pancreatic Cancer In Those At High Risk? U.S. News & World Report",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Inside RFK Jr.’s push to dismantle decades of U.S. vaccine policy - CNN",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03M2tQajFtNTljaFU1N0xOekhBb1RyM0Q1QzZ3RlpZSGV6amhuT1Z5SjdsVXl3X0FCVlpvX1BBQVpOQ0ZaR3hDRzVjTFpVWjRMWjlsWWdRcVRCeW13bDE0WkhTM2s0TUhXbEFr?oc=5",
       "pubDate": "Thu, 16 Jul 2026 11:00:25 GMT",
@@ -812,19 +872,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Slight gains made in global childhood vaccination rates, says new report - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZXJGNU5PbVNoZE5RYUlSVDVrYjRpOG5EVEYtbG94LWY1TW9zUFp5VUxVbFRUWS15NkFtWS1RZEtaZWlZajFqaE9adUpnU2tZSlFVZzY4c01jdU1LUGpKSlpLand3bWs4LUczdkMxd3p4QlJVQ3l1dG5tUk10cjJqTGlQbkFtSHRTdzFGaV95OGF6R2N0MHpGSjJmdTg5RDJvYXZTM0NIVXVRVDlibzZ1Vi1YNGM?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 20:13:05 GMT",
-      "description": "Slight gains made in global childhood vaccination rates, says new report CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Panel to study Pentagon’s COVID vaccine mandate, troops dismissal - Military Times",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaWNXMkNNUU51R2poSWs5WWdoSjB6OHdNVlZtWC1KZk0tU3hjbDJ1eWZ2R1JRU3VhX3AxV1RrbmwwTHVwNFpoS0Nab1BNajlWUFB3Rm13bDFNXzEwRzEyNndSY2xkd1FnN01OeGs2QktLUkhBWDVxUTRjQ0NsSDAxQU1TZ2hGU2FxWXR1VWViOGx0LWx4Z29EZDhfbUkwamw1YnpDSm1zUE55SWxUby1STTdBV05QM2ppdS1KSmI2VWlBV3VuUklz?oc=5",
       "pubDate": "Wed, 15 Jul 2026 20:07:01 GMT",
@@ -836,32 +883,6 @@
       "vaccineLabel": "COVID-19",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "Cassidy grills Trump nominee on past vaccine comments in heated exchange - STAT",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPejc0TE9HSy1hUnpLQ0hNYUI4N0wxa3FLU2VjeDA3aXRhQ2RLOEFGSFdBN1hrbkQxdnAzbDgtM1hiRksxUHlhVVhqaEI1VjE3aF9nZGxEWENBRC14ODBoYkloSlo2b0RDOG1fRlRkZDBOdE8tNWgwQXFYOU5YV01iaThWTllXbW9ndU1raW5mcmQxY2toU1M4d3MxRWR1TXdNMTBhZUhnMzVsSDg?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 17:59:09 GMT",
-      "description": "Cassidy grills Trump nominee on past vaccine comments in heated exchange STAT",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "WHO and UNICEF estimates show routine immunization has rebounded in the Americas, but declining measles coverage leaves communities vulnerable to outbreaks - Pan American Health Organization (PAHO)",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObGdicVZ6b2tZRjhDQXRNY3NoTVQ1cmMzbnZHOVZXdDZCMFdoVmxrbC1FQ0FleVVZTU1IRWpnMnFvREktN3huUmIwMnY1T1BLOW44eWtxWkdNQlZtcFpIei1QTlMxeDVCck9CcmFJd3hacjl3NDVGQm5iZlZQdGd6OWZKdDBwdXFvZVpNSEdURHBrT1RmU3V3N0ktMzBzSkVzMU81UzBtbm9tV09UVjVRc3pjVzduTkpJQXltQ29ZMA?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 12:38:55 GMT",
-      "description": "WHO and UNICEF estimates show routine immunization has rebounded in the Americas, but declining measles coverage leaves communities vulnerable to outbreaks Pan American Health Organization (PAHO)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "Childhood vaccination rate increases slightly, but millions remain unprotected - UN News",
@@ -894,19 +915,6 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY0JFVnF1eXRxVFZpOGFIVkNETXI1RGlxV1BkX3ZXZEZFNzh5a1ZTQTMyY0t1MDhuX1pjWFRVUkptU2Z3bG14OWw3M2xES0NhM0cwRU52a1daaWxKZDI0M2hlcG1LUUJBZHZOR1RvR2ltV1NyM2xBQktRRDNaYmtFSEttWjdENUFDRFNUWWF3TFZ1V1dMaGNNZ0xtVm9SV1VHeWtUVE4tZzZra2pPSHhkMHN3THJnb0lIbXA2cUFLYXprTFMzVmxEMnVOZmpYVkMwNVYxTjZR?oc=5",
       "pubDate": "Wed, 15 Jul 2026 00:59:25 GMT",
       "description": "Global childhood immunization coverage inches forward despite conflict and hesitancy – UNICEF, WHO World Health Organization (WHO)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Rep. Smucker Introduces Legislation to Modernize Vaccine Injury Compensation Program - Congressman Lloyd Smucker (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORzhzdUxOcXI4WjliNHoxWUcxQ1ExUHdqYUJpb005ZmQtQld5VDJQSlFfWHF3OXJwY0I0LW10b3BvQjVPRzF4cDBCb0JDMng3TU5yUVVtelF2N1ZtWmx4WlhkR3FYa2I4XzVCSFZMeVV6Z1dibUdMZEUzdTNJdU1CTjdQMHZsbXg1LXIzRHpUcDYxSWV2dzdxNUV6VGtZQ3RsaTRQa3YwbnI1dHFYRjZTMUFqQkFwYzZvUUxV?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 15:29:27 GMT",
-      "description": "Rep. Smucker Introduces Legislation to Modernize Vaccine Injury Compensation Program Congressman Lloyd Smucker (.gov)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
