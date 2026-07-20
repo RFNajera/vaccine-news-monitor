@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-20T16:01:55.623Z",
-  "itemCount": 69,
+  "updatedAt": "2026-07-20T16:55:13.952Z",
+  "itemCount": 62,
   "groups": [
     {
       "key": "covid",
@@ -20,17 +20,22 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 3
+      "count": 4
+    },
+    {
+      "key": "polio",
+      "label": "Polio",
+      "count": 1
     },
     {
       "key": "meningococcal",
       "label": "Meningococcal",
-      "count": 3
+      "count": 4
     },
     {
       "key": "dengue",
       "label": "Dengue",
-      "count": 9
+      "count": 11
     },
     {
       "key": "malaria",
@@ -40,10 +45,88 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 45
+      "count": 33
     }
   ],
   "items": [
+    {
+      "title": "India approves first dengue vaccine as cases surge in South Asia - The Telegraph",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUDZfUlozMF9ramk2OUo1NnBRQi1MN1ptcktRVUh6aFZXczN1bmFNTm03cGIwN0dKd0o1ZVlvNmhTTGNoTXNTa0NncGZWdEFLdjl1QkY4S3lrQXN1UExMR2JsNVQtOGM0OUNkazU3ZER2WU90cFZ2U2l3dEwzVlJKY0ladTlEcEpSc3R3OGFuV0lzOURhb1NLMFlWaFFLTnpkS0IxRGhFMExfekJnVy1hMC1rX2FOR0VReTJaWmh5QQ?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 16:44:00 GMT",
+      "description": "India approves first dengue vaccine as cases surge in South Asia The Telegraph",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "dengue",
+      "vaccineLabel": "Dengue",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Larry David tells RFK Jr. to 'drop dead' in sketch comedy show on polio vaccine - kmph.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRF96RG1GMkctdlE2bk9aQ3l1c1hHbEwweEhQQmFCZzNycHZyR0JVUTh5Vmh6cjB0REgtM0F5ZVlVVXZuSWFaVmhBX2RPYWN5R2dDdW00UV9OTWc5SUJmNWxKYUpMWkd0NUJYdlJpakNFaDk0eGRGcUJzSU5ZTHdTSmVqSTU5dDBKZm1GMFVyLWlkVWtzRDRxLWRPamNwbS0tWVdaUkRaSXFSNDhydEtVeklWbmk5RDNubXo3bXhSSTBTOG1xb3BJWDlGbDJMV19ramE1ZW9uajE?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 16:40:19 GMT",
+      "description": "Larry David tells RFK Jr. to 'drop dead' in sketch comedy show on polio vaccine kmph.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "polio",
+      "vaccineLabel": "Polio",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "MMRV Use May Reveal Vaccine Access Gaps - Conexiant",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOFFlN2dSb0NSbFRSTWU0QlNjZWV6aGN5TDFIWjRsbVFsRUFWNG5sSURIRDRLVWlqaVF6NjJCM1kzVUliNnp0R09YQUVzaF9YU3FLMUNFdkp6NlpnRW8tOGFmelk3LVNSVXJjUnNndDVoeUktTDl0SUhyQ1pjYnpnS1lRcmF5V3hSSVFDeGhWNWJIVy1QNlU0bXlpc0ZFNzJTMzZ0SQ?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 16:37:18 GMT",
+      "description": "MMRV Use May Reveal Vaccine Access Gaps Conexiant",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "DCGI clears Takeda's QDENGA, India's first-ever dengue vaccine: Full details inside - WION",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQlNsVUg3ZllLd3VRLVpMQVZodTFZLTZzamd4YVdkbDhIcERqblhjWUJzMzQwX21Zb2xzTDJXVlNENHE3STVlcWVXcG9IX2FyOFVtZE0ySEQzS05JRVRrQ1NDdXFJWUdRVTVrYklIMHUteG1FU2ZMNUxZdXUzaXpQUlZRY19oMVFNRS1iZlFVaWhSQThDSW5ZSzZ4bXQwZl9OaEliZ3l2YldvSW55VWw3cm9rUUlJRFFrcF8yaENpVU13WTV0Tm9SUWdn0gHPAUFVX3lxTE1WbTdsb3l6bXFVZUFHR1MydG5leHJ3d2FlVmtRd3Z6clRyTE5pNzVuZXNER3VMbjV4RDR0U3otTXMzRVNuRV9iNzZzaHdqTTBUbDlWTDFjck5ZbG11VGVIUGhKa1hiNGZ4V1BUd1J3YzNjUUJNVEZ5MkYwVG5Hc3RmX3ptRVdrOVloRm9sb01RNkxQcl9nUnRjUDE1LVRUcXlOZWRhU2pwS1E2c1BiREgzT1RuNXBRQ3RyZzFOS3RQczg0SWo0V0c0dXlIcHRwcw?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 16:33:00 GMT",
+      "description": "DCGI clears Takeda's QDENGA, India's first-ever dengue vaccine: Full details inside WION",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "dengue",
+      "vaccineLabel": "Dengue",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Southern Nevada Health District Offers Free Vaccination Clinics for Students Before School Starts - 102.7 Coyote Country",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUDMyV083bm40Y2h1UGxEb2dGaXR6V1V4cEFHT3BwZ2NxVVU1eVRkOGNGb0MtbWFsMFRGeVBEY09nQmg2cFh3TWVGU0hRaWh2Nm5tREJjVm5leWU5alc0OURLdm1MRF9IcGNXcmoyMHdkOEhMM3Fsc2xyeDhXNU5qQ0l1NGIwbGxOTXM5OTlpdTZUTEU1bEtrSFQzV1A3aEFTdkRuUkp0UjJKT0RRY2V5aEZPMFVUaXlfZzlSNVZBOW5FenNDdEhVWGd0TndzUF92cHBv?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 16:32:32 GMT",
+      "description": "Southern Nevada Health District Offers Free Vaccination Clinics for Students Before School Starts 102.7 Coyote Country",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Bereaved parents urge young people to get MenB jab - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hTmthRkVFMVQyR1IyMk9TbXRSNjJDVTRhTVVMVmh6aEgwWk0wVzRiZGUwNVZaUWNvTWdCVnJadEJvckVmUUFmRVZ2MXRTejlUZjRwUTJOT1A5VTNI?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 16:26:20 GMT",
+      "description": "Bereaved parents urge young people to get MenB jab BBC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "meningococcal",
+      "vaccineLabel": "Meningococcal",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Column: Cook County offers free immunizations as number of unvaccinated students grows in south suburbs - Chicago Tribune",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSURzMlgwVktEMEVjbWp3azJoN21LZTNIb1lIcmNMTGl1ZFpyQlpWRThWdllabFdRd0UwdFgxeHE2a2swb3Y1NE1tYTd6dVY1cTZrSVBHUHhzLUJ6UUdRbVQ4WnlSVXNhR3E0MGJFRExvbUVSSEhaZlpFZjFxckhVVG5TRGREejhPRlE?oc=5",
@@ -71,15 +154,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "Student urges meningitis vaccine uptake after coma - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc2duS3p6RkhGeHJBWFpLXzlWeFlaRmR5YUVXeWJFS2tDNmI4a3M2Q1U3UlVyVjZIcXdXVG9XMS1HR1pHMW1MR29DcUtDWm55YjBCNzdMZUszWktmNGJRY0J4UmI2dmJ2QWZhaTFrWG15OHdGNHNPODluckc5MjlKTXNQSU5xZVY0R2RCd2RGZkxwRVBfckVnTA?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 15:41:34 GMT",
-      "description": "Student urges meningitis vaccine uptake after coma Yahoo",
+      "title": "Moderna says CureVac broke agreement by suing over COVID vaccine patents - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS2lySlE0ZXZESnUzUjBtR2RUZGJoUFZDNExBV09GcVBKRDVGQ2hGMUJoWmlBOXhyeWtzSkNaVEkwR0U3LW9FTnUxY3VqZV8zVVh6SE1NTC1nVERXdkZ6YVNRaUxqbWVSVlduNmQxaEdYYXZoWUtnZFp1WWttWTVyNndTUld5Z1ZwLUhKeWZEMVI0TGM0cFhjaUJFbDkxbEdsQmxqZjN1a2Jqb2tBcHZLR0NTTGlHeWJjWEdYLWVGSVFqSHVOczJ6TUdER0ZQelB2dFFvWFVWZ2QwZw?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 15:36:34 GMT",
+      "description": "Moderna says CureVac broke agreement by suing over COVID vaccine patents TradingView",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "meningococcal",
-      "vaccineLabel": "Meningococcal",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -513,6 +596,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "New malaria vaccine works in Africa, but there still are numerous issues - PressReader",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdUZOdE5Jd2Zja0cxWXYzc3VGVjRBVXdvZUEzUl9kRFhLZkxYQ0xxVkhjcWEtaFZ0WTJsTWk5aFF3UVQ2aXEyT3hYd0lTYjBtSFhHWFBMNVpJX2lrT3MzYy1vQUFOcXhuV1hEMy1PWjNDbkpvNWlwcE9BNzN3OWN5a0luZnBKYWI5aDB0dWhfcThPWW8?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 07:27:17 GMT",
+      "description": "New malaria vaccine works in Africa, but there still are numerous issues PressReader",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "malaria",
+      "vaccineLabel": "Malaria",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "BreezeBio and LigaChem Bio launch joint research on mRNA cancer vaccine - koreabiomed.com",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QRTlnal8tVFJPcTZoc1BKYkh6dWFtSVB5MGt3TlN6OGdrcWxtM1BXd3p4YjFfN1BhdU9rRGFIdVlmWGhBMVY0dzJ2NzBvVFc1blM3am5jcXI5WTZOOGhELS1jMlRRQ1BwWVoySTFn0gFyQVVfeXFMTTJiSGU3UUkzYXd3cC1yanlBM2NNdUtIVkc0LTJHdmtjZ1ZzakVBekhYUzBZcVoyUVBxZkYtTjQ2ajJITXJZbFJPYmNXdTlvTHBxWXppeXB5Q1JCczlHRjFDMUxOQU12ak5xNnZlUEF6WlVR?oc=5",
       "pubDate": "Mon, 20 Jul 2026 07:10:17 GMT",
@@ -643,140 +739,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Tsetsegsaikhan Batmunkh: New Mongolian Study on COVID-19 Vaccine Immunity Duration - Oncodaily",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DdjlRTW5qc2NWWXl4bGJBZFdHeWtDWHpHejFzWWFjVTd2aXFpOFQtdXJLMl9SOEdUUXoyOXpQelNSSWZJdkNsM0pHN1dsQ19GOGFYc2t2TTF2RVVjLTZld0I4WXpvRmZNbjBMUQ?oc=5",
-      "pubDate": "Sun, 19 Jul 2026 13:22:35 GMT",
-      "description": "Tsetsegsaikhan Batmunkh: New Mongolian Study on COVID-19 Vaccine Immunity Duration Oncodaily",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
-      "title": "To trial or not to trial: Veteran vaccine advisers say vaccine clinical trials alone don't tell whole story - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcGVMZUNnTHNvVGx2Mnh3RGNhYzc0NmpYRU43VzBndi1KUlZQeHJZQkdNYmJpNm11dWZSdHQyb2szamtFcUNKNTFQa0loNndQZ3EtcjJYdk1Gc0lnQkNEcEpaNmpMMC1jY0VtejRIUlFrZXR4b3hNSnV2RzBVYXk4U2g5M0NEUGl6?oc=5",
-      "pubDate": "Sun, 19 Jul 2026 08:57:10 GMT",
-      "description": "To trial or not to trial: Veteran vaccine advisers say vaccine clinical trials alone don't tell whole story Medical Xpress",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
-      "title": "Cayuga Health Dept, SPCA to Host Free Rabies Vaccination Clinic - Finger Lakes Daily News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQck13UWw4NG1Za0dROWRTM3pHSGRnRlFNZG5GWEViMzlTc0NmNmNDRFloQTk2LTJ5QVRXZGFON1hFUTlOQXp4YjZQbndMUWc3ZjY0eDkxZUVINmR4VzJpZlJOblplTDdzMVV4QVpiUmcwejdRTldOcGpkR0xIXzVJU3BEUC1Ka1FrWms0VG1yMFpZQ0VmUHFkMko4dmZEZEtObHZiZmMwRS1yQQ?oc=5",
-      "pubDate": "Sun, 19 Jul 2026 04:08:51 GMT",
-      "description": "Cayuga Health Dept, SPCA to Host Free Rabies Vaccination Clinic Finger Lakes Daily News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Amarillo Public Library, city health department to offer free summer vaccination clinics - KFDA | NewsChannel 10 | Amarillo Texas",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa29GREVsWDN1NGRScF85QzNuMmM4dlZjNFVJMExoT0s2bmRVOU1QVmtFRFE0dlcwWFpwWXFWVU0yQmNBTHFvOVpFaGlZV29VUE1NRG8wNGZDNENOb1IzTFhzV3VBX3V1dzhDZUUyWUNoc3lpVUdJS3NXOG5wTjBORVFJZ2dxWW91Y3ZSb0dnVktWd2ZYVWFpakc4cTJrYkpxN1l1ajRrYzdoeVhkVjhqTHFzcjVYeGlCeEhOTnBxMktqNEdu?oc=5",
-      "pubDate": "Sun, 19 Jul 2026 04:07:00 GMT",
-      "description": "Amarillo Public Library, city health department to offer free summer vaccination clinics KFDA | NewsChannel 10 | Amarillo Texas",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "An Idaho mom charged with murder says vaccines killed her twins. Doctors say it’s not possible - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOczdiTmItZUJxNlhWS21NMUFSUHRmcFFHTXNKVHJVa3QzWTBCMnI2bmZVZ0xYMGhnVzluQzVyOUN4djVJbERfQ19iNWJtUkw2SVZ0QS11bDNwaGFQaVlFRFIyVWJDSFNNOGdfZUdqMnZVeWtNeTNlRVczN1FhNHFIekVZY25DbkJH?oc=5",
       "pubDate": "Sat, 18 Jul 2026 21:43:00 GMT",
       "description": "An Idaho mom charged with murder says vaccines killed her twins. Doctors say it’s not possible The Guardian",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "A New Strategy May Finally Put An HIV Vaccine Within Reach - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcU51WWhEUHE4UmNheUF6eDhSSEFwYXd1UVd2N19FdC1ORWtpYjA4WDdSYXQ5YU9KUWdDdGZySm9EVEczVlFJVUZPUmUyQWI5eTNidUxCS0F6Z045N0pkR1YwSDdsaHluSFBpUjJsNDR2Yzc1V1ZmVklIRkR5WXdyNHh3aHRHTlJTeG53UHF1enpONEpGYjlJUTZxdWNRNjVhYWhUOUJsRzhZaVZad1FaVU5tV1o4Y28?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 18:29:00 GMT",
-      "description": "A New Strategy May Finally Put An HIV Vaccine Within Reach Forbes",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "The New Malaria Vaccine Helps in Africa but Faces a Test: Completing All 4 Doses - MedPage Today",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HQ0lsWlMybFdlOWI1elVEUmVZV3VtMjlEZUFGcm5PUGVQWVMzcnZnUnVPcXRSUF9STEJkOWxDTmJqb0pUVGhxTmw2ZzV2eEVRU3N4U3k0cTg2ZDJUejFlemNhb3lyOGdVbXNlUDhlZw?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 14:01:14 GMT",
-      "description": "The New Malaria Vaccine Helps in Africa but Faces a Test: Completing All 4 Doses MedPage Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "malaria",
-      "vaccineLabel": "Malaria",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "New pancreatic cancer vaccine - CBS 42",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiVVZLTHo3X29KTzhFdXpremVIWVRmMTBjcDNqY05BbUpnQWN5Q25XNGZGUUJHWDdVeVVRYUF2a0UwcE53dVhEbm13czc5WFlpcTVrZWRCS3lQTVJuSFVPelphcEhBNWZnalZOMmlWT0ZDWGxwSkE?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 13:28:16 GMT",
-      "description": "New pancreatic cancer vaccine CBS 42",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Wydeven | Australia makes vaccine to keep koala population safe - The Post-Crescent",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQenplMlZGVmtyYTdHVnlhYkVXem9jckU2WDZTaWdXUWJ6cENQS1drb3RmSnVabEEzQlZPZkVmWXlWY2MzV2ZrMU1mRnVZem5rM1RkR0NoMmd6OE9XTGVtYXhqZS1iYVJZQ3V6ZFNDU3FQejBXRW1PbTh1WXJxQlgxWF8tM0o2ZlJfODdNc0h1Qmx4YUtvRW1CdHhaZnV2UnpuT1Zva3VQVnliU1ptQ09Fc09tRE80aXpHT3ByWjRfUVAydk1XWEJHMg?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 10:02:00 GMT",
-      "description": "Wydeven | Australia makes vaccine to keep koala population safe The Post-Crescent",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Westfield Health Bulletin: Encouraging news regarding a Lyme vaccine - MassLive",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdzlIT3l2dTA2aVpWVDVuWHdlWl9TeFRrampEbUVseGRJUDRHWWNYM3VxREZfMFhrRDdRMm9kbzNpOVZCNTVOT3dQeGFtVzhoVUVZLU5yVTZmb3kyZlNzX1BOVnUwbUZKb2lQR2d5TGkzWmlVWmI1U3Y1QmxnbjVkTFlNVi0xSjRaMDdSRDU4YWdlWnc5WWZpM3RZOWpfU24zZWJEQzNiclBxa0NTakpqXzVkOGdSTHIz?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 10:02:00 GMT",
-      "description": "Westfield Health Bulletin: Encouraging news regarding a Lyme vaccine MassLive",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "These are the new SC student vaccine requirements for the 2026-27 school year - The State",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5nUGljX2ZWMGkwQ3NnS2RWOVZWX1BNSVhqTkFtbkozS2V5dFI4bVhyaEdoWjJwaGxDOHhGT3ljaGxwVzFCcG5uTWl0eUJNSkRZVjN0VTFIaTU5ZEluckxobTQ3UEtfZWs3ZDIyQlcyQzZQQm93M0lra1BkTjjSAXxBVV95cUxOaGhVLUpxaWtzS25vc0NOaTF1YWR6aWo5Wi1sX3VpdW54eW5BeDFDVkYwQkpTSUUzR3F5TVRqRzFkQ1F6RVcxQWloS2hWWGFneEhTRy11Z0tNM1hyVlBST1VvYm9VV1g2NGlTd3VkcUFYLXMtMGliZzRhdFl0?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 09:30:00 GMT",
-      "description": "These are the new SC student vaccine requirements for the 2026-27 school year The State",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -799,75 +765,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Free Thurston County Back-to-School Immunization Clinics Scheduled for August - MyNorthwest.com",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcl94U1hRc09oRy1fMkxweU12UDdoWHBGTFh0T3JsSmlXMFpGUUdxUkoxNGdEWGg4SkN5dGdWQjdXU3R0Q19pYjEzb2tWdENaVGZ4dVQ2empmeUFWajlzRXlhR3pwWHlKMjEwV2dKU2pEMWtaOVlDR1FOZzktaWtfUDRzNGtocThzNkliajhsUTAxNFYyd0cwS0txcU8wN1NpZVhuUmhaVER4VU5IclNJT1Y1bjd2YmIybHg3RnNmLVpUaXFmMkNEMVE2UQ?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 21:55:00 GMT",
-      "description": "Free Thurston County Back-to-School Immunization Clinics Scheduled for August MyNorthwest.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Hometown Health: New Vaccine Could Prevent Pancreatic Cancer in High Risk Patients - WDBJ7",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYlNQeDVMZEJEelNSWkNXN0prQ1hIdHZqOTVlaEpmeVVaR0dTeTVOOGNYZkktVzBNdjMxNG5XTU1jdnlqUWV3UHp6VzhtOFI1Snl5N1NsLUZaRjNmYkNWSndIdmhROHJYWmhPd1R4Nm1zblZzVmNBZWZlZE9HM1cxZHZQUzZUNktXM01ILTUtY3BwMGQ5QkdBUTV4NmhqZ21ESUdCZUY3WVlWLXQ5Zi0yNnNxSks3MXhIcFE?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 21:50:00 GMT",
-      "description": "Hometown Health: New Vaccine Could Prevent Pancreatic Cancer in High Risk Patients WDBJ7",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Political polarization drives surge in anti-vaccine legislation across the US - News-Medical",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS1pNQmstclpDWDh5WXUtRDRZTEJOcmhjVWhZRGx1OEtEU2Y2TTZIUjg1VlY3TUY1SDAyb1l6ZURQYzhmRm5oY0E0eWxFMnUzRXdHdFZac2U1cDN6ZzdFSDl4V3JQU1JxTVk3c29ZVHRqeGIxWHpTaU91TUVhSVU3U2ZzZHhieHZ3UU9oUnBYY3ZPZUJrR2lmRFpUa3dPTmFsZEJFQmZ2RkJ3VXlvZEF5cmhJTEVVSE5CWWZkWnlVeUVPeDA?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 19:48:00 GMT",
-      "description": "Political polarization drives surge in anti-vaccine legislation across the US News-Medical",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Frederick County Health Department maintains traditional childhood vaccine requirements despite federal changes - The Frederick News-Post",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQVXJGMW14eUZDVXN5REN0SUVpV3BBVzZBUEtVTndTM3JES3RCRXk5dHVPVXlIcmkxXzdsVlZwbVhELVFzRVhtdFRSNG5mT2IzZGtINGJXZXhucmc1X1lSTGFJYlVTMjBjVm9MdnctNmJPX2tKZjBuNnpGbTRQRXhVLTN1bTc0bmRBVF91SXR3Y0ZoYTRnU1NaTllya2xrX1dLM3JsRzZmTGktY0FldER2RXZnemtmQi0tcEZiY1dfTVJOMXpoenMzbFZZVXpKU2hxTlhCd3d0Y25UTUtEUlctRDY2X1RhUG5abWxoU2pXcWNIVFF4UXJ1UkpFeDc0XzI1TDBjQlUxYWJ4SDVwM01NdU9qdWhCS0pBY0QtU3RFNWlXcTZtaUJ4YXVkUHB5UFY5RVJBbA?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 14:01:00 GMT",
-      "description": "Frederick County Health Department maintains traditional childhood vaccine requirements despite federal changes The Frederick News-Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Pancreatic Cancer Vaccine Triggers Immune Response Before Tumors Develop - Inside Precision Medicine",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZk1OZ0RWNGIzdDNudC1mVHJoaXJNa3hTdzJpMzVEYWs0ZnZXVE9CUFRlUVZlZTItenlhdjlCN29kTG5aQVVRSzI5eXVHdndYaUM2dkdxZlgxWDgxUlZrbGp6NFI1cmNQTE84SlB4Smx5YXdrWE9DUkk3aGNtZ3BxY3N1V3JFd2Vqa0J3cU5lVk14UTZsakxtTnF0emxZOEhqZ3ppX1cxQlI4enMtZ3pnZ205QUlDMjE3Tl9WS0I3RkZqRnFxeW9MRg?oc=5",
       "pubDate": "Fri, 17 Jul 2026 13:37:15 GMT",
       "description": "Pancreatic Cancer Vaccine Triggers Immune Response Before Tumors Develop Inside Precision Medicine",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Immunization News | Red Book Online | American Academy of Pediatrics - AAP",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9WS29FcDlhQk9rcUsyX0tlSHRqeUNsS0RsUm1MN2t0N2Uxemp6MDI4ZGlXWEhFMFZvTk94ZGd6T0MzYVU2TXk2M3NZaFNzZm9BRnp0YTBaYWxEQTBzdjRSbTBCMTR5X1BmYzY4U1lUdXd4SGxGQWp3UDV3?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT",
-      "description": "Immunization News | Red Book Online | American Academy of Pediatrics AAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -907,6 +808,19 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdUpTc2RzMTY5VEdPR01PUzdDcDdqZ1VBNERxYktydDJvZGpkbXl1RGNKbzBfSVJ2OXpaRVZ2Uy1xMDJZZ04zVFVzNFBFaWt0dmtBNHZMOHpZV1VfVURQOVJKWlVDZ2trLWJ4RjNNRkRRWnFxNEk1VUV2c2ZGZW4xOF9EZDdMZmhoTUZmUlh2VUU3MUpEVnFvQ2R0NllUcG85RUJkYld1RzAwMzB0SVNVclJaMA?oc=5",
       "pubDate": "Thu, 16 Jul 2026 13:25:31 GMT",
       "description": "JCVI publishes new recommendation to Government on adolescent MenB vaccination GOV.UK",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "meningococcal",
+      "vaccineLabel": "Meningococcal",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Teenagers from 15 should be given free MenB vaccine, say UK experts - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KaHhEWHlVaFZVR1UtYW41SXYxLVFoaEpJSlF2RDV2SU5qaVVvSEhNemsxQ0pxY2kwcmtKSEJZX3d5aDdKcklzdEpybDdER0xIbklhSWx6NGR1VU0x?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 13:13:40 GMT",
+      "description": "Teenagers from 15 should be given free MenB vaccine, say UK experts BBC",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
