@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-20T05:39:43.747Z",
-  "itemCount": 65,
+  "updatedAt": "2026-07-20T07:31:12.997Z",
+  "itemCount": 69,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 3
+      "count": 4
     },
     {
       "key": "measles_mmr",
@@ -15,11 +15,6 @@
     {
       "key": "hpv",
       "label": "HPV",
-      "count": 1
-    },
-    {
-      "key": "pneumococcal",
-      "label": "Pneumococcal",
       "count": 1
     },
     {
@@ -38,17 +33,48 @@
       "count": 1
     },
     {
+      "key": "dengue",
+      "label": "Dengue",
+      "count": 1
+    },
+    {
       "key": "malaria",
       "label": "Malaria",
-      "count": 2
+      "count": 3
     },
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 49
+      "count": 51
     }
   ],
   "items": [
+    {
+      "title": "New malaria vaccine works in Africa, but there still are numerous issues - PressReader",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdUZOdE5Jd2Zja0cxWXYzc3VGVjRBVXdvZUEzUl9kRFhLZkxYQ0xxVkhjcWEtaFZ0WTJsTWk5aFF3UVQ2aXEyT3hYd0lTYjBtSFhHWFBMNVpJX2lrT3MzYy1vQUFOcXhuV1hEMy1PWjNDbkpvNWlwcE9BNzN3OWN5a0luZnBKYWI5aDB0dWhfcThPWW8?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 07:27:17 GMT",
+      "description": "New malaria vaccine works in Africa, but there still are numerous issues PressReader",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "malaria",
+      "vaccineLabel": "Malaria",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Takeda's QDENGA becomes first dengue vaccine approved in India - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaVEtNHhvZmVTNG5tOWFEdTVaQTVUdUZKYmNoOXFMVFBSYkVDNjdpSFIxcFR6U3NUUnJ4VFA1a3Z5REg2MFFjTWZUSEhDSU5EMkVvdDZmdkNMZW0tbG05YklMMXA0ZWZWd2U5TmdpNWx0TDdXUF9KM3BkczcxZjlMOVBVNGtjWTVxZUVoaTlVUlFIa0RYemRnX3dEMmFzWGRsTkU1QkhONzZHZzZBM3NGWWExLTlxbjBrNTc4dFlJZm9BSURvSks1R3R3?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 06:01:00 GMT",
+      "description": "Takeda's QDENGA becomes first dengue vaccine approved in India Reuters",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "dengue",
+      "vaccineLabel": "Dengue",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "A Pancreatic Cancer Vaccine Shows Promise in a Phase 1 Clinical Trial - the-scientist.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV1hnZ25sT1pwZlV1amFkVy1qYmlhNk1VLXVvZkpCYmhzVlZOYVFURzJkT25tVnZzcTRZdy1USVFrS2ZxSVhnVFczbnRweDRuVGV2N05nU1pFeE9GdXhrXzdiNmpUUVZMSXJXb05ZTUo3cUlJS0VqOXhEdmVFSVJFbjZlajVZd0VBeG1YeFVPUFQ5YlJQNThrOTNsTDRzRDQyOExHelZoMXI?oc=5",
@@ -193,32 +219,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "GBHS to provide free replacement rabies shots for animals vaccinated there after vaccine recall - wvtm",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNXJxRUtsazBMOEJyUmpTY1JTNWIwMmRzV0c0UVRiQVlUVjgwOWZmU1dlMlpOYS1JRkhtbDdzTHlyXzl3a0tIXzY2aTBsREMzSFRQNXB1MHBwbkhhZUtRR2pabW1UUThybWJMWjZOUFB3dkRPenR3aVEtYnh6Z0pZMlJiaE95OWhDdVNBWkx0UQ?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 17:57:00 GMT",
-      "description": "GBHS to provide free replacement rabies shots for animals vaccinated there after vaccine recall wvtm",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Larry David Takes Jab At Cheryl Hines' Husband In New HBO Comedy - Deadline",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XdEtzVUJPWUlKYWc3ZmI5VE5yUnRMUW5BTnJIZFBsUUFxWmZwRGJCcl9lYmVVOHFoOTJSR3FGMTFXNkV1NkdVZ0pkNmh4eUZkaER6M3dEeUl1OTd3T0l1dFF0bmo4c25wSHNNVzBMdlR3WU05aEJKWGFn?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 16:30:00 GMT",
-      "description": "Larry David Takes Jab At Cheryl Hines' Husband In New HBO Comedy Deadline",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "The New Malaria Vaccine Helps in Africa but Faces a Test: Completing All 4 Doses - MedPage Today",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HQ0lsWlMybFdlOWI1elVEUmVZV3VtMjlEZUFGcm5PUGVQWVMzcnZnUnVPcXRSUF9STEJkOWxDTmJqb0pUVGhxTmw2ZzV2eEVRU3N4U3k0cTg2ZDJUejFlemNhb3lyOGdVbXNlUDhlZw?oc=5",
       "pubDate": "Sat, 18 Jul 2026 14:01:14 GMT",
@@ -336,15 +336,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "Lowered Pneumococcal Vaccination Age Has Yet to Close Awareness Gap - Drug Topics",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR2UzNGhUdTBEMG1mYnZ3MnRiallQc0NxZlBsZ3RNQlhqSHhvSllxVXNGbGcyLV9yRUYyR3QwdUhhNUdCSzEzcEtxR1JRQW9nLXB4VllxREwwb3BOSUxHWmVSX05leEVGODBNVU8xX29CTkJQbEVuaVBvLWpvM05SWno2RlNobFhqZkppTGNwZFl3XzZkSnR5ZVBJZGZicy1R?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 17:08:24 GMT",
-      "description": "Lowered Pneumococcal Vaccination Age Has Yet to Close Awareness Gap Drug Topics",
+      "title": "230 troops discharged for refusing COVID-19 vaccine have rejoined, Pentagon says - Navy Times",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOb2EtRXFCSjgta0VQUER5NkpkSk9RV3RHT0d6VXRkdDdOdUJoSGNuUmhrR3RJRUpIUVY5M2N4VWtEeThKUTFBQkhsZjBpRjUteUE3MWhYRm93SkJBLWJJX0tnVWlOMVZqWHk0akd0SmFpemM4ckdLdEE2LW9QdXlVd3NLTDVGaTByV2hZQUI2Q0lIOWRRMUl5aUU1blA3N0ZjSmxyUERnaW9CQTlCU050LUlCMjRtaDY3NHNFWHNpQTVmeUNiRFlnbFJlV1JkSjN4b0pCVjBFZw?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 18:44:04 GMT",
+      "description": "230 troops discharged for refusing COVID-19 vaccine have rejoined, Pentagon says Navy Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "pneumococcal",
-      "vaccineLabel": "Pneumococcal",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -570,36 +570,23 @@
       "articleLabel": "News"
     },
     {
-      "title": "Central Shenandoah Health District partnering with Sentara Community Cares to offer back-to-school immunization - Rocktown Now",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMFpHSlNRZUs0MVU4RXVUWXpFVHNRUkh3alJqdjdOUEhfTkJaQUtZOVRTRTNULWdtcllFM2kwalAtSkV2cG5LUHhmMEE5dFVRVGhkRG9rcHJiSUFvTXY5eERQUTgzMk9GcmdMNmNJVFRXTUducWRUeVlCemlZcTU3UHZPS3k4UlRMRW9xY08tSm95STNqYmJBWkV2NG9RQ2N0SllaNDg4eHNEWklfajdFWU41RUJpd0Mwd0dtbGxfUUljWkpTQjRLMFFRX2kyZFoxRXZGM1Z6NFliVFVaUmlZMVJ3?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 19:56:53 GMT",
-      "description": "Central Shenandoah Health District partnering with Sentara Community Cares to offer back-to-school immunization Rocktown Now",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Johns Hopkins Researchers Advancing KRAS-Targeted Pancreatic Cancer Vaccine - Precision Medicine Online",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeTJsVXNqSWt3ZnVKZU5DWHBxUVZkZmF1WklEam5kTUwwTGo0T3NJR0k1aDJsR3JyQkNEa20zNFJlcWxMbGx4eGg0WDZLRDRib295RF9PbUw0RHRJT1FjTC1lLXpIcklEVTA1Qm9HaWVRRmZ6WG9zQ0FoYklRdW9kd01kNFZBTUpDUlhXbnhhWDFadGZrV0Q1VGtRWFBwOENVX0kzc0lKVE4xVFZScDB1TzVVWFR4WE96a2VDSUJua3RfZmhMaVJnWVJfajRNMnM?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 19:30:31 GMT",
-      "description": "Johns Hopkins Researchers Advancing KRAS-Targeted Pancreatic Cancer Vaccine Precision Medicine Online",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Senators press CDC nominee on cyclosporiasis outbreak, vaccine policy - Chemical & Engineering News",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPamt3SExNcm5XbjRfM0dHaklqQUpNbWI5M3M1QmxYR2pfUWd3aFlLOWRmeV9rT2FKQUI4R0FZWmVqV1Q1bjNweDJNZm5MZk1ILXBsbEQ5aG1oT3ZHaE12ZUZJY01zOVRWTUN2Tld1Q2p3WTNkMXhVd09uWU9wLVZfdXZtSmN4Z2V0dVM5azFlWmU?oc=5",
       "pubDate": "Thu, 16 Jul 2026 16:16:21 GMT",
       "description": "Senators press CDC nominee on cyclosporiasis outbreak, vaccine policy Chemical & Engineering News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Children Vaccine Levels Rise But Remain Below Pre-Pandemic Levels - 700WLW",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWNwME1NTDJKY3FzM0phb2NrNTNadmNsc2JxNUxFUGpsN3F1MWFaUWl4ZTJRc1lXbjhtQkQzZnM3SXJtNzdOSDNlMzM0NjFxRGNFSGNWc2RqNzdYTHBlLWpEbzY2M04xYjZjXzVJNTA2QXNjamdIWjM3aGtZdXNvTzIzZnJQSFR2MWdoQjVUdWItUW0tWVJ1VDhaSldZYlJRUjM0RHR6SkNtUmtqUzVJOA?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 16:15:00 GMT",
+      "description": "Children Vaccine Levels Rise But Remain Below Pre-Pandemic Levels 700WLW",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -713,23 +700,23 @@
       "articleLabel": "News"
     },
     {
-      "title": "PA launches measles dashboard as Lancaster County leads in cases - WGAL",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUEtCdno1Wm9YOFhtT3VyYk0zT0o1SHJ5T2M5QjlQTjkzeS1DU3JMNllJUFpVZVJtbi1GbVhyRHFHenRNS3NoamZDNnZYZl9NMEdOWWN2b1pXY0l2X0J4OHVjOXRXVzVNOXlWY2diQ2V0SWkzNTBQbE5jX3d0SG0zemVmY2lPVUZtMVNjVkptbHQ2RURJWkE?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 12:05:00 GMT",
-      "description": "PA launches measles dashboard as Lancaster County leads in cases WGAL",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Could A Vaccine Prevent Pancreatic Cancer In Those At High Risk? - U.S. News & World Report",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWUV4V1MtNzZmYTg1bk5zSmlVUVo4cUU0dHp0MmxqeHBIS3pKbVduQXBGQkN4LUdNNW96SXU5U1pOU2RGVGdXV0pXMUFMc2F3aHBCeWpEZzJvdTVxZ3JzZXlMdHI5akpDeHNIajZYQnRtTTVXWlVyXzNTdm5ieEFxSVQycHFYRnZid2pYWktWTW9jcjdwT0llaC1QOU1vOGQwU2pmYkNUQzBOamVEak9oUzU0ZmYxdGpTLXlCbHZ1c1k?oc=5",
       "pubDate": "Thu, 16 Jul 2026 11:04:22 GMT",
       "description": "Could A Vaccine Prevent Pancreatic Cancer In Those At High Risk? U.S. News & World Report",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Inside RFK Jr.’s push to dismantle decades of U.S. vaccine policy - CNN",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03M2tQajFtNTljaFU1N0xOekhBb1RyM0Q1QzZ3RlpZSGV6amhuT1Z5SjdsVXl3X0FCVlpvX1BBQVpOQ0ZaR3hDRzVjTFpVWjRMWjlsWWdRcVRCeW13bDE0WkhTM2s0TUhXbEFr?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 11:00:25 GMT",
+      "description": "Inside RFK Jr.’s push to dismantle decades of U.S. vaccine policy CNN",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -791,6 +778,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Slight gains made in global childhood vaccination rates, says new report - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZXJGNU5PbVNoZE5RYUlSVDVrYjRpOG5EVEYtbG94LWY1TW9zUFp5VUxVbFRUWS15NkFtWS1RZEtaZWlZajFqaE9adUpnU2tZSlFVZzY4c01jdU1LUGpKSlpLand3bWs4LUczdkMxd3p4QlJVQ3l1dG5tUk10cjJqTGlQbkFtSHRTdzFGaV95OGF6R2N0MHpGSjJmdTg5RDJvYXZTM0NIVXVRVDlibzZ1Vi1YNGM?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 20:13:05 GMT",
+      "description": "Slight gains made in global childhood vaccination rates, says new report CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Panel to study Pentagon’s COVID vaccine mandate, troops dismissal - Military Times",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaWNXMkNNUU51R2poSWs5WWdoSjB6OHdNVlZtWC1KZk0tU3hjbDJ1eWZ2R1JRU3VhX3AxV1RrbmwwTHVwNFpoS0Nab1BNajlWUFB3Rm13bDFNXzEwRzEyNndSY2xkd1FnN01OeGs2QktLUkhBWDVxUTRjQ0NsSDAxQU1TZ2hGU2FxWXR1VWViOGx0LWx4Z29EZDhfbUkwamw1YnpDSm1zUE55SWxUby1STTdBV05QM2ppdS1KSmI2VWlBV3VuUklz?oc=5",
       "pubDate": "Wed, 15 Jul 2026 20:07:01 GMT",
@@ -817,10 +817,62 @@
       "articleLabel": "News"
     },
     {
+      "title": "The state of global immunisation in eight charts - Gavi, the Vaccine Alliance",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHRlNTWDBZNVhjRVA1MHAtN092SmxNVW53TE54MU9EUm5IaEQtdDZwcTd3dG40c1k1azVjTkxHYk12bVFHZkVCSjJjYkNxRHBWSndvaXpza19qZTBlR1I1cnNfSU1LMUNadDZzTkI2alV5bHluY3lPTkJyams?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 15:43:24 GMT",
+      "description": "The state of global immunisation in eight charts Gavi, the Vaccine Alliance",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "The Straight Shot: Federal vaccine updates - Jul 15, 2026 - Center for Science in the Public Interest",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNE1WaGkzVHFTNHY3OWdGQVFfNUsxOVNIUWtlc1doaUphUDIwUVlOYl9CT1l3Ql9rSWpZa3R3QUxxZVZnakNjVHRQY29oRzM5ajlHS0VDRzFNZ1VtNTRTd05VN01kZFA5YUo5dEZmNVdkZlczbWxIcmlVNTlpX2todzNZSWM3cG8?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 15:37:32 GMT",
+      "description": "The Straight Shot: Federal vaccine updates - Jul 15, 2026 Center for Science in the Public Interest",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "WHO and UNICEF estimates show routine immunization has rebounded in the Americas, but declining measles coverage leaves communities vulnerable to outbreaks - Pan American Health Organization (PAHO)",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObGdicVZ6b2tZRjhDQXRNY3NoTVQ1cmMzbnZHOVZXdDZCMFdoVmxrbC1FQ0FleVVZTU1IRWpnMnFvREktN3huUmIwMnY1T1BLOW44eWtxWkdNQlZtcFpIei1QTlMxeDVCck9CcmFJd3hacjl3NDVGQm5iZlZQdGd6OWZKdDBwdXFvZVpNSEdURHBrT1RmU3V3N0ktMzBzSkVzMU81UzBtbm9tV09UVjVRc3pjVzduTkpJQXltQ29ZMA?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 12:38:55 GMT",
+      "description": "WHO and UNICEF estimates show routine immunization has rebounded in the Americas, but declining measles coverage leaves communities vulnerable to outbreaks Pan American Health Organization (PAHO)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Childhood vaccination rate increases slightly, but millions remain unprotected - UN News",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jbUlIVGROel9Bbml5dUE5SFN1Rk1sdkdSdTJwaEVxREs2U3VaRDE5bWkzNUdpQjhxZHN6MzdmNk1DMkxoajhiVDMtZzdJZVRsSXdNQmdvcw?oc=5",
       "pubDate": "Wed, 15 Jul 2026 12:01:00 GMT",
       "description": "Childhood vaccination rate increases slightly, but millions remain unprotected UN News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "India's immunization program reduced child mortality but highlights need for coordinating health, education policies - Medical Xpress",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTXFxdlFxQWR6UlByOEFqUGxpM2hGV0hzcEFJMU54eHBIbU9YN3d4SHROYlZRV3pHVTBmXzdlZHJrWXdkMWdseVpkRFd1SUxsQmtOX0JIT0lBYVBQd0NSSEdyTVNKOUN5ZDgyUWJqalpsTm1jUU9KNGxoLWtRbXBLbldWV2pzWXlVTjlyT3k5RXpSLTA?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 12:00:01 GMT",
+      "description": "India's immunization program reduced child mortality but highlights need for coordinating health, education policies Medical Xpress",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -882,10 +934,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Inside RFK Jr.’s push to dismantle decades of U.S. vaccine policy - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeGtkMGMwWTF4Nk9SNE5wTjZmVjB0dlhxVmxldEhyaFR2QTMyZE42Y1A4V1c0SkhVc2RFbGU1V1ZyTlo0R19HRGljVUJXa3pIZk1HN3FoNHRITzVLSk9NQXg5ME9lTG5UbGxIYzhFS3hNNTJKbFJpb05mVU5RWjktRzUzSWhjTG5nVm9YZkhwSzdwS1dVNnNTQ3FhaDNITWUtQThMTHZxMTlidw?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 12:58:25 GMT",
-      "description": "Inside RFK Jr.’s push to dismantle decades of U.S. vaccine policy Reuters",
+      "title": "Rep. Smucker Introduces Legislation to Modernize Vaccine Injury Compensation Program - Congressman Lloyd Smucker (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORzhzdUxOcXI4WjliNHoxWUcxQ1ExUHdqYUJpb005ZmQtQld5VDJQSlFfWHF3OXJwY0I0LW10b3BvQjVPRzF4cDBCb0JDMng3TU5yUVVtelF2N1ZtWmx4WlhkR3FYa2I4XzVCSFZMeVV6Z1dibUdMZEUzdTNJdU1CTjdQMHZsbXg1LXIzRHpUcDYxSWV2dzdxNUV6VGtZQ3RsaTRQa3YwbnI1dHFYRjZTMUFqQkFwYzZvUUxV?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 15:29:27 GMT",
+      "description": "Rep. Smucker Introduces Legislation to Modernize Vaccine Injury Compensation Program Congressman Lloyd Smucker (.gov)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
