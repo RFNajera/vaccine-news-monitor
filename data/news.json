@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-20T12:14:57.504Z",
+  "updatedAt": "2026-07-20T13:09:19.369Z",
   "itemCount": 68,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 3
+      "count": 1
     },
     {
       "key": "rsv",
@@ -18,14 +18,14 @@
       "count": 4
     },
     {
-      "key": "hpv",
-      "label": "HPV",
+      "key": "pneumococcal",
+      "label": "Pneumococcal",
       "count": 1
     },
     {
       "key": "meningococcal",
       "label": "Meningococcal",
-      "count": 2
+      "count": 3
     },
     {
       "key": "shingles",
@@ -35,7 +35,7 @@
     {
       "key": "dengue",
       "label": "Dengue",
-      "count": 8
+      "count": 9
     },
     {
       "key": "malaria",
@@ -49,6 +49,84 @@
     }
   ],
   "items": [
+    {
+      "title": "HHS vaccine committee quietly gets new charter - STAT",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRzVQTUc1NnB1QnpYc2l1UzZ1akU5Wl83NFA0WmtFWWJXYXk4NmQwT210NjU4UE1kbll0TEdiOGkxOWlUSXQzV2UxUXdqLVVEa0ZRQTFzdlJYX2Z6cmZBemVvVHliZWVSaDFqUEZmSGE5MXBRcXRoTjFXa0Q3dTNDdUJKV0VLR25kM2cyRDhOM0dya0hqWUNfSFFTcw?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 13:03:34 GMT",
+      "description": "HHS vaccine committee quietly gets new charter STAT",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Rural health monitors wield digital handheld devices to help close Eswatini’s immunisation gap - Gavi, the Vaccine Alliance",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTnpBdVdMY0tnYjFTOU5rUmFCNGktTkFWcFZMZWpKM3JjMGlQcjh6U3VkSE1Rc2c4amtmR1lURkRSSHVVSVR1aHFSZDdFc19TQVY4alNqZlh0RDE4dFIzU0N2XzlWY0wzeWNZVXcxRmVkNHdDcDNQcXcxdFlCSnVDSVZ1MjhTaGRhSEU5R2tBa0V6T2x3SnpWTmdRbDlfM2RLRHFwTVNqREp1T2s?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 12:45:52 GMT",
+      "description": "Rural health monitors wield digital handheld devices to help close Eswatini’s immunisation gap Gavi, the Vaccine Alliance",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Free immunization clinics for back-to-school in Little Rock - KATV",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObnlOVGplc0lRdDN4MWJIQmxabXh2bDNFVWt2UjJIYUlmQTd0RmQtdVpoSlVHNkFTb2ZVWHlMWkltTTByS05nWkszMDZtcVRRYWRoV05SeGNlRGNiMHU3alVYT1A3bXg2MmJnSDBYRWllZkw4TVBXdU0zTDdUZzdHSkhzb0FpMDNxenhxM1VjdGM?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 12:39:30 GMT",
+      "description": "Free immunization clinics for back-to-school in Little Rock KATV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "India gets its first dengue vaccine as DCGI clears Takeda's QDENGA - The Federal",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVnQyZEZzWFJEMEpZMTFDSjJjNkZ4LU8zZ0VNSGpXbkVoWG5UUEdPOTNGdnJPVGRRRjJFWEppMEpxekRuTGxZQVpnNnpHWjlkU0V6VXVtbWs0RWVnM1FIUEVENkNQNFRUVWF2UWtWNmJGNWhWaktmZmRZRk1aOWNCTndLZGp6WWx5MWw1ZElRVGI2SFFQZzVydnBRVEtfOFpxZmQwaWo3WW0?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 12:38:00 GMT",
+      "description": "India gets its first dengue vaccine as DCGI clears Takeda's QDENGA The Federal",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "dengue",
+      "vaccineLabel": "Dengue",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "POZ Poll: Are you vaccinated against shingles? - POZ",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91UU9FLVVXTnhlNFNrdlp0Ni1iOTdQVWk3TVRsS0RrWVVyTndHQ251bWRDeUhRcGZySV9qZXFPZHNCcUh1YnpZWVNlaDNhU1ItdEQwakRBblJ2dVdidERKc3Vn?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 12:30:36 GMT",
+      "description": "POZ Poll: Are you vaccinated against shingles? POZ",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "shingles",
+      "vaccineLabel": "Shingles",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "bTB cattle vaccination project: third phase of bTB vaccine field trials conclude - NFUonline",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KOXNKYjhLRG42UkhBWGRJb0dXRTRXX245cW5ZRWxjQmtXenFrY2ZSZVBPQjhTM05SaEV6UzItcDk2cnBhNEVPSnpjeEswQW1aYjVvQ04tWjQ5bnlPOXRlNFFZMmdXZ0hLUV9CQVY3bw?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 12:27:37 GMT",
+      "description": "bTB cattle vaccination project: third phase of bTB vaccine field trials conclude NFUonline",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "RSV Prevention and Vaccine Hesitancy: Building Long-Term Communication - Contemporary Pediatrics",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcVpadGw3aTVjeGF0TDBHVDBFcXdUUF9KMThEMmNqUnU2b3RYeW1SeVVRMTdlblJfVWNQcDlaM1ZWN3cwWGZOdkFVckgwRGJUOFFTQ29Ya3dZVW5uTUJxeGw4R0UzeDRuOTNDeGhkLU41YTV5LVR3SFVETGF1dDBYWWVPQ1oxdFFhLVlucGZuc0VqMTY5ZFlxdjlfNHlIR1NCMUkyMm90YnVEeUROcXFfRVhoNA?oc=5",
@@ -91,7 +169,7 @@
     {
       "title": "The UK commences testing of new Ebola vaccine - medwatch.com",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yMnBBaUw5dEJLODVRNGJ0MmNZbGVHM0NGSUtsOHV4LTZiRWZhMkNwT19oNFEtQzNGbHJOeWJ2clVxcnp2NGpKM1lvRnE2eURXVWxMWlhsaHFfTUJscU93R29wb2trelJvYVZiRTBJRQ?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 11:49:58 GMT",
+      "pubDate": "Mon, 20 Jul 2026 11:49:00 GMT",
       "description": "The UK commences testing of new Ebola vaccine medwatch.com",
       "source": "news.google.com",
       "sourceType": "news",
@@ -323,10 +401,10 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Takeda’s QDENGA becomes first dengue vaccine approved in India - whbl.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYTlXS0RRVGdYUnJNcHlIMjRYZG95dWVnb2p0VUJ4RTJoV2lyY21IUnZDRUkzbW1Ha09DZjA4U203M2pYT2pfUlFSYXp1dGpSMHpJT3NRN2h6WllUdzNUTkhOMWpZWS1HM0ZQZUdUcnBrbjRfQ2V1d3k5djZuLXROTTVHaGdLZU10MUpqWEZ0b0daNmE1?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 06:30:31 GMT",
-      "description": "Takeda’s QDENGA becomes first dengue vaccine approved in India whbl.com",
+      "title": "Japanese drugmaker Takeda's QDENGA becomes first dengue vaccine approved in India - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaVEtNHhvZmVTNG5tOWFEdTVaQTVUdUZKYmNoOXFMVFBSYkVDNjdpSFIxcFR6U3NUUnJ4VFA1a3Z5REg2MFFjTWZUSEhDSU5EMkVvdDZmdkNMZW0tbG05YklMMXA0ZWZWd2U5TmdpNWx0TDdXUF9KM3BkczcxZjlMOVBVNGtjWTVxZUVoaTlVUlFIa0RYemRnX3dEMmFzWGRsTkU1QkhONzZHZzZBM3NGWWExLTlxbjBrNTc4dFlJZm9BSURvSks1R3R3?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 06:01:00 GMT",
+      "description": "Japanese drugmaker Takeda's QDENGA becomes first dengue vaccine approved in India Reuters",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -336,10 +414,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Japanese drugmaker Takeda's QDENGA becomes first dengue vaccine approved in India - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaVEtNHhvZmVTNG5tOWFEdTVaQTVUdUZKYmNoOXFMVFBSYkVDNjdpSFIxcFR6U3NUUnJ4VFA1a3Z5REg2MFFjTWZUSEhDSU5EMkVvdDZmdkNMZW0tbG05YklMMXA0ZWZWd2U5TmdpNWx0TDdXUF9KM3BkczcxZjlMOVBVNGtjWTVxZUVoaTlVUlFIa0RYemRnX3dEMmFzWGRsTkU1QkhONzZHZzZBM3NGWWExLTlxbjBrNTc4dFlJZm9BSURvSks1R3R3?oc=5",
+      "title": "Takeda's QDENGA becomes first dengue vaccine approved in India - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRDA4X1FRdUFPWG9XcnI4dXU3RC1RdUdaMWFxMTh4VWJlMUhudWI5MFdobmFSYmdvbUNER3VXX21mRGF3bFpRTEotaEdQUkVOYVZXYkJDbDNkdmExSVRDOGZXc2RWVDZtRzJadGVxbk05N25BdnpEVlRPTUw0RllXZFZ4STZqMWtOZE1vdlUtUTM3UldJWnhyTjJn?oc=5",
       "pubDate": "Mon, 20 Jul 2026 06:01:00 GMT",
-      "description": "Japanese drugmaker Takeda's QDENGA becomes first dengue vaccine approved in India Reuters",
+      "description": "Takeda's QDENGA becomes first dengue vaccine approved in India Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -544,19 +622,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Westfield Health Bulletin: Encouraging news regarding a Lyme vaccine - MassLive",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdzlIT3l2dTA2aVpWVDVuWHdlWl9TeFRrampEbUVseGRJUDRHWWNYM3VxREZfMFhrRDdRMm9kbzNpOVZCNTVOT3dQeGFtVzhoVUVZLU5yVTZmb3kyZlNzX1BOVnUwbUZKb2lQR2d5TGkzWmlVWmI1U3Y1QmxnbjVkTFlNVi0xSjRaMDdSRDU4YWdlWnc5WWZpM3RZOWpfU24zZWJEQzNiclBxa0NTakpqXzVkOGdSTHIz?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 10:02:00 GMT",
-      "description": "Westfield Health Bulletin: Encouraging news regarding a Lyme vaccine MassLive",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "These are the new SC student vaccine requirements for the 2026-27 school year - The State",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5nUGljX2ZWMGkwQ3NnS2RWOVZWX1BNSVhqTkFtbkozS2V5dFI4bVhyaEdoWjJwaGxDOHhGT3ljaGxwVzFCcG5uTWl0eUJNSkRZVjN0VTFIaTU5ZEluckxobTQ3UEtfZWs3ZDIyQlcyQzZQQm93M0lra1BkTjjSAXxBVV95cUxOaGhVLUpxaWtzS25vc0NOaTF1YWR6aWo5Wi1sX3VpdW54eW5BeDFDVkYwQkpTSUUzR3F5TVRqRzFkQ1F6RVcxQWloS2hWWGFneEhTRy11Z0tNM1hyVlBST1VvYm9VV1g2NGlTd3VkcUFYLXMtMGliZzRhdFl0?oc=5",
       "pubDate": "Sat, 18 Jul 2026 09:30:00 GMT",
@@ -635,15 +700,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "230 troops discharged for refusing COVID-19 vaccine have rejoined, Pentagon says - Navy Times",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOb2EtRXFCSjgta0VQUER5NkpkSk9RV3RHT0d6VXRkdDdOdUJoSGNuUmhrR3RJRUpIUVY5M2N4VWtEeThKUTFBQkhsZjBpRjUteUE3MWhYRm93SkJBLWJJX0tnVWlOMVZqWHk0akd0SmFpemM4ckdLdEE2LW9QdXlVd3NLTDVGaTByV2hZQUI2Q0lIOWRRMUl5aUU1blA3N0ZjSmxyUERnaW9CQTlCU050LUlCMjRtaDY3NHNFWHNpQTVmeUNiRFlnbFJlV1JkSjN4b0pCVjBFZw?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 18:44:04 GMT",
-      "description": "230 troops discharged for refusing COVID-19 vaccine have rejoined, Pentagon says Navy Times",
+      "title": "Lowered Pneumococcal Vaccination Age Has Yet to Close Awareness Gap - Drug Topics",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR2UzNGhUdTBEMG1mYnZ3MnRiallQc0NxZlBsZ3RNQlhqSHhvSllxVXNGbGcyLV9yRUYyR3QwdUhhNUdCSzEzcEtxR1JRQW9nLXB4VllxREwwb3BOSUxHWmVSX05leEVGODBNVU8xX29CTkJQbEVuaVBvLWpvM05SWno2RlNobFhqZkppTGNwZFl3XzZkSnR5ZVBJZGZicy1R?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 17:08:24 GMT",
+      "description": "Lowered Pneumococcal Vaccination Age Has Yet to Close Awareness Gap Drug Topics",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
+      "vaccineKey": "pneumococcal",
+      "vaccineLabel": "Pneumococcal",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -665,19 +730,6 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVHllSmN5cUZIY2N5M2pNWXY3Z1YxVVk2bk1zX1hkUHV6Z3lMYkJNUDVyaEd6OG1uUWtpOGJZME5qS2FoVUIzMHNndHZtQVByeDNKVlNFbzhSeFBadnpkM0VCZUM4ZkIyQ1o3RkVETFdkYjVaRGdTbVh0UjVKZlRYTTNoWm5fRTZFTVVsOTlOcFJ1Qm5Ham9sTWtxLWRjQ0ZNZE9meW1PZUtXaGR6WllTYUtRRXBMWlVrRHJFZmZ5dkM3OGtVdGxV?oc=5",
       "pubDate": "Fri, 17 Jul 2026 15:46:16 GMT",
       "description": "KRAS-Targeted Vaccine Crosses First Clinical Milestone in Pancreatic Cancer Prevention Genetic Engineering and Biotechnology News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Peptide Vaccine Targeting KRAS Mutations Promising for Pancreatic Ductal Adenocarcinoma - HealthDay",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcW1nWFVieTA2WDBpMkNaMW0zNjZfZUVxdlgtQS0zcVJyOG1VY0JURlhiWmtqNGlGSS1yc2RianpSMGRiYmkwejBHeFQ0Y2dQTFFkS0RneGhKMGlfRGdHejYwYURmZDRjbVZJMzZqNEFianNSV0VoSTVRYkF2VUlYN2hwVmU4TUd1MWcwLXRFVTNYOC1PZHEtelpIZmpMcG4zVlRUNzlwV3oxMmc5WEduMUYzYU55T2FORUx1ODNBN2FsekZ6UzB5MjBUYTUyd0FK?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 15:20:31 GMT",
-      "description": "Peptide Vaccine Targeting KRAS Mutations Promising for Pancreatic Ductal Adenocarcinoma HealthDay",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -709,6 +761,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "JCVI issues recommendation on adolescent MenB vaccination in UK - Pharmaceutical Technology",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbG1na1NaS3VlaG13c1U3b1EtTUlfR2hTeUJsRU5rZkxDa2ZUYTZsVHR4eTZnQXdaT29fWGZwWXplanAyUTljM2RiXzRMTEdacHJZVjJKeGJuVDA0STZwcWJ1elRERlFDSDEzTnRzcnV6MDdpMWl6WjBtZjM3ZG5VYTlwR1UwMi1uRTB3dkQ5d1QzWW1fejI2QnFlbw?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 09:10:52 GMT",
+      "description": "JCVI issues recommendation on adolescent MenB vaccination in UK Pharmaceutical Technology",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "meningococcal",
+      "vaccineLabel": "Meningococcal",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -765,19 +830,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Pancreatic Cancer Vaccine Trial Delivers Positive Early Results - Everyday Health",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOUdnVWNDbGZQRTBXdjlrcHVGelR5ZnV1OGdvUnBMOGhMMmphUmw0M25MZnB1cmN6dHRPOWFtVVJuTzFoYWdva3Z1TnNsVzRnLTZucDVuSG5ydG5zYkMybTRpdlVUX1FMYVVVSG04QzF2akNwd3E0bWhURHVkMGh6VVlYam5qNzlkSkZRdUttcjRaTWphbVBlT1BUakpFS3V6eDE3bw?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 23:13:09 GMT",
-      "description": "Pancreatic Cancer Vaccine Trial Delivers Positive Early Results Everyday Health",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "Modest Gains in Global Child Immunization in 2025 - unicef usa",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQmdLM0tPMFhoVnVJNTY0d3RsYWJfd2lPRDZ4M0Rpa3NlZnZhZzZ1V014NjJlZEZvb2JxbnozN2QxRENhZVpDdDY4MHFQV2x3SWx1TjhqSFlZNjB5UThkeE9PV0w0aVdGeGtrdHRMbGVxbm1nNEJVT21iUVgyOVZyNlFtcw?oc=5",
       "pubDate": "Thu, 16 Jul 2026 23:09:02 GMT",
@@ -791,19 +843,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "New health assessment flags infant mortality, HPV vaccination gaps as key challenges in Douglas County - WOWT",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMkloTXNNNUd3ZDBqalYtSkF6WVNUeTRVbFlDV01MNk9UNG02TUZzYjkwaE1WaExQTjc3WktSOE1PSTJtSUlFbnJyYmNzelU1cEE5dHkxN1pLTFBpUDhjbFhmNC1odWM3allwZXhUQkNseEloUGgzOC1jTDlUdUhGTmdGOUc3bWVBR3hFREp5X2RHb0JuZHVOTkJKREI0RjZBT29vZy1WVTBBbnBLd3RJeERtUEFCZnZkRE5abHVzVlNoQ09wWm400gHbAUFVX3lxTE45c2VZeTdyZVpTS1BTdGk3U1NsVnhYa1ZVNzFPN2ZlSEgxUmFsNjZwSXgySnkyc24xVmtDWnR0MVVlaV8ydU5vNmlRYUZnWGJtMVhxbHV0cm9JSk5UQkVxc1VmTDA2a1dDR1lkbjA2QTNqMDY2a3FzOE9EYkxSbFYwQmkwYkFfOEZUMHk5c3NRSkJvQ2lkSUpxbjhtZU54ZnZidmJXRHRRdFRaQmJpcWVEY01SaTFsSFZGVG5ZUVFPbGV2cDdYd3MwMU1kTTU1aFpWT1lDdEllS2dNZw?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 22:27:00 GMT",
-      "description": "New health assessment flags infant mortality, HPV vaccination gaps as key challenges in Douglas County WOWT",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hpv",
-      "vaccineLabel": "HPV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "India's Serum Institute partners with Gates MRI to make experimental TB vaccine - Reuters",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQa2V5YWZ1ZUtXNlY3bG1YUXVHd1EyT1dQZEpQdGNCUE5rWEZaaWxMZmtmSjFtRTZjTFN5a0QxQ05uSi1kMTB2UXJUaHd1ZzB0VVBDOWdGdThadk9aZXVhUWUwdUFNOVJEYzd3eXZCVkt0VVkxRHBBekpUMmZ3WWh1STdVWkFKbWt2enVtejlDR3JOc3pKU1VoaXpDWlp5T2NHUk9KNGxRbUFsc3g4a3k0S2lRT2lnMFk1MW43THlraVFyQzRlcmw1U1JpVkFoUDVscUxfSUVsLW9WVmNNS09RbQ?oc=5",
       "pubDate": "Thu, 16 Jul 2026 21:44:24 GMT",
@@ -813,19 +852,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Can the Shingles Vaccine Protect You From Dementia? - NewYork-Presbyterian",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbTlLd0NIVmU0Z09saU1ld1FCS0JsM19QWnAyRVVqNGlXc2UxUkFqQmxkb09Gano4bjVJYUZzVWF1UDFjVnd3ODZYbTFSQ2tpVldkREoxUzk1cnJLWjRCYUtUZE5hdHNtcVZwWFl2UHVGdEpYMmlrSjFEUm93TjZiNXBHNGNSVXZNWm1LTUs5MEVqZnZ0c1Q1a3hvZVZwTzZTSHc?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 21:40:59 GMT",
-      "description": "Can the Shingles Vaccine Protect You From Dementia? NewYork-Presbyterian",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "shingles",
-      "vaccineLabel": "Shingles",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -886,32 +912,6 @@
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWVFWSXdKdXRhbVcyS091b1oxa0UzT3FqU0RLYVFkUDlCYkIwM0FjMzFtdlpOT3Jaby1PSHNfWmg0bU5Vc1Jlckx1V2lwQlhFVHJfd3BBd0VWUVF0c2xyM1NIQkR5WGtmbi1WbS1lN2lFVlJGczV4bHNReTFpbGxTcVB1LVZ6QUVEWGN3eTdpWThsZ3BfQ0ZPNGtTXy1Ecng3WlpDM25IMDl0dzBsc2Y4RWwxb213VTJWZWtGOUJuRlNad0FMQ1NRNVhSbUJscmNVOE9DVQ?oc=5",
       "pubDate": "Thu, 16 Jul 2026 05:11:27 GMT",
       "description": "Declassification of the Department of War Internal After-Action Review of the Coronavirus U.S. Department of War (.gov)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Panel to study Pentagon’s COVID vaccine mandate, troops dismissal - Military Times",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaWNXMkNNUU51R2poSWs5WWdoSjB6OHdNVlZtWC1KZk0tU3hjbDJ1eWZ2R1JRU3VhX3AxV1RrbmwwTHVwNFpoS0Nab1BNajlWUFB3Rm13bDFNXzEwRzEyNndSY2xkd1FnN01OeGs2QktLUkhBWDVxUTRjQ0NsSDAxQU1TZ2hGU2FxWXR1VWViOGx0LWx4Z29EZDhfbUkwamw1YnpDSm1zUE55SWxUby1STTdBV05QM2ppdS1KSmI2VWlBV3VuUklz?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 20:07:01 GMT",
-      "description": "Panel to study Pentagon’s COVID vaccine mandate, troops dismissal Military Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
-      "title": "Childhood vaccination rate increases slightly, but millions remain unprotected - Welcome to the United Nations",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQXzdiMUczM1VjampxOG5WNUFEd3FzSW83d296NldLNWQySzJ2U1VmZVZic1NqYkZleUJxY0VYMEVIbEYyZmdyNUlOMVN4aTI0WmRFYmdsaEFOc19zNFg3Mm9lU1NMR0pnM0ZrLUl1S29Gemp4MW1Oc2R3U3Rud3RVZjlZRF95Nnc2UERMeVZEV3BIQzItTGlTb01RNllyN3RMQW9iYURvMW0tQVhjMjh0bVQyVGlVaFBMQ2pyLU16Z0hfZ2dOOHZxUVRQVHZFZw?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 12:00:00 GMT",
-      "description": "Childhood vaccination rate increases slightly, but millions remain unprotected Welcome to the United Nations",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
