@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-21T14:08:47.728Z",
-  "itemCount": 70,
+  "updatedAt": "2026-07-21T15:08:55.341Z",
+  "itemCount": 72,
   "groups": [
     {
       "key": "covid",
@@ -20,12 +20,12 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 7
+      "count": 6
     },
     {
       "key": "pneumococcal",
       "label": "Pneumococcal",
-      "count": 1
+      "count": 2
     },
     {
       "key": "meningococcal",
@@ -40,15 +40,54 @@
     {
       "key": "dengue",
       "label": "Dengue",
-      "count": 7
+      "count": 6
     },
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 44
+      "count": 47
     }
   ],
   "items": [
+    {
+      "title": "What’s Next for Pneumococcal Vaccination? An Expert Weighs In - Drug Topics",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzZEx2enRMNVIwX3VmWVlOczJqWTJKZEExTmh3YWJVRW01eUpmYTJOeFI5T1h0YkxvZUdBcURBUXhFekxjWlMwNzZTZVpGMzJWUFdDOXR3MUk5T1dEZFdPM0V4Nmd2SFE5M3FSRlFfaHRoeHl4eTh2VHpvdw?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 14:51:06 GMT",
+      "description": "What’s Next for Pneumococcal Vaccination? An Expert Weighs In Drug Topics",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "pneumococcal",
+      "vaccineLabel": "Pneumococcal",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "An experimental oral vaccine may prevent invasive bacterial diarrhea - Science News",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hV3BCNWxDYVI5bmZpVVJCRWpqTkhNZE1uMTBiaHcyZGFQeEc5N1huZHJmdkp5WDhrX2c2MjF0RkZUcVJ1eGVZZ3h1MmNJN05TY1c0djBTVGtvQzVrSFRKQjdzU0tVWHlnbHcxMjlyLWcxM2xGMnc?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 14:30:00 GMT",
+      "description": "An experimental oral vaccine may prevent invasive bacterial diarrhea Science News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Severe weather forces Columbus Humane to cancel free vaccine clinic - cwcolumbus.com",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQSHFXbmRaaWVpMmp2bl9lQmU5am1YY0dqNkZkSlVFTGJQRkFhYVMyR1c4UkRrMWRXdE96cTIwN3did0t2eHJEdDZ1aEJERWpjbEdtdUdlRV9KbFFkMVNaQldodjJ4ZFA3NjhDYWtCLTY3bUZseVRRT2ZFNUZzUzlwbjM4MTFmeFZmVjNOR1NjN3puTEZVVTlRaDVEZDhOTnViSm42cFJtQkozaWgyS3VvVHh6TUFpS2N0SFZ1Mml5QzFWSTNnNWZZelNaU2UtUFA5VmxydjB5ZmdCdWNVRnBsbzVsNmpnUkZWYXFSbXNtdEFvTzFoTFJNekhKa0c0MlNqMy1RUzR0OUlLdWZZUjZyemE0Vi0tQ3FQSEQ3bWstR21aekxqMlBj?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 14:28:43 GMT",
+      "description": "Severe weather forces Columbus Humane to cancel free vaccine clinic cwcolumbus.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "India approves its first dengue vaccine, from Japan's Takeda - Nikkei Asia",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNUljQ1B0dGNuQ21rWTVUZFg1RVpPX2Ryc2RLRzJSSXBWTTdvQ0lBb3hkQ2tEZlBHYjYtb0k0TG9tUUxadmhhTTJ0Zno4X0hUNHJPTEoxRE1WbTk2Q2NxUzdFVExmejlsWE1mSm1MZHB3LVRzRXItUFpYcEpvdGxiRkZIUVJvVWhlQVVuUmgteEljS1U1UlZOVmhvSzFiNFN3ak5nUnZqTnd1SzBW?oc=5",
@@ -349,6 +388,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Cefiderocol Under Review for Pediatric HABP/VABP and cUTI - Vaccine Advisor",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ0hOZlNrX0lJX21mVkJqakNidkdKdTd2WHljeW9HenFhd2llQXNIZEplN0VVMWtUajZsZUtlWVJFZmhKbk5kam10N1ZRMGRBa1FOQnVZUm9SLUpTRWg3OU45N1FObk9CYVBSMngwV1dib25uTURHUk9UeVB0UWdBOA?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 04:00:00 GMT",
+      "description": "Cefiderocol Under Review for Pediatric HABP/VABP and cUTI Vaccine Advisor",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Updated 2025-2026 COVID-19 Vaccines Reduce Hospitalization Risk in Older Adults - Infectious Disease Advisor",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLUhsRU92aUExRXNjMXhBRTl2WThabjVBeDVyN1pjVG9tQTFsNm5sS2cxMTBmY2pXNzdwUzB6RmtQRzZQY3lVMXFWVDkyTEVKaENWWXNjZEx0VG1VbTVIV1ZkaGVfMms0U0I1STA0ZllFLUhnRUdRQWtDYzE5VFhjbnd6aFJSVmJmZVNzR0pWLVF2Tkl6WDVOWmVBRzRFSHF6?oc=5",
       "pubDate": "Tue, 21 Jul 2026 04:00:00 GMT",
@@ -358,6 +410,19 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "CDC Issues Alert on Rising Multistate Cyclospora Outbreak - Vaccine Advisor",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUXZQZ0xTWmNraVpMWmtTNDktSHdyQnJ4ZWdsNkRyM05VNzZsTWRSVXZTZGlVMldZRnNlT2JHa2ZrMktDaFV6Zkl4OUM0cTBweDcwN19tbjJZRUYxUHBWazZXLTBteURJWkhCbG9uaWUyb0tyRWl0ZEFQT2hDYVNhcGxCbjhrQXkxYlFHWnZB?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 04:00:00 GMT",
+      "description": "CDC Issues Alert on Rising Multistate Cyclospora Outbreak Vaccine Advisor",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -410,19 +475,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "India’s first dengue vaccine approved: DCGI clears Takeda’s Qdenga for those aged 4 to 60 - The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZEhXMkQ5dXJWQjVFdGRpZV9qYzhiVXcyN2s4NVZURFhiWVBZc2p3RUlNQkJHMktCZkNoZ0Z5SmRtbjM4S2VGRlFxZW1SSjJkMjQzcnFUd0dxaXRfSmptcTZBSV9nd3dma2x3Qmc2MGhvMkttSndXMExZWUc5OGJzd2dPRHNZOWlEb0lmOWtwUEo0QjA2WF9qTXh2d2RIQVU3WTE4X2c2cEo2NGRxMXd5VNIBtwFBVV95cUxNVmNnTERELW1wZmRGampDM091LWsxSi1JMWV1bmd1ekgzRWM5RjlWQU9VSWxtejBodTJJTXNkeWN1dG9aVkpkeHJqZXlOX3R1aDMxWUF2MmE3dHBvN3JiNmJSVm50RVNzSjgxVXM0Q2JXNk92RjVMeVdlN2VQOXNOSkliRXBDU1Q4djFudVQxM3pEZDNnY3J4SGh1ck15LU8yRG9fbnc5Q0Y5alZwa25MU0tfYUNhRzg?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 23:21:00 GMT",
-      "description": "India’s first dengue vaccine approved: DCGI clears Takeda’s Qdenga for those aged 4 to 60 The Indian Express",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "dengue",
-      "vaccineLabel": "Dengue",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -826,32 +878,6 @@
       "sourceLabel": "News",
       "vaccineKey": "rsv",
       "vaccineLabel": "RSV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Will vaccine boosters be necessary as measles spreads nationwide? - San Diego Union-Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVjNRclFJMnItN3hRZ0VoUXl3bUM5VjhoUnVPN3JtOHRBVXlRVU5IX0ROUGNHSXJYYUdnM1YwLWNSblZfSjJqME1QX1N5T1hFQUI0STdTX2llR2toanJTS3JPRG5Qc3ZWVTZjb2c3ZFo0Tk5LMVFXXzVnUkJUUndNa0o5U2NsTVRzbXFYd2hwT2VYcVJTdGNrTjJfaDFobDdWUFM0eFF3a3F6TWFmVWdTMnNjcw?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 12:01:29 GMT",
-      "description": "Will vaccine boosters be necessary as measles spreads nationwide? San Diego Union-Tribune",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "The UK commences testing of new Ebola vaccine - medwatch.com",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yMnBBaUw5dEJLODVRNGJ0MmNZbGVHM0NGSUtsOHV4LTZiRWZhMkNwT19oNFEtQzNGbHJOeWJ2clVxcnp2NGpKM1lvRnE2eURXVWxMWlhsaHFfTUJscU93R29wb2trelJvYVZiRTBJRQ?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 11:49:00 GMT",
-      "description": "The UK commences testing of new Ebola vaccine medwatch.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
