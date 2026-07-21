@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-21T21:46:16.950Z",
-  "itemCount": 79,
+  "updatedAt": "2026-07-21T22:41:55.765Z",
+  "itemCount": 81,
   "groups": [
     {
       "key": "covid",
@@ -15,7 +15,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 10
+      "count": 13
     },
     {
       "key": "pneumococcal",
@@ -35,10 +35,49 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 51
+      "count": 50
     }
   ],
   "items": [
+    {
+      "title": "Measles surge is threatening even highly vaccinated West Coast regions, officials say - San Francisco Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQW1NU1FCcFNJVjRPVG5ZbDN5VVlOUUNWU1hEUjBTTUFOZ29xVG1WdTN3UjNwZnpTdjBOLUhHVF9laUFMWlA3emVudHE1X1dsYmtkS05LV3VILTFoQWlvcjBQaER5akZ0QzBET0x1bWFQeGthQnRSWnJIS2J0M0ZmOHlUbkptVVUweXJmQTNBSWQ?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 22:34:05 GMT",
+      "description": "Measles surge is threatening even highly vaccinated West Coast regions, officials say San Francisco Chronicle",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Measles rages on amid vaccination gap - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOGFCYWs5U2RBYTdOYWJZcVE4aTV1LTZnUmRMcGtOcEJrRmVPTUxVeU94SnpoUV9CdzhkTHZNZWQxZ0ltdHVKblViTzRGQndCMVdxaDZoSUJxTmVfcGU1d29McTNCV1RQSldEWWx4OGM4R1BvazVrQmVLT1VkOS0xMkRQV0NUZnhRNDFxT1J0cXlzMXU4ZTVR?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 22:30:00 GMT",
+      "description": "Measles rages on amid vaccination gap The Daily Star",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Measles Cases in The US Just Hit a 35-Year High. Here's What's Driving The Surge, And What You Need to Know - ScienceAlert",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVnk2R2dVWWtONFVfWEJMVXpyR1E1a2htelFyQ0Q1M0VJSjR4NFMxWktsZ21FMHFDb2p3eWhZUVlCUTB2TFpHenhZektzcnFxdzctNTlBbXliVnJ5WTRtdTRELTVRR0thM1dUTnI2VkEzVmZ6dXhuNzI4NGM4N2xoWGY4LTdPUWZlNXR5ZVkxVTZwS1Q0aWREaHF5V3gzeksyU0xXZDlYcS00UnZXZ3oyVlBnVThmQ1c3VW9ETg?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 21:56:15 GMT",
+      "description": "Measles Cases in The US Just Hit a 35-Year High. Here's What's Driving The Surge, And What You Need to Know ScienceAlert",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "DPH Confirms Second Positive Measles Case and Encourages Unvaccinated Residents to Seek Vaccination - State of Delaware News (.gov)",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQzRScEo1RUYwQmNXT25EbmNsN1VvYWFQeHhqQ2dZaFNlMGpFalc0anYxTzJRSzJLUmJTTkh5c3hHVldDSHhmUWdwR09sS3hSS0NUVW5vUF93VEpVRnNvWVJJYk82OUdRaU5aanlKT2hxUHZiRFI4SmN3YldnQVktYXV0enhreFNLT3AxRzVFdWdTU0toM2FYWTVKb0MwRXJLVEVSaVE2aUhxbHNQQ2hLVjJYclRxQk95eFdOQkgzb1BSY3ZiR2MxWklfNXEtckNIVERV?oc=5",
@@ -196,19 +235,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "More and more babies are developing uncontrollable bleeding—linked directly to vaccine deniers' rejection of vitamin K shots - Genetic Literacy Project",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORlU3WUVFalhPeWJQV3ozTUFlOWFLb0w2SktJVElNZ2ZFQ1A4ZjRiOHdSd3UyNXVkMHFwNXR5WFNncE0yTkdzYlc0WVBvYnM5cUd4UjFYbVlwd1d6emEyWjZnLWo0RzdCeGtPRXpSRWgtdFIwcXFZaTM0NHJBT0FHQnBUUlJTQ0tWQ1d6b3dadGVTVnh6VDYzSFJPaktkai1OTFBtbnhVNWxEV2tVMmc1MktUUFZGaGJQa005YmZHMXlZQXBNNjRQbzdiTk9xUm1nTDZjRV9wc0VxZkZBelVpVU5VbldMLXFaalhESjNVM01jMU50UDZNQlV6WGVma0E?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 17:48:45 GMT",
-      "description": "More and more babies are developing uncontrollable bleeding—linked directly to vaccine deniers' rejection of vitamin K shots Genetic Literacy Project",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "West Virginia school vaccine requirements remain in effect as legal challenge continues - WVOW Radio",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOODVKU2IzSUtEbWVVaEVsV1BZQmFoSlRlb1QtNGJabXVSX0stQjRrd0NBb2RPN0VIRUJFTFdCQWJoYnhtVGNoeUZnLWdhdFBuQmJXTDlPdm1VOXozNzRMWUpYQjVwWDNFVjZwODVuNG1oaFFvMXdHanRyYlFmWjdxZmxybWNnTG5fYl9SQlg3WXB1a19uc19LYkx5WUZraldqTjBsRS1QcnRHY1AyNE83QVVtN3ZTdFN3MWc?oc=5",
       "pubDate": "Tue, 21 Jul 2026 17:28:28 GMT",
@@ -270,6 +296,19 @@
       "sourceLabel": "News",
       "vaccineKey": "pneumococcal",
       "vaccineLabel": "Pneumococcal",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Alexandria urges parents to avoid last-minute rush for school vaccines - WTOP",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPczctMjZEMHh2S2J5dnlqNURldWJCWWhwOUd2Rk9EazBWaDI0bVp6VW50bkhyb3JWTml2Q2ViaEE2YUVJVkp3RWtMdFd6VlhrVmdpdnVSSUhCNVVJLXlGTU9CWmthcG5pTFJ1R0hDX0xhWjRtRi1nOHBUWGFCdV9KbGVQRnZkV0VEWUN0NDV3d0RGTWVJWkdmdHhDcF9NMVB0ZkFBb0Zud3lDVGxRMW0yRA?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 14:39:26 GMT",
+      "description": "Alexandria urges parents to avoid last-minute rush for school vaccines WTOP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -547,19 +586,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "From Maile’s desk: Nip vaccine scammers in the bud before it’s too late - African Farming",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV0FzYVdDaGJZUnNCbjdpNWxKOVBTVVRtbjJTZERNcUxnbXI2MUY1bC1FeVJFX1NVUHVRQ2RrOTZnWm90emZaLVhBeldNaUk4cDBkTTcxSDJ3enVqQjN0OTlWMWJYWTJPN2F0UVFRNHdtemlmWWl5MWZLdTFiNWEyTGdiRFZ2Z2lTZGdMUksza0dneVp2a2tiMG0zVEYyeHgtUmVCUFBGcDZSb1lhNy1lUA?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 05:00:00 GMT",
-      "description": "From Maile’s desk: Nip vaccine scammers in the bud before it’s too late African Farming",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "'I would fear for my life without meningitis jab' - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GbnoyRHNEN29STjZrMlJBUjR6ZzFNTUhXYnRndnNaVmNOLWdzWmRmX05xWFFCalpXTllXSHpTc2Iza2VWRFZoYlNybEV5ZnNKbW94UTBvUUVtdw?oc=5",
       "pubDate": "Tue, 21 Jul 2026 04:56:30 GMT",
@@ -573,10 +599,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "JAK Inhibitor Timing Affects Zoster Vaccine Response in RA - Medscape",
+      "title": "Timing of Initiating JAK Inhibitor May Affect but Not Prevent Zoster Vaccine Response in Rheumatoid Arthritis - Medscape",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWWZoZFZMMjdKLWVYd1ZXdVhZTzJYTVdtTm5FWXVhNlFoV0ZnaXZJdFZDeWIzVDQ2Zm9mdFFWVk40bnNuMTFCdzk0cGhFc1A0R0VkTkpYbVk5eFhHazRsX2xYcllJSzBhTmZ0Znd1enUtOU1XVTBGaHlhV0tCUkxiVEZYSzl2akUzejhKX2RxTDFLcEwtN0VDQ2pjaV9OSTI5aHhsbjZPOA?oc=5",
       "pubDate": "Tue, 21 Jul 2026 04:32:29 GMT",
-      "description": "JAK Inhibitor Timing Affects Zoster Vaccine Response in RA Medscape",
+      "description": "Timing of Initiating JAK Inhibitor May Affect but Not Prevent Zoster Vaccine Response in Rheumatoid Arthritis Medscape",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -820,19 +846,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Japanese drugmaker Takeda's Qdenga becomes first dengue vaccine approved in India - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaVEtNHhvZmVTNG5tOWFEdTVaQTVUdUZKYmNoOXFMVFBSYkVDNjdpSFIxcFR6U3NUUnJ4VFA1a3Z5REg2MFFjTWZUSEhDSU5EMkVvdDZmdkNMZW0tbG05YklMMXA0ZWZWd2U5TmdpNWx0TDdXUF9KM3BkczcxZjlMOVBVNGtjWTVxZUVoaTlVUlFIa0RYemRnX3dEMmFzWGRsTkU1QkhONzZHZzZBM3NGWWExLTlxbjBrNTc4dFlJZm9BSURvSks1R3R3?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 18:22:11 GMT",
-      "description": "Japanese drugmaker Takeda's Qdenga becomes first dengue vaccine approved in India Reuters",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "dengue",
-      "vaccineLabel": "Dengue",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Maine man sues local school district, state DOE over vaccine requirements - WMTW",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdmtuNkVFVHI3bGkwZFV5RXgwYmV6eG1ldktTZlBPY05jZ2wwaEhvanpXZkFXa1VuNXNmdGpvazlaWUQxMzB0YllEYlpsOGhHZEJCMTVpZTdudk5nZXBraFZ6dVlXTm9mdHhyRjFXc0pXRUR3SFJrY1lYVWRvOUs3ZGdWREVpRG5DNVJCcHVOUQ?oc=5",
       "pubDate": "Mon, 20 Jul 2026 18:12:00 GMT",
@@ -998,6 +1011,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Japanese drugmaker Takeda's Qdenga becomes first dengue vaccine approved in India - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaVEtNHhvZmVTNG5tOWFEdTVaQTVUdUZKYmNoOXFMVFBSYkVDNjdpSFIxcFR6U3NUUnJ4VFA1a3Z5REg2MFFjTWZUSEhDSU5EMkVvdDZmdkNMZW0tbG05YklMMXA0ZWZWd2U5TmdpNWx0TDdXUF9KM3BkczcxZjlMOVBVNGtjWTVxZUVoaTlVUlFIa0RYemRnX3dEMmFzWGRsTkU1QkhONzZHZzZBM3NGWWExLTlxbjBrNTc4dFlJZm9BSURvSks1R3R3?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 06:01:00 GMT",
+      "description": "Japanese drugmaker Takeda's Qdenga becomes first dengue vaccine approved in India Reuters",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "dengue",
+      "vaccineLabel": "Dengue",
       "articleType": "news",
       "articleLabel": "News"
     },
