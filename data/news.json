@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-21T05:30:50.292Z",
-  "itemCount": 72,
+  "updatedAt": "2026-07-21T07:18:32.567Z",
+  "itemCount": 70,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 5
+      "count": 4
     },
     {
       "key": "flu",
@@ -38,9 +38,14 @@
       "count": 2
     },
     {
+      "key": "shingles",
+      "label": "Shingles",
+      "count": 1
+    },
+    {
       "key": "dengue",
       "label": "Dengue",
-      "count": 7
+      "count": 8
     },
     {
       "key": "malaria",
@@ -50,15 +55,80 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 44
+      "count": 41
     }
   ],
   "items": [
     {
-      "title": "North East Lincolnshire students advised to get meningitis B jab - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JNVZDbGVwUm9qN19ZZUNBeEViZzVkNFlXRUI1cm4xTkpsTDJVeXJ3VkhoZ1J5N2ZpbGlZYjBqb0gzWmVvNlBlUkFPOVQwYnROVkZrRUI5UHM5dw?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 05:16:37 GMT",
-      "description": "North East Lincolnshire students advised to get meningitis B jab BBC",
+      "title": "India approves its first dengue vaccine: Know more about manufacturer, eligibility, dosage - The Tribune",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYkNja3Q3QzM4bXByQ0M3OHRHeFZHNEdHeVFwaTRFX21yWXJiUmNDdlNjQjBpei03R2pPUEY5SktVa2hsYTRFYlNEcEFqOWo1RkhvZGQzNG4yREhJQmVLQXZYdGdaeVV5ZS00dDJBcEVCRnV0ZHRRWkNsanVsbExMR0VXVUJOV3l5bEVtUU9OUXdFZEtGbXhPYzZrX0k1VUVFdmpLNVNVYUVqTHZyWG1UM2h5cTFsemhnUjZiVXhYdGdIOHlKSWfSAcsBQVVfeXFMUEs0MTdBaWxmX0todkRkaHhzRnpBQkt4ZFlKV3ZoOHZtdW9Jb0dXSm9pUG96QkN6ZEx0VEo0eEV4T3ozV2VtM2w0UUNZZ2YyX1RHUHZDZHpOd0VxdUQ4RVB4YU5IaWVNZzBtU3Ezd0VEX01OdksyaUdabmFTUzl4NTFZMlRJSGkwV1Y2NWhLU2c2SXcxVTNBdkx1NldKR1FYeEx1N0hYNEJiR0F2VGRZYXZNVy1KR2hGT0VHNW5lMUFQdTNYTWdWZnktak0?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 07:05:50 GMT",
+      "description": "India approves its first dengue vaccine: Know more about manufacturer, eligibility, dosage The Tribune",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "dengue",
+      "vaccineLabel": "Dengue",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "India approves first dengue vaccine - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkhsX3RZNVZGQjZRdHhKLUp2ZFozRnN1VXNlVTF0RG1PUkJmVjd4TXZfMEltOVg0RE4weWpGbThtbUN2cnFtNWt5cHJqTVM1MW1pYkxadjktY3VxcW1OalhUZWJvWFZROG9IMEJPVWw3dUp3am01RGhSeHljNHIzbVBCTVpJa3NJS3dvag?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 06:40:54 GMT",
+      "description": "India approves first dengue vaccine The Daily Star",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "dengue",
+      "vaccineLabel": "Dengue",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "World first: Koala gets life-changing two-shot chlamydia vaccine - New Atlas",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fdExNMFh3bEM1VXJkSV9TREo5X0hiZkZRRXlzRGdjTkJ0NXRqN1RxcVEwZHpwYS12TVg4bU5WSnBSME5oNXVMcE0xa1F4ZzJFZlBTbWxVeDl4ZGhZYnpDVHRkenR0Y08wS1hBZTFDNDMyU2djOGxqN1drUFZ3QQ?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 06:35:30 GMT",
+      "description": "World first: Koala gets life-changing two-shot chlamydia vaccine New Atlas",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "CDSCO clears recombinant live attenuated dengue vaccine for ages 4 to 60 years - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOXzlleERWRG40OV9Nb1V6SkpOVzlQWjhqYUJjUi1zeVNUWjdJWlZFYXNZQ0JHM25YNVpRLUVTV3liVTFjTWp6VWVndkxhQ2lxZ1FWWDhHanFmVktucUtCdTgwSFFYUlB2OG8xUHRqRUx1TjMzTzZhQXBSWkZIcDB1Zi02MTVuZnE3b21aa19XcDlYcVVLWTdIMkp4c3pGTHJDcFY4andWYVpHZEdxUl9TSXBhakx1MTdXaTJjRmVJZTZQUmRESnU0aXR1Ml9aUlJ2dkNEMHdn0gHcAUFVX3lxTE52am1IeUhfcW40dE8zU2ZUTDZIUGlfMzNRanV5LWNMa1RNYnQ2TXJmbWp6V0VDUlR4YUdHRlVZcTU3dDhZaU1TZnQxWDB3TjhhSjlmY092b3JIUml5UENtV0Z1WWlJaHRpd1JicGRhdlFiSzA1dUZCWkMxQ0FGSHgwVjdRLVY2eURtNkdpeWI1SDhtYlc0RnpJNXQxMUVGaDY5ZGp0QWR4WmlCVGp2NXUzMkFaUkhIWkVTQUR2VzBUUGFPZTc1bVFlVm5HM2xYSkt0U25CZ00yd3RlNWE?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 06:09:36 GMT",
+      "description": "CDSCO clears recombinant live attenuated dengue vaccine for ages 4 to 60 years The Hindu",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "dengue",
+      "vaccineLabel": "Dengue",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Health workers may get experimental Ebola vaccine strategy as outbreak grows - BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOc3pvY0MtQVAzZWNjQTVfMzBCN0xObnpGdXd1OElZbmJsZDlCSy1Gb0RPLW9IdUVkNEhwVW03a3J6N1I0YkJpY1RKT1VTbnFsUzdwQkFodnpUXzhxQmhHOF90d09FMkFGZFZ4UktYWjZGS3dTeXZFeU9IUnlDSHg3S3JXSEZieHdRbThtd2lEUXRUU3FNTGhtNGN4YWQyZDU5elBnZ2hhNndOYWpCbjRiVHNVSFNvQTh0TmIyNXJQTXpmSEtkSXhrZ0RyLUsxZ3llQm5pT1plU1VzZ0l1dnY40gHmAUFVX3lxTE9ORkJqcnNRRFo2eERGUFczaWF0UGc2V0U3NE9pNmlqa0k2cW5IT2JLR2RwRFBPRDJqMEx1WGt2V2hreGZJSm44MnhjRmg5ZkdjeE5QN2lNLWtRVGhZME93NENVdUpwMzY1bEhfQmpyTHoxbUJ2Umlxdm9KTkV4bkRCZWdPT2xKRmxMU0NFRW1RczU5RUc5ekhEcmlDM19FZzVYd0ZLTVlsTU1hSlhIdFFhenhwOWxTR0Nua0lZNUYxcnFNQVZWSUYtNUVIam82eERaREJrVWN6VWJWYlNNOW9SX3dDT1RB?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 05:17:49 GMT",
+      "description": "Health workers may get experimental Ebola vaccine strategy as outbreak grows BusinessLine",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "More and more babies are developing uncontrollable bleeding—linked directly to vaccine deniers' rejection of vitamin K shots - Genetic Literacy Project",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORlU3WUVFalhPeWJQV3ozTUFlOWFLb0w2SktJVElNZ2ZFQ1A4ZjRiOHdSd3UyNXVkMHFwNXR5WFNncE0yTkdzYlc0WVBvYnM5cUd4UjFYbVlwd1d6emEyWjZnLWo0RzdCeGtPRXpSRWgtdFIwcXFZaTM0NHJBT0FHQnBUUlJTQ0tWQ1d6b3dadGVTVnh6VDYzSFJPaktkai1OTFBtbnhVNWxEV2tVMmc1MktUUFZGaGJQa005YmZHMXlZQXBNNjRQbzdiTk9xUm1nTDZjRV9wc0VxZkZBelVpVU5VbldMLXFaalhESjNVM01jMU50UDZNQlV6WGVma0E?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 05:14:02 GMT",
+      "description": "More and more babies are developing uncontrollable bleeding—linked directly to vaccine deniers' rejection of vitamin K shots Genetic Literacy Project",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -90,6 +160,19 @@
       "sourceLabel": "News",
       "vaccineKey": "meningococcal",
       "vaccineLabel": "Meningococcal",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "JAK Inhibitor Timing Affects Zoster Vaccine Response in RA - Medscape",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWWZoZFZMMjdKLWVYd1ZXdVhZTzJYTVdtTm5FWXVhNlFoV0ZnaXZJdFZDeWIzVDQ2Zm9mdFFWVk40bnNuMTFCdzk0cGhFc1A0R0VkTkpYbVk5eFhHazRsX2xYcllJSzBhTmZ0Znd1enUtOU1XVTBGaHlhV0tCUkxiVEZYSzl2akUzejhKX2RxTDFLcEwtN0VDQ2pjaV9OSTI5aHhsbjZPOA?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 04:32:29 GMT",
+      "description": "JAK Inhibitor Timing Affects Zoster Vaccine Response in RA Medscape",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "shingles",
+      "vaccineLabel": "Shingles",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -159,19 +242,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "India approves first dengue vaccine for people aged 4-60 years - Asia News Network",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNU9UbmxOR3daak1jN2VpclUzb0wzdGRCN2t3b1Y2N19kdzU4S3dfZEJWc2p4eXNLVFpIOHFxWHJzaVlrdUJ3clliUXR6ajNKbWZsRl9DcjBLOGd3VzdfOWFyT211bTl5V3V0Q3BsTGJUYmRLajV5QlBBYUdKM0tYQUxIRzZ4Szl0dHE0UjNaMUg1dw?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 02:04:54 GMT",
-      "description": "India approves first dengue vaccine for people aged 4-60 years Asia News Network",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "dengue",
-      "vaccineLabel": "Dengue",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "COVID-19 vaccines remain effective despite helminth-induced immune modulation - Medical Xpress",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbWl1QjdQQ0dsR25ROEM2b21qUG1STFoydi14QkNaNnFvMzNKb0VrSnF1YnM1UnlhUWVBOWFHMFhUYndWRTU0bXFJWDBoYzA2S2J5RGNhZlRfVVlsTmZZSlhRSXBzckRyVFgxQWFXcWFfRS10RlhObm15ZWFXR2hjUGo2d04tei1GQmk3aQ?oc=5",
       "pubDate": "Tue, 21 Jul 2026 01:40:01 GMT",
@@ -211,6 +281,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Measles returns to back-to-school conversation as Georgia vaccination rates slip - WALB",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeXNkRWRGb2lMUEJ0X1VZVlJhOGkwVzRsTm80MktwX1k5c21KNkt2SkJnOFZDNk1ueEdDVUIzRUcxRDFaOUFlVFdleGtxTDRLUWJDRlVDOXVvR2FNaUlWQmc2V3M0cklOSHNWWC1FQVB4UWxpY2N5ODh4SUJCenBjOW5lSUdhUzlxTVEySjYtclg2TlVZdHBiby1pWmhJWkdmR1FxclRNU1RTME9kbE1BQTFuZw?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 23:03:02 GMT",
+      "description": "Measles returns to back-to-school conversation as Georgia vaccination rates slip WALB",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Measles returns to back-to-school conversation as Georgia vaccination rates slip - Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOEhyN3d1MWMtWlc0M3lhQkItVG9vWERtQ2RobnpCN0ZUdWg4RzNTYWRxWWdOZGdIa2g0ajVtNHRrSnpON01Qa1lDVVBjZTlFbTJKbXFWU1pwdUJiZXN3UnAxUFN3bjktV1RxNVhZYXJXT2QtX0tTVFZtYzgtQzFYVFFJODBkYllobUtmbU1PNjVZM3lfWm81UExibzhOS0VJRHJYdjF3NkViTlhlRkp2TjdCN1lnaTl5QUxB0gHPAUFVX3lxTE8yV2dRUlJhUXFCVXk2YTlOS05LZGdiWnl3b2pqY05GOGZVai1vUS1qWGptb0Z3em9sZWxCZ212VkV0OXdZTzR1Wm5HaEZheGNxYndsQ1BSSkpBbFFOT0ZLYmhNeUJLbzRXZ2hJYzZjbWNMczk0MVh2YXlRM3d0VjEzbV9jWjB4NjI1U1M5dDg3Z2JXajBzMHZyaXBCTmZlM0hFQ0NtUXZDelhUbmJlQVVLdGk1c1B5RVgwckhKNDBtRnY4eV8wZ1pMdGpDUHpUUQ?oc=5",
       "pubDate": "Mon, 20 Jul 2026 23:01:00 GMT",
@@ -246,19 +329,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Measles returns to back-to-school conversation as Georgia vaccination rates slip - WALB",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeXNkRWRGb2lMUEJ0X1VZVlJhOGkwVzRsTm80MktwX1k5c21KNkt2SkJnOFZDNk1ueEdDVUIzRUcxRDFaOUFlVFdleGtxTDRLUWJDRlVDOXVvR2FNaUlWQmc2V3M0cklOSHNWWC1FQVB4UWxpY2N5ODh4SUJCenBjOW5lSUdhUzlxTVEySjYtclg2TlVZdHBiby1pWmhJWkdmR1FxclRNU1RTME9kbE1BQTFuZw?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 22:03:02 GMT",
-      "description": "Measles returns to back-to-school conversation as Georgia vaccination rates slip WALB",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -436,19 +506,6 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMk9KSnBGaU9XS01kTjJQY201LWxFS0VOMkVrM09XbmlHNkpnZDJIVWstb2dqbkxvbFZuaEFQenp0QnNOX0o5WWhnOXNURkx4VVNHRzBka2drMHNCNF9YbFM5d282SDEwcVA4eF9PaDU3NTNLaGVFWGVabklsMWdOTGhuYTBSNnVrZHJYVGhaNWlvWjNOZk1RRUpicjRNb2JHQzFnaS1zR1VKWlhxVFhCYg?oc=5",
       "pubDate": "Mon, 20 Jul 2026 17:28:35 GMT",
       "description": "Riley County Health Department Receives Continued Funding For Childhood Vaccination KCLY Radio",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Turner man sues Maine DOE, local school district over vaccine requirements - Yahoo News Canada",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UU21sTWItNlpMT2RwQjlkMkw5OGZoQVE2TlJ4MFlld2tISzZENy16YTdfN2xXUHpzdnNhbkhUOXNqOXlYanI1RDdyZ2s5NnQ2T1Z3dUxYWDJ3bTFFMlBxVVBBdGJ6bmZWZ1F5aTh5ZmdHbzh3?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 17:28:11 GMT",
-      "description": "Turner man sues Maine DOE, local school district over vaccine requirements Yahoo News Canada",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -705,19 +762,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Immunomic Therapeutics Announces First Patient Dosed in Phase 1 Trial of Cancer Vaccine Candidate ITI-5000 - Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWVdxcDF1QUFFUWdnZ3FOUkV0eHo3ZDNfb01GbnJDUFFCWFhWakVrc2oxR1FQaDlUemk4UzU4Y1F6U203LWJBVmd0dEZHaXk4SXVlVFIzOEZCTnBOa0lPNjB4WVR0Z2ZyakNFQmJ4VFFVWWxsZ0w5MlBYUi01Y3pTbnlwS0tWRjBYSHBGVkg2WmtIYk14a1dHM3l0TjBObTMwN083WUdyMHBlRUUyVnBvSHJldm5pbDFBbWU0NmhiR1IteV9URU8zeWR4dTJoejdBVC04YVJETmZaSmxzZ0FBVlViUFdpTVQyME1YZV93X2g1V1RZR2c?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 11:55:00 GMT",
-      "description": "Immunomic Therapeutics Announces First Patient Dosed in Phase 1 Trial of Cancer Vaccine Candidate ITI-5000 Business Wire",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "The UK commences testing of new Ebola vaccine - medwatch.com",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yMnBBaUw5dEJLODVRNGJ0MmNZbGVHM0NGSUtsOHV4LTZiRWZhMkNwT19oNFEtQzNGbHJOeWJ2clVxcnp2NGpKM1lvRnE2eURXVWxMWlhsaHFfTUJscU93R29wb2trelJvYVZiRTBJRQ?oc=5",
       "pubDate": "Mon, 20 Jul 2026 11:49:00 GMT",
@@ -748,19 +792,6 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOajJIN0NJMDQ4SEZOOFFrVWZnUVVnbGdzVHBnOUdFQWt0RjU2dVNGLU91YVJ5b3F4VXE5NTBUWHNKUjNmUWZZLVBvSFBJdkNwZWxheXhpZXhmWjV5cWFFSFVRR1FNMjZHLXE3VW9VUWVXWXo4WjJTeW5kOWpNcTlxZHVweDQxRnctMHM4LUNUNWNZZHlQbm1haEhCLXVBSTJORU1nRjBR?oc=5",
       "pubDate": "Mon, 20 Jul 2026 10:37:24 GMT",
       "description": "Vaccine to Prevent Pancreatic Cancer Shows Early Promise Medscape",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Japanese vaccine becomes 1st vaccine approved by India to fight dengue - Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY0ZFbXlzeWk0NHRRa2NfclI1NE9aU0JqQ2Vmd1FKSFhFeWh6S0s3MUtsS0NwdzVCTzBfUmprRzIwdThCdXZ6cnphcDBKX1Rsd1UwenJ4SllJX1pqdER6aHgzSUw3OUVnaEQwX2JHajdtZ3FIeHU1RHZLeTFfNmZhWnhacFFidEQ5Z2N0V1RxdXhXcUVPQTQ0NU5QMmlrZm1fM1lmeS1NUEhrcjlWUDRhdnE4cGxnS1k?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 10:37:01 GMT",
-      "description": "Japanese vaccine becomes 1st vaccine approved by India to fight dengue Anadolu Ajansı",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -835,32 +866,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "India approves its first dengue vaccine QDENGA after DCGI clearance - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTVdacVdWYkRnWmpldFl1OVFDYXBOdVZQa2c5MklER3VySjdRVmVUa3RrV2p6czRyazBfTzFjY3VDRGxEY0s2QTc3eFB1elExSHVKV3lFWDdWR2U0YVZQaEdwdmlOYzUtVFJJWThqZ2prOFJRUzNyWDVFMDgxejk3ZWNNSENoNXJpTEI3V3EzMjVVMUE1WUxkc2R2bmZGeXNoOG5Db2N1RFY0S1ZhenF0RzA3WDJPVzA5RXFRTy1fWHJrRkoycFpLdTJYNjd1VlZO0gHWAUFVX3lxTFBCaXJDY0JKbXhGY2Fwb0pWck1iZDNxUUpTRWtPdkxUc3hZTWhzb1JnMF9UaXhDMWcwbGc2eGhMVkFFSG14Y0VWam52VFJ1MlFRZHJ3ZldUXzhraUdBTWFLeGhFTko5dUhWUTNHSWJDN1F0ZG1ZWU5VQjgyNVhLWEtwOUU3NG81NzY4Z1luVGVDLWZ0X05uMXhhN2VBZ1A0UlNuWlp0Y1B6eFZLOTg3WDFDZVZIdkNMaW1qSmd2VUNTejlEcWFVbGdwTWljSGRzcmFaaVdvZ2c?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 07:31:00 GMT",
-      "description": "India approves its first dengue vaccine QDENGA after DCGI clearance The Times of India",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "dengue",
-      "vaccineLabel": "Dengue",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "BreezeBio and LigaChem Bio launch joint research on mRNA cancer vaccine - koreabiomed.com",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QRTlnal8tVFJPcTZoc1BKYkh6dWFtSVB5MGt3TlN6OGdrcWxtM1BXd3p4YjFfN1BhdU9rRGFIdVlmWGhBMVY0dzJ2NzBvVFc1blM3am5jcXI5WTZOOGhELS1jMlRRQ1BwWVoySTFn0gFyQVVfeXFMTTJiSGU3UUkzYXd3cC1yanlBM2NNdUtIVkc0LTJHdmtjZ1ZzakVBekhYUzBZcVoyUVBxZkYtTjQ2ajJITXJZbFJPYmNXdTlvTHBxWXppeXB5Q1JCczlHRjFDMUxOQU12ak5xNnZlUEF6WlVR?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 07:10:17 GMT",
-      "description": "BreezeBio and LigaChem Bio launch joint research on mRNA cancer vaccine koreabiomed.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "Japanese drugmaker Takeda's Qdenga becomes first dengue vaccine approved in India - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaVEtNHhvZmVTNG5tOWFEdTVaQTVUdUZKYmNoOXFMVFBSYkVDNjdpSFIxcFR6U3NUUnJ4VFA1a3Z5REg2MFFjTWZUSEhDSU5EMkVvdDZmdkNMZW0tbG05YklMMXA0ZWZWd2U5TmdpNWx0TDdXUF9KM3BkczcxZjlMOVBVNGtjWTVxZUVoaTlVUlFIa0RYemRnX3dEMmFzWGRsTkU1QkhONzZHZzZBM3NGWWExLTlxbjBrNTc4dFlJZm9BSURvSks1R3R3?oc=5",
       "pubDate": "Mon, 20 Jul 2026 06:01:00 GMT",
@@ -913,19 +918,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "COVID-19 Booster Comparison Shows Higher Antibody Levels With mRNA Vaccine - Drug Topics",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX3ZQZUljdmZBR1lBeFkza1JxRTUwWUJ6dzg5SjVZbFZLdWFSTElLUTA5Y0IxZ3l5cmlHbzhwaU5tU3dzQkNEWk1tdTlkZzVOTEhlbDFWZ1N4eUpmckNYVWlocm9ERjVpZmdjdk1xNFJrT3ZUaVVJRGdkNHJ6TzN1QWxENG50WUczdXFVWW5YcnJvRy01ODZUUzlGMlZLYU90REloTHRXUUpYUQ?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 07:00:00 GMT",
-      "description": "COVID-19 Booster Comparison Shows Higher Antibody Levels With mRNA Vaccine Drug Topics",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
       "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT",
@@ -961,19 +953,6 @@
       "sourceLabel": "News",
       "vaccineKey": "meningococcal",
       "vaccineLabel": "Meningococcal",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Inside RFK Jr.’s push to dismantle decades of U.S. vaccine policy - CNN",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03M2tQajFtNTljaFU1N0xOekhBb1RyM0Q1QzZ3RlpZSGV6amhuT1Z5SjdsVXl3X0FCVlpvX1BBQVpOQ0ZaR3hDRzVjTFpVWjRMWjlsWWdRcVRCeW13bDE0WkhTM2s0TUhXbEFr?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 11:00:25 GMT",
-      "description": "Inside RFK Jr.’s push to dismantle decades of U.S. vaccine policy CNN",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
