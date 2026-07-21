@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-21T20:48:04.397Z",
-  "itemCount": 76,
+  "updatedAt": "2026-07-21T21:46:16.950Z",
+  "itemCount": 79,
   "groups": [
     {
       "key": "covid",
@@ -15,17 +15,12 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 7
+      "count": 10
     },
     {
       "key": "pneumococcal",
       "label": "Pneumococcal",
       "count": 2
-    },
-    {
-      "key": "meningococcal",
-      "label": "Meningococcal",
-      "count": 1
     },
     {
       "key": "shingles",
@@ -40,20 +35,98 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 50
+      "count": 51
     }
   ],
   "items": [
     {
+      "title": "DPH Confirms Second Positive Measles Case and Encourages Unvaccinated Residents to Seek Vaccination - State of Delaware News (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQzRScEo1RUYwQmNXT25EbmNsN1VvYWFQeHhqQ2dZaFNlMGpFalc0anYxTzJRSzJLUmJTTkh5c3hHVldDSHhmUWdwR09sS3hSS0NUVW5vUF93VEpVRnNvWVJJYk82OUdRaU5aanlKT2hxUHZiRFI4SmN3YldnQVktYXV0enhreFNLT3AxRzVFdWdTU0toM2FYWTVKb0MwRXJLVEVSaVE2aUhxbHNQQ2hLVjJYclRxQk95eFdOQkgzb1BSY3ZiR2MxWklfNXEtckNIVERV?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 21:36:44 GMT",
+      "description": "DPH Confirms Second Positive Measles Case and Encourages Unvaccinated Residents to Seek Vaccination State of Delaware News (.gov)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "New Caney-based AABY Foundation helps provide veterinary services for community members in need - Community Impact",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTHcydlFmbDZfMmFfZVZuRjhxOWhIZ2g2WHRiZFMxMXFzeVhFZ1Q4OFFyN1Y3Q3M5Z2d0Z2VzZVJuQm1uRmFQcTJPVGlSOGMwZGlRRWIzOG04bDNjLWZ3UHpzZ3h0ZVBBSXJPMUtLQlh5ZG5uWHZvQU95WGNwNllSRFhuWmNkZ19Vc01tNTZyd1pQTnhYM3IweUhZRXFZWjJabndPaER5Q0lqSHZKZkU4dnA2U0xKcm5lRExIclpTYjZXUVotYldFNHRhVkRSaFd2SS1MdlVDYlR6RGhybTRQU0lSQ3FXZw?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 20:46:13 GMT",
+      "pubDate": "Tue, 21 Jul 2026 21:13:44 GMT",
       "description": "New Caney-based AABY Foundation helps provide veterinary services for community members in need Community Impact",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "JCPS encourages vaccination after measles found during Jefferson County wastewater surveillance - WDRB",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOUHo3UnBfQ1pnWHZ6bHU3WENwZmZTUEFyRURWeEVEdG1pYlBqaUZQa2pocjU2Tkt2eWtBS0FSUmxUOHJSaXR4cVZlWV9iWDBzZ3dDdE1UU3NaZ01pSHc2STJBQ3FVLVhnai1EUFlvZDdkY2xmdVExQ2RZSllCUlo1aF9iMmxIRE1NQVhkaDFpMUszdWpiTmJMZHU2WWdaaTVGOVpoV1pmRDZNUmJhZDE1NzhzVDBEZVpKMkZCWC1XbnBsMmIwaUxDOU01Tnk0MXBvYjdsNUNlc0VDMzRqS2k2S1E4QzhpN1pCUnBzOGNTSVR1VkFTbzhBOWlWZkt0dHVy?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 21:06:42 GMT",
+      "description": "JCPS encourages vaccination after measles found during Jefferson County wastewater surveillance WDRB",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Oklahoma vaccine exemptions for kindergarteners more than double as private school rates jump - KOCO",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkI0alc4S1BaUk52OHA2blBuYm5BVXRoU083d0ZPZEhZQmlFYTk1SzRONjJrWmdTc0YzVXo2N0w1N2NrZ29fZEN0bjRvQjZfcVBQbm9VWEllczFkX0pmNzM3WlN5SlJCUTdzb2h2ZXU2bk4tc1JEM3VjRmJBQkxKTjU1N2RYZkcwSmE4dGl0d2t0UWhvWDQ3eg?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 21:03:00 GMT",
+      "description": "Oklahoma vaccine exemptions for kindergarteners more than double as private school rates jump KOCO",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Think Vaccines Are Just for Flu Season? What Adults and Parents Need to Know - Cone Health",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qX2NJZTRVZ0pFekExMUpvbWVYZVpsN21BODYtS21PWWZhMkFhYS1jRTJmV3NDYlVuZ3B5bGpRR3Frd1lGZWRhVUdWUllvNndLVUxuRFdobUg3cC1FWDJEdWJCX2FaTkVPcG9DZmlJMi1Camo1Y0NMWQ?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 21:01:52 GMT",
+      "description": "Think Vaccines Are Just for Flu Season? What Adults and Parents Need to Know Cone Health",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Anna Berkenblit: An Encouraging Early Data on a Mutant KRAS Vaccine to Prevent Pancreatic Cancer - Oncodaily",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qY3c4VC1iaEI3bE04X0xyR3dWdEMxTUJ3c0FZZWJLMW1La2N0WEgyNE1hbWtEWUwyNWhyaE5FVElqdS1sTVloY3A4RXNMMGtrT0lBM2VWRHVIWUtBemlicjF3?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 21:00:14 GMT",
+      "description": "Anna Berkenblit: An Encouraging Early Data on a Mutant KRAS Vaccine to Prevent Pancreatic Cancer Oncodaily",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Delaware officials urge vaccination after first measles case in decade - NBC10 Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZng1eWZqaXJFenR0dk5pUXZPMkxvdml3UnBWemtQc1pJX1QxclNoWDNsUGtmNkl2ckNUMUVFUFQ4TzVDU3lEaDk5TGItaHI4UXhYRGVpYV8taEduVDIxdWtFeUdBbERERlpac3Uzc0Q3dmpLVWlpS3poUHBTejFPV3h4djZ6S1FaUXBzTC1iT2VpZjlnaEZxWnlTRGx6U1FRcXhMLW43ZU9fNW1xTjhqU2pqMjUxbUhxa1RkTkx0bzNXMHJsWmdr0gHPAUFVX3lxTE5LUlRnYlB4c2NYM3JEMEhRbEdwSk5QbTVNaUR3dGw0TF95eUI5MGs4Z1YzLTV1T3g2eU5kZml5cU1MSzdHdi12V3VqQXZUR0x0ZVdyallEQW4wYnkzSkpoZWZONC1OMzNkU21ONHpuLUpJajBRM3AyRTEyNkNuNnhXeERyLVBuR3YzZWktWFFiOE5JRXdVTHpVYjNGWjc4WHFZT05SQnl1VTN0OV9LdFRwZ3RvY0puQ0ZMX3NDX3ZEOGVYbHFiTlZFY2pPMmd5RQ?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 20:20:58 GMT",
+      "description": "Delaware officials urge vaccination after first measles case in decade NBC10 Philadelphia",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -331,10 +404,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Lawsuit over COVID vaccine policy at Idaho National Lab leads to $5M settlement - Idaho Statesman",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CTHZTTHJ3bHQtVTlZb25rV3lhb3BOVVlUdDVEcHpuTnFLTDByMEctN2RGM3dPd1B6TVRneE92SEpQaVA3c2F3eEctZmxobkU1eU9YV2lDeGpRaWVDWldVc3NKZlpiUjVlRFdWR3NCcUFvS05Z0gF0QVVfeXFMTTdPZllhal8ta3Nwb1l2VWtOMTRGTW9fRkdOUk91Tm9tZGJwdkN5LS1FbmQ0UFdyUlFvUktiZE1oUmxIU1U0dHZ2ZGE4VWJWeGlLS2NUdFNud3BHY2ItTGNVWDdvZHRCN0N2ay1SU21pUHc3LVU?oc=5",
+      "title": "Lawsuit over COVID vaccine policy at Idaho National Lab leads to $5M settlement - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY1NhSGpOU3ZScjV0ek02cE1fUFhBTy1tcWpCSzMtUWVWRlczSDFTUjhsbmNMWUtIMXhCV0VIZ1JtNmhHVWtpSW5SQWVoUW42blBoZFlrbDhXR0phb1hWVEZ6d1p1YWRXM016RUV4ZTlmU3JlWDg4MXZKUWNqTm9HV1dTWTgwbzdRWFJyREJ1cEQ?oc=5",
       "pubDate": "Tue, 21 Jul 2026 10:00:00 GMT",
-      "description": "Lawsuit over COVID vaccine policy at Idaho National Lab leads to $5M settlement Idaho Statesman",
+      "description": "Lawsuit over COVID vaccine policy at Idaho National Lab leads to $5M settlement Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -513,23 +586,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Vaccines for All - UNICEF",
+      "title": "Vaccines for All - Unicef",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zaUFTOXZGdDBWWjBPNHh4c3FqX01sQ3pRcE5IOXBrekhwNzlSQzhGY255ZTZOcU5jVnI2VnlFY0NDdkNmV25adWVDVWRFdmM4MTF5RXlQX254NVdsZ3lJbGtaeDhLNmc?oc=5",
       "pubDate": "Tue, 21 Jul 2026 04:31:42 GMT",
-      "description": "Vaccines for All UNICEF",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "The Importance of Vaccines - UNICEF",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jOVEyWUMxM2d5SFItakZjRnVzcDVTeFZ4ODYydl8yQlZ6ZHBCR3FtMm96aU5MQkpqQ1VvTm1JUUxEQUp1TEstTUFyN0lzcHRkcGdaalVxaC1QRWUwZ2hIM0x4VXRpT3UzZ2UwRi1PV2s?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 04:31:42 GMT",
-      "description": "The Importance of Vaccines UNICEF",
+      "description": "Vaccines for All Unicef",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -942,19 +1002,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Free immunization clinics for back-to-school in Little Rock - KATV",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObnlOVGplc0lRdDN4MWJIQmxabXh2bDNFVWt2UjJIYUlmQTd0RmQtdVpoSlVHNkFTb2ZVWHlMWkltTTByS05nWkszMDZtcVRRYWRoV05SeGNlRGNiMHU3alVYT1A3bXg2MmJnSDBYRWllZkw4TVBXdU0zTDdUZzdHSkhzb0FpMDNxenhxM1VjdGM?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 12:39:30 GMT",
-      "description": "Free immunization clinics for back-to-school in Little Rock KATV",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "A Pancreatic Cancer Vaccine Shows Promise in a Phase 1 Clinical Trial - the-scientist.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV1hnZ25sT1pwZlV1amFkVy1qYmlhNk1VLXVvZkpCYmhzVlZOYVFURzJkT25tVnZzcTRZdy1USVFrS2ZxSVhnVFczbnRweDRuVGV2N05nU1pFeE9GdXhrXzdiNmpUUVZMSXJXb05ZTUo3cUlJS0VqOXhEdmVFSVJFbjZlajVZd0VBeG1YeFVPUFQ5YlJQNThrOTNsTDRzRDQyOExHelZoMXI?oc=5",
       "pubDate": "Mon, 20 Jul 2026 04:05:24 GMT",
@@ -1003,19 +1050,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "JCVI publishes new recommendation to Government on adolescent MenB vaccination - GOV.UK",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdUpTc2RzMTY5VEdPR01PUzdDcDdqZ1VBNERxYktydDJvZGpkbXl1RGNKbzBfSVJ2OXpaRVZ2Uy1xMDJZZ04zVFVzNFBFaWt0dmtBNHZMOHpZV1VfVURQOVJKWlVDZ2trLWJ4RjNNRkRRWnFxNEk1VUV2c2ZGZW4xOF9EZDdMZmhoTUZmUlh2VUU3MUpEVnFvQ2R0NllUcG85RUJkYld1RzAwMzB0SVNVclJaMA?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 13:25:31 GMT",
-      "description": "JCVI publishes new recommendation to Government on adolescent MenB vaccination GOV.UK",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "meningococcal",
-      "vaccineLabel": "Meningococcal",
       "articleType": "news",
       "articleLabel": "News"
     },
