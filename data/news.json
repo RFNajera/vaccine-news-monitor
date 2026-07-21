@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T12:54:10.927Z",
+  "updatedAt": "2026-07-21T14:08:47.728Z",
   "itemCount": 70,
   "groups": [
     {
@@ -30,7 +30,7 @@
     {
       "key": "meningococcal",
       "label": "Meningococcal",
-      "count": 1
+      "count": 2
     },
     {
       "key": "shingles",
@@ -43,17 +43,38 @@
       "count": 7
     },
     {
-      "key": "malaria",
-      "label": "Malaria",
-      "count": 1
-    },
-    {
       "key": "general",
       "label": "General / multiple vaccines",
       "count": 44
     }
   ],
   "items": [
+    {
+      "title": "India approves its first dengue vaccine, from Japan's Takeda - Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNUljQ1B0dGNuQ21rWTVUZFg1RVpPX2Ryc2RLRzJSSXBWTTdvQ0lBb3hkQ2tEZlBHYjYtb0k0TG9tUUxadmhhTTJ0Zno4X0hUNHJPTEoxRE1WbTk2Q2NxUzdFVExmejlsWE1mSm1MZHB3LVRzRXItUFpYcEpvdGxiRkZIUVJvVWhlQVVuUmgteEljS1U1UlZOVmhvSzFiNFN3ak5nUnZqTnd1SzBW?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 14:00:00 GMT",
+      "description": "India approves its first dengue vaccine, from Japan's Takeda Nikkei Asia",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "dengue",
+      "vaccineLabel": "Dengue",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Can kids skip school vaccines for religious reasons in New Jersey? - Bergen Record",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWmQ1b3J3U2h1OU5uck41WkhGOWkzNVRDS0lSaDd3UlI3aExDLXRKVDMxMHNUZzNYSC1yVWJ6OUZjRzhYb2E0bm9peDdWQmVfOTdTLU8wQlFhU0tkdjB6eDl5QzBhNnBFd0I2WnVzdHJPTXVEOFA1UUhDbmdmcGxEN0QxdW8ybGJwc2FnZC1iQTk1YVBRT093MjJQcTZwZGN2TThuOVdjMmxxVkVyZUhLR0RzTGY?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 13:31:03 GMT",
+      "description": "Can kids skip school vaccines for religious reasons in New Jersey? Bergen Record",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "First-in-Human mKRAS Vaccine Elicits Durable T-Cell Responses in High-Risk PDAC - CancerNetwork",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN3ZXVmJxeTZQRHN0dnc0R0hmaEdnX05aMFIzZjlzTzlBVm1FYVE2bEp4bjQtdmFRTFRhd1AwcklxaEJuQzdGNkQyTkVMS1NmSVJCQ08wVHEyX0xSUTRHRUxacDlsQ0xmVGplVXZfSHJnTmFBTTJCVGZJMF9MYjZGV1NWeFhNaEJONnFFOHJMMlY2b0tmWFhZa1o3bTJvVW9vaUhGdWZNeXF1dW8zM3BtdU1Oc2M?oc=5",
@@ -92,6 +113,19 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
+    },
+    {
+      "title": "Russian scientists test Ebola vaccine candidate against emerging strain with 40% fatality rate - Новости GxP",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQmdVU2lZTW9SODltVktZeVpjeG9SRkIxZmF1eDlKZjNHbko4UmdJZmQ0S01PNHo0cUNvRGNvRkZDN3RjOVhWSTNoVC1ITUZJd2NqRXBTcmJoWGhzM1NSb081eURRR2psc0FLWW40aXR0UHBkcWNFcEtwdTBKSWtqV19zOUJjZWZyNDFYWElSZng0dXdaQnNtcmlhTzBlbEZwX0dSdmpWS0ZHNzBkdm96QkNvVG9QNGhSOUVnOHJNVGJuTUnSAcMBQVVfeXFMTkJnVVNpWU1vUjg5bVZLWXlaY3hvUkZCMWZhdXg5SmYzR25KOFJnSWZkNEtNTzR6NHFDb0Rjb0ZGQzd0YzlYVkkzaFQtSE1GSXdjakVwU3JiaFhoczNTUm9PNXlEUUdqbHNBS1luNGl0dFBwZHFjRXBLcHUwSklraldfczlCY2VmcjQxWFhJUmZ4NHV3WkJzbXJpYU8wZWxGcF9HUnZqVktGRzcwZHZvekJDb1RvUDRoUjlFZzhyTVRibk1J?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 10:09:05 GMT",
+      "description": "Russian scientists test Ebola vaccine candidate against emerging strain with 40% fatality rate Новости GxP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Lawsuit over COVID vaccine policy at Idaho National Lab leads to $5M settlement - Idaho Statesman",
@@ -315,6 +349,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Updated 2025-2026 COVID-19 Vaccines Reduce Hospitalization Risk in Older Adults - Infectious Disease Advisor",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLUhsRU92aUExRXNjMXhBRTl2WThabjVBeDVyN1pjVG9tQTFsNm5sS2cxMTBmY2pXNzdwUzB6RmtQRzZQY3lVMXFWVDkyTEVKaENWWXNjZEx0VG1VbTVIV1ZkaGVfMms0U0I1STA0ZllFLUhnRUdRQWtDYzE5VFhjbnd6aFJSVmJmZVNzR0pWLVF2Tkl6WDVOWmVBRzRFSHF6?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 04:00:00 GMT",
+      "description": "Updated 2025-2026 COVID-19 Vaccines Reduce Hospitalization Risk in Older Adults Infectious Disease Advisor",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "This food compound may help vaccines work better in older adults - ScienceDaily",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iNEVXRVpZUkRLSnFxZFgtekI5TXQ0ZmxyZzRjSFk2U2JNUlFkcllDOU9yUUVTSGI1SVdnTEVwTkgyZV9xbk9Lc2laa1RMc3h0c0o3WG95SEw0MnlQV0dIM2dHWEhXQ0lBY2dybUIzZw?oc=5",
       "pubDate": "Tue, 21 Jul 2026 03:53:18 GMT",
@@ -324,19 +371,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Irish developer of malaria vaccine wins European Inventor Award - IDA Ireland",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNUg2SVoyMzZObkxsTTNza2ZrZXlWZEljNDdfQXRqMloxRkNnbjFNSENFVENCR3g0Z1JENllhZjZrY3hGQU5Ra3B4V2hMWXg1QzVpVkFCSzdfendzRGd1TmpTa2FETGRiRXFRcnVqdmJEc0hwSjZNTVd4bENqMUEwTlRROEl1d0s4bGVIeVd5Nnl6NERxa1l3ejRTbGpqdk83eGk2eDNkM0lRZDVxd0JRRg?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 03:08:22 GMT",
-      "description": "Irish developer of malaria vaccine wins European Inventor Award IDA Ireland",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "malaria",
-      "vaccineLabel": "Malaria",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -601,19 +635,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Moderna says CureVac broke agreement by suing over COVID vaccine patents - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdEIyNHBWZXBRbzgyUEdUWkNQclZnZFZLZ2EzLUJGb0ZTNTFacl9MMkNWREN6NEVoelNnQ09qZDZKX0VYX3V1UjltVlRtTnd0bW11ZVBqVUZfV0ZhazFYOWJISUs0Y2VVdkNiSTNVWXh1TEdPNHY2RDh0b1U3eS1XSHZ4TXpJcDZqeVMyMjRfR2h4ZFZiMUxMUTNVcGhZVHBvUnJMajBtX2FyTUdjbzA3N2dqWUVQSzBTbkVETDdNaDh2NjFUN1hmVlluNTIyX1NzNWVBUzdETmxkQQ?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 16:59:43 GMT",
-      "description": "Moderna says CureVac broke agreement by suing over COVID vaccine patents TradingView",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Column: Cook County offers free immunizations as number of unvaccinated students grows in south suburbs - Chicago Tribune",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSURzMlgwVktEMEVjbWp3azJoN21LZTNIb1lIcmNMTGl1ZFpyQlpWRThWdllabFdRd0UwdFgxeHE2a2swb3Y1NE1tYTd6dVY1cTZrSVBHUHhzLUJ6UUdRbVQ4WnlSVXNhR3E0MGJFRExvbUVSSEhaZlpFZjFxckhVVG5TRGREejhPRlE?oc=5",
       "pubDate": "Mon, 20 Jul 2026 16:56:44 GMT",
@@ -640,19 +661,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "India approves first dengue vaccine as cases surge in South Asia - The Telegraph",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUDZfUlozMF9ramk2OUo1NnBRQi1MN1ptcktRVUh6aFZXczN1bmFNTm03cGIwN0dKd0o1ZVlvNmhTTGNoTXNTa0NncGZWdEFLdjl1QkY4S3lrQXN1UExMR2JsNVQtOGM0OUNkazU3ZER2WU90cFZ2U2l3dEwzVlJKY0ladTlEcEpSc3R3OGFuV0lzOURhb1NLMFlWaFFLTnpkS0IxRGhFMExfekJnVy1hMC1rX2FOR0VReTJaWmh5QQ?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 16:44:00 GMT",
-      "description": "India approves first dengue vaccine as cases surge in South Asia The Telegraph",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "dengue",
-      "vaccineLabel": "Dengue",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "MMRV Use May Reveal Vaccine Access Gaps - Conexiant",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOFFlN2dSb0NSbFRSTWU0QlNjZWV6aGN5TDFIWjRsbVFsRUFWNG5sSURIRDRLVWlqaVF6NjJCM1kzVUliNnp0R09YQUVzaF9YU3FLMUNFdkp6NlpnRW8tOGFmelk3LVNSVXJjUnNndDVoeUktTDl0SUhyQ1pjYnpnS1lRcmF5V3hSSVFDeGhWNWJIVy1QNlU0bXlpc0ZFNzJTMzZ0SQ?oc=5",
       "pubDate": "Mon, 20 Jul 2026 16:37:18 GMT",
@@ -675,6 +683,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Bereaved parents from Kent urge young people to get MenB jab - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpQXdRWURib1NLbkNnUEs0ZEJhVHZkTWg2MjZNaW9IZGRwcW5zOW5jelZMbzhQMEg2dFYwck9CdzFYQWVYOGM2LU1PR2xzNXFnNFZiWTR2Y0RKZw?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 16:26:20 GMT",
+      "description": "Bereaved parents from Kent urge young people to get MenB jab BBC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "meningococcal",
+      "vaccineLabel": "Meningococcal",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -735,19 +756,6 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSkV4cmJYQjJ0R1NFUG1OU0ZfMGpxVmFIZmd0R2tPTUZHN2RqbEpVckFJeUtDTGdzTWs3alp6dlRNRzZNcDFkNVFKci1ockpfSkJaTzdhTHJmVHlOLVVnalU1c1ozVlNGMXA1Ql83Wnk5c2xtVzhWcko5WU1COGxDb2wtLXl1LVB0UE8zdEEwMnpqd0JJTG9qc21LM1dkVzl4b1pBV3I0cy15OHlJLWh0LTlR?oc=5",
       "pubDate": "Mon, 20 Jul 2026 14:21:52 GMT",
       "description": "Angola has completed a strategic process to enhance the impact of vaccination WHO | Regional Office for Africa",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "My Vaccine Lawyer Secures $229,845.14 VICP Award for a - GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNWE1oaFExOXZiS3A1elAyM3QwUkdNRE9YanZTSm1UR2VKUDRPX1dKczZwR09xRURDLW43Z1dILUdzWXRYeWVkUVdWYUdNazBMMjRCVDgwdEpjelY4V2h5WGFlaVpNQUktUGpYUVAzNEhFY0dWVjdoZjFHMXBJeUxjX1pWMFBSRHl6bXBLWm1lbEFGMVkzdDNicTcwNUZPN0xORTloV01qYVljVDNZRUtLZW5oYUhpejROQVFiSExzWEtmcG4zWTcwTnh0SVFlaGxCWUVGOFhlUklLRno3YmtYdXZzYmVCenJYRUZkTlN6QjlrNmNONWRVSlZudHF5TVJpa2tZeXdtM2hfUFNmSUh5TmptVTc1N0x0SHZZTnVoUWI?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 14:00:00 GMT",
-      "description": "My Vaccine Lawyer Secures $229,845.14 VICP Award for a GlobeNewswire",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -839,19 +847,6 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yMnBBaUw5dEJLODVRNGJ0MmNZbGVHM0NGSUtsOHV4LTZiRWZhMkNwT19oNFEtQzNGbHJOeWJ2clVxcnp2NGpKM1lvRnE2eURXVWxMWlhsaHFfTUJscU93R29wb2trelJvYVZiRTBJRQ?oc=5",
       "pubDate": "Mon, 20 Jul 2026 11:49:00 GMT",
       "description": "The UK commences testing of new Ebola vaccine medwatch.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Vaccine to Prevent Pancreatic Cancer Shows Early Promise - Medscape",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOajJIN0NJMDQ4SEZOOFFrVWZnUVVnbGdzVHBnOUdFQWt0RjU2dVNGLU91YVJ5b3F4VXE5NTBUWHNKUjNmUWZZLVBvSFBJdkNwZWxheXhpZXhmWjV5cWFFSFVRR1FNMjZHLXE3VW9VUWVXWXo4WjJTeW5kOWpNcTlxZHVweDQxRnctMHM4LUNUNWNZZHlQbm1haEhCLXVBSTJORU1nRjBR?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 10:37:24 GMT",
-      "description": "Vaccine to Prevent Pancreatic Cancer Shows Early Promise Medscape",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
