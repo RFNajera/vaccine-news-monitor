@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-07-22T21:54:14.053Z",
-  "itemCount": 92,
+  "updatedAt": "2026-07-22T22:44:26.339Z",
+  "itemCount": 94,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 8
+      "count": 6
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 3
+      "count": 4
     },
     {
       "key": "rsv",
       "label": "RSV",
-      "count": 2
+      "count": 3
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 17
+      "count": 18
     },
     {
       "key": "pneumococcal",
@@ -28,14 +28,9 @@
       "count": 3
     },
     {
-      "key": "meningococcal",
-      "label": "Meningococcal",
-      "count": 1
-    },
-    {
       "key": "shingles",
       "label": "Shingles",
-      "count": 2
+      "count": 1
     },
     {
       "key": "rabies",
@@ -45,15 +40,41 @@
     {
       "key": "dengue",
       "label": "Dengue",
-      "count": 4
+      "count": 3
     },
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 51
+      "count": 55
     }
   ],
   "items": [
+    {
+      "title": "Measles cases hit highest level in 35 years - The Register-Guard",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVms0b2E0YUphSXJna1JCUWNBTnloUWd6aE9IdDN6NDIwWEtyVmlFLVhNMDRhbjFpa1hqNnlpQmVmVnZyX3RzU2t2bndPTTlxT3RaeGp4X2xFSUdqQnE3cVFhVDh2Z2ptV0xjMkFWZDlOd1d1U2c5X3VzZTJfU2hFd3UyUUk3ZGJXYXBSN3d0RFlzb0JIQkkwMjllNGlOVi1MLTBxNE44dXpmNW8?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 22:39:00 GMT",
+      "description": "Measles cases hit highest level in 35 years The Register-Guard",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Oklahoma vaccine exemptions rise as mobile clinics expand access ahead of school year - KTUL",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUm1NSGRhWVdCcXFJbEZoeW9UNjVQY3RJaUZZT2JRRVJqUnQ1T2VJUWdKdFhpWVJCRUZvT3JDa3FNakF6Y1VRTXN5cGowaEwzT0FKdjhKQ28zVkxfbi1CNmVOc29nbndfbXMtUWtvb1dBN1JBTUc0cnRlVU1RVEJjd29wTTJ1YTAxRDJwcS0tXzg3N0p0ejVfS3N0Tl9KYWdKamotS2g5YjlKUEUzbHEwblYzUQ?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 22:23:04 GMT",
+      "description": "Oklahoma vaccine exemptions rise as mobile clinics expand access ahead of school year KTUL",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "India: Takeda's dengue vaccine approved - Outbreak News Today",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbWJUcVkwY0ZadVNGVTJjaFg2SW9NMXVYbUhkb1JZZTQ2N1VqVVdFS3IzUTBEanRUQWZVZGowd2VaR0JEVnhpcl83azliZE14U1FhTnFiTlBPeGZfR3l2ZDVoNEFaWmlOeUg2aWJqNFJ3M3hQTnpaRzZjUGRjOEcxaFZ5blM?oc=5",
@@ -150,19 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb1kwVkl3cHYzWW1zU25MVHZ5b1Zka0JuWGFSTTVubjRDV0lvbUxzVTM1TlZhSzBCZ2tqNFp2N2djemRWMXViV2Z0R3Q5QTN5cHgzQzlUMjhYRF9KVHdqUlVEVFdOMGpkd241U0NnMVZ1TXk2VG1pUDdqZjExRDBxY0NsNHlybzljVlprTnBUSGlJR0VrNzlnSUs2SEZMQVBVT2drZg?oc=5",
       "pubDate": "Wed, 22 Jul 2026 19:45:49 GMT",
       "description": "ASHP Adopts New Policies Around Misinformation and Vaccine Access Gaps Drug Topics",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Knox Co. Health Dept. Back-to-School Immunization Clinic Saturday - wwbl.com",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOGRGRFZVTlFMc2NKUnYzanhZV1YwR1FmWkVaV2NwNXZHR1dJMVh0MWpkRHJ3UVFtbE54WFBMeFkzTDBiUGg5VTJxWlN6Wm9UM1RIb0F0amRnUElKdlBmU0RHNE5CTzFkcW0xcXF6Ry1oYzBhd3BYMzN4TnI1NVMwU2RxWUl6OGxDMEhVV1B2N1d5ZjFaeUhrMDR2aEQ?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 19:45:04 GMT",
-      "description": "Knox Co. Health Dept. Back-to-School Immunization Clinic Saturday wwbl.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -302,19 +310,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "PB Poll Finds Split on MenB Vaccine Preparedness - Pharmacy Business",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGOUJKNEtIUWdIbVJuX2U0ZEJ2eWRQbGR0YVJabFJVckwyUFBycE9QYThLeVhOZzc1WVFTTkE1MnlnazNTQ0czQXFxYkxRMkU4NFk1dGhvVDUxS09EeFZkUGNn?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 16:13:51 GMT",
-      "description": "PB Poll Finds Split on MenB Vaccine Preparedness Pharmacy Business",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "meningococcal",
-      "vaccineLabel": "Meningococcal",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Trump, RFK Jr. Smash 35-Year Record … of Measles Cases - Protect Our Care",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZHh0OVBkQy1mUE5XY0hBbER2R2hLbnFfMHZiSVBjRHRILXI0WU1HQUdHeTN2ZlFTbzY2UHdpY3YzODNOSC1jY2l3UzZxNXkxZU96TFRab3lnbWRxZGxteEtIX2xfMm9UaXAwdnBvNXlEU1hKckxSRWgwaC01M08xQ2hKR2VraDZfamc?oc=5",
       "pubDate": "Wed, 22 Jul 2026 16:07:08 GMT",
@@ -367,6 +362,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Immunomic Therapeutics Announces First Patient Dosed in Phase 1 Trial of Cancer Vaccine Candidate ITI-5000 - BioBuzz",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRWY5ZzQyZ1JveHBzdFBoM3ExUE02RDBrb3VIYkhOVll2bWxzVGtMQU9LZFBZV0FaWloxWE45MHVVYU0wbkZaeGRCSnV1UXBvOTVGcTR3WUhPZHRJT3BjMjcwUURUeU9oa1R3RS1OSFNyR3R5OGhCcTM3dHFfdzlfYWVjcXUtdkhSSVo0bFkzRGFuU2JJc0RZT2VMbURTZzZBbjQtc0N5eVFuN1BGZlM1bXEtWXpEYzVaZHZHMHlRSDdxbDlCM2VDMDRQSQ?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 15:52:25 GMT",
+      "description": "Immunomic Therapeutics Announces First Patient Dosed in Phase 1 Trial of Cancer Vaccine Candidate ITI-5000 BioBuzz",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
       "title": "Physicians Remind Residents About Vaccine Requirements For Back To School - krmsradio.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSmhWZXBBcHJKSnVra3JYSG5XSDY5MFZodkthM3BBYjNWRUhXR2h2eGRHOF94WmJFMzhIaUlmdlA2UDc2MGFjblJKRmRQLV96LTRfSmpvNS04Vml5R2x4VHpsUnlsSl8wU0JaN2ladHZpVk5zOVFaQjFmMW5Eb2I2czhnNktacEtXeVcxQ2l1MnZoMEp2SVVsM1Rob2pzckQyUXc?oc=5",
       "pubDate": "Wed, 22 Jul 2026 15:19:41 GMT",
@@ -402,6 +410,32 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "One dose of Pfizer’s vaccine cuts infection rate by a third after two weeks, finds study - JNS.org",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb1NQXzNldExtVmhrcGJfeVBpTkRpS3VCZ1MzT2lEeDhNcWtBSUJrem1jNDRrSGxtS3ZvUFRYQUp5alBNUDkyMDEzSlE5dkJIVS1MVV96Mlo0ZHl4ZjdHX0NaX1NmUEhRVmxCSF9FVXUwdWRRaFRKbzRtV2ROS1RpYW1TUHZCZDFnMGpSVkZ3dmZFRlVfWnlHVHk1dGxwNzlSS3pjOVZLakV4WEM2bjVnSWVuX1gtdUhxWk9v?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 15:06:18 GMT",
+      "description": "One dose of Pfizer’s vaccine cuts infection rate by a third after two weeks, finds study JNS.org",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "US measles cases hit 2,260 as vaccine exemptions fuel worst outbreak in decades - NationofChange",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb0YtMDN5d21HV3FUZG1TNHFMN2oyN0NHeThpbGZKUUF4d1FPYXA3NWNDWllYdncxcGtaQklpaUZBU2VWSTF1SkRHZWNKZzNHc2o0cU1CUDI2QUk1aFM4dDB1OEdScmZoM3N1Yzh0eVRXUTh4TVh4TnBBRllZOFRWZHkzdGVjeHU4cldjQU84VmVBX0I3ZW0weDNwQ1UtclZqWnNSZTVIWWZWNUFnMVlZdkUxNFF6YjcwNEtHUkM1NA?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 14:49:48 GMT",
+      "description": "US measles cases hit 2,260 as vaccine exemptions fuel worst outbreak in decades NationofChange",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -519,19 +553,6 @@
       "sourceLabel": "News",
       "vaccineKey": "pneumococcal",
       "vaccineLabel": "Pneumococcal",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "India has approved its first dengue vaccine, with the DCGI granting clearance to Takeda's QDENGA. Designed to protect against all 4 dengue virus strains, the vaccine is approved for people aged 4 to 60 years and does not require prior dengue infection testin - LinkedIn",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeS1hLUVaWjRKY0ozcVozYWRLRDViQTNHNjBSSWprcXlWT3gwY1dJVGJaQnZCcmtrWWFQcEFyM1B6dUY5anZQWFBjTy1YM2t4VjR5dXY1YjdrNUpLV2U0TGRDUVBPdFowWVpjSVdlLU5WV1ZJcktUNXBUeTBySzV2S043UzI1RGhka0JubTFCN3ppTE52V0ZfZTRRdnRsN3d6TEZRNw?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 11:07:52 GMT",
-      "description": "India has approved its first dengue vaccine, with the DCGI granting clearance to Takeda's QDENGA. Designed to protect against all 4 dengue virus strains, the vaccine is approved for people aged 4 to 60 years and does not require prior dengue infection testin LinkedIn",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "dengue",
-      "vaccineLabel": "Dengue",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -720,7 +741,7 @@
     {
       "title": "U.S. measles cases surpass last year's total: Tracker - Axios",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fTUJkWk1PcmVxZjNSVWdXU2laajgwaGRXcnhtbW1oZHY4djM0M0VUWjM5Z1IzWmdYWld0bmFESmRTcWRrX3FIUDEtWXlZbGJteHhPYUxKQUg3OVZ5ZWc4bldHaGYxWXZTMUEwMUZQREFBV2pmVEE?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 00:58:01 GMT",
+      "pubDate": "Wed, 22 Jul 2026 01:38:14 GMT",
       "description": "U.S. measles cases surpass last year's total: Tracker Axios",
       "source": "news.google.com",
       "sourceType": "news",
@@ -740,32 +761,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Timing of JAK initiation, shingles vaccine administration can affect outcomes in rheumatoid arthritis - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWWVaMUJxbE85UG1IcUVvY1RzRkJBb1dET1FLU3hpSk5rVnpjYS1RR3h2SE9GQ2FHSzhLS0ZoTmhGd0pZSW53eVZ6aVNJQjFwM1g4aUJMZGtrTmVVQjJ1M1FJU2JvVUtrVDl6TU9MWnFuSFFkQ3V0MkdDcXVaX3UtTkNCUlEtWFR1N2lFdWtvTQ?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 23:00:01 GMT",
-      "description": "Timing of JAK initiation, shingles vaccine administration can affect outcomes in rheumatoid arthritis Medical Xpress",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "shingles",
-      "vaccineLabel": "Shingles",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "SPCA holds free rabies vaccination, microchipping event amidst recent rabies case in Polk County - WFLA",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQXRkNU9TY3NLc1B2Z0J1cDdfOW5IS2pnczJfVFZIejc1QVNiODEtYXctaHRvRGJWSjh0UlhDdXY0MWF6TDBCSGNQTnc4V2JuazNTdDdZRGt2NlpqWXNaM21QNDNGbndCc0lHWEpkanFoYWl0OGZ1M2tiYUlkUldzMzZqalJxMHdjUzRDaGZqOGFGbFhQUnpnUnE0aUg5aU5ZUmp2Z1J2Tm9SVU5FWEVFV0Ruc0Q3YVM1YTh4V3FtT0RucS1BcDdkbmxfMGprY19B0gHWAUFVX3lxTE10cVRBcFp6dHdsVzJjUHFwT1RWTjFEME1TVWJDa0w5enpwNUdvVUdhenR3ZkZqRE5wbkk3WUNBajVmemxWT2gzOWtIc1FDNVlGRmNQWUROSmxFdS1sNmNnNHFsczQ4bTRSZnh4Sjc4dlZueG9udUJ5MUhwVWs2SjJkZ3NESkRvRndpZnV3eU9JQWRzZ0JwTzBDWmpDV2NCWkxhamtRbng3Z01xdlE5OC1JSnZyOEtMWWkzd0V6VmFnZkFJQ2tjeEE5QVFBajVUS1ByajIyT0E?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 22:57:10 GMT",
-      "description": "SPCA holds free rabies vaccination, microchipping event amidst recent rabies case in Polk County WFLA",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -913,19 +908,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Will vaccine boosters be necessary as measles spreads nationwide? - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbzZEZkZrcnhLREw5YjE3c0huR01TblFJUXlZeVpzZEZqRWltUEE0c0EwWmtEaGhheUNHbkFaZVhjbUlueUZTWGVuSVNLRGhYVjVfbW05RzdpUHR0ZnRSZFlQVDdBQldoMVIwcFVqTERQYUhQYkZnNGo3YTE5TUh2VGlZTE9wdC1FbmdOM2VpcXVuSHBQSWZ1UUFpd3dTVXl5cG54UU82MNIBrAFBVV95cUxNbGY4enhQYkJXczE2X1V1NHVJNGdoRVBOV2RkYjFjRTVJekZIdk5LLXk5R09uTkNjRHB4S3dCMUZ6d3BHNG43VFBwVzRRZ0VoNEFRb0NpcjEzdHRRcmw4eFYyNUxJSjFIdVRGbkFIT3BTM0d0c2lDSm1hN2tuTjBxTy1KNHhoNWF5VjgzUlc1RzF1bXZOeURGLUhUS3RjOTkzRlhRODZvR2YxSW5j?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 14:37:24 GMT",
-      "description": "Will vaccine boosters be necessary as measles spreads nationwide? The Mercury News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "An experimental oral vaccine may prevent invasive bacterial diarrhea - Science News",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hV3BCNWxDYVI5bmZpVVJCRWpqTkhNZE1uMTBiaHcyZGFQeEc5N1huZHJmdkp5WDhrX2c2MjF0RkZUcVJ1eGVZZ3h1MmNJN05TY1c0djBTVGtvQzVrSFRKQjdzU0tVWHlnbHcxMjlyLWcxM2xGMnc?oc=5",
       "pubDate": "Tue, 21 Jul 2026 14:30:00 GMT",
@@ -961,19 +943,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Lawsuit over COVID vaccine policy at Idaho National Lab leads to $5M settlement - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY1NhSGpOU3ZScjV0ek02cE1fUFhBTy1tcWpCSzMtUWVWRlczSDFTUjhsbmNMWUtIMXhCV0VIZ1JtNmhHVWtpSW5SQWVoUW42blBoZFlrbDhXR0phb1hWVEZ6d1p1YWRXM016RUV4ZTlmU3JlWDg4MXZKUWNqTm9HV1dTWTgwbzdRWFJyREJ1cEQ?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 10:00:00 GMT",
-      "description": "Lawsuit over COVID vaccine policy at Idaho National Lab leads to $5M settlement Yahoo",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1160,19 +1129,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Maine man sues local school district, state DOE over vaccine requirements - WMTW",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdmtuNkVFVHI3bGkwZFV5RXgwYmV6eG1ldktTZlBPY05jZ2wwaEhvanpXZkFXa1VuNXNmdGpvazlaWUQxMzB0YllEYlpsOGhHZEJCMTVpZTdudk5nZXBraFZ6dVlXTm9mdHhyRjFXc0pXRUR3SFJrY1lYVWRvOUs3ZGdWREVpRG5DNVJCcHVOUQ?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 18:12:00 GMT",
-      "description": "Maine man sues local school district, state DOE over vaccine requirements WMTW",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Q&A: Pharmacists Help Patients Navigate Pneumococcal Vaccine Options - Drug Topics",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdHBpcGxNVlBYdUkyOEpTLVFYWWVJdkNOY0cwQ2c2MXlURU4tS1lpVWJ4cGFzcjVjZVFldGpLQUkxZnJlMGlfYU9DTjRwdnNLenQtYUhabE12SmpxbmpuSmdvcVVTQ3h2a3pZaWRIaTQ0MHFFdUNtOHVyWHVHaUEtZ1BNRUxZRmJROFYzSG5xd2FiOVpLQ2FCNDhPWQ?oc=5",
       "pubDate": "Mon, 20 Jul 2026 16:54:45 GMT",
@@ -1182,6 +1138,19 @@
       "sourceLabel": "News",
       "vaccineKey": "pneumococcal",
       "vaccineLabel": "Pneumococcal",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Mutant KRAS Vaccine for Prevention of Pancreatic Cancer Development Shows Durable Immune Responses - The ASCO Post",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNzJMQnBRU0lRUzE5NktJVjZKcUxzQTBzU014TGZZbURqWFBCWHJIYXk4MFBZOW9JOERCNDBvTTRabkpiNG5aRUx0YV9fRHJiaEJ6QmxycUtBek5tM0Fzcl9UTXhRc2ZFQmJLNU5nOVdXY3RJeDJBRXhYbFN6a2JTYmdQUWZIUVplaUpxU1VqamZvYnNKTWJ5aGp5LXNpSUxkdnFiaTdqQnBVS3pfMGZRcUFzTUg4N0JxYnBENjNYUFRjQzQ5ckQwT25yOGVqUzRr?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 15:33:18 GMT",
+      "description": "Mutant KRAS Vaccine for Prevention of Pancreatic Cancer Development Shows Durable Immune Responses The ASCO Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1199,15 +1168,54 @@
       "articleLabel": "News"
     },
     {
-      "title": "Pfizer (PFE) Faces New International Patent Lawsuits Over Covid 19 Vaccine - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMmsyMmhNQUJuOEZJM25Lbmkwd0tHR2lRNS1mS2lVOHZ2WmxSSTZTWnBYcUQxQUFqMHl5RjJEeWdnMDlVX0J2ZzU3UkY1ZDBZeUVuRFRSTWdDNFBOZUd2T2U2ejUzTG9KdzlDNThJRmdONi1obHFFQTdVNE56UDdSTG5UQThFRnNTOVQ2dno1VTRGeXJ3UkxZQS10bFlpWVk?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 15:09:41 GMT",
-      "description": "Pfizer (PFE) Faces New International Patent Lawsuits Over Covid 19 Vaccine Yahoo Finance",
+      "title": "Koala nicknamed ‘teddy bear’ receives first chlamydia vaccine implant - Popular Science",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52cTRZdmlIVk05U0JaUGJWRHd6dWV3Rjc5RkIwanFpUEc5UjNCWnpjdXNqR0Zsb2trb3E2cXdmS3F6ekJVS3NSa19jTjMxZVNBNEItSlhxWEFpNWtobExPVXo3eExzSTBRbmtSX3dtb2FvYUJfNURGR0FObDlOQQ?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 13:31:00 GMT",
+      "description": "Koala nicknamed ‘teddy bear’ receives first chlamydia vaccine implant Popular Science",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "HHS vaccine committee quietly gets new charter - STAT",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRzVQTUc1NnB1QnpYc2l1UzZ1akU5Wl83NFA0WmtFWWJXYXk4NmQwT210NjU4UE1kbll0TEdiOGkxOWlUSXQzV2UxUXdqLVVEa0ZRQTFzdlJYX2Z6cmZBemVvVHliZWVSaDFqUEZmSGE5MXBRcXRoTjFXa0Q3dTNDdUJKV0VLR25kM2cyRDhOM0dya0hqWUNfSFFTcw?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 13:03:34 GMT",
+      "description": "HHS vaccine committee quietly gets new charter STAT",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Rural health monitors wield digital handheld devices to help close Eswatini’s immunisation gap - Gavi, the Vaccine Alliance",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTnpBdVdMY0tnYjFTOU5rUmFCNGktTkFWcFZMZWpKM3JjMGlQcjh6U3VkSE1Rc2c4amtmR1lURkRSSHVVSVR1aHFSZDdFc19TQVY4alNqZlh0RDE4dFIzU0N2XzlWY0wzeWNZVXcxRmVkNHdDcDNQcXcxdFlCSnVDSVZ1MjhTaGRhSEU5R2tBa0V6T2x3SnpWTmdRbDlfM2RLRHFwTVNqREp1T2s?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 12:48:26 GMT",
+      "description": "Rural health monitors wield digital handheld devices to help close Eswatini’s immunisation gap Gavi, the Vaccine Alliance",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "RSV Prevention and Vaccine Hesitancy: Building Long-Term Communication - Contemporary Pediatrics",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcVpadGw3aTVjeGF0TDBHVDBFcXdUUF9KMThEMmNqUnU2b3RYeW1SeVVRMTdlblJfVWNQcDlaM1ZWN3cwWGZOdkFVckgwRGJUOFFTQ29Ya3dZVW5uTUJxeGw4R0UzeDRuOTNDeGhkLU41YTV5LVR3SFVETGF1dDBYWWVPQ1oxdFFhLVlucGZuc0VqMTY5ZFlxdjlfNHlIR1NCMUkyMm90YnVEeUROcXFfRVhoNA?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 12:08:46 GMT",
+      "description": "RSV Prevention and Vaccine Hesitancy: Building Long-Term Communication Contemporary Pediatrics",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "rsv",
+      "vaccineLabel": "RSV",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1223,6 +1231,19 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
+    },
+    {
+      "title": "Influenza Vaccination Reduces Pediatric Mortality Risk - Infectious Disease Advisor",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYUZGVHJkRjljVEpmamVSeGI2OUJBdklZS29jMEpCOTAzc1pUOE5fREU3ZnhKWHo3TjNyNVg4SWJNQVFWUElhLUVzSmxoZkJ1TmNGRzVRUmY2bEJaVTF3REFvdHBvYTdHTk9SdVZTa19PR2J1QzB1VGU3Q1ViRWMteWFTS3h3NDFGWFdrZGZsT1F6MXBjVmIwX20ySnBUajNIanBj?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 04:00:00 GMT",
+      "description": "Influenza Vaccination Reduces Pediatric Mortality Risk Infectious Disease Advisor",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
