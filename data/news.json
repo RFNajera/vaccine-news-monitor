@@ -1,21 +1,26 @@
 {
-  "updatedAt": "2026-07-22T10:11:52.759Z",
+  "updatedAt": "2026-07-22T11:09:45.239Z",
   "itemCount": 81,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 6
+      "count": 7
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 3
+      "count": 2
+    },
+    {
+      "key": "rsv",
+      "label": "RSV",
+      "count": 1
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 14
+      "count": 13
     },
     {
       "key": "hpv",
@@ -40,15 +45,67 @@
     {
       "key": "dengue",
       "label": "Dengue",
-      "count": 4
+      "count": 5
     },
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 47
+      "count": 46
     }
   ],
   "items": [
+    {
+      "title": "Association of COVID-19 Infection and SARS-CoV-2 Vaccination With Echocardiographic Pericardial Involvement in a Real-World Outpatient Cohort - Cureus",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNNTRTUm1tRU5IdUx2aFNubGxLbGk2ME5Vc2tFVjdGZE9qbVRfc0QyZmptUHFFdWR5QmZkcEpSQW1jcFFEOEZVNmQ3WlI1ZGpWOFBWOWRSU2FsbjhDeXFEWU1TaTJmUXFNWk05T2FLNlNmdlFKWEJIeGZOaWVjUExhZnhpenJ1VnJDS3hkUW8tUmkzQUkyVW1aQUZCclNxN0g3Ym1EUHZkeFBmb09LV2xUeTY4MmJfZm16SE1LQlVYZmstQ3hwUEpFejZtYVh5cGZsWFpTUWVPaEhNNUhGX3ZNSmJDalNYQmVKSTYtWmhWTk9mWURhamlac25mWUd6MkVaMk4tMHVlTVJ4V2hpQmpnWEdxYXE4ZlpBa0ZQRWZNVDZGZjhzc3c?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 11:05:22 GMT",
+      "description": "Association of COVID-19 Infection and SARS-CoV-2 Vaccination With Echocardiographic Pericardial Involvement in a Real-World Outpatient Cohort Cureus",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "State's top health official says MMR vaccination rates 'stabilized' among children - SDPB",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOczhJX3d5dFB0MDVCenhyOEpXU2pESm5qeDBFX21WZWxxR3dBNVJ0Q21yMm9iWGpUdFVaZnNKdVdnQ3l4RVhMc3J3bUp0VkZ2c0s1ZnA0UEV2dkxMN0gwekwxN295UHBuZU1MWVRqTzI5dlJ4NThGSHQxTjBpcEs5SG14akZGQWgzODAwYy0tVDhRcFpmNm9oVngxV0tRU2xkeWdpbGUzZmpWT0kwNG9HS1pQdUt6ODg4N0dqckxIMA?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 11:02:00 GMT",
+      "description": "State's top health official says MMR vaccination rates 'stabilized' among children SDPB",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Takeda wins approval for first Dengue vaccine in India - medwatch.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kbnd6OWxkVW5HUDBNWWlwNHdtTmJkRTljYzVjcnJqbFJob0tIUUxidUd3a3ZUUmhFU3E0TkczVWVRM0h4aXhvVWhkN0Jtc0FFbFdXMVF4TEZSNWdHaWtoLUcxZ0ZKQ1JmOThkckV2OA?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 10:30:00 GMT",
+      "description": "Takeda wins approval for first Dengue vaccine in India medwatch.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "dengue",
+      "vaccineLabel": "Dengue",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Sanofi reprimanded for disparaging Pfizer’s RSV vaccine - Fierce Pharma",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS0dMS0lYbUo2UUtPMTNxcWpWVHBxVlVDZUVCNVFHLWpEWl9GU2t6OFg4RlpoUGxMSjM0dnVmV3B0RUFLR2pzVXlVcE84blI5MjU4ZmZOOTIyTGZDaHdsXy1yUlFwS0xEYUZ3bjE5amJWaVhpT1I2bFVzVmhreFJ6eFFOUEhsdGhkcE1rc3c1djJ5MzA?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 10:27:50 GMT",
+      "description": "Sanofi reprimanded for disparaging Pfizer’s RSV vaccine Fierce Pharma",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "rsv",
+      "vaccineLabel": "RSV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "A New Study Found This Vaccine Reduced Cancer Deaths in Young Women - inc.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUGlYRnMxY3NBaktkallCdldHNVBYZjZSVTAtdnJ2dmRqMzJ0aFF0cjNNdEhIRjkwYWV0cGp6dERuUzNvUnhSakktdVlLeUg2T3Roem01SnVJakJ5MVNNeFZMRUo4ZEdqekxDMlU1dzIzb2xBalNhVmExQnFDRnlVZzBGVklWSUdRMmU1bXBHaUJKX3JDTHVXNmRDQjRReG5VcWpRQTRDbnRUYm9ybk1wWUZoQQ?oc=5",
@@ -74,6 +131,19 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
+    },
+    {
+      "title": "Idaho family physician’s view: Vaccines, choice and shared responsibility | Opinion - Idaho Statesman",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc01vTGUtb1RTUkp4cl9iR1BFY1duY0tYYjZoMGxWcEV2a3pTNlhPS2tCSUhUbEtVcUJfZjJlRW1WNHNlM0JET2ZpSUNyUW9EQVJOS1J6UlE1cFdvdmJydlYtNkUyeXhCY2otbTVUcUZKaUExWHJGQU9nRW9ZNG0wR19n0gGCAUFVX3lxTE9vMXlJSGtWUlVzY3V6Q1R1WGRzRkloVFFNUTljd1JCQ0ZraXZLNWlYY2RjS2dXa1pja2NFcjVXd3Y5UE5BVmFUSmNvOEtja3hLTnVyM1M4WHpjQTcxNGtqcWZRbTdyTkpfV2N6aEcwLUFhZHpudDJteEFNdVczNFVMWEE?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 10:00:00 GMT",
+      "description": "Idaho family physician’s view: Vaccines, choice and shared responsibility | Opinion Idaho Statesman",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "opinion",
+      "articleLabel": "Opinion"
     },
     {
       "title": "Can kids skip school vaccines for religious reasons in Pennsylvania? - PhillyBurbs",
@@ -388,32 +458,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Delaware confirms second measles case, both in Kent County - WDEL",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVXZ5MGhqTWxjRzJ5aHBiVjRzZ2gtTEVwb3Ywazk4TVpSNktTZmRCbG9NY1VWeW5vVlh0WktsVjVNdG5sNVBEZTZ4ZVBPZ3p0TktFbFdNWF9Zcjc4WGlYeEJsUzFOYjJTU3NGbVZuLUFSY3ZaSl9iZ2M2cU1icmg5WHFzT1lwVGFvTlBhbEhtZF9EcUNFQ1N5R2RLMloyMUN1UTRBTmY2cm5YNHQwR0YzcElvQjhuelA3MnBhOW5WMVJmSW1UMEZSaXd4ZTI0QQ?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 21:00:00 GMT",
-      "description": "Delaware confirms second measles case, both in Kent County WDEL",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "‘The DRC Cannot fight This Virus Alone’: Oxford Plans Uganda Vaccine Studies As First Bundibugyo Ebola Trial Begins - Forbes Africa",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNU8zV1hxaVl3NXhmWkI2Sm5rYUN4NXdFSlFiamJOcmlMY2hZd3EtX0ZzSmFwaktkeXFIZTNLVXUwVGZvS3JWa1QtT1pQTEFUZDFLMWVGY0pkZFhiRVpmbGlBNnkySHBTcUtySGtCVEdDOVFSM1lUd2FGWGdxX3RlaEh2VlZzTzdzX25jcE1ZQW5McFd4d3QxZVgtV2JTd2l3cV9lbGpoVFdfWk1UT3hOT0FCVlBOU2ZnT1dmUEdLcmNiUHh3VXoxbVVTVlVKTFNIbGgzR3VudldfbHFIa0ZyLWpWSWV5dzhRX0pEeVFhenB5bjUtb2VWNmJiano1QQ?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 20:52:12 GMT",
-      "description": "‘The DRC Cannot fight This Virus Alone’: Oxford Plans Uganda Vaccine Studies As First Bundibugyo Ebola Trial Begins Forbes Africa",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "Delaware officials urge vaccination after first measles case in decade - NBC10 Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZng1eWZqaXJFenR0dk5pUXZPMkxvdml3UnBWemtQc1pJX1QxclNoWDNsUGtmNkl2ckNUMUVFUFQ4TzVDU3lEaDk5TGItaHI4UXhYRGVpYV8taEduVDIxdWtFeUdBbERERlpac3Uzc0Q3dmpLVWlpS3poUHBTejFPV3h4djZ6S1FaUXBzTC1iT2VpZjlnaEZxWnlTRGx6U1FRcXhMLW43ZU9fNW1xTjhqU2pqMjUxbUhxa1RkTkx0bzNXMHJsWmdr0gHPAUFVX3lxTE5LUlRnYlB4c2NYM3JEMEhRbEdwSk5QbTVNaUR3dGw0TF95eUI5MGs4Z1YzLTV1T3g2eU5kZml5cU1MSzdHdi12V3VqQXZUR0x0ZVdyallEQW4wYnkzSkpoZWZONC1OMzNkU21ONHpuLUpJajBRM3AyRTEyNkNuNnhXeERyLVBuR3YzZWktWFFiOE5JRXdVTHpVYjNGWjc4WHFZT05SQnl1VTN0OV9LdFRwZ3RvY0puQ0ZMX3NDX3ZEOGVYbHFiTlZFY2pPMmd5RQ?oc=5",
       "pubDate": "Tue, 21 Jul 2026 20:20:58 GMT",
@@ -477,19 +521,6 @@
       "vaccineLabel": "COVID-19",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "Health experts address rising measles cases and challenges to containing outbreaks - CaloNews.com",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNa25wamNfbkZoLTVSdndaaWlvWTlzdkNjcmZhOXJCUF9lZm0zU1NQdjlJV1dZRzZrMERuZktzSVQxMXJ4MFRHMkpNZHpBOXoxVDY2TENBZ1N6UDNXVEpoWmZsZVhNRXE2SnVnTkNPOXhzS1c5Y1p4OTlodl9TSWlPRFFjZHp4NkVEZGJQQXBsbG9zcUtudVFqZ1p3WHRiYzlnZ0tpNWQybmkzbjJ6T3dnRVp2QUx4UGRDYS1OZVlHVGs2V3NjUlR0cTBMeWJ4RUpVdy1PS1RJVGdzMUlkOFkxSHdnVmN6dkEwUFM4ZkpyN3JqN0gyaXpvTUljNDlhZjJOOHBVZHpPUzY0MUUx?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 19:00:00 GMT",
-      "description": "Health experts address rising measles cases and challenges to containing outbreaks CaloNews.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "PAHO supports delivery of 1.15 million vaccine doses donated by Brazil to strengthen routine immunization in Venezuela - Pan American Health Organization (PAHO)",
@@ -1038,19 +1069,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "HHS vaccine committee quietly gets new charter - STAT",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRzVQTUc1NnB1QnpYc2l1UzZ1akU5Wl83NFA0WmtFWWJXYXk4NmQwT210NjU4UE1kbll0TEdiOGkxOWlUSXQzV2UxUXdqLVVEa0ZRQTFzdlJYX2Z6cmZBemVvVHliZWVSaDFqUEZmSGE5MXBRcXRoTjFXa0Q3dTNDdUJKV0VLR25kM2cyRDhOM0dya0hqWUNfSFFTcw?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 13:03:34 GMT",
-      "description": "HHS vaccine committee quietly gets new charter STAT",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "A Pancreatic Cancer Vaccine Shows Promise in a Phase 1 Clinical Trial - the-scientist.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV1hnZ25sT1pwZlV1amFkVy1qYmlhNk1VLXVvZkpCYmhzVlZOYVFURzJkT25tVnZzcTRZdy1USVFrS2ZxSVhnVFczbnRweDRuVGV2N05nU1pFeE9GdXhrXzdiNmpUUVZMSXJXb05ZTUo3cUlJS0VqOXhEdmVFSVJFbjZlajVZd0VBeG1YeFVPUFQ5YlJQNThrOTNsTDRzRDQyOExHelZoMXI?oc=5",
       "pubDate": "Mon, 20 Jul 2026 04:05:24 GMT",
@@ -1062,19 +1080,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "Influenza Vaccination Reduces Pediatric Mortality Risk - Infectious Disease Advisor",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYUZGVHJkRjljVEpmamVSeGI2OUJBdklZS29jMEpCOTAzc1pUOE5fREU3ZnhKWHo3TjNyNVg4SWJNQVFWUElhLUVzSmxoZkJ1TmNGRzVRUmY2bEJaVTF3REFvdHBvYTdHTk9SdVZTa19PR2J1QzB1VGU3Q1ViRWMteWFTS3h3NDFGWFdrZGZsT1F6MXBjVmIwX20ySnBUajNIanBj?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 04:00:00 GMT",
-      "description": "Influenza Vaccination Reduces Pediatric Mortality Risk Infectious Disease Advisor",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
