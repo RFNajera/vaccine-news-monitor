@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-22T16:55:23.381Z",
-  "itemCount": 87,
+  "updatedAt": "2026-07-22T17:50:43.837Z",
+  "itemCount": 90,
   "groups": [
     {
       "key": "covid",
@@ -10,7 +10,7 @@
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 1
+      "count": 2
     },
     {
       "key": "rsv",
@@ -20,12 +20,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 16
-    },
-    {
-      "key": "hpv",
-      "label": "HPV",
-      "count": 1
+      "count": 17
     },
     {
       "key": "pneumococcal",
@@ -43,17 +38,113 @@
       "count": 3
     },
     {
+      "key": "rabies",
+      "label": "Rabies",
+      "count": 1
+    },
+    {
       "key": "dengue",
       "label": "Dengue",
-      "count": 4
+      "count": 3
     },
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 51
+      "count": 53
     }
   ],
   "items": [
+    {
+      "title": "mRNA COVID-19 Booster Outperforms Protein-Based Shot on Antibodies, But Both Cut Infections Over 12 Months - Pharmacy Times",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNFhHc2FnTkp5VXNNN3VGdGF4RHV4MDR0UnhFdVpVdGRoUGJoa2hEekRLVHI2X2NxMkJHcTExcUVaMVRTbjNlYnZRR1VlRXZSX3lxMkNlbEtkZC1tVmdod2xNa2NUcUJwZmUxb2JsUmpHUWt6NWhST1h0TTd4QXlDdi1MSU80OWhHanJTdlFFVlMwT1p0alBoQ21uRElWU3NGM0o1Xy1SRGwxZTVXdnU5ckQtLVBxSC15WEhZMkhTVnRWcGtmM2hUNFVoNU5lRmtkdmlaRW9vbw?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 17:25:11 GMT",
+      "description": "mRNA COVID-19 Booster Outperforms Protein-Based Shot on Antibodies, But Both Cut Infections Over 12 Months Pharmacy Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Keeping your children’s immunizations up to date and ready for back-to-school - Waukon Standard Newspaper",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdUY2MUZzenhwQU9rR28wdS1uSXljbERxMkNLRnlDRGFRM3pUbDBKUTJmYzdpTHN0MUhPeW9sYWlDMDZoWFhWZ1VkRXlqbERadnNrZVhJTVVzOGlWcURsVm04VG9FNDBwZlhwQkVmUjBTVDZlMjNIeFNGV0dQbElGUURtdWo0Q2ZpcXI3UW94aUsta3Q3UjRuSUI3RHFsZkVjYWZEWGFNeE05YldfUmQ2bkhDZzc5RVlPbUR4Q0VxM2E?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 17:24:36 GMT",
+      "description": "Keeping your children’s immunizations up to date and ready for back-to-school Waukon Standard Newspaper",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "What Bundibugyo Ebola vaccines and treatments are under development - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYWVxaGdpMVB1ZVpOUVoxdTQyQ25raGVhUVgtYjk3R3NBWHVlbGhaMVV3Z0hsV0ZYRUNKa1k2X1RBRk9UX2xZQ0pjSGUxUjhqVXZxSlRHQmllV1NwanRZZll0Y3BNd3pqNWhwbE5Bdm92T1N4OEhZTWRsaDhoNEM4ZWxnUjVMX1pyWVExRDJfM2oxRnNFVHM1azdtV1hZYUdQbTlwVWRBcW9IYm1wMkw2QlRPS2lwWlYtMC10Uw?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 17:17:49 GMT",
+      "description": "What Bundibugyo Ebola vaccines and treatments are under development Reuters",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "What Vaccines Are Required for Oklahoma Students in the 2026-27 School Year? - News On 6",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPamsteGg0Yk5talFVeEt2T0NZdzFmZzRvUWE5SkhyOXFISWhvYjFGN2Z1SWpCY3dJZWRzWFFObDJKWk9uUnNlbzExcHdhR3JpZDE2VkZsWElCZzhyNUx6TzhGOHZXeHVmUXAzVW5vQm5ZdEF4TGlnRGV3WUpOQkVDQlY2VXN2ZGRPR1A4Qw?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 17:17:37 GMT",
+      "description": "What Vaccines Are Required for Oklahoma Students in the 2026-27 School Year? News On 6",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Tuscarawas County to host low-cost rabies vaccine clinic for cats and dogs in Dover Aug. 29 - Your Ohio News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORV96Zzl2YTlXQU5PMmtXRlNVS0lweGY1SWowSjVNN1puaTAwYVMzOXU1dmdWc1hkbDlZSlNQN21fOWxWc0NVZGJVYjh0S1FUcTRqdG02X3d2dzJIT1kzMWh1YnBsaVVadTQ0cFFndE1GWUp6Z1ZDRmhBZXQ1QlBHSklSbzBvWVNCcUUwdDN4UVhTZU0?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 16:57:56 GMT",
+      "description": "Tuscarawas County to host low-cost rabies vaccine clinic for cats and dogs in Dover Aug. 29 Your Ohio News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "rabies",
+      "vaccineLabel": "Rabies",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Influenza Vaccine Reduces Hospitalizations, but Not Mortality, in Older Adults - Docwire News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb3lZOTdPNFBnSW5ZS0QwRWswSlhTYVpXcmpQdUhiT3ZBSG1ydk1qUU05NWVwYW05Ukl5SjFSeE41QkNwd2VCWEhCMjBDZHB0LXR1RW5JVmREMU5kMS1iMHNGY0tfM2tiQU5VVkRVbTdJY0lRS2xFdVFRbDd3TDU0YWhvazkyNWViQmNyOGpxNGtCbVRuRC0wam5oXzhhQXNGakl2bHpIVDE5aHlZdUE?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 16:56:43 GMT",
+      "description": "Influenza Vaccine Reduces Hospitalizations, but Not Mortality, in Older Adults Docwire News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Syringe Manufacturing Market Growth Forecast to 2035: Injectable Drug Demand and Vaccine Scale-Up Drive Expansion - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbjBfbXNFU3ViSUhkaUxNM010cFN0ZUhFR29Od0FsLXR3NDVWV0dFRVBldlVGa1RjX1NqcC1JSmhvQWVpdlJWZ2FTOHB0WUQ1MjhDMm5ZZWlDUXZXYWZ3LTh3eTNvN3dSOUQtdWpDLXJXNnl2Y3lObFNpTVY3SVF4OXlsekR2eVlKUlVUdVBTLVQ0cVVsaEliUWJuNjVxWURuWmRTS01mYlVPYkh5WUsyRE93T09PLW9ia2U0X0lKZnRBLXFxa3VZZmtiWmNMTlFmUHR0ZU9KYU5NYU13RDJjcQ?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 16:46:13 GMT",
+      "description": "Syringe Manufacturing Market Growth Forecast to 2035: Injectable Drug Demand and Vaccine Scale-Up Drive Expansion - News and Statistics IndexBox",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "PB Poll Finds Split on MenB Vaccine Preparedness - Pharmacy Business",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGOUJKNEtIUWdIbVJuX2U0ZEJ2eWRQbGR0YVJabFJVckwyUFBycE9QYThLeVhOZzc1WVFTTkE1MnlnazNTQ0czQXFxYkxRMkU4NFk1dGhvVDUxS09EeFZkUGNn?oc=5",
@@ -159,32 +250,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "What Bundibugyo Ebola vaccines and treatments are under development - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYWVxaGdpMVB1ZVpOUVoxdTQyQ25raGVhUVgtYjk3R3NBWHVlbGhaMVV3Z0hsV0ZYRUNKa1k2X1RBRk9UX2xZQ0pjSGUxUjhqVXZxSlRHQmllV1NwanRZZll0Y3BNd3pqNWhwbE5Bdm92T1N4OEhZTWRsaDhoNEM4ZWxnUjVMX1pyWVExRDJfM2oxRnNFVHM1azdtV1hZYUdQbTlwVWRBcW9IYm1wMkw2QlRPS2lwWlYtMC10Uw?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 15:10:34 GMT",
-      "description": "What Bundibugyo Ebola vaccines and treatments are under development Reuters",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "mRNA COVID-19 Booster Outperforms Protein-Based Shot on Antibodies, But Both Cut Infections Over 12 Months - Pharmacy Times",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNFhHc2FnTkp5VXNNN3VGdGF4RHV4MDR0UnhFdVpVdGRoUGJoa2hEekRLVHI2X2NxMkJHcTExcUVaMVRTbjNlYnZRR1VlRXZSX3lxMkNlbEtkZC1tVmdod2xNa2NUcUJwZmUxb2JsUmpHUWt6NWhST1h0TTd4QXlDdi1MSU80OWhHanJTdlFFVlMwT1p0alBoQ21uRElWU3NGM0o1Xy1SRGwxZTVXdnU5ckQtLVBxSC15WEhZMkhTVnRWcGtmM2hUNFVoNU5lRmtkdmlaRW9vbw?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 15:10:10 GMT",
-      "description": "mRNA COVID-19 Booster Outperforms Protein-Based Shot on Antibodies, But Both Cut Infections Over 12 Months Pharmacy Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "The U.S. has already surpassed last year’s number of measles cases. Here’s what’s driving the surge. - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeEx6RDVPUGpFUTFHdHk5V2tJQm14U3F0TmRPYm0tbjZZSGp3VGphM2Z0NVUtRXNwTGVjU0wtWTRCVjlXSHFFME11ZzRDOURLQks5eFpOUWNIZlhrSzVtX1V4YWZVMnE1am1uUUFlc0tsblEwOTB5T1l0c0NUSFZpSUYtLTM2TWZzNldDMEpB?oc=5",
       "pubDate": "Wed, 22 Jul 2026 14:41:24 GMT",
@@ -254,19 +319,6 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaWVIZzE0blg3dUg5N3p5NUNDMEY4OTQtMHBpTmtPcGRhejlJVDdYdzE0UzRjeTI4V205bVBHcnAwZzFsNXp5ZWY1dUk3NzdVcUR6bTloZGlQOVJtV1ZtaHRyVWRvejBVSWtZYklfS1l6OF94d0JKa2VIZUpxcEdWNnFGRHlvQzBhaVBNaWxtWWlpZEVKUzFkMUlGVDlmdldKN2drZVRoMnExQ3JGSzZWSkhFdnA3OFNNQ3U3M2p3?oc=5",
       "pubDate": "Wed, 22 Jul 2026 13:49:18 GMT",
       "description": "Most Americans Are Unsure Which Vaccines the CDC Recommends During Pregnancy Annenberg Public Policy Center",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "New Vaccine Shows 90% Success Rate In Pancreatic Cancer Prevention - MindBodyGreen",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSUdEZlp1RXk4eUgta2xLNHhJUUVFeXdmQld0THhRbFhsOTdUZkRQT2dRTTFYaXp0bDh2alBVWm9SU0QtbllyMkJGNGxHemlabUtxS1FiekgwUmowTHc2MkJPVG1oQlJUbWlOV1FabTRsZWNIWmxHM254cjBXbkhDSkxmRlIxT0xCbHBSaTFBeFRRZDhMME5PS3RzOXVVOXJ2UEhWTmJhT2tRSm1VVHJnZkJMRnBGOHM?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 13:40:43 GMT",
-      "description": "New Vaccine Shows 90% Success Rate In Pancreatic Cancer Prevention MindBodyGreen",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -350,6 +402,19 @@
       "sourceLabel": "News",
       "vaccineKey": "pneumococcal",
       "vaccineLabel": "Pneumococcal",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "India has approved its first dengue vaccine, with the DCGI granting clearance to Takeda's QDENGA. Designed to protect against all 4 dengue virus strains, the vaccine is approved for people aged 4 to 60 years and does not require prior dengue infection testin - LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeS1hLUVaWjRKY0ozcVozYWRLRDViQTNHNjBSSWprcXlWT3gwY1dJVGJaQnZCcmtrWWFQcEFyM1B6dUY5anZQWFBjTy1YM2t4VjR5dXY1YjdrNUpLV2U0TGRDUVBPdFowWVpjSVdlLU5WV1ZJcktUNXBUeTBySzV2S043UzI1RGhka0JubTFCN3ppTE52V0ZfZTRRdnRsN3d6TEZRNw?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 11:07:52 GMT",
+      "description": "India has approved its first dengue vaccine, with the DCGI granting clearance to Takeda's QDENGA. Designed to protect against all 4 dengue virus strains, the vaccine is approved for people aged 4 to 60 years and does not require prior dengue infection testin LinkedIn",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "dengue",
+      "vaccineLabel": "Dengue",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -471,10 +536,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Experimental KRAS pancreatic cancer vaccine generates immune response in high-risk individuals - Oncology Central",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOT0RYNEtabGoyZFUydmxQRkw5dk1naThudWdZdy1obWg1aUlaZEhvTE5Wb1Z4ZkowTXJlaEtwVDAtWmlFM1AxM2dJUEN4MEVVMldvZXZuNHJZQU81d0NuMEJVaGU2ZWdFTXM3X2dvazVmclA2dDFGSElTc21UWi1qWDdyY1Zub2h2ckNtc3BtNmRQbVpiTnpkV3lILUxYblY5a1pmMTNZbFROdW9qRTEwRUtaaXlBNTZaMTNNZ1VHNVFocU1ISFZj?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 09:05:10 GMT",
-      "description": "Experimental KRAS pancreatic cancer vaccine generates immune response in high-risk individuals Oncology Central",
+      "title": "New Vaccine Shows 90% Success Rate In Pancreatic Cancer Prevention - Yahoo Health",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaEYzdFVDNFpqR2ctNnYyWXJNZnhaUWpGT3cxb3ZGUjhsVHFvSmZURFVZRzlFZnNlS2YxUllXYWdaWnItb0U3eDZlZXl3ZGNMZm9ldUo0YjRGbnlCWkYxZVQ4V2czSkpscUdnMERFN3pXR3loNERVQkdaMkJRZS1DaTFsTGJQdmZuWnl1RlRkNW9LY0tTZ25YVUVaUjRCcjhheVh6YVgxUXpieUtyMDFuRngxcE0?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 09:11:00 GMT",
+      "description": "New Vaccine Shows 90% Success Rate In Pancreatic Cancer Prevention Yahoo Health",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -484,15 +549,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "India's HPV Vaccination Drive Crosses 52 Lakh Girls Vaccinated - BW Healthcare",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMFN5NGQ4YkJ4NWUwOUtibmxUazhpNm5EWFN6M2I2MXBOdE1FVmZpRVpVRmMzV2lubEFqTE5EcVlyWW1iY0hGd21ab1lrUVYxaWs3RW5WcGRoSFRCeFdLWldCT3ZUSlI3RXpSSVBIelRXb0d6VTJKSWs0ZlVtVjNPdlY4OFNmS1pwT29hdWJEa2JROXVWcFNXNy1IVnBQakdHRExaTjRsMGl3U0N4amlZSw?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 09:00:49 GMT",
-      "description": "India's HPV Vaccination Drive Crosses 52 Lakh Girls Vaccinated BW Healthcare",
+      "title": "Experimental KRAS pancreatic cancer vaccine generates immune response in high-risk individuals - Oncology Central",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOT0RYNEtabGoyZFUydmxQRkw5dk1naThudWdZdy1obWg1aUlaZEhvTE5Wb1Z4ZkowTXJlaEtwVDAtWmlFM1AxM2dJUEN4MEVVMldvZXZuNHJZQU81d0NuMEJVaGU2ZWdFTXM3X2dvazVmclA2dDFGSElTc21UWi1qWDdyY1Zub2h2ckNtc3BtNmRQbVpiTnpkV3lILUxYblY5a1pmMTNZbFROdW9qRTEwRUtaaXlBNTZaMTNNZ1VHNVFocU1ISFZj?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 09:05:10 GMT",
+      "description": "Experimental KRAS pancreatic cancer vaccine generates immune response in high-risk individuals Oncology Central",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "hpv",
-      "vaccineLabel": "HPV",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -523,15 +588,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "Takeda secures India approval for first dengue vaccine - BioSpectrum Asia",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU1MtRHBFOGYybFBaZndzMWlCUFd3UnVsOS1YaTVENkRibjEtZzVydUVGWVVKTDNvdWNQUG9WdkhhRXpVTWo5bjUxSk03WmZvUUI5dEdqOEpsTU50Rm1ROGQwUUZBMk9IeXVUdTdqQkp2N0U4YW5pYUFza3ZzRHkwa194WE80b0o3ZXZoVG9idUZJd0FnamUtUU8tZUxZTUV2SGQ5YTZ2Zm0?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 05:51:45 GMT",
-      "description": "Takeda secures India approval for first dengue vaccine BioSpectrum Asia",
+      "title": "U.S. measles cases hit 35-year record with months left in 2026 - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNHA1ZlpjRnE2SEl5MHRKZlhTMy1aN0lRT1lKZ240bUt1YkJxLXN6WVN5OTBXa2lCSU9kU1JRQXFodWlDVGJwY1NhenZCcGVrMzlDY1VaMWNPeEc2QnBqQ1lxdFBfQXJWQWlYVFFhWnZwM3VYM25zWG1oV2JlZUk3aU01eDBVWFNiLUF1TVN4RS0tZzNJNDQxNkVVLWQ4QTc1WUlIdGJFRDNYR00?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 06:18:37 GMT",
+      "description": "U.S. measles cases hit 35-year record with months left in 2026 The Washington Post",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "dengue",
-      "vaccineLabel": "Dengue",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -562,15 +627,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "Takeda's dengue vaccine wins India's first approval - Vietnam Investment Review - VIR",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWHc1WEdNclMtVmRLRy1zRnpnU2M0bDJNcmkyWjJTYXR2SFpQOVRGamFKN0R2amtxYlRSUFNJMV9XTDA1dEhtWV9xMjNmUWxrYjdRaXJtdldFX09lc05XMnRHWWRSN2ZBdmdOdFdnTzdqQTRSRC1XTXpwM2hHMTVzVVJyRkJTWlE?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 03:04:55 GMT",
-      "description": "Takeda's dengue vaccine wins India's first approval Vietnam Investment Review - VIR",
+      "title": "U.S. measles cases surpass last year's total: Tracker - Axios",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fTUJkWk1PcmVxZjNSVWdXU2laajgwaGRXcnhtbW1oZHY4djM0M0VUWjM5Z1IzWmdYWld0bmFESmRTcWRrX3FIUDEtWXlZbGJteHhPYUxKQUg3OVZ5ZWc4bldHaGYxWXZTMUEwMUZQREFBV2pmVEE?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 00:39:20 GMT",
+      "description": "U.S. measles cases surpass last year's total: Tracker Axios",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "dengue",
-      "vaccineLabel": "Dengue",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -679,19 +744,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Measles surge is threatening even highly vaccinated West Coast regions, officials say - San Francisco Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQW1NU1FCcFNJVjRPVG5ZbDN5VVlOUUNWU1hEUjBTTUFOZ29xVG1WdTN3UjNwZnpTdjBOLUhHVF9laUFMWlA3emVudHE1X1dsYmtkS05LV3VILTFoQWlvcjBQaER5akZ0QzBET0x1bWFQeGthQnRSWnJIS2J0M0ZmOHlUbkptVVUweXJmQTNBSWQ?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 22:34:05 GMT",
-      "description": "Measles surge is threatening even highly vaccinated West Coast regions, officials say San Francisco Chronicle",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "DPH Confirms Second Positive Measles Case and Encourages Unvaccinated Residents to Seek Vaccination - State of Delaware News (.gov)",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQzRScEo1RUYwQmNXT25EbmNsN1VvYWFQeHhqQ2dZaFNlMGpFalc0anYxTzJRSzJLUmJTTkh5c3hHVldDSHhmUWdwR09sS3hSS0NUVW5vUF93VEpVRnNvWVJJYk82OUdRaU5aanlKT2hxUHZiRFI4SmN3YldnQVktYXV0enhreFNLT3AxRzVFdWdTU0toM2FYWTVKb0MwRXJLVEVSaVE2aUhxbHNQQ2hLVjJYclRxQk95eFdOQkgzb1BSY3ZiR2MxWklfNXEtckNIVERV?oc=5",
       "pubDate": "Tue, 21 Jul 2026 21:36:44 GMT",
@@ -783,10 +835,10 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Global childhood immunization coverage inches forward despite conflict and hesitancy – UNICEF, WHO - UNICEF",
+      "title": "Global childhood immunization coverage inches forward despite conflict and hesitancy – UNICEF, WHO - Unicef",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMlJ4TkQyZ0hJWUhXQWVBS1EwVWtZWVVVT0FfMUU4Mi1HcjNjZ0xPcTFWLUpRZTNVSFRqZWlfODJPbE1sWkh6THg0RHpDUDFvTEtfNEZ3bGlFRFctX19ielBiZjE3TGNHV0QyMk1iMlduQlE1T2ZqamZmQmhpNXhPWlhIak1fMnBkM2pPalJ5dVJKM2l1R2JVWU91MlVxckh3U0dfakJIVWZObEd3aWR3Z21heVRUNFBucXZWWXRSQW15alJsTmlUc04zZGRPZkZRX2xVZTlfYWZfNVNxNTM1ckxval9RcURGMGVXT3hJdmtEQQ?oc=5",
       "pubDate": "Tue, 21 Jul 2026 18:34:34 GMT",
-      "description": "Global childhood immunization coverage inches forward despite conflict and hesitancy – UNICEF, WHO UNICEF",
+      "description": "Global childhood immunization coverage inches forward despite conflict and hesitancy – UNICEF, WHO Unicef",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -898,19 +950,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "One crucial detail about anti-vaccine bills revealed in new study - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTmY0TUtQNThOMTZmejJTNDV3eEJudzNub1VXQkkwTExFTjVnVmtjYVNNN09aa0xfc3Qtcl9vZU1DVHA1SG1jRWc1Nk82T1BCMFNXSjRXOHR2SEFGLTF0U3EwajNLU0dNU1o5NDVSVDJOY3lpUlJ1eXZ2QTAyNEhHa3Q1SWE5RkpBRmlRWVdVdjFTbmdrTHlDSmJPYjJLZw?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 10:50:00 GMT",
-      "description": "One crucial detail about anti-vaccine bills revealed in new study Newsweek",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "Lawsuit over COVID vaccine policy at Idaho National Lab leads to $5M settlement - Yahoo",
