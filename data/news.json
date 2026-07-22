@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-22T22:44:26.339Z",
-  "itemCount": 94,
+  "updatedAt": "2026-07-22T23:44:49.288Z",
+  "itemCount": 93,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 6
+      "count": 5
     },
     {
       "key": "flu",
@@ -20,7 +20,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 18
+      "count": 17
     },
     {
       "key": "pneumococcal",
@@ -45,33 +45,59 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 55
+      "count": 56
     }
   ],
   "items": [
     {
-      "title": "Measles cases hit highest level in 35 years - The Register-Guard",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVms0b2E0YUphSXJna1JCUWNBTnloUWd6aE9IdDN6NDIwWEtyVmlFLVhNMDRhbjFpa1hqNnlpQmVmVnZyX3RzU2t2bndPTTlxT3RaeGp4X2xFSUdqQnE3cVFhVDh2Z2ptV0xjMkFWZDlOd1d1U2c5X3VzZTJfU2hFd3UyUUk3ZGJXYXBSN3d0RFlzb0JIQkkwMjllNGlOVi1MLTBxNE44dXpmNW8?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 22:39:00 GMT",
-      "description": "Measles cases hit highest level in 35 years The Register-Guard",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Oklahoma vaccine exemptions rise as mobile clinics expand access ahead of school year - KTUL",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUm1NSGRhWVdCcXFJbEZoeW9UNjVQY3RJaUZZT2JRRVJqUnQ1T2VJUWdKdFhpWVJCRUZvT3JDa3FNakF6Y1VRTXN5cGowaEwzT0FKdjhKQ28zVkxfbi1CNmVOc29nbndfbXMtUWtvb1dBN1JBTUc0cnRlVU1RVEJjd29wTTJ1YTAxRDJwcS0tXzg3N0p0ejVfS3N0Tl9KYWdKamotS2g5YjlKUEUzbHEwblYzUQ?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 22:23:04 GMT",
-      "description": "Oklahoma vaccine exemptions rise as mobile clinics expand access ahead of school year KTUL",
+      "title": "What Bundibugyo Ebola vaccines and treatments are under development - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYWVxaGdpMVB1ZVpOUVoxdTQyQ25raGVhUVgtYjk3R3NBWHVlbGhaMVV3Z0hsV0ZYRUNKa1k2X1RBRk9UX2xZQ0pjSGUxUjhqVXZxSlRHQmllV1NwanRZZll0Y3BNd3pqNWhwbE5Bdm92T1N4OEhZTWRsaDhoNEM4ZWxnUjVMX1pyWVExRDJfM2oxRnNFVHM1azdtV1hZYUdQbTlwVWRBcW9IYm1wMkw2QlRPS2lwWlYtMC10Uw?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 23:16:56 GMT",
+      "description": "What Bundibugyo Ebola vaccines and treatments are under development Reuters",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Oklahoma vaccine exemptions rise as mobile clinics expand access ahead of school year - fox23.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSTE4ZDZXTWNVVFl4QWwydm5kZWotbklUcTFCREg3ZC1wdVpnQ3AyZE93N1p3ZUN1Y3ZGVDRtUU5VYzh1ZVlaS3FLMUdzSy1VRGZoNmxoQUpCZWNtdEpkVXl1bFhRbVA4ckJqZFhBY2F5UndLMzZkd1JBZF9iRzVSTk16QVNLZDFaWjZnazBzRXhaaVd0R25VZmtjUEdPdnBVOHk5ekE0WjNKRGpDckVFcjByNlRsVUVsbWxXUDEyVVpZaDA?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 23:10:04 GMT",
+      "description": "Oklahoma vaccine exemptions rise as mobile clinics expand access ahead of school year fox23.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Recent rabies case prompts free rabies vaccination, microchipping event in Polk County - Tampa Bay 28",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQX3F3d2Q1OFVpZWpwcUJPX2FVMlZwaU5HeWRacllyME9WOFkzcFpWLXV6dEp5dld2S0VJRFJHS2dXQmljNzFQS2lhbmlvdGFDUVlGY1cwZlNkN2VjblNoMHJCOVU3QlpQWFBhd0JzYlRjdTY1SjN2LTJEb0t4bnFjVkoySWNBRkd5Qm5FX09BY1NLUWY3QUhHb1UxNXQ3dnVLZ0d6cGM5MFM5TGMyQmNtc29aMnNPRlhvRlVObjVZeEQxU1ExcDlCQXpxRXJINV94bXl5b3U2RGhvMmNaX1V2SVJ2QQ?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 22:39:21 GMT",
+      "description": "Recent rabies case prompts free rabies vaccination, microchipping event in Polk County Tampa Bay 28",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Measles cases hit highest level in 35 years - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZVNVaTNkSFhkSDhMQ3J2cU92N0xjSHZFQS1oVnlna3M4aWM3bWdySUc4OGpwb0NpenVjLWVkVUdORmRYdmlwdlZXQmFKZEh1Vk5qaEZuN01pemVwMG01bVI3OHRfOHVRdDJ3Q1RaQjdtMzZOS21FQXpGNWVZajVNemFxOGlUY3YwMGtGeEJhbEJzYjY5cUJIZ2Z1ckc4SHZYTDlTSA?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 22:39:00 GMT",
+      "description": "Measles cases hit highest level in 35 years USA Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -85,19 +111,6 @@
       "sourceLabel": "News",
       "vaccineKey": "dengue",
       "vaccineLabel": "Dengue",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "What Bundibugyo Ebola vaccines and treatments are under development - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYWVxaGdpMVB1ZVpOUVoxdTQyQ25raGVhUVgtYjk3R3NBWHVlbGhaMVV3Z0hsV0ZYRUNKa1k2X1RBRk9UX2xZQ0pjSGUxUjhqVXZxSlRHQmllV1NwanRZZll0Y3BNd3pqNWhwbE5Bdm92T1N4OEhZTWRsaDhoNEM4ZWxnUjVMX1pyWVExRDJfM2oxRnNFVHM1azdtV1hZYUdQbTlwVWRBcW9IYm1wMkw2QlRPS2lwWlYtMC10Uw?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 21:37:17 GMT",
-      "description": "What Bundibugyo Ebola vaccines and treatments are under development Reuters",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -132,6 +145,19 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdG9XbDBDQjRsSlk2MVkwQ3VkN2pSbXVWdlY3WFk4QmwzUTJQbzV1aVExa1dwbzR4WG5wcXdDN2lJS0JyRFNlR2FrWkRnWmVwLUJrc1BmQURlYXM1eXlYcU92Q3R1MkpCcDJ2MlRiRVgyN3JQYmVzNmdKQzdSb20zNGRjU20wc0wwSm52VEFLNkxuTi02SF8yLXRrU0RqQWRfblEzbDRGVXNwRlI2U1FWRm9odmdneXJ4alJ1TWVITzhwT1d4MVZRRmt5QdIB0AFBVV95cUxNZ0NKUDhCQUlReERRR0pDM18zZUttLS1BWDRBN2FpS1VEbkZUUWJGQmRxZVpJdS1xcTItUGJyREppYnplZl9RY1dodG9KR0hhNm1PTWhxRTdKRGkzY2VQTTN5U1E5ZXBaeW1zdVNJc3AwQjZIREp3cVFSaDFSME5uWWh4cEdWMS1rQ3B0SXphelBSVVZYcGlIWDhVTGprVTdWUFRPdVdrcU5pNEd3dE1ELUNQd040ZzdXek8wYnlxLUE3RFJvMkhFWUI2bFFONHhS?oc=5",
       "pubDate": "Wed, 22 Jul 2026 20:29:56 GMT",
       "description": "Mississippi doctors urge parents to learn about back-to-school vaccine options WJTV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Vaccine generates durable immune responses in people at high risk for pancreatic cancer - Drug Discovery News",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUzlBTktpdjVvaVY5V3RVLWdhbzBsMXpXRWZsbzFnRDZ1TDdQWW42bWxMUWx0Zlk4cGxBSDhYZzhhNUxERDB1NGtZTEpWZVlhVW1GVHJoX1MtelNiMEpNdElPMUhvVEFmXzl0MHNabjgyODlYOWkxaERCcDU2T2NrX1dBLW12ZVBiUmxDTEFrYTVlVGtMUWloUkQ4NTFYT1FWZXJPLTNNUUsxS3JhTkRVMXZlVzI3STQ0d2l1c0JYNHlscWZMQ0E?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 19:48:11 GMT",
+      "description": "Vaccine generates durable immune responses in people at high risk for pancreatic cancer Drug Discovery News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -180,6 +206,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Days before Idaho twins died, medical records show vaccine reaction, defense says - Idaho Statesman",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HVVVvVGRHZGVKdUNSdXA5LUg2cDlNdUVrLUxyTU0yRkhwNlpfSGVPcVV1Z3Zzb05wUlp2RGFSVThhLXJoSFJuUTRkdzdzVkxlSVZaMXhMSmZWUEZEVjQwNFh6RTFNUHBVZFgtaUQ4NHFrenpPOWR1VNIBeEFVX3lxTE9Nc0VmcnV5bkRidlVLdGNXZ05OTldtNDFOR3BVQzBfSVV1MmlfLTJ3NkhmVGhic2tRNFM1c3lwLUdlMGxTRUVHczhNVDFRZWtpVWtYc0tlLVVfY1diQjhjdHVPOS0yWDlmYUZqNmF6N2R0U0RVUG9NZQ?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 19:42:36 GMT",
+      "description": "Days before Idaho twins died, medical records show vaccine reaction, defense says Idaho Statesman",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Delaware's 4 new cases of measles meet criteria of \"outbreak\" - WDEL",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaHdJa19wT0djanVTRFFoZXRfRDdWRGtNVWYyVjliLWdkbWNxU1lXTUN5M1UwUnQ2TlE0elB0aXlKbm1GbFM1RC1kbl9VT3YxVHlTRlU2UURFYzNLQW9rOEJuTmUzZnlqa2dEYzdXZFp5cE1jZ3NhaGpQVmVSU3JwVktEMHNrVzI0dkdiVlNvNndfdkVidUgzOGdNeHBfNXpTckh5YkJOMnNtUXBrMTItdVJGRFY4QzhsOTl2NUdKV3h0RnM3QWtkVWZ4N1FnYzA?oc=5",
       "pubDate": "Wed, 22 Jul 2026 19:38:00 GMT",
@@ -208,7 +247,7 @@
     {
       "title": "Protecting NZ infants from RSV: The case for universal immunisation - Public Health Communication Centre",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYV9zY0ZHaEx5c2Q5U0VBdnItVUpWOUdfY0RuUHpyZVlqT3ZyZEtobVl4SFk3MGNST2NHcjBHejhLOHRFV2FmbWJMekhHWU9yczlIZHh4RjM1MUprd3lzdUlBTi1SNnpvTUlZa3hIeHM2RWRmcUQtXzdSV25yT2ZqWGVpLXliUkx6cy02azdWaw?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 19:07:30 GMT",
+      "pubDate": "Wed, 22 Jul 2026 19:09:44 GMT",
       "description": "Protecting NZ infants from RSV: The case for universal immunisation Public Health Communication Centre",
       "source": "news.google.com",
       "sourceType": "news",
@@ -262,19 +301,6 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPamsteGg0Yk5talFVeEt2T0NZdzFmZzRvUWE5SkhyOXFISWhvYjFGN2Z1SWpCY3dJZWRzWFFObDJKWk9uUnNlbzExcHdhR3JpZDE2VkZsWElCZzhyNUx6TzhGOHZXeHVmUXAzVW5vQm5ZdEF4TGlnRGV3WUpOQkVDQlY2VXN2ZGRPR1A4Qw?oc=5",
       "pubDate": "Wed, 22 Jul 2026 17:17:37 GMT",
       "description": "What Vaccines Are Required for Oklahoma Students in the 2026-27 School Year? News On 6",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Vaccine generates durable immune responses in people at high risk for pancreatic cancer - Drug Discovery News",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUzlBTktpdjVvaVY5V3RVLWdhbzBsMXpXRWZsbzFnRDZ1TDdQWW42bWxMUWx0Zlk4cGxBSDhYZzhhNUxERDB1NGtZTEpWZVlhVW1GVHJoX1MtelNiMEpNdElPMUhvVEFmXzl0MHNabjgyODlYOWkxaERCcDU2T2NrX1dBLW12ZVBiUmxDTEFrYTVlVGtMUWloUkQ4NTFYT1FWZXJPLTNNUUsxS3JhTkRVMXZlVzI3STQ0d2l1c0JYNHlscWZMQ0E?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 17:14:28 GMT",
-      "description": "Vaccine generates durable immune responses in people at high risk for pancreatic cancer Drug Discovery News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -440,19 +466,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Vaxcyte: Clinical Stage Vaccine Disrupter With Vast Near Potential (NASDAQ:PCVX) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaUFRMjN0VEg0QjlOMWxGNXctX09oZ203QVZUTVBqVGM4Q1FlSkdYaWFJbk5oelFFMmlFWTN5bXU0Si1INGhOamlZcmtDRkRraThobVBqaTBITHJGV1VCU1hBTkg3alhCUzMyMWtheDlKUlhteG94QkhCUU81Q0JoelJSZHM2MUh1eWNDQlpXTDQ1dnNHeFVLU3NlY0M0NlFCS0FwQlU2b3l3eTdPTjlhV1lxbV9xLUk5UVJ5QWhHQmN2ZnR4bDd6bUtJU2RxcDFwNWhB?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 14:31:59 GMT",
-      "description": "Vaxcyte: Clinical Stage Vaccine Disrupter With Vast Near Potential (NASDAQ:PCVX) Seeking Alpha",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Measles cases in the U.S. hit a new 34-year high - Science News",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pdE82dEMxckM5NlpaNUREemowWDNKVnlwN3FSQnZHc1FoSF9wOTNNa0xGTWp1SFZDakFfMjJ6NTVJc0lmeHY4SUZUZ2VLNjNqUTdvamU5c2dXd1ZsVGtoekRZdkdVVzAtWFk2c2c1YU1SUS01SXRZRUFVOGoxZUU?oc=5",
       "pubDate": "Wed, 22 Jul 2026 14:19:58 GMT",
@@ -553,19 +566,6 @@
       "sourceLabel": "News",
       "vaccineKey": "pneumococcal",
       "vaccineLabel": "Pneumococcal",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Association of COVID-19 Infection and SARS-CoV-2 Vaccination With Echocardiographic Pericardial Involvement in a Real-World Outpatient Cohort - Cureus",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMUFqRDUwWUt0YU80MUxZcTZTeHg4bGxJeHdpdnhFQklfTDFzU2VwRTR4VHRUVHBrOFlnaTdkNHR4WlhjU196ZHFheFpDZDZRVFJqVFlMR0FFeUFIU25iYjBqQnpWUndkV3hmZlg1TDMyODUwT3JZV3VaTTdsUG9DZENqenUxaTVtdzFvcWdMSm5KVDBZVllHMEtkMjM4elpZa3Vrdlc1OTBhd1lZZGV4Z1lKdWY1eWJxaktKWUowQW05UXgyTDJ2RElIc3UxVjhUN3NTdEk3eXRiOVNZd1VFb0MtWDRYb3lSNmZoWUJrMDl4Y2FxdkktQUhGVy1vRGdkdFJoczBfN0hYbkZz?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 11:05:22 GMT",
-      "description": "Association of COVID-19 Infection and SARS-CoV-2 Vaccination With Echocardiographic Pericardial Involvement in a Real-World Outpatient Cohort Cureus",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -674,19 +674,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "BCG Vaccine Choice: Intradermal vs Percutaneous Explained - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbnFGaTE0WGYyWldCV1JmSFpvYUN0bFprYjFycFZ5S2hJZzFiRE9MWS16M3BId1poeDhGTE1velJ1VWdkd2F3TlJtQ2k3UnJtUHdENllUVmk5RF9EYlZja0dsdXg0cmk3YTNBUGxDQWtWbTVHQ2pyNFdmMktyYlRmTlBSbTRHZzlwdDhVcg?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 08:19:45 GMT",
-      "description": "BCG Vaccine Choice: Intradermal vs Percutaneous Explained 조선일보",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Think Vaccines Are Just for Flu Season? What Adults and Parents Need to Know - Cone Health",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qX2NJZTRVZ0pFekExMUpvbWVYZVpsN21BODYtS21PWWZhMkFhYS1jRTJmV3NDYlVuZ3B5bGpRR3Frd1lGZWRhVUdWUllvNndLVUxuRFdobUg3cC1FWDJEdWJCX2FaTkVPcG9DZmlJMi1Camo1Y0NMWQ?oc=5",
       "pubDate": "Wed, 22 Jul 2026 07:42:01 GMT",
@@ -696,19 +683,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "U.S. measles cases hit 35-year record with months left in 2026 - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNHA1ZlpjRnE2SEl5MHRKZlhTMy1aN0lRT1lKZ240bUt1YkJxLXN6WVN5OTBXa2lCSU9kU1JRQXFodWlDVGJwY1NhenZCcGVrMzlDY1VaMWNPeEc2QnBqQ1lxdFBfQXJWQWlYVFFhWnZwM3VYM25zWG1oV2JlZUk3aU01eDBVWFNiLUF1TVN4RS0tZzNJNDQxNkVVLWQ4QTc1WUlIdGJFRDNYR00?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 06:18:37 GMT",
-      "description": "U.S. measles cases hit 35-year record with months left in 2026 The Washington Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1125,6 +1099,19 @@
       "sourceLabel": "News",
       "vaccineKey": "dengue",
       "vaccineLabel": "Dengue",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Maine man sues local school district, state DOE over vaccine requirements - WMTW",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdmtuNkVFVHI3bGkwZFV5RXgwYmV6eG1ldktTZlBPY05jZ2wwaEhvanpXZkFXa1VuNXNmdGpvazlaWUQxMzB0YllEYlpsOGhHZEJCMTVpZTdudk5nZXBraFZ6dVlXTm9mdHhyRjFXc0pXRUR3SFJrY1lYVWRvOUs3ZGdWREVpRG5DNVJCcHVOUQ?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 18:12:00 GMT",
+      "description": "Maine man sues local school district, state DOE over vaccine requirements WMTW",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
