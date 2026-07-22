@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-22T12:02:43.755Z",
-  "itemCount": 81,
+  "updatedAt": "2026-07-22T12:55:34.676Z",
+  "itemCount": 80,
   "groups": [
     {
       "key": "covid",
@@ -10,7 +10,7 @@
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 2
+      "count": 1
     },
     {
       "key": "rsv",
@@ -20,7 +20,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 14
+      "count": 15
     },
     {
       "key": "hpv",
@@ -50,7 +50,7 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 43
+      "count": 42
     }
   ],
   "items": [
@@ -497,6 +497,32 @@
       "articleLabel": "News"
     },
     {
+      "title": "Delaware confirms second measles case, both in Kent County - WDEL",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVXZ5MGhqTWxjRzJ5aHBiVjRzZ2gtTEVwb3Ywazk4TVpSNktTZmRCbG9NY1VWeW5vVlh0WktsVjVNdG5sNVBEZTZ4ZVBPZ3p0TktFbFdNWF9Zcjc4WGlYeEJsUzFOYjJTU3NGbVZuLUFSY3ZaSl9iZ2M2cU1icmg5WHFzT1lwVGFvTlBhbEhtZF9EcUNFQ1N5R2RLMloyMUN1UTRBTmY2cm5YNHQwR0YzcElvQjhuelA3MnBhOW5WMVJmSW1UMEZSaXd4ZTI0QQ?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 21:00:00 GMT",
+      "description": "Delaware confirms second measles case, both in Kent County WDEL",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Fargo Cass Public Health hosting back-to-school immunization clinics throughout August - Valley News Live",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeVpQSHA5UVBtM3hSTmdTWFZaSWxpcFBjQm84eXNkNENISlNzZ0NISW9KMW8ySjh0anV6TUY1SUdWREYzTEI0SFhzb1RwZTUtUjZVTFdRLWFILUJzbmFtdVlBYjhRQTA1NG5tOS1wYTVnSW9GQTRnZ1pOaDZwVDQ1QVJGZ25NOGZCblRqcFQtVk9kbUtOcEFTeVlaQUxyLU9jM2xmbGxrNFliSXZ1TWxEbi0wdlFGZkFablY5ZmotODF4NEhGXzBCSjRNMS1uUDBS?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 20:23:43 GMT",
+      "description": "Fargo Cass Public Health hosting back-to-school immunization clinics throughout August Valley News Live",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Delaware officials urge vaccination after first measles case in decade - NBC10 Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZng1eWZqaXJFenR0dk5pUXZPMkxvdml3UnBWemtQc1pJX1QxclNoWDNsUGtmNkl2ckNUMUVFUFQ4TzVDU3lEaDk5TGItaHI4UXhYRGVpYV8taEduVDIxdWtFeUdBbERERlpac3Uzc0Q3dmpLVWlpS3poUHBTejFPV3h4djZ6S1FaUXBzTC1iT2VpZjlnaEZxWnlTRGx6U1FRcXhMLW43ZU9fNW1xTjhqU2pqMjUxbUhxa1RkTkx0bzNXMHJsWmdr0gHPAUFVX3lxTE5LUlRnYlB4c2NYM3JEMEhRbEdwSk5QbTVNaUR3dGw0TF95eUI5MGs4Z1YzLTV1T3g2eU5kZml5cU1MSzdHdi12V3VqQXZUR0x0ZVdyallEQW4wYnkzSkpoZWZONC1OMzNkU21ONHpuLUpJajBRM3AyRTEyNkNuNnhXeERyLVBuR3YzZWktWFFiOE5JRXdVTHpVYjNGWjc4WHFZT05SQnl1VTN0OV9LdFRwZ3RvY0puQ0ZMX3NDX3ZEOGVYbHFiTlZFY2pPMmd5RQ?oc=5",
       "pubDate": "Tue, 21 Jul 2026 20:20:58 GMT",
@@ -675,19 +701,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Hearing Watch: Will Sec. Hegseth Answer For Flu Vaccine Rollback That Killed an Airman? - Protect Our Care",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSkNvSUV0ZXVKRnYwTnFaempmQ05TQklHeVFtbmY4Z2ljTEpmd3FCTmJuOUhtZlpsMlgyd1JWaGVlblRGeVRJR0x5WWE5M21YX1QtamQtSUMxX2ZKRGNob1J4aUV4VXd1ZEZ4OHcwTDhVVGFEUklLMEdtbDZkSjdybExEcUZsQWlqSWlvLW1KWVNKdWJ4bl9pakNsdmRLYUVabFFHRGNkNVlLWDctY2FFazlUN2Q3cHM?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 13:23:58 GMT",
-      "description": "Hearing Watch: Will Sec. Hegseth Answer For Flu Vaccine Rollback That Killed an Airman? Protect Our Care",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -926,19 +939,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Fargo Cass Public Health hosting back-to-school immunization clinics throughout August - Valley News Live",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX0dTMEZtMFUwTmpBaWw1WWNwVHA1Qk54SUxsTjVuMGdOeV9ST2ZNTWFiVTA3bnBnMkZ5UzdMSXFZVjNZTV8wV1NydmFPLWxrNXJfYlZIWHo2ak5oNWYxSHdwdlB2cGdxS293MWxHRjdnWGRYMHI4RzU4ZXhlUXdLOWZYQWp1SnM4ZERJX0ZtWGFrR3BZYWRLVzJNTDdqNEhqQjlwRUxaN195UW5FVS01VzZnVWpnNlUyb1ZtWmtkU3E5RE1QRDBLMNIB3AFBVV95cUxOWEtRZm1Ib3hRWnJCT05Tc2ZUMlpPT0ZFTWI5Qzl4YVc1WDdqdDc5VlNVWk10aXJxLWVQZkRsMjZKXzgtb3hNNnU0T3lON3NJTzBFdVV3NkxvX0lWXy1PVll2Q0VMSjlQOXNRUWEzX3BvcWNKZTlCSUplX1lWek1sQVJfLU1TdVp6dHY3VkNQeE1CU1BJVWNCdW82d3pFQVBucVF1U1pBdFBheWsyaVFHOV8xN3dBV2FqWTVZa21BdE5GYnVYcGx2c2NJWWs1MHNvSzd4WGR5Z2NpaXR1?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 20:24:00 GMT",
-      "description": "Fargo Cass Public Health hosting back-to-school immunization clinics throughout August Valley News Live",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Antivaccine legislation is rising rapidly in US states, driven primarily by GOP push - Medical Xpress",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ3RiZGRqNDFBanJWczY4MUJtbXhnSC1ZVjRua2wzREJXTG9lSUZWbHI3R0RyOEVJd2RyaEZjT2w3eHV4NE83djA2ZmN2WG85VjlDcXNWdWVuQS1KNm5lV0Z3QkxwYU42ZXZWa0pGV1ZVYWFLc0p5dUE4eVJYMVp4ZkdfQWFCdjAxWGYtWVBOWDFEQWc?oc=5",
       "pubDate": "Mon, 20 Jul 2026 20:00:06 GMT",
@@ -1000,19 +1000,6 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Column: Cook County offers free immunizations as number of unvaccinated students grows in south suburbs - Chicago Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSURzMlgwVktEMEVjbWp3azJoN21LZTNIb1lIcmNMTGl1ZFpyQlpWRThWdllabFdRd0UwdFgxeHE2a2swb3Y1NE1tYTd6dVY1cTZrSVBHUHhzLUJ6UUdRbVQ4WnlSVXNhR3E0MGJFRExvbUVSSEhaZlpFZjFxckhVVG5TRGREejhPRlE?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 16:56:44 GMT",
-      "description": "Column: Cook County offers free immunizations as number of unvaccinated students grows in south suburbs Chicago Tribune",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
