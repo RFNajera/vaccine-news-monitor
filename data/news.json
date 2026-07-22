@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-07-22T17:50:43.837Z",
-  "itemCount": 90,
+  "updatedAt": "2026-07-22T18:47:36.021Z",
+  "itemCount": 91,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 7
+      "count": 8
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 2
+      "count": 3
     },
     {
       "key": "rsv",
@@ -50,10 +50,36 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 53
+      "count": 52
     }
   ],
   "items": [
+    {
+      "title": "Most Americans are unsure which vaccines the CDC recommends during pregnancy - Medical Xpress",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaU9BcnNIc0dra2g0Z280TkY3NEdKejA1aF9hT0FhOGtQSXhaYVo5RllMbjF6M2llQktoWGpRVThnZW9lQm5wdFd2TVRzb1dLZ2xQMkdlZ2lPbWI5allrUUJNSzRDaG9EU09MX3hIR3ExYUF2dG9HUFpOdlJKQURsUUQtQnhhdlRraGUw?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 18:40:09 GMT",
+      "description": "Most Americans are unsure which vaccines the CDC recommends during pregnancy Medical Xpress",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Does Influenza Vaccination Reduce AFib Risk? - American College of Cardiology",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdUZKaTdITVZDbHVxeTduQUpzUUUxbERWd0I5NU9wamJpZG1PZUozSUxwdnV6dUVPaTRPQnZDc09TUWlCcS0wNHhhREtXSjB0LWVfRXZMRWs4R29HMjJfblR3RGI4RXVUb0EzUU4wTGJsT0c2MGI0el94QjhXVXpSakFCZC05X01LckQ1ZjV4ZldDcklGaDVuUQ?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 18:17:17 GMT",
+      "description": "Does Influenza Vaccination Reduce AFib Risk? American College of Cardiology",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "mRNA COVID-19 Booster Outperforms Protein-Based Shot on Antibodies, But Both Cut Infections Over 12 Months - Pharmacy Times",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNFhHc2FnTkp5VXNNN3VGdGF4RHV4MDR0UnhFdVpVdGRoUGJoa2hEekRLVHI2X2NxMkJHcTExcUVaMVRTbjNlYnZRR1VlRXZSX3lxMkNlbEtkZC1tVmdod2xNa2NUcUJwZmUxb2JsUmpHUWt6NWhST1h0TTd4QXlDdi1MSU80OWhHanJTdlFFVlMwT1p0alBoQ21uRElWU3NGM0o1Xy1SRGwxZTVXdnU5ckQtLVBxSC15WEhZMkhTVnRWcGtmM2hUNFVoNU5lRmtkdmlaRW9vbw?oc=5",
@@ -276,19 +302,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "The first young people in Wales received their life-saving Meningitis B vaccination yesterday - Wired-Gov",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbjN6YzcwTmNieFF6UHJMMnhKSkRpeHlhQnFkN2cyZkd2a1gzcVNaSDlESmNaeTkwVzNiVnRhQ2tubV9RSGhTaGl1T3BuOEVRTVowQTNZUUd4LTQtS1BSMXpvV0VjMkVHblRtVWVYS2NKcDFOUXBoenZFSWU3b1FzZkdvTkJjT0tBS3NSUURnSU1fUS01TFBfaUdCd3hFRm1fSkFCZFRGazExNVprd3JSWjBZa1J4QlV3a2JjSFU4VTJKcjhHandaZEV3THM5LXJ0bGJWMlFyR0tla2NHekpnR1g0RXZoMklPaGxIRVRFVWs?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 14:28:33 GMT",
-      "description": "The first young people in Wales received their life-saving Meningitis B vaccination yesterday Wired-Gov",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Measles cases in the U.S. hit a new 34-year high - Science News",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pdE82dEMxckM5NlpaNUREemowWDNKVnlwN3FSQnZHc1FoSF9wOTNNa0xGTWp1SFZDakFfMjJ6NTVJc0lmeHY4SUZUZ2VLNjNqUTdvamU5c2dXd1ZsVGtoekRZdkdVVzAtWFk2c2c1YU1SUS01SXRZRUFVOGoxZUU?oc=5",
       "pubDate": "Wed, 22 Jul 2026 14:19:58 GMT",
@@ -315,10 +328,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Most Americans Are Unsure Which Vaccines the CDC Recommends During Pregnancy - Annenberg Public Policy Center",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaWVIZzE0blg3dUg5N3p5NUNDMEY4OTQtMHBpTmtPcGRhejlJVDdYdzE0UzRjeTI4V205bVBHcnAwZzFsNXp5ZWY1dUk3NzdVcUR6bTloZGlQOVJtV1ZtaHRyVWRvejBVSWtZYklfS1l6OF94d0JKa2VIZUpxcEdWNnFGRHlvQzBhaVBNaWxtWWlpZEVKUzFkMUlGVDlmdldKN2drZVRoMnExQ3JGSzZWSkhFdnA3OFNNQ3U3M2p3?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 13:49:18 GMT",
-      "description": "Most Americans Are Unsure Which Vaccines the CDC Recommends During Pregnancy Annenberg Public Policy Center",
+      "title": "New Vaccine Shows 90% Success Rate In Pancreatic Cancer Prevention - MindBodyGreen",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSUdEZlp1RXk4eUgta2xLNHhJUUVFeXdmQld0THhRbFhsOTdUZkRQT2dRTTFYaXp0bDh2alBVWm9SU0QtbllyMkJGNGxHemlabUtxS1FiekgwUmowTHc2MkJPVG1oQlJUbWlOV1FabTRsZWNIWmxHM254cjBXbkhDSkxmRlIxT0xCbHBSaTFBeFRRZDhMME5PS3RzOXVVOXJ2UEhWTmJhT2tRSm1VVHJnZkJMRnBGOHM?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 13:40:43 GMT",
+      "description": "New Vaccine Shows 90% Success Rate In Pancreatic Cancer Prevention MindBodyGreen",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -358,19 +371,6 @@
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS0VrRTU0bnJxNkFVRGQ2T3V4RXJ4akw1UHY2R0huYXpSMXE4R0RvSEZBNDlrMEpuSWNMWFZKNjlQRkdwUTZXMkNsQlNxVDlGbHdDU1Z1TkUtSnRPQ3g1VW8tUVM5Ymlnd0FvWnFRUkw0TXlBZ1YyR3N3UTVyZDVtdnRnLU5KbGRnODlSU2tuRDRzQUptVEdVUjlfc1h0V0FHU29PaTd0eFpDNDd4dXVQbHo1c2pyVGpKX1VPZnJFQmxPNy1iUVBMUWs5X3VsbTFONHVaMFFZbUhNbGM?oc=5",
       "pubDate": "Wed, 22 Jul 2026 13:01:58 GMT",
       "description": "Father sues Maine Department of Education and school district over vaccination requirements Bangor Daily News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "US hits most cases of ‘world’s most contagious disease’ in 35 years — and it’s only July - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObnVHWGY1R25yQkcyZmVUWS16Z3RhaDVpMzgxOHlNblY4TE5wUHNMMDdoVENRaU1GSmxPWGpOQ2xTOGhPalZ4Zjl4WW9LMEtHSTBfMFk0QnFRTFdCWEhxZ2I4cHBWSnhfWGg4MTA5ZDByZVNHalhEZTdsbXJMZWFKQmgwMVVJeGpwMFFRbXJhNFhGRDBNTWhPNGY1a1R2TE9PNDdTSA?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 12:38:00 GMT",
-      "description": "US hits most cases of ‘world’s most contagious disease’ in 35 years — and it’s only July New York Post",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -527,19 +527,6 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWjU4ZUJtNU9nOFYyenVKZ3FIRlg2NHlLbjduSnY0NmNESGtjeC1JU0NrcG5pSlFLRk5md0VZUGdSMTNCQWkxLTdzQ0V6akFVNVhmT1laMlhYX1lXT1VrU194SUdnbDZfTHY5clhieHpDamJyM01MaDIwaTN4R2tyb25qTVlkUFVwRWpYUnZ4SE81dHAyc2xvU3Q3M3YzQmR6WW5DLXZrZ0d0OGRLWWdyYUdibEtBQjZ1a192UGpUU18tMGZiRGloSQ?oc=5",
       "pubDate": "Wed, 22 Jul 2026 09:54:00 GMT",
       "description": "Can kids skip school vaccines for religious reasons in Delaware? Delawareonline.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "New Vaccine Shows 90% Success Rate In Pancreatic Cancer Prevention - Yahoo Health",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaEYzdFVDNFpqR2ctNnYyWXJNZnhaUWpGT3cxb3ZGUjhsVHFvSmZURFVZRzlFZnNlS2YxUllXYWdaWnItb0U3eDZlZXl3ZGNMZm9ldUo0YjRGbnlCWkYxZVQ4V2czSkpscUdnMERFN3pXR3loNERVQkdaMkJRZS1DaTFsTGJQdmZuWnl1RlRkNW9LY0tTZ25YVUVaUjRCcjhheVh6YVgxUXpieUtyMDFuRngxcE0?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 09:11:00 GMT",
-      "description": "New Vaccine Shows 90% Success Rate In Pancreatic Cancer Prevention Yahoo Health",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1156,6 +1143,32 @@
       "sourceLabel": "News",
       "vaccineKey": "dengue",
       "vaccineLabel": "Dengue",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Maine man sues local school district, state DOE over vaccine requirements - WMTW",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdmtuNkVFVHI3bGkwZFV5RXgwYmV6eG1ldktTZlBPY05jZ2wwaEhvanpXZkFXa1VuNXNmdGpvazlaWUQxMzB0YllEYlpsOGhHZEJCMTVpZTdudk5nZXBraFZ6dVlXTm9mdHhyRjFXc0pXRUR3SFJrY1lYVWRvOUs3ZGdWREVpRG5DNVJCcHVOUQ?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 18:12:00 GMT",
+      "description": "Maine man sues local school district, state DOE over vaccine requirements WMTW",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Moderna says CureVac broke agreement by suing over COVID vaccine patents - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOXN2X000YWh1RENzRDdVZ3NRVHpvWVNTM242XzNjQnVBUXZXbGFaUDhFazVTQlJ1UmxRMWc0ZTY0NUU3c2tPYlJSUHZUa3gwWDg4RUVXUGlJQ3E0TDZGRlRFNm1KRC1kYmt5ZERzMkFlY3cyMExiVTFGb3dCWWhhRk5STFhYTjFqd2ZjcnVVbWxkRG5pUTNGRE81NmRlUktZM3hhMTBGclEzdEFlMVBPdjdPZllRNHY2VkhUU1dEb1BPSUE?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 17:14:18 GMT",
+      "description": "Moderna says CureVac broke agreement by suing over COVID vaccine patents Reuters",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
