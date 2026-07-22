@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T23:43:32.257Z",
+  "updatedAt": "2026-07-22T00:55:03.953Z",
   "itemCount": 87,
   "groups": [
     {
@@ -15,7 +15,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 16
+      "count": 15
     },
     {
       "key": "pneumococcal",
@@ -35,20 +35,33 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 50
+      "count": 51
     }
   ],
   "items": [
     {
-      "title": "U.S. measles cases hit 35-year record with months left in 2026 - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNHA1ZlpjRnE2SEl5MHRKZlhTMy1aN0lRT1lKZ240bUt1YkJxLXN6WVN5OTBXa2lCSU9kU1JRQXFodWlDVGJwY1NhenZCcGVrMzlDY1VaMWNPeEc2QnBqQ1lxdFBfQXJWQWlYVFFhWnZwM3VYM25zWG1oV2JlZUk3aU01eDBVWFNiLUF1TVN4RS0tZzNJNDQxNkVVLWQ4QTc1WUlIdGJFRDNYR00?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 23:27:58 GMT",
-      "description": "U.S. measles cases hit 35-year record with months left in 2026 The Washington Post",
+      "title": "Bay Area health officials urge vaccination to prevent measles outbreak - The Almanac",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbUlRS2Q5aENhTkw5WFdMVkVOX25NR2pmNVZVUlpKZ19MMnk4d3lzSUFzNHY1dkhJX0NpUkc5WUNHMG5SV1lxWEtOM29PVjdUNjA3XzJiMll4LTkzTVVkNjRJTWVZeXFZemRqWnlUNFZOeW4tMmthZFZuRlk4c010SzlETlh3NXgyZHJNRzlNNDJIWGRmTEZEcmp3c3hJRVNKbzYzQ2E5UDVlNFdTRU0tY1ZxV2RMaFF0?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 23:57:23 GMT",
+      "description": "Bay Area health officials urge vaccination to prevent measles outbreak The Almanac",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "SPCA will hold free rabies vaccination and microchipping event amidst recent rabies case in Polk Co. - WFLA",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX3lPdDhQVWlnNDJ4QkpMSENyX3ZWVnJpNEdMWTBvS00ybVNqTGd5SUVlbS1QNmNjUUVvelp4cXFTWl9VMFhrZXVOcVBJV3E4dkVVTS02M3NYLXM0Q2VIeFZNc3FGSVBiejB4RVl5RG9IQnNFaTRsVVZfUW5qRkcwUm9jMnZValo4MmJQX3pLa081N3lhTVczWWRpSF9LQmJJMm5BVE45OC1pUXRLcEkxU21ubW1SQ0NqNVlGd01RdUNSdm5UUlQyQmhjNHA1VC1KUmc?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 23:55:34 GMT",
+      "description": "SPCA will hold free rabies vaccination and microchipping event amidst recent rabies case in Polk Co. WFLA",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -62,19 +75,6 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Regional: Bay Area Authorities Urge Vaccination To Prevent Measles Outbreak - SFGATE",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR2hWSW0tWS11YVAtaDZRRElqYjhKVHVoSDNSRV9WX2p0bllobERGRkpKSTI0cE13a2NqMVl0d3Rfem9oYldtWVZRWWkyRXk5bmlkTjNlWFhvLW9MNHFzTUZ0TjZFYm4tYTVzdTYtY2V0NFJhSUZZc1RuYjUtaktyLURrcDdMYkNDOXB4YUhjMGhZYjZKNGYtcmEteUhDSzhOOUFkWmd3?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 23:24:59 GMT",
-      "description": "Regional: Bay Area Authorities Urge Vaccination To Prevent Measles Outbreak SFGATE",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -122,6 +122,19 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQXRkNU9TY3NLc1B2Z0J1cDdfOW5IS2pnczJfVFZIejc1QVNiODEtYXctaHRvRGJWSjh0UlhDdXY0MWF6TDBCSGNQTnc4V2JuazNTdDdZRGt2NlpqWXNaM21QNDNGbndCc0lHWEpkanFoYWl0OGZ1M2tiYUlkUldzMzZqalJxMHdjUzRDaGZqOGFGbFhQUnpnUnE0aUg5aU5ZUmp2Z1J2Tm9SVU5FWEVFV0Ruc0Q3YVM1YTh4V3FtT0RucS1BcDdkbmxfMGprY19B0gHWAUFVX3lxTE10cVRBcFp6dHdsVzJjUHFwT1RWTjFEME1TVWJDa0w5enpwNUdvVUdhenR3ZkZqRE5wbkk3WUNBajVmemxWT2gzOWtIc1FDNVlGRmNQWUROSmxFdS1sNmNnNHFsczQ4bTRSZnh4Sjc4dlZueG9udUJ5MUhwVWs2SjJkZ3NESkRvRndpZnV3eU9JQWRzZ0JwTzBDWmpDV2NCWkxhamtRbng3Z01xdlE5OC1JSnZyOEtMWWkzd0V6VmFnZkFJQ2tjeEE5QVFBajVUS1ByajIyT0E?oc=5",
       "pubDate": "Tue, 21 Jul 2026 22:57:10 GMT",
       "description": "SPCA to hold free rabies vaccination, microchipping event after rabies case in Polk County WFLA",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "SPCA holds free rabies vaccination, microchiipping event in Polk County - WFLA",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWUFWTFRvRFR6ZG4tbmNuLTlqRU5iU1JqNVcyODV2eUNzWmdyN0lSSXc3VzJVaXZ6bnh0dlFZckZpUnc1eFY3anJHeFRacUFNTF9HZnprQjFDM05kR2dOZWNHOElRNnl3TjBLRTRsdzVjWUpzUTZoNkplUFpFemwxcVhnRHlFbmxSMEFLOXRpY3hDVENHQlJHNVJtN1NpemZpT2NCWW53ekw4c00?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 22:56:30 GMT",
+      "description": "SPCA holds free rabies vaccination, microchiipping event in Polk County WFLA",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -196,19 +209,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "New Caney-based AABY Foundation helps provide veterinary services for community members in need - Community Impact",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTHcydlFmbDZfMmFfZVZuRjhxOWhIZ2g2WHRiZFMxMXFzeVhFZ1Q4OFFyN1Y3Q3M5Z2d0Z2VzZVJuQm1uRmFQcTJPVGlSOGMwZGlRRWIzOG04bDNjLWZ3UHpzZ3h0ZVBBSXJPMUtLQlh5ZG5uWHZvQU95WGNwNllSRFhuWmNkZ19Vc01tNTZyd1pQTnhYM3IweUhZRXFZWjJabndPaER5Q0lqSHZKZkU4dnA2U0xKcm5lRExIclpTYjZXUVotYldFNHRhVkRSaFd2SS1MdlVDYlR6RGhybTRQU0lSQ3FXZw?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 21:13:44 GMT",
-      "description": "New Caney-based AABY Foundation helps provide veterinary services for community members in need Community Impact",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Oklahoma vaccine exemptions for kindergarteners more than double as private school rates jump - KOCO",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkI0alc4S1BaUk52OHA2blBuYm5BVXRoU083d0ZPZEhZQmlFYTk1SzRONjJrWmdTc0YzVXo2N0w1N2NrZ29fZEN0bjRvQjZfcVBQbm9VWEllczFkX0pmNzM3WlN5SlJCUTdzb2h2ZXU2bk4tc1JEM3VjRmJBQkxKTjU1N2RYZkcwSmE4dGl0d2t0UWhvWDQ3eg?oc=5",
       "pubDate": "Tue, 21 Jul 2026 21:03:00 GMT",
@@ -259,6 +259,19 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
+    },
+    {
+      "title": "Severe weather forces Columbus Humane to cancel free vaccine clinic - WSYX",
+      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNcVdkTWdHZ2JjbjdlU3pjUEpPZW15SGs0YmU4OXI4RC1oTzhmQXhjMDZsQXk3RWU2WGEtRDZsV2owV29OSl95X2JGVFE0dURjY2M5M2lzWGktaTAxTlhOZ20zajl0QTczajBwQkcwSEJRT0Y0bWt4SkFjbjd5Q3hEYjFCaGs5a3RLNjJVenZrY1dxcTNQd1BIbThZdUY0WlpGTFliMFNEcFdVUUZXQjN4QTBOVkxYdDl2SGE5S2pvZDNXM29QckdUcEJSdmFqeDVJS3RTMDFBSEFTT2hsek5qMHptOGFrLVBySDlMeTdqZm1BblFQUWI4WmJENTFVU1BBZXdxeGhiY1loTVBzcWQyV3loN1ZqbFpiaDR1eHF2SENSSkhMSExSdmRFWXU?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 20:25:01 GMT",
+      "description": "Severe weather forces Columbus Humane to cancel free vaccine clinic WSYX",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Delaware officials urge vaccination after first measles case in decade - NBC10 Philadelphia",
@@ -456,10 +469,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Severe weather forces Columbus Humane to cancel free vaccine clinic - WSYX",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNcVdkTWdHZ2JjbjdlU3pjUEpPZW15SGs0YmU4OXI4RC1oTzhmQXhjMDZsQXk3RWU2WGEtRDZsV2owV29OSl95X2JGVFE0dURjY2M5M2lzWGktaTAxTlhOZ20zajl0QTczajBwQkcwSEJRT0Y0bWt4SkFjbjd5Q3hEYjFCaGs5a3RLNjJVenZrY1dxcTNQd1BIbThZdUY0WlpGTFliMFNEcFdVUUZXQjN4QTBOVkxYdDl2SGE5S2pvZDNXM29QckdUcEJSdmFqeDVJS3RTMDFBSEFTT2hsek5qMHptOGFrLVBySDlMeTdqZm1BblFQUWI4WmJENTFVU1BBZXdxeGhiY1loTVBzcWQyV3loN1ZqbFpiaDR1eHF2SENSSkhMSExSdmRFWXU?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 14:24:48 GMT",
-      "description": "Severe weather forces Columbus Humane to cancel free vaccine clinic WSYX",
+      "title": "Severe weather forces Columbus Humane to cancel free vaccine clinic - cwcolumbus.com",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQSHFXbmRaaWVpMmp2bl9lQmU5am1YY0dqNkZkSlVFTGJQRkFhYVMyR1c4UkRrMWRXdE96cTIwN3did0t2eHJEdDZ1aEJERWpjbEdtdUdlRV9KbFFkMVNaQldodjJ4ZFA3NjhDYWtCLTY3bUZseVRRT2ZFNUZzUzlwbjM4MTFmeFZmVjNOR1NjN3puTEZVVTlRaDVEZDhOTnViSm42cFJtQkozaWgyS3VvVHh6TUFpS2N0SFZ1Mml5QzFWSTNnNWZZelNaU2UtUFA5VmxydjB5ZmdCdWNVRnBsbzVsNmpnUkZWYXFSbXNtdEFvTzFoTFJNekhKa0c0MlNqMy1RUzR0OUlLdWZZUjZyemE0Vi0tQ3FQSEQ3bWstR21aekxqMlBj?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 14:28:43 GMT",
+      "description": "Severe weather forces Columbus Humane to cancel free vaccine clinic cwcolumbus.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -603,19 +616,6 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeDNCMzRtemlqVFptbll4cVBfWlpoVGZYMXlmMWNuTHlhTEthelBCTm4tdE5oMm5MRnVOTEx4czJfNDItQkVTLTJJWURQc3Vrb2hKZk92b3Vxc0tWY20tdWhCbVRCZy0tdU1sc3o5OVlzckRaVmFxRU9YV0RkTGpteWFCQks4cmUxbzRua2oySUhnOUVIMUJDOTlwTzhYWkFR?oc=5",
       "pubDate": "Tue, 21 Jul 2026 08:30:48 GMT",
       "description": "Brenus adds €11M to colorectal cancer vaccine development European Biotechnology Magazine",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "China’s Vaccine Doses Plunge to Record Low Amid Demographic Crisis - Caixin Global",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObXdqeDZaSVVLZngwcFZGU01TeGR1cTQxOHFiNHVGWV93UmFZaWZZUnJpTFZoRGZRUEZzVUFXY2N2Q3MtSEhZVlVkakJ0dXlZM1ZpLU5kVmtyemZCXzFHVGY1RVZ3OE9rRVZfekprZjBIaWhaaGpkakpSYnlib2loNzdDbnJMSDBLaThMR3VDZnlmWVR5X0Y0cjhaWnl6UVFVN1pzSUQ2aUJweE5QN1gzVjk0VHF6ZV8zSVpiSQ?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 08:12:00 GMT",
-      "description": "China’s Vaccine Doses Plunge to Record Low Amid Demographic Crisis Caixin Global",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
