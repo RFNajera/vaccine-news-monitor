@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-22T03:36:23.127Z",
-  "itemCount": 83,
+  "updatedAt": "2026-07-22T05:30:10.097Z",
+  "itemCount": 82,
   "groups": [
     {
       "key": "covid",
@@ -15,7 +15,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 14
+      "count": 15
     },
     {
       "key": "pneumococcal",
@@ -35,7 +35,7 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 50
+      "count": 48
     }
   ],
   "items": [
@@ -183,10 +183,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "US Measles Cases Just Hit a \"Grim Milestone\". They Are Now The Highest They've Been in 35 Years - ScienceAlert",
+      "title": "BREAKING: US Measles Cases Just Hit a \"Grim Milestone\". Here's What You Need to Know - ScienceAlert",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVnk2R2dVWWtONFVfWEJMVXpyR1E1a2htelFyQ0Q1M0VJSjR4NFMxWktsZ21FMHFDb2p3eWhZUVlCUTB2TFpHenhZektzcnFxdzctNTlBbXliVnJ5WTRtdTRELTVRR0thM1dUTnI2VkEzVmZ6dXhuNzI4NGM4N2xoWGY4LTdPUWZlNXR5ZVkxVTZwS1Q0aWREaHF5V3gzeksyU0xXZDlYcS00UnZXZ3oyVlBnVThmQ1c3VW9ETg?oc=5",
       "pubDate": "Tue, 21 Jul 2026 21:58:21 GMT",
-      "description": "US Measles Cases Just Hit a \"Grim Milestone\". They Are Now The Highest They've Been in 35 Years ScienceAlert",
+      "description": "BREAKING: US Measles Cases Just Hit a \"Grim Milestone\". Here's What You Need to Know ScienceAlert",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -244,6 +244,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Delaware confirms second measles case, both in Kent County - WDEL",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVXZ5MGhqTWxjRzJ5aHBiVjRzZ2gtTEVwb3Ywazk4TVpSNktTZmRCbG9NY1VWeW5vVlh0WktsVjVNdG5sNVBEZTZ4ZVBPZ3p0TktFbFdNWF9Zcjc4WGlYeEJsUzFOYjJTU3NGbVZuLUFSY3ZaSl9iZ2M2cU1icmg5WHFzT1lwVGFvTlBhbEhtZF9EcUNFQ1N5R2RLMloyMUN1UTRBTmY2cm5YNHQwR0YzcElvQjhuelA3MnBhOW5WMVJmSW1UMEZSaXd4ZTI0QQ?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 21:00:00 GMT",
+      "description": "Delaware confirms second measles case, both in Kent County WDEL",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -335,19 +348,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "A vaccine for fentanyl? - Hampshire Review",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLVlrUXVOaEx3aU1aT3ZiamlvVDZNUjBwMTR0dndEUUx3TUQtSXUwamhWdEV4QmVqR1Fmekhtcnl1Y3Byb09vRHBjTFlCbVFNZXFrS3F2NHJsRTRfX21KLUxsdlg0SDFZZGtvSzB5dmQ5eVl4dDNWS2RjQ1hmb3E5UXYxaVpmNllxQnZDeHpsYVlpQQ?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 18:43:00 GMT",
-      "description": "A vaccine for fentanyl? Hampshire Review",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -902,19 +902,6 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdmtuNkVFVHI3bGkwZFV5RXgwYmV6eG1ldktTZlBPY05jZ2wwaEhvanpXZkFXa1VuNXNmdGpvazlaWUQxMzB0YllEYlpsOGhHZEJCMTVpZTdudk5nZXBraFZ6dVlXTm9mdHhyRjFXc0pXRUR3SFJrY1lYVWRvOUs3ZGdWREVpRG5DNVJCcHVOUQ?oc=5",
       "pubDate": "Mon, 20 Jul 2026 18:12:00 GMT",
       "description": "Maine man sues local school district, state DOE over vaccine requirements WMTW",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Riley County Health Department Receives Continued Funding For Childhood Vaccination - KCLY Radio",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMk9KSnBGaU9XS01kTjJQY201LWxFS0VOMkVrM09XbmlHNkpnZDJIVWstb2dqbkxvbFZuaEFQenp0QnNOX0o5WWhnOXNURkx4VVNHRzBka2drMHNCNF9YbFM5d282SDEwcVA4eF9PaDU3NTNLaGVFWGVabklsMWdOTGhuYTBSNnVrZHJYVGhaNWlvWjNOZk1RRUpicjRNb2JHQzFnaS1zR1VKWlhxVFhCYg?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 17:28:35 GMT",
-      "description": "Riley County Health Department Receives Continued Funding For Childhood Vaccination KCLY Radio",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
