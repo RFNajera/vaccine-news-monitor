@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-22T09:16:27.949Z",
-  "itemCount": 78,
+  "updatedAt": "2026-07-22T10:11:52.759Z",
+  "itemCount": 81,
   "groups": [
     {
       "key": "covid",
@@ -18,6 +18,16 @@
       "count": 14
     },
     {
+      "key": "hpv",
+      "label": "HPV",
+      "count": 1
+    },
+    {
+      "key": "polio",
+      "label": "Polio",
+      "count": 1
+    },
+    {
       "key": "pneumococcal",
       "label": "Pneumococcal",
       "count": 2
@@ -30,15 +40,67 @@
     {
       "key": "dengue",
       "label": "Dengue",
-      "count": 5
+      "count": 4
     },
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 45
+      "count": 47
     }
   ],
   "items": [
+    {
+      "title": "A New Study Found This Vaccine Reduced Cancer Deaths in Young Women - inc.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUGlYRnMxY3NBaktkallCdldHNVBYZjZSVTAtdnJ2dmRqMzJ0aFF0cjNNdEhIRjkwYWV0cGp6dERuUzNvUnhSakktdVlLeUg2T3Roem01SnVJakJ5MVNNeFZMRUo4ZEdqekxDMlU1dzIzb2xBalNhVmExQnFDRnlVZzBGVklWSUdRMmU1bXBHaUJKX3JDTHVXNmRDQjRReG5VcWpRQTRDbnRUYm9ybk1wWUZoQQ?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 10:09:36 GMT",
+      "description": "A New Study Found This Vaccine Reduced Cancer Deaths in Young Women inc.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "An HIV vaccine is within reach thanks to mRNA - vox.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT1NUOTkycWFWazBxcTZDcExhMDUyQXFTQTkyZjFTYUZ4YXl3M3o2UUwxNktmNV92ckMzWHMtaHUzaXpvNjVEbmZXV09MSjVueWptUkVPSjZaRC1zbDdzNGZCa2Fzc0JPZURGeUpSYklnWDhXdXBtX2ZvZEN1VjFvcTVsLWFtcjZ0WUxNWm9NVXUtdEVJNkFR?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 10:00:00 GMT",
+      "description": "An HIV vaccine is within reach thanks to mRNA vox.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Can kids skip school vaccines for religious reasons in Pennsylvania? - PhillyBurbs",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNclBNZ2RIYTJkbXFPMzBoY001LVhFNEcyWDJCdEFMQWFZVHkwNU9TNW5iT1NzV3ZUVFZDaFNlVUVIeUpmOTZmbU5jX2l1M1Z3QThkSnRlQnRud3pYZEhsTEVpYWhSWFdDQ2tVcF9PRjdZMDhNSFhZTDRwQ0xJelp1RUFsY1ctalpOOFpnME5QTU02WWRwa1M0UjNYcjVGQ2F0dEd6UWpJUUF5ODk0Uk5JY251UkNmZFQwcTltUjJBQmtaTTNVNUZ0SVRn?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 09:56:00 GMT",
+      "description": "Can kids skip school vaccines for religious reasons in Pennsylvania? PhillyBurbs",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Can kids skip school vaccines for religious reasons in Delaware? - Delawareonline.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWjU4ZUJtNU9nOFYyenVKZ3FIRlg2NHlLbjduSnY0NmNESGtjeC1JU0NrcG5pSlFLRk5md0VZUGdSMTNCQWkxLTdzQ0V6akFVNVhmT1laMlhYX1lXT1VrU194SUdnbDZfTHY5clhieHpDamJyM01MaDIwaTN4R2tyb25qTVlkUFVwRWpYUnZ4SE81dHAyc2xvU3Q3M3YzQmR6WW5DLXZrZ0d0OGRLWWdyYUdibEtBQjZ1a192UGpUU18tMGZiRGloSQ?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 09:54:00 GMT",
+      "description": "Can kids skip school vaccines for religious reasons in Delaware? Delawareonline.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "New Vaccine Shows 90% Success Rate In Pancreatic Cancer Prevention - Yahoo Health",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaEYzdFVDNFpqR2ctNnYyWXJNZnhaUWpGT3cxb3ZGUjhsVHFvSmZURFVZRzlFZnNlS2YxUllXYWdaWnItb0U3eDZlZXl3ZGNMZm9ldUo0YjRGbnlCWkYxZVQ4V2czSkpscUdnMERFN3pXR3loNERVQkdaMkJRZS1DaTFsTGJQdmZuWnl1RlRkNW9LY0tTZ25YVUVaUjRCcjhheVh6YVgxUXpieUtyMDFuRngxcE0?oc=5",
@@ -66,6 +128,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "India's HPV Vaccination Drive Crosses 52 Lakh Girls Vaccinated - BW Healthcare",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMFN5NGQ4YkJ4NWUwOUtibmxUazhpNm5EWFN6M2I2MXBOdE1FVmZpRVpVRmMzV2lubEFqTE5EcVlyWW1iY0hGd21ab1lrUVYxaWs3RW5WcGRoSFRCeFdLWldCT3ZUSlI3RXpSSVBIelRXb0d6VTJKSWs0ZlVtVjNPdlY4OFNmS1pwT29hdWJEa2JROXVWcFNXNy1IVnBQakdHRExaTjRsMGl3U0N4amlZSw?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 09:00:49 GMT",
+      "description": "India's HPV Vaccination Drive Crosses 52 Lakh Girls Vaccinated BW Healthcare",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hpv",
+      "vaccineLabel": "HPV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Takeda's Dengue Vaccine (TAK-003) Becomes India's First Approved Dengue Vaccine, Bringing Prevention to One of the World's Most At-Risk Populations - Macau Business",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQeVlWWkNicDJ2M2dYNi1sVU9XcFRzZFhaUW16T0JsdUVrUmthOF80RFhNa2YyLW9hUDRWOFB2d0JBcjZfbHduZmVyeHdWQWtxeU1KLVNtNHkxWk1zOE5Jd2xkZ010alBhOVFhcE5IYjFHeXRGemxfNEtodnV0ZmR6akxMRTZtSTVrNzBydFFmeVpsNVZpNnZyZl9JaDNWelNTVm92TVBITGNTNWdNS1phQk8waUpiYW1jRnhYOVppcTVxQUhHZlluQnNWeElzRkx5cWZ0YUthTG1FbFZMVmJaa0J6WXRCdVplcGxPaWNWdWlNeEpNYmwyRmtiV2I?oc=5",
       "pubDate": "Wed, 22 Jul 2026 08:37:02 GMT",
@@ -79,10 +154,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Newborn Vaccination Guide: BCG Types and Safety Concerns - 조선일보",
+      "title": "BCG Vaccine Choice: Intradermal vs Percutaneous Explained - 조선일보",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbnFGaTE0WGYyWldCV1JmSFpvYUN0bFprYjFycFZ5S2hJZzFiRE9MWS16M3BId1poeDhGTE1velJ1VWdkd2F3TlJtQ2k3UnJtUHdENllUVmk5RF9EYlZja0dsdXg0cmk3YTNBUGxDQWtWbTVHQ2pyNFdmMktyYlRmTlBSbTRHZzlwdDhVcg?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 08:03:49 GMT",
-      "description": "Newborn Vaccination Guide: BCG Types and Safety Concerns 조선일보",
+      "pubDate": "Wed, 22 Jul 2026 08:19:45 GMT",
+      "description": "BCG Vaccine Choice: Intradermal vs Percutaneous Explained 조선일보",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -365,10 +440,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "India Approves Takeda's TAK-003 Dengue Vaccine - AllSci",
+      "title": "India approves Takeda’s Qdenga as first dengue vaccine - AllSci",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ0pwUnNKcGs2T1FxYmhERW8walhDSGRUXzl4dGlqUE9PZklqQUkwYW5pVjMzQXRuVkl2WGotWFVDNlhqMnVsQ2NyY0V5em9JbEV4SnBaV1RGRDdncTZsVzRjSlN3Tm9kUTlRX0xLR2hNSFdTWUowY21nbTd1UlFocjZiWTQ2MjB5QnhNOUJmWU9ndw?oc=5",
       "pubDate": "Tue, 21 Jul 2026 19:24:23 GMT",
-      "description": "India Approves Takeda's TAK-003 Dengue Vaccine AllSci",
+      "description": "India approves Takeda’s Qdenga as first dengue vaccine AllSci",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -521,19 +596,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "India approves its first dengue vaccine, from Japan's Takeda - Nikkei Asia",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNUljQ1B0dGNuQ21rWTVUZFg1RVpPX2Ryc2RLRzJSSXBWTTdvQ0lBb3hkQ2tEZlBHYjYtb0k0TG9tUUxadmhhTTJ0Zno4X0hUNHJPTEoxRE1WbTk2Q2NxUzdFVExmejlsWE1mSm1MZHB3LVRzRXItUFpYcEpvdGxiRkZIUVJvVWhlQVVuUmgteEljS1U1UlZOVmhvSzFiNFN3ak5nUnZqTnd1SzBW?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 14:00:00 GMT",
-      "description": "India approves its first dengue vaccine, from Japan's Takeda Nikkei Asia",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "dengue",
-      "vaccineLabel": "Dengue",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Can kids skip school vaccines for religious reasons in New Jersey? - Bergen Record",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWmQ1b3J3U2h1OU5uck41WkhGOWkzNVRDS0lSaDd3UlI3aExDLXRKVDMxMHNUZzNYSC1yVWJ6OUZjRzhYb2E0bm9peDdWQmVfOTdTLU8wQlFhU0tkdjB6eDl5QzBhNnBFd0I2WnVzdHJPTXVEOFA1UUhDbmdmcGxEN0QxdW8ybGJwc2FnZC1iQTk1YVBRT093MjJQcTZwZGN2TThuOVdjMmxxVkVyZUhLR0RzTGY?oc=5",
       "pubDate": "Tue, 21 Jul 2026 13:31:03 GMT",
@@ -599,19 +661,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Brenus adds €11M to colorectal cancer vaccine development - European Biotechnology Magazine",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeDNCMzRtemlqVFptbll4cVBfWlpoVGZYMXlmMWNuTHlhTEthelBCTm4tdE5oMm5MRnVOTEx4czJfNDItQkVTLTJJWURQc3Vrb2hKZk92b3Vxc0tWY20tdWhCbVRCZy0tdU1sc3o5OVlzckRaVmFxRU9YV0RkTGpteWFCQks4cmUxbzRua2oySUhnOUVIMUJDOTlwTzhYWkFR?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 08:30:48 GMT",
-      "description": "Brenus adds €11M to colorectal cancer vaccine development European Biotechnology Magazine",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Leeds parent sues state education commissioner, Turner-area school district leader over vaccination laws - ​​Lewiston Sun Journal​​ ​​​ ​​​",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wVTk2UkdzbHgwdEN0R0tlU3JCRjdrNEtSb3U2ZTZUZjJDdzAtcXN6YjJRV2RFMDNNNk5yNzB4OE82a0dHY09lX1pScTZiMHM?oc=5",
       "pubDate": "Tue, 21 Jul 2026 08:00:00 GMT",
@@ -629,19 +678,6 @@
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRE9hQUwzSVJDUUFUWi1ZQzdQSENhOG9mTzVDVEQ4dXRHSVFqSHBRV0RrRGpmZThnZXU2cXRidmxBTGdxSmlmajFFb0RlT0VxcmFJbmxKdDJtZElNZTNRVDhURGVVU3NSeDFmRkNEak1zQXVFNzRGNkJmQTJwSS1aTjl1aGZGRDAzQlhxTHF6RFQyRlQzUGtIbnRTRmN2WWhpYUthLVdUN2lNbVM4Z2xleEZETlVvOVphSG1KVnlSM2JOT0V3aEMzTEpTRHJ2ZWNIampOUnZiakhWTnpiZXJSVmlWQzlSaTZTSGsweE84OWtubHc2ajYwY2pzMWdmb0NBY3c?oc=5",
       "pubDate": "Tue, 21 Jul 2026 07:28:15 GMT",
       "description": "More children receive lifesaving vaccines as Indonesia advances immunization coverage and works to close remaining gaps World Health Organization (WHO)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "World first: Koala gets life-changing two-shot chlamydia vaccine - New Atlas",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fdExNMFh3bEM1VXJkSV9TREo5X0hiZkZRRXlzRGdjTkJ0NXRqN1RxcVEwZHpwYS12TVg4bU5WSnBSME5oNXVMcE0xa1F4ZzJFZlBTbWxVeDl4ZGhZYnpDVHRkenR0Y08wS1hBZTFDNDMyU2djOGxqN1drUFZ3QQ?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 06:35:30 GMT",
-      "description": "World first: Koala gets life-changing two-shot chlamydia vaccine New Atlas",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -881,6 +917,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Larry David tells RFK Jr. to ‘drop dead’ in sketch comedy show on polio vaccine - Baltimore Sun",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcm81Z2sxREdsblhrTGh2VFIxVEp5QWNwS1E3WmYwZUlNNmo2TkhONXpPSWxVNXhCUm9QN3o2LXNmRmwzVS1iY0t3WlZiTFJjNzN6TTJ0aHJ0U2hGSG1xZnlkY2Z4QUZlMXhsb2tMUkhQUHk3U2NLRk45c0hnd1FYbnRoTFcyaUNqc3IwODhTZVBPT2haaE15MTJhRC1lS0lkb3FodVgwQVNTdVZHT0NvYTRfSGZheFFm?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 18:03:00 GMT",
+      "description": "Larry David tells RFK Jr. to ‘drop dead’ in sketch comedy show on polio vaccine Baltimore Sun",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "polio",
+      "vaccineLabel": "Polio",
       "articleType": "news",
       "articleLabel": "News"
     },
