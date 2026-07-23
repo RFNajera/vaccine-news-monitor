@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-23T22:42:18.578Z",
-  "itemCount": 91,
+  "updatedAt": "2026-07-23T23:43:34.896Z",
+  "itemCount": 90,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 7
+      "count": 8
     },
     {
       "key": "flu",
@@ -40,7 +40,7 @@
     {
       "key": "pneumococcal",
       "label": "Pneumococcal",
-      "count": 1
+      "count": 2
     },
     {
       "key": "shingles",
@@ -60,10 +60,36 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 53
+      "count": 50
     }
   ],
   "items": [
+    {
+      "title": "SC parents: Here’s what vaccines your child needs before school starts - WMBF",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNXVva2hSQlVLb1AzcFlDX2JIVVBaS1FKd0V2Yk9JLUt3ZTk0bm96VnBRTldJeUgwRGFNdHQ4RkxwUmtmbHk0ZDdUeFlnaHBHdFcyS2ptOEFFVkx0Q24temMzT1JmaGFOYklRaEctSzdKeHdZNG1YZDA4cW45X0R3aDBwYWRiZlBzeTQ3YTR0b0NJb21jNDFPcXNDWlRvYVNpenNsMEFiN0HSAbwBQVVfeXFMTU9tTklSVzVDeEdWYmJwS2ZHdTdOM2tpaW9yTnJXZjgzNkF2RHdkOEw0UlFYZUVnc0JkTHdKdU5NOTlOZWkxbTJGMEFTdDRWNlpMeXgzM2lTYjVvT2ZlZTJ5cmZheVIxcWdiRHgzdC1sYWR1UEdRTEdJNDBzWGJtVmVaMVVadWF5bnY5MFpnUmxvNWx6a2JUSTUxSHNnT3N1eGpHRXlfOGU1QUdIejFjSDA3OGNELXN2ek5sVk4?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 22:54:00 GMT",
+      "description": "SC parents: Here’s what vaccines your child needs before school starts WMBF",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "UPDATE: Delaware Declares Measles Outbreak Following Five Positive Cases - WMDT",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYXBtejFvazZCRl9fbkVadnhYQXJraDRIajJ0dkFYMHhSSGFtTlpCcE5TNUl3V015Z3ZfYkNPNU5uamN2ZHZ6VHg1MDFoV3hfY3JIT3ZKdXdsYnM5RE1pMEpoR2VjdFAyMEhJQUFUaEc2VUpnOEpVWTFGVGlyM3BMRGp6MUNjY0p0Xzdva0VkYTJYVkJ4Q2Nqc0RrWTgwN3hINUE?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 22:45:51 GMT",
+      "description": "UPDATE: Delaware Declares Measles Outbreak Following Five Positive Cases WMDT",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "AstraZeneca immune from Covid-19 vaccine injury lawsuit - Courthouse News",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeDkySldGNnRrVU51cVhDN0k1dEtjY2lESnJuYWdNY3pWclZNVUIwSmlmaTJreGpIcllqSTBaYXNqMDI5WUx3Q1oxZF84dmdzWlMzZWpkSnNEbG5kbjRZWHBLdlByWUx0ekxYUktlVEdmVEM4OGdDVTVHV19aOGtWdlNGUmVmZmIxMHMzN2NhWkw?oc=5",
@@ -74,6 +100,19 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Maryland health officials confirm 3 new measles cases - Baltimore Sun",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WbERZS3BBTVdJMTRFbGVadUdJdEZhNmdrVGFZbVQ1WW1BNU8wNzlzWTFsVkdYc3FUZWhOU1pSdmY3VzRHem9oRi16U1FrWGt1WkMwQWJreGdzVHE4b19XZDJNOVg2b0VlTTBZZ3lyT0xXNkJfTnIzVFRR?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 21:19:49 GMT",
+      "description": "Maryland health officials confirm 3 new measles cases Baltimore Sun",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -143,10 +182,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Rabies shots given to pets last year have been recalled over lost potency, Kane County, Illinois, says - CBS News",
+      "title": "Kane County officials say rabies shots given to pets last year may have lost potency, have been recalled - CBS News",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMVNURGEzN2ZzYkFGQ2l6QVB4bjBYajMyQ1NXSU9ENlhuSzBtS1VzU2s1NVRnOWVYQzNXQUh5ZThyNFItTTdPYlI5cGdxU3pBNW1XXy1vanJoR0p5aFJEaHJudmlQSGxCbXlVbk5kdUl6anc0cERoZDdfWmQ5RlRPTmo5OFVHRURIR0ZoUA?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 19:41:04 GMT",
-      "description": "Rabies shots given to pets last year have been recalled over lost potency, Kane County, Illinois, says CBS News",
+      "pubDate": "Thu, 23 Jul 2026 19:41:00 GMT",
+      "description": "Kane County officials say rabies shots given to pets last year may have lost potency, have been recalled CBS News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -286,22 +325,9 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Recent rabies case prompts free rabies vaccination, microchipping event in Polk County - Tampa Bay 28",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQX3F3d2Q1OFVpZWpwcUJPX2FVMlZwaU5HeWRacllyME9WOFkzcFpWLXV6dEp5dld2S0VJRFJHS2dXQmljNzFQS2lhbmlvdGFDUVlGY1cwZlNkN2VjblNoMHJCOVU3QlpQWFBhd0JzYlRjdTY1SjN2LTJEb0t4bnFjVkoySWNBRkd5Qm5FX09BY1NLUWY3QUhHb1UxNXQ3dnVLZ0d6cGM5MFM5TGMyQmNtc29aMnNPRlhvRlVObjVZeEQxU1ExcDlCQXpxRXJINV94bXl5b3U2RGhvMmNaX1V2SVJ2QQ?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 17:19:21 GMT",
-      "description": "Recent rabies case prompts free rabies vaccination, microchipping event in Polk County Tampa Bay 28",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Avian flu control: South Africa explores collaborative approach - WATTPoultry.com",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPamFlZUtSSm5pMzEwMGQxYTFVaWl3aDZQeDFoZExSOFFkdWlDVnpZNnFPOS0tX0U3YzVfeU9TaWxZV3RIWXdzNWItaVpKZzZKSnAteU5KdTZxbkhDMGdHRU5sdVp2MjA1MVFqYTFhXzRwZDl0VGt1VEJreTllNklQNGVHRFN2OTg5ZXZJNU9kVnYwQ005LWpYLXpWX0ZHQXlzU0gzYmhuZ1JpOG9rQ0Jod3dvNXNIcTFmQXRZSGRrNFZGMTlzQzBxa2VaQ0R1TDBoS0l5X1pPUnExQmVraVZMWA?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 17:03:45 GMT",
+      "pubDate": "Thu, 23 Jul 2026 17:09:46 GMT",
       "description": "Avian flu control: South Africa explores collaborative approach WATTPoultry.com",
       "source": "news.google.com",
       "sourceType": "news",
@@ -429,32 +455,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Maryland confirms 2 measles cases tied to out-of-state travel - Baltimore Sun",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WbERZS3BBTVdJMTRFbGVadUdJdEZhNmdrVGFZbVQ1WW1BNU8wNzlzWTFsVkdYc3FUZWhOU1pSdmY3VzRHem9oRi16U1FrWGt1WkMwQWJreGdzVHE4b19XZDJNOVg2b0VlTTBZZ3lyT0xXNkJfTnIzVFRR?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 13:20:56 GMT",
-      "description": "Maryland confirms 2 measles cases tied to out-of-state travel Baltimore Sun",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Ebola outbreak with no vaccine or treatment spreading too fast to contain, doctors warn - Yahoo News New Zealand",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQVhTTC1ZYlJxQUk4MFBlQmN1Szl6M05GcFhBZFRaNXMyMmtSX1otc0FXS2dhVy0zVHUzVklSWFM0eHAwNm5BWUhOMkdXcUo0T3hodHpkdkM5SXNRZThnamtRVHVhUExNRzBJUkFBaUF4Tnh6TkxDMXZWRjZhaVlHN2lR?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 13:04:29 GMT",
-      "description": "Ebola outbreak with no vaccine or treatment spreading too fast to contain, doctors warn Yahoo News New Zealand",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Developing an HIV vaccine, one small step at a time - BioWorld News",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLWEycGl6TVltZWZNZHc3Y29GaDdnTVVmcmRnUXVqbkl3R3dGd3hzWHd5Yk5BWmg0QWZZNzZBZ1pkVjNFRUxYXzNRektXcDdqVlV4UnplWnhVWjI5X09SODFhc205Z2tWRUllSHIxa1doem1IZ2JXZ1llWFN3ZXUtOVczR2hnOUhIRFFWT1VyMm9FSjR0WWc?oc=5",
       "pubDate": "Thu, 23 Jul 2026 13:00:00 GMT",
@@ -498,19 +498,6 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTjJGclFUWnJYMVk3Wl91OFlHcWlmTFVpYUdkYktSaFZEaDl5VjBQTlhOSW9SN1FBelAyUlVEeGM4ZW5IdkFrTXFXZTVfWWRmUTNuSFlVbzdaWU8wN2hkM1dtVExPRURIRXBxdEZRMUpNVm9WQ3VWV0FHMUIyNG55bTQ4NG5DYjVFemE0OEExcGtFaTN6dGhtQlhTeXl4dXBEUnE4aDREb1Vab2NlNnl0cEF1d3NkQQ?oc=5",
       "pubDate": "Thu, 23 Jul 2026 12:15:00 GMT",
       "description": "Medgene offers ﬁrst-ever cattle vaccine to address Theileria PR Newswire",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "From SPE to IoPP, Carlin takes a new role - Plastics News",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBURTVmS0k1UzhFenRSXzhjb0ZiSWxoREFDZWFGYk5ZQ25NaFY0R1FqV0d4QURkcW5NYlA0VmFJeEJ6RWk2T1A4MmlBLUptY0E0d3BzVEQ1blJoWjZIcnd3Mmt4Z0FOWWh5d2xKaEE0eUg2MUtiWFBv?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 11:46:00 GMT",
-      "description": "From SPE to IoPP, Carlin takes a new role Plastics News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -628,19 +615,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUWFUd0txLWVEcC1mSVJJcHp6MmYwcWVVaWpWOWlja2JjQUpRejRSc08zSDRhalg5YTBXZTVBc0Q0RE9ZejlIWlc2MXNzemRTQ3FBaW9ZOGdIUW8zc0F0RjFwaGhKTkF4OGM3UEs0V0h6bDltNjQ0MUtjWUpDUmdKNVp0TFF6cU1rMlkwcXh1SElDbzlIWUdWTW1VeHdrNkE3dlZVeWhud3BlcVRTb1pUU1V4amNsUWU3b2x3RkwxUlhvQQ?oc=5",
       "pubDate": "Thu, 23 Jul 2026 04:04:10 GMT",
       "description": "Critical Care Clinicians Can Respond to Vaccine-Preventable Illnesses in the PICU Infectious Disease Special Edition",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Israeli data shows one dose of Pfizer vaccine 85 percent effective over time - JNS.org",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcjA5N2dJaU1kNkRibnpSWXJ3dm5uS1dVRnB4YUsyWE9QVmp0eWFIUlB4aVpOTmRDd0gwTThDSlpjOE1Yb3pxcDdmcHpRTFpUWjczU1lLbXgzdXBDYXlWLWRIal9wMFpadXEzeEVXYnRXZWwwSFMxblM1VnJKZFFTZmVMWXhvYi0xdWV4SjgyNzBPYUtHcjI5aExoRG9BbXowamVJ?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 03:44:23 GMT",
-      "description": "Israeli data shows one dose of Pfizer vaccine 85 percent effective over time JNS.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -858,19 +832,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "State's top health official says MMR vaccination rates 'stabilized' among children - SDPB",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOczhJX3d5dFB0MDVCenhyOEpXU2pESm5qeDBFX21WZWxxR3dBNVJ0Q21yMm9iWGpUdFVaZnNKdVdnQ3l4RVhMc3J3bUp0VkZ2c0s1ZnA0UEV2dkxMN0gwekwxN295UHBuZU1MWVRqTzI5dlJ4NThGSHQxTjBpcEs5SG14akZGQWgzODAwYy0tVDhRcFpmNm9oVngxV0tRU2xkeWdpbGUzZmpWT0kwNG9HS1pQdUt6ODg4N0dqckxIMA?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 11:02:00 GMT",
-      "description": "State's top health official says MMR vaccination rates 'stabilized' among children SDPB",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Sanofi reprimanded for disparaging Pfizer’s RSV vaccine - Fierce Pharma",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS0dMS0lYbUo2UUtPMTNxcWpWVHBxVlVDZUVCNVFHLWpEWl9GU2t6OFg4RlpoUGxMSjM0dnVmV3B0RUFLR2pzVXlVcE84blI5MjU4ZmZOOTIyTGZDaHdsXy1yUlFwS0xEYUZ3bjE5amJWaVhpT1I2bFVzVmhreFJ6eFFOUEhsdGhkcE1rc3c1djJ5MzA?oc=5",
       "pubDate": "Wed, 22 Jul 2026 10:27:50 GMT",
@@ -906,6 +867,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Samaritan Morning Checkup: Expanded pneumonia vaccine - WWNY",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ3d6WFdmMFU1WWVBZTd3ZU56TWE4QlpRLTR5d3I2SUZBUFVuZHUzRVJ2bVJuOGNqZUtOUk1OOGRLb0MyRE90Rk5WVHNxa0pTZDdmYlBDY19HUnJoaXZocm5RYmVGT0EzNFY3S1BmSHdvQVlUNkQxd0ZxYU5Rd1RwQ21sbzZBQTNDeEhkY2YzSW14Ukg4bE1QUg?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 09:02:09 GMT",
+      "description": "Samaritan Morning Checkup: Expanded pneumonia vaccine WWNY",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "pneumococcal",
+      "vaccineLabel": "Pneumococcal",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -958,6 +932,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Discrimination complaints at INL over COVID-era vaccine policy resolved with $5 million settlement - East Idaho News",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMTNacHRKSVlfOTVPdWp5UVJsSkp1cVQwSzYwWEpDTm9ST19sSkgxdnBLby1VZWNOZkZVOGhSQWRzSUp3RDQzVHdzM3ZQWHlFdFp5SzhXbVhkdjlNOGFkZncxaXpPNk1xdmdfaDkwOWNtaG1IVlZPbHp0bTBSWHRqa045N2lRLXd2d2cwVWIxOEFseGpOaXFWNDZ3UGw2dzhDVExqNVpmN2NZWkwtOEZpS3RMV19uRWZaTy1CWWQweEItWlRKRFc3NUdlNmwyeXgyX2c?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 23:25:00 GMT",
+      "description": "Discrimination complaints at INL over COVID-era vaccine policy resolved with $5 million settlement East Idaho News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
