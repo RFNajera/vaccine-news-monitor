@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-23T21:45:41.064Z",
-  "itemCount": 90,
+  "updatedAt": "2026-07-23T22:42:18.578Z",
+  "itemCount": 91,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 8
+      "count": 7
     },
     {
       "key": "flu",
@@ -20,7 +20,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 15
+      "count": 16
     },
     {
       "key": "hpv",
@@ -40,12 +40,12 @@
     {
       "key": "pneumococcal",
       "label": "Pneumococcal",
-      "count": 2
+      "count": 1
     },
     {
       "key": "shingles",
       "label": "Shingles",
-      "count": 1
+      "count": 2
     },
     {
       "key": "rabies",
@@ -60,10 +60,23 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 52
+      "count": 53
     }
   ],
   "items": [
+    {
+      "title": "AstraZeneca immune from Covid-19 vaccine injury lawsuit - Courthouse News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeDkySldGNnRrVU51cVhDN0k1dEtjY2lESnJuYWdNY3pWclZNVUIwSmlmaTJreGpIcllqSTBaYXNqMDI5WUx3Q1oxZF84dmdzWlMzZWpkSnNEbG5kbjRZWHBLdlByWUx0ekxYUktlVEdmVEM4OGdDVTVHV19aOGtWdlNGUmVmZmIxMHMzN2NhWkw?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 22:19:54 GMT",
+      "description": "AstraZeneca immune from Covid-19 vaccine injury lawsuit Courthouse News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Rabies vaccine used in several suburbs recalled over possible diminished potency - NBC 5 Chicago",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdVNiREhzWGJqSnl5YXhLcXdyTUQyVEJOb3JIOTJKa2RSRWxyRW5qSW4zeWNnbmNSQUFQQm9NZGd0a1BqeWhtSnRXY0JKa3ByNkNvcjJvbFhtX1BvZDgxUE1MUncxMFZNUlFNNmR2VWZTdzFFTHdvZXhFbGR6SjhoNmRsNlRXUXpyeTctMGcyc2RRTl9sMDA4UjVGUWdNQzJVTnhGMXdKOVYwU3puSk5NMUN4OXZBamFQWmpWS29ncTF5ek01U0HSAc4BQVVfeXFMT3JXUGxEakJXZUFpV0hNU0RFTm5FY3FxeXdXX25rTkh6Qk82UVVaRUx1akRxVDJCSGFPb2U2bTROZUNfZmFvS1huZkJvYXMwNzVXRFNMZUlaOUduVnRWZ0YwMWF2OWlPZVJzVTFHNTJxM2J3NjNfOGFHOGFnaS1teXgxVVhnTmxvRDE5VTBEYnVpd1dRRWdZUWkyam9CUHFDbHBPOU1saXlKTFpLaWFOOXlfbFNON1RGNFNaTmlUQmp3TXlXeW1DamdwT2tFY3c?oc=5",
@@ -232,6 +245,19 @@
       "vaccineLabel": "Influenza (flu)",
       "articleType": "opinion",
       "articleLabel": "Opinion"
+    },
+    {
+      "title": "Alabama Department of Public Health: Out-of-state Alabamian's measles diagnosis a reminder of vaccine's importance - WVUA 23",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVzZUM0NYUVV0ZDRHNThSUHZmdkdCVjg3ZThKUldfaXl2c2RMM0NILTVxeGhYUjFFclhza3dfR3FZVHdHSG1vV3N0MW1ldE9QWXZJU3kzaWgwT3MzcTlfR1o4WkJzSjhOWXA3eFdzdjZYVlp6Z19EeUFTUFJKQXhsNlQ4aUdCTmlVckVzenZNSkZIQ3o3Mng0cVZ1WXUwSzF3b1diMmlEVzZBZnltTmEtY2lTNnl3REVCaE83VTNRSnFOeHVCUk5QRm4yWElWdGlFMWl3STNMbHlBU0RzQVdKTDV5UkZIZl90Y0RTQmx6cy1fZ2hzY3JSZ3F3SjRoSWNJZHZETUpyUTJ4dw?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 18:20:00 GMT",
+      "description": "Alabama Department of Public Health: Out-of-state Alabamian's measles diagnosis a reminder of vaccine's importance WVUA 23",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Joliet Township High School District 204 - Joliet Township High School",
@@ -416,6 +442,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Ebola outbreak with no vaccine or treatment spreading too fast to contain, doctors warn - Yahoo News New Zealand",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQVhTTC1ZYlJxQUk4MFBlQmN1Szl6M05GcFhBZFRaNXMyMmtSX1otc0FXS2dhVy0zVHUzVklSWFM0eHAwNm5BWUhOMkdXcUo0T3hodHpkdkM5SXNRZThnamtRVHVhUExNRzBJUkFBaUF4Tnh6TkxDMXZWRjZhaVlHN2lR?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 13:04:29 GMT",
+      "description": "Ebola outbreak with no vaccine or treatment spreading too fast to contain, doctors warn Yahoo News New Zealand",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Developing an HIV vaccine, one small step at a time - BioWorld News",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLWEycGl6TVltZWZNZHc3Y29GaDdnTVVmcmRnUXVqbkl3R3dGd3hzWHd5Yk5BWmg0QWZZNzZBZ1pkVjNFRUxYXzNRektXcDdqVlV4UnplWnhVWjI5X09SODFhc205Z2tWRUllSHIxa1doem1IZ2JXZ1llWFN3ZXUtOVczR2hnOUhIRFFWT1VyMm9FSjR0WWc?oc=5",
       "pubDate": "Thu, 23 Jul 2026 13:00:00 GMT",
@@ -503,19 +542,6 @@
       "sourceLabel": "News",
       "vaccineKey": "polio",
       "vaccineLabel": "Polio",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Kenya implements first-ever oral cholera vaccination campaign - WHO | Regional Office for Africa",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVnlKWWd4REY0RmVIVW00QmRyczkwcHlCeG82NENrODFlbFJsMGJ4VU5wR01CQ2picWRqcGN0ZUJHQzFxdzM3ajZPRmdUeWNJYjhleFN4Qy14bnEwUEd4dzAtVXlDa0VFZ2hMYjZsVnVBZkx2WVpONWtndHJvQXgyOEhkYzMwM1ZUR014dzF1MVg1MmtZYkJWakZkd3dKSjlkWV92TmVWZjNoekF0NTNGOXpJbw?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 09:41:30 GMT",
-      "description": "Kenya implements first-ever oral cholera vaccination campaign WHO | Regional Office for Africa",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -624,23 +650,23 @@
       "articleLabel": "News"
     },
     {
-      "title": "Study: Even one dose of Pfizer COVID-19 vaccine lowers viral load and spread - JNS.org",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaXZuVnQ1VmxpMFlBSjVUVm1xb3R1U1pOWDlncW1CWjliQmFOdUh6Zk4xQ3ZhSlM0cU0tUFI3SDgwOUVQZGRPTnVSeXVQWnpmVXhCaE5zOVlPa0hxOU9OVEM3aFJTdEJoWF93WkVwUGE2VlExcEdnVDU3MFU0UDRBZ0tZS01McHpJSmwwLWNpeTRoVmtJeTlIejMyRGZIcVJsYlE?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 03:44:18 GMT",
-      "description": "Study: Even one dose of Pfizer COVID-19 vaccine lowers viral load and spread JNS.org",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "Health department to hold free flood-recovery vaccine clinic Friday at Wesleyan - My Buckhannon",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVmFwdDhxRlBmZm9Sc21MWWxzWERoZ21YM05ET2RUOUFUUlpIOXNRaVllWG4ydnBLQnFQYzNCNXVtTnJZWTU0X2xYSHBKLXhOWUo2d3R2RXZzWndzSFdOOE01clhWRGZQYVpZeUFmYmZSbXcyRTR0dHFiNkVBSUU1Y3hsdTlxdmhSWDkxWEZ0OXlYZXpkUEsySVFPUkE2NktNRlRaNnkzZ0IwREJmTUE?oc=5",
       "pubDate": "Thu, 23 Jul 2026 01:09:00 GMT",
       "description": "Health department to hold free flood-recovery vaccine clinic Friday at Wesleyan My Buckhannon",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Oklahoma vaccine exemptions rise as mobile clinics expand access ahead of school year - KTUL",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUm1NSGRhWVdCcXFJbEZoeW9UNjVQY3RJaUZZT2JRRVJqUnQ1T2VJUWdKdFhpWVJCRUZvT3JDa3FNakF6Y1VRTXN5cGowaEwzT0FKdjhKQ28zVkxfbi1CNmVOc29nbndfbXMtUWtvb1dBN1JBTUc0cnRlVU1RVEJjd29wTTJ1YTAxRDJwcS0tXzg3N0p0ejVfS3N0Tl9KYWdKamotS2g5YjlKUEUzbHEwblYzUQ?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 22:23:04 GMT",
+      "description": "Oklahoma vaccine exemptions rise as mobile clinics expand access ahead of school year KTUL",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -884,19 +910,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Samaritan Morning Checkup: Expanded pneumonia vaccine - WWNY",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ3d6WFdmMFU1WWVBZTd3ZU56TWE4QlpRLTR5d3I2SUZBUFVuZHUzRVJ2bVJuOGNqZUtOUk1OOGRLb0MyRE90Rk5WVHNxa0pTZDdmYlBDY19HUnJoaXZocm5RYmVGT0EzNFY3S1BmSHdvQVlUNkQxd0ZxYU5Rd1RwQ21sbzZBQTNDeEhkY2YzSW14Ukg4bE1QUg?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 09:02:09 GMT",
-      "description": "Samaritan Morning Checkup: Expanded pneumonia vaccine WWNY",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "pneumococcal",
-      "vaccineLabel": "Pneumococcal",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Think Vaccines Are Just for Flu Season? What Adults and Parents Need to Know - Cone Health",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qX2NJZTRVZ0pFekExMUpvbWVYZVpsN21BODYtS21PWWZhMkFhYS1jRTJmV3NDYlVuZ3B5bGpRR3Frd1lGZWRhVUdWUllvNndLVUxuRFdobUg3cC1FWDJEdWJCX2FaTkVPcG9DZmlJMi1Camo1Y0NMWQ?oc=5",
       "pubDate": "Wed, 22 Jul 2026 07:42:01 GMT",
@@ -923,6 +936,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Timing of JAK Initiation, Shingles Vaccine Administration Can Affect Outcomes in RA - Vaccine Advisor",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRFdtR0RTMV9EX2E5Q2JxLVJYRlJPM2ZlNFU2c2V3SHlGbDZZblN0S3IySGZSUmZKajlGWVlZU01sQ0dBVUJ2V0R5Yml4Y2czRjRzUTltVGk1YzNPUk90cEtZVTc4c0ZqbXhmZUhYMXprbG9ZbWd0Z2FYdDd6c1g1ZVIwLU5uWGphOERJLWJHR2dhWHVhSjRrYTNOTmxWZGZJVnNQbDhxYk54bnlpU0x1WHlwUnAyV09Vd2ow?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 04:00:00 GMT",
+      "description": "Timing of JAK Initiation, Shingles Vaccine Administration Can Affect Outcomes in RA Vaccine Advisor",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "shingles",
+      "vaccineLabel": "Shingles",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "FDA: Iceberg Lettuce Recall Stands After False Positive for Cyclospora - Vaccine Advisor",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeFVyYXgwb1hldWRWQXFiZ3k1aHk5anl1alpoYnpWamJoLVdhdE4wS0RMYTJuS0pzSTRlQVRJNHdRS0g1MnZzNXU2Y2w1NGFvRXVlMVE3azdjV3ZIQ0dOOGw5MVZ5OXR3UE5oeklIQVo3bmpBWlhxTDFzbnBPZXpkNzQ0VFNMLVhMazR4aUtwdUtCU3RnRFhqRXRGZ29tbzhlZWJ4YkU5M25nZw?oc=5",
       "pubDate": "Wed, 22 Jul 2026 04:00:00 GMT",
@@ -932,19 +958,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Discrimination complaints at INL over COVID-era vaccine policy resolved with $5 million settlement - East Idaho News",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMTNacHRKSVlfOTVPdWp5UVJsSkp1cVQwSzYwWEpDTm9ST19sSkgxdnBLby1VZWNOZkZVOGhSQWRzSUp3RDQzVHdzM3ZQWHlFdFp5SzhXbVhkdjlNOGFkZncxaXpPNk1xdmdfaDkwOWNtaG1IVlZPbHp0bTBSWHRqa045N2lRLXd2d2cwVWIxOEFseGpOaXFWNDZ3UGw2dzhDVExqNVpmN2NZWkwtOEZpS3RMV19uRWZaTy1CWWQweEItWlRKRFc3NUdlNmwyeXgyX2c?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 23:25:00 GMT",
-      "description": "Discrimination complaints at INL over COVID-era vaccine policy resolved with $5 million settlement East Idaho News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
