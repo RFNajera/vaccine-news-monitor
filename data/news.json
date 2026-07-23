@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-23T14:09:15.490Z",
+  "updatedAt": "2026-07-23T15:09:35.735Z",
   "itemCount": 91,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 9
+      "count": 8
     },
     {
       "key": "flu",
@@ -20,7 +20,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 16
+      "count": 15
     },
     {
       "key": "polio",
@@ -38,6 +38,11 @@
       "count": 2
     },
     {
+      "key": "meningococcal",
+      "label": "Meningococcal",
+      "count": 1
+    },
+    {
       "key": "shingles",
       "label": "Shingles",
       "count": 1
@@ -50,10 +55,23 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 54
+      "count": 55
     }
   ],
   "items": [
+    {
+      "title": "A Natural Compound Found in Wheat Germ and Aged Cheese Helped Strengthen Vaccine Protection in Older Adults in a Pilot Trial - Medical Daily",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeVBXUjhDcFdTWFQ4MGF1ZV9HN1ljQXNOeFpNWjlOdWZfSlJ6azJTSnRmN3d3S050V2xMM0JpMXhxUC1RMTRWb2duM0NsMFpqM3gyMVVOTzU3WTlnS0VxVE5laHVJcmx1RXZ5N1Zfd21MeDR3djFOdzNEUEdFN1ZNVHBaa0ZNSGJQa2NNZDFOMlRDSGRNa3d4aUpaUWh6UW9Y?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 14:00:13 GMT",
+      "description": "A Natural Compound Found in Wheat Germ and Aged Cheese Helped Strengthen Vaccine Protection in Older Adults in a Pilot Trial Medical Daily",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
     {
       "title": "Vaccine hesitancy: What is it and what is the risk? - WV News",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNy15YV9uSmgzbVNFT2oyN2wzZnBWai1JaFdPSXpKS3BaU09zbllrWmJQV01fZWVWU014bC1wUFNHRU1vRjRHdmNDREN2U1BtVWdURVRLU1ZMQmFGcnhYcHE5YkI4eDNDTUNYaHQxOHROd2t4aGJIQ2ljcF9wdGROUmlJY0E4cHY4REhiTTZXOTU4aHFnSElwem9zRzVpanAwZnA5YUJ5TTJuZXdyeDRWZktHbnctVmhPbTlBQUtpMVAxR3hrNl9TU2dBRGN3b1dkcE8wLXJB?oc=5",
@@ -94,10 +112,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Ebola outbreak with no vaccine or treatment spreading too fast to contain, doctors warn - Yahoo News New Zealand",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQVhTTC1ZYlJxQUk4MFBlQmN1Szl6M05GcFhBZFRaNXMyMmtSX1otc0FXS2dhVy0zVHUzVklSWFM0eHAwNm5BWUhOMkdXcUo0T3hodHpkdkM5SXNRZThnamtRVHVhUExNRzBJUkFBaUF4Tnh6TkxDMXZWRjZhaVlHN2lR?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 13:04:29 GMT",
-      "description": "Ebola outbreak with no vaccine or treatment spreading too fast to contain, doctors warn Yahoo News New Zealand",
+      "title": "Ebola outbreak with no vaccine spreading too fast to contain, doctors warn - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU1g5aldIdzdSa3g2MFF5cjFVWEI0bnBLSVVqWWpGd1IzRWtEU2FEbEdSQXR6QzZlUUVMbjFzUmNhZFVIbk5id3l5V0QtenlhY2N4c2ptM1BqTFJIdTRBM29aajIxdXgtZnJTRWVTWFRFUmVuVFFBSnFycU1oZXNMaDUwQURCRXRmNEdkWFZn?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 13:04:00 GMT",
+      "description": "Ebola outbreak with no vaccine spreading too fast to contain, doctors warn The Independent",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -161,7 +179,7 @@
     {
       "title": "Maine parent sues school, state education commissioner over vaccine laws - WGME",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNV1prbkZoNzJRSnJMREhtdlpXb1owbmVZdVlRMUxNUjVyYlBjc0U1QjlrLTVqREpod3dMbzItSmcxbl9XQkNvbGN2RmM2NjRlR3RMMmltdmJxVVZHdjVLZVBjd2YxWlNPY3MxdkN0UXBPdXlPM3FzTDNUMGpqM2ZjcDRwVmQyTWdRR1hCaGdldXdUTExSOWtRcS0xR0h2TzduS3RSX3UwNnVFYjhEeXJ0WTBzRWdGS3BpMWM0YU95MmNLUFpZR3lNcG9rT3gtbTlCcXVuSkxqaHBXWExkQWd6N3FBQjNDOUZNYllhd0ZjTGNldkVsTHkxbjk2RmxqUjE0R1pKVFNtOEg?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 10:48:27 GMT",
+      "pubDate": "Thu, 23 Jul 2026 10:33:17 GMT",
       "description": "Maine parent sues school, state education commissioner over vaccine laws WGME",
       "source": "news.google.com",
       "sourceType": "news",
@@ -237,10 +255,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Spokane firefighter lawsuit over vaccine mandate heads to trial, city approves $200K for legal fees - krem.com",
+      "title": "Spokane firefighter lawsuit over vaccine mandate heads to trial, city approves $200K for legal fees - KREM",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZ3plLXMtMWs2TzVmeXFKcUxhc1lEQWtpX3JMN0FqQmZkTUVHSk1FQnVlSnhBVHJielk5YWpXLUtCV1QwUjNmN3BiczM3THh3ZWNNeFp3ZG9saFlyVloxTTlWSVVidVMya1FnRDR3MjEydVR4di1pYzJFVFFWNlc1Y0RmRmk2dlFpdkc4bVBYS1JMZVFWWmltYmVTT2I2ckpjZ0p1eVZZLUJ0SFcyLVNyb0RnWldCcHRuVU0zSktiZ0o2RzZZand0N3ZrcUFPdmduT3g2VmRiSlNfdnpuQkpoUUxLdXJHR3Y1c2F0YVJRaVdydw?oc=5",
       "pubDate": "Thu, 23 Jul 2026 05:08:00 GMT",
-      "description": "Spokane firefighter lawsuit over vaccine mandate heads to trial, city approves $200K for legal fees krem.com",
+      "description": "Spokane firefighter lawsuit over vaccine mandate heads to trial, city approves $200K for legal fees KREM",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -280,6 +298,19 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUWFUd0txLWVEcC1mSVJJcHp6MmYwcWVVaWpWOWlja2JjQUpRejRSc08zSDRhalg5YTBXZTVBc0Q0RE9ZejlIWlc2MXNzemRTQ3FBaW9ZOGdIUW8zc0F0RjFwaGhKTkF4OGM3UEs0V0h6bDltNjQ0MUtjWUpDUmdKNVp0TFF6cU1rMlkwcXh1SElDbzlIWUdWTW1VeHdrNkE3dlZVeWhud3BlcVRTb1pUU1V4amNsUWU3b2x3RkwxUlhvQQ?oc=5",
       "pubDate": "Thu, 23 Jul 2026 04:04:10 GMT",
       "description": "Critical Care Clinicians Can Respond to Vaccine-Preventable Illnesses in the PICU Infectious Disease Special Edition",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Israel begins providing health-care workers, elderly with fourth vaccine dose - JNS.org",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaHNwYUdLMVMwR2NlblRENW5EU3V3ZFBSY1FVRmk5TmdRSkQ0aUp2d2dncTBSaEI3TTlUN0VPRE5CQk1rQXFTS2FoaUM2M2piYnZqbUtKNVh2aDR1NDR0OUZGcVZFOVE3cTNUemZ1amw2WjY2TktXVjhQcGlTS3pRejRxU3pORF9VM3o2Z2xNZXQydWcta2JGX1NKWi1UWEpUa3c?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 03:46:02 GMT",
+      "description": "Israel begins providing health-care workers, elderly with fourth vaccine dose JNS.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -354,6 +385,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Children in Conflict Zones and Remote Areas Bear the Brunt of Global - Global Issues.org",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mQlktVDFlUGJmTnBjTVZzSFpoQjhRUkpBRGd5SDRldElrQUkxUUo3dGJQUk1IU29EV0JkZlpvWVRLMC1NN19SR0M1QWk0TDZsdFZtT2NBbnZfb29zWVhF0gFkQVVfeXFMT3A3VzBDYlpQRjNDWkZUUFRRUjhlVVlvZWd3OENVaW9DTDl4NFNHYVBxampOT3JCLTRLYmNpeTVTYm9haWRlMk5tbDFCeF9lU3hZdS1mcGZhYjkwemtnYU5OWkp5OQ?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 23:20:58 GMT",
+      "description": "Children in Conflict Zones and Remote Areas Bear the Brunt of Global Global Issues.org",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Recent rabies case prompts free rabies vaccination, microchipping event in Polk County - Tampa Bay 28",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQX3F3d2Q1OFVpZWpwcUJPX2FVMlZwaU5HeWRacllyME9WOFkzcFpWLXV6dEp5dld2S0VJRFJHS2dXQmljNzFQS2lhbmlvdGFDUVlGY1cwZlNkN2VjblNoMHJCOVU3QlpQWFBhd0JzYlRjdTY1SjN2LTJEb0t4bnFjVkoySWNBRkd5Qm5FX09BY1NLUWY3QUhHb1UxNXQ3dnVLZ0d6cGM5MFM5TGMyQmNtc29aMnNPRlhvRlVObjVZeEQxU1ExcDlCQXpxRXJINV94bXl5b3U2RGhvMmNaX1V2SVJ2QQ?oc=5",
       "pubDate": "Wed, 22 Jul 2026 23:15:35 GMT",
@@ -389,19 +433,6 @@
       "sourceLabel": "News",
       "vaccineKey": "dengue",
       "vaccineLabel": "Dengue",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "More than 100 INL workers to receive $5 million in discrimination settlement over COVID vaccine mandate - Post Register",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOSnRmSU1YVnNrZDlBTGF6ZkVUeWhvbXdGS095eEdVaXlQSXdvRUdLaXFpWHozU2hURkRKOE0zbmdJSERENnhWX3I0TFkxQl9SZVVKNG11UEUyWGd0bkhXNGdKbVpXT0VNVDljQU9CU0xhX3RMVWxwdlN0NUt2NnN4NVB3MlE0cTB3d2RYTzJ0N0lfM1NtaFoxVnpFdjh0cFNWRVk4MGQwcEljNHExS2NJM2tYSDJqTjVlXzh2ZFEwTTg3U3ZUSGw5emQwMjhORG5yelE5NkhMaUZuY0Z3Mk5EWVNNNENyZVY3ZTJkbHBIbzZGU1pJUFNSZFFKYUhQdzlVUk85WTZsZmpJN0g1WnVhM1VB?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 21:38:47 GMT",
-      "description": "More than 100 INL workers to receive $5 million in discrimination settlement over COVID vaccine mandate Post Register",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -588,19 +619,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Healthcare AI, increased cost pressure, vaccine coverage make headlines in June - SmartBrief",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYTd2bmRBUGJ3a3hqS2JCcHJzWVpIcVJxc0RmNWhCckVGbUdYMkppV0Znb0ZFVWRVUEFyV2pIcTdkU0YxUkZNQmNDN2tLQldDTnFyZHFkemsxSHZ6OUNkSk1Fa1I4VlBfLXZweW15M0VRUlhSMHNLWVVEREpFNkpFV2dNY3dHVFd3Vm5wcE9fUUJpb2Z5enZ0M0VHdGZ1YlU5M2xqcE1IUC1IZmNjdkZLR2xYdw?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 16:06:48 GMT",
-      "description": "Healthcare AI, increased cost pressure, vaccine coverage make headlines in June SmartBrief",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Physicians Remind Residents About Vaccine Requirements For Back To School - krmsradio.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSmhWZXBBcHJKSnVra3JYSG5XSDY5MFZodkthM3BBYjNWRUhXR2h2eGRHOF94WmJFMzhIaUlmdlA2UDc2MGFjblJKRmRQLV96LTRfSmpvNS04Vml5R2x4VHpsUnlsSl8wU0JaN2ladHZpVk5zOVFaQjFmMW5Eb2I2czhnNktacEtXeVcxQ2l1MnZoMEp2SVVsM1Rob2pzckQyUXc?oc=5",
       "pubDate": "Wed, 22 Jul 2026 15:19:41 GMT",
@@ -623,19 +641,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Measles cases in the U.S. hit a new 34-year high - Science News",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pdE82dEMxckM5NlpaNUREemowWDNKVnlwN3FSQnZHc1FoSF9wOTNNa0xGTWp1SFZDakFfMjJ6NTVJc0lmeHY4SUZUZ2VLNjNqUTdvamU5c2dXd1ZsVGtoekRZdkdVVzAtWFk2c2c1YU1SUS01SXRZRUFVOGoxZUU?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 14:19:58 GMT",
-      "description": "Measles cases in the U.S. hit a new 34-year high Science News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -952,6 +957,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "One crucial detail about anti-vaccine bills revealed in new study - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTmY0TUtQNThOMTZmejJTNDV3eEJudzNub1VXQkkwTExFTjVnVmtjYVNNN09aa0xfc3Qtcl9vZU1DVHA1SG1jRWc1Nk82T1BCMFNXSjRXOHR2SEFGLTF0U3EwajNLU0dNU1o5NDVSVDJOY3lpUlJ1eXZ2QTAyNEhHa3Q1SWE5RkpBRmlRWVdVdjFTbmdrTHlDSmJPYjJLZw?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 10:50:00 GMT",
+      "description": "One crucial detail about anti-vaccine bills revealed in new study Newsweek",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
       "title": "Lawsuit over COVID vaccine policy at Idaho National Lab leads to $5M settlement - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY1NhSGpOU3ZScjV0ek02cE1fUFhBTy1tcWpCSzMtUWVWRlczSDFTUjhsbmNMWUtIMXhCV0VIZ1JtNmhHVWtpSW5SQWVoUW42blBoZFlrbDhXR0phb1hWVEZ6d1p1YWRXM016RUV4ZTlmU3JlWDg4MXZKUWNqTm9HV1dTWTgwbzdRWFJyREJ1cEQ?oc=5",
       "pubDate": "Tue, 21 Jul 2026 10:00:00 GMT",
@@ -1147,36 +1165,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Mutant KRAS Vaccine for Prevention of Pancreatic Cancer Development Shows Durable Immune Responses - The ASCO Post",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNzJMQnBRU0lRUzE5NktJVjZKcUxzQTBzU014TGZZbURqWFBCWHJIYXk4MFBZOW9JOERCNDBvTTRabkpiNG5aRUx0YV9fRHJiaEJ6QmxycUtBek5tM0Fzcl9UTXhRc2ZFQmJLNU5nOVdXY3RJeDJBRXhYbFN6a2JTYmdQUWZIUVplaUpxU1VqamZvYnNKTWJ5aGp5LXNpSUxkdnFiaTdqQnBVS3pfMGZRcUFzTUg4N0JxYnBENjNYUFRjQzQ5ckQwT25yOGVqUzRr?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 15:33:18 GMT",
-      "description": "Mutant KRAS Vaccine for Prevention of Pancreatic Cancer Development Shows Durable Immune Responses The ASCO Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Manlius pediatrician could avoid jail with vaccination fraud plea, but there’s a big catch - Syracuse.com",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZG5UeWpJOFVxLUFrSEZabkxlY3Bwd205YWVkUjBhd29UNmhPVVdFUGxlaXpZNVlzVFluV1Z2RWJwUVF5aUNGOXhGRGVybnBydEVfaTJKNUZPWXgzSHRiU0NjZk5aUHI3VXQ3N0hwUkNldTVtZkFYNUFHSWhXbmdhOGkyWHdxRksxajFNdnREbmhGZ0dMT0hnQnVLbFNDSGZpc0RsNUlfRFpGeXhRS0ktR1JmaXNfVkNmVE5LY2stdVRxOW9Qbm5qZUNIWjdPdw?oc=5",
       "pubDate": "Mon, 20 Jul 2026 15:17:00 GMT",
       "description": "Manlius pediatrician could avoid jail with vaccination fraud plea, but there’s a big catch Syracuse.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Koala nicknamed ‘teddy bear’ receives first chlamydia vaccine implant - Popular Science",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52cTRZdmlIVk05U0JaUGJWRHd6dWV3Rjc5RkIwanFpUEc5UjNCWnpjdXNqR0Zsb2trb3E2cXdmS3F6ekJVS3NSa19jTjMxZVNBNEItSlhxWEFpNWtobExPVXo3eExzSTBRbmtSX3dtb2FvYUJfNURGR0FObDlOQQ?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 13:31:00 GMT",
-      "description": "Koala nicknamed ‘teddy bear’ receives first chlamydia vaccine implant Popular Science",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1195,6 +1187,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "'No more families should endure this' - parents of student who died from MenB back new vaccine advice - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tRjdyWVhmT0hSUU9HRndGaGwwV1pzMFpmT2ZJaEFEZ1IxN3N6NDByd241TktuOUZDcHAtSWI4WVFCZDI2c3pjdWFYYzdxNk1UOWF2WjQ2c1pCUQ?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 05:15:00 GMT",
+      "description": "'No more families should endure this' - parents of student who died from MenB back new vaccine advice BBC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "meningococcal",
+      "vaccineLabel": "Meningococcal",
       "articleType": "news",
       "articleLabel": "News"
     },
