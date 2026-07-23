@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-23T20:45:17.086Z",
-  "itemCount": 89,
+  "updatedAt": "2026-07-23T21:45:41.064Z",
+  "itemCount": 90,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 7
+      "count": 8
     },
     {
       "key": "flu",
@@ -20,7 +20,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 16
+      "count": 15
     },
     {
       "key": "hpv",
@@ -35,7 +35,7 @@
     {
       "key": "hepatitis",
       "label": "Hepatitis",
-      "count": 1
+      "count": 2
     },
     {
       "key": "pneumococcal",
@@ -48,6 +48,11 @@
       "count": 1
     },
     {
+      "key": "rabies",
+      "label": "Rabies",
+      "count": 1
+    },
+    {
       "key": "dengue",
       "label": "Dengue",
       "count": 1
@@ -55,10 +60,23 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 53
+      "count": 52
     }
   ],
   "items": [
+    {
+      "title": "Rabies vaccine used in several suburbs recalled over possible diminished potency - NBC 5 Chicago",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdVNiREhzWGJqSnl5YXhLcXdyTUQyVEJOb3JIOTJKa2RSRWxyRW5qSW4zeWNnbmNSQUFQQm9NZGd0a1BqeWhtSnRXY0JKa3ByNkNvcjJvbFhtX1BvZDgxUE1MUncxMFZNUlFNNmR2VWZTdzFFTHdvZXhFbGR6SjhoNmRsNlRXUXpyeTctMGcyc2RRTl9sMDA4UjVGUWdNQzJVTnhGMXdKOVYwU3puSk5NMUN4OXZBamFQWmpWS29ncTF5ek01U0HSAc4BQVVfeXFMT3JXUGxEakJXZUFpV0hNU0RFTm5FY3FxeXdXX25rTkh6Qk82UVVaRUx1akRxVDJCSGFPb2U2bTROZUNfZmFvS1huZkJvYXMwNzVXRFNMZUlaOUduVnRWZ0YwMWF2OWlPZVJzVTFHNTJxM2J3NjNfOGFHOGFnaS1teXgxVVhnTmxvRDE5VTBEYnVpd1dRRWdZUWkyam9CUHFDbHBPOU1saXlKTFpLaWFOOXlfbFNON1RGNFNaTmlUQmp3TXlXeW1DamdwT2tFY3c?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 20:37:47 GMT",
+      "description": "Rabies vaccine used in several suburbs recalled over possible diminished potency NBC 5 Chicago",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "rabies",
+      "vaccineLabel": "Rabies",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Chester County measles cases expected to increase as officials urge vaccination - NBC10 Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVW4yU2lLb1pldW54N1RZV2pudTVROGdIRk5rdWUwbDhWTFM0ZGswMDAtSnEzOEdxMHZNWDhZUU5rekhMbVNVcVN6MTdfOE5QeGFPd2JDeF96NXlFS21xNElWZ19yLUFYRjBHbHNyeTY3VmRiSE1zS1paQ0tfamNaNE5MREktaHlVeTA4Q2lXQ1h6TFZ2WFRQNHNnam9vVDNCQnNzV2drYW41dVhINVpJcWJpTE82bWlXYUhHQTVoWVliZ9IBygFBVV95cUxObFRDVGRYdnBvRFE1OWlpQ3ZIb3E5azRZZVdHMWM0eDdXcWVBS1JGZGprU3FjcUJhRzVBSFZwVklqb0NxQ2VBdThfbXRWRTlFcXlPTnVuR3JtU0hWaUYyM1JrczhPOFZuQXJMQlFaRXU4LUE5bUlIczAtdDRsNXFxby1ncThUVW45NkpwMWhDa3V2dHdhWUN0Z1VSQk5Ub0ZrcW0yaTlIaFBLLS14RDhMTTlraml3eG1JLXhDNTRya2JaU0dYTGNjcnFB?oc=5",
@@ -108,6 +126,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Rabies shots given to pets last year have been recalled over lost potency, Kane County, Illinois, says - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMVNURGEzN2ZzYkFGQ2l6QVB4bjBYajMyQ1NXSU9ENlhuSzBtS1VzU2s1NVRnOWVYQzNXQUh5ZThyNFItTTdPYlI5cGdxU3pBNW1XXy1vanJoR0p5aFJEaHJudmlQSGxCbXlVbk5kdUl6anc0cERoZDdfWmQ5RlRPTmo5OFVHRURIR0ZoUA?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 19:41:04 GMT",
+      "description": "Rabies shots given to pets last year have been recalled over lost potency, Kane County, Illinois, says CBS News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hepatitis",
+      "vaccineLabel": "Hepatitis",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -307,19 +338,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Developing an HIV vaccine, one small step at a time - BioWorld News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLWEycGl6TVltZWZNZHc3Y29GaDdnTVVmcmRnUXVqbkl3R3dGd3hzWHd5Yk5BWmg0QWZZNzZBZ1pkVjNFRUxYXzNRektXcDdqVlV4UnplWnhVWjI5X09SODFhc205Z2tWRUllSHIxa1doem1IZ2JXZ1llWFN3ZXUtOVczR2hnOUhIRFFWT1VyMm9FSjR0WWc?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 15:24:26 GMT",
-      "description": "Developing an HIV vaccine, one small step at a time BioWorld News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "CIDRAP Op-Ed: A gap is not a finding—A lawsuit, a petition, and what it takes to know whether a vaccine caused harm - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQUlEd0c3aUwyal9nLXJMTzluZkxaVy1xRlpyMkZCdnZ5cmhPV0R4OW5ROVA0QlJwNHlYcVNhTmlmdUhPMjRERDlNTlNoaXVDOFJydzRGODJ5dDAwVm9sS294WHQxcDN2cE1JdUxFVGsyMFZ1SGNraTB3X2xtY29qR2ZPV1hPNG0tN3lKMUxLTkEwcUNJZkpJT1pNcl9TQzhDb3hYYUdoVy1CWG4xUVlUSDBoR3BwSjhuMlBxLUZsSEc?oc=5",
       "pubDate": "Thu, 23 Jul 2026 15:14:27 GMT",
@@ -398,6 +416,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Developing an HIV vaccine, one small step at a time - BioWorld News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLWEycGl6TVltZWZNZHc3Y29GaDdnTVVmcmRnUXVqbkl3R3dGd3hzWHd5Yk5BWmg0QWZZNzZBZ1pkVjNFRUxYXzNRektXcDdqVlV4UnplWnhVWjI5X09SODFhc205Z2tWRUllSHIxa1doem1IZ2JXZ1llWFN3ZXUtOVczR2hnOUhIRFFWT1VyMm9FSjR0WWc?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 13:00:00 GMT",
+      "description": "Developing an HIV vaccine, one small step at a time BioWorld News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Oral Shigella Vaccine Hits 89% Efficacy in Challenge Trial - Conexiant",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeW9QMEFLYUx5cEhlOGlsQThuRE03YXNqcnE5QTRrNkdRMks3VDlUWEEtd0NYLVhRVzRYOWE5YlMwV0dIS0pYMEtLMnB2aW9aaHVLdDBFZXMzWTdiUkZuU2g3R21GR0RyZ252clJrdUdFR1g2ZnEyZEdDYUV0NmFCaTAxanFwZVBRRXVFSm9UREhfR3NVUllkeTJkb2hneFJZZGZMUlJOSzI1TGxJSlE0?oc=5",
       "pubDate": "Thu, 23 Jul 2026 12:44:51 GMT",
@@ -461,19 +492,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "Pancreatic cancer vaccine shows promise in first human trial - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQX1dTMUFBREQtSTFyVHVEdXBPZVRsbml2bnlCRU53R0x1R2N6V3VRRDAxM0dXRDZvVHltRHFhenpzc1N5dGQ1aVBIYTZpRW5BZFp3WW9kR0tlX1h6c2VwbWdlNW9rc3A0Ym9pSllmb0Q1VU9zUWV1T0xfTXEzR1ZIV2g5WGxkSkVmdGFmR25YQjZ4dw?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 10:17:09 GMT",
-      "description": "Pancreatic cancer vaccine shows promise in first human trial Yahoo",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "What the latest routine immunization coverage estimates mean for eradication - Global Polio Eradication",
@@ -541,10 +559,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Spokane firefighter lawsuit over vaccine mandate heads to trial, city approves $200K for legal fees - krem.com",
+      "title": "Spokane firefighter lawsuit over vaccine mandate heads to trial, city approves $200K for legal fees - KREM",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZ3plLXMtMWs2TzVmeXFKcUxhc1lEQWtpX3JMN0FqQmZkTUVHSk1FQnVlSnhBVHJielk5YWpXLUtCV1QwUjNmN3BiczM3THh3ZWNNeFp3ZG9saFlyVloxTTlWSVVidVMya1FnRDR3MjEydVR4di1pYzJFVFFWNlc1Y0RmRmk2dlFpdkc4bVBYS1JMZVFWWmltYmVTT2I2ckpjZ0p1eVZZLUJ0SFcyLVNyb0RnWldCcHRuVU0zSktiZ0o2RzZZand0N3ZrcUFPdmduT3g2VmRiSlNfdnpuQkpoUUxLdXJHR3Y1c2F0YVJRaVdydw?oc=5",
       "pubDate": "Thu, 23 Jul 2026 05:08:00 GMT",
-      "description": "Spokane firefighter lawsuit over vaccine mandate heads to trial, city approves $200K for legal fees krem.com",
+      "description": "Spokane firefighter lawsuit over vaccine mandate heads to trial, city approves $200K for legal fees KREM",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -892,6 +910,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Smaller COVID-19 vaccine booster doses match full-dose protection for up to two years - CEPI",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQWtwakhoUGFvNUFLc2ZxTEFvYjZueS1HeXlYczhzTFpZdkZ0VGpFcXFtMWp3WVFhTFJWQjlnQ2hLT0RxSDFScjY2LVVmbk54UFZVU3hnaEpnVGw3SUZoTzZpNTdVNDdFbFBIWG1Kbk1vMzMyUG9mWEtOQVZYTHBPQzBuR3dWUHJtZWFMdGVvRURLTTB0LUhZ?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+      "description": "Smaller COVID-19 vaccine booster doses match full-dose protection for up to two years CEPI",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "FDA: Iceberg Lettuce Recall Stands After False Positive for Cyclospora - Vaccine Advisor",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeFVyYXgwb1hldWRWQXFiZ3k1aHk5anl1alpoYnpWamJoLVdhdE4wS0RMYTJuS0pzSTRlQVRJNHdRS0g1MnZzNXU2Y2w1NGFvRXVlMVE3azdjV3ZIQ0dOOGw5MVZ5OXR3UE5oeklIQVo3bmpBWlhxTDFzbnBPZXpkNzQ0VFNMLVhMazR4aUtwdUtCU3RnRFhqRXRGZ29tbzhlZWJ4YkU5M25nZw?oc=5",
       "pubDate": "Wed, 22 Jul 2026 04:00:00 GMT",
@@ -905,15 +936,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "U.S. measles cases surpass last year's total: Tracker - Axios",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fTUJkWk1PcmVxZjNSVWdXU2laajgwaGRXcnhtbW1oZHY4djM0M0VUWjM5Z1IzWmdYWld0bmFESmRTcWRrX3FIUDEtWXlZbGJteHhPYUxKQUg3OVZ5ZWc4bldHaGYxWXZTMUEwMUZQREFBV2pmVEE?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 00:58:01 GMT",
-      "description": "U.S. measles cases surpass last year's total: Tracker Axios",
+      "title": "Discrimination complaints at INL over COVID-era vaccine policy resolved with $5 million settlement - East Idaho News",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMTNacHRKSVlfOTVPdWp5UVJsSkp1cVQwSzYwWEpDTm9ST19sSkgxdnBLby1VZWNOZkZVOGhSQWRzSUp3RDQzVHdzM3ZQWHlFdFp5SzhXbVhkdjlNOGFkZncxaXpPNk1xdmdfaDkwOWNtaG1IVlZPbHp0bTBSWHRqa045N2lRLXd2d2cwVWIxOEFseGpOaXFWNDZ3UGw2dzhDVExqNVpmN2NZWkwtOEZpS3RMV19uRWZaTy1CWWQweEItWlRKRFc3NUdlNmwyeXgyX2c?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 23:25:00 GMT",
+      "description": "Discrimination complaints at INL over COVID-era vaccine policy resolved with $5 million settlement East Idaho News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1096,19 +1127,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Smaller COVID-19 vaccine booster doses match full-dose protection for up to two years - CEPI",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQWtwakhoUGFvNUFLc2ZxTEFvYjZueS1HeXlYczhzTFpZdkZ0VGpFcXFtMWp3WVFhTFJWQjlnQ2hLT0RxSDFScjY2LVVmbk54UFZVU3hnaEpnVGw3SUZoTzZpNTdVNDdFbFBIWG1Kbk1vMzMyUG9mWEtOQVZYTHBPQzBuR3dWUHJtZWFMdGVvRURLTTB0LUhZ?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "description": "Smaller COVID-19 vaccine booster doses match full-dose protection for up to two years CEPI",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
