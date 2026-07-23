@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-23T03:37:13.184Z",
+  "updatedAt": "2026-07-23T05:33:25.012Z",
   "itemCount": 93,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 6
+      "count": 5
     },
     {
       "key": "flu",
@@ -40,15 +40,54 @@
     {
       "key": "dengue",
       "label": "Dengue",
-      "count": 3
+      "count": 2
     },
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 54
+      "count": 56
     }
   ],
   "items": [
+    {
+      "title": "Spokane firefighter lawsuit over vaccine mandate heads to trial, city approves $200K for legal fees - KREM",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZ3plLXMtMWs2TzVmeXFKcUxhc1lEQWtpX3JMN0FqQmZkTUVHSk1FQnVlSnhBVHJielk5YWpXLUtCV1QwUjNmN3BiczM3THh3ZWNNeFp3ZG9saFlyVloxTTlWSVVidVMya1FnRDR3MjEydVR4di1pYzJFVFFWNlc1Y0RmRmk2dlFpdkc4bVBYS1JMZVFWWmltYmVTT2I2ckpjZ0p1eVZZLUJ0SFcyLVNyb0RnWldCcHRuVU0zSktiZ0o2RzZZand0N3ZrcUFPdmduT3g2VmRiSlNfdnpuQkpoUUxLdXJHR3Y1c2F0YVJRaVdydw?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 05:08:00 GMT",
+      "description": "Spokane firefighter lawsuit over vaccine mandate heads to trial, city approves $200K for legal fees KREM",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Dr. Ed Dominguez on measles cases surpassing 2025 total; promising new pancreatic cancer vaccine - KLTV.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTEtvY1JoM25SVDFPRk9lc09zQ25HazhSWHdRdGpHRW0tTlJjR0laR2ZyVHlTaXJkWG5vQzhycHVMWDRseGY2eU9qSzN1NTlXTmpsclNKcVk5dTE0eU40QTRiSnV3N3cxdzE4dUl1S2lsWHlzQTkyNGtOME0zcFNtVjJkRndnV2VPd0tNaU9fTV9WQjJhUEFiNWpkd1k3bEFOaHh2WlBmd21URWg3ZWFLaXlRT3Y3Z2xPd0lPTkZLVkJuQdIB1gFBVV95cUxPeUNBcXdVUmk2dkp4d09VYnNscG54RTZwSl9qZ3dyM2ZoemZDaGVkVGxGRjViMk1wZEkwcWRrU3M1RnNTS29RQWgxeEluLUZoODRaNHJSUTVqVF9HSGlpVlpfdkU0MTlDMWtOWFltRXlyTm1tRjJ3WE5TNG12R05rM2JRWnVfUnhBUnNzMDJFZ0pQVUl5c085MTdtei14Q0k4UHBpYURDNTNsVGZiTUp3c1RxT1Q2Uy1QdDJKMzUwVGZuOXMzczdjdGg4RmxkSUJSX2Z0bUp3?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 04:12:00 GMT",
+      "description": "Dr. Ed Dominguez on measles cases surpassing 2025 total; promising new pancreatic cancer vaccine KLTV.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Israeli data shows one dose of Pfizer vaccine 85 percent effective over time - JNS.org",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcjA5N2dJaU1kNkRibnpSWXJ3dm5uS1dVRnB4YUsyWE9QVmp0eWFIUlB4aVpOTmRDd0gwTThDSlpjOE1Yb3pxcDdmcHpRTFpUWjczU1lLbXgzdXBDYXlWLWRIal9wMFpadXEzeEVXYnRXZWwwSFMxblM1VnJKZFFTZmVMWXhvYi0xdWV4SjgyNzBPYUtHcjI5aExoRG9BbXowamVJ?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 03:44:23 GMT",
+      "description": "Israeli data shows one dose of Pfizer vaccine 85 percent effective over time JNS.org",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Measles outbreak declared in Delaware; cases also rising in Chester County, Pa. - 6abc Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQzNaZ3FmbEUwbGJ3Znl6LUctUkM2S2hiMGZINUE5QkdVTF9McGdoclZoZGREWEtZSkVDcUlNbnduQnFSc0d0ZGhqVGpxd050TFU1SW1LQ1owMVgzUUtzQWUwa3ZucUw2b3NXZXFZSzFwZ1lnNHpuZmR3MEpYWXR2VV9ERHJzTE01Z3dhNGpyVDVSQ2RvRFJESWVTTHUyQdIBowFBVV95cUxQOG1HX0ttZnJXak5ENUFTUUNBaEpsZmF6ZnFNWVU4TDVmRmcxWUhQVnA5eGtaZ09fck1NYVVidTZ2N2dVc3FuTkI0Z2c1d2xObnRLeGhzRFE4TzFVSGE3TVlnN1EwNmJXNjJHbWQ3UnR0TVVWME9XY0ZfYlJBM3BJaDEwSGpjYTBnZXA4Sl96cHg3UkpmcjVSbXBtV0VTUndtWF9z?oc=5",
@@ -102,10 +141,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "What Bundibugyo Ebola vaccines and treatments are under development - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYWVxaGdpMVB1ZVpOUVoxdTQyQ25raGVhUVgtYjk3R3NBWHVlbGhaMVV3Z0hsV0ZYRUNKa1k2X1RBRk9UX2xZQ0pjSGUxUjhqVXZxSlRHQmllV1NwanRZZll0Y3BNd3pqNWhwbE5Bdm92T1N4OEhZTWRsaDhoNEM4ZWxnUjVMX1pyWVExRDJfM2oxRnNFVHM1azdtV1hZYUdQbTlwVWRBcW9IYm1wMkw2QlRPS2lwWlYtMC10Uw?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 23:04:25 GMT",
-      "description": "What Bundibugyo Ebola vaccines and treatments are under development Reuters",
+      "title": "Recent rabies case prompts free rabies vaccination, microchipping event in Polk County - Tampa Bay 28",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQX3F3d2Q1OFVpZWpwcUJPX2FVMlZwaU5HeWRacllyME9WOFkzcFpWLXV6dEp5dld2S0VJRFJHS2dXQmljNzFQS2lhbmlvdGFDUVlGY1cwZlNkN2VjblNoMHJCOVU3QlpQWFBhd0JzYlRjdTY1SjN2LTJEb0t4bnFjVkoySWNBRkd5Qm5FX09BY1NLUWY3QUhHb1UxNXQ3dnVLZ0d6cGM5MFM5TGMyQmNtc29aMnNPRlhvRlVObjVZeEQxU1ExcDlCQXpxRXJINV94bXl5b3U2RGhvMmNaX1V2SVJ2QQ?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 23:22:54 GMT",
+      "description": "Recent rabies case prompts free rabies vaccination, microchipping event in Polk County Tampa Bay 28",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -115,10 +154,36 @@
       "articleLabel": "News"
     },
     {
-      "title": "Recent rabies case prompts free rabies vaccination, microchipping event in Polk County - Tampa Bay 28",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQX3F3d2Q1OFVpZWpwcUJPX2FVMlZwaU5HeWRacllyME9WOFkzcFpWLXV6dEp5dld2S0VJRFJHS2dXQmljNzFQS2lhbmlvdGFDUVlGY1cwZlNkN2VjblNoMHJCOVU3QlpQWFBhd0JzYlRjdTY1SjN2LTJEb0t4bnFjVkoySWNBRkd5Qm5FX09BY1NLUWY3QUhHb1UxNXQ3dnVLZ0d6cGM5MFM5TGMyQmNtc29aMnNPRlhvRlVObjVZeEQxU1ExcDlCQXpxRXJINV94bXl5b3U2RGhvMmNaX1V2SVJ2QQ?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 22:39:21 GMT",
-      "description": "Recent rabies case prompts free rabies vaccination, microchipping event in Polk County Tampa Bay 28",
+      "title": "Children in Conflict Zones and Remote Areas Bear the Brunt of Global - Global Issues.org",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mQlktVDFlUGJmTnBjTVZzSFpoQjhRUkpBRGd5SDRldElrQUkxUUo3dGJQUk1IU29EV0JkZlpvWVRLMC1NN19SR0M1QWk0TDZsdFZtT2NBbnZfb29zWVhF0gFkQVVfeXFMT3A3VzBDYlpQRjNDWkZUUFRRUjhlVVlvZWd3OENVaW9DTDl4NFNHYVBxampOT3JCLTRLYmNpeTVTYm9haWRlMk5tbDFCeF9lU3hZdS1mcGZhYjkwemtnYU5OWkp5OQ?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 23:20:58 GMT",
+      "description": "Children in Conflict Zones and Remote Areas Bear the Brunt of Global Global Issues.org",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Oklahoma vaccine exemptions rise as mobile clinics expand access ahead of school year - fox23.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSTE4ZDZXTWNVVFl4QWwydm5kZWotbklUcTFCREg3ZC1wdVpnQ3AyZE93N1p3ZUN1Y3ZGVDRtUU5VYzh1ZVlaS3FLMUdzSy1VRGZoNmxoQUpCZWNtdEpkVXl1bFhRbVA4ckJqZFhBY2F5UndLMzZkd1JBZF9iRzVSTk16QVNLZDFaWjZnazBzRXhaaVd0R25VZmtjUEdPdnBVOHk5ekE0WjNKRGpDckVFcjByNlRsVUVsbWxXUDEyVVpZaDA?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 23:10:04 GMT",
+      "description": "Oklahoma vaccine exemptions rise as mobile clinics expand access ahead of school year fox23.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "What Bundibugyo Ebola vaccines and treatments are under development - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYWVxaGdpMVB1ZVpOUVoxdTQyQ25raGVhUVgtYjk3R3NBWHVlbGhaMVV3Z0hsV0ZYRUNKa1k2X1RBRk9UX2xZQ0pjSGUxUjhqVXZxSlRHQmllV1NwanRZZll0Y3BNd3pqNWhwbE5Bdm92T1N4OEhZTWRsaDhoNEM4ZWxnUjVMX1pyWVExRDJfM2oxRnNFVHM1azdtV1hZYUdQbTlwVWRBcW9IYm1wMkw2QlRPS2lwWlYtMC10Uw?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 23:04:25 GMT",
+      "description": "What Bundibugyo Ebola vaccines and treatments are under development Reuters",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -137,19 +202,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Oklahoma vaccine exemptions rise as mobile clinics expand access ahead of school year - KTUL",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUm1NSGRhWVdCcXFJbEZoeW9UNjVQY3RJaUZZT2JRRVJqUnQ1T2VJUWdKdFhpWVJCRUZvT3JDa3FNakF6Y1VRTXN5cGowaEwzT0FKdjhKQ28zVkxfbi1CNmVOc29nbndfbXMtUWtvb1dBN1JBTUc0cnRlVU1RVEJjd29wTTJ1YTAxRDJwcS0tXzg3N0p0ejVfS3N0Tl9KYWdKamotS2g5YjlKUEUzbHEwblYzUQ?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 22:23:04 GMT",
-      "description": "Oklahoma vaccine exemptions rise as mobile clinics expand access ahead of school year KTUL",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -178,6 +230,19 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
+    },
+    {
+      "title": "Measles cases reach 35-year high in US - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TR1BaYzExWjJDTWZWdWNZQ1p0UDJDalk1cDNDYmF0YXBXeldvM1pCRl82OWNZaVB3VVVfa1hUSlc4OENGSHp0MVpQVlV0ZzRwVEt2cEN2bjJvMGtwSy1OZTZOSjdWb3BDeVkwejhwVU5GMTBqYXFiQUlB?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 20:55:19 GMT",
+      "description": "Measles cases reach 35-year high in US CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Lawsuit over COVID vaccine policy at INL ends with $5M settlement - Post Register",
@@ -232,19 +297,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Measles cases hit 35-year high in U.S. as Texas sees surge - KHOU",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdHg2MmE2WWNBZFpfb3VMX1hIejJVUVNiUC1OT296YzJJOHlldS1KWkZSZEVVcGg0dFNtVHl0c29XcHp6RjBDZDR2eXJudEJUWkdaZ2thSGFfMDMtS29TQWplWVBnTnJDZnBoUUhzZzhFaG9VNmhnVUo2ejVJY2huU2g0VmtrWkVjWnppOG8yMnYzV3lLYmFDN3ROelhFUDMxelNWYWp1SGszUTlvVWpYWjRRSzRLcTNJWVVoM3lDLVRab3otOEMtM0FCRVpvOXFpY3ZmZGx1NzlMa3drNkJz?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 19:48:00 GMT",
-      "description": "Measles cases hit 35-year high in U.S. as Texas sees surge KHOU",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Delaware declares measles outbreak after 4 confirmed cases - NBC10 Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOTRjM25lNE1oTkRKeG5Cdm1PWHVLQlNub0RPOXJ0X3A1NGUzVnJZN3F5VEVNVXgwSTU2R1h0dktNMloxQTlVVFo4VXQxQ21uTEdGY1FYMjUtUUtnSjFwMElWbUxlYl8weUFBOTlSSzJRM3RneFByYnJRelpNTzZmWVRmRzlHU2VBbFNLeXR4OVlqNFY3cmhaY3NmWEpYMERiQ2ZnNFNR0gGuAUFVX3lxTE5pdk9QY3VYSHFXWk5jV05iUFh3aENZUTVsQ1pPOTR6SkJKYzVETkRaNTZMR3ZfQU1aeXRRWG9iOUlwX0VFR1JfSkNmNXBRSjh2MUZiX3liZ0xKbkd1YmlJR1c3T0FpVVJZTms0cklYUUM5ZTVma3pVLVVfcHBNc25scmhfWHdvdDZ6UkZQZzQxQ0p1SE9fNHZheV9SZzVCamNYSEpneU9pWmliaC04QQ?oc=5",
       "pubDate": "Wed, 22 Jul 2026 19:47:01 GMT",
@@ -284,19 +336,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Delaware's 4 new cases of measles meet criteria of \"outbreak\" - WDEL",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaHdJa19wT0djanVTRFFoZXRfRDdWRGtNVWYyVjliLWdkbWNxU1lXTUN5M1UwUnQ2TlE0elB0aXlKbm1GbFM1RC1kbl9VT3YxVHlTRlU2UURFYzNLQW9rOEJuTmUzZnlqa2dEYzdXZFp5cE1jZ3NhaGpQVmVSU3JwVktEMHNrVzI0dkdiVlNvNndfdkVidUgzOGdNeHBfNXpTckh5YkJOMnNtUXBrMTItdVJGRFY4QzhsOTl2NUdKV3h0RnM3QWtkVWZ4N1FnYzA?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 19:38:00 GMT",
-      "description": "Delaware's 4 new cases of measles meet criteria of \"outbreak\" WDEL",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Pfizer (PFE) Faces New Patent Lawsuits Over Covid 19 Vaccine Technology - simplywall.st",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMWtaejQ1aFAxWENQV0J3RGdWYmlXVGF3RWhoclQxUS1PWnlrd1lIWDIwSDFLTlhuNEFlMTNpME9PbVVPSldVYVI0LUF3bXNERU1JRXVEd0k0Zy1VYmFfX2VmcHlXWDhzaGFaem9tS0xnaU5rS01meVREVEtNTVZ6R1hiUWk5cm1lNzdpc0NZVHE1WnFrMWxTZjA4SVQ2dG5FVUdDakQyLUk0bVNDTUdLWGl3T0pvMVplazFrYVltZmJ1MUFuOGI3TmZrV25UWnlqQUxj0gHYAUFVX3lxTE5lSENyZ05KcWNGalBGZFN4cDFnM3duN2phWDdDUjhRTXo1VTZmV25LaXJGVnJJYnNJWWRhYXoxZXdFVmRSdVdBSEZWeW5uQndtMGtCTFZydW5jLTJZS3JxNk50UDBSWU1VSUp2Z0lxcTZLWU9rakwzTDRZRV9fc0FQZUFucWxlTzh4T1BRZnJXMnFEOWtkSWhNUmYxSTRxenFfclB4d3dRdGhfazZ1Tk9ybDhsLWZRd0I2LVFDX1J2dW0xMHFPeXZOeUt6aUd4RFowdnNsMEVoYQ?oc=5",
       "pubDate": "Wed, 22 Jul 2026 19:35:41 GMT",
@@ -332,19 +371,6 @@
       "sourceLabel": "News",
       "vaccineKey": "hepatitis",
       "vaccineLabel": "Hepatitis",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "What Vaccines Are Required for Oklahoma Students in the 2026-27 School Year? - News 9",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaUtrSTRwSG9vSFlIWUNYalFlNHNNWUdrVklrWEo0d1FVbWJGWnhWRUdNX3N4LU10V0FJeWhuR2lqcE9ESV9semZKOWp6b2JKMmtuZ0FRbm1PeU5vQ1FvUWFqNWQzSnJwQ0c5STd3bEwzenRZWmlmeFM0SFd4U0ZwQ0hoTUpRd0k2YTJ0cDA2NDBqUQ?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 17:25:22 GMT",
-      "description": "What Vaccines Are Required for Oklahoma Students in the 2026-27 School Year? News 9",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -425,32 +451,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "COVID vaccine settlement, old munitions in Boise’s backyard — what you may have missed - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdVJkby1EdFZJQ2NPQlFEZDZkZ1Rvd0tXbTkybGZaRVd0MWw2V3NpT2JrLTBIaFByRU9PVWUzTmhBbGtUekgzdFViMWJ6emdUaXMyVWVWV1pzcnctNVRmNXhRSi1WRWVqVDVSZ05OTWtTQnNIT0ltcTcwZU10WjZSRkQwQUh4NEdzVk5uNnFndWVUVDVnS3BJ?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 16:00:00 GMT",
-      "description": "COVID vaccine settlement, old munitions in Boise’s backyard — what you may have missed Yahoo",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Immunomic Therapeutics Announces First Patient Dosed in Phase 1 Trial of Cancer Vaccine Candidate ITI-5000 - BioBuzz",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRWY5ZzQyZ1JveHBzdFBoM3ExUE02RDBrb3VIYkhOVll2bWxzVGtMQU9LZFBZV0FaWloxWE45MHVVYU0wbkZaeGRCSnV1UXBvOTVGcTR3WUhPZHRJT3BjMjcwUURUeU9oa1R3RS1OSFNyR3R5OGhCcTM3dHFfdzlfYWVjcXUtdkhSSVo0bFkzRGFuU2JJc0RZT2VMbURTZzZBbjQtc0N5eVFuN1BGZlM1bXEtWXpEYzVaZHZHMHlRSDdxbDlCM2VDMDRQSQ?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 15:52:25 GMT",
-      "description": "Immunomic Therapeutics Announces First Patient Dosed in Phase 1 Trial of Cancer Vaccine Candidate ITI-5000 BioBuzz",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "Physicians Remind Residents About Vaccine Requirements For Back To School - krmsradio.com",
@@ -605,19 +605,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Takeda wins approval for first Dengue vaccine in India - medwatch.com",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kbnd6OWxkVW5HUDBNWWlwNHdtTmJkRTljYzVjcnJqbFJob0tIUUxidUd3a3ZUUmhFU3E0TkczVWVRM0h4aXhvVWhkN0Jtc0FFbFdXMVF4TEZSNWdHaWtoLUcxZ0ZKQ1JmOThkckV2OA?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 10:30:00 GMT",
-      "description": "Takeda wins approval for first Dengue vaccine in India medwatch.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "dengue",
-      "vaccineLabel": "Dengue",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1218,6 +1205,19 @@
       "vaccineLabel": "RSV",
       "articleType": "news",
       "articleLabel": "News"
+    },
+    {
+      "title": "A Pancreatic Cancer Vaccine Shows Promise in a Phase 1 Clinical Trial - the-scientist.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV1hnZ25sT1pwZlV1amFkVy1qYmlhNk1VLXVvZkpCYmhzVlZOYVFURzJkT25tVnZzcTRZdy1USVFrS2ZxSVhnVFczbnRweDRuVGV2N05nU1pFeE9GdXhrXzdiNmpUUVZMSXJXb05ZTUo3cUlJS0VqOXhEdmVFSVJFbjZlajVZd0VBeG1YeFVPUFQ5YlJQNThrOTNsTDRzRDQyOExHelZoMXI?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 04:05:24 GMT",
+      "description": "A Pancreatic Cancer Vaccine Shows Promise in a Phase 1 Clinical Trial the-scientist.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
     },
     {
       "title": "Influenza Vaccination Reduces Pediatric Mortality Risk - Infectious Disease Advisor",
