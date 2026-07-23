@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T02:10:46.405Z",
+  "updatedAt": "2026-07-23T03:37:13.184Z",
   "itemCount": 93,
   "groups": [
     {
@@ -15,12 +15,12 @@
     {
       "key": "rsv",
       "label": "RSV",
-      "count": 3
+      "count": 2
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 17
+      "count": 19
     },
     {
       "key": "hepatitis",
@@ -45,10 +45,23 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 55
+      "count": 54
     }
   ],
   "items": [
+    {
+      "title": "Measles outbreak declared in Delaware; cases also rising in Chester County, Pa. - 6abc Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQzNaZ3FmbEUwbGJ3Znl6LUctUkM2S2hiMGZINUE5QkdVTF9McGdoclZoZGREWEtZSkVDcUlNbnduQnFSc0d0ZGhqVGpxd050TFU1SW1LQ1owMVgzUUtzQWUwa3ZucUw2b3NXZXFZSzFwZ1lnNHpuZmR3MEpYWXR2VV9ERHJzTE01Z3dhNGpyVDVSQ2RvRFJESWVTTHUyQdIBowFBVV95cUxQOG1HX0ttZnJXak5ENUFTUUNBaEpsZmF6ZnFNWVU4TDVmRmcxWUhQVnA5eGtaZ09fck1NYVVidTZ2N2dVc3FuTkI0Z2c1d2xObnRLeGhzRFE4TzFVSGE3TVlnN1EwNmJXNjJHbWQ3UnR0TVVWME9XY0ZfYlJBM3BJaDEwSGpjYTBnZXA4Sl96cHg3UkpmcjVSbXBtV0VTUndtWF9z?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 03:31:19 GMT",
+      "description": "Measles outbreak declared in Delaware; cases also rising in Chester County, Pa. 6abc Philadelphia",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Health department to hold free flood-recovery vaccine clinic Friday at Wesleyan - My Buckhannon",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVmFwdDhxRlBmZm9Sc21MWWxzWERoZ21YM05ET2RUOUFUUlpIOXNRaVllWG4ydnBLQnFQYzNCNXVtTnJZWTU0X2xYSHBKLXhOWUo2d3R2RXZzWndzSFdOOE01clhWRGZQYVpZeUFmYmZSbXcyRTR0dHFiNkVBSUU1Y3hsdTlxdmhSWDkxWEZ0OXlYZXpkUEsySVFPUkE2NktNRlRaNnkzZ0IwREJmTUE?oc=5",
@@ -156,7 +169,7 @@
     {
       "title": "New study supports testing of Merck’s Ebola vaccine in DRC outbreak - STAT",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZnZ3eFlQM3FxeDhuNjJIWWQ5UXpqVlZtTXpWazJZbGViQmxoWDBndjl4WldjaUctanVlZlVscFFxSWVDSzlObVlRel9Ec3BiWVc0Y0tKamtNX3Y3ekNIWW5tam5EM3phVWZoeEQ3NzlLSDV3Z1J1Z1Yzdm84c19aQVdsdEhHbF9YMTNNaDI3U3pZTlhHLUhiald3MUt0WnFESXMwS3pn?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 21:02:23 GMT",
+      "pubDate": "Wed, 22 Jul 2026 21:34:33 GMT",
       "description": "New study supports testing of Merck’s Ebola vaccine in DRC outbreak STAT",
       "source": "news.google.com",
       "sourceType": "news",
@@ -197,6 +210,19 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaXZ4SkhiaFY5ZDhtdElxeFk3eTBRNzRzVDNfSVJKUTBFSFZJS0kwRkVsTE1EeE85eGF0bS1IN3NNQnVxd25lMGdndHJrRXpuMkhBM0ZCc3Y5cU50ODg3QXpINHZhZ1dTZlMzbzNMRzRsQW1abjQzM0dxNFFPQjUtSGNHcjJocFJXcHB0MGpEMmhWWTJGdTNZZ2VqeGFVUVFoWGlWNjM2bUl3c3VaVy16WDM5RVpMN0V3dDMxZmhGYw?oc=5",
       "pubDate": "Wed, 22 Jul 2026 19:50:00 GMT",
       "description": "Survey finds widespread uncertainty over pregnancy vaccine recommendations News-Medical",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Vaccine generates durable immune responses in people at high risk for pancreatic cancer - Drug Discovery News",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUzlBTktpdjVvaVY5V3RVLWdhbzBsMXpXRWZsbzFnRDZ1TDdQWW42bWxMUWx0Zlk4cGxBSDhYZzhhNUxERDB1NGtZTEpWZVlhVW1GVHJoX1MtelNiMEpNdElPMUhvVEFmXzl0MHNabjgyODlYOWkxaERCcDU2T2NrX1dBLW12ZVBiUmxDTEFrYTVlVGtMUWloUkQ4NTFYT1FWZXJPLTNNUUsxS3JhTkRVMXZlVzI3STQ0d2l1c0JYNHlscWZMQ0E?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 19:48:11 GMT",
+      "description": "Vaccine generates durable immune responses in people at high risk for pancreatic cancer Drug Discovery News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -280,19 +306,6 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Protecting NZ infants from RSV: The case for universal immunisation - Public Health Communication Centre",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYV9zY0ZHaEx5c2Q5U0VBdnItVUpWOUdfY0RuUHpyZVlqT3ZyZEtobVl4SFk3MGNST2NHcjBHejhLOHRFV2FmbWJMekhHWU9yczlIZHh4RjM1MUprd3lzdUlBTi1SNnpvTUlZa3hIeHM2RWRmcUQtXzdSV25yT2ZqWGVpLXliUkx6cy02azdWaw?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 19:09:44 GMT",
-      "description": "Protecting NZ infants from RSV: The case for universal immunisation Public Health Communication Centre",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "rsv",
-      "vaccineLabel": "RSV",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -882,6 +895,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Will vaccine boosters be necessary as measles spreads nationwide? - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbzZEZkZrcnhLREw5YjE3c0huR01TblFJUXlZeVpzZEZqRWltUEE0c0EwWmtEaGhheUNHbkFaZVhjbUlueUZTWGVuSVNLRGhYVjVfbW05RzdpUHR0ZnRSZFlQVDdBQldoMVIwcFVqTERQYUhQYkZnNGo3YTE5TUh2VGlZTE9wdC1FbmdOM2VpcXVuSHBQSWZ1UUFpd3dTVXl5cG54UU82MNIBrAFBVV95cUxNbGY4enhQYkJXczE2X1V1NHVJNGdoRVBOV2RkYjFjRTVJekZIdk5LLXk5R09uTkNjRHB4S3dCMUZ6d3BHNG43VFBwVzRRZ0VoNEFRb0NpcjEzdHRRcmw4eFYyNUxJSjFIdVRGbkFIT3BTM0d0c2lDSm1hN2tuTjBxTy1KNHhoNWF5VjgzUlc1RzF1bXZOeURGLUhUS3RjOTkzRlhRODZvR2YxSW5j?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 14:37:24 GMT",
+      "description": "Will vaccine boosters be necessary as measles spreads nationwide? The Mercury News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "An experimental oral vaccine may prevent invasive bacterial diarrhea - Science News",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hV3BCNWxDYVI5bmZpVVJCRWpqTkhNZE1uMTBiaHcyZGFQeEc5N1huZHJmdkp5WDhrX2c2MjF0RkZUcVJ1eGVZZ3h1MmNJN05TY1c0djBTVGtvQzVrSFRKQjdzU0tVWHlnbHcxMjlyLWcxM2xGMnc?oc=5",
       "pubDate": "Tue, 21 Jul 2026 14:30:00 GMT",
@@ -977,19 +1003,6 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUXZQZ0xTWmNraVpMWmtTNDktSHdyQnJ4ZWdsNkRyM05VNzZsTWRSVXZTZGlVMldZRnNlT2JHa2ZrMktDaFV6Zkl4OUM0cTBweDcwN19tbjJZRUYxUHBWazZXLTBteURJWkhCbG9uaWUyb0tyRWl0ZEFQT2hDYVNhcGxCbjhrQXkxYlFHWnZB?oc=5",
       "pubDate": "Tue, 21 Jul 2026 04:00:00 GMT",
       "description": "CDC Issues Alert on Rising Multistate Cyclospora Outbreak Vaccine Advisor",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "This food compound may help vaccines work better in older adults - ScienceDaily",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iNEVXRVpZUkRLSnFxZFgtekI5TXQ0ZmxyZzRjSFk2U2JNUlFkcllDOU9yUUVTSGI1SVdnTEVwTkgyZV9xbk9Lc2laa1RMc3h0c0o3WG95SEw0MnlQV0dIM2dHWEhXQ0lBY2dybUIzZw?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 03:53:18 GMT",
-      "description": "This food compound may help vaccines work better in older adults ScienceDaily",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1205,19 +1218,6 @@
       "vaccineLabel": "RSV",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "A Pancreatic Cancer Vaccine Shows Promise in a Phase 1 Clinical Trial - the-scientist.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV1hnZ25sT1pwZlV1amFkVy1qYmlhNk1VLXVvZkpCYmhzVlZOYVFURzJkT25tVnZzcTRZdy1USVFrS2ZxSVhnVFczbnRweDRuVGV2N05nU1pFeE9GdXhrXzdiNmpUUVZMSXJXb05ZTUo3cUlJS0VqOXhEdmVFSVJFbjZlajVZd0VBeG1YeFVPUFQ5YlJQNThrOTNsTDRzRDQyOExHelZoMXI?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 04:05:24 GMT",
-      "description": "A Pancreatic Cancer Vaccine Shows Promise in a Phase 1 Clinical Trial the-scientist.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "Influenza Vaccination Reduces Pediatric Mortality Risk - Infectious Disease Advisor",
