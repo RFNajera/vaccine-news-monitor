@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-23T16:55:34.418Z",
-  "itemCount": 93,
+  "updatedAt": "2026-07-23T17:54:57.946Z",
+  "itemCount": 90,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 7
+      "count": 6
     },
     {
       "key": "flu",
@@ -20,7 +20,12 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 16
+      "count": 14
+    },
+    {
+      "key": "hpv",
+      "label": "HPV",
+      "count": 1
     },
     {
       "key": "polio",
@@ -50,10 +55,62 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 58
+      "count": 57
     }
   ],
   "items": [
+    {
+      "title": "Available Ebola Vaccine May Protect Against Bundibugyo Virus, Study Suggests - MedPage Today",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6Q1JseFJ2eUtLbG5YV0h3SnpRTGFtNC12TTg1WXpoNmVXXzRLYnlhTU53dVVPY2YyY1NIdml3dUZTSDNFMGswN1BLenFTSUljWGhMZlU3UjRMY3BJMVJWdjZXcExEVW5yX0tN?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 17:41:57 GMT",
+      "description": "Available Ebola Vaccine May Protect Against Bundibugyo Virus, Study Suggests MedPage Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Recent rabies case prompts free rabies vaccination, microchipping event in Polk County - Tampa Bay 28",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQX3F3d2Q1OFVpZWpwcUJPX2FVMlZwaU5HeWRacllyME9WOFkzcFpWLXV6dEp5dld2S0VJRFJHS2dXQmljNzFQS2lhbmlvdGFDUVlGY1cwZlNkN2VjblNoMHJCOVU3QlpQWFBhd0JzYlRjdTY1SjN2LTJEb0t4bnFjVkoySWNBRkd5Qm5FX09BY1NLUWY3QUhHb1UxNXQ3dnVLZ0d6cGM5MFM5TGMyQmNtc29aMnNPRlhvRlVObjVZeEQxU1ExcDlCQXpxRXJINV94bXl5b3U2RGhvMmNaX1V2SVJ2QQ?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 17:19:21 GMT",
+      "description": "Recent rabies case prompts free rabies vaccination, microchipping event in Polk County Tampa Bay 28",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Avian flu control: South Africa explores collaborative approach - WATTPoultry.com",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPamFlZUtSSm5pMzEwMGQxYTFVaWl3aDZQeDFoZExSOFFkdWlDVnpZNnFPOS0tX0U3YzVfeU9TaWxZV3RIWXdzNWItaVpKZzZKSnAteU5KdTZxbkhDMGdHRU5sdVp2MjA1MVFqYTFhXzRwZDl0VGt1VEJreTllNklQNGVHRFN2OTg5ZXZJNU9kVnYwQ005LWpYLXpWX0ZHQXlzU0gzYmhuZ1JpOG9rQ0Jod3dvNXNIcTFmQXRZSGRrNFZGMTlzQzBxa2VaQ0R1TDBoS0l5X1pPUnExQmVraVZMWA?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 17:03:45 GMT",
+      "description": "Avian flu control: South Africa explores collaborative approach WATTPoultry.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Jiangsu Recbio Technology To Re-Plan Timetable For HPV Vaccine Marketing Application - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUzRkY1p6UFJ1R0VWZmFlbFZpb0JVLWZlYjVDZFZRWEJDWjBqRG04RTJrZFFvNENmU3VpemxPYXBtWDh1cXlHTmRLV0RKNG5UUTNucnVxMGtYMnNxTUZlNjIxNmNzbENGZDVkbi1IQkczMU8yVXp4RTRUOHRwb2hMWXl0ejMtVkIweExMdl9fMm9VSG5sTW9vTGxzc1ZBWFFTVFJ4bWhNdTVFMVByanJmel9VTnB6VnltN3o2R2RJZHQxTV9peWpaYk9nS0dTZk5oUHV1QnpZNFppTm1JbWlfcEhubkgzOEJTREE?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 16:50:32 GMT",
+      "description": "Jiangsu Recbio Technology To Re-Plan Timetable For HPV Vaccine Marketing Application TradingView",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hpv",
+      "vaccineLabel": "HPV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Delaware declares measles outbreak after cases rise to fo - Delaware LIVE News",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOVRrTTlRdW5iTThPQ25QZzZtRHVxWWdrQkJFREVJN2FtWUFYaDYwaHFibWtTcHZDZGREUkl0cV9fX3poM3c5WEhCOTYxQzdNU3JwLXNJc1lXUG5IVFgzeUc2VTM4b0wtYTRPV3ZTcEticnJrQTJFWldpWFdRTTVDRmQ5ZG9hOVQxQVFz?oc=5",
@@ -107,6 +164,19 @@
       "articleLabel": "Opinion"
     },
     {
+      "title": "Infinitopes Doses First Patient With Precision Off-the-Shelf Therapeutic Cancer Vaccine ITOP1 - BioSpace",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb1ZjT3RSTGJlcUVKeVhJUlNNTGJleXROUS1ZZ081dmxHbGozemFlOHdwWFR4b0xLZzIzLTBDQ01DZlZud3FLOVNVTkwxWGFhNkdTTWVza05sUkt5Z3hZUzJiSDNGTlo5ZjJ4MEpCSkFPZjBjaUJwOGItbTQzYThHTlZVVXVjcWtfeXZwUXhTRlA2UG9OQkNhN0lqT0xTb2dta0JTT05CNEdxVTdmVUoxWEo2YUJYTU91OEZGaUFNemNiaGZ5NF9aV1l1cE1lQQ?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 14:47:40 GMT",
+      "description": "Infinitopes Doses First Patient With Precision Off-the-Shelf Therapeutic Cancer Vaccine ITOP1 BioSpace",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Experts share vaccine importance - WPSD Local 6",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTI1NTc5RlRUWmVEa2o0X0dfWnlOV1hwbWY3Mk43dGtQWUpORlRvX3FEMGliZG1heGdhSV9OUkNILUF0YTlZWXRUYnVWR1ZwZFhCSEtMMmZaZ3VxNlZiN1J4NkNwdl9LUF8zdW5RRWE5ZmxTS3RpWUZyTC1mSGFFYXZaRlVreDFUNnhCNG5UUW4zSHJVcDRITEFFZkMtQXNkNWNUQzdmc0Z5bGRrVjFGZw?oc=5",
       "pubDate": "Thu, 23 Jul 2026 14:41:08 GMT",
@@ -122,7 +192,7 @@
     {
       "title": "Vote on key federal health nominee delayed amid questions over vaccine views - STAT",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ2lNVDBtV0hiaEJQVU9RSVZrSTFDVHduQWp1WGZZSlFGQmUwYi1OTUN4UTBON2pIcHE1UzZja01zVWc1LWIyanY5Y0VBZEp3ODd1QjBzUnRSS2E1bjBUakpPNnFHa3ZWTF80WklPaDNvMzV1aVpuS2xkTDVhOHRhUFFTQXJZT2xoT1hfajhudUZLdU9RNmNhdGowdUdoSFptSWl2SloyMW1rT2pBajdj?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 14:10:49 GMT",
+      "pubDate": "Thu, 23 Jul 2026 14:26:15 GMT",
       "description": "Vote on key federal health nominee delayed amid questions over vaccine views STAT",
       "source": "news.google.com",
       "sourceType": "news",
@@ -131,19 +201,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "A Natural Compound Found in Wheat Germ and Aged Cheese Helped Strengthen Vaccine Protection in Older Adults in a Pilot Trial - Medical Daily",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeVBXUjhDcFdTWFQ4MGF1ZV9HN1ljQXNOeFpNWjlOdWZfSlJ6azJTSnRmN3d3S050V2xMM0JpMXhxUC1RMTRWb2duM0NsMFpqM3gyMVVOTzU3WTlnS0VxVE5laHVJcmx1RXZ5N1Zfd21MeDR3djFOdzNEUEdFN1ZNVHBaa0ZNSGJQa2NNZDFOMlRDSGRNa3d4aUpaUWh6UW9Y?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 14:00:13 GMT",
-      "description": "A Natural Compound Found in Wheat Germ and Aged Cheese Helped Strengthen Vaccine Protection in Older Adults in a Pilot Trial Medical Daily",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "Vaccine hesitancy: What is it and what is the risk? - WV News",
@@ -185,10 +242,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Ebola outbreak with no vaccine spreading too fast to contain, doctors warn - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU1g5aldIdzdSa3g2MFF5cjFVWEI0bnBLSVVqWWpGd1IzRWtEU2FEbEdSQXR6QzZlUUVMbjFzUmNhZFVIbk5id3l5V0QtenlhY2N4c2ptM1BqTFJIdTRBM29aajIxdXgtZnJTRWVTWFRFUmVuVFFBSnFycU1oZXNMaDUwQURCRXRmNEdkWFZn?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 13:04:00 GMT",
-      "description": "Ebola outbreak with no vaccine spreading too fast to contain, doctors warn The Independent",
+      "title": "Ebola outbreak with no vaccine or treatment spreading too fast to contain, doctors warn - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ205SDEzNkw5azZYZUZybTRUQk1WV0lxNWdSa2pPRzFDNmYyb1l6LUxkQXBaaHVrVFIzcFZCSnp5b2hSQjdKNjIxNEo0bUItVlJOMmR1bjFmTFJ2MTdCN1BUUDl0bmtmakFPUWdQbS1pRVJpLU84SXVRc05mOW03WEJPb21LaXpQbUJoZw?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 13:09:50 GMT",
+      "description": "Ebola outbreak with no vaccine or treatment spreading too fast to contain, doctors warn Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -228,19 +285,6 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTjJGclFUWnJYMVk3Wl91OFlHcWlmTFVpYUdkYktSaFZEaDl5VjBQTlhOSW9SN1FBelAyUlVEeGM4ZW5IdkFrTXFXZTVfWWRmUTNuSFlVbzdaWU8wN2hkM1dtVExPRURIRXBxdEZRMUpNVm9WQ3VWV0FHMUIyNG55bTQ4NG5DYjVFemE0OEExcGtFaTN6dGhtQlhTeXl4dXBEUnE4aDREb1Vab2NlNnl0cEF1d3NkQQ?oc=5",
       "pubDate": "Thu, 23 Jul 2026 12:15:00 GMT",
       "description": "Medgene offers ﬁrst-ever cattle vaccine to address Theileria PR Newswire",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Ebola Outbreak With No Vaccine Or Treatment Spreading Too Fast To Contain, Doctors Warn - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ205SDEzNkw5azZYZUZybTRUQk1WV0lxNWdSa2pPRzFDNmYyb1l6LUxkQXBaaHVrVFIzcFZCSnp5b2hSQjdKNjIxNEo0bUItVlJOMmR1bjFmTFJ2MTdCN1BUUDl0bmtmakFPUWdQbS1pRVJpLU84SXVRc05mOW03WEJPb21LaXpQbUJoZw?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 11:35:18 GMT",
-      "description": "Ebola Outbreak With No Vaccine Or Treatment Spreading Too Fast To Contain, Doctors Warn Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -406,19 +450,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Study: Even one dose of Pfizer COVID-19 vaccine lowers viral load and spread - JNS.org",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaXZuVnQ1VmxpMFlBSjVUVm1xb3R1U1pOWDlncW1CWjliQmFOdUh6Zk4xQ3ZhSlM0cU0tUFI3SDgwOUVQZGRPTnVSeXVQWnpmVXhCaE5zOVlPa0hxOU9OVEM3aFJTdEJoWF93WkVwUGE2VlExcEdnVDU3MFU0UDRBZ0tZS01McHpJSmwwLWNpeTRoVmtJeTlIejMyRGZIcVJsYlE?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 03:44:18 GMT",
-      "description": "Study: Even one dose of Pfizer COVID-19 vaccine lowers viral load and spread JNS.org",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "Health department to hold free flood-recovery vaccine clinic Friday at Wesleyan - My Buckhannon",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVmFwdDhxRlBmZm9Sc21MWWxzWERoZ21YM05ET2RUOUFUUlpIOXNRaVllWG4ydnBLQnFQYzNCNXVtTnJZWTU0X2xYSHBKLXhOWUo2d3R2RXZzWndzSFdOOE01clhWRGZQYVpZeUFmYmZSbXcyRTR0dHFiNkVBSUU1Y3hsdTlxdmhSWDkxWEZ0OXlYZXpkUEsySVFPUkE2NktNRlRaNnkzZ0IwREJmTUE?oc=5",
       "pubDate": "Thu, 23 Jul 2026 01:09:00 GMT",
@@ -436,19 +467,6 @@
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQTJpZkpsR1VKcS1MRTNxVXgxWDNjeHpYYTJod1NMbHpHckxWU2djZGsySW0taEx1S0xQZDJyT3k5UTRDU09sLXg0T293X1hmWGdLbzNrbjhNRmlENVZNbE5xOVRoMF9UN29QVF9SU1BES3NUUVR3LVJ0M2N0NktwQ1hwd3BQNENBNkNYbk1CaS12WENaOGRNOGpKbEhzWE0zZDBabmR0NF9kdU44Rm0zZkdXTjctMDR0bmI5a3ZmcktmdTdmdjE0ZEVRNXh4clB0Ny1xcDlmUk43RERyeVp0SUdOTWs4TnR1SnpKMlIxNVB1Ni14dzcwZFNSSQ?oc=5",
       "pubDate": "Wed, 22 Jul 2026 23:30:00 GMT",
       "description": "Upshur–Buckhannon Health Department to host flood response vaccination clinic WV News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Recent rabies case prompts free rabies vaccination, microchipping event in Polk County - Tampa Bay 28",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQX3F3d2Q1OFVpZWpwcUJPX2FVMlZwaU5HeWRacllyME9WOFkzcFpWLXV6dEp5dld2S0VJRFJHS2dXQmljNzFQS2lhbmlvdGFDUVlGY1cwZlNkN2VjblNoMHJCOVU3QlpQWFBhd0JzYlRjdTY1SjN2LTJEb0t4bnFjVkoySWNBRkd5Qm5FX09BY1NLUWY3QUhHb1UxNXQ3dnVLZ0d6cGM5MFM5TGMyQmNtc29aMnNPRlhvRlVObjVZeEQxU1ExcDlCQXpxRXJINV94bXl5b3U2RGhvMmNaX1V2SVJ2QQ?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 23:15:35 GMT",
-      "description": "Recent rabies case prompts free rabies vaccination, microchipping event in Polk County Tampa Bay 28",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -601,19 +619,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "mRNA COVID-19 Booster Outperforms Protein-Based Shot on Antibodies, But Both Cut Infections Over 12 Months - Pharmacy Times",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNFhHc2FnTkp5VXNNN3VGdGF4RHV4MDR0UnhFdVpVdGRoUGJoa2hEekRLVHI2X2NxMkJHcTExcUVaMVRTbjNlYnZRR1VlRXZSX3lxMkNlbEtkZC1tVmdod2xNa2NUcUJwZmUxb2JsUmpHUWt6NWhST1h0TTd4QXlDdi1MSU80OWhHanJTdlFFVlMwT1p0alBoQ21uRElWU3NGM0o1Xy1SRGwxZTVXdnU5ckQtLVBxSC15WEhZMkhTVnRWcGtmM2hUNFVoNU5lRmtkdmlaRW9vbw?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 17:25:11 GMT",
-      "description": "mRNA COVID-19 Booster Outperforms Protein-Based Shot on Antibodies, But Both Cut Infections Over 12 Months Pharmacy Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Influenza Vaccine Reduces Hospitalizations, but Not Mortality, in Older Adults - Docwire News",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb3lZOTdPNFBnSW5ZS0QwRWswSlhTYVpXcmpQdUhiT3ZBSG1ydk1qUU05NWVwYW05Ukl5SjFSeE41QkNwd2VCWEhCMjBDZHB0LXR1RW5JVmREMU5kMS1iMHNGY0tfM2tiQU5VVkRVbTdJY0lRS2xFdVFRbDd3TDU0YWhvazkyNWViQmNyOGpxNGtCbVRuRC0wam5oXzhhQXNGakl2bHpIVDE5aHlZdUE?oc=5",
       "pubDate": "Wed, 22 Jul 2026 16:56:43 GMT",
@@ -644,45 +649,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVDMxVGRTNmZQYmhYbEZDN3VJVkxBRktDT2YwNXkyN1Z2WUN6amhDdjlUZ3IyS2ZOUXRFNVBJUHNkSmswTWE2eU1rY1FWMnJVWkVGR0tfMDZNNXZZV0hGU3I1bWxPSEtNdFc4UEJGQWIyR3hGN3FzN0M4LUt3SjlMaFhpaDZzejFfSnN6cEowUnlHUVh6SFpjRy1zdDJ1TTJNQzFMRm04R3pPd9IBvgFBVV95cUxQVmY3ZE1OcGFHRlViMUgtTndaRjJkczVCWnNVSFZsWHFjVDBER1JYYzA4QjVXZ2ZtMlllYzhVbWVaMFpJVTBIRTFCTU42U2JvUTMydU1EZFdSYTlsN0pqNjlzV2FJUDJoZjhWNHF5blBveFBESmtoZlppRUVoWTdEbjB2dkNzZHJKeWxMMUpvYkRFNHFiSGFKTXN6M1NtX2ZrQ1FjbTJmRHBqbW41bW00UWhoQTRDTjJNb1dNMUp3?oc=5",
       "pubDate": "Wed, 22 Jul 2026 15:18:00 GMT",
       "description": "Free pet vaccination, microchip clinic coming to East Cleveland Cleveland.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Measles cases in the U.S. hit a new 34-year high - Science News",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pdE82dEMxckM5NlpaNUREemowWDNKVnlwN3FSQnZHc1FoSF9wOTNNa0xGTWp1SFZDakFfMjJ6NTVJc0lmeHY4SUZUZ2VLNjNqUTdvamU5c2dXd1ZsVGtoekRZdkdVVzAtWFk2c2c1YU1SUS01SXRZRUFVOGoxZUU?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 14:19:58 GMT",
-      "description": "Measles cases in the U.S. hit a new 34-year high Science News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "New Vaccine Shows 90% Success Rate In Pancreatic Cancer Prevention - MindBodyGreen",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSUdEZlp1RXk4eUgta2xLNHhJUUVFeXdmQld0THhRbFhsOTdUZkRQT2dRTTFYaXp0bDh2alBVWm9SU0QtbllyMkJGNGxHemlabUtxS1FiekgwUmowTHc2MkJPVG1oQlJUbWlOV1FabTRsZWNIWmxHM254cjBXbkhDSkxmRlIxT0xCbHBSaTFBeFRRZDhMME5PS3RzOXVVOXJ2UEhWTmJhT2tRSm1VVHJnZkJMRnBGOHM?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 13:40:43 GMT",
-      "description": "New Vaccine Shows 90% Success Rate In Pancreatic Cancer Prevention MindBodyGreen",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Can kids skip school vaccines for religious reasons in Delaware? - Delawareonline.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWlVNaUxSV2lfWk03cEtsV3RfaFBUakNBZnR1TE8tZl9fSzMxd0NSa2xIVjRMaDhjbGEwNjJ6S2dwemV3dkRZUl9jb01wcWxtaTBxczFEMjFoci1FYmtfVWI5RU5DT0FGS3QyNXI5TTIyUG5iOEdmVklFSTByc3BMZW4yUW4xd3BXaHREU3FxZmN2RTRxZERlMXJaS2d2ZGhKbGZrS1RpODVVTDl3OGZNMnFkZEs?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 13:37:10 GMT",
-      "description": "Can kids skip school vaccines for religious reasons in Delaware? Delawareonline.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1056,6 +1022,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Smaller COVID-19 vaccine booster doses match full-dose protection for up to two years - CEPI",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQWtwakhoUGFvNUFLc2ZxTEFvYjZueS1HeXlYczhzTFpZdkZ0VGpFcXFtMWp3WVFhTFJWQjlnQ2hLT0RxSDFScjY2LVVmbk54UFZVU3hnaEpnVGw3SUZoTzZpNTdVNDdFbFBIWG1Kbk1vMzMyUG9mWEtOQVZYTHBPQzBuR3dWUHJtZWFMdGVvRURLTTB0LUhZ?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "description": "Smaller COVID-19 vaccine booster doses match full-dose protection for up to two years CEPI",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Timing of Initiating JAK Inhibitor May Affect but Not Prevent Zoster Vaccine Response in Rheumatoid Arthritis - Medscape",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWWZoZFZMMjdKLWVYd1ZXdVhZTzJYTVdtTm5FWXVhNlFoV0ZnaXZJdFZDeWIzVDQ2Zm9mdFFWVk40bnNuMTFCdzk0cGhFc1A0R0VkTkpYbVk5eFhHazRsX2xYcllJSzBhTmZ0Znd1enUtOU1XVTBGaHlhV0tCUkxiVEZYSzl2akUzejhKX2RxTDFLcEwtN0VDQ2pjaV9OSTI5aHhsbjZPOA?oc=5",
       "pubDate": "Tue, 21 Jul 2026 04:32:29 GMT",
@@ -1099,19 +1078,6 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ua1p4eGpKYWJEWUJBUVNZQVdvSDFQWE5hVjl0WS14SndTbnhRV3VkZkd2ZFJWSk9WMFVSSDhUeVlwd0x1QkVoTGg5Z0NtanJqUERsaGtXU0Vab1pLWGpGWnhTRQ?oc=5",
       "pubDate": "Mon, 20 Jul 2026 23:51:57 GMT",
       "description": "Delaware reports measles case, public recommended to check vaccination status WHYY",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Ga. vaccination rates fall below level needed to stop measles spread - WRDW",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZzVsSDljQ1ZXdzZPcEZNOGw2clJFc0NMd0tPZE9QeE12SUg1NjBRTWtOdWd2ZFBUWGRrZ0VRYTNnUDZCZEZhNjkwZUxvblFYbEphaHNMZjl4d3o3U0M1U0FtTHVKbi1wY2NPLS1SSEJDU1ZFQXNtR3hmTFFybjF0UmhsVEZ0LVZrMHNBbmxZZ0hRUmtnWklvMkZnLXNHd9IBsgFBVV95cUxQeDhBYldrSEtQa1VfR1BTX2hBRnIyWjNmSHZqUk9sMkRsdGxDVnVudWRsejVRbHNvTnVUSXdFMWxtRFB1V3pxNk1GblhsZWRfY1VfX2RVcFlzSW91TXhCYWNOVXdYZGtXMzFrSGhQSVlJZnFLS0JFUHYwZUdlUzEyTFRlenZLV0owRXUwQ1VPLTNDVVRETVFnNE5STGtjcmJ1U3JXS01yRzJxOW9tSXQxWkdB?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 22:13:00 GMT",
-      "description": "Ga. vaccination rates fall below level needed to stop measles spread WRDW",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
