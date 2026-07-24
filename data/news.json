@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-24T08:11:27.793Z",
-  "itemCount": 86,
+  "updatedAt": "2026-07-24T09:12:23.517Z",
+  "itemCount": 85,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 9
+      "count": 10
     },
     {
       "key": "flu",
@@ -20,7 +20,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 14
+      "count": 12
     },
     {
       "key": "polio",
@@ -38,11 +38,6 @@
       "count": 1
     },
     {
-      "key": "shingles",
-      "label": "Shingles",
-      "count": 1
-    },
-    {
       "key": "rabies",
       "label": "Rabies",
       "count": 1
@@ -55,10 +50,36 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 51
+      "count": 52
     }
   ],
   "items": [
+    {
+      "title": "A Pancreatic Cancer Vaccine Shows Promise Following Trial Study - News Radio 1200 WOAI",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZTJFUzM2TURXWnhkbXR0UmZLU0F5Mkw4V2pyckhrdFBLRVlvM2c3MC1SaGNiTjFrd042RjRGTnV0SVBTUENfSnVOS3QxcTYxVEEweEg2Y29jU0d4ZC13WUhzYUtVVDFOcHZBVEV6dGVpOEktZlpfS09nMWJrNFhtZTU1Z0pTanMtMDFQbHR4aTk5SGdQVDhMZEI4S1VLUG9oRXduUWxHdW1FeFZjNFB2bDVjcVI4aG1qQVY2QmZDakpfV2pKX0d4V0l5cmRDdVZiVGJyYkIyZw?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 08:30:00 GMT",
+      "description": "A Pancreatic Cancer Vaccine Shows Promise Following Trial Study News Radio 1200 WOAI",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Edwards: Mass. has high vax rate — keep religious exemption - Boston Herald",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORkZSV0FkRmtoQmRzQmNNcThrazBuNTBxRTV5THhTYks0cXJhWlRWWV85T0NVbDZCMmlZNG0xRVJVRkNyOVhVVzBBTFY1Z1dlS05SaDNsaGtfd1gwZVNEbnBiZGR3QUV0N1Y5Qm1BWGdjNkxPcWdaUFNReDZqX0F1bVpXdU1iZTdmd3JibUFOdF9fTzFUZWdnWHZPTVk?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 07:42:18 GMT",
+      "description": "Edwards: Mass. has high vax rate — keep religious exemption Boston Herald",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "EuBiologics secures FDA registration for EcML vaccine adjuvant - The Korea Herald",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NajBLRWEtbHBPQ3VTOFJ2SU4ySHg4WV9mNVZJaHNjWkI3VFYzRW1iWkxlczM0RWdZMElyYVFYRFo2eEtrVk9fcXFPSTk3T0d1OFFIYWRjRQ?oc=5",
@@ -84,6 +105,19 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
+    },
+    {
+      "title": "GC Biopharma files phase 2 IND for Covid-19 mRNA vaccine candidate - koreabiomed.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmSjNIUjFIbW9HamVmZEw2MnhpejF5OVZDRG1uT2NseU1aaVMtWEVqTUQzMUp6d00yTWlRVTFPbXY3QUhwSnA2RkVCc3g0Q2VVVnUycHo4Q0VpVWNlQWZhZTZ2Njk0V1U1OFR1a3Rn0gFyQVVfeXFMTThDYWlhdnktTFJRY3BvMGViVnotVXFsME54VzdhQ2wwY25CTU02NUM0ak1fbG04MlJiakNXVVZva2h5NlhyaWdDQ0wwZTVPVXpmdnMyRDFWMi1iOUdYUjF6T3JhQlVTYnE5WGVIMDVJY0Fn?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 06:14:02 GMT",
+      "description": "GC Biopharma files phase 2 IND for Covid-19 mRNA vaccine candidate koreabiomed.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Larry David Appears to Mock RFK Jr.’s Anti-Vaccine Views in New HBO Series - Yahoo",
@@ -320,36 +354,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Alabama confirms measles case in resident working outside state, urges vaccination - Decatur Daily",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPcFJsQ3BRUWN1d0NHUm1wN1JFOXJvYnFiOXNDWmtuZlJrZ0QtaWZkbW9MT28xekZDdFlFZGtvaVMtRFFzWERfT25hZjg2SS1ENEl2WFZRaGVwZk1NeFk5UHR1SnllRWpzLWR1NUtoLW44R3ZYcVNzOVBlYWJ4OXdfek9NekpGSUdlRDQ4VVdDLTE2bTZPbFZTNWc0NnNiU242VUZNOHdqMGYwRVQ5V0dkNDNMLXBqdUlLNWl6eGFPcVNYTEE4N1ZONmJzclZBQXQwX2tSQWE1SDRvbTY1Wlp1U09wS1NoZF8ycEMyQ2FkeXRZYmV2SDZIMnpyamp0YWt1N0U2bmR1TGxkeTY0SE4w?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 19:10:00 GMT",
-      "description": "Alabama confirms measles case in resident working outside state, urges vaccination Decatur Daily",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "HHS Changes Two Vaccine Committee Charters - MedPage Today",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03M1ZQNG8wbzNyWkNjNjhIRzBaSnhZalZUTU9vT2p1NVgwZmVUTVZpamNxM0dRU3NZYmYtaF9kTGgzZlRDT090aTBJcFplR1pGaXJhal9XYnp1YXNaOUE4U1ZQQm10cHNndS1tQVc2X0xtU3MycE43WA?oc=5",
       "pubDate": "Thu, 23 Jul 2026 19:06:08 GMT",
       "description": "HHS Changes Two Vaccine Committee Charters MedPage Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "New Cattle Vaccine Targets Dangerous Tick-Borne Parasite - Tomorrow's World Today",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORFpoM3JoLURRYXlYaFBUUHpyNlRfNUpjX250QW93QUdCMU9DNjkyX0J4cFh1X3J0OUdYSzVlcU44SC10OEQ4dVhaSnYxaGlDZVZUejNkVWdJV0I4djN3SHVPb2VsRW5zb3BQUVY4MW5SNW5VMjA0ZUl3OWJoSkZBcC1NeDFBYlNHM0hObVFfRHpRWUVNaEhMOXpxd3dpWDNLbDM2NjVjRjh1M2RkYW1VajBxanU?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 18:52:29 GMT",
-      "description": "New Cattle Vaccine Targets Dangerous Tick-Borne Parasite Tomorrow's World Today",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -385,19 +393,6 @@
       "articleLabel": "Opinion"
     },
     {
-      "title": "Alabama Department of Public Health: Out-of-state Alabamian's measles diagnosis a reminder of vaccine's importance - WVUA 23",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVzZUM0NYUVV0ZDRHNThSUHZmdkdCVjg3ZThKUldfaXl2c2RMM0NILTVxeGhYUjFFclhza3dfR3FZVHdHSG1vV3N0MW1ldE9QWXZJU3kzaWgwT3MzcTlfR1o4WkJzSjhOWXA3eFdzdjZYVlp6Z19EeUFTUFJKQXhsNlQ4aUdCTmlVckVzenZNSkZIQ3o3Mng0cVZ1WXUwSzF3b1diMmlEVzZBZnltTmEtY2lTNnl3REVCaE83VTNRSnFOeHVCUk5QRm4yWElWdGlFMWl3STNMbHlBU0RzQVdKTDV5UkZIZl90Y0RTQmx6cy1fZ2hzY3JSZ3F3SjRoSWNJZHZETUpyUTJ4dw?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 18:20:00 GMT",
-      "description": "Alabama Department of Public Health: Out-of-state Alabamian's measles diagnosis a reminder of vaccine's importance WVUA 23",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Joliet Township High School District 204 - Joliet Township High School",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNXy1CUWVMRFNhQjdlRjVuWGtGY2tVRjREdHd3azQ5ajRLVDlTR09WNHdtVU0yRjlJZE9WM0FLcW9KWWJzUUFTVHNYb2hQMVA0eU53cllIdjBDSE5pNHdqM1hEOW01b3FtTTdvWHZheG9KWDctMUh1MXFfWmdkMmxBcUIyYW1wbllHRWRCbTByanZnQ3lzWTY4REM2VGdzSm9MMmJQRlBSZGtxZ192U2phM3pQNmtDekJkR09nY0RqVUFub1NxbWVHVXBzS2NIUjlnUlZSRkFKN0tLTGtseVF4d015X1o2bGd3bHlLS25lNTFMLUQ3eTBVWldn?oc=5",
       "pubDate": "Thu, 23 Jul 2026 17:55:00 GMT",
@@ -422,32 +417,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "Avian flu control: South Africa explores collaborative approach - WATTPoultry.com",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPamFlZUtSSm5pMzEwMGQxYTFVaWl3aDZQeDFoZExSOFFkdWlDVnpZNnFPOS0tX0U3YzVfeU9TaWxZV3RIWXdzNWItaVpKZzZKSnAteU5KdTZxbkhDMGdHRU5sdVp2MjA1MVFqYTFhXzRwZDl0VGt1VEJreTllNklQNGVHRFN2OTg5ZXZJNU9kVnYwQ005LWpYLXpWX0ZHQXlzU0gzYmhuZ1JpOG9rQ0Jod3dvNXNIcTFmQXRZSGRrNFZGMTlzQzBxa2VaQ0R1TDBoS0l5X1pPUnExQmVraVZMWA?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 17:09:46 GMT",
-      "description": "Avian flu control: South Africa explores collaborative approach WATTPoultry.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Delaware declares measles outbreak after cases rise to fo - Delaware LIVE News",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOVRrTTlRdW5iTThPQ25QZzZtRHVxWWdrQkJFREVJN2FtWUFYaDYwaHFibWtTcHZDZGREUkl0cV9fX3poM3c5WEhCOTYxQzdNU3JwLXNJc1lXUG5IVFgzeUc2VTM4b0wtYTRPV3ZTcEticnJrQTJFWldpWFdRTTVDRmQ5ZG9hOVQxQVFz?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 16:41:25 GMT",
-      "description": "Delaware declares measles outbreak after cases rise to fo Delaware LIVE News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "US Measles Cases in 2026 Have Already Surpassed Last Year’s Total - Truthout",
@@ -1048,6 +1017,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Will vaccine boosters be necessary as measles spreads nationwide? - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbzZEZkZrcnhLREw5YjE3c0huR01TblFJUXlZeVpzZEZqRWltUEE0c0EwWmtEaGhheUNHbkFaZVhjbUlueUZTWGVuSVNLRGhYVjVfbW05RzdpUHR0ZnRSZFlQVDdBQldoMVIwcFVqTERQYUhQYkZnNGo3YTE5TUh2VGlZTE9wdC1FbmdOM2VpcXVuSHBQSWZ1UUFpd3dTVXl5cG54UU82MNIBrAFBVV95cUxNbGY4enhQYkJXczE2X1V1NHVJNGdoRVBOV2RkYjFjRTVJekZIdk5LLXk5R09uTkNjRHB4S3dCMUZ6d3BHNG43VFBwVzRRZ0VoNEFRb0NpcjEzdHRRcmw4eFYyNUxJSjFIdVRGbkFIT3BTM0d0c2lDSm1hN2tuTjBxTy1KNHhoNWF5VjgzUlc1RzF1bXZOeURGLUhUS3RjOTkzRlhRODZvR2YxSW5j?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 14:37:24 GMT",
+      "description": "Will vaccine boosters be necessary as measles spreads nationwide? The Mercury News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "An experimental oral vaccine may prevent invasive bacterial diarrhea - Science News",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hV3BCNWxDYVI5bmZpVVJCRWpqTkhNZE1uMTBiaHcyZGFQeEc5N1huZHJmdkp5WDhrX2c2MjF0RkZUcVJ1eGVZZ3h1MmNJN05TY1c0djBTVGtvQzVrSFRKQjdzU0tVWHlnbHcxMjlyLWcxM2xGMnc?oc=5",
       "pubDate": "Tue, 21 Jul 2026 14:30:00 GMT",
@@ -1072,6 +1054,19 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
+    },
+    {
+      "title": "One crucial detail about anti-vaccine bills revealed in new study - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTmY0TUtQNThOMTZmejJTNDV3eEJudzNub1VXQkkwTExFTjVnVmtjYVNNN09aa0xfc3Qtcl9vZU1DVHA1SG1jRWc1Nk82T1BCMFNXSjRXOHR2SEFGLTF0U3EwajNLU0dNU1o5NDVSVDJOY3lpUlJ1eXZ2QTAyNEhHa3Q1SWE5RkpBRmlRWVdVdjFTbmdrTHlDSmJPYjJLZw?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 10:50:00 GMT",
+      "description": "One crucial detail about anti-vaccine bills revealed in new study Newsweek",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
     },
     {
       "title": "Lawsuit over COVID vaccine policy at Idaho National Lab leads to $5M settlement - Idaho Statesman",
@@ -1135,19 +1130,6 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Timing of Initiating JAK Inhibitor May Affect but Not Prevent Zoster Vaccine Response in Rheumatoid Arthritis - Medscape",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWWZoZFZMMjdKLWVYd1ZXdVhZTzJYTVdtTm5FWXVhNlFoV0ZnaXZJdFZDeWIzVDQ2Zm9mdFFWVk40bnNuMTFCdzk0cGhFc1A0R0VkTkpYbVk5eFhHazRsX2xYcllJSzBhTmZ0Znd1enUtOU1XVTBGaHlhV0tCUkxiVEZYSzl2akUzejhKX2RxTDFLcEwtN0VDQ2pjaV9OSTI5aHhsbjZPOA?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 04:32:29 GMT",
-      "description": "Timing of Initiating JAK Inhibitor May Affect but Not Prevent Zoster Vaccine Response in Rheumatoid Arthritis Medscape",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "shingles",
-      "vaccineLabel": "Shingles",
       "articleType": "news",
       "articleLabel": "News"
     },
