@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-24T15:04:07.020Z",
-  "itemCount": 87,
+  "updatedAt": "2026-07-24T15:54:48.441Z",
+  "itemCount": 76,
   "groups": [
     {
       "key": "covid",
@@ -10,7 +10,7 @@
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 3
+      "count": 2
     },
     {
       "key": "rsv",
@@ -20,7 +20,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 11
+      "count": 10
     },
     {
       "key": "polio",
@@ -30,40 +30,139 @@
     {
       "key": "hepatitis",
       "label": "Hepatitis",
-      "count": 2
+      "count": 1
     },
     {
       "key": "shingles",
       "label": "Shingles",
-      "count": 2
+      "count": 3
     },
     {
       "key": "rabies",
       "label": "Rabies",
-      "count": 1
-    },
-    {
-      "key": "dengue",
-      "label": "Dengue",
-      "count": 1
+      "count": 2
     },
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 58
+      "count": 49
     }
   ],
   "items": [
     {
+      "title": "CDC has announced record measles numbers. See how bad cases have been. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdWJUXzlWMWlXb3VsVlNNVklnZGRVTFhpVjMydlE4Q25zMlFJUmJWVkZubzV4N0o4Z3VhQVk4VDdGTzZ6YXptYXY3Zl8ya2pfNEFIdU02NFZHM3VJTDQtVW1JVDVsVmxVUnZ5VzNaV2k0V3UzdU4xS2J0Zm0wNzZ0eVJ0bmZtQ3U5NFNtM053QkpQZl9EbDhOZ3Y4UV9EbWtIM0xNVDJSa0cyNzAwXzVyZ1Q3NzUyMVBjV1E?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 15:52:41 GMT",
+      "description": "CDC has announced record measles numbers. See how bad cases have been. The Washington Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "S.C. kids need these vaccinations before starting school - WRDW",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWVBlbjNJSV90ZzZrc3pwUi1zejNFU2RBcnNxV0lKV3Jvd3ZKQjF2OWpjR3hncUJuQWlsMHNkWUJmaTZRckkwSnRqcktocXRhWV9wV0VSTlFzb3lKajhyUkRObDQzWlo3aDlXSU9xeGgtUU5ic29EbVBrOXRpZW9lZnY4d2thTlVKUjlOX0ZPRU3SAaQBQVVfeXFMTUhMMi0zTHBPMmZxVmZUNjJHeUpXMzJSUGlLYmNESmxlaG04RmstbXcxdkRPZ2xhbWpCVjFCalNTRnhYUkY1dmhzZHpVdUd0cVFRYWxVMjdCeWlRcVNYSXAzMV9mMTBkdjVVXzAyTlFpRUJPWlY1NDRiR3dpOUhUNjg5NmY3aUNndnVXVkFVX01JSUlTS1lsbG1UOG1LRVNkR2VTcC0?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 15:33:00 GMT",
+      "description": "S.C. kids need these vaccinations before starting school WRDW",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "As measles cases reach record highs, see your school’s vaccine rates - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMmJzQUNYUjZuTFFTWDhRSENIdmRmZTA0dzlHTjZkbktmUnRvN0FpdTFZYkF6WG9raEluSUZxdldSNTRlRC1ld1FZSlA5ZjhGRWdwZ1JVUF90UTljd0g0TTJMYmJUWHJtNWtDc3RPMmdlTWthc2dBUWZuOEhneWVGZW5ERy1HVGUwUXdSMjNjMjF6S1BBODFtT1dhek9MbVFzU1kwMm1rdzhIRV9jMmF0UnpxYw?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 15:02:36 GMT",
+      "pubDate": "Fri, 24 Jul 2026 15:30:29 GMT",
       "description": "As measles cases reach record highs, see your school’s vaccine rates The Washington Post",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "There are already more US measles cases this year than in all of 2025 - Boston Herald",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CTjV0LXFBTHNaNkxDMWw0d0JVYzVPNG9ENGR5Tl96V29JUFJxR3NNckxrUkxqcV9Yc19oQkhyMGtxYURseUdrYnI0NTJBazd1al9fb09iU1NVMXc2QmF2ZGNoY2ItY05qRG4yMlcxeVJ4UQ?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 15:23:14 GMT",
+      "description": "There are already more US measles cases this year than in all of 2025 Boston Herald",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "National Rabies Vaccine Bait Drop in Oswego County July 31 - Oswego County Today",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNekpsLVQ1WXFxcmdoYUg2V1RmNlVPMFQ4eWZ0NHBnWmprWEhCdEdSR004S2c4S2N6Q0RkY3UxNTdNb2dZMHF5Vm1UMzBXUUt6OWFIUjVCeFFpdURiNkluOVBMRnJjckhGWW43VTlZcnRMTnhQVm01RjBBUUNzOUpSWHNqU09RYVZZcWRQMWppa2ZaWUFUS1B1QnF3?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 15:22:13 GMT",
+      "description": "National Rabies Vaccine Bait Drop in Oswego County July 31 Oswego County Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "rabies",
+      "vaccineLabel": "Rabies",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Vaccine clinic - WV News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQejZodEw4UW1NLWxIUjBXN3Q4eHF1Y2ZhTGRxZ2lkendUV21aUVVsY1VySmpqZGNBMTMyUjJrS3NoeGlxYXpycXc0bUNranZ0VzhrOFN6ZWxuMWFHNTluUU5MQVJVZkYzZVNLS2JCN0V1ejJhQm5GRVZZTGpOQXJYUWd2VUk3U2VsV0wyYTBn?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 15:22:00 GMT",
+      "description": "Vaccine clinic WV News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Helping with vaccine distribution - WV News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdUx0ejBKN05WaW0xc2hHQ3JWSlFMYmxhbjBBcVhJSXpURXZSZk02N21fR1ZqbXI1eGY4Y214T3ZPUGFwYTM1LUYwUzJxMGJ3WW5XZ1BjMFNWbmdwZERCRWlMdUIwV1RoXy1YM19mTHFLMXh0NVNibGZlX0l4WWF5bUk3V04xTGxTOEJ4QWVkZ0E5dXFsOVpBeWhUTTliYjRpZTI5RWlzVQ?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 15:20:00 GMT",
+      "description": "Helping with vaccine distribution WV News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "First person vaccinated – in UK – in Ebola jab trial amid DRC outbreak - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU1dGMVFsQjdvOVoxZFJkWmNQZ1NuLVdJWHZCOFA5d1ViaXpWQ0VXdlg2dzIzTFFoVmZJZEJTMnZQS2lFNzI5WlZZX2tLaVhvQTk0dktQcUdQSF9BWkVDX245YWRRM01Xc0FLem5IVE5XUDRQWmxJZUMxTU9KNjZ3VzRhVzZXbHdDRzlPYVVfQWlWb21mTFNPUVI2ZHRTREpqWFhobzBUSVQxZ3PSAasBQVVfeXFMTlFBd2xsQ0dtR2RQTXRPLXgtZjk1OUE4UFhuM0Mzay0zWjFPclVFNldKa3g2eUFQWldhVFZJd3ZDX0pTZk1mVkJ3bGN6SWVCNEVqdUNScW1OM0lYcU84VkpvYlpfSGVTNlVpT3Vvc1JrS1hYSDhFaE1CcmMyakpxOTVveV93ME50LTUySk1XamM3MzJERF8yOFZYYjc4cnhldkxpcnlkWWJLcHJB?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 15:16:40 GMT",
+      "description": "First person vaccinated – in UK – in Ebola jab trial amid DRC outbreak South China Morning Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Most Americans Unaware of CDC's Pregnancy Vaccine Recommendations - Drug Topics",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZVlGSUxCcVJwMldmMlNuSjVLbU4xY2lRTE9ENmtjTGt1UVU1NDI4cVpQV1dmY2dHMG43TlBYTzY5TUtaRnhBbnlxOUhhbHNmQzRPc05qYnNKeE1GeU00eldkWHczYjZFSWpPS1FFR1MtX1J2WHR6MGxON1R2SnNPdm9iN0d6S2RvLXp6eThJUWliVmJiZHFUSGxuRk9ZQQ?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 15:05:30 GMT",
+      "description": "Most Americans Unaware of CDC's Pregnancy Vaccine Recommendations Drug Topics",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -77,6 +176,19 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Experimental plague vaccine strategy protects mice with missing key immune defenses - Medical Xpress",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON2NTVGI0WUJYSlNFVm9ZbVZKblFWUTlSb3BVTzdsb0xhbmFRU1NKbGw4V2NHVmNQUXVGc3VubkN6LVJZU3pqOHA0ZkhUcDlqb2NNbXBYZXM1Xy0xM2xmTzdJdWE1U0V4dEd3YUc2YUZYUHdQVlY4Y3M5RkQxemlPdVdpQUh4OGdUUGpoTVFB?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 15:00:11 GMT",
+      "description": "Experimental plague vaccine strategy protects mice with missing key immune defenses Medical Xpress",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -120,10 +232,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "First person gets new experimental vaccine for Ebola - Yahoo News New Zealand",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ0d0QndpUGdtT1hGUHl5MXBoVGUydzdFaU5OOTRYMndmNUVSaVRFNkxSeHB1bjN5SE5qc2R6SjAweDk0T2hIM2FuM0ZLUDhyS2hjSU9SZzFlRkRrZkR2UXhqMjRMWnlLQzRKRXhSbGswaDk0RlVXcGJYZ2dVR09VdjV6WmRjZw?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 14:43:55 GMT",
-      "description": "First person gets new experimental vaccine for Ebola Yahoo News New Zealand",
+      "title": "First person gets new experimental vaccine for Bundibugyo species of Ebola - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGdGw5eG1BUE5yZUZLQXNmcGp3NGZISTNVbmFSNE5YZlR2X1hyTkNCakpZMHgzQjFDT3B6blNIeE1iWmlXb1pvYXF6d0YzenoyV2FhQ25weVRJdw?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 14:43:51 GMT",
+      "description": "First person gets new experimental vaccine for Bundibugyo species of Ebola BBC",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -133,10 +245,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "First person gets new experimental vaccine for Bundibugyo species of Ebola - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGdGw5eG1BUE5yZUZLQXNmcGp3NGZISTNVbmFSNE5YZlR2X1hyTkNCakpZMHgzQjFDT3B6blNIeE1iWmlXb1pvYXF6d0YzenoyV2FhQ25weVRJdw?oc=5",
+      "title": "First person gets new experimental vaccine for Ebola - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QOENVVVRLdzZfLXY5TlI2TnhicUdwb0ZoNUN1S0pxZGtIUHluVGRUWXJrNDNZMWVmQ0xTY2ZYbDBJSFdLdVJCTmtVOEVUMTNjS1IzUkRTajFuV0RP?oc=5",
       "pubDate": "Fri, 24 Jul 2026 14:43:51 GMT",
-      "description": "First person gets new experimental vaccine for Bundibugyo species of Ebola BBC",
+      "description": "First person gets new experimental vaccine for Ebola BBC",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -159,15 +271,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "Wash. council approves another $200K to fight firefighters’ COVID vaccination lawsuit - FireRescue1",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRTk1aGwtWmZ5OFUzZkZsaHRWQzFRSFctTnc2WnFuYWVFc3NqRFFGNTRON0VBY2Jycll1YjZncF9HbkhiQXE3dUxPVmxHUHVaS2h2T3laQVNraFYzMDltRnJrTmtQQVU5TmRFYmtoUlg2Q1liT3FJSjlfc0tpS1NnYjdoNVZISWlXVkNnR25iN1RqeV93b2Y2YWFETDgtMHlXQ2FLMFFydWFOcEV1a3VfdjU1REdPTWM?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 14:33:42 GMT",
-      "description": "Wash. council approves another $200K to fight firefighters’ COVID vaccination lawsuit FireRescue1",
+      "title": "AL Health Officials Confirm First Measles Case Of 2026, Stress Importance Of Vaccine - Patch",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU3RTaDZQdEZyVFV1MDBrNkNXSXMyWmhnVmJSa1kwV0drQ3d1LWs2X2xyMlJGN19oUkYzVWYyLUdZeWxJUU84dXpucU04VFNac19sWHhHZS1Sb3JyMmQ1OUsxcWc0SWxBcDdLNmczTUhGbmhxT0pHVmtyRDN3RFB5emRKaWFPM1pzMTYycHJHNFpXMF82OW1WTm00TkpIbzJaekxpVnFKSGxFNV84RVNCQ1dTSdIBzAFBVV95cUxOQWNJcGZHU1EtYndUU3RvV3M3WTFicTJrSUNhdFVhZmNIVk04d09DOGRwazM4bGx0RTRBWDNibDB4NGZhcllsTURueXozUjUxeE1LWjFTX0NoWHpqemU2d2ZDY2JpOEQ5cHI0cEJmeS1XNTBkNkJqaWVfMlpTMXVRSHlVTEZoVXE1N1B6NEVid3h1UlBITWpfSXUzOC1LbDVmV0Y2Q3RNdnJnLTFMWjlrN0xveVlFRXU4bWgtbDN2ZVRNOHJTMzhLWHFvNG8?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 14:30:40 GMT",
+      "description": "AL Health Officials Confirm First Measles Case Of 2026, Stress Importance Of Vaccine Patch",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -198,10 +310,49 @@
       "articleLabel": "News"
     },
     {
+      "title": "Israel looking to purchase experimental Oxford COVID vaccine - JNS.org",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQWRuWUJSbzVNSTB1eXB2djVxd1MwaV8yNEFaT19aSUVEaF9zMU8wa1hVRXRyV00yMG5iNkhOS3RzbHktZ0N2WEh3dXEtSFp1RnZyWVZndWd2NmgwTU5tMlV0dW5TdnczTmNQX1daamNkejNJS3gzdzJfWFhWUGhSYW52cXFkRGV6ZjREaHF3?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 13:42:41 GMT",
+      "description": "Israel looking to purchase experimental Oxford COVID vaccine JNS.org",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "US biotech firm: Human trials for COVID-19 vaccine could be held in Israel - JNS.org",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYV9wSDJzSl91cGNxYlBLS0stUzVvajhmZVhob1JaNUVGLWZaTERueVRuVkVjNjVnSF9kUUFNUTJIc1d0UW03b1JGSEt2VHQ0dHE3VDI1VFVva0pRR3JfMGpkUzJVZXluVGdlMDhIdW9vc3JkYUlrc1pDS3JSbUN0U1FfR1ViVjlIQjIxdTRmS2ZYc1Q3b2pZYkNDZGxwclBJ?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 13:42:33 GMT",
+      "description": "US biotech firm: Human trials for COVID-19 vaccine could be held in Israel JNS.org",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Most Americans unsure which vaccines are recommended during pregnancy - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZC1teS1Pajl4d1B6QVhodVRNZkNpcG9UUWFSVnUtaktEMjYxN2pBZ24yUzZHRWpxZklZTjlRUUVTSHZOWng1S3RXRE9kTEsxejh6aUFCbXFLT2c4cXRSbE1YaUhHV3Z1RE1iUjMxQ2N4NVh0R1BWNWdMN0FKMXVhcWdDaVNrODNBMThnTlczU3VvUThETWh5V3l6R2J0YVJNRGxFWjJuaUFCRXRNcnMw?oc=5",
       "pubDate": "Fri, 24 Jul 2026 13:39:45 GMT",
       "description": "Most Americans unsure which vaccines are recommended during pregnancy CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "FLOOD RELIEF: Free vaccine clinic, supply distribution and donation calls underway for flood-impacted West Virginia residents - WV News",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPZ09OYnZqaVFFTUFfOTlsRTg1VXhDV3BNUFN6TTZUNEtZUWNkcEtQc1FtR1lsZVhFOUlWMXFOZVBVdU9rX1djeVg0VDh6dWpmMU43cDBBaU5PbXZLRkFvcExzbERCZTRqRnQ5Ry1KWi1TX2w3Uk9nM2xvNlBSWTJpMzRNTGFkMEZtYXRtQ0dyME9hTDdaOGdzeUtpWWMwTEFYWVY3cHJlVk5wa0JxVmN3OUIycXFTM19oS0c2X3A0OVRFNHhjLUIxRU9KdlhiWkZXQmI2ckwzT3BYUUR3aWl6bnY2clhnd3Z0ckxyaEdGRUdjdURzM2tRVi1XRjZpUXMzTm5hQnBUZktqSmlScnJiWEFBQXJTeEM5?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 13:21:00 GMT",
+      "description": "FLOOD RELIEF: Free vaccine clinic, supply distribution and donation calls underway for flood-impacted West Virginia residents WV News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -250,19 +401,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "UPDATE ... Flooding aftermath: Free vaccine clinic, supply distribution and donation calls underway for flood-impacted West Virginia residents - WV News",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNMU0tTUh6Y29rZ3hxYjlFa0RUcENsakdRTkg2ZEptdUV5UTROdUJ6ODhTS1dtLVE3ZU1DWVVocTV2Q2RBMi12NDZua1pCTDdiQWk5NHhfdmJlOGlmd2VuR2ZRSWpNNmZGNG4wNVJiYkppU2w4MU9oTnZKZ3poNzlDbzZjY3NMRy03dGRhem9HM2d6aV9kWFVXNmtOZEdub0NBRHBrdmtybmFOSXEwMlVIZnBCTERaNVJJenlSX1B0SUZNa2twQWo3RlEtS2hjOThkMVNiNjEzak4zMThTZlpqemxwVHBPb0thQjkyV3N0dzJxRjA3NExqMWQzeVRpT0NRT1o1ZHVuT0UxMXZoN1FERG1ESjlUcG5Hbk1kbUpNdE1TRmM?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 11:51:00 GMT",
-      "description": "UPDATE ... Flooding aftermath: Free vaccine clinic, supply distribution and donation calls underway for flood-impacted West Virginia residents WV News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "GSK's Shingrix (Recombinant Zoster Vaccine) prefilled syringe presentation approved in Canada - Yahoo! Finance Canada",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMC1HelVBQmdLOTlPOW5IamMzdHpreHZYRmw4SnBTdGpCRHZUS1g2Q2Z5SXY0NGJnLWdWWTdoY05WYXFHX0pESUN5SXFWamhPYlFjTzlJVzZRN0hOV01reU1xVGlJdnZmSUp2dUFrVF92d1dDenBMSnpXNHlDa1FuRVlraGxMX3Y2U3ZBS0VVNUJZSkk?oc=5",
       "pubDate": "Fri, 24 Jul 2026 10:50:00 GMT",
@@ -280,6 +418,19 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeHVSRXFBMHR5ZFhCajNQLUpySFNhWkRhYVc5OTJFcFdWcHJDZklsSXlBT2NKcjQzV0lvbGozMnlEQnZmemhNSjlFZm53YnZCQzRCRTg3V1FXZW5yTkd6dlk5Wnk3b2x5aTBFZ0ZiaFdWc01mM18tUkJ5dU5jQ2d6NmxVOE5PTUpac3M3UFR3YmlkQXFUTHc?oc=5",
       "pubDate": "Fri, 24 Jul 2026 10:50:00 GMT",
       "description": "GSK's Shingrix (Recombinant Zoster Vaccine) prefilled syringe presentation approved in Canada Financial Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "shingles",
+      "vaccineLabel": "Shingles",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "GSK's Shingrix (Recombinant Zoster Vaccine) prefilled syringe presentation approved in Canada - PR Newswire Canada",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObV91SWREeWU5YXV3M0xSWGhBYXpVU1BLQjl4b2xSU1h5eUlfT052R0wwX2NsRlVfV1AxUHhyQmtuT0cydFV3ekV6cGUzVE9pQzhRTmlFa3I5YnRvOUl0TkFRaVJxR3lNbS1pS2h4YmZrVThKaVMtaFZPaDJrNVBIUU1LeDJCRms5RXo0UDhILXBPc1lMd2tOdENMcmZkNkxNOFpzYWdadTNnaG5kblVaemZsb2pMeHh3YkFneS1uM3RET3dxMmdKUi1EWFZXSW56N08tamdRVmdnUW02?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 10:50:00 GMT",
+      "description": "GSK's Shingrix (Recombinant Zoster Vaccine) prefilled syringe presentation approved in Canada PR Newswire Canada",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -341,10 +492,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "A Pancreatic Cancer Vaccine Shows Promise Following Trial Study - News Radio 1200 WOAI",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZTJFUzM2TURXWnhkbXR0UmZLU0F5Mkw4V2pyckhrdFBLRVlvM2c3MC1SaGNiTjFrd042RjRGTnV0SVBTUENfSnVOS3QxcTYxVEEweEg2Y29jU0d4ZC13WUhzYUtVVDFOcHZBVEV6dGVpOEktZlpfS09nMWJrNFhtZTU1Z0pTanMtMDFQbHR4aTk5SGdQVDhMZEI4S1VLUG9oRXduUWxHdW1FeFZjNFB2bDVjcVI4aG1qQVY2QmZDakpfV2pKX0d4V0l5cmRDdVZiVGJyYkIyZw?oc=5",
+      "title": "A Pancreatic Cancer Vaccine Shows Promise Following Trial Study - NewsRadio 740 KTRH",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMlI0a2JWTGQ2TW5PS1lzSXRhdGhiY1B3V0pJMFRzQS1Lcnc5bVBmOUZManJIb3VodE5mc1NLeXRRcDNWbGkyNlRHMXB5SlVDTk4walQ0Nm95LU5wdVRrMUh2aS1zSXhOYkIta3lTNEhnb09sYVhvTWtyNzZNdFpwVFJqRklFa19WdW9UdHo2UGtEVTNKNVVLQzEwM1lMUVhoeGlZbllDcDNhMC03WUR4ZC16b2VHYnlWTFRLZHFpZWpRUDJVVU5BMjJ2cDRIczhD0gGzAUFVX3lxTFBibnpEVzh1bFhCMldTUWhGTFh5RkRVMlJxMG9sZjM1TzNsVnk0SmpiREdSU1VEWkxsMGJXS0VTZ0d5UERKSllSdnpjbFBLX2o2a2lNZWR3MkxsaFZxc1BpeHhGRmVOSktITzBka2lHYU16UXRBZHZRZjlZM2dMeWJzOVNiYURVWkJldWM5dUVway1WQTRjYlVPNnpGRG1ZLUNBYktNRnFtaThsMnB1djRLMzBr?oc=5",
       "pubDate": "Fri, 24 Jul 2026 08:30:00 GMT",
-      "description": "A Pancreatic Cancer Vaccine Shows Promise Following Trial Study News Radio 1200 WOAI",
+      "description": "A Pancreatic Cancer Vaccine Shows Promise Following Trial Study NewsRadio 740 KTRH",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -365,19 +516,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "Edwards: Mass. has high vax rate — keep religious exemption - Boston Herald",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORkZSV0FkRmtoQmRzQmNNcThrazBuNTBxRTV5THhTYks0cXJhWlRWWV85T0NVbDZCMmlZNG0xRVJVRkNyOVhVVzBBTFY1Z1dlS05SaDNsaGtfd1gwZVNEbnBiZGR3QUV0N1Y5Qm1BWGdjNkxPcWdaUFNReDZqX0F1bVpXdU1iZTdmd3JibUFOdF9fTzFUZWdnWHZPTVk?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 07:42:18 GMT",
-      "description": "Edwards: Mass. has high vax rate — keep religious exemption Boston Herald",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "A Healthy School Year Starts with Back-to-School Vaccines - Redheaded Blackbelt",
@@ -471,19 +609,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "SC parents: Here’s what vaccines your child needs before school starts - WMBF",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNXVva2hSQlVLb1AzcFlDX2JIVVBaS1FKd0V2Yk9JLUt3ZTk0bm96VnBRTldJeUgwRGFNdHQ4RkxwUmtmbHk0ZDdUeFlnaHBHdFcyS2ptOEFFVkx0Q24temMzT1JmaGFOYklRaEctSzdKeHdZNG1YZDA4cW45X0R3aDBwYWRiZlBzeTQ3YTR0b0NJb21jNDFPcXNDWlRvYVNpenNsMEFiN0HSAbwBQVVfeXFMTU9tTklSVzVDeEdWYmJwS2ZHdTdOM2tpaW9yTnJXZjgzNkF2RHdkOEw0UlFYZUVnc0JkTHdKdU5NOTlOZWkxbTJGMEFTdDRWNlpMeXgzM2lTYjVvT2ZlZTJ5cmZheVIxcWdiRHgzdC1sYWR1UEdRTEdJNDBzWGJtVmVaMVVadWF5bnY5MFpnUmxvNWx6a2JUSTUxSHNnT3N1eGpHRXlfOGU1QUdIejFjSDA3OGNELXN2ek5sVk4?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 22:54:00 GMT",
-      "description": "SC parents: Here’s what vaccines your child needs before school starts WMBF",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "AstraZeneca immune from Covid-19 vaccine injury lawsuit - Courthouse News",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeDkySldGNnRrVU51cVhDN0k1dEtjY2lESnJuYWdNY3pWclZNVUIwSmlmaTJreGpIcllqSTBaYXNqMDI5WUx3Q1oxZF84dmdzWlMzZWpkSnNEbG5kbjRZWHBLdlByWUx0ekxYUktlVEdmVEM4OGdDVTVHV19aOGtWdlNGUmVmZmIxMHMzN2NhWkw?oc=5",
       "pubDate": "Thu, 23 Jul 2026 22:19:54 GMT",
@@ -523,19 +648,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "AstraZeneca Wins Appeal in Covid Vaccine Injury Liability Case - Bloomberg Law News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUTBURDFib05rOElKY1hhTFR1Y1I2STlVSUJ4ZzQtZDZsampxRThZaFpveGEzN1JSdWVkTW52aDQ0YUM3M3dQdWYtVjAxWXJ5MzNsRWNZWkRjUGJpZ0pfZ01OX2s1ck85YURzaVg3WVJTZ1ZOb1l6OFhYR3ppM3JDZXRnRkpEYlNwNXNhbHMyU2FiZjZLZ200THFvdDdCUVRZ?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 20:10:00 GMT",
-      "description": "AstraZeneca Wins Appeal in Covid Vaccine Injury Liability Case Bloomberg Law News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "A Cancer Vaccine—for Penguins? - Cancer Health",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLZnBwcWFfaG16NUJkV0RGc1VROTA3ZzdwbkJacW45ekpUQmxMRHRiUlluNXVRNWN1VkZfYXh5TG5TQnhVVEhxMGFZQUxJM0RaMTdGQzRiTXdJRlRZby1FNHZPdG9xS183YnNSLTRNME0?oc=5",
       "pubDate": "Thu, 23 Jul 2026 19:59:58 GMT",
@@ -562,19 +674,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Kane County officials say rabies shots given to pets last year may have lost potency, have been recalled - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMVNURGEzN2ZzYkFGQ2l6QVB4bjBYajMyQ1NXSU9ENlhuSzBtS1VzU2s1NVRnOWVYQzNXQUh5ZThyNFItTTdPYlI5cGdxU3pBNW1XXy1vanJoR0p5aFJEaHJudmlQSGxCbXlVbk5kdUl6anc0cERoZDdfWmQ5RlRPTmo5OFVHRURIR0ZoUA?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 19:41:00 GMT",
-      "description": "Kane County officials say rabies shots given to pets last year may have lost potency, have been recalled CBS News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hepatitis",
-      "vaccineLabel": "Hepatitis",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "COVID vaccination during pregnancy didn’t increase poor infant outcomes, data suggest - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbldjV1hWZDZqekZDTUNFWTRtbXdLZ1RRbVVrZUhlUmQ4T2wzbTNuckUzWVJLTHY0U28tWEJyOTQtOEV3NjhUb1NGS0NLaFozQS1tbEZRM2diSjVfLVVLSTlZaklHeXVpalR0a3RBc3lnWlYtWDg3WDJGMkJtWWg1QlQ1NXJ2ck9yVjlNYktiZVQxLUpJMlNIYVZXNG1JeVRNMlktSGdXNmpUX080bmtaX2NKdkM5RFJRbHVYTA?oc=5",
       "pubDate": "Thu, 23 Jul 2026 19:30:00 GMT",
@@ -584,19 +683,6 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "New vaccine trains the body to fight pancreatic cancer before it starts - Earth.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONG1UbVBHaTl0a2Z5T25oN0RmbV9TQ1B4cHdQaWhsUHNaVWluazdTbjJaazg3TDRKQW9ZeHRPbUx6Y2VTeVlTMXdzZUc5dE9WTkFmX1hETXZ3MmJwZ1JoRDFySHYwc01yZWE5d0c3N2dZTnVTS3MxTF84TFc2Q3VKUUkyd2xPT2g4SmtXQ0lnOVRfQTRHME1oVDVRX1hObVlk?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 19:19:50 GMT",
-      "description": "New vaccine trains the body to fight pancreatic cancer before it starts Earth.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -651,19 +737,6 @@
       "vaccineLabel": "Influenza (flu)",
       "articleType": "opinion",
       "articleLabel": "Opinion"
-    },
-    {
-      "title": "Experimental plague vaccine strategy protects mice with missing key immune defenses - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON2NTVGI0WUJYSlNFVm9ZbVZKblFWUTlSb3BVTzdsb0xhbmFRU1NKbGw4V2NHVmNQUXVGc3VubkN6LVJZU3pqOHA0ZkhUcDlqb2NNbXBYZXM1Xy0xM2xmTzdJdWE1U0V4dEd3YUc2YUZYUHdQVlY4Y3M5RkQxemlPdVdpQUh4OGdUUGpoTVFB?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 18:00:26 GMT",
-      "description": "Experimental plague vaccine strategy protects mice with missing key immune defenses Medical Xpress",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "Joliet Township High School District 204 - Joliet Township High School",
@@ -744,19 +817,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Developing an HIV vaccine, one small step at a time - BioWorld News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLWEycGl6TVltZWZNZHc3Y29GaDdnTVVmcmRnUXVqbkl3R3dGd3hzWHd5Yk5BWmg0QWZZNzZBZ1pkVjNFRUxYXzNRektXcDdqVlV4UnplWnhVWjI5X09SODFhc205Z2tWRUllSHIxa1doem1IZ2JXZ1llWFN3ZXUtOVczR2hnOUhIRFFWT1VyMm9FSjR0WWc?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 13:00:00 GMT",
-      "description": "Developing an HIV vaccine, one small step at a time BioWorld News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "What the latest routine immunization coverage estimates mean for eradication - Global Polio Eradication",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbHpxNlNXM256RTdwTVFFbUxDZ21aRTN4c2hRb0JYU1JNdEZNMGFoMTlKNzZrV21uUGRXMWVvWTdha1V3Z05lUW94azhFY0FXN3NrZUpkVmZDc1pNcTJDS2JLb1FCRkZlRWxaTkNoenpPdzU5am1qbWo5TXJoNlV5QnJyd1I0TWs0cnB0R1l5TlhPdTJ4M2FoUDlOb19nenRGclJSNnhkUFhKc2VpRk1oaA?oc=5",
       "pubDate": "Thu, 23 Jul 2026 10:04:14 GMT",
@@ -770,10 +830,23 @@
       "articleLabel": "News"
     },
     {
-      "title": "Trump promised redemption for troops who refused Covid shots. A year later, many are still waiting - STAT",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYUhpem9KWUFqR2dSNjZqVUZnekVYR1ZpNEtQWVd3em9sYjViRWF3djhHUFUyMGJIblpYRG1HR0F2eGVnV0prNXhPZlg2VnJHUEhWajQ2bXRMRE1lRDNEN0FjTlBmOWNwNndGdGhxRzVqcUlEUTRVSDMwME5SZHRjTVl0ckttd3JraHI5ZWhVc1Z2LVBBTmc?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 08:32:50 GMT",
-      "description": "Trump promised redemption for troops who refused Covid shots. A year later, many are still waiting STAT",
+      "title": "WHO Africa/Gavi support mission to the DRC to step up immunization efforts among children. - WHO | Regional Office for Africa",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdFVDZnp5TjF4TVplU3BzOW94N3hIclM4SXFwSURjUUZ3WWRwbjRDc0dDUmVjaDBJZVNmb2xOd25CLTRiSE84dzk2MEhPLUxzY3pBUkg0dW5Ld0ZfMS0zaHZZWm1Pc2cxOE90VlFjTDdyRzRxamVWM2U4Qm5rRFE1d1NlOUJCaDJWdU1OdE92U19BRW1wN0JsYUg2eW1vaFAzLVlXQnNLWWpSLUtSUDlDV3BqZ3FMbUNCdUZfVXBlVUZLZw?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 09:41:24 GMT",
+      "description": "WHO Africa/Gavi support mission to the DRC to step up immunization efforts among children. WHO | Regional Office for Africa",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Spokane, WA, Council Approves $200,000 to Fight COVID-19 Firefighter Vaccine Lawsuit - firehouse.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbzJNaHNKamJPbkxJOEJ2YkhsSjJVNXFvYjNEZF9aTG9aaGxwSEg0b3c0QjU1TVpBQ0VkN2VtVUNPQWpEMmdjQ0VHWUVlMDU5SmlhVGsxYmdwdHlaa0psSnVXWENhTkZBWi03NVplRllXWTJ0Q3JIYUFTRl9McTBZdWdJTnkxM2xOSUl2UHBkU0NKY3B5WWxxWnNvTDY3TTlod2ZHQ21ZM0JTcU13SWcwNklHWS1UYjNRdWlJTmFVQkRCc3VNWHhyYzFwUUtOdDg?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "description": "Spokane, WA, Council Approves $200,000 to Fight COVID-19 Firefighter Vaccine Lawsuit firehouse.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -783,17 +856,17 @@
       "articleLabel": "News"
     },
     {
-      "title": "Dr. Ed Dominguez on measles cases surpassing 2025 total; promising new pancreatic cancer vaccine - KLTV.com",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTEtvY1JoM25SVDFPRk9lc09zQ25HazhSWHdRdGpHRW0tTlJjR0laR2ZyVHlTaXJkWG5vQzhycHVMWDRseGY2eU9qSzN1NTlXTmpsclNKcVk5dTE0eU40QTRiSnV3N3cxdzE4dUl1S2lsWHlzQTkyNGtOME0zcFNtVjJkRndnV2VPd0tNaU9fTV9WQjJhUEFiNWpkd1k3bEFOaHh2WlBmd21URWg3ZWFLaXlRT3Y3Z2xPd0lPTkZLVkJuQdIB1gFBVV95cUxPeUNBcXdVUmk2dkp4d09VYnNscG54RTZwSl9qZ3dyM2ZoemZDaGVkVGxGRjViMk1wZEkwcWRrU3M1RnNTS29RQWgxeEluLUZoODRaNHJSUTVqVF9HSGlpVlpfdkU0MTlDMWtOWFltRXlyTm1tRjJ3WE5TNG12R05rM2JRWnVfUnhBUnNzMDJFZ0pQVUl5c085MTdtei14Q0k4UHBpYURDNTNsVGZiTUp3c1RxT1Q2Uy1QdDJKMzUwVGZuOXMzczdjdGg4RmxkSUJSX2Z0bUp3?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 04:12:00 GMT",
-      "description": "Dr. Ed Dominguez on measles cases surpassing 2025 total; promising new pancreatic cancer vaccine KLTV.com",
+      "title": "Spokane firefighter lawsuit over vaccine mandate heads to trial, city approves $200K for legal fees - KREM",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZ3plLXMtMWs2TzVmeXFKcUxhc1lEQWtpX3JMN0FqQmZkTUVHSk1FQnVlSnhBVHJielk5YWpXLUtCV1QwUjNmN3BiczM3THh3ZWNNeFp3ZG9saFlyVloxTTlWSVVidVMya1FnRDR3MjEydVR4di1pYzJFVFFWNlc1Y0RmRmk2dlFpdkc4bVBYS1JMZVFWWmltYmVTT2I2ckpjZ0p1eVZZLUJ0SFcyLVNyb0RnWldCcHRuVU0zSktiZ0o2RzZZand0N3ZrcUFPdmduT3g2VmRiSlNfdnpuQkpoUUxLdXJHR3Y1c2F0YVJRaVdydw?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 05:08:00 GMT",
+      "description": "Spokane firefighter lawsuit over vaccine mandate heads to trial, city approves $200K for legal fees KREM",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
     },
     {
       "title": "Critical Care Clinicians Can Respond to Vaccine-Preventable Illnesses in the PICU - Infectious Disease Special Edition",
@@ -809,32 +882,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Health department to hold free flood-recovery vaccine clinic Friday at Wesleyan - My Buckhannon",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVmFwdDhxRlBmZm9Sc21MWWxzWERoZ21YM05ET2RUOUFUUlpIOXNRaVllWG4ydnBLQnFQYzNCNXVtTnJZWTU0X2xYSHBKLXhOWUo2d3R2RXZzWndzSFdOOE01clhWRGZQYVpZeUFmYmZSbXcyRTR0dHFiNkVBSUU1Y3hsdTlxdmhSWDkxWEZ0OXlYZXpkUEsySVFPUkE2NktNRlRaNnkzZ0IwREJmTUE?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 01:09:00 GMT",
-      "description": "Health department to hold free flood-recovery vaccine clinic Friday at Wesleyan My Buckhannon",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "India: Takeda's dengue vaccine approved - Outbreak News Today",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbWJUcVkwY0ZadVNGVTJjaFg2SW9NMXVYbUhkb1JZZTQ2N1VqVVdFS3IzUTBEanRUQWZVZGowd2VaR0JEVnhpcl83azliZE14U1FhTnFiTlBPeGZfR3l2ZDVoNEFaWmlOeUg2aWJqNFJ3M3hQTnpaRzZjUGRjOEcxaFZ5blM?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 21:44:06 GMT",
-      "description": "India: Takeda's dengue vaccine approved Outbreak News Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "dengue",
-      "vaccineLabel": "Dengue",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "New study supports testing of Merck’s Ebola vaccine in DRC outbreak - STAT",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZnZ3eFlQM3FxeDhuNjJIWWQ5UXpqVlZtTXpWazJZbGViQmxoWDBndjl4WldjaUctanVlZlVscFFxSWVDSzlObVlRel9Ec3BiWVc0Y0tKamtNX3Y3ekNIWW5tam5EM3phVWZoeEQ3NzlLSDV3Z1J1Z1Yzdm84c19aQVdsdEhHbF9YMTNNaDI3U3pZTlhHLUhiald3MUt0WnFESXMwS3pn?oc=5",
       "pubDate": "Wed, 22 Jul 2026 21:34:33 GMT",
@@ -846,45 +893,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "Mississippi doctors urge parents to learn about back-to-school vaccine options - WJTV",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdG9XbDBDQjRsSlk2MVkwQ3VkN2pSbXVWdlY3WFk4QmwzUTJQbzV1aVExa1dwbzR4WG5wcXdDN2lJS0JyRFNlR2FrWkRnWmVwLUJrc1BmQURlYXM1eXlYcU92Q3R1MkpCcDJ2MlRiRVgyN3JQYmVzNmdKQzdSb20zNGRjU20wc0wwSm52VEFLNkxuTi02SF8yLXRrU0RqQWRfblEzbDRGVXNwRlI2U1FWRm9odmdneXJ4alJ1TWVITzhwT1d4MVZRRmt5QdIB0AFBVV95cUxNZ0NKUDhCQUlReERRR0pDM18zZUttLS1BWDRBN2FpS1VEbkZUUWJGQmRxZVpJdS1xcTItUGJyREppYnplZl9RY1dodG9KR0hhNm1PTWhxRTdKRGkzY2VQTTN5U1E5ZXBaeW1zdVNJc3AwQjZIREp3cVFSaDFSME5uWWh4cEdWMS1rQ3B0SXphelBSVVZYcGlIWDhVTGprVTdWUFRPdVdrcU5pNEd3dE1ELUNQd040ZzdXek8wYnlxLUE3RFJvMkhFWUI2bFFONHhS?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 20:29:56 GMT",
-      "description": "Mississippi doctors urge parents to learn about back-to-school vaccine options WJTV",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Survey finds widespread uncertainty over pregnancy vaccine recommendations - News-Medical",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaXZ4SkhiaFY5ZDhtdElxeFk3eTBRNzRzVDNfSVJKUTBFSFZJS0kwRkVsTE1EeE85eGF0bS1IN3NNQnVxd25lMGdndHJrRXpuMkhBM0ZCc3Y5cU50ODg3QXpINHZhZ1dTZlMzbzNMRzRsQW1abjQzM0dxNFFPQjUtSGNHcjJocFJXcHB0MGpEMmhWWTJGdTNZZ2VqeGFVUVFoWGlWNjM2bUl3c3VaVy16WDM5RVpMN0V3dDMxZmhGYw?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 19:50:00 GMT",
-      "description": "Survey finds widespread uncertainty over pregnancy vaccine recommendations News-Medical",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Vaccine generates durable immune responses in people at high risk for pancreatic cancer - Drug Discovery News",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUzlBTktpdjVvaVY5V3RVLWdhbzBsMXpXRWZsbzFnRDZ1TDdQWW42bWxMUWx0Zlk4cGxBSDhYZzhhNUxERDB1NGtZTEpWZVlhVW1GVHJoX1MtelNiMEpNdElPMUhvVEFmXzl0MHNabjgyODlYOWkxaERCcDU2T2NrX1dBLW12ZVBiUmxDTEFrYTVlVGtMUWloUkQ4NTFYT1FWZXJPLTNNUUsxS3JhTkRVMXZlVzI3STQ0d2l1c0JYNHlscWZMQ0E?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 19:48:11 GMT",
-      "description": "Vaccine generates durable immune responses in people at high risk for pancreatic cancer Drug Discovery News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "Days before Idaho twins died, medical records show vaccine reaction, defense says - Idaho Statesman",
@@ -911,19 +919,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "Delaware Declares Measles Outbreak - State of Delaware News (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5MEpUeUI2QXdYQ1V2WVR2TGU4VkVJVEZoVXVDVFJ6OHNvdWZhLV9zLWRnVGhpbWJhWUVBTWliUlZzX25UdVlwN1RXaVJpWlhhT0lPZklnT2VZS2dJTW5seFNpdjNCOXd0eUVYVkUzczdBUnRsR0ZIUnJmUkM?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 19:26:10 GMT",
-      "description": "Delaware Declares Measles Outbreak State of Delaware News (.gov)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "Bay Area authorities urge vaccination to prevent measles outbreak - NBC Bay Area",
@@ -965,19 +960,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Measles cases in the U.S. hit a new 34-year high - Science News",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pdE82dEMxckM5NlpaNUREemowWDNKVnlwN3FSQnZHc1FoSF9wOTNNa0xGTWp1SFZDakFfMjJ6NTVJc0lmeHY4SUZUZ2VLNjNqUTdvamU5c2dXd1ZsVGtoekRZdkdVVzAtWFk2c2c1YU1SUS01SXRZRUFVOGoxZUU?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 14:19:58 GMT",
-      "description": "Measles cases in the U.S. hit a new 34-year high Science News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Pancreatic cancer vaccine shows promise in first human trial, preventing disease in high-risk patients - Fox News",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZTFNVW1NU3hrNGFjM1h2eWllZHVVTGZIbnQtZ2FGQUt1cGlMekRmdlM3RGhGcno0VXEwRzJ5Q05RY01xWGVlV1NRMkhkcUxQM0tUYVJ6Y2wzbUtSd28yeFIyZk80TDRSUW1TSTFLTU1ja3RlSmhnTzdUYzc3YWhZR01XRFcyNW5FU3BBZ0FsdUR6UUFJd19jNHNqSUFaeXp0LW1DYlFZNWxsUVgzdHk2RUpzNkNLdWdUc3p4bXAzRmxEa0s40gHKAUFVX3lxTE1VR2o3bm5kdWZtb1pOX3d6TzF3QVlxakJYQzFOUHF2NXQ3V0FPckxGM096WmpVU3NfRFdRY1FLSzlDU2hDUTRFQlJ0cmJmRHVkQ3o2VE45YjMyamFzWl93bjlVbDVheHhMV3hiOE85dHNuU2ZtczFuX1NMTnRCcGlnOFNVZnhNUV9ma25JRzNSd2ZWaW9FeGx3dTFtcXFWRUo5eGpMVWxvZWxGYTFtTzgybkQzRnVoR096TVZSUzQtcnJVaVpQcks1ZUE?oc=5",
       "pubDate": "Wed, 22 Jul 2026 13:36:23 GMT",
@@ -989,19 +971,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "Father sues Maine Department of Education and school district over vaccination requirements - Bangor Daily News",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS0VrRTU0bnJxNkFVRGQ2T3V4RXJ4akw1UHY2R0huYXpSMXE4R0RvSEZBNDlrMEpuSWNMWFZKNjlQRkdwUTZXMkNsQlNxVDlGbHdDU1Z1TkUtSnRPQ3g1VW8tUVM5Ymlnd0FvWnFRUkw0TXlBZ1YyR3N3UTVyZDVtdnRnLU5KbGRnODlSU2tuRDRzQUptVEdVUjlfc1h0V0FHU29PaTd0eFpDNDd4dXVQbHo1c2pyVGpKX1VPZnJFQmxPNy1iUVBMUWs5X3VsbTFONHVaMFFZbUhNbGM?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 13:01:58 GMT",
-      "description": "Father sues Maine Department of Education and school district over vaccination requirements Bangor Daily News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "Sanofi reprimanded for disparaging Pfizer’s RSV vaccine - Fierce Pharma",
@@ -1017,10 +986,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "An HIV vaccine is within reach thanks to mRNA - vox.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT1NUOTkycWFWazBxcTZDcExhMDUyQXFTQTkyZjFTYUZ4YXl3M3o2UUwxNktmNV92ckMzWHMtaHUzaXpvNjVEbmZXV09MSjVueWptUkVPSjZaRC1zbDdzNGZCa2Fzc0JPZURGeUpSYklnWDhXdXBtX2ZvZEN1VjFvcTVsLWFtcjZ0WUxNWm9NVXUtdEVJNkFR?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 10:00:00 GMT",
-      "description": "An HIV vaccine is within reach thanks to mRNA vox.com",
+      "title": "What Bundibugyo Ebola vaccines and treatments are under development - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYWVxaGdpMVB1ZVpOUVoxdTQyQ25raGVhUVgtYjk3R3NBWHVlbGhaMVV3Z0hsV0ZYRUNKa1k2X1RBRk9UX2xZQ0pjSGUxUjhqVXZxSlRHQmllV1NwanRZZll0Y3BNd3pqNWhwbE5Bdm92T1N4OEhZTWRsaDhoNEM4ZWxnUjVMX1pyWVExRDJfM2oxRnNFVHM1azdtV1hZYUdQbTlwVWRBcW9IYm1wMkw2QlRPS2lwWlYtMC10Uw?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+      "description": "What Bundibugyo Ebola vaccines and treatments are under development Reuters",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1030,41 +999,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "Experimental KRAS pancreatic cancer vaccine generates immune response in high-risk individuals - Oncology Central",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOT0RYNEtabGoyZFUydmxQRkw5dk1naThudWdZdy1obWg1aUlaZEhvTE5Wb1Z4ZkowTXJlaEtwVDAtWmlFM1AxM2dJUEN4MEVVMldvZXZuNHJZQU81d0NuMEJVaGU2ZWdFTXM3X2dvazVmclA2dDFGSElTc21UWi1qWDdyY1Zub2h2ckNtc3BtNmRQbVpiTnpkV3lILUxYblY5a1pmMTNZbFROdW9qRTEwRUtaaXlBNTZaMTNNZ1VHNVFocU1ISFZj?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 09:05:10 GMT",
-      "description": "Experimental KRAS pancreatic cancer vaccine generates immune response in high-risk individuals Oncology Central",
+      "title": "Trump Promised Redemption for Troops Who Refused Covid Shots. A Year Later, Many Are Still Waiting - The War Horse",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMnlSaVh3S1Z0SG1IWUJub21UY1RrUkJpT19lWDIxZk1UMmxyR3M4SGVlMkxhOGQ3Zk9sdXFIa19VenhTc1NXamtmUF9NcnVVOXVoYkhYS2dwWW9EVDRneHdJQUZWY1VJWlBXR21NaEl1VXQ5U3dObjQyRUk4SXN6aXJkSQ?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 21:47:25 GMT",
+      "description": "Trump Promised Redemption for Troops Who Refused Covid Shots. A Year Later, Many Are Still Waiting The War Horse",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Think Vaccines Are Just for Flu Season? What Adults and Parents Need to Know - Cone Health",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qX2NJZTRVZ0pFekExMUpvbWVYZVpsN21BODYtS21PWWZhMkFhYS1jRTJmV3NDYlVuZ3B5bGpRR3Frd1lGZWRhVUdWUllvNndLVUxuRFdobUg3cC1FWDJEdWJCX2FaTkVPcG9DZmlJMi1Camo1Y0NMWQ?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 07:42:01 GMT",
-      "description": "Think Vaccines Are Just for Flu Season? What Adults and Parents Need to Know Cone Health",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "FDA: Iceberg Lettuce Recall Stands After False Positive for Cyclospora - Vaccine Advisor",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeFVyYXgwb1hldWRWQXFiZ3k1aHk5anl1alpoYnpWamJoLVdhdE4wS0RMYTJuS0pzSTRlQVRJNHdRS0g1MnZzNXU2Y2w1NGFvRXVlMVE3azdjV3ZIQ0dOOGw5MVZ5OXR3UE5oeklIQVo3bmpBWlhxTDFzbnBPZXpkNzQ0VFNMLVhMazR4aUtwdUtCU3RnRFhqRXRGZ29tbzhlZWJ4YkU5M25nZw?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 04:00:00 GMT",
-      "description": "FDA: Iceberg Lettuce Recall Stands After False Positive for Cyclospora Vaccine Advisor",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1082,101 +1025,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Oklahoma vaccine exemptions for kindergarteners more than double as private school rates jump - KOCO",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkI0alc4S1BaUk52OHA2blBuYm5BVXRoU083d0ZPZEhZQmlFYTk1SzRONjJrWmdTc0YzVXo2N0w1N2NrZ29fZEN0bjRvQjZfcVBQbm9VWEllczFkX0pmNzM3WlN5SlJCUTdzb2h2ZXU2bk4tc1JEM3VjRmJBQkxKTjU1N2RYZkcwSmE4dGl0d2t0UWhvWDQ3eg?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 21:03:00 GMT",
-      "description": "Oklahoma vaccine exemptions for kindergarteners more than double as private school rates jump KOCO",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "JCPS encourages vaccination after measles found during Jefferson County wastewater surveillance - WDRB",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOUHo3UnBfQ1pnWHZ6bHU3WENwZmZTUEFyRURWeEVEdG1pYlBqaUZQa2pocjU2Tkt2eWtBS0FSUmxUOHJSaXR4cVZlWV9iWDBzZ3dDdE1UU3NaZ01pSHc2STJBQ3FVLVhnai1EUFlvZDdkY2xmdVExQ2RZSllCUlo1aF9iMmxIRE1NQVhkaDFpMUszdWpiTmJMZHU2WWdaaTVGOVpoV1pmRDZNUmJhZDE1NzhzVDBEZVpKMkZCWC1XbnBsMmIwaUxDOU01Tnk0MXBvYjdsNUNlc0VDMzRqS2k2S1E4QzhpN1pCUnBzOGNTSVR1VkFTbzhBOWlWZkt0dHVy?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 19:16:00 GMT",
-      "description": "JCPS encourages vaccination after measles found during Jefferson County wastewater surveillance WDRB",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "PAHO supports delivery of 1.15 million vaccine doses donated by Brazil to strengthen routine immunization in Venezuela - Pan American Health Organization (PAHO)",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVXE5dHMyOXNaMDRKeUp5R2dBa29uZ2FPUGlmdWJ1SjlfWEJBRG92Y3NLWVBneXhVNkY5dUxtNV9FbFhvR1RYQ0c4RzNjV0pJZjF1czdKUkVHUUx2ZDduR1ZzNFhDaUFpbHRvdmdnbi11QkFaeU1samNjOWVuWDJMcEhFSHBHZ0ZyTFdxMHNMS0Y4TnlCdDVNdFZISDBaTFppSVlVclo2MGZjVXh2Z2lYUUIxSmh5N0o3MXpzam9n?oc=5",
       "pubDate": "Tue, 21 Jul 2026 16:59:20 GMT",
       "description": "PAHO supports delivery of 1.15 million vaccine doses donated by Brazil to strengthen routine immunization in Venezuela Pan American Health Organization (PAHO)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Vaccine May Prevent Pancreatic Cancer in High-Risk Individuals - Cancer Health",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPREUxMmdWTDktN1lMTHB5cFJGa0VRM25US01nRDNhdXdydFEzbHVmUGp0Vzl3VmJQSXFyZW5HTFpvNTFZSGJ3MkpHZWh6YTFSQmNJcUFhMUxvYmhoc0FzUTdRcnBkMGY5TFZHZWp0NnVsX3AyQnhfWWJrRzh1SG9JaEdYZ05Vc2c0UjVvdk5HZzhFMDRHbTVzdnBydw?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 16:50:57 GMT",
-      "description": "Vaccine May Prevent Pancreatic Cancer in High-Risk Individuals Cancer Health",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Understand the Patient Behind the Hesitation to Address Flu Vaccine Concerns - Pharmacy Times",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUm5LWFBkU2JBRmhuZ2R3NWJhRHBZaUFIc1NLRDh0RWg0QUZqSDRmZkMwX0hMeEl2dUdyM2hLY3dZNmtRLXVyYjVpcUhDNGd4R2Z3dzJOVHdGZVdqclZkSElHM3hWbFJBalFkR0hDaUxBbE9zZXdSclp3VzhLQmVPUUtlaERoMGdCMzgzWlVCSzV5TEh4ZnJTdmc2Wlc4QU9FWTVucGV1WjJ2N3Vud3ZKRQ?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 15:32:36 GMT",
-      "description": "Understand the Patient Behind the Hesitation to Address Flu Vaccine Concerns Pharmacy Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "An experimental oral vaccine may prevent invasive bacterial diarrhea - Science News",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hV3BCNWxDYVI5bmZpVVJCRWpqTkhNZE1uMTBiaHcyZGFQeEc5N1huZHJmdkp5WDhrX2c2MjF0RkZUcVJ1eGVZZ3h1MmNJN05TY1c0djBTVGtvQzVrSFRKQjdzU0tVWHlnbHcxMjlyLWcxM2xGMnc?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 14:30:00 GMT",
-      "description": "An experimental oral vaccine may prevent invasive bacterial diarrhea Science News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Smaller COVID-19 vaccine booster doses match full-dose protection for up to two years - CEPI",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQWtwakhoUGFvNUFLc2ZxTEFvYjZueS1HeXlYczhzTFpZdkZ0VGpFcXFtMWp3WVFhTFJWQjlnQ2hLT0RxSDFScjY2LVVmbk54UFZVU3hnaEpnVGw3SUZoTzZpNTdVNDdFbFBIWG1Kbk1vMzMyUG9mWEtOQVZYTHBPQzBuR3dWUHJtZWFMdGVvRURLTTB0LUhZ?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "description": "Smaller COVID-19 vaccine booster doses match full-dose protection for up to two years CEPI",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Manlius pediatrician could avoid jail with vaccination fraud plea, but there’s a big catch - Syracuse.com",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZG5UeWpJOFVxLUFrSEZabkxlY3Bwd205YWVkUjBhd29UNmhPVVdFUGxlaXpZNVlzVFluV1Z2RWJwUVF5aUNGOXhGRGVybnBydEVfaTJKNUZPWXgzSHRiU0NjZk5aUHI3VXQ3N0hwUkNldTVtZkFYNUFHSWhXbmdhOGkyWHdxRksxajFNdnREbmhGZ0dMT0hnQnVLbFNDSGZpc0RsNUlfRFpGeXhRS0ktR1JmaXNfVkNmVE5LY2stdVRxOW9Qbm5qZUNIWjdPdw?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 15:17:00 GMT",
-      "description": "Manlius pediatrician could avoid jail with vaccination fraud plea, but there’s a big catch Syracuse.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
