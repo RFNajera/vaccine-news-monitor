@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-24T00:55:01.770Z",
-  "itemCount": 90,
+  "updatedAt": "2026-07-24T02:10:42.471Z",
+  "itemCount": 89,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 9
+      "count": 8
     },
     {
       "key": "flu",
@@ -20,12 +20,17 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 16
+      "count": 17
+    },
+    {
+      "key": "hpv",
+      "label": "HPV",
+      "count": 1
     },
     {
       "key": "polio",
       "label": "Polio",
-      "count": 2
+      "count": 1
     },
     {
       "key": "hepatitis",
@@ -55,10 +60,23 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 50
+      "count": 49
     }
   ],
   "items": [
+    {
+      "title": "Ukraine distributes over 38,000 doses of Gardasil-9 for free HPV vaccination - Межа. Новини України.",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PWTJtN1dITm9xakd4WTZuU3NvdkE0dG1JbjhlYmw3cXRnSlF1TW4yc04wMmQxaXlBSVA3S0g1VndfdEJjN1g3b1p4SERZREF3V0VJTjVOdzF0VWZGX1d6Z0VfZFRWOTJHMlpIS0Fqdw?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 01:56:37 GMT",
+      "description": "Ukraine distributes over 38,000 doses of Gardasil-9 for free HPV vaccination Межа. Новини України.",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hpv",
+      "vaccineLabel": "HPV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Spokane City Council approves another $200,000 to fight firefighter vaccination lawsuit - The Spokesman-Review",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTC1LcjF5LVZsZWF0VGxSZEZZQkVIaW1EZFlRcDl0aFhxNFJTMDIzOU44QTJYanZSM0FEcTE1X0diTFlzeEdhS3B6NXV0QXhSVkVtTGtpTERCd3lMcWtKOGt2RzZCNXpoWXoxaXpVQ0xoVXBGZnduMDAzajFDcjFYUkJFOWZzYnVyWVZSd1NFa2ludHc3WEVQYVkycWptQQ?oc=5",
@@ -73,6 +91,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "UPDATE: Delaware Declares Measles Outbreak Following Five Positive Cases - WMDT",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYXBtejFvazZCRl9fbkVadnhYQXJraDRIajJ0dkFYMHhSSGFtTlpCcE5TNUl3V015Z3ZfYkNPNU5uamN2ZHZ6VHg1MDFoV3hfY3JIT3ZKdXdsYnM5RE1pMEpoR2VjdFAyMEhJQUFUaEc2VUpnOEpVWTFGVGlyM3BMRGp6MUNjY0p0Xzdva0VkYTJYVkJ4Q2Nqc0RrWTgwN3hINUE?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 23:02:04 GMT",
+      "description": "UPDATE: Delaware Declares Measles Outbreak Following Five Positive Cases WMDT",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "SC parents: Here’s what vaccines your child needs before school starts - WMBF",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNXVva2hSQlVLb1AzcFlDX2JIVVBaS1FKd0V2Yk9JLUt3ZTk0bm96VnBRTldJeUgwRGFNdHQ4RkxwUmtmbHk0ZDdUeFlnaHBHdFcyS2ptOEFFVkx0Q24temMzT1JmaGFOYklRaEctSzdKeHdZNG1YZDA4cW45X0R3aDBwYWRiZlBzeTQ3YTR0b0NJb21jNDFPcXNDWlRvYVNpenNsMEFiN0HSAbwBQVVfeXFMTU9tTklSVzVDeEdWYmJwS2ZHdTdOM2tpaW9yTnJXZjgzNkF2RHdkOEw0UlFYZUVnc0JkTHdKdU5NOTlOZWkxbTJGMEFTdDRWNlpMeXgzM2lTYjVvT2ZlZTJ5cmZheVIxcWdiRHgzdC1sYWR1UEdRTEdJNDBzWGJtVmVaMVVadWF5bnY5MFpnUmxvNWx6a2JUSTUxSHNnT3N1eGpHRXlfOGU1QUdIejFjSDA3OGNELXN2ek5sVk4?oc=5",
       "pubDate": "Thu, 23 Jul 2026 22:54:00 GMT",
@@ -82,19 +113,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "UPDATE: Delaware Declares Measles Outbreak Following Five Positive Cases - WMDT",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYXBtejFvazZCRl9fbkVadnhYQXJraDRIajJ0dkFYMHhSSGFtTlpCcE5TNUl3V015Z3ZfYkNPNU5uamN2ZHZ6VHg1MDFoV3hfY3JIT3ZKdXdsYnM5RE1pMEpoR2VjdFAyMEhJQUFUaEc2VUpnOEpVWTFGVGlyM3BMRGp6MUNjY0p0Xzdva0VkYTJYVkJ4Q2Nqc0RrWTgwN3hINUE?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 22:45:51 GMT",
-      "description": "UPDATE: Delaware Declares Measles Outbreak Following Five Positive Cases WMDT",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -541,19 +559,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "United against polio: Zimbabwe strengthens regional immunity through synchronized vaccination - WHO | Regional Office for Africa",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQkE4ZDYtQVQ5WEo5U29lZ01BbGtxTV9zU2pkbGNjRnIybWJyRVQ1MEoxQVF2eVZLcG5rSmhMQ2RKSDQ3OU1qSV83UXhwc2ZMT014d19NNGFXLU8xMU55cUllU3g1Y29JN3FJTU02VWtpVHBtVmpCOERiZ3o1UVBkVWRmN2RMOG5TbTZiN3dULWhHYzNwb1l0UWI2SHhHR2tvMFhKNXpNNzdtckpJOWRVR3FCc0l3YnVlbmg2SmoxN3hOb0hjR0FEX21odUM1SUNzRW9BUHp4a18?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 09:05:22 GMT",
-      "description": "United against polio: Zimbabwe strengthens regional immunity through synchronized vaccination WHO | Regional Office for Africa",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "polio",
-      "vaccineLabel": "Polio",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Trump promised redemption for troops who refused Covid shots. A year later, many are still waiting - STAT",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYUhpem9KWUFqR2dSNjZqVUZnekVYR1ZpNEtQWVd3em9sYjViRWF3djhHUFUyMGJIblpYRG1HR0F2eGVnV0prNXhPZlg2VnJHUEhWajQ2bXRMRE1lRDNEN0FjTlBmOWNwNndGdGhxRzVqcUlEUTRVSDMwME5SZHRjTVl0ckttd3JraHI5ZWhVc1Z2LVBBTmc?oc=5",
       "pubDate": "Thu, 23 Jul 2026 08:32:50 GMT",
@@ -749,19 +754,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "mRNA COVID-19 Booster Outperforms Protein-Based Shot on Antibodies, But Both Cut Infections Over 12 Months - Pharmacy Times",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNFhHc2FnTkp5VXNNN3VGdGF4RHV4MDR0UnhFdVpVdGRoUGJoa2hEekRLVHI2X2NxMkJHcTExcUVaMVRTbjNlYnZRR1VlRXZSX3lxMkNlbEtkZC1tVmdod2xNa2NUcUJwZmUxb2JsUmpHUWt6NWhST1h0TTd4QXlDdi1MSU80OWhHanJTdlFFVlMwT1p0alBoQ21uRElWU3NGM0o1Xy1SRGwxZTVXdnU5ckQtLVBxSC15WEhZMkhTVnRWcGtmM2hUNFVoNU5lRmtkdmlaRW9vbw?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 17:25:11 GMT",
-      "description": "mRNA COVID-19 Booster Outperforms Protein-Based Shot on Antibodies, But Both Cut Infections Over 12 Months Pharmacy Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Influenza Vaccine Reduces Hospitalizations, but Not Mortality, in Older Adults - Docwire News",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb3lZOTdPNFBnSW5ZS0QwRWswSlhTYVpXcmpQdUhiT3ZBSG1ydk1qUU05NWVwYW05Ukl5SjFSeE41QkNwd2VCWEhCMjBDZHB0LXR1RW5JVmREMU5kMS1iMHNGY0tfM2tiQU5VVkRVbTdJY0lRS2xFdVFRbDd3TDU0YWhvazkyNWViQmNyOGpxNGtCbVRuRC0wam5oXzhhQXNGakl2bHpIVDE5aHlZdUE?oc=5",
       "pubDate": "Wed, 22 Jul 2026 16:56:43 GMT",
@@ -797,6 +789,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Measles cases in the U.S. hit a new 34-year high - Science News",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pdE82dEMxckM5NlpaNUREemowWDNKVnlwN3FSQnZHc1FoSF9wOTNNa0xGTWp1SFZDakFfMjJ6NTVJc0lmeHY4SUZUZ2VLNjNqUTdvamU5c2dXd1ZsVGtoekRZdkdVVzAtWFk2c2c1YU1SUS01SXRZRUFVOGoxZUU?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 14:19:58 GMT",
+      "description": "Measles cases in the U.S. hit a new 34-year high Science News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -901,6 +906,19 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "What Bundibugyo Ebola vaccines and treatments are under development - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYWVxaGdpMVB1ZVpOUVoxdTQyQ25raGVhUVgtYjk3R3NBWHVlbGhaMVV3Z0hsV0ZYRUNKa1k2X1RBRk9UX2xZQ0pjSGUxUjhqVXZxSlRHQmllV1NwanRZZll0Y3BNd3pqNWhwbE5Bdm92T1N4OEhZTWRsaDhoNEM4ZWxnUjVMX1pyWVExRDJfM2oxRnNFVHM1azdtV1hZYUdQbTlwVWRBcW9IYm1wMkw2QlRPS2lwWlYtMC10Uw?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+      "description": "What Bundibugyo Ebola vaccines and treatments are under development Reuters",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1178,36 +1196,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Mutant KRAS Vaccine for Prevention of Pancreatic Cancer Development Shows Durable Immune Responses - The ASCO Post",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNzJMQnBRU0lRUzE5NktJVjZKcUxzQTBzU014TGZZbURqWFBCWHJIYXk4MFBZOW9JOERCNDBvTTRabkpiNG5aRUx0YV9fRHJiaEJ6QmxycUtBek5tM0Fzcl9UTXhRc2ZFQmJLNU5nOVdXY3RJeDJBRXhYbFN6a2JTYmdQUWZIUVplaUpxU1VqamZvYnNKTWJ5aGp5LXNpSUxkdnFiaTdqQnBVS3pfMGZRcUFzTUg4N0JxYnBENjNYUFRjQzQ5ckQwT25yOGVqUzRr?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 15:33:18 GMT",
-      "description": "Mutant KRAS Vaccine for Prevention of Pancreatic Cancer Development Shows Durable Immune Responses The ASCO Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Manlius pediatrician could avoid jail with vaccination fraud plea, but there’s a big catch - Syracuse.com",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZG5UeWpJOFVxLUFrSEZabkxlY3Bwd205YWVkUjBhd29UNmhPVVdFUGxlaXpZNVlzVFluV1Z2RWJwUVF5aUNGOXhGRGVybnBydEVfaTJKNUZPWXgzSHRiU0NjZk5aUHI3VXQ3N0hwUkNldTVtZkFYNUFHSWhXbmdhOGkyWHdxRksxajFNdnREbmhGZ0dMT0hnQnVLbFNDSGZpc0RsNUlfRFpGeXhRS0ktR1JmaXNfVkNmVE5LY2stdVRxOW9Qbm5qZUNIWjdPdw?oc=5",
       "pubDate": "Mon, 20 Jul 2026 15:17:00 GMT",
       "description": "Manlius pediatrician could avoid jail with vaccination fraud plea, but there’s a big catch Syracuse.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "HHS vaccine committee quietly gets new charter - STAT",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRzVQTUc1NnB1QnpYc2l1UzZ1akU5Wl83NFA0WmtFWWJXYXk4NmQwT210NjU4UE1kbll0TEdiOGkxOWlUSXQzV2UxUXdqLVVEa0ZRQTFzdlJYX2Z6cmZBemVvVHliZWVSaDFqUEZmSGE5MXBRcXRoTjFXa0Q3dTNDdUJKV0VLR25kM2cyRDhOM0dya0hqWUNfSFFTcw?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 13:03:34 GMT",
-      "description": "HHS vaccine committee quietly gets new charter STAT",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
