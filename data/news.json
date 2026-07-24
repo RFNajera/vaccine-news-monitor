@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-24T17:56:49.798Z",
-  "itemCount": 77,
+  "updatedAt": "2026-07-24T18:55:39.994Z",
+  "itemCount": 78,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 7
+      "count": 6
     },
     {
       "key": "flu",
@@ -20,16 +20,11 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 14
+      "count": 15
     },
     {
       "key": "polio",
       "label": "Polio",
-      "count": 1
-    },
-    {
-      "key": "hepatitis",
-      "label": "Hepatitis",
       "count": 1
     },
     {
@@ -45,10 +40,62 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 46
+      "count": 48
     }
   ],
   "items": [
+    {
+      "title": "CDC has announced record measles numbers. See how bad cases have been. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdWJUXzlWMWlXb3VsVlNNVklnZGRVTFhpVjMydlE4Q25zMlFJUmJWVkZubzV4N0o4Z3VhQVk4VDdGTzZ6YXptYXY3Zl8ya2pfNEFIdU02NFZHM3VJTDQtVW1JVDVsVmxVUnZ5VzNaV2k0V3UzdU4xS2J0Zm0wNzZ0eVJ0bmZtQ3U5NFNtM053QkpQZl9EbDhOZ3Y4UV9EbWtIM0xNVDJSa0cyNzAwXzVyZ1Q3NzUyMVBjV1E?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 18:47:20 GMT",
+      "description": "CDC has announced record measles numbers. See how bad cases have been. The Washington Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "As measles cases reach record highs, see your school’s vaccine rates - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMmJzQUNYUjZuTFFTWDhRSENIdmRmZTA0dzlHTjZkbktmUnRvN0FpdTFZYkF6WG9raEluSUZxdldSNTRlRC1ld1FZSlA5ZjhGRWdwZ1JVUF90UTljd0g0TTJMYmJUWHJtNWtDc3RPMmdlTWthc2dBUWZuOEhneWVGZW5ERy1HVGUwUXdSMjNjMjF6S1BBODFtT1dhek9MbVFzU1kwMm1rdzhIRV9jMmF0UnpxYw?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 18:33:19 GMT",
+      "description": "As measles cases reach record highs, see your school’s vaccine rates The Washington Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Volunteer Vaccinated In World’s First Bundibugyo Ebolavirus Vaccine Trial - teleSUR English",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeG5rNUJKUC1wZDJjcUZMbXhuLVdXLWdkMC1lNjlDdkhPdlV6bV90RzF3ZUNBN0o1X2dKbDhINEk4T3NRNEp2bFpwX1ZFUmE2N1RSdHZOcVZoa2RXR09LcjBJV2RkOE9kTWI0bE1EYzRhR2NjYm83R3RzNFhxZlZ6WXJIb3dxeVBvbWdkaDl5dzNmMmh5a2lLajl2TDA5ZGVIaXJhN3R5QQ?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 18:26:25 GMT",
+      "description": "Volunteer Vaccinated In World’s First Bundibugyo Ebolavirus Vaccine Trial teleSUR English",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Measles cases have reached a 35-year high - Stateline",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSFA5dDN2eFVXaFE3dm5ibzFxd0h1ckFQVHkzMjBCV0lnVzQ1SzJUdDJ1NjllMVpFUGFia2hyTXJ1V2owTEswc0V4N3FTeHpFYk9yZmt3cEd4Mzl5dG05eVI0dHVIY0pzYmFvRFR6RktIMXI2RkRxdThYazE0UENsYg?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 17:59:23 GMT",
+      "description": "Measles cases have reached a 35-year high Stateline",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production - African Development Bank Group",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOVFRcDdCLTF5WVJQVEszczRrOVJhM0o0SVJoa2ZQcXJTVFl6Vmh3ZnpUTjZIWHlWTkpleXhNQUtxaWZuakpfOEw5Nm9xWEVFamNhZDNsb2lhUHhxQ2lNMWpoeVFKRkxtNDlwUFhBMm1Ed3JPamJVY3NwZ1V2RGVHOGhTRE5USDJBT2VVYXliUGd6a0VNREtpYVF3YTd3bXFYRlpvMXRlSDI4UV9IMnotblExYjlwa05DZHdGeFVNSjRwZENMNTlLNUwxeHBPNnBnZ283WVlQZ2lWTXpLSUN0Q1lhYnVaSWtiSG5JenptZXdXb21jcm5wN0RISlRsLVA4MEZoM0E1R3Y?oc=5",
@@ -85,19 +132,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "CDC has announced record measles numbers. See how bad cases have been. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdWJUXzlWMWlXb3VsVlNNVklnZGRVTFhpVjMydlE4Q25zMlFJUmJWVkZubzV4N0o4Z3VhQVk4VDdGTzZ6YXptYXY3Zl8ya2pfNEFIdU02NFZHM3VJTDQtVW1JVDVsVmxVUnZ5VzNaV2k0V3UzdU4xS2J0Zm0wNzZ0eVJ0bmZtQ3U5NFNtM053QkpQZl9EbDhOZ3Y4UV9EbWtIM0xNVDJSa0cyNzAwXzVyZ1Q3NzUyMVBjV1E?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 17:17:20 GMT",
-      "description": "CDC has announced record measles numbers. See how bad cases have been. The Washington Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -141,10 +175,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "As measles cases reach record highs, see your school’s vaccine rates - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMmJzQUNYUjZuTFFTWDhRSENIdmRmZTA0dzlHTjZkbktmUnRvN0FpdTFZYkF6WG9raEluSUZxdldSNTRlRC1ld1FZSlA5ZjhGRWdwZ1JVUF90UTljd0g0TTJMYmJUWHJtNWtDc3RPMmdlTWthc2dBUWZuOEhneWVGZW5ERy1HVGUwUXdSMjNjMjF6S1BBODFtT1dhek9MbVFzU1kwMm1rdzhIRV9jMmF0UnpxYw?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 16:32:36 GMT",
-      "description": "As measles cases reach record highs, see your school’s vaccine rates The Washington Post",
+      "title": "US measles cases hit new high, already topping all of last year - Chron",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XczBpU2hyXzhoSzZ4NVljT2FHTGcybVZkdURPZ1pldWtiSUU3SjdBVEcxNEZETlZrYTJaN2lvWVdaQXhNNnA4RWYzX2UzNlF4OC1iMWlrbVR0RFpfVXNYRU1SNmRRdlhNSzRGU1VJbTRGMllEZF9TNDkyUQ?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 15:49:35 GMT",
+      "description": "US measles cases hit new high, already topping all of last year Chron",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -184,19 +218,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc0JOSG5xeW14RnlSZGR4a1lzaVNubWw1UlZKdUZ5c0JPbVlFRWNSUVNaUG81RnVQVUtlVVEtaVBKeG5RajNYZ0pIVjVfNnkzRy16TVJUYzFyS1ItMFJtVGZVQVFlLUYwSG1jVmN2Qy01RDFQbEVBUGFJMGUtVWNQMVNsdGVHMk9YRXV2MlhvTDc4bFZxMFF1SFM5d0dlMXlLWDRuemYxSXRHSmx5S2xOZ1JlOUtNWUhTM3lZ?oc=5",
       "pubDate": "Fri, 24 Jul 2026 15:25:12 GMT",
       "description": "U.S. Measles Cases So Far This Year Hit a Three-Decade High WSJ",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "There are already more US measles cases this year than in all of 2025 - Boston Herald",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CTjV0LXFBTHNaNkxDMWw0d0JVYzVPNG9ENGR5Tl96V29JUFJxR3NNckxrUkxqcV9Yc19oQkhyMGtxYURseUdrYnI0NTJBazd1al9fb09iU1NVMXc2QmF2ZGNoY2ItY05qRG4yMlcxeVJ4UQ?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 15:23:14 GMT",
-      "description": "There are already more US measles cases this year than in all of 2025 Boston Herald",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -453,6 +474,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "NFU urges farmers to prepare for the withdrawal of lungworm vaccine Bovilis® Huskvac - NFUonline",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZzlic3Mtank4ZFVoMWQtaDRPYkYzazBsYzNTVmZkeGIwWHViMDRYUXk2TUUzT0JpaG9IZHVOeXZMSDhhV3dQWUFTaGVabTNydF94SHRKRHlYVXhMMnk2TTJOZVprX0JNWEM4dTVfRHVNaTZ2cklMVmtxUl95WGQ0UGFmeXk1amVQdGFSX3NETzlocHd3MjVDZUp0Q1VPdw?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 12:52:54 GMT",
+      "description": "NFU urges farmers to prepare for the withdrawal of lungworm vaccine Bovilis® Huskvac NFUonline",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Prevention is a benefit, not a bonus - Benefits and Pensions Monitor",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa01iVTZaaXFKM3lreEhFdm1OTWgwOF85eHFTZ25BSjU2ckZIYl9kcnRjWG1TQUFESUJ5ak4tX1g0blBCWGpjbDNSbmVMVUE0b3JYT2Z5X0xUNG9VTjNhWDExRzg5MGxUWkFBelRNOGJ2cldOUmx3Tl9PY3JoME1jZ1NEVDlPc01TMi0xZXRGcG96MnhUQ1dpYVQ5d1o5VEE?oc=5",
       "pubDate": "Fri, 24 Jul 2026 12:49:19 GMT",
@@ -479,10 +513,36 @@
       "articleLabel": "News"
     },
     {
-      "title": "GSK's Shingrix (Recombinant Zoster Vaccine) prefilled syringe presentation approved in Canada - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMC1HelVBQmdLOTlPOW5IamMzdHpreHZYRmw4SnBTdGpCRHZUS1g2Q2Z5SXY0NGJnLWdWWTdoY05WYXFHX0pESUN5SXFWamhPYlFjTzlJVzZRN0hOV01reU1xVGlJdnZmSUp2dUFrVF92d1dDenBMSnpXNHlDa1FuRVlraGxMX3Y2U3ZBS0VVNUJZSkk?oc=5",
+      "title": "First volunteer vaccinated in the world's first Bundibugyo ebolavirus vaccine trial - University of Oxford",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObVhmbmttQmpfbVVqSUJUbGY5bUw4ckxpUU5LcXlRWWdJS09aRWtvWjlrT01WbDhQMWNSckE4al9GQnN6Q0sxYzduYk5OaGlTSGlLcm5QMzF6aUpYWEYzN2VOcl9WUy1aRzBOU1YzX0lGZGt3Yi11VkZITko2WTBxMVo5eUNyaURVNTFRWmc3SVQzWGxXVWtHWDV0NW9HempCOS1OWUlYcDlGWEo4d1EtOXVZMXUzZTg0U0xR?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 12:00:00 GMT",
+      "description": "First volunteer vaccinated in the world's first Bundibugyo ebolavirus vaccine trial University of Oxford",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "UPDATE ... Flooding aftermath: Free vaccine clinic, supply distribution and donation calls underway for flood-impacted West Virginia residents - WV News",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNMU0tTUh6Y29rZ3hxYjlFa0RUcENsakdRTkg2ZEptdUV5UTROdUJ6ODhTS1dtLVE3ZU1DWVVocTV2Q2RBMi12NDZua1pCTDdiQWk5NHhfdmJlOGlmd2VuR2ZRSWpNNmZGNG4wNVJiYkppU2w4MU9oTnZKZ3poNzlDbzZjY3NMRy03dGRhem9HM2d6aV9kWFVXNmtOZEdub0NBRHBrdmtybmFOSXEwMlVIZnBCTERaNVJJenlSX1B0SUZNa2twQWo3RlEtS2hjOThkMVNiNjEzak4zMThTZlpqemxwVHBPb0thQjkyV3N0dzJxRjA3NExqMWQzeVRpT0NRT1o1ZHVuT0UxMXZoN1FERG1ESjlUcG5Hbk1kbUpNdE1TRmM?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 11:51:00 GMT",
+      "description": "UPDATE ... Flooding aftermath: Free vaccine clinic, supply distribution and donation calls underway for flood-impacted West Virginia residents WV News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "GSK's Shingrix (Recombinant Zoster Vaccine) prefilled syringe presentation approved in Canada - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYmYtb05CZ0FQdkZDaTJlZzh0YkxPZ3BCNjNJNnNZMTlrVmFGcDFpci1LZENEYUVmUW9DZ3FOZ0lqTmlHdXRVbldFU09VNDVJeTg0d3N4M0gtdzZhVlM2MFpZME9aYk5xZHB3WkY5bGROTGVwUGFrZHVnSWN1bWtmaHlvMEJoRHpWRE4ybGp3ek5NeEJSWTlodlllMnNMZGtKMTBZ?oc=5",
       "pubDate": "Fri, 24 Jul 2026 10:50:00 GMT",
-      "description": "GSK's Shingrix (Recombinant Zoster Vaccine) prefilled syringe presentation approved in Canada Yahoo! Finance Canada",
+      "description": "GSK's Shingrix (Recombinant Zoster Vaccine) prefilled syringe presentation approved in Canada Yahoo Finance",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -635,10 +695,10 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Indonesia vaccine coverage rises despite challenges: UN report - Asia News Network",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVlNnVUtZWTRIdWN0SFUyUFo3bVNXMkcxWkE5R0FVMEtrVDFaM014aU9BaVVpSC1aWWctMVhLRHlnOTc3MWtQMVN0QUJPSjFHUGMzX19tanh5NFBhTXF3dU92NklPT1U3ekRIVzJtYzVYZkE5bmV2STZYUjBUU1FLd3JFVW11QzNQVU9LZkJWWDI?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 02:24:53 GMT",
-      "description": "Indonesia vaccine coverage rises despite challenges: UN report Asia News Network",
+      "title": "Spokane City Council approves another $200,000 to fight firefighter vaccination lawsuit - The Spokesman-Review",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTC1LcjF5LVZsZWF0VGxSZEZZQkVIaW1EZFlRcDl0aFhxNFJTMDIzOU44QTJYanZSM0FEcTE1X0diTFlzeEdhS3B6NXV0QXhSVkVtTGtpTERCd3lMcWtKOGt2RzZCNXpoWXoxaXpVQ0xoVXBGZnduMDAzajFDcjFYUkJFOWZzYnVyWVZSd1NFa2ludHc3WEVQYVkycWptQQ?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 01:03:18 GMT",
+      "description": "Spokane City Council approves another $200,000 to fight firefighter vaccination lawsuit The Spokesman-Review",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -652,6 +712,19 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOTZTVDJHRUhqaUJDMGp2RzFGY1BpY1VKcjNMSFR2R1FNdTNsa0pYWFBZRnFfQmtLYWxtbU1TWlQ2ZVJROU0zZTVGeTFMS3pIcXZCRVoyajIwV0Fza2FhalN2TkpNcWZmSDZOdVhGNW5NNkpnY2RkRjUtLUY5WlZyek9URjRoUmhvcWUxamNqd0dodXBzc0N5b1JOcGxjTy1WT0NwQWZwa0x5QklTdG1SREpzQ3hZd0R2MEHSAc4BQVVfeXFMTXhZQjNaaUYyb21VVV9XLUFILW4ybE40X0tURTJfckdXcEJXdXdWazhRX2tWY2FlN2c2Q2hVZ2hpalItZWIwY0ctMzZOTk1OWGF0QkJPWm9jaUwwVGs3Q1RYX3FESzF3NEJKNEU3b3ZlMFhMNWlzZGxKNll6RjZsUGhsYVNrUjRiZWRWNFE3akxGY1N6SUpZZ0l5bkczUktOcmh0d1lsS2pwS1djQlM0ZkZ2MTJSR295NVJEQjQ3RW5IajdGZDNaTS02UVdoNGc?oc=5",
       "pubDate": "Fri, 24 Jul 2026 00:26:00 GMT",
       "description": "Chesterfield Health District hosting back-to-school vaccine clinics this week WWBT",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "NMDOH offering free back-to-school vaccine clinics for children - KOB.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd3VIRUI0VmhoQnZLOTE4MVlVQTBCckVZdkNzTV9lQUt5eGJDcXAtSWxTTkRRZlNsVHFjOW13ei1haUR6LW9kV21RLVA2VWVLcjlmQkMtbzhJOUtiTWZTZnZPUTFXT2JsQ2VZMElsblZNcF9rUjZaeV9NcFZjQkRqOFBkUDlndWlXMm9yc3U5VnRvLUYxM3JYem93RQ?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 00:25:03 GMT",
+      "description": "NMDOH offering free back-to-school vaccine clinics for children KOB.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -739,36 +812,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Vote on key federal health nominee delayed amid questions over vaccine views - STAT",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ2lNVDBtV0hiaEJQVU9RSVZrSTFDVHduQWp1WGZZSlFGQmUwYi1OTUN4UTBON2pIcHE1UzZja01zVWc1LWIyanY5Y0VBZEp3ODd1QjBzUnRSS2E1bjBUakpPNnFHa3ZWTF80WklPaDNvMzV1aVpuS2xkTDVhOHRhUFFTQXJZT2xoT1hfajhudUZLdU9RNmNhdGowdUdoSFptSWl2SloyMW1rT2pBajdj?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 19:17:44 GMT",
-      "description": "Vote on key federal health nominee delayed amid questions over vaccine views STAT",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "HHS Changes Two Vaccine Committee Charters - MedPage Today",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03M1ZQNG8wbzNyWkNjNjhIRzBaSnhZalZUTU9vT2p1NVgwZmVUTVZpamNxM0dRU3NZYmYtaF9kTGgzZlRDT090aTBJcFplR1pGaXJhal9XYnp1YXNaOUE4U1ZQQm10cHNndS1tQVc2X0xtU3MycE43WA?oc=5",
       "pubDate": "Thu, 23 Jul 2026 19:06:08 GMT",
       "description": "HHS Changes Two Vaccine Committee Charters MedPage Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "RFK Jr. Wins Brief Delay for Challenge to Vaccine Panel Ruling - Bloomberg Law News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSkZpalI0NHBQOElYakFhaFJqR3VZcXprT1lsQmJuMENpd3oyVl96T1BmUk05b3RJbGU0bnlmVGZ6c0U1MENqdVJacnZ6NVRrTmxoQVRPOTlMN1QxYmR6VTdSbnJoeHhZVnpFSGdaVUQ1VkZDQUlIS1pPem5VekdYOUZ3WXFyYkg1M0FTWE01UWFvZS1ueWxyUERGcElTdG5hOFlsVw?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 18:35:00 GMT",
-      "description": "RFK Jr. Wins Brief Delay for Challenge to Vaccine Panel Ruling Bloomberg Law News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -882,19 +929,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Spokane, WA, Council Approves $200,000 to Fight COVID-19 Firefighter Vaccine Lawsuit - firehouse.com",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbzJNaHNKamJPbkxJOEJ2YkhsSjJVNXFvYjNEZF9aTG9aaGxwSEg0b3c0QjU1TVpBQ0VkN2VtVUNPQWpEMmdjQ0VHWUVlMDU5SmlhVGsxYmdwdHlaa0psSnVXWENhTkZBWi03NVplRllXWTJ0Q3JIYUFTRl9McTBZdWdJTnkxM2xOSUl2UHBkU0NKY3B5WWxxWnNvTDY3TTlod2ZHQ21ZM0JTcU13SWcwNklHWS1UYjNRdWlJTmFVQkRCc3VNWHhyYzFwUUtOdDg?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT",
-      "description": "Spokane, WA, Council Approves $200,000 to Fight COVID-19 Firefighter Vaccine Lawsuit firehouse.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Spokane firefighter lawsuit over vaccine mandate heads to trial, city approves $200K for legal fees - KREM",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZ3plLXMtMWs2TzVmeXFKcUxhc1lEQWtpX3JMN0FqQmZkTUVHSk1FQnVlSnhBVHJielk5YWpXLUtCV1QwUjNmN3BiczM3THh3ZWNNeFp3ZG9saFlyVloxTTlWSVVidVMya1FnRDR3MjEydVR4di1pYzJFVFFWNlc1Y0RmRmk2dlFpdkc4bVBYS1JMZVFWWmltYmVTT2I2ckpjZ0p1eVZZLUJ0SFcyLVNyb0RnWldCcHRuVU0zSktiZ0o2RzZZand0N3ZrcUFPdmduT3g2VmRiSlNfdnpuQkpoUUxLdXJHR3Y1c2F0YVJRaVdydw?oc=5",
       "pubDate": "Thu, 23 Jul 2026 05:08:00 GMT",
@@ -973,19 +1007,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "We May Finally Have a Vaccine Against The Plague, With Two New Vaccines Showing 100% Effectiveness in Mice - ScienceAlert",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc0lQTTNzdnJweGQwUlptMVZ6NGxLdzlXbFBMS0JjVXVoTGtRTzNEUkN6Q1h1Z1hUZjFzdHlxRjZXdnRCWnlqZ2VxNWZVcDkxMUNtLVhVQXVZQUJaZFVqSEpLcFNraE0zR2trakFQOVpBV0ZVOG1yamFHWkRIQ1hFVU9YSWVCYnhjcDZyNDhXV1kxUUtsNXdTX2JYVWpGQQ?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 18:02:54 GMT",
-      "description": "We May Finally Have a Vaccine Against The Plague, With Two New Vaccines Showing 100% Effectiveness in Mice ScienceAlert",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hepatitis",
-      "vaccineLabel": "Hepatitis",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Sanofi reprimanded for disparaging Pfizer’s RSV vaccine - Fierce Pharma",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS0dMS0lYbUo2UUtPMTNxcWpWVHBxVlVDZUVCNVFHLWpEWl9GU2t6OFg4RlpoUGxMSjM0dnVmV3B0RUFLR2pzVXlVcE84blI5MjU4ZmZOOTIyTGZDaHdsXy1yUlFwS0xEYUZ3bjE5amJWaVhpT1I2bFVzVmhreFJ6eFFOUEhsdGhkcE1rc3c1djJ5MzA?oc=5",
       "pubDate": "Wed, 22 Jul 2026 10:27:50 GMT",
@@ -1034,19 +1055,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "PAHO supports delivery of 1.15 million vaccine doses donated by Brazil to strengthen routine immunization in Venezuela - Pan American Health Organization (PAHO)",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVXE5dHMyOXNaMDRKeUp5R2dBa29uZ2FPUGlmdWJ1SjlfWEJBRG92Y3NLWVBneXhVNkY5dUxtNV9FbFhvR1RYQ0c4RzNjV0pJZjF1czdKUkVHUUx2ZDduR1ZzNFhDaUFpbHRvdmdnbi11QkFaeU1samNjOWVuWDJMcEhFSHBHZ0ZyTFdxMHNMS0Y4TnlCdDVNdFZISDBaTFppSVlVclo2MGZjVXh2Z2lYUUIxSmh5N0o3MXpzam9n?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 16:59:20 GMT",
-      "description": "PAHO supports delivery of 1.15 million vaccine doses donated by Brazil to strengthen routine immunization in Venezuela Pan American Health Organization (PAHO)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     }
