@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-24T21:46:26.938Z",
-  "itemCount": 90,
+  "updatedAt": "2026-07-24T22:44:48.559Z",
+  "itemCount": 91,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 7
+      "count": 5
     },
     {
       "key": "flu",
@@ -20,7 +20,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 16
+      "count": 17
     },
     {
       "key": "polio",
@@ -35,12 +35,17 @@
     {
       "key": "shingles",
       "label": "Shingles",
-      "count": 4
+      "count": 5
     },
     {
       "key": "rabies",
       "label": "Rabies",
       "count": 2
+    },
+    {
+      "key": "dengue",
+      "label": "Dengue",
+      "count": 1
     },
     {
       "key": "general",
@@ -49,6 +54,45 @@
     }
   ],
   "items": [
+    {
+      "title": "CDC has announced record measles numbers. See how bad cases have been. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdWJUXzlWMWlXb3VsVlNNVklnZGRVTFhpVjMydlE4Q25zMlFJUmJWVkZubzV4N0o4Z3VhQVk4VDdGTzZ6YXptYXY3Zl8ya2pfNEFIdU02NFZHM3VJTDQtVW1JVDVsVmxVUnZ5VzNaV2k0V3UzdU4xS2J0Zm0wNzZ0eVJ0bmZtQ3U5NFNtM053QkpQZl9EbDhOZ3Y4UV9EbWtIM0xNVDJSa0cyNzAwXzVyZ1Q3NzUyMVBjV1E?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 22:16:34 GMT",
+      "description": "CDC has announced record measles numbers. See how bad cases have been. The Washington Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "‘Effective’: Florida surgeon general talks measles vaccine amid spread - WKMG",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWDVNTUx1eDR1QnhwVkdVR3Jpa1JXbnRwWkdpcHY3OWxrLXlmNHBPdjd3U085aXczZkhFSm04R1dnbVdXUEZkVkJGUHQ2dE1aUWEzaVZTVDdpem92cGVhcXk5VWlFNElvSWUwRGhQWHYwSFZqZU5pNTRaV2VJT0hFNnNRSnk0bExMQWVnenhwTzVPZmR0c3NnbVp3QnJNY0ljSUFMQ2w5cEEzSThyQnRpVzF5a05lWkdjZ1E?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 22:03:09 GMT",
+      "description": "‘Effective’: Florida surgeon general talks measles vaccine amid spread WKMG",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "State vaccination rates continue to fall - Enidnews.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNlUtUTdWdVQ4WExVR0JPb2hRNmNmZlBXMTBmZHIzcHZDbGFZUFRnVHpSVkFpTHRGQWc5MXdfSVZkWkp3N29oUTk1ckNLcGNHdElRbm5oUFZiTVpTMU9tRmd0Zm9LbjZEWlNIMzJXTHlUa1hVT3ZxYXdrUTdmY1BobXgwTDBnRjk4WWNRVDNhdlMxTGE2LTQ4eF9ESk1nZzhaNnhRMTlNbGhhaXJPVUlrSUNVUWVURDhxV3BLNQ?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 21:42:00 GMT",
+      "description": "State vaccination rates continue to fall Enidnews.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "The viral online attack on Pittsburgh doctors that sparked a national debate over vaccines - Pittsburgh Post-Gazette",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemtLOU9JOFhOT0xmRlI5dFE3cE1Eb3MtRUtPQnQzanprc1pxS2hnbjJkeHJ5WlNTcTNsdmtsTldYNHJVWjVuWXp5VkNZd3NpS3RkZXdOdVZvcmExWm54b2JpYXA4WGZMRGxndXlQWlNncUFjMnkzQS1VMG1kMVBsVjVFWnNrVTNnMTN0YmhrT2pJZzdGRTROOHk5VmVnMmc?oc=5",
@@ -89,6 +133,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "PD Editorial: We can fight the measles. Will we? - The Press Democrat",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNk9pU3ZTaEtTVDlQWVJUSTFkMUJhUDRNbUtreTFpektnUmpyUjl6NXVvSExSZkZTOVhDUUhKX3RaOE1Calo4azg0NXpjZ3NWeXRpWW1PU2lZemRNcklyTDhvQ2hWUGhHSlJaemJMTXZySmRFaTVGNWZ2WExUVVhOOHZLd3ZxLXM3N2FTNGd1b0c?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 20:53:44 GMT",
+      "description": "PD Editorial: We can fight the measles. Will we? The Press Democrat",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "opinion",
+      "articleLabel": "Opinion"
+    },
+    {
       "title": "Ninth Circuit Revives Vaccine Bias Case Against Kaiser Unit - Bloomberg Law News",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRkZCa014dUFUWlo4dGNyczFlRUI2LTN1Rmt3eXAxMXJ6VjBWa2tITG9NWWN3cDE2Ym03NXNBNlgxd18wekZhdnhuclBibjZPcWVvU3RGQ3R3RU9uRTdnNnBGaWloYlloYkZISGZZVTlCVHpiN1dzOGNGbHdjSFlpaWMyVDhmY1VRZ0d3YzFIZ0gyYWlhdUFiZi04ekJiQVYxdGhFendDbWNtUTIw?oc=5",
       "pubDate": "Fri, 24 Jul 2026 20:42:00 GMT",
@@ -98,19 +155,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "CDC has announced record measles numbers. See how bad cases have been. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdWJUXzlWMWlXb3VsVlNNVklnZGRVTFhpVjMydlE4Q25zMlFJUmJWVkZubzV4N0o4Z3VhQVk4VDdGTzZ6YXptYXY3Zl8ya2pfNEFIdU02NFZHM3VJTDQtVW1JVDVsVmxVUnZ5VzNaV2k0V3UzdU4xS2J0Zm0wNzZ0eVJ0bmZtQ3U5NFNtM053QkpQZl9EbDhOZ3Y4UV9EbWtIM0xNVDJSa0cyNzAwXzVyZ1Q3NzUyMVBjV1E?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 20:17:20 GMT",
-      "description": "CDC has announced record measles numbers. See how bad cases have been. The Washington Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -137,19 +181,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Alabamian tests positive for measles - Chattanooga Times Free Press",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOUdBUGFJOHI3Ni1vUVo2aEMtOU45OVU5R2EyQ0lyV2pnZHRIQzdHdGNJSVFEejFsMkF2S215d1g3WmM0bEdBYktTcGtscGtqWUwxeE1qVWVMazJjVTZpcjJ1LVdfV2RlNWt3SGhKdURNT2RlVkhPWUJuY3I2WU5ibUhmWWk4QTVWd011cnln?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 19:23:00 GMT",
-      "description": "Alabamian tests positive for measles Chattanooga Times Free Press",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -271,10 +302,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Opinion | Vaccines are a blessing. Let’s not forget why. - The Washington Post",
+      "title": "Opinion | What could die with the last person using an iron lung - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb1BlNHk4Rko4NW1WQmJobWIxWVdCaENXWDFheEhINFVBbm5ZUE5ZUmVRNzlCcHEwMnltNkZhLVFnck1JY0ZSRmVxYjVHaVg2b0EzcWNWa1EyNk1SelExQm1kaVBrNDU5YUJ5ZUFNamE4OWZGdk1tYXFaeHM1elJFbWhreTVHRWNIMjBwSHdpb2YxNHc0TFRGaHpQVUxOMUlDZmlrUUlDeU0xLThtZmxUaw?oc=5",
       "pubDate": "Fri, 24 Jul 2026 17:15:00 GMT",
-      "description": "Opinion | Vaccines are a blessing. Let’s not forget why. The Washington Post",
+      "description": "Opinion | What could die with the last person using an iron lung The Washington Post",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -467,7 +498,7 @@
     },
     {
       "title": "First person gets new experimental vaccine for Ebola - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGdGw5eG1BUE5yZUZLQXNmcGp3NGZISTNVbmFSNE5YZlR2X1hyTkNCakpZMHgzQjFDT3B6blNIeE1iWmlXb1pvYXF6d0YzenoyV2FhQ25weVRJdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QOENVVVRLdzZfLXY5TlI2TnhicUdwb0ZoNUN1S0pxZGtIUHluVGRUWXJrNDNZMWVmQ0xTY2ZYbDBJSFdLdVJCTmtVOEVUMTNjS1IzUkRTajFuV0RP?oc=5",
       "pubDate": "Fri, 24 Jul 2026 14:43:51 GMT",
       "description": "First person gets new experimental vaccine for Ebola BBC",
       "source": "news.google.com",
@@ -527,32 +558,6 @@
       "sourceLabel": "News",
       "vaccineKey": "shingles",
       "vaccineLabel": "Shingles",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Israel looking to purchase experimental Oxford COVID vaccine - JNS.org",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQWRuWUJSbzVNSTB1eXB2djVxd1MwaV8yNEFaT19aSUVEaF9zMU8wa1hVRXRyV00yMG5iNkhOS3RzbHktZ0N2WEh3dXEtSFp1RnZyWVZndWd2NmgwTU5tMlV0dW5TdnczTmNQX1daamNkejNJS3gzdzJfWFhWUGhSYW52cXFkRGV6ZjREaHF3?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 13:42:41 GMT",
-      "description": "Israel looking to purchase experimental Oxford COVID vaccine JNS.org",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "US biotech firm: Human trials for COVID-19 vaccine could be held in Israel - JNS.org",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYV9wSDJzSl91cGNxYlBLS0stUzVvajhmZVhob1JaNUVGLWZaTERueVRuVkVjNjVnSF9kUUFNUTJIc1d0UW03b1JGSEt2VHQ0dHE3VDI1VFVva0pRR3JfMGpkUzJVZXluVGdlMDhIdW9vc3JkYUlrc1pDS3JSbUN0U1FfR1ViVjlIQjIxdTRmS2ZYc1Q3b2pZYkNDZGxwclBJ?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 13:42:33 GMT",
-      "description": "US biotech firm: Human trials for COVID-19 vaccine could be held in Israel JNS.org",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -713,10 +718,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "A Pancreatic Cancer Vaccine Shows Promise Following Trial Study - News Radio 1200 WOAI",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZTJFUzM2TURXWnhkbXR0UmZLU0F5Mkw4V2pyckhrdFBLRVlvM2c3MC1SaGNiTjFrd042RjRGTnV0SVBTUENfSnVOS3QxcTYxVEEweEg2Y29jU0d4ZC13WUhzYUtVVDFOcHZBVEV6dGVpOEktZlpfS09nMWJrNFhtZTU1Z0pTanMtMDFQbHR4aTk5SGdQVDhMZEI4S1VLUG9oRXduUWxHdW1FeFZjNFB2bDVjcVI4aG1qQVY2QmZDakpfV2pKX0d4V0l5cmRDdVZiVGJyYkIyZw?oc=5",
+      "title": "A Pancreatic Cancer Vaccine Shows Promise Following Trial Study - NewsRadio 740 KTRH",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMlI0a2JWTGQ2TW5PS1lzSXRhdGhiY1B3V0pJMFRzQS1Lcnc5bVBmOUZManJIb3VodE5mc1NLeXRRcDNWbGkyNlRHMXB5SlVDTk4walQ0Nm95LU5wdVRrMUh2aS1zSXhOYkIta3lTNEhnb09sYVhvTWtyNzZNdFpwVFJqRklFa19WdW9UdHo2UGtEVTNKNVVLQzEwM1lMUVhoeGlZbllDcDNhMC03WUR4ZC16b2VHYnlWTFRLZHFpZWpRUDJVVU5BMjJ2cDRIczhD0gGzAUFVX3lxTFBibnpEVzh1bFhCMldTUWhGTFh5RkRVMlJxMG9sZjM1TzNsVnk0SmpiREdSU1VEWkxsMGJXS0VTZ0d5UERKSllSdnpjbFBLX2o2a2lNZWR3MkxsaFZxc1BpeHhGRmVOSktITzBka2lHYU16UXRBZHZRZjlZM2dMeWJzOVNiYURVWkJldWM5dUVway1WQTRjYlVPNnpGRG1ZLUNBYktNRnFtaThsMnB1djRLMzBr?oc=5",
       "pubDate": "Fri, 24 Jul 2026 08:30:00 GMT",
-      "description": "A Pancreatic Cancer Vaccine Shows Promise Following Trial Study News Radio 1200 WOAI",
+      "description": "A Pancreatic Cancer Vaccine Shows Promise Following Trial Study NewsRadio 740 KTRH",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -765,19 +770,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Larry David Appears to Mock RFK Jr.’s Anti-Vaccine Views in New HBO Series - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaTNsRHhzWjBtSFZ4bEQyMjhDM1lFamJFT3djY0ZlZjJjaHdzSDFiOG5TVlRJMWEySGtycHdJamlFWGZUclNYeHpoWXYwb0xSTU41Z0JQbF9MNno3SFF0WEVTMEtLems0SDdVX3Yxc01fQkI3bFJfYUwwdmlXbnRuVmlmR24yVzlUZ2E1bWMtN3huOGNIQmc?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 05:20:00 GMT",
-      "description": "Larry David Appears to Mock RFK Jr.’s Anti-Vaccine Views in New HBO Series Yahoo",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Start Smart! Back-to-school community vaccine event at Super Shot - The Journal Gazette",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVVlwbjQyU1lPb0hsaFJjTmppbEQ3dzhWRE1XeUxjY0g4OGFiQV9vWGdJTjA4SGs0Qm4xNWpwZEJNaGQ1Y1MxZGdKeFBwcFRTVDNXVkRxTk41RXBPakEzVTVma0ZDVk1rQWFabzFGd3JQaTU5MU9fQ2FFZ2J0aXdaZVJEelFxOHhUTUh4VHZjWXd1YV9OVEhUQ0Z2OHZ3bUlITVBvei1qQ21oYzhLeWJnbHRTT3VCOGVUT2lYaExHSkxYdjRyVzBpU195emVNNExmMXdRa05UT21ET3ZfY09IcTVjb1BBQQ?oc=5",
       "pubDate": "Fri, 24 Jul 2026 03:45:00 GMT",
@@ -817,10 +809,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "NMDOH offering free back-to-school vaccine clinics for children - KOB 4",
+      "title": "NMDOH offering free back-to-school vaccine clinics for children - KOB.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd3VIRUI0VmhoQnZLOTE4MVlVQTBCckVZdkNzTV9lQUt5eGJDcXAtSWxTTkRRZlNsVHFjOW13ei1haUR6LW9kV21RLVA2VWVLcjlmQkMtbzhJOUtiTWZTZnZPUTFXT2JsQ2VZMElsblZNcF9rUjZaeV9NcFZjQkRqOFBkUDlndWlXMm9yc3U5VnRvLUYxM3JYem93RQ?oc=5",
       "pubDate": "Fri, 24 Jul 2026 00:25:03 GMT",
-      "description": "NMDOH offering free back-to-school vaccine clinics for children KOB 4",
+      "description": "NMDOH offering free back-to-school vaccine clinics for children KOB.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1025,19 +1017,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "WHO Africa/Gavi support mission to the DRC to step up immunization efforts among children. - WHO | Regional Office for Africa",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdFVDZnp5TjF4TVplU3BzOW94N3hIclM4SXFwSURjUUZ3WWRwbjRDc0dDUmVjaDBJZVNmb2xOd25CLTRiSE84dzk2MEhPLUxzY3pBUkg0dW5Ld0ZfMS0zaHZZWm1Pc2cxOE90VlFjTDdyRzRxamVWM2U4Qm5rRFE1d1NlOUJCaDJWdU1OdE92U19BRW1wN0JsYUg2eW1vaFAzLVlXQnNLWWpSLUtSUDlDV3BqZ3FMbUNCdUZfVXBlVUZLZw?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 09:41:24 GMT",
-      "description": "WHO Africa/Gavi support mission to the DRC to step up immunization efforts among children. WHO | Regional Office for Africa",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Cabell-Huntington Health Department Adds Additional After-Hours Vaccine Clinic Ahead of School Year - Cabell-Huntington Health Department",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTJUUnJ4N0ZidWlSZjl0cDltTTlDdTRBajM0TzJjNGloeFFobENXWnQ3eHRfSVpKMnc1Q1hBMGFDcEU4SjEzUURURDNIQk12RnU1eDlaMXQ3S3lJTGxCV0N4Y3hDWXRublZKUDhKYUlESjQ0MlQzUFRtdU9rSHFQTmk5VFNFQmpMOFZZV3EycHpHQmdEMERkQXVXT21Ca1lPU18xSXQ3ZTREenBIOG1ranY1TThVYjFhODhvRUlibGxvWm1SLTR1MFVBS19HTjc0SXc?oc=5",
       "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT",
@@ -1060,6 +1039,32 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Health department to hold free flood-recovery vaccine clinic Friday at Wesleyan - My Buckhannon",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVmFwdDhxRlBmZm9Sc21MWWxzWERoZ21YM05ET2RUOUFUUlpIOXNRaVllWG4ydnBLQnFQYzNCNXVtTnJZWTU0X2xYSHBKLXhOWUo2d3R2RXZzWndzSFdOOE01clhWRGZQYVpZeUFmYmZSbXcyRTR0dHFiNkVBSUU1Y3hsdTlxdmhSWDkxWEZ0OXlYZXpkUEsySVFPUkE2NktNRlRaNnkzZ0IwREJmTUE?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 01:09:00 GMT",
+      "description": "Health department to hold free flood-recovery vaccine clinic Friday at Wesleyan My Buckhannon",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "India: Takeda's dengue vaccine approved - Outbreak News Today",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbWJUcVkwY0ZadVNGVTJjaFg2SW9NMXVYbUhkb1JZZTQ2N1VqVVdFS3IzUTBEanRUQWZVZGowd2VaR0JEVnhpcl83azliZE14U1FhTnFiTlBPeGZfR3l2ZDVoNEFaWmlOeUg2aWJqNFJ3M3hQTnpaRzZjUGRjOEcxaFZ5blM?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 21:44:06 GMT",
+      "description": "India: Takeda's dengue vaccine approved Outbreak News Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "dengue",
+      "vaccineLabel": "Dengue",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1177,6 +1182,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Timing of JAK Initiation, Shingles Vaccine Administration Can Affect Outcomes in RA - Vaccine Advisor",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRFdtR0RTMV9EX2E5Q2JxLVJYRlJPM2ZlNFU2c2V3SHlGbDZZblN0S3IySGZSUmZKajlGWVlZU01sQ0dBVUJ2V0R5Yml4Y2czRjRzUTltVGk1YzNPUk90cEtZVTc4c0ZqbXhmZUhYMXprbG9ZbWd0Z2FYdDd6c1g1ZVIwLU5uWGphOERJLWJHR2dhWHVhSjRrYTNOTmxWZGZJVnNQbDhxYk54bnlpU0x1WHlwUnAyV09Vd2ow?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 04:00:00 GMT",
+      "description": "Timing of JAK Initiation, Shingles Vaccine Administration Can Affect Outcomes in RA Vaccine Advisor",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "shingles",
+      "vaccineLabel": "Shingles",
       "articleType": "news",
       "articleLabel": "News"
     },
