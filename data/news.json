@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-24T03:36:02.871Z",
+  "updatedAt": "2026-07-24T05:30:48.016Z",
   "itemCount": 89,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 8
+      "count": 9
     },
     {
       "key": "flu",
@@ -20,12 +20,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 17
-    },
-    {
-      "key": "hpv",
-      "label": "HPV",
-      "count": 1
+      "count": 16
     },
     {
       "key": "polio",
@@ -60,10 +55,23 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 50
+      "count": 51
     }
   ],
   "items": [
+    {
+      "title": "Start Smart! Back-to-school community vaccine event at Super Shot - The Journal Gazette",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVVlwbjQyU1lPb0hsaFJjTmppbEQ3dzhWRE1XeUxjY0g4OGFiQV9vWGdJTjA4SGs0Qm4xNWpwZEJNaGQ1Y1MxZGdKeFBwcFRTVDNXVkRxTk41RXBPakEzVTVma0ZDVk1rQWFabzFGd3JQaTU5MU9fQ2FFZ2J0aXdaZVJEelFxOHhUTUh4VHZjWXd1YV9OVEhUQ0Z2OHZ3bUlITVBvei1qQ21oYzhLeWJnbHRTT3VCOGVUT2lYaExHSkxYdjRyVzBpU195emVNNExmMXdRa05UT21ET3ZfY09IcTVjb1BBQQ?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 03:45:00 GMT",
+      "description": "Start Smart! Back-to-school community vaccine event at Super Shot The Journal Gazette",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
     {
       "title": "Indonesia vaccine coverage rises despite challenges: UN report - Asia News Network",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVlNnVUtZWTRIdWN0SFUyUFo3bVNXMkcxWkE5R0FVMEtrVDFaM014aU9BaVVpSC1aWWctMVhLRHlnOTc3MWtQMVN0QUJPSjFHUGMzX19tanh5NFBhTXF3dU92NklPT1U3ekRIVzJtYzVYZkE5bmV2STZYUjBUU1FLd3JFVW11QzNQVU9LZkJWWDI?oc=5",
@@ -74,19 +82,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Ukraine distributes over 38,000 doses of Gardasil-9 for free HPV vaccination - Межа. Новини України.",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PWTJtN1dITm9xakd4WTZuU3NvdkE0dG1JbjhlYmw3cXRnSlF1TW4yc04wMmQxaXlBSVA3S0g1VndfdEJjN1g3b1p4SERZREF3V0VJTjVOdzF0VWZGX1d6Z0VfZFRWOTJHMlpIS0Fqdw?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 01:56:37 GMT",
-      "description": "Ukraine distributes over 38,000 doses of Gardasil-9 for free HPV vaccination Межа. Новини України.",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hpv",
-      "vaccineLabel": "HPV",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -113,19 +108,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "UPDATE: Delaware Declares Measles Outbreak Following Five Positive Cases - WMDT",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYXBtejFvazZCRl9fbkVadnhYQXJraDRIajJ0dkFYMHhSSGFtTlpCcE5TNUl3V015Z3ZfYkNPNU5uamN2ZHZ6VHg1MDFoV3hfY3JIT3ZKdXdsYnM5RE1pMEpoR2VjdFAyMEhJQUFUaEc2VUpnOEpVWTFGVGlyM3BMRGp6MUNjY0p0Xzdva0VkYTJYVkJ4Q2Nqc0RrWTgwN3hINUE?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 23:02:04 GMT",
-      "description": "UPDATE: Delaware Declares Measles Outbreak Following Five Positive Cases WMDT",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -429,19 +411,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Free and Low-Cost MMR Vaccination Is Available Right Now Across the U.S. — Here Is Exactly How to Find It - Medical Daily",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYmc4ejNuNE5tQnZwc0QyeG1OclpCVWVqRUphdDZUcWN3TU1PdkdYVUdWaDdha1JaY3o2ZjFtSGZKcmdrbjZtQmdOaVlWREh0eHpkbUduaHNFNmtMZEQwMGt4NW9iNHV4WlJCaWVMT0VwU3MyTUxuODRHWDh6emRSZlNJblQteEpxOUx4Mnh0bnNRNEhhOC1fRTFCRTRxMjQ?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 16:00:59 GMT",
-      "description": "Free and Low-Cost MMR Vaccination Is Available Right Now Across the U.S. — Here Is Exactly How to Find It Medical Daily",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "US Measles Cases in 2026 Have Already Surpassed Last Year’s Total - Truthout",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX0t1YzBTUVRGanBhcm0xbGY5aGthemRTV1dYNkh6cmRxY3RYR1llcWZSTWZPWnFlYzZkd0xHRURxbGdXTXFSWWhxS1RiX0d4LXpIWDRQWmZBbGNlQ1dXc2N4Q3JJRFViTkxpdW4xdE1nRDllS1NlRmFtWTZxN29BWW9ZcUhSY3h1cUZ0ZzV5ZGpaSWtlcnhweDJPZw?oc=5",
       "pubDate": "Thu, 23 Jul 2026 15:43:43 GMT",
@@ -568,19 +537,6 @@
       "sourceLabel": "News",
       "vaccineKey": "polio",
       "vaccineLabel": "Polio",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "WHO Africa/Gavi support mission to the DRC to step up immunization efforts among children. - WHO | Regional Office for Africa",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdFVDZnp5TjF4TVplU3BzOW94N3hIclM4SXFwSURjUUZ3WWRwbjRDc0dDUmVjaDBJZVNmb2xOd25CLTRiSE84dzk2MEhPLUxzY3pBUkg0dW5Ld0ZfMS0zaHZZWm1Pc2cxOE90VlFjTDdyRzRxamVWM2U4Qm5rRFE1d1NlOUJCaDJWdU1OdE92U19BRW1wN0JsYUg2eW1vaFAzLVlXQnNLWWpSLUtSUDlDV3BqZ3FMbUNCdUZfVXBlVUZLZw?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 09:41:24 GMT",
-      "description": "WHO Africa/Gavi support mission to the DRC to step up immunization efforts among children. WHO | Regional Office for Africa",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -741,6 +697,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Delaware Declares Measles Outbreak - State of Delaware News (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5MEpUeUI2QXdYQ1V2WVR2TGU4VkVJVEZoVXVDVFJ6OHNvdWZhLV9zLWRnVGhpbWJhWUVBTWliUlZzX25UdVlwN1RXaVJpWlhhT0lPZklnT2VZS2dJTW5seFNpdjNCOXd0eUVYVkUzczdBUnRsR0ZIUnJmUkM?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 19:26:10 GMT",
+      "description": "Delaware Declares Measles Outbreak State of Delaware News (.gov)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Bay Area authorities urge vaccination to prevent measles outbreak - NBC Bay Area",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcXBnZ1VmbUl1MzRwVVhua0p4bXVHU1BiUDlucjdTLV9zVWlucGdOOXNVMFFWcEV1amUzZnBtVk52ZVU5YWlfSy1TcVlyWERISFB6YktYWFRyTGhvVzlXVnYtcVFsczhwR21zY1J3RmIyck5JN0xSUXNuN0duZDVuLU5NaThDN0o4QTNGcC0xeWE2UW00R0ZB0gGfAUFVX3lxTE5FWDlXUElqeE0yRUIzcmhKTXh0NzdNUVhhQ3JuR2FWU3FzOGJEYm12NXRFbURraEpBRUVDRDdidkZiN284em1Icjl0LVk3U3BMNHF5eGl5eU8yN29SYmxkWWF2R0xnNjRHV1pfazBXWW5Ub09BdWZyc1NuWjlSbWdaS2wwa0szcE83aTk1eHh1TWs3SFJUSVp0a1daN2JFWQ?oc=5",
       "pubDate": "Wed, 22 Jul 2026 18:33:10 GMT",
@@ -776,6 +745,19 @@
       "sourceLabel": "News",
       "vaccineKey": "hepatitis",
       "vaccineLabel": "Hepatitis",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "mRNA COVID-19 Booster Outperforms Protein-Based Shot on Antibodies, But Both Cut Infections Over 12 Months - Pharmacy Times",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNFhHc2FnTkp5VXNNN3VGdGF4RHV4MDR0UnhFdVpVdGRoUGJoa2hEekRLVHI2X2NxMkJHcTExcUVaMVRTbjNlYnZRR1VlRXZSX3lxMkNlbEtkZC1tVmdod2xNa2NUcUJwZmUxb2JsUmpHUWt6NWhST1h0TTd4QXlDdi1MSU80OWhHanJTdlFFVlMwT1p0alBoQ21uRElWU3NGM0o1Xy1SRGwxZTVXdnU5ckQtLVBxSC15WEhZMkhTVnRWcGtmM2hUNFVoNU5lRmtkdmlaRW9vbw?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 17:25:11 GMT",
+      "description": "mRNA COVID-19 Booster Outperforms Protein-Based Shot on Antibodies, But Both Cut Infections Over 12 Months Pharmacy Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -923,19 +905,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "What Bundibugyo Ebola vaccines and treatments are under development - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYWVxaGdpMVB1ZVpOUVoxdTQyQ25raGVhUVgtYjk3R3NBWHVlbGhaMVV3Z0hsV0ZYRUNKa1k2X1RBRk9UX2xZQ0pjSGUxUjhqVXZxSlRHQmllV1NwanRZZll0Y3BNd3pqNWhwbE5Bdm92T1N4OEhZTWRsaDhoNEM4ZWxnUjVMX1pyWVExRDJfM2oxRnNFVHM1azdtV1hZYUdQbTlwVWRBcW9IYm1wMkw2QlRPS2lwWlYtMC10Uw?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-      "description": "What Bundibugyo Ebola vaccines and treatments are under development Reuters",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "FDA: Iceberg Lettuce Recall Stands After False Positive for Cyclospora - Vaccine Advisor",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeFVyYXgwb1hldWRWQXFiZ3k1aHk5anl1alpoYnpWamJoLVdhdE4wS0RMYTJuS0pzSTRlQVRJNHdRS0g1MnZzNXU2Y2w1NGFvRXVlMVE3azdjV3ZIQ0dOOGw5MVZ5OXR3UE5oeklIQVo3bmpBWlhxTDFzbnBPZXpkNzQ0VFNMLVhMazR4aUtwdUtCU3RnRFhqRXRGZ29tbzhlZWJ4YkU5M25nZw?oc=5",
       "pubDate": "Wed, 22 Jul 2026 04:00:00 GMT",
@@ -1025,6 +994,19 @@
       "vaccineLabel": "COVID-19",
       "articleType": "research",
       "articleLabel": "Research"
+    },
+    {
+      "title": "Global childhood immunization coverage inches forward despite conflict and hesitancy – UNICEF, WHO - Unicef",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMlJ4TkQyZ0hJWUhXQWVBS1EwVWtZWVVVT0FfMUU4Mi1HcjNjZ0xPcTFWLUpRZTNVSFRqZWlfODJPbE1sWkh6THg0RHpDUDFvTEtfNEZ3bGlFRFctX19ielBiZjE3TGNHV0QyMk1iMlduQlE1T2ZqamZmQmhpNXhPWlhIak1fMnBkM2pPalJ5dVJKM2l1R2JVWU91MlVxckh3U0dfakJIVWZObEd3aWR3Z21heVRUNFBucXZWWXRSQW15alJsTmlUc04zZGRPZkZRX2xVZTlfYWZfNVNxNTM1ckxval9RcURGMGVXT3hJdmtEQQ?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 18:34:34 GMT",
+      "description": "Global childhood immunization coverage inches forward despite conflict and hesitancy – UNICEF, WHO Unicef",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Vaccine May Prevent Pancreatic Cancer in High-Risk Individuals - Cancer Health",
@@ -1187,6 +1169,19 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ1R4cUpDbVhxMGMzMExZdmFBSHFESll5OUZ0Z1NPRTNWQmsxM0tHTHR6UzgxYkpjeUg2R2RnQ2ozTlViT2YwbWdPcVFFMzEtX05oUjFBQXFVemowVjhmYjB3SHRyWjB5ME5SYXRieFZSY3NhSENMRWIwdWVFS2lsLXpWc0hlaW9RS01jbDRfTmN2eEFkVDlpX3lxNkRWVDhLVllVMHJNVlRWQ2hSVVE?oc=5",
       "pubDate": "Mon, 20 Jul 2026 20:36:17 GMT",
       "description": "Child vaccination rates continue to drop in Oklahoma as exemptions rise Oklahoma Voice",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Mutant KRAS Vaccine for Prevention of Pancreatic Cancer Development Shows Durable Immune Responses - The ASCO Post",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNzJMQnBRU0lRUzE5NktJVjZKcUxzQTBzU014TGZZbURqWFBCWHJIYXk4MFBZOW9JOERCNDBvTTRabkpiNG5aRUx0YV9fRHJiaEJ6QmxycUtBek5tM0Fzcl9UTXhRc2ZFQmJLNU5nOVdXY3RJeDJBRXhYbFN6a2JTYmdQUWZIUVplaUpxU1VqamZvYnNKTWJ5aGp5LXNpSUxkdnFiaTdqQnBVS3pfMGZRcUFzTUg4N0JxYnBENjNYUFRjQzQ5ckQwT25yOGVqUzRr?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 15:33:18 GMT",
+      "description": "Mutant KRAS Vaccine for Prevention of Pancreatic Cancer Development Shows Durable Immune Responses The ASCO Post",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
