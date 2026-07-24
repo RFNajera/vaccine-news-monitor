@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-24T15:54:48.441Z",
-  "itemCount": 76,
+  "updatedAt": "2026-07-24T16:59:25.402Z",
+  "itemCount": 75,
   "groups": [
     {
       "key": "covid",
@@ -20,7 +20,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 10
+      "count": 14
     },
     {
       "key": "polio",
@@ -45,15 +45,80 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 49
+      "count": 44
     }
   ],
   "items": [
+    {
+      "title": "US records 2,318 measles cases, already surpassing 2025 total - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZEMxMkd2dXYwZDcyV2FhN1JRbXA2RHg0N3F6cUw0LXlGYVN1Nk9aOUEtVHBvc1oxTDZxdHRRLWYtQ2EwbjZVWVI1MFFuSW5pTzhZR0ZjN1h0STFpc05FaGg3aEFrYUZvcU93QldTc2J5VE9LNWRWS0hOY3FKUngwRUs5TzFyMGE0cmJBbGNrNkkxbG1rd1BNazRNR2I0bndnRTV4QTZFNlN0Z9IBrwFBVV95cUxORUdBZGxMWHVFM2xmXzV0WV85NDVIYlBBMVprZzdwQUJuelFuaWNqYWRyM2FYeFppNzJ4SnJ0M2hiSUYtOU9lLWlFSkRsMHVDMWRrRUM4ZHVtZGJOcUpvMHBxNkZNV3V5bjRpcElac3BTazk5OHFtT1hKMzIzLWxwa1BjRGRXVWxuVWFvMVhqdFJWdFo2QkduZHlCdndybEQzMFNlNEVBOU1hNU1wWGI0?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 16:52:44 GMT",
+      "description": "US records 2,318 measles cases, already surpassing 2025 total Al Jazeera",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Hold Off on JAK Inhibitors in Rheumatoid Arthritis Until After Shingles Vax? - MedPage Today",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54UTVqRUw3OTJBeTZ1UlFKb1JJOWZpX0M5VmdLUXNQUFppN2hCM1VrT0tFb0c5VTYxZjFNbHd3SjlPVWhlYzhvY1EtanFUZWw4dEdFTXFLNUUwVl9obEVRSFhnWkpDUVBPQ1VjczhoRQ?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 16:46:08 GMT",
+      "description": "Hold Off on JAK Inhibitors in Rheumatoid Arthritis Until After Shingles Vax? MedPage Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "shingles",
+      "vaccineLabel": "Shingles",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "As measles cases reach record highs, see your school’s vaccine rates - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMmJzQUNYUjZuTFFTWDhRSENIdmRmZTA0dzlHTjZkbktmUnRvN0FpdTFZYkF6WG9raEluSUZxdldSNTRlRC1ld1FZSlA5ZjhGRWdwZ1JVUF90UTljd0g0TTJMYmJUWHJtNWtDc3RPMmdlTWthc2dBUWZuOEhneWVGZW5ERy1HVGUwUXdSMjNjMjF6S1BBODFtT1dhek9MbVFzU1kwMm1rdzhIRV9jMmF0UnpxYw?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 16:32:36 GMT",
+      "description": "As measles cases reach record highs, see your school’s vaccine rates The Washington Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Opinion | Vaccines are a blessing. Let’s not forget why. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb1BlNHk4Rko4NW1WQmJobWIxWVdCaENXWDFheEhINFVBbm5ZUE5ZUmVRNzlCcHEwMnltNkZhLVFnck1JY0ZSRmVxYjVHaVg2b0EzcWNWa1EyNk1SelExQm1kaVBrNDU5YUJ5ZUFNamE4OWZGdk1tYXFaeHM1elJFbWhreTVHRWNIMjBwSHdpb2YxNHc0TFRGaHpQVUxOMUlDZmlrUUlDeU0xLThtZmxUaw?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 16:17:27 GMT",
+      "description": "Opinion | Vaccines are a blessing. Let’s not forget why. The Washington Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "opinion",
+      "articleLabel": "Opinion"
+    },
     {
       "title": "CDC has announced record measles numbers. See how bad cases have been. - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdWJUXzlWMWlXb3VsVlNNVklnZGRVTFhpVjMydlE4Q25zMlFJUmJWVkZubzV4N0o4Z3VhQVk4VDdGTzZ6YXptYXY3Zl8ya2pfNEFIdU02NFZHM3VJTDQtVW1JVDVsVmxVUnZ5VzNaV2k0V3UzdU4xS2J0Zm0wNzZ0eVJ0bmZtQ3U5NFNtM053QkpQZl9EbDhOZ3Y4UV9EbWtIM0xNVDJSa0cyNzAwXzVyZ1Q3NzUyMVBjV1E?oc=5",
       "pubDate": "Fri, 24 Jul 2026 15:52:41 GMT",
       "description": "CDC has announced record measles numbers. See how bad cases have been. The Washington Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "There are already more US measles cases this year than in all of 2025 - Pottsville Republican Herald",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RYWVlZlhqWjZZazVTcF95eFhzOWkzY0E4cU16ZzZhYjdMSl9hOVlaTnM0OXBCSjZ3QmpWQk9BSWNkbzI1VmNNb0tYb25KbnkzX2tpaDV2VXBUUXp3cm1ITUZENHdMTFpfSk1XaHIxaXdJbHA3eDJZ?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 15:36:29 GMT",
+      "description": "There are already more US measles cases this year than in all of 2025 Pottsville Republican Herald",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -76,10 +141,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "As measles cases reach record highs, see your school’s vaccine rates - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMmJzQUNYUjZuTFFTWDhRSENIdmRmZTA0dzlHTjZkbktmUnRvN0FpdTFZYkF6WG9raEluSUZxdldSNTRlRC1ld1FZSlA5ZjhGRWdwZ1JVUF90UTljd0g0TTJMYmJUWHJtNWtDc3RPMmdlTWthc2dBUWZuOEhneWVGZW5ERy1HVGUwUXdSMjNjMjF6S1BBODFtT1dhek9MbVFzU1kwMm1rdzhIRV9jMmF0UnpxYw?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 15:30:29 GMT",
-      "description": "As measles cases reach record highs, see your school’s vaccine rates The Washington Post",
+      "title": "U.S. Measles Cases So Far This Year Hit a Three-Decade High - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc0JOSG5xeW14RnlSZGR4a1lzaVNubWw1UlZKdUZ5c0JPbVlFRWNSUVNaUG81RnVQVUtlVVEtaVBKeG5RajNYZ0pIVjVfNnkzRy16TVJUYzFyS1ItMFJtVGZVQVFlLUYwSG1jVmN2Qy01RDFQbEVBUGFJMGUtVWNQMVNsdGVHMk9YRXV2MlhvTDc4bFZxMFF1SFM5d0dlMXlLWDRuemYxSXRHSmx5S2xOZ1JlOUtNWUhTM3lZ?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 15:25:12 GMT",
+      "description": "U.S. Measles Cases So Far This Year Hit a Three-Decade High WSJ",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -154,6 +219,19 @@
       "articleLabel": "Research"
     },
     {
+      "title": "New Ebola vaccine from Oxford scientists administered to humans - Yahoo News UK",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTFVsS24tWm5COVN2enVlcWxxQW1FQUh3LWJTNXdFX29rZnNUUXpGeFFkRktIeXZoNWh4Ujk1cE12ZkU1R2JuSlNPaG4wX1gyQjVMaTM0aTRIOXRPSldCQUNFZEhCMG1NQzc4WGd0M1B3LXQ5QWlJbi1UbUlLWjZURExjTG41WFZ3TkFCOXRn?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 15:13:43 GMT",
+      "description": "New Ebola vaccine from Oxford scientists administered to humans Yahoo News UK",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Most Americans Unaware of CDC's Pregnancy Vaccine Recommendations - Drug Topics",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZVlGSUxCcVJwMldmMlNuSjVLbU4xY2lRTE9ENmtjTGt1UVU1NDI4cVpQV1dmY2dHMG43TlBYTzY5TUtaRnhBbnlxOUhhbHNmQzRPc05qYnNKeE1GeU00eldkWHczYjZFSWpPS1FFR1MtX1J2WHR6MGxON1R2SnNPdm9iN0d6S2RvLXp6eThJUWliVmJiZHFUSGxuRk9ZQQ?oc=5",
       "pubDate": "Fri, 24 Jul 2026 15:05:30 GMT",
@@ -163,6 +241,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "U.S. measles cases reach 35-year high in 2026, surpassing last year’s total - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNVYtZUVuTHhnRE5nU25SZFNoRGZnTVpzZlAwZUhjY2lMOXNrYm1RRldBR1V6ak9mQ2ZVMFh3NW5XbzFIN3lwNG5tT2Z1QktzazZmemFDZmE5VUVuWUN6YjNGRzVBekZlUG5wYVppR0VzWktEYy1iQUc4M082a3l3dFFMNnlfYkpUZ2lUY01mYmhPY0k?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 15:05:16 GMT",
+      "description": "U.S. measles cases reach 35-year high in 2026, surpassing last year’s total NBC News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -206,47 +297,8 @@
       "articleLabel": "News"
     },
     {
-      "title": "Opinion | Vaccines are a blessing. Let’s not forget why. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb1BlNHk4Rko4NW1WQmJobWIxWVdCaENXWDFheEhINFVBbm5ZUE5ZUmVRNzlCcHEwMnltNkZhLVFnck1JY0ZSRmVxYjVHaVg2b0EzcWNWa1EyNk1SelExQm1kaVBrNDU5YUJ5ZUFNamE4OWZGdk1tYXFaeHM1elJFbWhreTVHRWNIMjBwSHdpb2YxNHc0TFRGaHpQVUxOMUlDZmlrUUlDeU0xLThtZmxUaw?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 14:47:26 GMT",
-      "description": "Opinion | Vaccines are a blessing. Let’s not forget why. The Washington Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "opinion",
-      "articleLabel": "Opinion"
-    },
-    {
-      "title": "First Volunteer Injected With New Ebola Vaccine Developed By Oxford, Serum Institute - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMlVFck5BSG5VM09EUzlrd0xwaGkzdzdpRHFPM2E2c2RWcU1aeGpNcG9VSGctc1ByOHZZbGFDb2k5bE5RRm5FSk5JWGFJZktqSVVkc1RVQUlzcW0yWFA5WG1TQWUtczFtVVJuZ0E5X18tbFk2R2M3MUFxMmxvWkxjNm1TMmcxZkhSWVp1OXRkTjFiRVhzaERRQ1k1QXJZSFExYko0RU9qTFhDQWJuVXhnUlBNdnkwY1pzOXRBZjNPMnJiUXc?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 14:44:14 GMT",
-      "description": "First Volunteer Injected With New Ebola Vaccine Developed By Oxford, Serum Institute NDTV",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "First person gets new experimental vaccine for Bundibugyo species of Ebola - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGdGw5eG1BUE5yZUZLQXNmcGp3NGZISTNVbmFSNE5YZlR2X1hyTkNCakpZMHgzQjFDT3B6blNIeE1iWmlXb1pvYXF6d0YzenoyV2FhQ25weVRJdw?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 14:43:51 GMT",
-      "description": "First person gets new experimental vaccine for Bundibugyo species of Ebola BBC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "First person gets new experimental vaccine for Ebola - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QOENVVVRLdzZfLXY5TlI2TnhicUdwb0ZoNUN1S0pxZGtIUHluVGRUWXJrNDNZMWVmQ0xTY2ZYbDBJSFdLdVJCTmtVOEVUMTNjS1IzUkRTajFuV0RP?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGdGw5eG1BUE5yZUZLQXNmcGp3NGZISTNVbmFSNE5YZlR2X1hyTkNCakpZMHgzQjFDT3B6blNIeE1iWmlXb1pvYXF6d0YzenoyV2FhQ25weVRJdw?oc=5",
       "pubDate": "Fri, 24 Jul 2026 14:43:51 GMT",
       "description": "First person gets new experimental vaccine for Ebola BBC",
       "source": "news.google.com",
@@ -427,22 +479,9 @@
       "articleLabel": "News"
     },
     {
-      "title": "GSK's Shingrix (Recombinant Zoster Vaccine) prefilled syringe presentation approved in Canada - PR Newswire Canada",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObV91SWREeWU5YXV3M0xSWGhBYXpVU1BLQjl4b2xSU1h5eUlfT052R0wwX2NsRlVfV1AxUHhyQmtuT0cydFV3ekV6cGUzVE9pQzhRTmlFa3I5YnRvOUl0TkFRaVJxR3lNbS1pS2h4YmZrVThKaVMtaFZPaDJrNVBIUU1LeDJCRms5RXo0UDhILXBPc1lMd2tOdENMcmZkNkxNOFpzYWdadTNnaG5kblVaemZsb2pMeHh3YkFneS1uM3RET3dxMmdKUi1EWFZXSW56N08tamdRVmdnUW02?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 10:50:00 GMT",
-      "description": "GSK's Shingrix (Recombinant Zoster Vaccine) prefilled syringe presentation approved in Canada PR Newswire Canada",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "shingles",
-      "vaccineLabel": "Shingles",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Marshall-Harrison County Health District to hold back-to-school vaccine event - Marshall News Messenger",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTmNZRC1yMmdrZ01SLXVNRG1LbU1udWRudzR2X3pkdlpPOVJrVUtoa0lGZTlfY01BVnMzekJRX3BxaGI4OWtsY0l5ODBQZ2VJSF9SZEtWdTFybFl6TnUzMmFNZ1U5U1NZamxkWFo0UEl1d3BCeHpQSjk3R3h0OGprVkdoNVdnUkUzc1g0WGhZNGtsQkFjVGdHOTlOUUVTNFVnVUM2UUVUa1NLdllDbjJuQV9KZUZvWEhsb1FtYzlKNHc?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 10:33:12 GMT",
+      "pubDate": "Fri, 24 Jul 2026 10:42:18 GMT",
       "description": "Marshall-Harrison County Health District to hold back-to-school vaccine event Marshall News Messenger",
       "source": "news.google.com",
       "sourceType": "news",
@@ -516,19 +555,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "A Healthy School Year Starts with Back-to-School Vaccines - Redheaded Blackbelt",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWlVYUXdBZW0xdUhBTXdnY1VlS2hzNUVKM1ZTQ09TOXFvcGVzZEVtNHhpalZnVWhrSC1ZbEFDREN6RVhHN3J1al9aREVRcnlkNXZBS2VQX2hvUWxQVzg4ZXA3TkFRS0Fzd3pmVjJKMnEtdWhCdWxUWWNnQ0xJWWEyVzJQZGdJZVdpNS1pMm55R2NBeUE?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 07:02:12 GMT",
-      "description": "A Healthy School Year Starts with Back-to-School Vaccines Redheaded Blackbelt",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "EuBiologics secures FDA registration for EcML vaccine adjuvant - The Korea Herald",
@@ -739,19 +765,6 @@
       "articleLabel": "Opinion"
     },
     {
-      "title": "Joliet Township High School District 204 - Joliet Township High School",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNXy1CUWVMRFNhQjdlRjVuWGtGY2tVRjREdHd3azQ5ajRLVDlTR09WNHdtVU0yRjlJZE9WM0FLcW9KWWJzUUFTVHNYb2hQMVA0eU53cllIdjBDSE5pNHdqM1hEOW01b3FtTTdvWHZheG9KWDctMUh1MXFfWmdkMmxBcUIyYW1wbllHRWRCbTByanZnQ3lzWTY4REM2VGdzSm9MMmJQRlBSZGtxZ192U2phM3pQNmtDekJkR09nY0RqVUFub1NxbWVHVXBzS2NIUjlnUlZSRkFKN0tLTGtseVF4d015X1o2bGd3bHlLS25lNTFMLUQ3eTBVWldn?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 17:55:00 GMT",
-      "description": "Joliet Township High School District 204 Joliet Township High School",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Available Ebola Vaccine May Protect Against Bundibugyo Virus, Study Suggests - MedPage Today",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6Q1JseFJ2eUtLbG5YV0h3SnpRTGFtNC12TTg1WXpoNmVXXzRLYnlhTU53dVVPY2YyY1NIdml3dUZTSDNFMGswN1BLenFTSUljWGhMZlU3UjRMY3BJMVJWdjZXcExEVW5yX0tN?oc=5",
       "pubDate": "Thu, 23 Jul 2026 17:41:57 GMT",
@@ -908,19 +921,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Child vaccination rates continue to drop in Oklahoma as exemptions rise - The Journal Record",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY0Z4SUprcnBUVUNhdUtzQVh6NFd5SnJqZWRzcVBDTkE4YVpPZFdnR0ozdEpJVTdVYmxtMEpmTWUyZkdvMmVKcHlGNDBHUVJkWjg0eFVQRjZCRmd1dWhHWmFXRmhEZXUtZ1hoRC1DSlBpcFFqMXZ4TzRRM3NncDdnVzg5TTc1aVZLeUdOaE9ZRXYweEEyYlE?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 19:35:57 GMT",
-      "description": "Child vaccination rates continue to drop in Oklahoma as exemptions rise The Journal Record",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "Bay Area authorities urge vaccination to prevent measles outbreak - NBC Bay Area",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcXBnZ1VmbUl1MzRwVVhua0p4bXVHU1BiUDlucjdTLV9zVWlucGdOOXNVMFFWcEV1amUzZnBtVk52ZVU5YWlfSy1TcVlyWERISFB6YktYWFRyTGhvVzlXVnYtcVFsczhwR21zY1J3RmIyck5JN0xSUXNuN0duZDVuLU5NaThDN0o4QTNGcC0xeWE2UW00R0ZB0gGfAUFVX3lxTE5FWDlXUElqeE0yRUIzcmhKTXh0NzdNUVhhQ3JuR2FWU3FzOGJEYm12NXRFbURraEpBRUVDRDdidkZiN284em1Icjl0LVk3U3BMNHF5eGl5eU8yN29SYmxkWWF2R0xnNjRHV1pfazBXWW5Ub09BdWZyc1NuWjlSbWdaS2wwa0szcE83aTk1eHh1TWs3SFJUSVp0a1daN2JFWQ?oc=5",
       "pubDate": "Wed, 22 Jul 2026 18:33:10 GMT",
@@ -958,19 +958,6 @@
       "vaccineLabel": "Hepatitis",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "Pancreatic cancer vaccine shows promise in first human trial, preventing disease in high-risk patients - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZTFNVW1NU3hrNGFjM1h2eWllZHVVTGZIbnQtZ2FGQUt1cGlMekRmdlM3RGhGcno0VXEwRzJ5Q05RY01xWGVlV1NRMkhkcUxQM0tUYVJ6Y2wzbUtSd28yeFIyZk80TDRSUW1TSTFLTU1ja3RlSmhnTzdUYzc3YWhZR01XRFcyNW5FU3BBZ0FsdUR6UUFJd19jNHNqSUFaeXp0LW1DYlFZNWxsUVgzdHk2RUpzNkNLdWdUc3p4bXAzRmxEa0s40gHKAUFVX3lxTE1VR2o3bm5kdWZtb1pOX3d6TzF3QVlxakJYQzFOUHF2NXQ3V0FPckxGM096WmpVU3NfRFdRY1FLSzlDU2hDUTRFQlJ0cmJmRHVkQ3o2VE45YjMyamFzWl93bjlVbDVheHhMV3hiOE85dHNuU2ZtczFuX1NMTnRCcGlnOFNVZnhNUV9ma25JRzNSd2ZWaW9FeGx3dTFtcXFWRUo5eGpMVWxvZWxGYTFtTzgybkQzRnVoR096TVZSUzQtcnJVaVpQcks1ZUE?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 13:36:23 GMT",
-      "description": "Pancreatic cancer vaccine shows promise in first human trial, preventing disease in high-risk patients Fox News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "Sanofi reprimanded for disparaging Pfizer’s RSV vaccine - Fierce Pharma",
