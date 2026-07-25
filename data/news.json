@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-25T20:41:00.184Z",
-  "itemCount": 79,
+  "updatedAt": "2026-07-25T21:41:46.462Z",
+  "itemCount": 78,
   "groups": [
     {
       "key": "covid",
@@ -20,7 +20,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 22
+      "count": 23
     },
     {
       "key": "polio",
@@ -40,7 +40,7 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 45
+      "count": 43
     }
   ],
   "items": [
@@ -409,10 +409,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "NMDOH offering free back-to-school vaccine clinics for children - KOB.com",
+      "title": "NMDOH offering free back-to-school vaccine clinics for children - KOB 4",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd3VIRUI0VmhoQnZLOTE4MVlVQTBCckVZdkNzTV9lQUt5eGJDcXAtSWxTTkRRZlNsVHFjOW13ei1haUR6LW9kV21RLVA2VWVLcjlmQkMtbzhJOUtiTWZTZnZPUTFXT2JsQ2VZMElsblZNcF9rUjZaeV9NcFZjQkRqOFBkUDlndWlXMm9yc3U5VnRvLUYxM3JYem93RQ?oc=5",
       "pubDate": "Fri, 24 Jul 2026 18:29:33 GMT",
-      "description": "NMDOH offering free back-to-school vaccine clinics for children KOB.com",
+      "description": "NMDOH offering free back-to-school vaccine clinics for children KOB 4",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -498,6 +498,19 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "opinion",
       "articleLabel": "Opinion"
+    },
+    {
+      "title": "\"The child is terrified\": Doctors on the front lines of a measles comeback speak out - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kZmpjYkFRVzE5bDdUZnZYM0NhZUdoWmNkWlJwd1VJVmdUMEhuNnBQTEt6UnctdmVxMllQM3ZqOVhHQUV3clNXLVFWLXBzTERmdktGWEJ0ZXN1QS1QOE9rdmhzenVIc0RYUDFxcUdWVmlJeVNockE?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 16:38:00 GMT",
+      "description": "\"The child is terrified\": Doctors on the front lines of a measles comeback speak out CBS News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "There are already more U.S. measles cases this year than in all of 2025 - PBS",
@@ -760,19 +773,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Chesterfield Health District hosting back-to-school vaccine clinics this week - WWBT",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOTZTVDJHRUhqaUJDMGp2RzFGY1BpY1VKcjNMSFR2R1FNdTNsa0pYWFBZRnFfQmtLYWxtbU1TWlQ2ZVJROU0zZTVGeTFMS3pIcXZCRVoyajIwV0Fza2FhalN2TkpNcWZmSDZOdVhGNW5NNkpnY2RkRjUtLUY5WlZyek9URjRoUmhvcWUxamNqd0dodXBzc0N5b1JOcGxjTy1WT0NwQWZwa0x5QklTdG1SREpzQ3hZd0R2MEHSAc4BQVVfeXFMTXhZQjNaaUYyb21VVV9XLUFILW4ybE40X0tURTJfckdXcEJXdXdWazhRX2tWY2FlN2c2Q2hVZ2hpalItZWIwY0ctMzZOTk1OWGF0QkJPWm9jaUwwVGs3Q1RYX3FESzF3NEJKNEU3b3ZlMFhMNWlzZGxKNll6RjZsUGhsYVNrUjRiZWRWNFE3akxGY1N6SUpZZ0l5bkczUktOcmh0d1lsS2pwS1djQlM0ZkZ2MTJSR295NVJEQjQ3RW5IajdGZDNaTS02UVdoNGc?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 00:26:00 GMT",
-      "description": "Chesterfield Health District hosting back-to-school vaccine clinics this week WWBT",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Rabies vaccine used in several suburbs recalled over possible diminished potency - NBC 5 Chicago",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdVNiREhzWGJqSnl5YXhLcXdyTUQyVEJOb3JIOTJKa2RSRWxyRW5qSW4zeWNnbmNSQUFQQm9NZGd0a1BqeWhtSnRXY0JKa3ByNkNvcjJvbFhtX1BvZDgxUE1MUncxMFZNUlFNNmR2VWZTdzFFTHdvZXhFbGR6SjhoNmRsNlRXUXpyeTctMGcyc2RRTl9sMDA4UjVGUWdNQzJVTnhGMXdKOVYwU3puSk5NMUN4OXZBamFQWmpWS29ncTF5ek01U0HSAc4BQVVfeXFMT3JXUGxEakJXZUFpV0hNU0RFTm5FY3FxeXdXX25rTkh6Qk82UVVaRUx1akRxVDJCSGFPb2U2bTROZUNfZmFvS1huZkJvYXMwNzVXRFNMZUlaOUduVnRWZ0YwMWF2OWlPZVJzVTFHNTJxM2J3NjNfOGFHOGFnaS1teXgxVVhnTmxvRDE5VTBEYnVpd1dRRWdZUWkyam9CUHFDbHBPOU1saXlKTFpLaWFOOXlfbFNON1RGNFNaTmlUQmp3TXlXeW1DamdwT2tFY3c?oc=5",
       "pubDate": "Thu, 23 Jul 2026 20:37:47 GMT",
@@ -955,6 +955,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Spokane firefighter lawsuit over vaccine mandate heads to trial, city approves $200K for legal fees - krem.com",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZ3plLXMtMWs2TzVmeXFKcUxhc1lEQWtpX3JMN0FqQmZkTUVHSk1FQnVlSnhBVHJielk5YWpXLUtCV1QwUjNmN3BiczM3THh3ZWNNeFp3ZG9saFlyVloxTTlWSVVidVMya1FnRDR3MjEydVR4di1pYzJFVFFWNlc1Y0RmRmk2dlFpdkc4bVBYS1JMZVFWWmltYmVTT2I2ckpjZ0p1eVZZLUJ0SFcyLVNyb0RnWldCcHRuVU0zSktiZ0o2RzZZand0N3ZrcUFPdmduT3g2VmRiSlNfdnpuQkpoUUxLdXJHR3Y1c2F0YVJRaVdydw?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 05:08:00 GMT",
+      "description": "Spokane firefighter lawsuit over vaccine mandate heads to trial, city approves $200K for legal fees krem.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
       "title": "Dr. Ed Dominguez on measles cases surpassing 2025 total; promising new pancreatic cancer vaccine - KLTV.com",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTEtvY1JoM25SVDFPRk9lc09zQ25HazhSWHdRdGpHRW0tTlJjR0laR2ZyVHlTaXJkWG5vQzhycHVMWDRseGY2eU9qSzN1NTlXTmpsclNKcVk5dTE0eU40QTRiSnV3N3cxdzE4dUl1S2lsWHlzQTkyNGtOME0zcFNtVjJkRndnV2VPd0tNaU9fTV9WQjJhUEFiNWpkd1k3bEFOaHh2WlBmd21URWg3ZWFLaXlRT3Y3Z2xPd0lPTkZLVkJuQdIB1gFBVV95cUxPeUNBcXdVUmk2dkp4d09VYnNscG54RTZwSl9qZ3dyM2ZoemZDaGVkVGxGRjViMk1wZEkwcWRrU3M1RnNTS29RQWgxeEluLUZoODRaNHJSUTVqVF9HSGlpVlpfdkU0MTlDMWtOWFltRXlyTm1tRjJ3WE5TNG12R05rM2JRWnVfUnhBUnNzMDJFZ0pQVUl5c085MTdtei14Q0k4UHBpYURDNTNsVGZiTUp3c1RxT1Q2Uy1QdDJKMzUwVGZuOXMzczdjdGg4RmxkSUJSX2Z0bUp3?oc=5",
       "pubDate": "Thu, 23 Jul 2026 04:12:00 GMT",
@@ -972,19 +985,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUWFUd0txLWVEcC1mSVJJcHp6MmYwcWVVaWpWOWlja2JjQUpRejRSc08zSDRhalg5YTBXZTVBc0Q0RE9ZejlIWlc2MXNzemRTQ3FBaW9ZOGdIUW8zc0F0RjFwaGhKTkF4OGM3UEs0V0h6bDltNjQ0MUtjWUpDUmdKNVp0TFF6cU1rMlkwcXh1SElDbzlIWUdWTW1VeHdrNkE3dlZVeWhud3BlcVRTb1pUU1V4amNsUWU3b2x3RkwxUlhvQQ?oc=5",
       "pubDate": "Thu, 23 Jul 2026 04:04:10 GMT",
       "description": "Critical Care Clinicians Can Respond to Vaccine-Preventable Illnesses in the PICU Infectious Disease Special Edition",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Health department to hold free flood-recovery vaccine clinic Friday at Wesleyan - My Buckhannon",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVmFwdDhxRlBmZm9Sc21MWWxzWERoZ21YM05ET2RUOUFUUlpIOXNRaVllWG4ydnBLQnFQYzNCNXVtTnJZWTU0X2xYSHBKLXhOWUo2d3R2RXZzWndzSFdOOE01clhWRGZQYVpZeUFmYmZSbXcyRTR0dHFiNkVBSUU1Y3hsdTlxdmhSWDkxWEZ0OXlYZXpkUEsySVFPUkE2NktNRlRaNnkzZ0IwREJmTUE?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 01:09:00 GMT",
-      "description": "Health department to hold free flood-recovery vaccine clinic Friday at Wesleyan My Buckhannon",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1016,19 +1016,6 @@
       "sourceLabel": "News",
       "vaccineKey": "rsv",
       "vaccineLabel": "RSV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "An HIV vaccine is within reach thanks to mRNA - vox.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT1NUOTkycWFWazBxcTZDcExhMDUyQXFTQTkyZjFTYUZ4YXl3M3o2UUwxNktmNV92ckMzWHMtaHUzaXpvNjVEbmZXV09MSjVueWptUkVPSjZaRC1zbDdzNGZCa2Fzc0JPZURGeUpSYklnWDhXdXBtX2ZvZEN1VjFvcTVsLWFtcjZ0WUxNWm9NVXUtdEVJNkFR?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 10:00:00 GMT",
-      "description": "An HIV vaccine is within reach thanks to mRNA vox.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
