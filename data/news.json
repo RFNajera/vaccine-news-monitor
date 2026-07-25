@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-25T14:01:45.576Z",
-  "itemCount": 80,
+  "updatedAt": "2026-07-25T14:48:27.685Z",
+  "itemCount": 81,
   "groups": [
     {
       "key": "covid",
@@ -20,7 +20,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 23
+      "count": 24
     },
     {
       "key": "polio",
@@ -30,7 +30,7 @@
     {
       "key": "shingles",
       "label": "Shingles",
-      "count": 3
+      "count": 2
     },
     {
       "key": "rabies",
@@ -40,7 +40,7 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 45
+      "count": 46
     }
   ],
   "items": [
@@ -80,6 +80,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "COVID-19 levels run high in Bay Area wastewater, prompting calls for precautions - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT09PWWZITS1UQ2p3SnlZTGlEZ3VwSXQ4bkZIT1M0Vmg2YXRCQ1lJd0lkYXFfRzQ0bXVGNGVCaFVfY1lRNm0weWs2TTNHUFZFVUltT0JPdVR6UVEzbGo0RklKQ3lOXzlzWW83X0NXSTAyd01Gc1NkSDM0OHE0SlpyaTJVMlUyY2tCRmdhYXU5ZmcxR0VrNG5KT251NGFva2d1REg4Q1dLazNvc3Q2cG5sTXlVbGJDY1d6eXNR0gHAAUFVX3lxTFB2UVY2dmN0Wjd6c1JsMGxRTHNSNHA3YnNMcUc4MThFV1NPX3F6SWlOZ2NHRDN1akdTTDdCTUJmc2NkdTBjT0hLVXV1eWxMWjFmUkxhR1NUV2FWcHMzZXlPU01NNWVKZ1dBOF9kRklRcXl2T29rUDRZQW9fT3RzWW14d3JZYzFSSUJ0OVZoc2QzX0dtZVl4TWEtV3pBaU5sVFNLdG4ycHZ3TkdVbDNJUzFkOXBzN0l3OFdXM2NLaXFOVQ?oc=5",
+      "pubDate": "Sat, 25 Jul 2026 11:00:35 GMT",
+      "description": "COVID-19 levels run high in Bay Area wastewater, prompting calls for precautions The Mercury News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -136,6 +149,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Malaysia aims to produce first locally made human vaccine by 2028 - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOVlkWUx0MnNfQzVrcHhYMUNybWwzdXFUZHoxeUpIRGxCRnhpMlBaM2t0ZUxVVkVfeGlCRDJsbmw5QXpJTk96aENNdnFtWXlmY0YyTFJSdG1za0pnZ0ZSYmw5b1oxT2QyZzVLTFNfM2dTWlZXUWc4UVZiWWYzd2Q5Y0xPWThoT2lOYUE?oc=5",
+      "pubDate": "Sat, 25 Jul 2026 02:48:00 GMT",
+      "description": "Malaysia aims to produce first locally made human vaccine by 2028 Yahoo",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "9th Circ. Revives Ex-Kaiser Worker's Vaccine Bias Suit - Law360",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNmJWazhKb2VYTUxUdVJ5c0lFLWVJZ05LcG1QUHVrcExnU01lR2plei1ESHJmajZyTmNiMDVzVzNXNjRVWF8xamdpOFY4V0YxdTJJX2FtemhyYWNRWEFRUnE5dXozWk1nVERFMHN3UGJrTEYzcTFqbHRmLWhIN25rZWVYQUVyMURCTTZPLWpYMnNLXzNFVmw4d2pDRkZ6eWh6MlJFZ3BTY2FDYlpsVXg3UldYbU55ZEtKOFZiS9IBckFVX3lxTE5fZ0R1TUU1cnhmQkdxNGNoenAyUjFVa05qUGZvTHBiSXRPbHVWd1NUbmlWcGFlS1pmWG1Ob1dlOXJialZOTmhvUC1tM2NzV0ZENGdZUS01SFFZdXpDTGpNRFZKV3pXZGpQTlAxcjBBckpOUQ?oc=5",
       "pubDate": "Sat, 25 Jul 2026 01:00:00 GMT",
@@ -158,19 +184,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "B.C. man still waiting for compensation from COVID vaccine injury - Global News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV0Znc2IzY1ljQm5YaFp4U3J0d0lSNlV0WjdiYTQyRWJhMnFfV0RiWElNSGwyZmtGZUZlcjI4Yi1TN2d3WFdDMWZLN1p4dzNoQjRFN2tVUEkzUkt0Uk5qU2pMNEduMVVUTDloZVFTVzVOYzRvX2VhY3dtY0tVdElZQlFnRi10eUNtSTRmb0F3UHI0SExYenc?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 23:55:34 GMT",
-      "description": "B.C. man still waiting for compensation from COVID vaccine injury Global News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -721,19 +734,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "GSK's Shingrix (Recombinant Zoster Vaccine) prefilled syringe presentation approved in Canada - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYmYtb05CZ0FQdkZDaTJlZzh0YkxPZ3BCNjNJNnNZMTlrVmFGcDFpci1LZENEYUVmUW9DZ3FOZ0lqTmlHdXRVbldFU09VNDVJeTg0d3N4M0gtdzZhVlM2MFpZME9aYk5xZHB3WkY5bGROTGVwUGFrZHVnSWN1bWtmaHlvMEJoRHpWRE4ybGp3ek5NeEJSWTlodlllMnNMZGtKMTBZ?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 10:50:00 GMT",
-      "description": "GSK's Shingrix (Recombinant Zoster Vaccine) prefilled syringe presentation approved in Canada Yahoo Finance",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "shingles",
-      "vaccineLabel": "Shingles",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Marshall-Harrison County Health District to hold back-to-school vaccine event - Marshall News Messenger",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTmNZRC1yMmdrZ01SLXVNRG1LbU1udWRudzR2X3pkdlpPOVJrVUtoa0lGZTlfY01BVnMzekJRX3BxaGI4OWtsY0l5ODBQZ2VJSF9SZEtWdTFybFl6TnUzMmFNZ1U5U1NZamxkWFo0UEl1d3BCeHpQSjk3R3h0OGprVkdoNVdnUkUzc1g0WGhZNGtsQkFjVGdHOTlOUUVTNFVnVUM2UUVUa1NLdllDbjJuQV9KZUZvWEhsb1FtYzlKNHc?oc=5",
       "pubDate": "Fri, 24 Jul 2026 10:42:18 GMT",
@@ -977,6 +977,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Dr. Ed Dominguez on measles cases surpassing 2025 total; promising new pancreatic cancer vaccine - KLTV.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTEtvY1JoM25SVDFPRk9lc09zQ25HazhSWHdRdGpHRW0tTlJjR0laR2ZyVHlTaXJkWG5vQzhycHVMWDRseGY2eU9qSzN1NTlXTmpsclNKcVk5dTE0eU40QTRiSnV3N3cxdzE4dUl1S2lsWHlzQTkyNGtOME0zcFNtVjJkRndnV2VPd0tNaU9fTV9WQjJhUEFiNWpkd1k3bEFOaHh2WlBmd21URWg3ZWFLaXlRT3Y3Z2xPd0lPTkZLVkJuQdIB1gFBVV95cUxPeUNBcXdVUmk2dkp4d09VYnNscG54RTZwSl9qZ3dyM2ZoemZDaGVkVGxGRjViMk1wZEkwcWRrU3M1RnNTS29RQWgxeEluLUZoODRaNHJSUTVqVF9HSGlpVlpfdkU0MTlDMWtOWFltRXlyTm1tRjJ3WE5TNG12R05rM2JRWnVfUnhBUnNzMDJFZ0pQVUl5c085MTdtei14Q0k4UHBpYURDNTNsVGZiTUp3c1RxT1Q2Uy1QdDJKMzUwVGZuOXMzczdjdGg4RmxkSUJSX2Z0bUp3?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 04:12:00 GMT",
+      "description": "Dr. Ed Dominguez on measles cases surpassing 2025 total; promising new pancreatic cancer vaccine KLTV.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
