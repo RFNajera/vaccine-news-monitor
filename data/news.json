@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-25T12:46:20.221Z",
-  "itemCount": 82,
+  "updatedAt": "2026-07-25T14:01:45.576Z",
+  "itemCount": 80,
   "groups": [
     {
       "key": "covid",
@@ -30,7 +30,7 @@
     {
       "key": "shingles",
       "label": "Shingles",
-      "count": 2
+      "count": 3
     },
     {
       "key": "rabies",
@@ -38,17 +38,25 @@
       "count": 2
     },
     {
-      "key": "dengue",
-      "label": "Dengue",
-      "count": 1
-    },
-    {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 47
+      "count": 45
     }
   ],
   "items": [
+    {
+      "title": "Measles surge linked to lower vaccination rates in key states - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3Vk0zMVFMc2d0Z25LU1FzWGhoVER0c19RWDdwa2JVcDNwYlFPRXRBQ1BMQWdlM012S19XYUlrc1dzblBiLWdocUp5Zm96RU16dFRiWlJB?oc=5",
+      "pubDate": "Sat, 25 Jul 2026 12:52:35 GMT",
+      "description": "Measles surge linked to lower vaccination rates in key states Fox News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "American Academy of Pediatrics Reports Highest Number of U.S. Measles Cases in More Than Three Decades. The Trump Administration Have Dismissed Measles As Benign and Unavoidable and Have Spread Misleading Information About the MMR Vaccin - Sierra Sun Times",
       "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxOZUVKbWM5S09kUWp6UDgtejBnWDRyc3JMQ2ZwVUFXdHV3ZXBqWGZFMHZ6VDE2aXU4TnpEcTV3UklFa0Mxc0luTE9YQ0dfQmtzRXROWm1tOUVBZDQyaWVyMkMtcmx4Z2FaZmo1MFNMWGhma3pkMHVsX19pRS1zWmsyWVBOaVdmNk03aUNQQS1IWTlCSThCX005eHd0dHVPaW01TklRSnNONWV4YTZIcU13d0xrRG8yTWpfZG9YVVo2NzBnRVFXNy1oQzRxQkJVWjJVUlBneVlMeVhLWkV6Rm8wc0xvX1VvRU1hMHNOcGY3ZlNrTnlOWDZKbFZqOVZ3dWN4blo1RVdvM1BZOHIwWXVBY29ScTkzZ0ZmM054ODBpcXdKN0FYbFNSeGFCTnFuSUJXd012bTBIWDA2NW9Ma05uclJPVDViU2xFeW5kclk1YzJ4eklMcjgxM0ttUGVkSWJqMTdIMzdaMm1HM0c0ajVoWkZGZUcwZGJGOHlWdzY4NTVpdGFmaTc3c1h4bjdYZzlTbl9nMkN2dTFMRE55MDdBbHM4Z3lzcjlsXzJteUZKcGlCb2tJeHc?oc=5",
@@ -583,19 +591,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Vaccine clinic - WV News",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQejZodEw4UW1NLWxIUjBXN3Q4eHF1Y2ZhTGRxZ2lkendUV21aUVVsY1VySmpqZGNBMTMyUjJrS3NoeGlxYXpycXc0bUNranZ0VzhrOFN6ZWxuMWFHNTluUU5MQVJVZkYzZVNLS2JCN0V1ejJhQm5GRVZZTGpOQXJYUWd2VUk3U2VsV0wyYTBn?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 15:22:00 GMT",
-      "description": "Vaccine clinic WV News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Helping with vaccine distribution - WV News",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdUx0ejBKN05WaW0xc2hHQ3JWSlFMYmxhbjBBcVhJSXpURXZSZk02N21fR1ZqbXI1eGY4Y214T3ZPUGFwYTM1LUYwUzJxMGJ3WW5XZ1BjMFNWbmdwZERCRWlMdUIwV1RoXy1YM19mTHFLMXh0NVNibGZlX0l4WWF5bUk3V04xTGxTOEJ4QWVkZ0E5dXFsOVpBeWhUTTliYjRpZTI5RWlzVQ?oc=5",
       "pubDate": "Fri, 24 Jul 2026 15:20:00 GMT",
@@ -607,19 +602,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "First person vaccinated – in UK – in Ebola jab trial amid DRC outbreak - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU1dGMVFsQjdvOVoxZFJkWmNQZ1NuLVdJWHZCOFA5d1ViaXpWQ0VXdlg2dzIzTFFoVmZJZEJTMnZQS2lFNzI5WlZZX2tLaVhvQTk0dktQcUdQSF9BWkVDX245YWRRM01Xc0FLem5IVE5XUDRQWmxJZUMxTU9KNjZ3VzRhVzZXbHdDRzlPYVVfQWlWb21mTFNPUVI2ZHRTREpqWFhobzBUSVQxZ3PSAasBQVVfeXFMTlFBd2xsQ0dtR2RQTXRPLXgtZjk1OUE4UFhuM0Mzay0zWjFPclVFNldKa3g2eUFQWldhVFZJd3ZDX0pTZk1mVkJ3bGN6SWVCNEVqdUNScW1OM0lYcU84VkpvYlpfSGVTNlVpT3Vvc1JrS1hYSDhFaE1CcmMyakpxOTVveV93ME50LTUySk1XamM3MzJERF8yOFZYYjc4cnhldkxpcnlkWWJLcHJB?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 15:16:40 GMT",
-      "description": "First person vaccinated – in UK – in Ebola jab trial amid DRC outbreak South China Morning Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "Most Americans Unaware of CDC's Pregnancy Vaccine Recommendations - Drug Topics",
@@ -737,6 +719,19 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
+    },
+    {
+      "title": "GSK's Shingrix (Recombinant Zoster Vaccine) prefilled syringe presentation approved in Canada - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYmYtb05CZ0FQdkZDaTJlZzh0YkxPZ3BCNjNJNnNZMTlrVmFGcDFpci1LZENEYUVmUW9DZ3FOZ0lqTmlHdXRVbldFU09VNDVJeTg0d3N4M0gtdzZhVlM2MFpZME9aYk5xZHB3WkY5bGROTGVwUGFrZHVnSWN1bWtmaHlvMEJoRHpWRE4ybGp3ek5NeEJSWTlodlllMnNMZGtKMTBZ?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 10:50:00 GMT",
+      "description": "GSK's Shingrix (Recombinant Zoster Vaccine) prefilled syringe presentation approved in Canada Yahoo Finance",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "shingles",
+      "vaccineLabel": "Shingles",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Marshall-Harrison County Health District to hold back-to-school vaccine event - Marshall News Messenger",
@@ -986,19 +981,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Dr. Ed Dominguez on measles cases surpassing 2025 total; promising new pancreatic cancer vaccine - KLTV.com",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTEtvY1JoM25SVDFPRk9lc09zQ25HazhSWHdRdGpHRW0tTlJjR0laR2ZyVHlTaXJkWG5vQzhycHVMWDRseGY2eU9qSzN1NTlXTmpsclNKcVk5dTE0eU40QTRiSnV3N3cxdzE4dUl1S2lsWHlzQTkyNGtOME0zcFNtVjJkRndnV2VPd0tNaU9fTV9WQjJhUEFiNWpkd1k3bEFOaHh2WlBmd21URWg3ZWFLaXlRT3Y3Z2xPd0lPTkZLVkJuQdIB1gFBVV95cUxPeUNBcXdVUmk2dkp4d09VYnNscG54RTZwSl9qZ3dyM2ZoemZDaGVkVGxGRjViMk1wZEkwcWRrU3M1RnNTS29RQWgxeEluLUZoODRaNHJSUTVqVF9HSGlpVlpfdkU0MTlDMWtOWFltRXlyTm1tRjJ3WE5TNG12R05rM2JRWnVfUnhBUnNzMDJFZ0pQVUl5c085MTdtei14Q0k4UHBpYURDNTNsVGZiTUp3c1RxT1Q2Uy1QdDJKMzUwVGZuOXMzczdjdGg4RmxkSUJSX2Z0bUp3?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 04:12:00 GMT",
-      "description": "Dr. Ed Dominguez on measles cases surpassing 2025 total; promising new pancreatic cancer vaccine KLTV.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Critical Care Clinicians Can Respond to Vaccine-Preventable Illnesses in the PICU - Infectious Disease Special Edition",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUWFUd0txLWVEcC1mSVJJcHp6MmYwcWVVaWpWOWlja2JjQUpRejRSc08zSDRhalg5YTBXZTVBc0Q0RE9ZejlIWlc2MXNzemRTQ3FBaW9ZOGdIUW8zc0F0RjFwaGhKTkF4OGM3UEs0V0h6bDltNjQ0MUtjWUpDUmdKNVp0TFF6cU1rMlkwcXh1SElDbzlIWUdWTW1VeHdrNkE3dlZVeWhud3BlcVRTb1pUU1V4amNsUWU3b2x3RkwxUlhvQQ?oc=5",
       "pubDate": "Thu, 23 Jul 2026 04:04:10 GMT",
@@ -1034,19 +1016,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "India: Takeda's dengue vaccine approved - Outbreak News Today",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbWJUcVkwY0ZadVNGVTJjaFg2SW9NMXVYbUhkb1JZZTQ2N1VqVVdFS3IzUTBEanRUQWZVZGowd2VaR0JEVnhpcl83azliZE14U1FhTnFiTlBPeGZfR3l2ZDVoNEFaWmlOeUg2aWJqNFJ3M3hQTnpaRzZjUGRjOEcxaFZ5blM?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 21:44:06 GMT",
-      "description": "India: Takeda's dengue vaccine approved Outbreak News Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "dengue",
-      "vaccineLabel": "Dengue",
       "articleType": "news",
       "articleLabel": "News"
     },
