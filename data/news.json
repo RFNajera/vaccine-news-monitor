@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-25T17:44:15.896Z",
-  "itemCount": 80,
+  "updatedAt": "2026-07-25T18:43:11.209Z",
+  "itemCount": 79,
   "groups": [
     {
       "key": "covid",
@@ -20,7 +20,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 22
+      "count": 21
     },
     {
       "key": "polio",
@@ -38,14 +38,9 @@
       "count": 2
     },
     {
-      "key": "dengue",
-      "label": "Dengue",
-      "count": 1
-    },
-    {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 44
+      "count": 45
     }
   ],
   "items": [
@@ -308,19 +303,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "PD Editorial: We can fight the measles. Will we? - The Press Democrat",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNk9pU3ZTaEtTVDlQWVJUSTFkMUJhUDRNbUtreTFpektnUmpyUjl6NXVvSExSZkZTOVhDUUhKX3RaOE1Calo4azg0NXpjZ3NWeXRpWW1PU2lZemRNcklyTDhvQ2hWUGhHSlJaemJMTXZySmRFaTVGNWZ2WExUVVhOOHZLd3ZxLXM3N2FTNGd1b0c?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 20:53:44 GMT",
-      "description": "PD Editorial: We can fight the measles. Will we? The Press Democrat",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "opinion",
-      "articleLabel": "Opinion"
     },
     {
       "title": "Ninth Circuit Revives Vaccine Bias Case Against Kaiser Unit (1) - Bloomberg Law News",
@@ -726,6 +708,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Cattle Vaccination and Medication Workshop - Morning Ag Clips",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vS2FacnZCTTJWQm8wTjhGT3hXLVg1VlJPMzN3MllvcUJiRHJKckZyN0pnNzgxVnhmaEo4dER5UW1JNXZJQlhBdFRjNjhIaVYybHRxSjVSUF91TnExel9ub3M3MFBvMjE2ZlRZMS1ZdDRublN6SDZvMk1MdFB5V1E?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 10:04:02 GMT",
+      "description": "Cattle Vaccination and Medication Workshop Morning Ag Clips",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "The Hybrid Vaccine Trial Design That Could Render Pure RCTs Obsolete - The Clinical Trial Vanguard",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNEhlX0lRM0laTUludkdWeEVmQzhhZm9rcmRjSmlNV2pKSFNhSThGTklLVnpScnV2UG9GU1d2SWpzOU1PVVg4TXFIekxCUWt6U0hlT2RTTTBxMWoyM3BmQjJqSlhwcFhGdVczS205V25La2FvdUhtS0duYmg4azZiT3pLUXFxZXdWbm5uYmc2X29EN0lmWFcybGF0YlNleG5oNWxseFFMWE55akNXTDlLeXpSOHpFUQ?oc=5",
       "pubDate": "Fri, 24 Jul 2026 07:57:05 GMT",
@@ -1008,19 +1003,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "India: Takeda's dengue vaccine approved - Outbreak News Today",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbWJUcVkwY0ZadVNGVTJjaFg2SW9NMXVYbUhkb1JZZTQ2N1VqVVdFS3IzUTBEanRUQWZVZGowd2VaR0JEVnhpcl83azliZE14U1FhTnFiTlBPeGZfR3l2ZDVoNEFaWmlOeUg2aWJqNFJ3M3hQTnpaRzZjUGRjOEcxaFZ5blM?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 21:44:06 GMT",
-      "description": "India: Takeda's dengue vaccine approved Outbreak News Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "dengue",
-      "vaccineLabel": "Dengue",
       "articleType": "news",
       "articleLabel": "News"
     },
