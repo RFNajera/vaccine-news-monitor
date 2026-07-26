@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-26T02:10:56.963Z",
-  "itemCount": 71,
+  "updatedAt": "2026-07-26T03:38:32.281Z",
+  "itemCount": 73,
   "groups": [
     {
       "key": "covid",
@@ -20,12 +20,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 18
-    },
-    {
-      "key": "polio",
-      "label": "Polio",
-      "count": 1
+      "count": 19
     },
     {
       "key": "hepatitis",
@@ -45,10 +40,36 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 41
+      "count": 43
     }
   ],
   "items": [
+    {
+      "title": "News about vaccines; becoming resilient - Texarkana Gazette",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcFFwb2NqM29RSHdOTkFaWi1EUEpLS1l2aHg5UjBfd09NalBjTThnLUE5ZVRIUmJYT2JaQXlZVU4tTmJDOE8tS1lEamhGejk2LWhMc3hNaXhRZ21XM3dab3lQZm9zZGlaUnk2QzRKeHJTQlpnUFhMblJKZW1idV9ZWnhLaERFd3ZWeFZUMTZvcjdfVDA?oc=5",
+      "pubDate": "Sun, 26 Jul 2026 03:00:00 GMT",
+      "description": "News about vaccines; becoming resilient Texarkana Gazette",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Delaware measles outbreak declared - Outbreak News Today",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN3hNNUpFRmluOGJMcE82T2ZDQ2lkMWRlU2VJUHJrZDJyT0tHMnIzLXAtZ19lTTJTNXpmV0xxUjlBY2lDZllyQm5HcTlIemdpczFRMjF4R2NudmRLLWFpS3Q3ZWVqTTR2OXZvY2FBUk9ObG1yYTFDV0xsVl9hWGJsUQ?oc=5",
+      "pubDate": "Sat, 25 Jul 2026 20:38:39 GMT",
+      "description": "Delaware measles outbreak declared Outbreak News Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "A New Plague Vaccine Strategy Protected Mice From a Deadly Lung Infection - ZME Science",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONHZybXE0cUVXTzZnQTM1MEdzNkhfZVNnTnk2d0hFSGRfb25KY01sbjBWbXR0dmd1aHRTVktrUUltTjB1NkVfWGRzVHlkaVBHaTJpLUliM1hBWWR3Z2JVRXZ3VkVsWDhTYnZ6VmFSWVNseldVWEFPLTE2Nnh3TEQ4NWJFdkt2N09iUHdxcVFGREsxZGNvNk9MMVN0dHM?oc=5",
@@ -102,10 +123,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Measles surge linked to lower vaccination rates in key states - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0dkZ1ZuSHozVzl2S0U4UnV0TTVJTGhISTBRM1pzbWtqNzNwR3FSOUZFMTVsamlqenZNLURKeTd6ekxSN0RFcG1LUnlxa2dKRnVoSnE4ajJrMjBCMDZyWnUzUnpZWnFBTHlVR2tVckMtS1BLR184d2tPWlk5TDBILXBwY08tUHZWMlp5T25SOS0?oc=5",
+      "title": "Measles surge linked to lower vaccination rates in key states - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3Vk0zMVFMc2d0Z25LU1FzWGhoVER0c19RWDdwa2JVcDNwYlFPRXRBQ1BMQWdlM012S19XYUlrc1dzblBiLWdocUp5Zm96RU16dFRiWlJB?oc=5",
       "pubDate": "Sat, 25 Jul 2026 12:52:35 GMT",
-      "description": "Measles surge linked to lower vaccination rates in key states Yahoo",
+      "description": "Measles surge linked to lower vaccination rates in key states Fox News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -830,19 +851,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Vaccine hesitancy: What is it and what is the risk? - WV News",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNy15YV9uSmgzbVNFT2oyN2wzZnBWai1JaFdPSXpKS3BaU09zbllrWmJQV01fZWVWU014bC1wUFNHRU1vRjRHdmNDREN2U1BtVWdURVRLU1ZMQmFGcnhYcHE5YkI4eDNDTUNYaHQxOHROd2t4aGJIQ2ljcF9wdGROUmlJY0E4cHY4REhiTTZXOTU4aHFnSElwem9zRzVpanAwZnA5YUJ5TTJuZXdyeDRWZktHbnctVmhPbTlBQUtpMVAxR3hrNl9TU2dBRGN3b1dkcE8wLXJB?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 14:00:00 GMT",
-      "description": "Vaccine hesitancy: What is it and what is the risk? WV News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "The world’s first Bundibugyo Ebola vaccine has entered human trials: here’s why it matters - Gavi, the Vaccine Alliance",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUlJNYWV3VkNlN1FHS19adUJoeC1ENHZDSU55ckstNjVNNU5CTTE3S21BTzZEUWRlc3VINXk1MHhiVm9ZSVptREVGalhPYm91UHJqRGdkSDZjakd0Z0pTbDNPMnhhY09lcEV2MDZfbmlCOWVJN3ZJUUs3MTJhTW9VY1NOWXpNdHNtVDdTTjh3YXhBMXVhcW1LRk1nbXh3bU50R3d3TU1yWDEzVE53NDd5TllKbFVjeGFL?oc=5",
       "pubDate": "Thu, 23 Jul 2026 13:44:44 GMT",
@@ -852,19 +860,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "What the latest routine immunization coverage estimates mean for eradication - Global Polio Eradication",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbHpxNlNXM256RTdwTVFFbUxDZ21aRTN4c2hRb0JYU1JNdEZNMGFoMTlKNzZrV21uUGRXMWVvWTdha1V3Z05lUW94azhFY0FXN3NrZUpkVmZDc1pNcTJDS2JLb1FCRkZlRWxaTkNoenpPdzU5am1qbWo5TXJoNlV5QnJyd1I0TWs0cnB0R1l5TlhPdTJ4M2FoUDlOb19nenRGclJSNnhkUFhKc2VpRk1oaA?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 10:04:14 GMT",
-      "description": "What the latest routine immunization coverage estimates mean for eradication Global Polio Eradication",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "polio",
-      "vaccineLabel": "Polio",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -908,6 +903,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Days before Idaho twins died, medical records show vaccine reaction, defense says - Idaho Statesman",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HVVVvVGRHZGVKdUNSdXA5LUg2cDlNdUVrLUxyTU0yRkhwNlpfSGVPcVV1Z3Zzb05wUlp2RGFSVThhLXJoSFJuUTRkdzdzVkxlSVZaMXhMSmZWUEZEVjQwNFh6RTFNUHBVZFgtaUQ4NHFrenpPOWR1VNIBeEFVX3lxTE9Nc0VmcnV5bkRidlVLdGNXZ05OTldtNDFOR3BVQzBfSVV1MmlfLTJ3NkhmVGhic2tRNFM1c3lwLUdlMGxTRUVHczhNVDFRZWtpVWtYc0tlLVVfY1diQjhjdHVPOS0yWDlmYUZqNmF6N2R0U0RVUG9NZQ?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 19:42:36 GMT",
+      "description": "Days before Idaho twins died, medical records show vaccine reaction, defense says Idaho Statesman",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "We May Finally Have a Vaccine Against The Plague, With Two New Vaccines Showing 100% Effectiveness in Mice - ScienceAlert",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc0lQTTNzdnJweGQwUlptMVZ6NGxLdzlXbFBMS0JjVXVoTGtRTzNEUkN6Q1h1Z1hUZjFzdHlxRjZXdnRCWnlqZ2VxNWZVcDkxMUNtLVhVQXVZQUJaZFVqSEpLcFNraE0zR2trakFQOVpBV0ZVOG1yamFHWkRIQ1hFVU9YSWVCYnhjcDZyNDhXV1kxUUtsNXdTX2JYVWpGQQ?oc=5",
       "pubDate": "Wed, 22 Jul 2026 18:02:54 GMT",
@@ -919,6 +927,19 @@
       "vaccineLabel": "Hepatitis",
       "articleType": "news",
       "articleLabel": "News"
+    },
+    {
+      "title": "Pancreatic cancer vaccine shows promise in first human trial, preventing disease in high-risk patients - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZTFNVW1NU3hrNGFjM1h2eWllZHVVTGZIbnQtZ2FGQUt1cGlMekRmdlM3RGhGcno0VXEwRzJ5Q05RY01xWGVlV1NRMkhkcUxQM0tUYVJ6Y2wzbUtSd28yeFIyZk80TDRSUW1TSTFLTU1ja3RlSmhnTzdUYzc3YWhZR01XRFcyNW5FU3BBZ0FsdUR6UUFJd19jNHNqSUFaeXp0LW1DYlFZNWxsUVgzdHk2RUpzNkNLdWdUc3p4bXAzRmxEa0s40gHKAUFVX3lxTE1VR2o3bm5kdWZtb1pOX3d6TzF3QVlxakJYQzFOUHF2NXQ3V0FPckxGM096WmpVU3NfRFdRY1FLSzlDU2hDUTRFQlJ0cmJmRHVkQ3o2VE45YjMyamFzWl93bjlVbDVheHhMV3hiOE85dHNuU2ZtczFuX1NMTnRCcGlnOFNVZnhNUV9ma25JRzNSd2ZWaW9FeGx3dTFtcXFWRUo5eGpMVWxvZWxGYTFtTzgybkQzRnVoR096TVZSUzQtcnJVaVpQcks1ZUE?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 13:36:23 GMT",
+      "description": "Pancreatic cancer vaccine shows promise in first human trial, preventing disease in high-risk patients Fox News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
     },
     {
       "title": "Sanofi reprimanded for disparaging Pfizer’s RSV vaccine - Fierce Pharma",
