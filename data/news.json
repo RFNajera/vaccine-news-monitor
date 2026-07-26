@@ -1,16 +1,11 @@
 {
-  "updatedAt": "2026-07-26T11:47:21.404Z",
-  "itemCount": 71,
+  "updatedAt": "2026-07-26T12:45:48.496Z",
+  "itemCount": 68,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
       "count": 3
-    },
-    {
-      "key": "flu",
-      "label": "Influenza (flu)",
-      "count": 1
     },
     {
       "key": "rsv",
@@ -35,7 +30,7 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 43
+      "count": 41
     }
   ],
   "items": [
@@ -200,6 +195,19 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTFF6VmsxTWFjTWpILWtHVHNkTElpbm9tT0pxUjEyM281NFl2T0lZaURObTgwdzZIeENQbjlhSk1vLXJ0UW5CdjZQUWQ2VU8yZW9acUJzRWltNGFqV3VlcW5YdnlJQlpOREs0SVlWOE5MV0ZIMkNUSmdDMk5zc2R5d2JiX0lpeTVoYUR5NDY5WXpYY1k1ajV1M3lVTEQyaFQzLXlaWkREUWp5TlNIaDlqUm83QUo?oc=5",
       "pubDate": "Sat, 25 Jul 2026 04:00:10 GMT",
       "description": "ICU vaccine preventable diseases rising pediatric US Infectious Disease Special Edition",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "9th Circ. Revives Ex-Kaiser Worker's Vaccine Bias Suit - Law360",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNmJWazhKb2VYTUxUdVJ5c0lFLWVJZ05LcG1QUHVrcExnU01lR2plei1ESHJmajZyTmNiMDVzVzNXNjRVWF8xamdpOFY4V0YxdTJJX2FtemhyYWNRWEFRUnE5dXozWk1nVERFMHN3UGJrTEYzcTFqbHRmLWhIN25rZWVYQUVyMURCTTZPLWpYMnNLXzNFVmw4d2pDRkZ6eWh6MlJFZ3BTY2FDYlpsVXg3UldYbU55ZEtKOFZiS9IBckFVX3lxTE5fZ0R1TUU1cnhmQkdxNGNoenAyUjFVa05qUGZvTHBiSXRPbHVWd1NUbmlWcGFlS1pmWG1Ob1dlOXJialZOTmhvUC1tM2NzV0ZENGdZUS01SFFZdXpDTGpNRFZKV3pXZGpQTlAxcjBBckpOUQ?oc=5",
+      "pubDate": "Sat, 25 Jul 2026 01:00:00 GMT",
+      "description": "9th Circ. Revives Ex-Kaiser Worker's Vaccine Bias Suit Law360",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -755,19 +763,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "A Cancer Vaccine—for Penguins? - Cancer Health",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLZnBwcWFfaG16NUJkV0RGc1VROTA3ZzdwbkJacW45ekpUQmxMRHRiUlluNXVRNWN1VkZfYXh5TG5TQnhVVEhxMGFZQUxJM0RaMTdGQzRiTXdJRlRZby1FNHZPdG9xS183YnNSLTRNME0?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 19:59:58 GMT",
-      "description": "A Cancer Vaccine—for Penguins? Cancer Health",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Bay Area authorities urge vaccination to prevent measles outbreak - Pleasanton Weekly",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWHRlZGk3MVBGSmpBX0NoLWVyV1RGdmk1VkVGZmlySks5UU1zOGN0akZkNXFQSkV0eDJKbEhmTk15czUzMTN0R0ppQnBjOTFWMTk1dmwxeHl5c2VneldJcUhKT2pLZXhUQnhjWlgzbkhhUllOUzgwU2hkdWxROXQ1RmFvVU1tRHM5WW5Vbm55MjdrM0xtXzUwa3ZHZUpHTkQ1NFExTTQ0Sllyb2J4RlQ2cXdvS2NxQzQ5?oc=5",
       "pubDate": "Thu, 23 Jul 2026 19:33:57 GMT",
@@ -798,45 +793,6 @@
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03M1ZQNG8wbzNyWkNjNjhIRzBaSnhZalZUTU9vT2p1NVgwZmVUTVZpamNxM0dRU3NZYmYtaF9kTGgzZlRDT090aTBJcFplR1pGaXJhal9XYnp1YXNaOUE4U1ZQQm10cHNndS1tQVc2X0xtU3MycE43WA?oc=5",
       "pubDate": "Thu, 23 Jul 2026 19:06:08 GMT",
       "description": "HHS Changes Two Vaccine Committee Charters MedPage Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Combating the Decline in Influenza Vaccination Rates: A Pharmacist’s Perspective - Pharmacy Times",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX212ZFNhSGxjYWpOVjB2a01NUFpJWEdjS0taNEQ2eG1reWpwcXIwMkVNeVR6U3FObFVuald2TEo4cXBHYkxIQ0VMYldtX05mUnFNcTZuZ3BkdTdIYVZfd2czY2dRUDk1LWo0aHRET2phWExGcjJPRUw0SzBiM2xKbXFyZU05aTBVTGJqTnZRNjAxN0NLNGFMQVhGcTE4U2VSLUUxWUNwSXVxdTZSbk1uNnRBVDQ?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 18:30:29 GMT",
-      "description": "Combating the Decline in Influenza Vaccination Rates: A Pharmacist’s Perspective Pharmacy Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "opinion",
-      "articleLabel": "Opinion"
-    },
-    {
-      "title": "Available Ebola Vaccine May Protect Against Bundibugyo Virus, Study Suggests - MedPage Today",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6Q1JseFJ2eUtLbG5YV0h3SnpRTGFtNC12TTg1WXpoNmVXXzRLYnlhTU53dVVPY2YyY1NIdml3dUZTSDNFMGswN1BLenFTSUljWGhMZlU3UjRMY3BJMVJWdjZXcExEVW5yX0tN?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 17:41:57 GMT",
-      "description": "Available Ebola Vaccine May Protect Against Bundibugyo Virus, Study Suggests MedPage Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
-      "title": "Experts share vaccine importance - WPSD Local 6",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTI1NTc5RlRUWmVEa2o0X0dfWnlOV1hwbWY3Mk43dGtQWUpORlRvX3FEMGliZG1heGdhSV9OUkNILUF0YTlZWXRUYnVWR1ZwZFhCSEtMMmZaZ3VxNlZiN1J4NkNwdl9LUF8zdW5RRWE5ZmxTS3RpWUZyTC1mSGFFYXZaRlVreDFUNnhCNG5UUW4zSHJVcDRITEFFZkMtQXNkNWNUQzdmc0Z5bGRrVjFGZw?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 14:41:08 GMT",
-      "description": "Experts share vaccine importance WPSD Local 6",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
