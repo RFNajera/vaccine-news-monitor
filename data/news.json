@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-25T23:45:45.241Z",
-  "itemCount": 74,
+  "updatedAt": "2026-07-26T01:01:26.007Z",
+  "itemCount": 72,
   "groups": [
     {
       "key": "covid",
@@ -20,11 +20,16 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 21
+      "count": 19
     },
     {
       "key": "polio",
       "label": "Polio",
+      "count": 1
+    },
+    {
+      "key": "hepatitis",
+      "label": "Hepatitis",
       "count": 1
     },
     {
@@ -40,7 +45,7 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 42
+      "count": 41
     }
   ],
   "items": [
@@ -166,19 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTFF6VmsxTWFjTWpILWtHVHNkTElpbm9tT0pxUjEyM281NFl2T0lZaURObTgwdzZIeENQbjlhSk1vLXJ0UW5CdjZQUWQ2VU8yZW9acUJzRWltNGFqV3VlcW5YdnlJQlpOREs0SVlWOE5MV0ZIMkNUSmdDMk5zc2R5d2JiX0lpeTVoYUR5NDY5WXpYY1k1ajV1M3lVTEQyaFQzLXlaWkREUWp5TlNIaDlqUm83QUo?oc=5",
       "pubDate": "Sat, 25 Jul 2026 04:00:10 GMT",
       "description": "ICU vaccine preventable diseases rising pediatric US Infectious Disease Special Edition",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "9th Circ. Revives Ex-Kaiser Worker's Vaccine Bias Suit - Law360",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNmJWazhKb2VYTUxUdVJ5c0lFLWVJZ05LcG1QUHVrcExnU01lR2plei1ESHJmajZyTmNiMDVzVzNXNjRVWF8xamdpOFY4V0YxdTJJX2FtemhyYWNRWEFRUnE5dXozWk1nVERFMHN3UGJrTEYzcTFqbHRmLWhIN25rZWVYQUVyMURCTTZPLWpYMnNLXzNFVmw4d2pDRkZ6eWh6MlJFZ3BTY2FDYlpsVXg3UldYbU55ZEtKOFZiS9IBckFVX3lxTE5fZ0R1TUU1cnhmQkdxNGNoenAyUjFVa05qUGZvTHBiSXRPbHVWd1NUbmlWcGFlS1pmWG1Ob1dlOXJialZOTmhvUC1tM2NzV0ZENGdZUS01SFFZdXpDTGpNRFZKV3pXZGpQTlAxcjBBckpOUQ?oc=5",
-      "pubDate": "Sat, 25 Jul 2026 01:00:00 GMT",
-      "description": "9th Circ. Revives Ex-Kaiser Worker's Vaccine Bias Suit Law360",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -344,19 +336,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Measles Cases Hit New Record in U.S., as Vaccination Rates Wane - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUFBiV2pOcE9jOVU5N1g5VzBWMC1LdnpPRm15cFdXMVluQ2VWOU00WEktOGF1QUZhWUF4eEJSU1BPNjNtUXJBQm5rOXNxYjh3cDNNN3ZtMklSdzhDb0o2UnVtelZGM0l1aFdxUmVpbEtMTGVnaGdHMk1MVGVBbmZSWF9zVElIYmxB?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 18:57:27 GMT",
-      "description": "Measles Cases Hit New Record in U.S., as Vaccination Rates Wane The New York Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Surgeon General suggests high measles counts could be tied to abortion opposition - Florida Phoenix",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWG44NkZ2d1lfWFhYV0NYbHpqRDR2NFRnSnprQk5yaTRuNGFDeVpBcmllSUhKQmR5M0FZSUpORWw0NUxUblFqdkM2SDBtZjRKdDlocmFwWmJWbzh4OVEtREl5RlJTREUyTE8weS1GSmRlaGE2bTJfcDhkamNtRVQzY21JdVJnY1RlRC0tUnd0TDhmb3NzWUNMNGlmOU1oaHI2b3oxQ3BTSjdWQWpBNHpUTm12eUdDLUZvV3duNQ?oc=5",
       "pubDate": "Fri, 24 Jul 2026 18:44:20 GMT",
@@ -383,10 +362,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "NMDOH offering free back-to-school vaccine clinics for children - KOB.com",
+      "title": "NMDOH offering free back-to-school vaccine clinics for children - KOB 4",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd3VIRUI0VmhoQnZLOTE4MVlVQTBCckVZdkNzTV9lQUt5eGJDcXAtSWxTTkRRZlNsVHFjOW13ei1haUR6LW9kV21RLVA2VWVLcjlmQkMtbzhJOUtiTWZTZnZPUTFXT2JsQ2VZMElsblZNcF9rUjZaeV9NcFZjQkRqOFBkUDlndWlXMm9yc3U5VnRvLUYxM3JYem93RQ?oc=5",
       "pubDate": "Fri, 24 Jul 2026 18:29:33 GMT",
-      "description": "NMDOH offering free back-to-school vaccine clinics for children KOB.com",
+      "description": "NMDOH offering free back-to-school vaccine clinics for children KOB 4",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -578,19 +557,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "U.S. measles cases reach 35-year high in 2026, surpassing last year’s total - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNVYtZUVuTHhnRE5nU25SZFNoRGZnTVpzZlAwZUhjY2lMOXNrYm1RRldBR1V6ak9mQ2ZVMFh3NW5XbzFIN3lwNG5tT2Z1QktzazZmemFDZmE5VUVuWUN6YjNGRzVBekZlUG5wYVppR0VzWktEYy1iQUc4M082a3l3dFFMNnlfYkpUZ2lUY01mYmhPY0k?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 15:05:16 GMT",
-      "description": "U.S. measles cases reach 35-year high in 2026, surpassing last year’s total NBC News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Experimental plague vaccine strategy protects mice with missing key immune defenses - Medical Xpress",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON2NTVGI0WUJYSlNFVm9ZbVZKblFWUTlSb3BVTzdsb0xhbmFRU1NKbGw4V2NHVmNQUXVGc3VubkN6LVJZU3pqOHA0ZkhUcDlqb2NNbXBYZXM1Xy0xM2xmTzdJdWE1U0V4dEd3YUc2YUZYUHdQVlY4Y3M5RkQxemlPdVdpQUh4OGdUUGpoTVFB?oc=5",
       "pubDate": "Fri, 24 Jul 2026 15:00:11 GMT",
@@ -600,6 +566,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Measles Cases Hit New Record in U.S., as Vaccination Rates Wane - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUFBiV2pOcE9jOVU5N1g5VzBWMC1LdnpPRm15cFdXMVluQ2VWOU00WEktOGF1QUZhWUF4eEJSU1BPNjNtUXJBQm5rOXNxYjh3cDNNN3ZtMklSdzhDb0o2UnVtelZGM0l1aFdxUmVpbEtMTGVnaGdHMk1MVGVBbmZSWF9zVElIYmxB?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 14:59:15 GMT",
+      "description": "Measles Cases Hit New Record in U.S., as Vaccination Rates Wane The New York Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -929,19 +908,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Dr. Ed Dominguez on measles cases surpassing 2025 total; promising new pancreatic cancer vaccine - KLTV.com",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTEtvY1JoM25SVDFPRk9lc09zQ25HazhSWHdRdGpHRW0tTlJjR0laR2ZyVHlTaXJkWG5vQzhycHVMWDRseGY2eU9qSzN1NTlXTmpsclNKcVk5dTE0eU40QTRiSnV3N3cxdzE4dUl1S2lsWHlzQTkyNGtOME0zcFNtVjJkRndnV2VPd0tNaU9fTV9WQjJhUEFiNWpkd1k3bEFOaHh2WlBmd21URWg3ZWFLaXlRT3Y3Z2xPd0lPTkZLVkJuQdIB1gFBVV95cUxPeUNBcXdVUmk2dkp4d09VYnNscG54RTZwSl9qZ3dyM2ZoemZDaGVkVGxGRjViMk1wZEkwcWRrU3M1RnNTS29RQWgxeEluLUZoODRaNHJSUTVqVF9HSGlpVlpfdkU0MTlDMWtOWFltRXlyTm1tRjJ3WE5TNG12R05rM2JRWnVfUnhBUnNzMDJFZ0pQVUl5c085MTdtei14Q0k4UHBpYURDNTNsVGZiTUp3c1RxT1Q2Uy1QdDJKMzUwVGZuOXMzczdjdGg4RmxkSUJSX2Z0bUp3?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 04:12:00 GMT",
-      "description": "Dr. Ed Dominguez on measles cases surpassing 2025 total; promising new pancreatic cancer vaccine KLTV.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Combinatorial in situ cancer vaccines: unlocking broad and enhanced antitumor responses - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Ja0NlTXY5Uk1XS2FMUTZJMEJDbGduc09TUkNIeHFxUHRYUTl0OUtzUTVZektYN0FHYzQxcUtiTTl2NDkyUWhkU01tVF9KeGpJVTB6SHQ3clpIeC1HdmNB?oc=5",
       "pubDate": "Thu, 23 Jul 2026 00:42:16 GMT",
@@ -951,6 +917,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "We May Finally Have a Vaccine Against The Plague, With Two New Vaccines Showing 100% Effectiveness in Mice - ScienceAlert",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc0lQTTNzdnJweGQwUlptMVZ6NGxLdzlXbFBMS0JjVXVoTGtRTzNEUkN6Q1h1Z1hUZjFzdHlxRjZXdnRCWnlqZ2VxNWZVcDkxMUNtLVhVQXVZQUJaZFVqSEpLcFNraE0zR2trakFQOVpBV0ZVOG1yamFHWkRIQ1hFVU9YSWVCYnhjcDZyNDhXV1kxUUtsNXdTX2JYVWpGQQ?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 18:02:54 GMT",
+      "description": "We May Finally Have a Vaccine Against The Plague, With Two New Vaccines Showing 100% Effectiveness in Mice ScienceAlert",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hepatitis",
+      "vaccineLabel": "Hepatitis",
       "articleType": "news",
       "articleLabel": "News"
     },
