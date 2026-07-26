@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T12:45:48.496Z",
+  "updatedAt": "2026-07-26T14:02:12.288Z",
   "itemCount": 68,
   "groups": [
     {
@@ -23,6 +23,11 @@
       "count": 1
     },
     {
+      "key": "shingles",
+      "label": "Shingles",
+      "count": 1
+    },
+    {
       "key": "rabies",
       "label": "Rabies",
       "count": 1
@@ -30,7 +35,7 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 41
+      "count": 40
     }
   ],
   "items": [
@@ -48,10 +53,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "DR Congo Ebola cases top 3,000 as vaccine research advances - bastillepost.com",
+      "title": "DR Congo Ebola cases top 3,000 as vaccine research advances - 巴士的報",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT2l2SWFuQmVVOWtfaHprcDBkMFBfM0hsbERnY3hYdHVxNHlNMkZLOVdaQ21ac1dqenBhQnJmSWRjc0hNd2RTcEZKZUdPaTRjX1hLZng2UDBtNVBudW5VLTIwZTBFdEVPdzJMdlB4c0V2OEVvdHgydG1JNnJ5UTA3ekFJYTZlWXBrV1BfRFRhT2U2VFFERDA4bEluR2J2bTVyWk1mUC1XS0hnVWd3eGJB?oc=5",
       "pubDate": "Sun, 26 Jul 2026 07:18:00 GMT",
-      "description": "DR Congo Ebola cases top 3,000 as vaccine research advances bastillepost.com",
+      "description": "DR Congo Ebola cases top 3,000 as vaccine research advances 巴士的報",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -152,19 +157,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Robert F. Kennedy Jr. pushes sweeping changes to US vaccine policy - Межа. Новини України.",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaWGQ3V1RyNDV2MXhvUHJrYlBHTzk1MXYzVTZlNlhQTkkzSkZ6WkdCSUE2dVZUOGJqNU82MHJTSUZyVXhadGJxamNGY25KV2stdHNoOXN3TVpCdFZZdzkyeHhWN2pTUQ?oc=5",
-      "pubDate": "Sat, 25 Jul 2026 15:35:14 GMT",
-      "description": "Robert F. Kennedy Jr. pushes sweeping changes to US vaccine policy Межа. Новини України.",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "New Pancreatic Cancer Vaccine Shows Promising Results In High-Risk Patients - Dallas Express",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX1NIamFsbW05c0pHQ1dueVpDbkZna0hwOWp3QmpBU0RkbEd1Y1E5VmFnVlhJTXg2SDB5dHo5eWR1a1lEMUVJelFsajdPNm9sMldYbFJzOEZNakotX3Q3c0xoUlZRMWxSbUlFOEw3dTNKRXB3WFdoaWpXYmlhSnE4cml1cEw4enpFX3FjdUtRb19QS3JfUGlJVlA4RFRDUzVXdVo4MUk3dmdwVjE0OXc?oc=5",
       "pubDate": "Sat, 25 Jul 2026 15:03:55 GMT",
@@ -195,19 +187,6 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTFF6VmsxTWFjTWpILWtHVHNkTElpbm9tT0pxUjEyM281NFl2T0lZaURObTgwdzZIeENQbjlhSk1vLXJ0UW5CdjZQUWQ2VU8yZW9acUJzRWltNGFqV3VlcW5YdnlJQlpOREs0SVlWOE5MV0ZIMkNUSmdDMk5zc2R5d2JiX0lpeTVoYUR5NDY5WXpYY1k1ajV1M3lVTEQyaFQzLXlaWkREUWp5TlNIaDlqUm83QUo?oc=5",
       "pubDate": "Sat, 25 Jul 2026 04:00:10 GMT",
       "description": "ICU vaccine preventable diseases rising pediatric US Infectious Disease Special Edition",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "9th Circ. Revives Ex-Kaiser Worker's Vaccine Bias Suit - Law360",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNmJWazhKb2VYTUxUdVJ5c0lFLWVJZ05LcG1QUHVrcExnU01lR2plei1ESHJmajZyTmNiMDVzVzNXNjRVWF8xamdpOFY4V0YxdTJJX2FtemhyYWNRWEFRUnE5dXozWk1nVERFMHN3UGJrTEYzcTFqbHRmLWhIN25rZWVYQUVyMURCTTZPLWpYMnNLXzNFVmw4d2pDRkZ6eWh6MlJFZ3BTY2FDYlpsVXg3UldYbU55ZEtKOFZiS9IBckFVX3lxTE5fZ0R1TUU1cnhmQkdxNGNoenAyUjFVa05qUGZvTHBiSXRPbHVWd1NUbmlWcGFlS1pmWG1Ob1dlOXJialZOTmhvUC1tM2NzV0ZENGdZUS01SFFZdXpDTGpNRFZKV3pXZGpQTlAxcjBBckpOUQ?oc=5",
-      "pubDate": "Sat, 25 Jul 2026 01:00:00 GMT",
-      "description": "9th Circ. Revives Ex-Kaiser Worker's Vaccine Bias Suit Law360",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -698,6 +677,19 @@
       "articleLabel": "Research"
     },
     {
+      "title": "GSK's Shingrix (Recombinant Zoster Vaccine) prefilled syringe presentation approved in Canada - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYmYtb05CZ0FQdkZDaTJlZzh0YkxPZ3BCNjNJNnNZMTlrVmFGcDFpci1LZENEYUVmUW9DZ3FOZ0lqTmlHdXRVbldFU09VNDVJeTg0d3N4M0gtdzZhVlM2MFpZME9aYk5xZHB3WkY5bGROTGVwUGFrZHVnSWN1bWtmaHlvMEJoRHpWRE4ybGp3ek5NeEJSWTlodlllMnNMZGtKMTBZ?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 10:50:00 GMT",
+      "description": "GSK's Shingrix (Recombinant Zoster Vaccine) prefilled syringe presentation approved in Canada Yahoo Finance",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "shingles",
+      "vaccineLabel": "Shingles",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "The Hybrid Vaccine Trial Design That Could Render Pure RCTs Obsolete - The Clinical Trial Vanguard",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNEhlX0lRM0laTUludkdWeEVmQzhhZm9rcmRjSmlNV2pKSFNhSThGTklLVnpScnV2UG9GU1d2SWpzOU1PVVg4TXFIekxCUWt6U0hlT2RTTTBxMWoyM3BmQjJqSlhwcFhGdVczS205V25La2FvdUhtS0duYmg4azZiT3pLUXFxZXdWbm5uYmc2X29EN0lmWFcybGF0YlNleG5oNWxseFFMWE55akNXTDlLeXpSOHpFUQ?oc=5",
       "pubDate": "Fri, 24 Jul 2026 07:57:05 GMT",
@@ -802,10 +794,23 @@
       "articleLabel": "News"
     },
     {
-      "title": "School Vaccine Mandates - Encyclopedia Britannica",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE41WXVYMURHUTU2YzdLeTdpU1VIS05USFg3WEprRDJjN3d3RUZiV3U2RVY4di1QeHV0aFBwNnkyeTItYW5rdnJ1a2JyN3JaQzVWN0w4OFRkazdYMjFPT0thdFc2TVl3V0xRMlU5QndTX0ItUQ?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 05:00:00 GMT",
-      "description": "School Vaccine Mandates Encyclopedia Britannica",
+      "title": "Available Ebola Vaccine May Protect Against Bundibugyo Virus, Study Suggests - MedPage Today",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6Q1JseFJ2eUtLbG5YV0h3SnpRTGFtNC12TTg1WXpoNmVXXzRLYnlhTU53dVVPY2YyY1NIdml3dUZTSDNFMGswN1BLenFTSUljWGhMZlU3UjRMY3BJMVJWdjZXcExEVW5yX0tN?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 17:41:57 GMT",
+      "description": "Available Ebola Vaccine May Protect Against Bundibugyo Virus, Study Suggests MedPage Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Experts share vaccine importance - WPSD Local 6",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTI1NTc5RlRUWmVEa2o0X0dfWnlOV1hwbWY3Mk43dGtQWUpORlRvX3FEMGliZG1heGdhSV9OUkNILUF0YTlZWXRUYnVWR1ZwZFhCSEtMMmZaZ3VxNlZiN1J4NkNwdl9LUF8zdW5RRWE5ZmxTS3RpWUZyTC1mSGFFYXZaRlVreDFUNnhCNG5UUW4zSHJVcDRITEFFZkMtQXNkNWNUQzdmc0Z5bGRrVjFGZw?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 14:41:08 GMT",
+      "description": "Experts share vaccine importance WPSD Local 6",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -815,10 +820,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Combinatorial in situ cancer vaccines: unlocking broad and enhanced antitumor responses - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Ja0NlTXY5Uk1XS2FMUTZJMEJDbGduc09TUkNIeHFxUHRYUTl0OUtzUTVZektYN0FHYzQxcUtiTTl2NDkyUWhkU01tVF9KeGpJVTB6SHQ3clpIeC1HdmNB?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 00:42:16 GMT",
-      "description": "Combinatorial in situ cancer vaccines: unlocking broad and enhanced antitumor responses Nature",
+      "title": "School Vaccine Mandates - Encyclopedia Britannica",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE41WXVYMURHUTU2YzdLeTdpU1VIS05USFg3WEprRDJjN3d3RUZiV3U2RVY4di1QeHV0aFBwNnkyeTItYW5rdnJ1a2JyN3JaQzVWN0w4OFRkazdYMjFPT0thdFc2TVl3V0xRMlU5QndTX0ItUQ?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 05:00:00 GMT",
+      "description": "School Vaccine Mandates Encyclopedia Britannica",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
