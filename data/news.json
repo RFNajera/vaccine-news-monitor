@@ -1,16 +1,26 @@
 {
-  "updatedAt": "2026-07-27T11:35:32.694Z",
+  "updatedAt": "2026-07-27T13:24:58.334Z",
   "itemCount": 70,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 4
+      "count": 3
+    },
+    {
+      "key": "flu",
+      "label": "Influenza (flu)",
+      "count": 1
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
       "count": 20
+    },
+    {
+      "key": "hepatitis",
+      "label": "Hepatitis",
+      "count": 1
     },
     {
       "key": "rabies",
@@ -25,10 +35,75 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 44
+      "count": 43
     }
   ],
   "items": [
+    {
+      "title": "How vaccine skeptics use storytelling effectively to create powerful but medically inaccurate messaging - The Conversation",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRFEwNmlXVnRnajcyTll2VENuZHlCY19MM2pQWU4yX0VEQ0dyd08xMEstcV9PVjd1cEI3NDFjZjVhWGFJclBRTUdTM01FUGlJaHJ0aUJ0TEg3SjllQkFickFXTG44aXhNLWpNdC1kSWlUQTNoTGwzdlZXQThoUFVnMlZCR0RvaXpSRzY3SHQ5X1NDa1hlTnNfa1RtWG1VSTFqS0ZuZ19NM3FPNVVzMk91SVdVbUtBOGp6SWFPX1h5WXE0RXRnRXRDRGVCWGdxWk54T29qUQ?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 12:40:34 GMT",
+      "description": "How vaccine skeptics use storytelling effectively to create powerful but medically inaccurate messaging The Conversation",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Scientists May Have Finally Developed a Vaccine for the Plague - VICE",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSkJoQnR6UXFGZjZMeHcyWlA3bjY4QkZCOTB2QVVjYmlvR0tTYWRra21Yc1AtdzFXc09PWVBUblowaGJoa25EMVVxamh6N2xndHNVaWtPb0xwdGtvNmJpakVndDY3S0g0TUN5RG5rcW1wYldjWGcyaWQwWlBCNmIzaUNsZms4MDFyMkdSQllUc0lMSUpyWGwzYnlpZw?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 12:39:14 GMT",
+      "description": "Scientists May Have Finally Developed a Vaccine for the Plague VICE",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hepatitis",
+      "vaccineLabel": "Hepatitis",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Should you get a flu vaccine every year? Doctors say yes, and here's why - India Today",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX2JpTlVmYmR1RHFGTVgzWGt5NjlSWmlpRHlMMUI5bFZnM3JFd1pRNmJRbWx0aDl4d0dhUnNSTWlieVp3OGZueWJCZkVPUnNxbXVmcmgyMnBBMUdVR0g3OGFKbDhkZzZuS1lWQVVPVlRtQUR6U3l0U1YtTGJfLUs0cUczdDN2ZTNYX3VYRUtiMDBCbmhxOXc4b0FsSi1FblJ5UUFodExzb1BqREgtTWJRS0txaU5ac25Xal9PZXdfeXdVSjJRLUHSAcsBQVVfeXFMTmJsNDdLZFJ1WFJRd1B2cUFfZFpiQmZuTGRjbVlTUlNtU19HcTFKeVY4X2JSS1lWVjNCV3RTV1IwaFJ2aTRldVhrOUlVR1dIU1RQYkl1LWpVQkFjTUZLUUNBbnNlVi1mMEtfWlZUZF81WVV2b3EyS2NpYUxWaXhzd1VkbHNmWG5fTkdWeTlkVXcxM05VblNqTThDbVdHSW9vZnNoVm0tU1R5T2pfRGFmT2NBTnR5ZFFvcmlWNmlLTmNuVlVxaHFxTHRfQWM?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 12:30:00 GMT",
+      "description": "Should you get a flu vaccine every year? Doctors say yes, and here's why India Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "'Amnesia' about measles risk and low vaccination rates have helped US infections grow - Yahoo News UK",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLUUtb3JpTGJOR2J1M1NJRl80Nnk4UnQtZ1lBSEt0WVBaNTlKZ2pscEktZko3ZWhuOGRKazhMaFRUVVlBMWxySG9FWG5KeHplVFdoTGN2UUZ2ZnRLQVYzUXcwYkZoNjJJRmJNdGpzTDBHeHhOaldmMjJFUVNlaUxHcC1iVQ?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 12:12:00 GMT",
+      "description": "'Amnesia' about measles risk and low vaccination rates have helped US infections grow Yahoo News UK",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Bundibugyo Ebola Hits 3,200 Cases: Unpaid Doctors Strike as Oxford's Vaccine Trial Begins - Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOV19oaEJHcEZrcmFjR0M0N2QydldXb3dRV2Q2UUtyMHQ3RkZ2X3lqNVdlQUp4Qy1YVm1xQzBoSVg5X2plcEFsZFFIZkFocTE1SG1zeTJmMXk2QmFXSXlUcXJkclNuLTkyS1d0cDhyWFV0VzlDNjVtLU1LWVlZN0VqVUxkUzVBd3g5X2N4UWlXYlJoT3JYRFNIczhhWjJJd1NwY0dIRloyOGI0b24yVUNiOUxGN1htSUllQlZ5bnZJREpGTGtKUHhJb2l4T0NVU1drMkx6Xw?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 11:51:12 GMT",
+      "description": "Bundibugyo Ebola Hits 3,200 Cases: Unpaid Doctors Strike as Oxford's Vaccine Trial Begins Tech Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
     {
       "title": "Montgomery County Opens Free Back to School Vaccine Clinics Before the August 25 First Day - Medical Daily",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUi1ld3NSbVV0UG1ycUIwOHkwczhxeWwyQVBncTJnM0lGSnpsMUplV0h1TlU5TThfZ2F4LXJCa3RtcHhDQldBVTI4WnVuNXcyWjZqSUstdXVhVERPTktReGNRWHRITHN6dWs0bnNlV1B1cWtGY1hBWUhGMFdILTk3WUEwM1V4MUZjQjRjNGpkN05vVDMxQUhYZUFlcl9oS2RRQmc?oc=5",
@@ -186,19 +261,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Why are so many disease outbreaks popping up at once in US? - NewsNation",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdEJETE5pWlM0TWUtNncxQXQ1eDNBcnpIVXRZT29SRWFiUnhnLUgxWXlsdW5FRGFNVTZLOEtWSzM1QUpRVjVZRTIwWk5iMWFRZm1mSEdfUEdRNXNLYWJWTWZOYTh3V3J0TS1TUUlGMmRSaEwzUFY3T3NFNVFRemFRM2d6VEVaZ1QyUkVVdXByTU3SAZYBQVVfeXFMTVBtQWRsSDBjVmljb0MwNjViRk5Ia3RNTW5fQXp0czc4SEk4Z19VZEt2T2N1elBWQ2FxVHZMWlZkbWp6emdrNzRQUnRrd0x1WGplYk1tX0ZtTEpLRy12OVZPQjNGNXlESURMcF9sc3hiNVZ2aU9vUVcwUDVITDFIZlB5dzJHbWNHTUR2YVVFM1FGdDhDRk1n?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 03:36:34 GMT",
-      "description": "Why are so many disease outbreaks popping up at once in US? NewsNation",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "India’s first dengue vaccine arrives with a crucial safety caveat - The Hindu",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaWdzYWpOV0ljcFJydlNtRFNiSGVzWVhUWTZPQ01TVml6Rmo5MHFOQnM5Qllwa1NOMGNwbjZ3SEgxWTl3ckFOOE1zYXVkR1BnaHBoVkZlU1RweklON1I1aGFUS21pM0lDS1E2VWl5WGExTEN2UmpPZ3IzajRYQzVrbTZSckJYaGVrNThMZ3BKa2lSVFV2UTNFWjFubG9wT24xNkMxNC0wRG1TalZWSVN4N0JXNXg0RFRqUFA3adIBwwFBVV95cUxPZmpBbjVMcVlpN0w1aWFCaVVLNHFxWHhVS2xFY0tKMHE2R05oaEZDUXh3Q3NWd1F5QVlFaUxtNlphelNTYkJIRldmZjQ1T2hLWEQyVjJCTGhQcWdDLURERE44RlhwMTE4SDNxUGItVzJ6TXpNRVZnVWFCeEMwRWItLS1QdVZmTVhhTEsxeXJyZUtBa2J1Um9idUxRRzU2Vy1aa3l0d2VpTjFuQ01VZ3ZocHhNTzdZRFN6ZWVxeFdpR1Rkcms?oc=5",
       "pubDate": "Mon, 27 Jul 2026 03:30:00 GMT",
@@ -208,6 +270,19 @@
       "sourceLabel": "News",
       "vaccineKey": "dengue",
       "vaccineLabel": "Dengue",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Koalas Are Getting a Vaccine to Help With Their STD Problem - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNanVnSHh1TXpqQTZNZVdWVG5lNDVkYVNESFh1a3ZFZnBQUDh0QVY1c0hDX0VMenBFMjhoRW1hM3pyOF9rTGwxYmJIdU9IdzBTSkpSaERjQkItWC05UGw5LVNvQlFteWZrTzJkdEM4eXVIYVRtdXJjbXhqcExmYkhQOVpuMDZmeTRvaUszSUE0eXZmWDVt?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 02:00:00 GMT",
+      "description": "Koalas Are Getting a Vaccine to Help With Their STD Problem Yahoo",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -242,19 +317,6 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbTFZX2V4Q2dFQmZaNzZaN1VreG1fT3dTeXdEcjVmOHBLekdvWW9tLVhwaHVkZEt2UlFoUWc5WFFxeWVMa3RDeEtGRkc4M3ZMdFduQmtsY1I4VGoyTTRBWUFQaFBxUUpfd0xBNmhGTTdqV3l4QmJwLVQ0YlFIa0gwMUZtTXlqdHk2X3JxUE55bWV4Ymo2YTYtZ19uaTF5bUVmQ1RXRDZFcEFaTm5WNFNtOHp0Q1NvSk1xYjNYZXVfczVXcV9yN0pPQXRmU04xUE5XcFFsYlZB?oc=5",
       "pubDate": "Sun, 26 Jul 2026 23:00:13 GMT",
       "description": "Vaccine court: Where Americans who suffer rare injury after vaccination can take their claims CBS News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "7/26/2026: Vaccine Court; Chess Boxing; Amy Sherald - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MS29PblFXUWFGZkFNR2J0bmJudzVZa2N4VzBDYU04UUNNOGZkQmJaRHNLZlpidXhhRWNRdzFSUUNFc3NFRXpuaWdzMnQ4YlN2eWR0d21CMFJpTDRqU0w0eA?oc=5",
-      "pubDate": "Sun, 26 Jul 2026 23:00:00 GMT",
-      "description": "7/26/2026: Vaccine Court; Chess Boxing; Amy Sherald CBS News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -407,6 +469,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "The first cattle vaccine for Theileria is now available to help producers combat a deadly tick-borne disease - Brownfield Ag News",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbUJ0Z2JmU1dyekhMMjRsalJPaC1UV0JyMDhNZkJ1elFDLXZCSVd1T19mdGpwMmJlcldGU1JzdjBUM3RMODlwaFZYdHBDMzN1TFZpczN3bmt4OUpOSTMzQmFGeTAtOGdEVHhXSEhCTHYwcEtOa1YtbEktY0JiSDJUQUZGTFZiRDVCX25UWVRPaHhMdGVuSjN1clE3VWhXa0NRNUpwYWxpZE50Q3YzY1k3MkI3NWRkcUo5akN0U19zU3I5RHk1aW0tb2ZxVDViV3NwMk54elZCX0tZMmZ6djhCcQ?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 21:46:09 GMT",
+      "description": "The first cattle vaccine for Theileria is now available to help producers combat a deadly tick-borne disease Brownfield Ag News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "One immunization may protect newborns against 2 serious diseases - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcXlZTUdvUjd6QmxBQUFZOUhhTk5hZUNjaUJFSkpNV0xwdF9ueFAyX0xHYkNSSEZ2XzVROU40Sl9UcjIxRkRSeTFhNzhmUEZoVV9Dc1pnUHBWUEt6U2dxSnFvRG5ZdFJWcTFmX25SdXNKdHpsZ1prQjhrVXQzZ3kwSmFGbUl0aU11NFcxSTBkUFBLUi0yalBoOXQ4M2xnbkNWcGotLXltcU83MlZvSmsyeURpNzlIWFlzdGNFTXh2Y3A?oc=5",
       "pubDate": "Fri, 24 Jul 2026 21:03:22 GMT",
@@ -450,19 +525,6 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONEFKbkFoMk5TVmdJNG5JX0xWckZNc211b1RZdzQybnVZc2hCeGZBNHhOZHZQdWV0TWVlbm1VZVBta1Rjd2hHRVFLTnA1THJCNXd6ajF6Uy1Rc1N4eFNydUpydnp1ZFhkdXczOW1kbWZ4V1hQOU5Ib2hTalZZbHFoSjI2cUlZN3J0Tk0xNmNNUQ?oc=5",
       "pubDate": "Fri, 24 Jul 2026 20:32:18 GMT",
       "description": "Free back-to-school vaccine clinics available across New Mexico Organ Mountain News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Ex-Charger demands ‘the truth’ over vaccine he says NFL forced on players - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2lKNHRNXzZrZmxTZjBkNS1lYXRRTHplSlVDT3dYd3hUNmN1OFpENm5qTXRWOFpHeGNBdlZYV2lIaG44RTVDOVJxS0JEV1pFaVhxYVF0V3I2ZkMxY1JjSlpURGRybmF2ZGZxLTJwZ21sQWRJS2RNUkZvR1IwQVkxR0t2RGpTcFc5Vkk4TXdXaFpxc1BFTVM4?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 20:08:00 GMT",
-      "description": "Ex-Charger demands ‘the truth’ over vaccine he says NFL forced on players New York Post",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -537,15 +599,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "Measles Cases Hit Highest Level Since 1991, Cato Expert Responds - Cato Institute",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaU1abVg2NHNja3lUZ3l3RFd5TnhwbjZiYlRudnJhWWFVMWNrU2VSZW84VWtJX3pzUkhLMmpmN2ZXa2s1bUFDdkVfM0lyNFlEVVZHQk4zNHdQSFN1VVJuZFNPdVA5VlB2dFRwXzBDUlM3MW92b1BoQmt5UUQxdlVBd2c3QlhaSXhCTzZZdW5GeUV2bFA2dVdn?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 18:40:13 GMT",
-      "description": "Measles Cases Hit Highest Level Since 1991, Cato Expert Responds Cato Institute",
+      "title": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production - African Development Bank Group",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOVFRcDdCLTF5WVJQVEszczRrOVJhM0o0SVJoa2ZQcXJTVFl6Vmh3ZnpUTjZIWHlWTkpleXhNQUtxaWZuakpfOEw5Nm9xWEVFamNhZDNsb2lhUHhxQ2lNMWpoeVFKRkxtNDlwUFhBMm1Ed3JPamJVY3NwZ1V2RGVHOGhTRE5USDJBT2VVYXliUGd6a0VNREtpYVF3YTd3bXFYRlpvMXRlSDI4UV9IMnotblExYjlwa05DZHdGeFVNSjRwZENMNTlLNUwxeHBPNnBnZ283WVlQZ2lWTXpLSUN0Q1lhYnVaSWtiSG5JenptZXdXb21jcm5wN0RISlRsLVA4MEZoM0E1R3Y?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 18:37:44 GMT",
+      "description": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production African Development Bank Group",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -563,19 +625,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "US sees highest number of measles cases in 35 years - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1paWlzT2JpbDBYZUM3Y25pbkdrcjdjNGFEVl9aVGswQmpYblBmMjM1Y0dZYTlJdVltUlFHTFh2R3hXaDlGdE1UckhGTzBxNlVxUDZBM0p2Z1pxUQ?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 18:18:30 GMT",
-      "description": "US sees highest number of measles cases in 35 years BBC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Measles cases have reached a 35-year high - Stateline",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSFA5dDN2eFVXaFE3dm5ibzFxd0h1ckFQVHkzMjBCV0lnVzQ1SzJUdDJ1NjllMVpFUGFia2hyTXJ1V2owTEswc0V4N3FTeHpFYk9yZmt3cEd4Mzl5dG05eVI0dHVIY0pzYmFvRFR6RktIMXI2RkRxdThYazE0UENsYg?oc=5",
       "pubDate": "Fri, 24 Jul 2026 17:59:23 GMT",
@@ -589,17 +638,17 @@
       "articleLabel": "News"
     },
     {
-      "title": "Tuberculosis Vaccine May Reshape Brain Immunity and Alter Alzheimer Biomarkers, Early Trial Data Show - Pharmacy Times",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMFB2aDZqLTVVb1Exdml5SFNDcTBVaUZCNUVBZEhjTlRsN3lvNzV3LWFCTUowejhsVmdSTXJ4enNuMTFKZ1hvRFdOYjY3QmVsWkp3VDFlY0VyTW1wX1NhV2VCQ25BNnlpNU9MVjZxc1dCTEp1YlpXZFQ2X3dNZ1VaZjl3R1ZDcGJOdHRJMHV1LVFWUEpoc28zd1pIa0xPSS1hWkpaMHcyZ2ZKZ3JCY2ZBS1djMFRraWNzbHU5TVJQNWhObGdxQV93alBEMHREb0g3?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 17:51:00 GMT",
-      "description": "Tuberculosis Vaccine May Reshape Brain Immunity and Alter Alzheimer Biomarkers, Early Trial Data Show Pharmacy Times",
+      "title": "Husker Scientists Pioneer Breakthrough Swine Vaccine Innovation - Pork Business",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcHlzRWlJWHJGSDB1S3V3Z3IwaW9vNVZtX0pDMXpWblNVR19KMGp0VExYQXVXelRXbGZveFA2Y0ZzMldpLUwzaG5XLXJWSlViTE5hXzA1Wm9BT2lwbklCRDBkY0RaYzh3MWRlSS1uLUZXbXVJdDNEblJ2OTB3UGlYcTN3LWpyRXlwRFV4YmFyOGhhUHJOd1lGcHV4eHdIUQ?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 17:34:19 GMT",
+      "description": "Husker Scientists Pioneer Breakthrough Swine Vaccine Innovation Pork Business",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "US records 2,318 measles cases, already surpassing 2025 total - Al Jazeera",
@@ -702,19 +751,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "First person gets new experimental vaccine for Ebola - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGdGw5eG1BUE5yZUZLQXNmcGp3NGZISTNVbmFSNE5YZlR2X1hyTkNCakpZMHgzQjFDT3B6blNIeE1iWmlXb1pvYXF6d0YzenoyV2FhQ25weVRJdw?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 14:43:51 GMT",
-      "description": "First person gets new experimental vaccine for Ebola BBC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -862,32 +898,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "CIDRAP Op-Ed: A gap is not a finding—A lawsuit, a petition, and what it takes to know whether a vaccine caused harm - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQUlEd0c3aUwyal9nLXJMTzluZkxaVy1xRlpyMkZCdnZ5cmhPV0R4OW5ROVA0QlJwNHlYcVNhTmlmdUhPMjRERDlNTlNoaXVDOFJydzRGODJ5dDAwVm9sS294WHQxcDN2cE1JdUxFVGsyMFZ1SGNraTB3X2xtY29qR2ZPV1hPNG0tN3lKMUxLTkEwcUNJZkpJT1pNcl9TQzhDb3hYYUdoVy1CWG4xUVlUSDBoR3BwSjhuMlBxLUZsSEc?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 15:14:27 GMT",
-      "description": "CIDRAP Op-Ed: A gap is not a finding—A lawsuit, a petition, and what it takes to know whether a vaccine caused harm CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "opinion",
-      "articleLabel": "Opinion"
-    },
-    {
-      "title": "Experts share vaccine importance - WPSD Local 6",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTI1NTc5RlRUWmVEa2o0X0dfWnlOV1hwbWY3Mk43dGtQWUpORlRvX3FEMGliZG1heGdhSV9OUkNILUF0YTlZWXRUYnVWR1ZwZFhCSEtMMmZaZ3VxNlZiN1J4NkNwdl9LUF8zdW5RRWE5ZmxTS3RpWUZyTC1mSGFFYXZaRlVreDFUNnhCNG5UUW4zSHJVcDRITEFFZkMtQXNkNWNUQzdmc0Z5bGRrVjFGZw?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 14:41:08 GMT",
-      "description": "Experts share vaccine importance WPSD Local 6",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "The world’s first Bundibugyo Ebola vaccine has entered human trials: here’s why it matters - Gavi, the Vaccine Alliance",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUlJNYWV3VkNlN1FHS19adUJoeC1ENHZDSU55ckstNjVNNU5CTTE3S21BTzZEUWRlc3VINXk1MHhiVm9ZSVptREVGalhPYm91UHJqRGdkSDZjakd0Z0pTbDNPMnhhY09lcEV2MDZfbmlCOWVJN3ZJUUs3MTJhTW9VY1NOWXpNdHNtVDdTTjh3YXhBMXVhcW1LRk1nbXh3bU50R3d3TU1yWDEzVE53NDd5TllKbFVjeGFL?oc=5",
       "pubDate": "Thu, 23 Jul 2026 13:44:44 GMT",
@@ -901,15 +911,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "Trump Promised Redemption for Troops Who Refused Covid Shots. A Year Later, Many Are Still Waiting - The War Horse",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMnlSaVh3S1Z0SG1IWUJub21UY1RrUkJpT19lWDIxZk1UMmxyR3M4SGVlMkxhOGQ3Zk9sdXFIa19VenhTc1NXamtmUF9NcnVVOXVoYkhYS2dwWW9EVDRneHdJQUZWY1VJWlBXR21NaEl1VXQ5U3dObjQyRUk4SXN6aXJkSQ?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 08:30:00 GMT",
-      "description": "Trump Promised Redemption for Troops Who Refused Covid Shots. A Year Later, Many Are Still Waiting The War Horse",
+      "title": "16 million children protected in Kenya's measles, rubella and typhoid vaccination campaign - WHO | Regional Office for Africa",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxON25HNmRvM1lpZmNhbDB2Z202bC05Z0NrNTE4T3gzOS1Oc3oxMGNjdlViOVFBZUFnWTVLLV91TnlaQXF6czRFWXVFOXVSTVRyTHFFZmdaRllMSHRtTEVnNXd6OVBySE9VdklHRzJmX052M3dDNnRoMV9IZ2Ftdm5DbW90RTVTVzNlYThfcDFYbjR6bWdFemh4MjdZRy1hYkVyOEV5UkRDVnF6Nzk2Qk4tRHBuTWE5RkwwR0lpRDFGLTVSMjdDdlppaWh2TC14V1NVa2c?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 09:41:34 GMT",
+      "description": "16 million children protected in Kenya's measles, rubella and typhoid vaccination campaign WHO | Regional Office for Africa",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
