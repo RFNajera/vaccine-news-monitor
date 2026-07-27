@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-07-27T17:58:35.178Z",
+  "updatedAt": "2026-07-27T18:55:13.275Z",
   "itemCount": 77,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 2
+      "count": 3
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 2
+      "count": 1
     },
     {
       "key": "measles_mmr",
@@ -30,7 +30,7 @@
     {
       "key": "rabies",
       "label": "Rabies",
-      "count": 1
+      "count": 2
     },
     {
       "key": "dengue",
@@ -40,20 +40,59 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 48
+      "count": 47
     }
   ],
   "items": [
     {
       "title": "Measles outbreak raises alarms over vaccination rates - Modern Ghana",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lWUxIa2MwU1htMDQwMnhwWDVDQVp1WldtcnN4aUFHR0VVSFFFZmVLSHhLdGRQYlI0Vmc1Mkg2NjJpOHlhbGZRRFBUT0k4MEE2Z2NzcVh4MEpIaDJJanhR0gFcQVVfeXFMTldET3dpaUVyNzFTNVlhWEJpN0JhdktLS2l6U2ppbHpIZG56Qk5kZ09maFdmcFUxZndCRnZqNi1zeHJGZ0lFbG03Ums5aDVhM1VFc1QwamFWRlFieGo?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 17:41:50 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRTElUN3pad0NuWDE2WUVuT1JmeHZSQWk5Y3VZTlNNVGZLYk9JRnVQR3A2YXVKWFBHUk05WFk0ZkVmdlZEajI0QWtlcmZJaFR5RXBqenN1SnBpWGJ2Vjdn0gFcQVVfeXFMTldET3dpaUVyNzFTNVlhWEJpN0JhdktLS2l6U2ppbHpIZG56Qk5kZ09maFdmcFUxZndCRnZqNi1zeHJGZ0lFbG03Ums5aDVhM1VFc1QwamFWRlFieGo?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 18:28:11 GMT",
       "description": "Measles outbreak raises alarms over vaccination rates Modern Ghana",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Confirmed cases of measles in the US is highest since 1991 - KLKN-TV",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa0RFUVpHUE15TU9jLVlYS29rc29IQTVoTW51ZlVQZS1IUFpaZjRUZjN6RGhrcXR2TF9tQWdsR2syblNzYlR3cnAzZERNTDAzZ3hJVHBCajh0cjlUU3IzR25Yc0s2b3ZxRFZzeEtVd1IxZTh0WDBrdUVhTjA3VVMyZEx0QmVZSUZIY2c?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 18:27:17 GMT",
+      "description": "Confirmed cases of measles in the US is highest since 1991 KLKN-TV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "New cancer vaccine harnesses COVID-19 immune memory to fight tumors - News-Medical",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUmlFQkpQNzZjLUNwS1FnUUpNUlA2Q0dROVdFVjdRSzhJSmNvcU9sN3JLQkRhZTYydzFwNG1QUDVJRXFNRU9NdExxdFduYnh4ejVXdFNMcUxIU05wX0VrZl9vYzQ3OG10OUFWNnRVT0trcFM3Z0hDMG1BajJSVTRGblN2ZERBUkIyejV1aURxN3JNeTNYRk8wODMxdzFHWU4zWTVpSVVUTE5VWnZrcE1UUzAxcFVDdw?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 18:26:00 GMT",
+      "description": "New cancer vaccine harnesses COVID-19 immune memory to fight tumors News-Medical",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "USDA to drop oral rabies vaccine baits in Carroll County starting Aug. 19 - Your Ohio News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc0ZkVW9KSl9tUU55Ulc3TEVLQkZlaWh3RWFTUEJMb2RJU3FFbmM1SDljLTVzYmxSNS1rT2Y0TnhOblJLdGNVcVBWQmZ0bE9vZHJTVGZrejhEbjk0M25idTV4aDd1QmFVZ1VXdk42RjFsVDk2ZTBtb21KUEZuNTB5QW85bnBGejRkYlluanZOeXlaMUdFSURyZzhhWmFLZnNMbnNJTUVrZDR2THhHbnJVUE04VEYxbHBqSXc?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 18:04:49 GMT",
+      "description": "USDA to drop oral rabies vaccine baits in Carroll County starting Aug. 19 Your Ohio News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "rabies",
+      "vaccineLabel": "Rabies",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -147,19 +186,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "Can Timing of Administration of Influenza Vaccine Determine Its Effectiveness? Study Sheds Light - Medical Dialogues",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNzZzTWdWQWx0RnVfX0kySFhDS1F1dEpyb1ZlSVJaalZ1WGNwTjJMbzBjNHhSdkV4RW9QLXpiaWhpcWhNMktveXlTM0NMQlJoendVRDlfR3NWa1NZUWJnRHlwcUlVUFRSenlSa0tGZzlnWVBEVzltUW9GczVsRi11YnNyRWRUVDR6TVBXYVRENldKOGh2Y2E2bXdzLW5RcnFXNjc5ZmVSYjkxZENHcDAtOGpLSnkwQlJPM0hBa1d4MTBfVUhmR2ZBUlZ4UHpoanBORzNOMl9NaTZiSEVp0gHiAUFVX3lxTFBZbk5iZmZJdTBhUXBzUHAwQlJxVzIteExDZFdvcGhHWDZYYXB0OXI1Nk44eEp1WE12dFZHWmpXcHdob05pSUVYd2ZfV0g0TFpINVlkUVlYUWdhREF0TVA1bXR4bHdnaEM2eFJMOGdBbEptMU80amQxZzBZMlA1VDdWOU5kVW5Iekk3dHl5cEV2UVk0VFVISEJsX2k1bUVISjRBZnFLOU42Ni04bFREalJqSDZKdG1qY043ekJ1aU5MTEluRGRZc2c2QlpYbVZPcVdCd1l2S0Y5b2ZZQjhSNU14TWc?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 15:15:15 GMT",
-      "description": "Can Timing of Administration of Influenza Vaccine Determine Its Effectiveness? Study Sheds Light Medical Dialogues",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "South Africa’s Biovac secures $15 million AfDB loan for Africa’s first end-to-end cholera vaccine plant - Business Insider Africa",
@@ -331,6 +357,32 @@
       "articleLabel": "News"
     },
     {
+      "title": "American Medical Association Urges Public To Get Vaccinated Against Measles As Cases Surge, Say, “There Is No Cure For Measles, But Vaccination Is A Safe And Effective Way To Prevent It” - Sierra Sun Times",
+      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPZ0pCMzgzUnEwNDVXQUV3UTlJOG43amZueDN5QVdMWm1VV0FZY2V1ckJ6eVF1aldPdU9naHNoMVRwblJJUnkwS0s2c1VDenJ3elg4ZFRKODZaRE5yQW8wSEdXczJvWWZGV29KMzFWc0hmT0xUV0wzYVFLMXJaZ1ZROGlUM1hTYnh2NjV4NkRITUNRQU1hUVNYU2tUbUlZQzBOZzg3R0hrWDVUNnBjVlpDWTRDUzNFNFhNX2RGNkE3aEFLMHBhWkNNUlVkWXlmYmF4UWtybGxIeEZ4M24tUWpFQWJKZkt2ajFoN1NEYVE5Ry1NcEN1ZThETEpHWGRPci1Zb2ZmcFltRjFDNndmOHZaUUg3a2d6Y1ZUUzE5MVg1c3l5TXlsREVNSkt0dFM5d3ZlRjhpOHFrY21zcmthZXVZYVJDTFFWSE5QODU2RTdtZmItQWZuaGV3dDVkc1FLcVF1ZDN0b0NlMW04cmR6?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 12:08:46 GMT",
+      "description": "American Medical Association Urges Public To Get Vaccinated Against Measles As Cases Surge, Say, “There Is No Cure For Measles, But Vaccination Is A Safe And Effective Way To Prevent It” Sierra Sun Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Koalas Are Getting a Vaccine to Help With Their STD Problem - Nautilus | Science",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdmx4Q3VRcmNuMTdyT2VFd3F5SDhmU2xvQ0ZyMms4eUluQTBwdnBNeVNNTlpPWERzcm1kV2pPd2RVRTZISHI4UW5JcTFCODlFaEtKNmxtZHpWQVhoemR5ZFotMEhYbzR4TFc0Uzg2ZGRwNGFzY3c4S2t6MW0wZ2JSak1hakFsekZWLVF1TEZR?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 12:00:00 GMT",
+      "description": "Koalas Are Getting a Vaccine to Help With Their STD Problem Nautilus | Science",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Montgomery County Opens Free Back to School Vaccine Clinics Before the August 25 First Day - Medical Daily",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUi1ld3NSbVV0UG1ycUIwOHkwczhxeWwyQVBncTJnM0lGSnpsMUplV0h1TlU5TThfZ2F4LXJCa3RtcHhDQldBVTI4WnVuNXcyWjZqSUstdXVhVERPTktReGNRWHRITHN6dWs0bnNlV1B1cWtGY1hBWUhGMFdILTk3WUEwM1V4MUZjQjRjNGpkN05vVDMxQUhYZUFlcl9oS2RRQmc?oc=5",
       "pubDate": "Mon, 27 Jul 2026 10:30:45 GMT",
@@ -353,19 +405,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "U.S. measles cases reach highest level since disease elimination - KTTN",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2xvMXJRQ3A4dEdCMEd3LU1jNlV2WWlpU18xYmRRTTJhdVJqMHotSnM3RHc4R3Q2WTNWeDhoY2Q3N050UVV3QTN5V2IyMTliV3NqU202Zy1kaUY2Rm55cHZ0eHZrem9UczlFV1I5MHY1VDRoOHhDUTFZWllYQVVFRU8zM1A5anNhcHV6YXhB?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 10:06:59 GMT",
-      "description": "U.S. measles cases reach highest level since disease elimination KTTN",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -500,19 +539,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Why are so many disease outbreaks popping up at once in US? - NewsNation",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdEJETE5pWlM0TWUtNncxQXQ1eDNBcnpIVXRZT29SRWFiUnhnLUgxWXlsdW5FRGFNVTZLOEtWSzM1QUpRVjVZRTIwWk5iMWFRZm1mSEdfUEdRNXNLYWJWTWZOYTh3V3J0TS1TUUlGMmRSaEwzUFY3T3NFNVFRemFRM2d6VEVaZ1QyUkVVdXByTU3SAZYBQVVfeXFMTVBtQWRsSDBjVmljb0MwNjViRk5Ia3RNTW5fQXp0czc4SEk4Z19VZEt2T2N1elBWQ2FxVHZMWlZkbWp6emdrNzRQUnRrd0x1WGplYk1tX0ZtTEpLRy12OVZPQjNGNXlESURMcF9sc3hiNVZ2aU9vUVcwUDVITDFIZlB5dzJHbWNHTUR2YVVFM1FGdDhDRk1n?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 03:38:35 GMT",
-      "description": "Why are so many disease outbreaks popping up at once in US? NewsNation",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "India’s first dengue vaccine arrives with a crucial safety caveat - The Hindu",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaWdzYWpOV0ljcFJydlNtRFNiSGVzWVhUWTZPQ01TVml6Rmo5MHFOQnM5Qllwa1NOMGNwbjZ3SEgxWTl3ckFOOE1zYXVkR1BnaHBoVkZlU1RweklON1I1aGFUS21pM0lDS1E2VWl5WGExTEN2UmpPZ3IzajRYQzVrbTZSckJYaGVrNThMZ3BKa2lSVFV2UTNFWjFubG9wT24xNkMxNC0wRG1TalZWSVN4N0JXNXg0RFRqUFA3adIBwwFBVV95cUxPZmpBbjVMcVlpN0w1aWFCaVVLNHFxWHhVS2xFY0tKMHE2R05oaEZDUXh3Q3NWd1F5QVlFaUxtNlphelNTYkJIRldmZjQ1T2hLWEQyVjJCTGhQcWdDLURERE44RlhwMTE4SDNxUGItVzJ6TXpNRVZnVWFCeEMwRWItLS1QdVZmTVhhTEsxeXJyZUtBa2J1Um9idUxRRzU2Vy1aa3l0d2VpTjFuQ01VZ3ZocHhNTzdZRFN6ZWVxeFdpR1Rkcms?oc=5",
       "pubDate": "Mon, 27 Jul 2026 03:30:00 GMT",
@@ -522,19 +548,6 @@
       "sourceLabel": "News",
       "vaccineKey": "dengue",
       "vaccineLabel": "Dengue",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Koalas Are Getting a Vaccine to Help With Their STD Problem - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNanVnSHh1TXpqQTZNZVdWVG5lNDVkYVNESFh1a3ZFZnBQUDh0QVY1c0hDX0VMenBFMjhoRW1hM3pyOF9rTGwxYmJIdU9IdzBTSkpSaERjQkItWC05UGw5LVNvQlFteWZrTzJkdEM4eXVIYVRtdXJjbXhqcExmYkhQOVpuMDZmeTRvaUszSUE0eXZmWDVt?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 02:00:00 GMT",
-      "description": "Koalas Are Getting a Vaccine to Help With Their STD Problem Yahoo",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -561,19 +574,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
-      "title": "U.S. Measles Cases Have Reached A 35-Year High - Park Hills Daily Journal",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ2VOMkQybmNmb01rZ1ZtSHdFbWZrbUZ2Q0ItSGo4VERKUHYwZHhwR3VxV1dVVlRBcW5lOFZRUDhHMEFZVE5aRTM5dDFySjVNNjBuUGd4dEdyR0pLMDFHa1BqTWFiZUg3WnpwdHE3VXRVVmZ3aFpDd1l5WEF6OEtyUnBvRUVVYlU2Q1Uxc3pMV0tYQ3o5MGYyZA?oc=5",
-      "pubDate": "Sun, 26 Jul 2026 23:46:39 GMT",
-      "description": "U.S. Measles Cases Have Reached A 35-Year High Park Hills Daily Journal",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "research",
       "articleLabel": "Research"
     },
