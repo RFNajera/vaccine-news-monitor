@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-27T16:16:33.418Z",
-  "itemCount": 74,
+  "updatedAt": "2026-07-27T17:58:35.178Z",
+  "itemCount": 77,
   "groups": [
     {
       "key": "covid",
@@ -10,21 +10,21 @@
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 1
+      "count": 2
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 18
+      "count": 21
+    },
+    {
+      "key": "hpv",
+      "label": "HPV",
+      "count": 1
     },
     {
       "key": "hepatitis",
       "label": "Hepatitis",
-      "count": 1
-    },
-    {
-      "key": "shingles",
-      "label": "Shingles",
       "count": 1
     },
     {
@@ -40,10 +40,101 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 49
+      "count": 48
     }
   ],
   "items": [
+    {
+      "title": "Measles outbreak raises alarms over vaccination rates - Modern Ghana",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lWUxIa2MwU1htMDQwMnhwWDVDQVp1WldtcnN4aUFHR0VVSFFFZmVLSHhLdGRQYlI0Vmc1Mkg2NjJpOHlhbGZRRFBUT0k4MEE2Z2NzcVh4MEpIaDJJanhR0gFcQVVfeXFMTldET3dpaUVyNzFTNVlhWEJpN0JhdktLS2l6U2ppbHpIZG56Qk5kZ09maFdmcFUxZndCRnZqNi1zeHJGZ0lFbG03Ums5aDVhM1VFc1QwamFWRlFieGo?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 17:41:50 GMT",
+      "description": "Measles outbreak raises alarms over vaccination rates Modern Ghana",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Measles outbreak raises alarms over vaccination rates - Central Oregon Daily",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObi1ZODhHRzZWWlo5MUZCXzJfWmRrZ0EyN2hiaGNaSU1xTkVkbXUxT0I5NEJfbFRYYWJKelhSY1hMM1NNa1NoUmxjLVFJc0Q4dk56cktIemh4cDVKcUxJbVk2NmhmbG1KNW1XbXQtSFVsbnNYQW9wLWx6SGpFZ3h5NWZRUDA2V1RnRVpqcHRIQzExYjk1aUZLSVMzMXFicWx5aGYyYTE5aE5MREk5YWRxUWVUXzhlZmIyb0puRmlzYUthd0w2X3lUVFNHUC00ZXBBTEltRF9IX25iV3BiVWF5QUE5bjRtcDJ4Znc?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 17:05:16 GMT",
+      "description": "Measles outbreak raises alarms over vaccination rates Central Oregon Daily",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Navy reinstates some flu vaccine rules months after Pentagon ended mandate - Task & Purpose",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE83dUVjVTRJcGdsb3FGdmg2U0NrektrRzNaV09IdVpJOGhhUVBkSzJBNmQxSFhKNDJCVDFZQUpEa1Bnb1FQVmVHU2d2cXV1Qi1CNXJDVkhwNGpXTk91YnJKUjUwTDFlRndQNlY1TVdzVDRaUQ?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 16:58:36 GMT",
+      "description": "Navy reinstates some flu vaccine rules months after Pentagon ended mandate Task & Purpose",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "More US parents advocate for vaccination than discourage it, survey finds - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcmRRSHhOdzI4RUxreUlpTFhJOGdxWVF1aVA1cDBQYzljUWdWc3dvUWt3dXY1aVVZSHpiclhPbWdfbVhVdERJSlYxTFJVNy13M2xmQUluN3JGQWl6dEhSX1o1alBZT2o4ekVrZkhXTnFaOEEzcmR6OE1MakRMMmxjUXpSQTF1QjgzMzU4ZHBJZG1UajZONU11enE2Q1U1aWxITUFqZ1NVeW1PWEY4R0E?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 16:54:00 GMT",
+      "description": "More US parents advocate for vaccination than discourage it, survey finds CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "First volunteer receives Ebola Bundibugyo strain vaccine in trial - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyS0p3cjFCazZsWlctbWdtSG1tdmxSeVpMcy1xbnB5aFdrOWtqS3pfODc3R2FfbnMxMTJKcjljczdoc2lWcVhtc2dUcWNQc3lsM3BMMW9WWEUzZTNXZzZZMzB3dGdWdw?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 16:33:37 GMT",
+      "description": "First volunteer receives Ebola Bundibugyo strain vaccine in trial Reuters",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Vaccine mis- and disinformation isn’t just a threat to public health, but also to our autonomy - The Conversation",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUVJFT0VsNU9aYVRPTVFjV3NBWXl0dEhJT3hvMElXS3hMRkpiNGgtZXc5cS1QRDRSM0xCVDAwMHE1V3NrdE5NdjJxeDZHUGpQVGd0MXVzNy1oanFmT2hhVkg5TU50T3ltQWhla3E4a2VSTWpwbC1PN2VTcFRKX2pwM3RxV3VFYlhFbW9kNjJBYV9xZ3NVQ1kzQ0EwSEtJcWw3SkVIZ2t0czlqc3NBVjFSYzgtUjRGY0IzcmJjc3dYb2xDMW1t?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 16:14:20 GMT",
+      "description": "Vaccine mis- and disinformation isn’t just a threat to public health, but also to our autonomy The Conversation",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Annual back-to-school vaccine event - KTBS 3",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUnF0aU1pNnBET1VoVkMyMVduU2Z3YzdVYzViOHVCZUgzaVhLYWFzZ2F3SktYWkw4bEw0ZXp0RWZ3R2Rja0FoSG9WZXF4ZVgtSGNrZmpRcXZfZ2dLcnYybExrc3FPUDlfZGF2eWo0TXV6QVpkZWU1eXNuLVVRYTM5NThsMEJUdXg0SUYtRDNmWlFmVS0xWHlqS0lCamdTc1BEUFBjaHNXX1BldjhLX0hnaGVxRQ?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 15:59:00 GMT",
+      "description": "Annual back-to-school vaccine event KTBS 3",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Human trials begin for world-first Bundibugyo Ebola vaccine - thepharmacist.co.uk",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX1NlMG12dDBKeGp0ZWIxZEcxb2lvMnhhY3g3NUNQeEstbG5PbWYzRUNiQnNyQXpZd3VKdWR3ek51YzBxOWwwQ19kS0pTUjd3SnVvRzJhNFpnVFM4YWhLaXVWbFpqbV9HWnBob1lUQ1JfTFZIZm00d3hGU0p4VkJadWFETTY5S3FXT1pMY19MeVY4M25FLUFPcjFFcklfd3JYd3dtMWhuakEwQnJ6RGF1c3YwakNoWjl6ekE?oc=5",
@@ -69,6 +160,19 @@
       "vaccineLabel": "Influenza (flu)",
       "articleType": "research",
       "articleLabel": "Research"
+    },
+    {
+      "title": "South Africa’s Biovac secures $15 million AfDB loan for Africa’s first end-to-end cholera vaccine plant - Business Insider Africa",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMEh4cENadER6WDhtSzhRMnhPMjdHalJvanJRYm5IODZOS1lWNk5xYU1ScmRwbXBMLURYUnFTY2VQMzVPTmxjWkxmSll0MVFxOGRfZF9FUE15MXZTXzFvYkpLQ0QtZmFPMEJxMlRZOTRiVHN0Q00xVmc5UV82bzlRLXJCOVZjQ09Uc1lsVGNsMW1zQmRWWENsMFpyMDNUanBDUGhxdUxLekRWbDFwcDlfTXpmX204cnE2eVh4X2ozYjhUREw3U2kxWnZUQkt1d0JaQ01VZkZWWXE?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 15:14:19 GMT",
+      "description": "South Africa’s Biovac secures $15 million AfDB loan for Africa’s first end-to-end cholera vaccine plant Business Insider Africa",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Measles cases surge as first day of school approaches in Florida - Naples Daily News",
@@ -227,32 +331,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Why are so many disease outbreaks popping up at once in US? - NewsNation",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdEJETE5pWlM0TWUtNncxQXQ1eDNBcnpIVXRZT29SRWFiUnhnLUgxWXlsdW5FRGFNVTZLOEtWSzM1QUpRVjVZRTIwWk5iMWFRZm1mSEdfUEdRNXNLYWJWTWZOYTh3V3J0TS1TUUlGMmRSaEwzUFY3T3NFNVFRemFRM2d6VEVaZ1QyUkVVdXByTU3SAZYBQVVfeXFMTVBtQWRsSDBjVmljb0MwNjViRk5Ia3RNTW5fQXp0czc4SEk4Z19VZEt2T2N1elBWQ2FxVHZMWlZkbWp6emdrNzRQUnRrd0x1WGplYk1tX0ZtTEpLRy12OVZPQjNGNXlESURMcF9sc3hiNVZ2aU9vUVcwUDVITDFIZlB5dzJHbWNHTUR2YVVFM1FGdDhDRk1n?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 11:53:04 GMT",
-      "description": "Why are so many disease outbreaks popping up at once in US? NewsNation",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Bundibugyo Ebola Hits 3,200 Cases: Unpaid Doctors Strike as Oxford's Vaccine Trial Begins - Tech Times",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOV19oaEJHcEZrcmFjR0M0N2QydldXb3dRV2Q2UUtyMHQ3RkZ2X3lqNVdlQUp4Qy1YVm1xQzBoSVg5X2plcEFsZFFIZkFocTE1SG1zeTJmMXk2QmFXSXlUcXJkclNuLTkyS1d0cDhyWFV0VzlDNjVtLU1LWVlZN0VqVUxkUzVBd3g5X2N4UWlXYlJoT3JYRFNIczhhWjJJd1NwY0dIRloyOGI0b24yVUNiOUxGN1htSUllQlZ5bnZJREpGTGtKUHhJb2l4T0NVU1drMkx6Xw?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 11:51:12 GMT",
-      "description": "Bundibugyo Ebola Hits 3,200 Cases: Unpaid Doctors Strike as Oxford's Vaccine Trial Begins Tech Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "Montgomery County Opens Free Back to School Vaccine Clinics Before the August 25 First Day - Medical Daily",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUi1ld3NSbVV0UG1ycUIwOHkwczhxeWwyQVBncTJnM0lGSnpsMUplV0h1TlU5TThfZ2F4LXJCa3RtcHhDQldBVTI4WnVuNXcyWjZqSUstdXVhVERPTktReGNRWHRITHN6dWs0bnNlV1B1cWtGY1hBWUhGMFdILTk3WUEwM1V4MUZjQjRjNGpkN05vVDMxQUhYZUFlcl9oS2RRQmc?oc=5",
       "pubDate": "Mon, 27 Jul 2026 10:30:45 GMT",
@@ -266,28 +344,28 @@
       "articleLabel": "News"
     },
     {
-      "title": "Ebola surges past 3,200 cases in DRC as Oxford begins first vaccine trial - RFI",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRVBjYThxOGY4bUJKVGs4UjVHc1V5X0ZmUkdZdXpUVGt1QmEta3ZvU01OTHp6TlNISTF1YWdBOFQtR0NaWjE0MDNYM3pSY0tCOEdjVTFUQlk1Q1I1RmRjMHp4cC11VlhSaWZwMTJ4c0ozVGszUWcxWXpVSm5LN3hOaFBka2ZweXJkbzlkUE1OYWlqX3NFbEE1d0JBdU5GRzl5WkN1VzBkTVRUSjBIdWJxaQ?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 10:29:46 GMT",
-      "description": "Ebola surges past 3,200 cases in DRC as Oxford begins first vaccine trial RFI",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "Experimental Ebola vaccine administered to first volunteer - Nursing in Practice",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNGNHSk9JRUI5Z3JONG5XMGljWVliNmd2aXJMelFBakU4NVJBckhfRF9VTGhLbE94MkJUdHJqalR6RjVXTmpfNERwWXJ4LW5VX2dsaGVNakowSDR0M0pnaVVGTkxtNjllWUFhSE5MMjJ6dXVPcEcxMVhTc180c1luaTh0R1hNVDBkbEdOelNkeGtNUEM2UHZtVWpQSXpJN05jWUwxNnFPdGtpMzJhbXF0S0MyMUdzV25VeGt1MXhpLWFWc09HYkVF?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 10:18:05 GMT",
+      "pubDate": "Mon, 27 Jul 2026 10:22:33 GMT",
       "description": "Experimental Ebola vaccine administered to first volunteer Nursing in Practice",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "U.S. measles cases reach highest level since disease elimination - KTTN",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2xvMXJRQ3A4dEdCMEd3LU1jNlV2WWlpU18xYmRRTTJhdVJqMHotSnM3RHc4R3Q2WTNWeDhoY2Q3N050UVV3QTN5V2IyMTliV3NqU202Zy1kaUY2Rm55cHZ0eHZrem9UczlFV1I5MHY1VDRoOHhDUTFZWllYQVVFRU8zM1A5anNhcHV6YXhB?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 10:06:59 GMT",
+      "description": "U.S. measles cases reach highest level since disease elimination KTTN",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -301,19 +379,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "VIROLOGY AND VACCINE INSTITUTE IN PH President Ferdinand Marcos Jr. revealed during his fifth SONA the government’s plan to establish a Virology and Vaccine Institute in the country. #SONA2026 LIVE: https://www.youtube.com/watch?v=xWy2cD_NL - facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR19zX3h4X1J1Z3diQTR5ZS1rMjh4c3BlRm9jTU4tMGZOQUVxTkNpT0M4N0xPVUI5b1U5Y0REZVVLbEd1VkNNTjZ5R1EwbDFPU0owZUctWWk3b1hlWTNkMnNkZUFlUFJzRVJiU2pPM3lXazdkQWRFc1ZLX1hsREhjRUc0cFBRaHJ3ajlibXJ0TDZLeG94ZmhxUG5HSWJDTUtpa25wamtCTU5CNXVBVTVTa1U1TTNuZ2hMckdyWlAwVVllRUppVGQxdlFNblBBQ0JHQkpqOTFwdlVhZkdp?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 09:53:15 GMT",
-      "description": "VIROLOGY AND VACCINE INSTITUTE IN PH President Ferdinand Marcos Jr. revealed during his fifth SONA the government’s plan to establish a Virology and Vaccine Institute in the country. #SONA2026 LIVE: https://www.youtube.com/watch?v=xWy2cD_NL facebook.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -410,7 +475,7 @@
     },
     {
       "title": "Ebola Outbreak Worsens In Congo With Over 3,000 Cases As Vaccine Trials Underway - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOUZYX2VEZkltUnhCOEFzZmhIWGhnMUFpZ3FYR0txeFk3SXFTTk44N1dZWGFCQjNVRWhSNjJFLVpweGc2em9GTXAxVnBZM0Ridy1zTndyTWZRVzdPTnJObTdpMEdQWVVyMXg4SjRwUFRUX3pyZG11amYta0FUUTM0VnhnakpRS0N0Y2I3bWFvczNHbFJhYklnaDlPV2RuWXR1UVl3aUUxZ3Q3SmV3QUtFLUZUbXdiVHgt?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYTdnb3JQQTdHSmMzZGNZUDJVY2xIckwtUmFLbG4tXzRVV2NzRGhpQ2tVa3dCXzJXUHBHNHlIaXV3dWotdVZZRXR3bExuYkh0LXZfRnZfRWVkZEVXbmhpMzlwNHh0T3lTak5SNmhzbjFCbWNFTnBoZzF2SF81ZkdtR1k0b3M?oc=5",
       "pubDate": "Mon, 27 Jul 2026 04:48:43 GMT",
       "description": "Ebola Outbreak Worsens In Congo With Over 3,000 Cases As Vaccine Trials Underway NDTV",
       "source": "news.google.com",
@@ -435,15 +500,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "Timing of JAK Initiation, Shingles Vaccine Administration Can Affect Outcomes in RA - Rheumatology Advisor",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWVludDhsVlR0RGFCazZBYWNYUlczZkRUOU1tbVUzOHQ1bDlVWlFUeTQxdDM0dVVwYkhaS0psRVVIUHRLUHVOQjl1M2pNZnZqdXZKYk4wZ3RfejVxZzhNbE5kQVZQZWdHaXB3VXloRG93WVBxWTZmOXpDaS1iVXNzeG81TVVkRS14TE1WWW5WSWpHNUJmMTJhN2o1Y0Qzb09wSVpMLVZCaHZOMXk2Z3o4cWtNZmhQdkI1VGpQQmdPNHUzQQ?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 04:00:00 GMT",
-      "description": "Timing of JAK Initiation, Shingles Vaccine Administration Can Affect Outcomes in RA Rheumatology Advisor",
+      "title": "Why are so many disease outbreaks popping up at once in US? - NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdEJETE5pWlM0TWUtNncxQXQ1eDNBcnpIVXRZT29SRWFiUnhnLUgxWXlsdW5FRGFNVTZLOEtWSzM1QUpRVjVZRTIwWk5iMWFRZm1mSEdfUEdRNXNLYWJWTWZOYTh3V3J0TS1TUUlGMmRSaEwzUFY3T3NFNVFRemFRM2d6VEVaZ1QyUkVVdXByTU3SAZYBQVVfeXFMTVBtQWRsSDBjVmljb0MwNjViRk5Ia3RNTW5fQXp0czc4SEk4Z19VZEt2T2N1elBWQ2FxVHZMWlZkbWp6emdrNzRQUnRrd0x1WGplYk1tX0ZtTEpLRy12OVZPQjNGNXlESURMcF9sc3hiNVZ2aU9vUVcwUDVITDFIZlB5dzJHbWNHTUR2YVVFM1FGdDhDRk1n?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 03:38:35 GMT",
+      "description": "Why are so many disease outbreaks popping up at once in US? NewsNation",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "shingles",
-      "vaccineLabel": "Shingles",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -470,6 +535,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "HPV vaccine lowers cervical cancer death risk - FOX19 | Cincinnati",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWU9kQnBSMTkwZjBIWDJBSjZITF9sZkt2Yk9ad254X1BOUktTclAtLW5wSkNDX0kxQUg1eWF0cUlOamRFZkdEaXA1RkhOVlp1X3lxdVNPWFBhSTBPWm91S3RlMXNLbmpIRWZoUnVIR2JVVnNrYzg3bXZVMEdfTGF4dWlISmoxQzVpejFOQU53?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 00:30:47 GMT",
+      "description": "HPV vaccine lowers cervical cancer death risk FOX19 | Cincinnati",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hpv",
+      "vaccineLabel": "HPV",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -539,19 +617,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Is The Licensed Zaire Ebolavirus Vaccine Suitable To Combat The Current Bundibugyo Ebolavirus Outbreak? - Eurasia Review",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbWI3VHhEOU90eTBxdV8wdjl4RVJQelRzSDI4dk0tTUhMYnBjWFJJbkZEVkREY05YaXBXTFBFdmdWUTh1TDNOYkZDbE41UGpuU19QR1hCRlFlS2VpdlZBWnNOUDZ0Zm9ISFJlcFdyWC1KdmRDLTR2blRLVmVtTmFNSjVUbVRDYjR1Ni0yODQwdHhWM3NhV1FsTmxuVTREbnVkNWRfajNjd1pBczhsYmhpZ29kWW5ZRk84TTZMOGJGQUNDNmVGeWpqWmhnaG5MQ2IweFAyd0U4b0R6UQ?oc=5",
-      "pubDate": "Sun, 26 Jul 2026 20:14:28 GMT",
-      "description": "Is The Licensed Zaire Ebolavirus Vaccine Suitable To Combat The Current Bundibugyo Ebolavirus Outbreak? Eurasia Review",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Cassidy on if Trump nominee will change CDC's vaccine website - CNN",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEROS1VLRERlaEVWb21paEg4WU9YbGhoM2ZNRks0NW80LXloU3YtNy1HTjEzR19fR0VzMXV4bk1qblBYaWZIQzdTRzlTSDlyWEVzTDN2N0tZLXFoRFNZN3cxWG1HZzAxUXY1eFRLZFRySVRjT2o2MzMxdHVVQmdyeTdON296ZGZPUkh4eWdjY05rT1pQSUtfb3ctTFRGVkZTVVBvTVpJdDhQelJscktMSFZlOXlFb1ROS2c?oc=5",
       "pubDate": "Sun, 26 Jul 2026 19:35:00 GMT",
@@ -561,19 +626,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "US measles cases hit 35-year high; Kentucky reports 4 cases in Jessamine County - WKYT",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMjdMbERFNGFKcGpiLXN0N2lJdTdjYzNrdm50bnRjcTREdzgtU001bXF0Q3dRbktfNk1KLUNGal9lb3g4TTczd3lxVWV5ckhLQ1JKd0kwSVRmTkN6OWxDQkppa3o2b3NCMU5NaHptcldXbmNXTDVaaHdhcGdRQ0JuT0M2Yk04VV84TktJY0tXTks1Zm15NDd2WHZNejl2dllxRUpNbTBDc0Q2ZWxF0gHAAUFVX3lxTFB6WHlDTEdTQVNfanVUX3U3bHIzZTVkakhDZWk5b2lWLWFKLUpsMHNWMTlVQWFxNG1RQXg5SldfZkFIV2JSLUJHSHV4bEVOQzJ1Q2JacWRJdVhWRXdsTmhULVZ4aEV2NG1YdlFibTM3UHJJOE01ZDJ2MHBGZHBLcG56cWJ1NVJfVm9kLXFJS0dwRnpBY3B0bGN3V01IZXVqVjJXMzlvNnF6RjRwbE1kNjVjY3FUajMwQWhsaURZY2h2Mg?oc=5",
-      "pubDate": "Sun, 26 Jul 2026 18:44:00 GMT",
-      "description": "US measles cases hit 35-year high; Kentucky reports 4 cases in Jessamine County WKYT",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -613,6 +665,19 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "These seven states are hot spots for 2026's record measles outbreak - Axios",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWbWVDR1RSbnBiaU13S0lPY054MGM5R3Y3SlFhU0IzWWhHTDhZbXBUSVJ4VmFkX3dlV1dBeUZLM2EtelF5eWZjREIwVWJkdFliUG8tczZEcUxyaVVkV19JZ293cHV4U0d2OG9xS2YzZE1vWDliaVNR?oc=5",
+      "pubDate": "Sat, 25 Jul 2026 11:00:27 GMT",
+      "description": "These seven states are hot spots for 2026's record measles outbreak Axios",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -760,6 +825,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Surgeon General suggests high measles counts could be tied to abortion opposition - Florida Phoenix",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWG44NkZ2d1lfWFhYV0NYbHpqRDR2NFRnSnprQk5yaTRuNGFDeVpBcmllSUhKQmR5M0FZSUpORWw0NUxUblFqdkM2SDBtZjRKdDlocmFwWmJWbzh4OVEtREl5RlJTREUyTE8weS1GSmRlaGE2bTJfcDhkamNtRVQzY21JdVJnY1RlRC0tUnd0TDhmb3NzWUNMNGlmOU1oaHI2b3oxQ3BTSjdWQWpBNHpUTm12eUdDLUZvV3duNQ?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 18:44:53 GMT",
+      "description": "Surgeon General suggests high measles counts could be tied to abortion opposition Florida Phoenix",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production - African Development Bank Group",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOVFRcDdCLTF5WVJQVEszczRrOVJhM0o0SVJoa2ZQcXJTVFl6Vmh3ZnpUTjZIWHlWTkpleXhNQUtxaWZuakpfOEw5Nm9xWEVFamNhZDNsb2lhUHhxQ2lNMWpoeVFKRkxtNDlwUFhBMm1Ed3JPamJVY3NwZ1V2RGVHOGhTRE5USDJBT2VVYXliUGd6a0VNREtpYVF3YTd3bXFYRlpvMXRlSDI4UV9IMnotblExYjlwa05DZHdGeFVNSjRwZENMNTlLNUwxeHBPNnBnZ283WVlQZ2lWTXpLSUN0Q1lhYnVaSWtiSG5JenptZXdXb21jcm5wN0RISlRsLVA4MEZoM0E1R3Y?oc=5",
       "pubDate": "Fri, 24 Jul 2026 18:37:44 GMT",
@@ -786,19 +864,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Measles cases have reached a 35-year high - Stateline",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSFA5dDN2eFVXaFE3dm5ibzFxd0h1ckFQVHkzMjBCV0lnVzQ1SzJUdDJ1NjllMVpFUGFia2hyTXJ1V2owTEswc0V4N3FTeHpFYk9yZmt3cEd4Mzl5dG05eVI0dHVIY0pzYmFvRFR6RktIMXI2RkRxdThYazE0UENsYg?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 17:59:23 GMT",
-      "description": "Measles cases have reached a 35-year high Stateline",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Husker Scientists Pioneer Breakthrough Swine Vaccine Innovation - Pork Business",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcHlzRWlJWHJGSDB1S3V3Z3IwaW9vNVZtX0pDMXpWblNVR19KMGp0VExYQXVXelRXbGZveFA2Y0ZzMldpLUwzaG5XLXJWSlViTE5hXzA1Wm9BT2lwbklCRDBkY0RaYzh3MWRlSS1uLUZXbXVJdDNEblJ2OTB3UGlYcTN3LWpyRXlwRFV4YmFyOGhhUHJOd1lGcHV4eHdIUQ?oc=5",
       "pubDate": "Fri, 24 Jul 2026 17:34:19 GMT",
@@ -810,19 +875,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "Opinion | What could die with the last person using an iron lung - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb1BlNHk4Rko4NW1WQmJobWIxWVdCaENXWDFheEhINFVBbm5ZUE5ZUmVRNzlCcHEwMnltNkZhLVFnck1JY0ZSRmVxYjVHaVg2b0EzcWNWa1EyNk1SelExQm1kaVBrNDU5YUJ5ZUFNamE4OWZGdk1tYXFaeHM1elJFbWhreTVHRWNIMjBwSHdpb2YxNHc0TFRGaHpQVUxOMUlDZmlrUUlDeU0xLThtZmxUaw?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 17:15:00 GMT",
-      "description": "Opinion | What could die with the last person using an iron lung The Washington Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "opinion",
-      "articleLabel": "Opinion"
     },
     {
       "title": "There Are Already More US Measles Cases This Year Than in All of 2025 - WTTW",
@@ -964,19 +1016,6 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "HHS Changes Two Vaccine Committee Charters - MedPage Today",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03M1ZQNG8wbzNyWkNjNjhIRzBaSnhZalZUTU9vT2p1NVgwZmVUTVZpamNxM0dRU3NZYmYtaF9kTGgzZlRDT090aTBJcFplR1pGaXJhal9XYnp1YXNaOUE4U1ZQQm10cHNndS1tQVc2X0xtU3MycE43WA?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 19:06:08 GMT",
-      "description": "HHS Changes Two Vaccine Committee Charters MedPage Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
