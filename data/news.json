@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-27T19:59:16.186Z",
-  "itemCount": 76,
+  "updatedAt": "2026-07-27T20:51:24.865Z",
+  "itemCount": 82,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 4
+      "count": 3
     },
     {
       "key": "flu",
@@ -15,11 +15,16 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 21
+      "count": 22
     },
     {
       "key": "hpv",
       "label": "HPV",
+      "count": 1
+    },
+    {
+      "key": "pertussis",
+      "label": "Whooping cough / Tdap",
       "count": 1
     },
     {
@@ -40,10 +45,75 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 45
+      "count": 50
     }
   ],
   "items": [
+    {
+      "title": "Pertussis: Study highlights safety of Tdap vaccine during pregnancy - Association of Health Care Journalists",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQalloY1JZV3VpSW1BRXd2SllfUlhLT3U2QVhGVGZEcW1rWFJGb1dxeUdLc2liUFhKNGJhS0NtcEYyRlBOdVQ3TTJMWXI3RjdkS2VwVloyOHBIbmZvdndPUkNrNDZMbFo1R1ZtZFctRk1zOWcwSUtodERtdEdUaXcwdTFON1VlYWVMd0VuT2JLNzZ1TDNwNU9Ja1lPc0lPeGc0?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 20:41:09 GMT",
+      "description": "Pertussis: Study highlights safety of Tdap vaccine during pregnancy Association of Health Care Journalists",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "pertussis",
+      "vaccineLabel": "Whooping cough / Tdap",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Navy announces new flu vaccination requirements for sailors - Navy Times",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTG0wQVVheXBUbWMxLUNBMFRNTkdzSDBnR2MyZW85RXowdXZnNzZNM2kyN0dOdXBYSU43Q2U2dUt4RGw1N20xRzVOZUtNYjBld0VuY1lRZWFNVnZvaDVaVUZDZFNMVG9uRk83Z2VocmtNSWlUZF93dkdSdEpzX0lsekVJYXY2czBNM1F5VXRfQ05YS1czaDhiM0V3LTF6TGVYY0pDTkVoRDJxMzZ0NWVfdEp3?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 20:28:01 GMT",
+      "description": "Navy announces new flu vaccination requirements for sailors Navy Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Measles Cases in the U.S. Are at a 35-Year High - Time Magazine",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BTTlKVGxkLU5wU3VHaHktWVNHSEVibVU0clAtRmRRMGsxRnp4em5FbUtkZ2J3NzI2NHFJRk54TDJBZG9QUlRtN2liVzdSYnJLVHVZUUdZNGJSaFExeGFTaEh4aDNfNjkxcWRnSVlreDE4QzVt?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 20:22:29 GMT",
+      "description": "Measles Cases in the U.S. Are at a 35-Year High Time Magazine",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "First volunteer vaccinated in Ebola vaccine trial - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbVNnZjExWkZSZ3BGYkVoNjh1NmVsWEwtVmdUZHZWT1RNYUEtT2ozRWxXdFBKZVZ2UlRDaGQtVlRyQ3ljY2FMVXB0ZXMzb3VQZnhQZ3JOX0szUGRfYmJidXZQLVJkTG43bFVTQXlTM1BqYk1YZS1JaW5jNy1UdGgyN1lfRkdaZw?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 20:17:00 GMT",
+      "description": "First volunteer vaccinated in Ebola vaccine trial CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "New combination Lyme/leptospirosis vaccine approved - American Animal Hospital Association - AAHA",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSlNlZW1vT0J5TmZCOEUtMjFnZkplTHVxdVc2d1RNNktyWWpkOWRZRjBabkFiT3JUYmNpS05FVEJVUzdseXRtcjhkU0w5X3MxdXo5OTgtSEpxVzhSSXNjazhjTTMyU1BjalRRTG1HanZpMHhDUkNZUUdDN3dUX3dEYk1QUDU5cWZUNjM3VzZKQWlmRFgzbEJCaFVlRmRrN3dzZklVSQ?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 20:09:43 GMT",
+      "description": "New combination Lyme/leptospirosis vaccine approved American Animal Hospital Association - AAHA",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Delaware County launches vaccine campaign as Pa. measles cases reach highest level in more than 30 years - Inquirer.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb3NKcWZHekNyRzNBUVVlQlpKTERsakUzamJpY1YzdU5nRWFyTUlKc1oxMUkxZjhKbVFKZnJNcmMzcm01XzF2NTZ6RGZjeU0xZ203YThKMFl5ZE02VUFaUEtnZGVsNnc5bHRZQnZ5czNMR1JKeTFxczloVFVoNjNEWGg4ZlpLSmxRQ2ZHaFhRRTQzdW9TQ3NiSlJkMTR5bTZKaDlBMk9JQVZ0UF9iU2c?oc=5",
@@ -80,6 +150,19 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Bill Cassidy addresses CDC vaccine website language in CNN interview - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZXh4aGI1ZC1qT1VIMlBSWmJWVWNIaWxIbFozUFBCd1BQbUtWLU92dW82MUMyczlXbEhRTkYtVW1MQXRFVXlENllWZDJ3VnlHdE9aZnNnYkxrcU5iNG1oMWlXZEtMMFZXTURvbHFWTm96ckNiMS1qeGNQOGM5Q1dHMlNPZHEzT1NMWkhj?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 18:29:08 GMT",
+      "description": "Bill Cassidy addresses CDC vaccine website language in CNN interview Yahoo",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -240,6 +323,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Human trials begin for world-first Bundibugyo Ebola vaccine - thepharmacist.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX1NlMG12dDBKeGp0ZWIxZEcxb2lvMnhhY3g3NUNQeEstbG5PbWYzRUNiQnNyQXpZd3VKdWR3ek51YzBxOWwwQ19kS0pTUjd3SnVvRzJhNFpnVFM4YWhLaXVWbFpqbV9HWnBob1lUQ1JfTFZIZm00d3hGU0p4VkJadWFETTY5S3FXT1pMY19MeVY4M25FLUFPcjFFcklfd3JYd3dtMWhuakEwQnJ6RGF1c3YwakNoWjl6ekE?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 15:37:16 GMT",
+      "description": "Human trials begin for world-first Bundibugyo Ebola vaccine thepharmacist.co.uk",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "South Africa’s Biovac secures $15 million AfDB loan for Africa’s first end-to-end cholera vaccine plant - Business Insider Africa",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMEh4cENadER6WDhtSzhRMnhPMjdHalJvanJRYm5IODZOS1lWNk5xYU1ScmRwbXBMLURYUnFTY2VQMzVPTmxjWkxmSll0MVFxOGRfZF9FUE15MXZTXzFvYkpLQ0QtZmFPMEJxMlRZOTRiVHN0Q00xVmc5UV82bzlRLXJCOVZjQ09Uc1lsVGNsMW1zQmRWWENsMFpyMDNUanBDUGhxdUxLekRWbDFwcDlfTXpmX204cnE2eVh4X2ozYjhUREw3U2kxWnZUQkt1d0JaQ01VZkZWWXE?oc=5",
       "pubDate": "Mon, 27 Jul 2026 15:14:19 GMT",
@@ -270,6 +366,19 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSmZwYWlhUDRMeDZzYS1VMnZPeXFCU1E3Qk9mTDBJcEFHZVRrTEFsb0ZWWVVURUZHWHFXTzRUc3RNMWtYOE1GTXVkbWlkTnhTNldPblJrMVFhbF8xWXF6eWstNGZpVHktb01nVU02elZ0RmhoSkZJdmt1LXVuM3IwYjZsOWxKVHMzTFZkZEN3di12V1hieUJwNkVyUXFHbm5QRGl2bUJhbzRKNWRrY2J3YUlXbWJncF9ub01RbkwyOER0N2ZCcmJ4YQ?oc=5",
       "pubDate": "Mon, 27 Jul 2026 15:04:09 GMT",
       "description": "Florida measles cases not over as school is about to start Naples Daily News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "'Amnesia' about measles risk pushes growth in US infections - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPazRpSW9vZEJILVRzWDF4RF96b3NDaHBIQm1FWU1ITjUtSERaSHFLR1RTYWNZUkxjM28wdndJaWwwU3BCeGNlNG9QS0JEWVh3NnpKS0NqZFlKSjZQUFFUV1NaWG5DdTNvak9fcV9ZQ2Jwa0hvTFV2WVFGNXR1aWwxX2xROTJzbkJHellWYV9jemFhUlBkQnFPeWx4QmVnNUpERHdJajFqSzhnMU1iY2JKT0FSbmQ3eDDSAbcBQVVfeXFMTWZPRWdtRGtCelNSUElLaEYzM0NrWnlOLVlwaklGU2tYeENadWpVSUQ5NS1BOTlwZXg3eHkxNW1LclYyY1ZkX3hHejl2bVljUXVPdkZYYmxLWTBINjRPaDhBaG9YTzRYWGJLQjd6d1p1ck8wczc0MmtibnJ5bUZhallQRXB1OEc4Z1M0VnBvM1c4OG5SNnNlcXppd1MxZjdBRXdIQ2JyRG4tX0lRcWVVTm5HS0JEcHBR?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 14:59:50 GMT",
+      "description": "'Amnesia' about measles risk pushes growth in US infections DW.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -320,7 +429,7 @@
     {
       "title": "Smaller COVID-19 vaccine booster doses match full-dose protection for up to two years - Gavi, the Vaccine Alliance",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNUItbUJYcmFYQ2w5dTZwYWZrbUN3aW1wX3FTaFBlM1h4UFJJQkZ6MkhqRmJLZ3JRb3JfNnE4OVhZbk5oSnRFLWhqbGRIc2NJeHAyWVRENDNZYTY5S1Yzem1EbXNmR2VIWkcxa1MxY0QwbHd6RlBfWHN0cll3UFNxdnVkOFRXbjFsYy1lZkNHenZyaUo3YnNqTmYyYmpWUHA4b29hNHZtMXBoS3dGeEE?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 14:25:16 GMT",
+      "pubDate": "Mon, 27 Jul 2026 14:28:05 GMT",
       "description": "Smaller COVID-19 vaccine booster doses match full-dose protection for up to two years Gavi, the Vaccine Alliance",
       "source": "news.google.com",
       "sourceType": "news",
@@ -335,6 +444,32 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNb0ROWWZ4TTNqOFFsRURQWkIzTkZaN1AwTDYzRmZNYzV5WUZfbFdvNjZOdHJTVWs5RDVHT3BLeGxTblRqMFZhMU41ZmQ4Wk1aZWhiQTRPWG5BQk9PdE84WWVKWW43bk5peVNwd2oxMWF4UVc5RXc4RENFY3R3Um1RMGJR?oc=5",
       "pubDate": "Mon, 27 Jul 2026 14:21:51 GMT",
       "description": "Local Back to School Vaccination Events Southside Independent School District",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Navy expands annual flu shot requirement under Pentagon exemption - stripes.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaXY1TmFBLXNreTUwUUl4MGx5Q21Fb0pLLTVBY051eUJaWGVIaUdyc1FwVkIyWTNvVXdVN3N1ZWNfMW9PZ2s0eHFna2QtOHNoTU50Rlo5aGdkcUtlelVodEVQd01hdlRwb20yV0VNbEgxN2cyazBVTlVfbFRlN2hZWEd6SFIyemxBbUJTWGJMX0R1UVdYdXJNclRFME5KS2lWRUdfbllLX2h0X1NqZ2c?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 14:19:44 GMT",
+      "description": "Navy expands annual flu shot requirement under Pentagon exemption stripes.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Amid The Fastest Ebola Outbreak Ever, First Person Receives World's First Bundibugyo Vaccine Developed In Just Months - IFLScience",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPT0xTbDVXT0pCQVJCSkhfbkc5c2tMc3ljMDhkOFpicXY1M3RNT0VnRnpzZmNxYkhMbHFHSFUwRjFCWC1iNl84WndRTlNFcVZacjhrdXhybGtSSFBpQmVLUnNQNFRZUlA4cGpmYUJ5SUdidDh3QllWdnYtSnNQQW9rdHFfOEZUVGpPS0FkMHVGX2JVR2I4OEE5N2NTNWlMWmxjN09tM3NVZEJ1VHprQ0VUWkYwVDh2a3AwRHFDVmpkRUZJSHJZRFpnQmJzZHE0MGIwN0VXY0pnc2pYMVRZaUh0RmlR?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 13:48:16 GMT",
+      "description": "Amid The Fastest Ebola Outbreak Ever, First Person Receives World's First Bundibugyo Vaccine Developed In Just Months IFLScience",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -370,19 +505,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "How vaccine skeptics use storytelling effectively to create powerful but medically inaccurate messaging - Caledonian Record",
-      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOYmJJU2o0aFEwNmRrRjA4VnJ6ODJzLXpoeHR4UHBIOWxOQzdJM1lUdXZDS0FvT1ZkRnVOZTZETFpiYWN6RDZuWHRsQTgxQzR5SjBLaS1PNUtIbXVUMTV3ckI4eW5CQk85MlpKSlQ5bWJhQVVteUJGcEZ3ZUlMUnlnZk9yUXdhZUtDRlJvWDJqbmdyR3hnclRFTlhiZUtvbmQ2N3Y5SDN1NHVfbVE0QVVQT0RKVTlOYy1feXpfWXFTc1dMSHFJQmZFM1BpR0xRdlVUWjRudnRzX3NFc2FGTU56VUIxTHljTDA5ZEJ3OExrQUlZY1Zra0lFZEV5WjZOZzZNelFFTXEyUzRmS0VOb1VTUW1FSklPWXdqSUpLOFZpWXhMeVNSRC16S19TR0JpLTNN?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 12:40:34 GMT",
-      "description": "How vaccine skeptics use storytelling effectively to create powerful but medically inaccurate messaging Caledonian Record",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Scientists May Have Finally Developed a Vaccine for the Plague - VICE",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSkJoQnR6UXFGZjZMeHcyWlA3bjY4QkZCOTB2QVVjYmlvR0tTYWRra21Yc1AtdzFXc09PWVBUblowaGJoa25EMVVxamh6N2xndHNVaWtPb0xwdGtvNmJpakVndDY3S0g0TUN5RG5rcW1wYldjWGcyaWQwWlBCNmIzaUNsZms4MDFyMkdSQllUc0lMSUpyWGwzYnlpZw?oc=5",
       "pubDate": "Mon, 27 Jul 2026 12:39:14 GMT",
@@ -392,32 +514,6 @@
       "sourceLabel": "News",
       "vaccineKey": "hepatitis",
       "vaccineLabel": "Hepatitis",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "'Amnesia' about measles risk pushes growth in US infections - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPazRpSW9vZEJILVRzWDF4RF96b3NDaHBIQm1FWU1ITjUtSERaSHFLR1RTYWNZUkxjM28wdndJaWwwU3BCeGNlNG9QS0JEWVh3NnpKS0NqZFlKSjZQUFFUV1NaWG5DdTNvak9fcV9ZQ2Jwa0hvTFV2WVFGNXR1aWwxX2xROTJzbkJHellWYV9jemFhUlBkQnFPeWx4QmVnNUpERHdJajFqSzhnMU1iY2JKT0FSbmQ3eDDSAbcBQVVfeXFMTWZPRWdtRGtCelNSUElLaEYzM0NrWnlOLVlwaklGU2tYeENadWpVSUQ5NS1BOTlwZXg3eHkxNW1LclYyY1ZkX3hHejl2bVljUXVPdkZYYmxLWTBINjRPaDhBaG9YTzRYWGJLQjd6d1p1ck8wczc0MmtibnJ5bUZhallQRXB1OEc4Z1M0VnBvM1c4OG5SNnNlcXppd1MxZjdBRXdIQ2JyRG4tX0lRcWVVTm5HS0JEcHBR?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 12:17:02 GMT",
-      "description": "'Amnesia' about measles risk pushes growth in US infections DW.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "American Medical Association Urges Public To Get Vaccinated Against Measles As Cases Surge, Say, “There Is No Cure For Measles, But Vaccination Is A Safe And Effective Way To Prevent It” - Sierra Sun Times",
-      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPZ0pCMzgzUnEwNDVXQUV3UTlJOG43amZueDN5QVdMWm1VV0FZY2V1ckJ6eVF1aldPdU9naHNoMVRwblJJUnkwS0s2c1VDenJ3elg4ZFRKODZaRE5yQW8wSEdXczJvWWZGV29KMzFWc0hmT0xUV0wzYVFLMXJaZ1ZROGlUM1hTYnh2NjV4NkRITUNRQU1hUVNYU2tUbUlZQzBOZzg3R0hrWDVUNnBjVlpDWTRDUzNFNFhNX2RGNkE3aEFLMHBhWkNNUlVkWXlmYmF4UWtybGxIeEZ4M24tUWpFQWJKZkt2ajFoN1NEYVE5Ry1NcEN1ZThETEpHWGRPci1Zb2ZmcFltRjFDNndmOHZaUUg3a2d6Y1ZUUzE5MVg1c3l5TXlsREVNSkt0dFM5d3ZlRjhpOHFrY21zcmthZXVZYVJDTFFWSE5QODU2RTdtZmItQWZuaGV3dDVkc1FLcVF1ZDN0b0NlMW04cmR6?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 12:08:46 GMT",
-      "description": "American Medical Association Urges Public To Get Vaccinated Against Measles As Cases Surge, Say, “There Is No Cure For Measles, But Vaccination Is A Safe And Effective Way To Prevent It” Sierra Sun Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -526,19 +622,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Amid The Fastest Ebola Outbreak Ever, First Person Receives World's First Bundibugyo Vaccine Developed In Just Months - IFLScience",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPT0xTbDVXT0pCQVJCSkhfbkc5c2tMc3ljMDhkOFpicXY1M3RNT0VnRnpzZmNxYkhMbHFHSFUwRjFCWC1iNl84WndRTlNFcVZacjhrdXhybGtSSFBpQmVLUnNQNFRZUlA4cGpmYUJ5SUdidDh3QllWdnYtSnNQQW9rdHFfOEZUVGpPS0FkMHVGX2JVR2I4OEE5N2NTNWlMWmxjN09tM3NVZEJ1VHprQ0VUWkYwVDh2a3AwRHFDVmpkRUZJSHJZRFpnQmJzZHE0MGIwN0VXY0pnc2pYMVRZaUh0RmlR?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 08:41:34 GMT",
-      "description": "Amid The Fastest Ebola Outbreak Ever, First Person Receives World's First Bundibugyo Vaccine Developed In Just Months IFLScience",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "How midwives like me can help fight medical misinformation - STAT",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ29ZbUkteFFDUVZSUlJnazhDdnVjQmVKMGJqNU1yQjItTkpUR3I1ajB4N1JEMmYwbHpPSG9mU01XekY3YlJwTU9lMGZDaXh3R05peUtaRDh6VUlwaUIweVFVc2NxR2NhREFIMGtCTzJadW5GWmN0cWFuNXBOWWk3cUhJQUJ5NDBzQ2JRQQ?oc=5",
       "pubDate": "Mon, 27 Jul 2026 08:32:47 GMT",
@@ -567,7 +650,7 @@
     {
       "title": "Congo Ebola death toll tops 1,400 as vaccine trials start - DW.com",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRVVmMERKN3NTSmpXbGloOEdQUXR2cG5OVGQxRXdJZ2hPZTdLTVZrNXg2bDZKY3pFMG1uNEozWXNGekVMU2ZoOWd1RERHWFBxUS1wcEZRX2d0dUFjMXJsQW5jLXZGWThMZnNvZldXMVRmWWUydm54Skx3ZkZpRkduaFEtcVB2SF9XNEt1NEdVdDZyajDSAZMBQVVfeXFMTmVZbXhCbTdESFhvQjhPRFF6SjdKdnRfTDg2ZEFNSnJRS3dpOWRwOXdCaDlQSWo5N0RZeERuVXNJNU85aV9xb0dtRmE0UXFSTHpkQXhOdTRKUDNzY1FNZFNGaHV6VE1fTWsxQWk2M3ZidE84Z0daUjczY2VJdDh4NldVUEc1c0pqcjgwV0JvUTFUU1Vn?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 06:14:41 GMT",
+      "pubDate": "Mon, 27 Jul 2026 06:07:18 GMT",
       "description": "Congo Ebola death toll tops 1,400 as vaccine trials start DW.com",
       "source": "news.google.com",
       "sourceType": "news",
@@ -604,6 +687,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "mRNA Cancer Vaccines Show Promise But Are Dogged by Misinformation - Cancer Therapy Advisor",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeUVBVlJ4M1pWb0RhelVVelF0TEd1Nmh1bHEyQkZvWkM4V2trbk1DYW40OEJRdUJ4R0dFYUFHa2t5emZINHBpcXFQQmpNclFBT2NCZWhIODRNMHZsREpCR2FMOUwwQTlDdWxacFE4WHZEeF9yVzg0TjNpMUtPQXJkVnJUREVMcWs1M3hSMjJEc2JWOWtCS0laZnFBbVowZ2l4WXN2S1NBcDFJUQ?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 04:00:00 GMT",
+      "description": "mRNA Cancer Vaccines Show Promise But Are Dogged by Misinformation Cancer Therapy Advisor",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "India’s first dengue vaccine arrives with a crucial safety caveat - The Hindu",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaWdzYWpOV0ljcFJydlNtRFNiSGVzWVhUWTZPQ01TVml6Rmo5MHFOQnM5Qllwa1NOMGNwbjZ3SEgxWTl3ckFOOE1zYXVkR1BnaHBoVkZlU1RweklON1I1aGFUS21pM0lDS1E2VWl5WGExTEN2UmpPZ3IzajRYQzVrbTZSckJYaGVrNThMZ3BKa2lSVFV2UTNFWjFubG9wT24xNkMxNC0wRG1TalZWSVN4N0JXNXg0RFRqUFA3adIBwwFBVV95cUxPZmpBbjVMcVlpN0w1aWFCaVVLNHFxWHhVS2xFY0tKMHE2R05oaEZDUXh3Q3NWd1F5QVlFaUxtNlphelNTYkJIRldmZjQ1T2hLWEQyVjJCTGhQcWdDLURERE44RlhwMTE4SDNxUGItVzJ6TXpNRVZnVWFCeEMwRWItLS1QdVZmTVhhTEsxeXJyZUtBa2J1Um9idUxRRzU2Vy1aa3l0d2VpTjFuQ01VZ3ZocHhNTzdZRFN6ZWVxeFdpR1Rkcms?oc=5",
       "pubDate": "Mon, 27 Jul 2026 03:30:00 GMT",
@@ -613,6 +709,19 @@
       "sourceLabel": "News",
       "vaccineKey": "dengue",
       "vaccineLabel": "Dengue",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Experts share vaccine importance - WPSD Local 6",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ3h3R3duYmtCR1JaOFNCN3duRWFHUlZqV2ZxM0VCZ3NmYTZfR2dzMUxKelJtNTA5eDlqbjJCNHg1dzdJcVk3RDNVbUtZVDBrMkQ3Qi0xUnBFc1hySjZhXzJPVlowbmhCM083N2FOemVuSVR6TXBSbkNxTXFlTmVYNE16TWxiTnJSOXUzY1ZjbTVqMDZPaEY4cW5sYXNLSW9VWTk4MjNSd0pSd0pxMklGXw?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 03:00:40 GMT",
+      "description": "Experts share vaccine importance WPSD Local 6",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -695,19 +804,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "CDC extends vaccination program for COVID-19 - Taipei Times",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAyU3VsWjhhaUt3bFRGSFdWbU05cjUyVjdHM050Y2pnY3d3WlYyY3hxZjA0SG9xTlpBcWVUM1lMcXJxZDc0X08tWUswczg4Q0VnWlpjSlp0NktpV1c2em9NODlyWC11UkNDS0MxRWRHVldYRlNZNnVzeDFB?oc=5",
-      "pubDate": "Sat, 25 Jul 2026 16:00:00 GMT",
-      "description": "CDC extends vaccination program for COVID-19 Taipei Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "These seven states are hot spots for 2026's record measles outbreak - Axios",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWbWVDR1RSbnBiaU13S0lPY054MGM5R3Y3SlFhU0IzWWhHTDhZbXBUSVJ4VmFkX3dlV1dBeUZLM2EtelF5eWZjREIwVWJkdFliUG8tczZEcUxyaVVkV19JZ293cHV4U0d2OG9xS2YzZE1vWDliaVNR?oc=5",
       "pubDate": "Sat, 25 Jul 2026 11:00:27 GMT",
@@ -717,19 +813,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Proposed anti-vaccination bills are on the rise in state legislatures across US [letter] - LancasterOnline",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPcXUwY0VQcll1eGs2aW9xdDJQdmhYbmlkUWg3YzRZWXVjcVVabzlqMzNRLU5EaE5SdEFEQkR1MFJ2UzZ3VER6RTlTbzRaVzhlYjI1c1pnanVOT1puS1dXR1AyQ3k0Z2dqNWE3MnFoUnFkVjZ2dkh3WHVITnZXdS1Sc0ZPcl82a2VaY2NJWGR1REZqcGQ0bWs4dm0xeW9yeGNuWFBtQjY4ZTNabDA1dmNBZ19HMWVlLV81cEMzYWdlamJqZ0lmU1lwWXBVSHA0TFVYdllhOUV2TGxURFZEaFlEekhTcFhWMjRyM3hoRml3V3dmQjg0WFY1Uk9XNXFuNEtoTzJ6OFNna2g2R0g5WHl0Z1ZqemhaODNQWHc?oc=5",
-      "pubDate": "Sat, 25 Jul 2026 09:00:00 GMT",
-      "description": "Proposed anti-vaccination bills are on the rise in state legislatures across US [letter] LancasterOnline",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -877,19 +960,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production - African Development Bank Group",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOVFRcDdCLTF5WVJQVEszczRrOVJhM0o0SVJoa2ZQcXJTVFl6Vmh3ZnpUTjZIWHlWTkpleXhNQUtxaWZuakpfOEw5Nm9xWEVFamNhZDNsb2lhUHhxQ2lNMWpoeVFKRkxtNDlwUFhBMm1Ed3JPamJVY3NwZ1V2RGVHOGhTRE5USDJBT2VVYXliUGd6a0VNREtpYVF3YTd3bXFYRlpvMXRlSDI4UV9IMnotblExYjlwa05DZHdGeFVNSjRwZENMNTlLNUwxeHBPNnBnZ283WVlQZ2lWTXpLSUN0Q1lhYnVaSWtiSG5JenptZXdXb21jcm5wN0RISlRsLVA4MEZoM0E1R3Y?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 18:37:44 GMT",
-      "description": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production African Development Bank Group",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "NMDOH offering free back-to-school vaccine clinics for children - KOB 4",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd3VIRUI0VmhoQnZLOTE4MVlVQTBCckVZdkNzTV9lQUt5eGJDcXAtSWxTTkRRZlNsVHFjOW13ei1haUR6LW9kV21RLVA2VWVLcjlmQkMtbzhJOUtiTWZTZnZPUTFXT2JsQ2VZMElsblZNcF9rUjZaeV9NcFZjQkRqOFBkUDlndWlXMm9yc3U5VnRvLUYxM3JYem93RQ?oc=5",
       "pubDate": "Fri, 24 Jul 2026 18:29:33 GMT",
@@ -1016,6 +1086,19 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "16 million children protected in Kenya's measles, rubella and typhoid vaccination campaign - WHO | Regional Office for Africa",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxON25HNmRvM1lpZmNhbDB2Z202bC05Z0NrNTE4T3gzOS1Oc3oxMGNjdlViOVFBZUFnWTVLLV91TnlaQXF6czRFWXVFOXVSTVRyTHFFZmdaRllMSHRtTEVnNXd6OVBySE9VdklHRzJmX052M3dDNnRoMV9IZ2Ftdm5DbW90RTVTVzNlYThfcDFYbjR6bWdFemh4MjdZRy1hYkVyOEV5UkRDVnF6Nzk2Qk4tRHBuTWE5RkwwR0lpRDFGLTVSMjdDdlppaWh2TC14V1NVa2c?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 09:41:34 GMT",
+      "description": "16 million children protected in Kenya's measles, rubella and typhoid vaccination campaign WHO | Regional Office for Africa",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
