@@ -1,20 +1,25 @@
 {
-  "updatedAt": "2026-07-27T14:18:14.579Z",
-  "itemCount": 71,
+  "updatedAt": "2026-07-27T15:24:27.514Z",
+  "itemCount": 72,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 3
+      "count": 2
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 20
+      "count": 18
     },
     {
       "key": "hepatitis",
       "label": "Hepatitis",
+      "count": 1
+    },
+    {
+      "key": "shingles",
+      "label": "Shingles",
       "count": 1
     },
     {
@@ -30,10 +35,75 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 45
+      "count": 48
     }
   ],
   "items": [
+    {
+      "title": "Measles cases surge as first day of school approaches in Florida - Naples Daily News",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOEV3MmR1TGFyUWE1UExkS0hzQUFOXzRVeGhvVm5DV0VnTkpTcmpZSThYSkxqVFRTaG9Fd051VUVYXzlwSmg4dDlpcGtIc1l2bndxeFlBelgtcEY0blc0YjhRS3hHTUhjSjRyUV92N25FZTJ3Qmx2U2FJTlhaM1doMU50Q2MwS2ZOM25uQWVTWENQYzg1bW8zU1dlT2NmZENOc0l2VW5laFBXSi1IN0ZYMWtSYXh3bEpCUzZocDNWcDMwNGs1OE9uam4yS3I2aGFrcU4xUkc1WldhWGt1emMwWkpZaGdLNXloblAzbGJScTI0c0Zr?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 15:05:00 GMT",
+      "description": "Measles cases surge as first day of school approaches in Florida Naples Daily News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Florida measles cases not over as school is about to start - Naples Daily News",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSmZwYWlhUDRMeDZzYS1VMnZPeXFCU1E3Qk9mTDBJcEFHZVRrTEFsb0ZWWVVURUZHWHFXTzRUc3RNMWtYOE1GTXVkbWlkTnhTNldPblJrMVFhbF8xWXF6eWstNGZpVHktb01nVU02elZ0RmhoSkZJdmt1LXVuM3IwYjZsOWxKVHMzTFZkZEN3di12V1hieUJwNkVyUXFHbm5QRGl2bUJhbzRKNWRrY2J3YUlXbWJncF9ub01RbkwyOER0N2ZCcmJ4YQ?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 15:04:09 GMT",
+      "description": "Florida measles cases not over as school is about to start Naples Daily News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Vaccine Guidance Is Rapidly Changing—Here's What You Need to Know - Pharmacy Times",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd3ZPUjMxeGRxbHRudE95dXNKaHdiWnZyaEZTZncyeDBzWmFHZmdqT2xSMGFVRUJ4MTZmQlVRQ0plczVuWk9wSGlIQmxCNW04ZmVqQVViaGJOanRvV1JPVHFsSkhyelpFU2MxdjA4UGx2VjFMdm9DQUVLbEItWVhqRTZweHY2WmZyM0VYTDltVU5VdFc2YXlSbzRpSXhWNnJoTjRR?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 14:47:21 GMT",
+      "description": "Vaccine Guidance Is Rapidly Changing—Here's What You Need to Know Pharmacy Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Stockpiled Ebola vaccines trigger antibody response against Bundibugyo virus in lab tests - Medical Xpress",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdmpmV3VNWlAtdGFhZ0NScEcxdXJvWElSTkl0dHQ4Vk9rRmVPTUY1ekYtaHF5cnhiLXZoUmJTMHRkX3NsR1NfNzZILXVYdWw2Z0VtTUJZN1BMUkRZX0NGbFlkaFVBbGl1ODZsQTdwZW9qNVpRRXNrMXlYV3dSMmpZOUFMYVAxYXZTUERFVU9EOA?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 14:30:01 GMT",
+      "description": "Stockpiled Ebola vaccines trigger antibody response against Bundibugyo virus in lab tests Medical Xpress",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Local Back to School Vaccination Events - Southside Independent School District",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNb0ROWWZ4TTNqOFFsRURQWkIzTkZaN1AwTDYzRmZNYzV5WUZfbFdvNjZOdHJTVWs5RDVHT3BLeGxTblRqMFZhMU41ZmQ4Wk1aZWhiQTRPWG5BQk9PdE84WWVKWW43bk5peVNwd2oxMWF4UVc5RXc4RENFY3R3Um1RMGJR?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 14:21:51 GMT",
+      "description": "Local Back to School Vaccination Events Southside Independent School District",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Latest Global Immunization Coverage Estimates Illustrate Gaps in Vaccine Access - Johns Hopkins Bloomberg School of Public Health",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYXV5WVpSQ01qWmdhSEgwRjFQZWFOWE5zcTQ2VjV3SU9GZUVLZUdFcHJHUEZUcWU3em9qamMzWTJQN19hVFNoNFZMWk1oY0txTi00OVZ3OFlxQzdnc2s3cjRZUTBmTUJtejdnLVJRTmdpNnpXVXNLTTV4SnQzT2dyaTMzSktGSFFKQTJMUk02YTJCdWZBbXZOWjRNWkVaTHBIRHNyNW53UEpaSVpKRWtSejBkLUVucElmQnc?oc=5",
@@ -61,10 +131,36 @@
       "articleLabel": "News"
     },
     {
+      "title": "Experimental Ebola vaccine enters first human trial as Congo outbreak worsens - AnewZ",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQzYzMXRBY2hadlpUNmpzQVJaM1llc2dGUFJyUUN2SlotVkVNbXpqV2QyNkgxMlBJU1YwM3dqSE1FOTBQR3MyNk5LMXByWWxLV1RWYVNZSDdoVXJZZlczOWJuSUFRU2VOdW9fYWJXcmVyZXdDM1JDX3N1WG1NeVFzT1JDYmlNd1B4QTZRMXo0WjFsX2sw?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 13:43:00 GMT",
+      "description": "Experimental Ebola vaccine enters first human trial as Congo outbreak worsens AnewZ",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
       "title": "How vaccine skeptics use storytelling effectively to create powerful but medically inaccurate messaging - The Conversation",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRFEwNmlXVnRnajcyTll2VENuZHlCY19MM2pQWU4yX0VEQ0dyd08xMEstcV9PVjd1cEI3NDFjZjVhWGFJclBRTUdTM01FUGlJaHJ0aUJ0TEg3SjllQkFickFXTG44aXhNLWpNdC1kSWlUQTNoTGwzdlZXQThoUFVnMlZCR0RvaXpSRzY3SHQ5X1NDa1hlTnNfa1RtWG1VSTFqS0ZuZ19NM3FPNVVzMk91SVdVbUtBOGp6SWFPX1h5WXE0RXRnRXRDRGVCWGdxWk54T29qUQ?oc=5",
       "pubDate": "Mon, 27 Jul 2026 12:40:34 GMT",
       "description": "How vaccine skeptics use storytelling effectively to create powerful but medically inaccurate messaging The Conversation",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "How vaccine skeptics use storytelling effectively to create powerful but medically inaccurate messaging - Caledonian Record",
+      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOYmJJU2o0aFEwNmRrRjA4VnJ6ODJzLXpoeHR4UHBIOWxOQzdJM1lUdXZDS0FvT1ZkRnVOZTZETFpiYWN6RDZuWHRsQTgxQzR5SjBLaS1PNUtIbXVUMTV3ckI4eW5CQk85MlpKSlQ5bWJhQVVteUJGcEZ3ZUlMUnlnZk9yUXdhZUtDRlJvWDJqbmdyR3hnclRFTlhiZUtvbmQ2N3Y5SDN1NHVfbVE0QVVQT0RKVTlOYy1feXpfWXFTc1dMSHFJQmZFM1BpR0xRdlVUWjRudnRzX3NFc2FGTU56VUIxTHljTDA5ZEJ3OExrQUlZY1Zra0lFZEV5WjZOZzZNelFFTXEyUzRmS0VOb1VTUW1FSklPWXdqSUpLOFZpWXhMeVNSRC16S19TR0JpLTNN?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 12:40:34 GMT",
+      "description": "How vaccine skeptics use storytelling effectively to create powerful but medically inaccurate messaging Caledonian Record",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -87,15 +183,28 @@
       "articleLabel": "News"
     },
     {
-      "title": "'Amnesia' about measles risk and low vaccination rates have helped US infections grow - Yahoo News UK",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLUUtb3JpTGJOR2J1M1NJRl80Nnk4UnQtZ1lBSEt0WVBaNTlKZ2pscEktZko3ZWhuOGRKazhMaFRUVVlBMWxySG9FWG5KeHplVFdoTGN2UUZ2ZnRLQVYzUXcwYkZoNjJJRmJNdGpzTDBHeHhOaldmMjJFUVNlaUxHcC1iVQ?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 12:12:00 GMT",
-      "description": "'Amnesia' about measles risk and low vaccination rates have helped US infections grow Yahoo News UK",
+      "title": "'Amnesia' about measles risk pushes growth in US infections - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPazRpSW9vZEJILVRzWDF4RF96b3NDaHBIQm1FWU1ITjUtSERaSHFLR1RTYWNZUkxjM28wdndJaWwwU3BCeGNlNG9QS0JEWVh3NnpKS0NqZFlKSjZQUFFUV1NaWG5DdTNvak9fcV9ZQ2Jwa0hvTFV2WVFGNXR1aWwxX2xROTJzbkJHellWYV9jemFhUlBkQnFPeWx4QmVnNUpERHdJajFqSzhnMU1iY2JKT0FSbmQ3eDDSAbcBQVVfeXFMTWZPRWdtRGtCelNSUElLaEYzM0NrWnlOLVlwaklGU2tYeENadWpVSUQ5NS1BOTlwZXg3eHkxNW1LclYyY1ZkX3hHejl2bVljUXVPdkZYYmxLWTBINjRPaDhBaG9YTzRYWGJLQjd6d1p1ck8wczc0MmtibnJ5bUZhallQRXB1OEc4Z1M0VnBvM1c4OG5SNnNlcXppd1MxZjdBRXdIQ2JyRG4tX0lRcWVVTm5HS0JEcHBR?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 12:17:02 GMT",
+      "description": "'Amnesia' about measles risk pushes growth in US infections DW.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Why are so many disease outbreaks popping up at once in US? - NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdEJETE5pWlM0TWUtNncxQXQ1eDNBcnpIVXRZT29SRWFiUnhnLUgxWXlsdW5FRGFNVTZLOEtWSzM1QUpRVjVZRTIwWk5iMWFRZm1mSEdfUEdRNXNLYWJWTWZOYTh3V3J0TS1TUUlGMmRSaEwzUFY3T3NFNVFRemFRM2d6VEVaZ1QyUkVVdXByTU3SAZYBQVVfeXFMTVBtQWRsSDBjVmljb0MwNjViRk5Ia3RNTW5fQXp0czc4SEk4Z19VZEt2T2N1elBWQ2FxVHZMWlZkbWp6emdrNzRQUnRrd0x1WGplYk1tX0ZtTEpLRy12OVZPQjNGNXlESURMcF9sc3hiNVZ2aU9vUVcwUDVITDFIZlB5dzJHbWNHTUR2YVVFM1FGdDhDRk1n?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 11:53:04 GMT",
+      "description": "Why are so many disease outbreaks popping up at once in US? NewsNation",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -165,19 +274,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Measles cases surge as first day of school approaches in Florida - Naples Daily News",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOEV3MmR1TGFyUWE1UExkS0hzQUFOXzRVeGhvVm5DV0VnTkpTcmpZSThYSkxqVFRTaG9Fd051VUVYXzlwSmg4dDlpcGtIc1l2bndxeFlBelgtcEY0blc0YjhRS3hHTUhjSjRyUV92N25FZTJ3Qmx2U2FJTlhaM1doMU50Q2MwS2ZOM25uQWVTWENQYzg1bW8zU1dlT2NmZENOc0l2VW5laFBXSi1IN0ZYMWtSYXh3bEpCUzZocDNWcDMwNGs1OE9uam4yS3I2aGFrcU4xUkc1WldhWGt1emMwWkpZaGdLNXloblAzbGJScTI0c0Zr?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 09:07:00 GMT",
-      "description": "Measles cases surge as first day of school approaches in Florida Naples Daily News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "New Mexico school immunization requirements guide - Las Cruces Sun-News",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTmVlR0ZyRDhjVWF2X3l1REJNV0hIcU90VDJXb1M2TFotSnNBUU13eGJWVlNLWTNPbEFOaWJ0N0QtbFdlUHJOMW9nQ0FCa1EzWTlMTVdPM29Wel9PVWQwM3p1OHdsYWRDOVhyMDRsc3NhaGVBRFBuTFlzUklMX2hZMnJOa3JPYm8wRmdhZzJaUHlUMUh0NUtaVzlhLUkzWl9GdjNtMFJCaG41OERuZ0lvVDhicWNzTVhybGNfVEtScFQtZw?oc=5",
       "pubDate": "Mon, 27 Jul 2026 09:04:00 GMT",
@@ -230,10 +326,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Congo Ebola death toll tops 1,400 as vaccine trials start - dw.com",
+      "title": "Congo Ebola death toll tops 1,400 as vaccine trials start - DW.com",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRVVmMERKN3NTSmpXbGloOEdQUXR2cG5OVGQxRXdJZ2hPZTdLTVZrNXg2bDZKY3pFMG1uNEozWXNGekVMU2ZoOWd1RERHWFBxUS1wcEZRX2d0dUFjMXJsQW5jLXZGWThMZnNvZldXMVRmWWUydm54Skx3ZkZpRkduaFEtcVB2SF9XNEt1NEdVdDZyajDSAZMBQVVfeXFMTmVZbXhCbTdESFhvQjhPRFF6SjdKdnRfTDg2ZEFNSnJRS3dpOWRwOXdCaDlQSWo5N0RZeERuVXNJNU85aV9xb0dtRmE0UXFSTHpkQXhOdTRKUDNzY1FNZFNGaHV6VE1fTWsxQWk2M3ZidE84Z0daUjczY2VJdDh4NldVUEc1c0pqcjgwV0JvUTFUU1Vn?oc=5",
       "pubDate": "Mon, 27 Jul 2026 06:14:41 GMT",
-      "description": "Congo Ebola death toll tops 1,400 as vaccine trials start dw.com",
+      "description": "Congo Ebola death toll tops 1,400 as vaccine trials start DW.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -278,6 +374,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Timing of JAK Initiation, Shingles Vaccine Administration Can Affect Outcomes in RA - Rheumatology Advisor",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWVludDhsVlR0RGFCazZBYWNYUlczZkRUOU1tbVUzOHQ1bDlVWlFUeTQxdDM0dVVwYkhaS0psRVVIUHRLUHVOQjl1M2pNZnZqdXZKYk4wZ3RfejVxZzhNbE5kQVZQZWdHaXB3VXloRG93WVBxWTZmOXpDaS1iVXNzeG81TVVkRS14TE1WWW5WSWpHNUJmMTJhN2o1Y0Qzb09wSVpMLVZCaHZOMXk2Z3o4cWtNZmhQdkI1VGpQQmdPNHUzQQ?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 04:00:00 GMT",
+      "description": "Timing of JAK Initiation, Shingles Vaccine Administration Can Affect Outcomes in RA Rheumatology Advisor",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "shingles",
+      "vaccineLabel": "Shingles",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -477,6 +586,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Vaccine-Preventable Diseases in Hospitalized Pediatric Populations on the Rise Nationally - Infectious Disease Special Edition",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTFF6VmsxTWFjTWpILWtHVHNkTElpbm9tT0pxUjEyM281NFl2T0lZaURObTgwdzZIeENQbjlhSk1vLXJ0UW5CdjZQUWQ2VU8yZW9acUJzRWltNGFqV3VlcW5YdnlJQlpOREs0SVlWOE5MV0ZIMkNUSmdDMk5zc2R5d2JiX0lpeTVoYUR5NDY5WXpYY1k1ajV1M3lVTEQyaFQzLXlaWkREUWp5TlNIaDlqUm83QUo?oc=5",
+      "pubDate": "Sat, 25 Jul 2026 04:00:10 GMT",
+      "description": "Vaccine-Preventable Diseases in Hospitalized Pediatric Populations on the Rise Nationally Infectious Disease Special Edition",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Arizona measles outbreak raises school concerns as vaccination rates drop - AZ Family",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWE53eUE5YTFMaGt0UFR6UEZxT2hnVm9YdS1ucFI1Y24tV3ZwUXBfRHVVS2ZISEtITHZzcmhqNkd3QUNyWlY4aGN0ZjROUnN4alJydU51ZElBTHAyeG9pQU1aaVkzTEZ2eC1UNEg1d05ZT3ktY2s1NmxKLXFQWUhBSnM0VWFLak5iQTZJUFpsWHJIQjFmeTlLeGpNU25nc2ZKMHlNV0hsUnpjVmvSAb8BQVVfeXFMTlFsSWh1dU54RUVhQXJGb2dfVzdvczhlc3dGSnNHRXVRLTZKekIxd3FNYnRVaVR5TU5IdVZ0ak9iQVdEdEpObHhjLXZBbmMtU1hFc0NWMEg5MTBUdXU5bWRHajltamQzVnRiclJQUC0tNXBXNzVYTXc4c1ViaTZyRlctWFB6NGVsaUVPVlZOTDVtNzFvMnpXNVRGejlFaUlQVjEtUHgwNUpYNTBERm9fYjdPR3l3ZVMyZjNpRDJpTkU?oc=5",
       "pubDate": "Sat, 25 Jul 2026 00:55:00 GMT",
@@ -490,10 +612,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "‘Effective:’ Florida surgeon general talks measles vaccine amid spread - WKMG",
+      "title": "‘Effective:’ Florida surgeon general talks measles vaccine amid spread - clickorlando.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWDVNTUx1eDR1QnhwVkdVR3Jpa1JXbnRwWkdpcHY3OWxrLXlmNHBPdjd3U085aXczZkhFSm04R1dnbVdXUEZkVkJGUHQ2dE1aUWEzaVZTVDdpem92cGVhcXk5VWlFNElvSWUwRGhQWHYwSFZqZU5pNTRaV2VJT0hFNnNRSnk0bExMQWVnenhwTzVPZmR0c3NnbVp3QnJNY0ljSUFMQ2w5cEEzSThyQnRpVzF5a05lWkdjZ1E?oc=5",
       "pubDate": "Fri, 24 Jul 2026 22:03:09 GMT",
-      "description": "‘Effective:’ Florida surgeon general talks measles vaccine amid spread WKMG",
+      "description": "‘Effective:’ Florida surgeon general talks measles vaccine amid spread clickorlando.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -594,32 +716,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Unanimous appeals court rebukes Kaiser Permanente for firing employee for her faith - Becket — Religious Liberty for All",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ1BmVFNvOTc4dWM0eEN4c2xncE54czJYYTI5SXpJU3hiZWVoQy04VXdqVWlVaVA3WFhfRjd1bjJSb0FpNUZVZzFyQzVGTFFJUTNHMVA0eUhBRFpwS2VWRUdLdVhFSVc3V081Y3RTcHJ3THdWcE85R3hUZXZWNFh0TmlJY2xrNUEyWHZTUlVaVFV0ZEcya1BYa041S05qZl9LWXF6WS1aQ1NjZkRyRnA2bDRJdw?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 18:58:24 GMT",
-      "description": "Unanimous appeals court rebukes Kaiser Permanente for firing employee for her faith Becket — Religious Liberty for All",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Surgeon General suggests high measles counts could be tied to abortion opposition - Florida Phoenix",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWG44NkZ2d1lfWFhYV0NYbHpqRDR2NFRnSnprQk5yaTRuNGFDeVpBcmllSUhKQmR5M0FZSUpORWw0NUxUblFqdkM2SDBtZjRKdDlocmFwWmJWbzh4OVEtREl5RlJTREUyTE8weS1GSmRlaGE2bTJfcDhkamNtRVQzY21JdVJnY1RlRC0tUnd0TDhmb3NzWUNMNGlmOU1oaHI2b3oxQ3BTSjdWQWpBNHpUTm12eUdDLUZvV3duNQ?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 18:44:20 GMT",
-      "description": "Surgeon General suggests high measles counts could be tied to abortion opposition Florida Phoenix",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "South Africa: African Development Bank and Biovac sign $15 million agreement to advance Africa's first end-to-end cholera vaccine production - African Development Bank Group",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOVFRcDdCLTF5WVJQVEszczRrOVJhM0o0SVJoa2ZQcXJTVFl6Vmh3ZnpUTjZIWHlWTkpleXhNQUtxaWZuakpfOEw5Nm9xWEVFamNhZDNsb2lhUHhxQ2lNMWpoeVFKRkxtNDlwUFhBMm1Ed3JPamJVY3NwZ1V2RGVHOGhTRE5USDJBT2VVYXliUGd6a0VNREtpYVF3YTd3bXFYRlpvMXRlSDI4UV9IMnotblExYjlwa05DZHdGeFVNSjRwZENMNTlLNUwxeHBPNnBnZ283WVlQZ2lWTXpLSUN0Q1lhYnVaSWtiSG5JenptZXdXb21jcm5wN0RISlRsLVA4MEZoM0E1R3Y?oc=5",
       "pubDate": "Fri, 24 Jul 2026 18:37:44 GMT",
@@ -657,19 +753,6 @@
       "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "Tuberculosis Vaccine May Reshape Brain Immunity and Alter Alzheimer Biomarkers, Early Trial Data Show - Pharmacy Times",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMFB2aDZqLTVVb1Exdml5SFNDcTBVaUZCNUVBZEhjTlRsN3lvNzV3LWFCTUowejhsVmdSTXJ4enNuMTFKZ1hvRFdOYjY3QmVsWkp3VDFlY0VyTW1wX1NhV2VCQ25BNnlpNU9MVjZxc1dCTEp1YlpXZFQ2X3dNZ1VaZjl3R1ZDcGJOdHRJMHV1LVFWUEpoc28zd1pIa0xPSS1hWkpaMHcyZ2ZKZ3JCY2ZBS1djMFRraWNzbHU5TVJQNWhObGdxQV93alBEMHREb0g3?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 17:51:00 GMT",
-      "description": "Tuberculosis Vaccine May Reshape Brain Immunity and Alter Alzheimer Biomarkers, Early Trial Data Show Pharmacy Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "Husker Scientists Pioneer Breakthrough Swine Vaccine Innovation - Pork Business",
@@ -789,32 +872,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Wash. council approves another $200K to fight firefighters’ COVID vaccination lawsuit - FireRescue1",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRTk1aGwtWmZ5OFUzZkZsaHRWQzFRSFctTnc2WnFuYWVFc3NqRFFGNTRON0VBY2Jycll1YjZncF9HbkhiQXE3dUxPVmxHUHVaS2h2T3laQVNraFYzMDltRnJrTmtQQVU5TmRFYmtoUlg2Q1liT3FJSjlfc0tpS1NnYjdoNVZISWlXVkNnR25iN1RqeV93b2Y2YWFETDgtMHlXQ2FLMFFydWFOcEV1a3VfdjU1REdPTWM?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 14:33:42 GMT",
-      "description": "Wash. council approves another $200K to fight firefighters’ COVID vaccination lawsuit FireRescue1",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Most Americans unsure which vaccines are recommended during pregnancy - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZC1teS1Pajl4d1B6QVhodVRNZkNpcG9UUWFSVnUtaktEMjYxN2pBZ24yUzZHRWpxZklZTjlRUUVTSHZOWng1S3RXRE9kTEsxejh6aUFCbXFLT2c4cXRSbE1YaUhHV3Z1RE1iUjMxQ2N4NVh0R1BWNWdMN0FKMXVhcWdDaVNrODNBMThnTlczU3VvUThETWh5V3l6R2J0YVJNRGxFWjJuaUFCRXRNcnMw?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 13:39:45 GMT",
-      "description": "Most Americans unsure which vaccines are recommended during pregnancy CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Mon Stonewall Jackson Memorial Hospital to host free vaccine clinic - My Buckhannon",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUUZ4WmhUZmFoYjJJM1VqME1mM1hSUkJkNUhSUFFpTWIyYkN5UFRpd0w5ZTlXalFtclQxNnJJMnA1aTJNOFJWbmZWcGJUYXlIVzdqU1N2cU1zc281WUhCZXFtcWNlS0dVbFA3anl0VjFyRkYtWTdRYW9xWDJNUlF4OW5CX0t4NkNoMm1DZVZpSGtvR3JSQjg4ZTd1dWJaZw?oc=5",
       "pubDate": "Fri, 24 Jul 2026 12:12:27 GMT",
@@ -867,32 +924,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Chester County measles cases expected to increase as officials urge vaccination - NBC10 Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVW4yU2lLb1pldW54N1RZV2pudTVROGdIRk5rdWUwbDhWTFM0ZGswMDAtSnEzOEdxMHZNWDhZUU5rekhMbVNVcVN6MTdfOE5QeGFPd2JDeF96NXlFS21xNElWZ19yLUFYRjBHbHNyeTY3VmRiSE1zS1paQ0tfamNaNE5MREktaHlVeTA4Q2lXQ1h6TFZ2WFRQNHNnam9vVDNCQnNzV2drYW41dVhINVpJcWJpTE82bWlXYUhHQTVoWVliZ9IBygFBVV95cUxObFRDVGRYdnBvRFE1OWlpQ3ZIb3E5azRZZVdHMWM0eDdXcWVBS1JGZGprU3FjcUJhRzVBSFZwVklqb0NxQ2VBdThfbXRWRTlFcXlPTnVuR3JtU0hWaUYyM1JrczhPOFZuQXJMQlFaRXU4LUE5bUlIczAtdDRsNXFxby1ncThUVW45NkpwMWhDa3V2dHdhWUN0Z1VSQk5Ub0ZrcW0yaTlIaFBLLS14RDhMTTlraml3eG1JLXhDNTRya2JaU0dYTGNjcnFB?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 20:24:05 GMT",
-      "description": "Chester County measles cases expected to increase as officials urge vaccination NBC10 Philadelphia",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Bay Area authorities urge vaccination to prevent measles outbreak - Pleasanton Weekly",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWHRlZGk3MVBGSmpBX0NoLWVyV1RGdmk1VkVGZmlySks5UU1zOGN0akZkNXFQSkV0eDJKbEhmTk15czUzMTN0R0ppQnBjOTFWMTk1dmwxeHl5c2VneldJcUhKT2pLZXhUQnhjWlgzbkhhUllOUzgwU2hkdWxROXQ1RmFvVU1tRHM5WW5Vbm55MjdrM0xtXzUwa3ZHZUpHTkQ1NFExTTQ0Sllyb2J4RlQ2cXdvS2NxQzQ5?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 19:33:57 GMT",
-      "description": "Bay Area authorities urge vaccination to prevent measles outbreak Pleasanton Weekly",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "COVID vaccination during pregnancy didn’t increase poor infant outcomes, data suggest - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbldjV1hWZDZqekZDTUNFWTRtbXdLZ1RRbVVrZUhlUmQ4T2wzbTNuckUzWVJLTHY0U28tWEJyOTQtOEV3NjhUb1NGS0NLaFozQS1tbEZRM2diSjVfLVVLSTlZaklHeXVpalR0a3RBc3lnWlYtWDg3WDJGMkJtWWg1QlQ1NXJ2ck9yVjlNYktiZVQxLUpJMlNIYVZXNG1JeVRNMlktSGdXNmpUX080bmtaX2NKdkM5RFJRbHVYTA?oc=5",
       "pubDate": "Thu, 23 Jul 2026 19:30:00 GMT",
@@ -910,19 +941,6 @@
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03M1ZQNG8wbzNyWkNjNjhIRzBaSnhZalZUTU9vT2p1NVgwZmVUTVZpamNxM0dRU3NZYmYtaF9kTGgzZlRDT090aTBJcFplR1pGaXJhal9XYnp1YXNaOUE4U1ZQQm10cHNndS1tQVc2X0xtU3MycE43WA?oc=5",
       "pubDate": "Thu, 23 Jul 2026 19:06:08 GMT",
       "description": "HHS Changes Two Vaccine Committee Charters MedPage Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "The world’s first Bundibugyo Ebola vaccine has entered human trials: here’s why it matters - Gavi, the Vaccine Alliance",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUlJNYWV3VkNlN1FHS19adUJoeC1ENHZDSU55ckstNjVNNU5CTTE3S21BTzZEUWRlc3VINXk1MHhiVm9ZSVptREVGalhPYm91UHJqRGdkSDZjakd0Z0pTbDNPMnhhY09lcEV2MDZfbmlCOWVJN3ZJUUs3MTJhTW9VY1NOWXpNdHNtVDdTTjh3YXhBMXVhcW1LRk1nbXh3bU50R3d3TU1yWDEzVE53NDd5TllKbFVjeGFL?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 13:44:44 GMT",
-      "description": "The world’s first Bundibugyo Ebola vaccine has entered human trials: here’s why it matters Gavi, the Vaccine Alliance",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
