@@ -1,11 +1,16 @@
 {
-  "updatedAt": "2026-07-27T15:24:27.514Z",
-  "itemCount": 72,
+  "updatedAt": "2026-07-27T16:16:33.418Z",
+  "itemCount": 74,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
       "count": 2
+    },
+    {
+      "key": "flu",
+      "label": "Influenza (flu)",
+      "count": 1
     },
     {
       "key": "measles_mmr",
@@ -35,10 +40,36 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 48
+      "count": 49
     }
   ],
   "items": [
+    {
+      "title": "Human trials begin for world-first Bundibugyo Ebola vaccine - thepharmacist.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX1NlMG12dDBKeGp0ZWIxZEcxb2lvMnhhY3g3NUNQeEstbG5PbWYzRUNiQnNyQXpZd3VKdWR3ek51YzBxOWwwQ19kS0pTUjd3SnVvRzJhNFpnVFM4YWhLaXVWbFpqbV9HWnBob1lUQ1JfTFZIZm00d3hGU0p4VkJadWFETTY5S3FXT1pMY19MeVY4M25FLUFPcjFFcklfd3JYd3dtMWhuakEwQnJ6RGF1c3YwakNoWjl6ekE?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 15:37:16 GMT",
+      "description": "Human trials begin for world-first Bundibugyo Ebola vaccine thepharmacist.co.uk",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Can Timing of Administration of Influenza Vaccine Determine Its Effectiveness? Study Sheds Light - Medical Dialogues",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNzZzTWdWQWx0RnVfX0kySFhDS1F1dEpyb1ZlSVJaalZ1WGNwTjJMbzBjNHhSdkV4RW9QLXpiaWhpcWhNMktveXlTM0NMQlJoendVRDlfR3NWa1NZUWJnRHlwcUlVUFRSenlSa0tGZzlnWVBEVzltUW9GczVsRi11YnNyRWRUVDR6TVBXYVRENldKOGh2Y2E2bXdzLW5RcnFXNjc5ZmVSYjkxZENHcDAtOGpLSnkwQlJPM0hBa1d4MTBfVUhmR2ZBUlZ4UHpoanBORzNOMl9NaTZiSEVp0gHiAUFVX3lxTFBZbk5iZmZJdTBhUXBzUHAwQlJxVzIteExDZFdvcGhHWDZYYXB0OXI1Nk44eEp1WE12dFZHWmpXcHdob05pSUVYd2ZfV0g0TFpINVlkUVlYUWdhREF0TVA1bXR4bHdnaEM2eFJMOGdBbEptMU80amQxZzBZMlA1VDdWOU5kVW5Iekk3dHl5cEV2UVk0VFVISEJsX2k1bUVISjRBZnFLOU42Ni04bFREalJqSDZKdG1qY043ekJ1aU5MTEluRGRZc2c2QlpYbVZPcVdCd1l2S0Y5b2ZZQjhSNU14TWc?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 15:15:15 GMT",
+      "description": "Can Timing of Administration of Influenza Vaccine Determine Its Effectiveness? Study Sheds Light Medical Dialogues",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
     {
       "title": "Measles cases surge as first day of school approaches in Florida - Naples Daily News",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOEV3MmR1TGFyUWE1UExkS0hzQUFOXzRVeGhvVm5DV0VnTkpTcmpZSThYSkxqVFRTaG9Fd051VUVYXzlwSmg4dDlpcGtIc1l2bndxeFlBelgtcEY0blc0YjhRS3hHTUhjSjRyUV92N25FZTJ3Qmx2U2FJTlhaM1doMU50Q2MwS2ZOM25uQWVTWENQYzg1bW8zU1dlT2NmZENOc0l2VW5laFBXSi1IN0ZYMWtSYXh3bEpCUzZocDNWcDMwNGs1OE9uam4yS3I2aGFrcU4xUkc1WldhWGt1emMwWkpZaGdLNXloblAzbGJScTI0c0Zr?oc=5",
@@ -270,6 +301,32 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "VIROLOGY AND VACCINE INSTITUTE IN PH President Ferdinand Marcos Jr. revealed during his fifth SONA the government’s plan to establish a Virology and Vaccine Institute in the country. #SONA2026 LIVE: https://www.youtube.com/watch?v=xWy2cD_NL - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR19zX3h4X1J1Z3diQTR5ZS1rMjh4c3BlRm9jTU4tMGZOQUVxTkNpT0M4N0xPVUI5b1U5Y0REZVVLbEd1VkNNTjZ5R1EwbDFPU0owZUctWWk3b1hlWTNkMnNkZUFlUFJzRVJiU2pPM3lXazdkQWRFc1ZLX1hsREhjRUc0cFBRaHJ3ajlibXJ0TDZLeG94ZmhxUG5HSWJDTUtpa25wamtCTU5CNXVBVTVTa1U1TTNuZ2hMckdyWlAwVVllRUppVGQxdlFNblBBQ0JHQkpqOTFwdlVhZkdp?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 09:53:15 GMT",
+      "description": "VIROLOGY AND VACCINE INSTITUTE IN PH President Ferdinand Marcos Jr. revealed during his fifth SONA the government’s plan to establish a Virology and Vaccine Institute in the country. #SONA2026 LIVE: https://www.youtube.com/watch?v=xWy2cD_NL facebook.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Call for stronger powers to reverse decline in childhood vaccination - National Health Executive",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNWZyZnhxOHdUaFlPNnhadlV6VHJEXzIyNmZ2V0daTUlXSHJYN3pBXzhRc0RfTkZFYjVvdDg1bFc5b3Q4ajFnZ0VscUo5Q1o2X2pxNXREQUEyQWgyalIwb29UdlU5V1U5RnYwVTVQVkNiV0UtTVpUMDJpcUhrWk9YYTA0N0hEQ2c0ajVabWZ0WVA1OWlUcy1yS2FwWEZUekNFQjVWNjF4OW5TQzA?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 09:52:39 GMT",
+      "description": "Call for stronger powers to reverse decline in childhood vaccination National Health Executive",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -560,19 +617,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "New Pancreatic Cancer Vaccine Shows Promising Results In High-Risk Patients - Dallas Express",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX1NIamFsbW05c0pHQ1dueVpDbkZna0hwOWp3QmpBU0RkbEd1Y1E5VmFnVlhJTXg2SDB5dHo5eWR1a1lEMUVJelFsajdPNm9sMldYbFJzOEZNakotX3Q3c0xoUlZRMWxSbUlFOEw3dTNKRXB3WFdoaWpXYmlhSnE4cml1cEw4enpFX3FjdUtRb19QS3JfUGlJVlA4RFRDUzVXdVo4MUk3dmdwVjE0OXc?oc=5",
-      "pubDate": "Sat, 25 Jul 2026 15:03:55 GMT",
-      "description": "New Pancreatic Cancer Vaccine Shows Promising Results In High-Risk Patients Dallas Express",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Proposed anti-vaccination bills are on the rise in state legislatures across US [letter] - LancasterOnline",
       "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPcXUwY0VQcll1eGs2aW9xdDJQdmhYbmlkUWg3YzRZWXVjcVVabzlqMzNRLU5EaE5SdEFEQkR1MFJ2UzZ3VER6RTlTbzRaVzhlYjI1c1pnanVOT1puS1dXR1AyQ3k0Z2dqNWE3MnFoUnFkVjZ2dkh3WHVITnZXdS1Sc0ZPcl82a2VaY2NJWGR1REZqcGQ0bWs4dm0xeW9yeGNuWFBtQjY4ZTNabDA1dmNBZ19HMWVlLV81cEMzYWdlamJqZ0lmU1lwWXBVSHA0TFVYdllhOUV2TGxURFZEaFlEekhTcFhWMjRyM3hoRml3V3dmQjg0WFY1Uk9XNXFuNEtoTzJ6OFNna2g2R0g5WHl0Z1ZqemhaODNQWHc?oc=5",
       "pubDate": "Sat, 25 Jul 2026 09:00:00 GMT",
@@ -612,10 +656,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "‘Effective:’ Florida surgeon general talks measles vaccine amid spread - clickorlando.com",
+      "title": "‘Effective:’ Florida surgeon general talks measles vaccine amid spread - WKMG",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWDVNTUx1eDR1QnhwVkdVR3Jpa1JXbnRwWkdpcHY3OWxrLXlmNHBPdjd3U085aXczZkhFSm04R1dnbVdXUEZkVkJGUHQ2dE1aUWEzaVZTVDdpem92cGVhcXk5VWlFNElvSWUwRGhQWHYwSFZqZU5pNTRaV2VJT0hFNnNRSnk0bExMQWVnenhwTzVPZmR0c3NnbVp3QnJNY0ljSUFMQ2w5cEEzSThyQnRpVzF5a05lWkdjZ1E?oc=5",
       "pubDate": "Fri, 24 Jul 2026 22:03:09 GMT",
-      "description": "‘Effective:’ Florida surgeon general talks measles vaccine amid spread clickorlando.com",
+      "description": "‘Effective:’ Florida surgeon general talks measles vaccine amid spread WKMG",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -768,19 +812,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "US records 2,318 measles cases, already surpassing 2025 total - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZEMxMkd2dXYwZDcyV2FhN1JRbXA2RHg0N3F6cUw0LXlGYVN1Nk9aOUEtVHBvc1oxTDZxdHRRLWYtQ2EwbjZVWVI1MFFuSW5pTzhZR0ZjN1h0STFpc05FaGg3aEFrYUZvcU93QldTc2J5VE9LNWRWS0hOY3FKUngwRUs5TzFyMGE0cmJBbGNrNkkxbG1rd1BNazRNR2I0bndnRTV4QTZFNlN0Z9IBrwFBVV95cUxORUdBZGxMWHVFM2xmXzV0WV85NDVIYlBBMVprZzdwQUJuelFuaWNqYWRyM2FYeFppNzJ4SnJ0M2hiSUYtOU9lLWlFSkRsMHVDMWRrRUM4ZHVtZGJOcUpvMHBxNkZNV3V5bjRpcElac3BTazk5OHFtT1hKMzIzLWxwa1BjRGRXVWxuVWFvMVhqdFJWdFo2QkduZHlCdndybEQzMFNlNEVBOU1hNU1wWGI0?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 17:15:07 GMT",
-      "description": "US records 2,318 measles cases, already surpassing 2025 total Al Jazeera",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Opinion | What could die with the last person using an iron lung - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb1BlNHk4Rko4NW1WQmJobWIxWVdCaENXWDFheEhINFVBbm5ZUE5ZUmVRNzlCcHEwMnltNkZhLVFnck1JY0ZSRmVxYjVHaVg2b0EzcWNWa1EyNk1SelExQm1kaVBrNDU5YUJ5ZUFNamE4OWZGdk1tYXFaeHM1elJFbWhreTVHRWNIMjBwSHdpb2YxNHc0TFRGaHpQVUxOMUlDZmlrUUlDeU0xLThtZmxUaw?oc=5",
       "pubDate": "Fri, 24 Jul 2026 17:15:00 GMT",
@@ -792,6 +823,19 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "opinion",
       "articleLabel": "Opinion"
+    },
+    {
+      "title": "There Are Already More US Measles Cases This Year Than in All of 2025 - WTTW",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLV80d2JxbzVnX2ZVRG81VHVzcjRXSGxadmEycG5uRnB0aU9udUVvRkdrVWNlUV9OQWRQYXkyT05GbnFiNFE2ek9oT3BUQ2dhT292eHZnMm1sMDZQUkdxY2Z6NHI3ZW1BOGhqWElkNUpMZGdLY3lDVjdKOFhxOHh4WkR4QnhPN1F6d2gwN2VwNA?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 16:13:19 GMT",
+      "description": "There Are Already More US Measles Cases This Year Than in All of 2025 WTTW",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "US measles cases hit 35-year high as vaccinations decline - Reuters",
@@ -829,19 +873,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Most Americans Unaware of CDC's Pregnancy Vaccine Recommendations - Drug Topics",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZVlGSUxCcVJwMldmMlNuSjVLbU4xY2lRTE9ENmtjTGt1UVU1NDI4cVpQV1dmY2dHMG43TlBYTzY5TUtaRnhBbnlxOUhhbHNmQzRPc05qYnNKeE1GeU00eldkWHczYjZFSWpPS1FFR1MtX1J2WHR6MGxON1R2SnNPdm9iN0d6S2RvLXp6eThJUWliVmJiZHFUSGxuRk9ZQQ?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 15:07:08 GMT",
-      "description": "Most Americans Unaware of CDC's Pregnancy Vaccine Recommendations Drug Topics",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
