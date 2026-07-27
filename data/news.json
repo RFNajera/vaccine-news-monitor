@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T02:11:02.713Z",
+  "updatedAt": "2026-07-27T03:38:38.447Z",
   "itemCount": 62,
   "groups": [
     {
@@ -25,15 +25,33 @@
     {
       "key": "rabies",
       "label": "Rabies",
+      "count": 2
+    },
+    {
+      "key": "dengue",
+      "label": "Dengue",
       "count": 1
     },
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 34
+      "count": 32
     }
   ],
   "items": [
+    {
+      "title": "India’s first dengue vaccine arrives with a crucial safety caveat - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaWdzYWpOV0ljcFJydlNtRFNiSGVzWVhUWTZPQ01TVml6Rmo5MHFOQnM5Qllwa1NOMGNwbjZ3SEgxWTl3ckFOOE1zYXVkR1BnaHBoVkZlU1RweklON1I1aGFUS21pM0lDS1E2VWl5WGExTEN2UmpPZ3IzajRYQzVrbTZSckJYaGVrNThMZ3BKa2lSVFV2UTNFWjFubG9wT24xNkMxNC0wRG1TalZWSVN4N0JXNXg0RFRqUFA3adIBwwFBVV95cUxPZmpBbjVMcVlpN0w1aWFCaVVLNHFxWHhVS2xFY0tKMHE2R05oaEZDUXh3Q3NWd1F5QVlFaUxtNlphelNTYkJIRldmZjQ1T2hLWEQyVjJCTGhQcWdDLURERE44RlhwMTE4SDNxUGItVzJ6TXpNRVZnVWFCeEMwRWItLS1QdVZmTVhhTEsxeXJyZUtBa2J1Um9idUxRRzU2Vy1aa3l0d2VpTjFuQ01VZ3ZocHhNTzdZRFN6ZWVxeFdpR1Rkcms?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 03:30:00 GMT",
+      "description": "India’s first dengue vaccine arrives with a crucial safety caveat The Hindu",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "dengue",
+      "vaccineLabel": "Dengue",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "U.S. Measles Cases Have Reached A 35-Year High - Park Hills Daily Journal",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ2VOMkQybmNmb01rZ1ZtSHdFbWZrbUZ2Q0ItSGo4VERKUHYwZHhwR3VxV1dVVlRBcW5lOFZRUDhHMEFZVE5aRTM5dDFySjVNNjBuUGd4dEdyR0pLMDFHa1BqTWFiZUg3WnpwdHE3VXRVVmZ3aFpDd1l5WEF6OEtyUnBvRUVVYlU2Q1Uxc3pMV0tYQ3o5MGYyZA?oc=5",
@@ -295,19 +313,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Free back-to-school vaccine clinics available across New Mexico - Organ Mountain News",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONEFKbkFoMk5TVmdJNG5JX0xWckZNc211b1RZdzQybnVZc2hCeGZBNHhOZHZQdWV0TWVlbm1VZVBta1Rjd2hHRVFLTnA1THJCNXd6ajF6Uy1Rc1N4eFNydUpydnp1ZFhkdXczOW1kbWZ4V1hQOU5Ib2hTalZZbHFoSjI2cUlZN3J0Tk0xNmNNUQ?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 20:32:18 GMT",
-      "description": "Free back-to-school vaccine clinics available across New Mexico Organ Mountain News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Ex-Charger demands ‘the truth’ over vaccine he says NFL forced on players - New York Post",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2lKNHRNXzZrZmxTZjBkNS1lYXRRTHplSlVDT3dYd3hUNmN1OFpENm5qTXRWOFpHeGNBdlZYV2lIaG44RTVDOVJxS0JEV1pFaVhxYVF0V3I2ZkMxY1JjSlpURGRybmF2ZGZxLTJwZ21sQWRJS2RNUkZvR1IwQVkxR0t2RGpTcFc5Vkk4TXdXaFpxc1BFTVM4?oc=5",
       "pubDate": "Fri, 24 Jul 2026 20:08:00 GMT",
@@ -544,7 +549,7 @@
     {
       "title": "U.S. Measles Cases So Far This Year Hit a Three-Decade High - WSJ",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc0JOSG5xeW14RnlSZGR4a1lzaVNubWw1UlZKdUZ5c0JPbVlFRWNSUVNaUG81RnVQVUtlVVEtaVBKeG5RajNYZ0pIVjVfNnkzRy16TVJUYzFyS1ItMFJtVGZVQVFlLUYwSG1jVmN2Qy01RDFQbEVBUGFJMGUtVWNQMVNsdGVHMk9YRXV2MlhvTDc4bFZxMFF1SFM5d0dlMXlLWDRuemYxSXRHSmx5S2xOZ1JlOUtNWUhTM3lZ?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 15:25:12 GMT",
+      "pubDate": "Fri, 24 Jul 2026 15:23:00 GMT",
       "description": "U.S. Measles Cases So Far This Year Hit a Three-Decade High WSJ",
       "source": "news.google.com",
       "sourceType": "news",
@@ -685,19 +690,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "FLOOD RELIEF: Free vaccine clinic, supply distribution and donation calls underway for flood-impacted West Virginia residents - WV News",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPZ09OYnZqaVFFTUFfOTlsRTg1VXhDV3BNUFN6TTZUNEtZUWNkcEtQc1FtR1lsZVhFOUlWMXFOZVBVdU9rX1djeVg0VDh6dWpmMU43cDBBaU5PbXZLRkFvcExzbERCZTRqRnQ5Ry1KWi1TX2w3Uk9nM2xvNlBSWTJpMzRNTGFkMEZtYXRtQ0dyME9hTDdaOGdzeUtpWWMwTEFYWVY3cHJlVk5wa0JxVmN3OUIycXFTM19oS0c2X3A0OVRFNHhjLUIxRU9KdlhiWkZXQmI2ckwzT3BYUUR3aWl6bnY2clhnd3Z0ckxyaEdGRUdjdURzM2tRVi1XRjZpUXMzTm5hQnBUZktqSmlScnJiWEFBQXJTeEM5?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 13:21:00 GMT",
-      "description": "FLOOD RELIEF: Free vaccine clinic, supply distribution and donation calls underway for flood-impacted West Virginia residents WV News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Mon Stonewall Jackson Memorial Hospital to host free vaccine clinic - My Buckhannon",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUUZ4WmhUZmFoYjJJM1VqME1mM1hSUkJkNUhSUFFpTWIyYkN5UFRpd0w5ZTlXalFtclQxNnJJMnA1aTJNOFJWbmZWcGJUYXlIVzdqU1N2cU1zc281WUhCZXFtcWNlS0dVbFA3anl0VjFyRkYtWTdRYW9xWDJNUlF4OW5CX0t4NkNoMm1DZVZpSGtvR3JSQjg4ZTd1dWJaZw?oc=5",
       "pubDate": "Fri, 24 Jul 2026 12:12:27 GMT",
@@ -715,19 +707,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObVhmbmttQmpfbVVqSUJUbGY5bUw4ckxpUU5LcXlRWWdJS09aRWtvWjlrT01WbDhQMWNSckE4al9GQnN6Q0sxYzduYk5OaGlTSGlLcm5QMzF6aUpYWEYzN2VOcl9WUy1aRzBOU1YzX0lGZGt3Yi11VkZITko2WTBxMVo5eUNyaURVNTFRWmc3SVQzWGxXVWtHWDV0NW9HempCOS1OWUlYcDlGWEo4d1EtOXVZMXUzZTg0U0xR?oc=5",
       "pubDate": "Fri, 24 Jul 2026 12:00:00 GMT",
       "description": "First volunteer vaccinated in the world's first Bundibugyo ebolavirus vaccine trial University of Oxford",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
-      "title": "The Hybrid Vaccine Trial Design That Could Render Pure RCTs Obsolete - The Clinical Trial Vanguard",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNEhlX0lRM0laTUludkdWeEVmQzhhZm9rcmRjSmlNV2pKSFNhSThGTklLVnpScnV2UG9GU1d2SWpzOU1PVVg4TXFIekxCUWt6U0hlT2RTTTBxMWoyM3BmQjJqSlhwcFhGdVczS205V25La2FvdUhtS0duYmg4azZiT3pLUXFxZXdWbm5uYmc2X29EN0lmWFcybGF0YlNleG5oNWxseFFMWE55akNXTDlLeXpSOHpFUQ?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 07:57:05 GMT",
-      "description": "The Hybrid Vaccine Trial Design That Could Render Pure RCTs Obsolete The Clinical Trial Vanguard",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -759,6 +738,19 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Rabies vaccine used in several suburbs recalled over possible diminished potency - NBC 5 Chicago",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdVNiREhzWGJqSnl5YXhLcXdyTUQyVEJOb3JIOTJKa2RSRWxyRW5qSW4zeWNnbmNSQUFQQm9NZGd0a1BqeWhtSnRXY0JKa3ByNkNvcjJvbFhtX1BvZDgxUE1MUncxMFZNUlFNNmR2VWZTdzFFTHdvZXhFbGR6SjhoNmRsNlRXUXpyeTctMGcyc2RRTl9sMDA4UjVGUWdNQzJVTnhGMXdKOVYwU3puSk5NMUN4OXZBamFQWmpWS29ncTF5ek01U0HSAc4BQVVfeXFMT3JXUGxEakJXZUFpV0hNU0RFTm5FY3FxeXdXX25rTkh6Qk82UVVaRUx1akRxVDJCSGFPb2U2bTROZUNfZmFvS1huZkJvYXMwNzVXRFNMZUlaOUduVnRWZ0YwMWF2OWlPZVJzVTFHNTJxM2J3NjNfOGFHOGFnaS1teXgxVVhnTmxvRDE5VTBEYnVpd1dRRWdZUWkyam9CUHFDbHBPOU1saXlKTFpLaWFOOXlfbFNON1RGNFNaTmlUQmp3TXlXeW1DamdwT2tFY3c?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 20:37:47 GMT",
+      "description": "Rabies vaccine used in several suburbs recalled over possible diminished potency NBC 5 Chicago",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "rabies",
+      "vaccineLabel": "Rabies",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -813,6 +805,19 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
+    },
+    {
+      "title": "Pancreatic cancer vaccine shows promise in first human trial, preventing disease in high-risk patients - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZTFNVW1NU3hrNGFjM1h2eWllZHVVTGZIbnQtZ2FGQUt1cGlMekRmdlM3RGhGcno0VXEwRzJ5Q05RY01xWGVlV1NRMkhkcUxQM0tUYVJ6Y2wzbUtSd28yeFIyZk80TDRSUW1TSTFLTU1ja3RlSmhnTzdUYzc3YWhZR01XRFcyNW5FU3BBZ0FsdUR6UUFJd19jNHNqSUFaeXp0LW1DYlFZNWxsUVgzdHk2RUpzNkNLdWdUc3p4bXAzRmxEa0s40gHKAUFVX3lxTE1VR2o3bm5kdWZtb1pOX3d6TzF3QVlxakJYQzFOUHF2NXQ3V0FPckxGM096WmpVU3NfRFdRY1FLSzlDU2hDUTRFQlJ0cmJmRHVkQ3o2VE45YjMyamFzWl93bjlVbDVheHhMV3hiOE85dHNuU2ZtczFuX1NMTnRCcGlnOFNVZnhNUV9ma25JRzNSd2ZWaW9FeGx3dTFtcXFWRUo5eGpMVWxvZWxGYTFtTzgybkQzRnVoR096TVZSUzQtcnJVaVpQcks1ZUE?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 13:36:23 GMT",
+      "description": "Pancreatic cancer vaccine shows promise in first human trial, preventing disease in high-risk patients Fox News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
     },
     {
       "title": "Sanofi reprimanded for disparaging Pfizer’s RSV vaccine - Fierce Pharma",
