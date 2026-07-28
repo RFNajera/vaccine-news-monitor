@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-28T13:02:09.048Z",
-  "itemCount": 81,
+  "updatedAt": "2026-07-28T14:09:42.309Z",
+  "itemCount": 80,
   "groups": [
     {
       "key": "covid",
@@ -15,7 +15,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 22
+      "count": 21
     },
     {
       "key": "pertussis",
@@ -25,19 +25,37 @@
     {
       "key": "hepatitis",
       "label": "Hepatitis",
+      "count": 2
+    },
+    {
+      "key": "meningococcal",
+      "label": "Meningococcal",
       "count": 1
     },
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 49
+      "count": 47
     }
   ],
   "items": [
     {
+      "title": "This Cancer Vaccine Turns COVID Immunity Into A Weapon Against Tumors - StudyFinds",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DYkF3TGd3dGxMaXhQaEpyYmFKWEIta05uXzY0dTFGMzR6cFlXdkdPT21RMlN4SFVKc25TbnhmMkxvTGR3SDFJbHJwWW4zdjNOQ1pUVEZYQWc0YlQ2bmVaZmxtckN0SG1LY2dCSC1tRWFCN2o4OEE?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 13:20:50 GMT",
+      "description": "This Cancer Vaccine Turns COVID Immunity Into A Weapon Against Tumors StudyFinds",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Romania is drawing up a PPR vaccination plan (Peste des Petits Ruminants) - Agroberichten Buitenland",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTUlMWHlTRUk4dXZiUER4LS1pQjJ1M1dQbmF0YVBUdVl2dlJoTUNKVzVhZlNiUG10TEs5dEc5NGtEYVJudEthcWtXdWJrbUFfeXFIR3NXZkVkNUJncm9oeHA2aUdlVlhoVDNTRjlkVFRHZnpPWEdHQ3pMdkh4MXpIQ0NRZXN6NE82el9YUE12U2dGNUFVQmpKZDZfR2V1bWYycjhITHRwUlpLejJhbC1UNFcxdjd3NzRKUkZ3Zm5za29aVkRsRGJiWk40MVVBOUtkRGc?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 12:57:30 GMT",
+      "pubDate": "Tue, 28 Jul 2026 12:57:26 GMT",
       "description": "Romania is drawing up a PPR vaccination plan (Peste des Petits Ruminants) Agroberichten Buitenland",
       "source": "news.google.com",
       "sourceType": "news",
@@ -85,6 +103,32 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
+    },
+    {
+      "title": "Ayrshire young people encouraged to get MenB vaccination before the start of the academic year - NHS Ayrshire",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLVVIY2RQMmJxNXdkZkN6cHVhUWhqWGY3dW5WLU9fT1dOX1FKS052Z281ZGpRa2h4N3hCa2s2NkZmcGtkRU05djJ3ZmROdFBxZ1NuaHk4X2pxdzE0NG56N0hVMVNfNHBwTUJZTUF6NDk5TUp4bmZ5RHJFSVF2ZWxyZDN4YzRQb2c2TE51UUZMc3ZfMTVwajdQcDBTTThwNEZFN2JKOUFrTHpJVzZ0YWV3UTZuN1MyQ1V2SEE?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 11:23:16 GMT",
+      "description": "Ayrshire young people encouraged to get MenB vaccination before the start of the academic year NHS Ayrshire",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "meningococcal",
+      "vaccineLabel": "Meningococcal",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Maternal 6-valent group B Streptococcus vaccine in non-pregnant and pregnant females: a randomized phase 1/2 trial - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03ZDRBX0NuYXZ2S19CaTVGVGlLMExJcUs5aW9XNmttc3B6VXRrWXFINF9meDBiNVZhcjJ6NUJZWmM3RVlVSDVSdjFGMU9ldG1lTjRYSWdHM1d0YkNWWU9V?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 09:56:45 GMT",
+      "description": "Maternal 6-valent group B Streptococcus vaccine in non-pregnant and pregnant females: a randomized phase 1/2 trial Nature",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
     },
     {
       "title": "Immune Memory Against SARS-CoV-2 Can Be Harnessed To Fight Tumors - Technology Networks",
@@ -161,6 +205,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Childhood HBV Vaccination May Reduce HBV Coinfection in People With HIV - Infectious Disease Advisor",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNclhYcDREMFFVSjNrQjV4QzVRNi1fTUluU0pYR3JMN1I5a05BS3ViRlNpeDVXSWk0UnVnR3BOVnczNzNINTNaY2hsX3NmeEZHejFJdjhOOTJhbndCbUNMZG16emh3VjMtUWFlWXlFU0JNQTRFMVR3cGYxYTd1WlZMRkNQaFRMM1Q4d0NpTWZGNFV6emZPMTZxV29yWmNfRXdE?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 04:00:00 GMT",
+      "description": "Childhood HBV Vaccination May Reduce HBV Coinfection in People With HIV Infectious Disease Advisor",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hepatitis",
+      "vaccineLabel": "Hepatitis",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -373,19 +430,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Einstein College of Medicine receives USD 13.8m NIAID grant for rapid-response viral vaccine platform - AllSci",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUUFVLURxVnZkMTd3MHMtZ0p5Qk50MUltNGtoQVZENDFwQkV1akZCZWZuRzF3cUUwMFczY1ozVEt4VDgtbU1jRXVjeGhyRUY0eVQzOERSeHhOMWZXVEhoMy1HWVNGSHFPQ0RJTUhTN3NVdzJXa2dsQ0FKNllPOGowSTI1OXBNTUl0djZkbEpIOXZzTGlqMDVUYnlZV1FOX1pzQ2NHWGNFd0F2X3BGRm1VTFNwVmhka2Zab3lQR3JCR2MzU045RHg4bm5xUzJ1MEo4T2lIZw?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 22:22:51 GMT",
-      "description": "Einstein College of Medicine receives USD 13.8m NIAID grant for rapid-response viral vaccine platform AllSci",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "First volunteers receives experimental Ebola vaccine - WDRB",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdWxxWmNYcVNXZmliSEU2TmNDVHU0SThVLUk2V05ZSjJQNUZGYm0yYWJaZDdTRWYzVVNuVXVBSTFhaVdERHZIajZ4TmVFTGZtQW92Z3FpWk4xZldMRzZGdEVHeG9FaXE3SF9ST01xV2JJLUdvSTlCcWswZWtENTQ5dmtnWTFzV1kzSzBMQkZZMVItc21ndlNXMDVEQU1udEt4eG1FSUk3dlY2c0NGU1Z5eXFXcC1OOHVtT2Z5Q0xB?oc=5",
       "pubDate": "Mon, 27 Jul 2026 22:20:00 GMT",
@@ -527,19 +571,6 @@
       "vaccineLabel": "Whooping cough / Tdap",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "GOVX: Lead programs advanced and net loss narrowed as focus shifted away from COVID-19 vaccine - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMWR4cXVBWHI0eHBmUFNLX2ZYb1hFLXgwWU9NcFhDSDczMnlESXVLOTNmaHpLR2tWVHBaR1NiQ1o0MWM4MzhFdlZZSk1wMGk3NkNMcTlRVG9WUUFzWTMxRlZrYTA4cnpWMS10VlltSHpQRnltZEhjbVhDTW5WaUo2LVRYanhwbk50U0IxVVJNa1FFZjYxRnFCbFozcEpOcTBjZnR3dzg3Ql9KdWpvQWNDb1d5QXVfdGdzbzl1UGdma3VnM2d3bWpuSmxKLTJ3VzE4Ql9JdGk2NTFRT2lhM2s2T3lhbEFfTk0xZzBlUzRST3JOUzJ0OUpHdVRnSTFFTm1CWDVqOC1HSQ?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 20:35:03 GMT",
-      "description": "GOVX: Lead programs advanced and net loss narrowed as focus shifted away from COVID-19 vaccine TradingView",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "Navy announces new flu vaccination requirements for sailors - Navy Times",
@@ -724,32 +755,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "South Africa’s Biovac secures $15 million AfDB loan for Africa’s first end-to-end cholera vaccine plant - Business Insider Africa",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMEh4cENadER6WDhtSzhRMnhPMjdHalJvanJRYm5IODZOS1lWNk5xYU1ScmRwbXBMLURYUnFTY2VQMzVPTmxjWkxmSll0MVFxOGRfZF9FUE15MXZTXzFvYkpLQ0QtZmFPMEJxMlRZOTRiVHN0Q00xVmc5UV82bzlRLXJCOVZjQ09Uc1lsVGNsMW1zQmRWWENsMFpyMDNUanBDUGhxdUxLekRWbDFwcDlfTXpmX204cnE2eVh4X2ozYjhUREw3U2kxWnZUQkt1d0JaQ01VZkZWWXE?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 15:14:19 GMT",
-      "description": "South Africa’s Biovac secures $15 million AfDB loan for Africa’s first end-to-end cholera vaccine plant Business Insider Africa",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Measles cases surge as first day of school approaches in Florida - Naples Daily News",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOEV3MmR1TGFyUWE1UExkS0hzQUFOXzRVeGhvVm5DV0VnTkpTcmpZSThYSkxqVFRTaG9Fd051VUVYXzlwSmg4dDlpcGtIc1l2bndxeFlBelgtcEY0blc0YjhRS3hHTUhjSjRyUV92N25FZTJ3Qmx2U2FJTlhaM1doMU50Q2MwS2ZOM25uQWVTWENQYzg1bW8zU1dlT2NmZENOc0l2VW5laFBXSi1IN0ZYMWtSYXh3bEpCUzZocDNWcDMwNGs1OE9uam4yS3I2aGFrcU4xUkc1WldhWGt1emMwWkpZaGdLNXloblAzbGJScTI0c0Zr?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 15:05:00 GMT",
-      "description": "Measles cases surge as first day of school approaches in Florida Naples Daily News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Florida measles cases not over as school is about to start - Naples Daily News",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSmZwYWlhUDRMeDZzYS1VMnZPeXFCU1E3Qk9mTDBJcEFHZVRrTEFsb0ZWWVVURUZHWHFXTzRUc3RNMWtYOE1GTXVkbWlkTnhTNldPblJrMVFhbF8xWXF6eWstNGZpVHktb01nVU02elZ0RmhoSkZJdmt1LXVuM3IwYjZsOWxKVHMzTFZkZEN3di12V1hieUJwNkVyUXFHbm5QRGl2bUJhbzRKNWRrY2J3YUlXbWJncF9ub01RbkwyOER0N2ZCcmJ4YQ?oc=5",
       "pubDate": "Mon, 27 Jul 2026 15:04:09 GMT",
@@ -785,19 +790,6 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Navy expands annual flu shot requirement under Pentagon exemption - stripes.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaXY1TmFBLXNreTUwUUl4MGx5Q21Fb0pLLTVBY051eUJaWGVIaUdyc1FwVkIyWTNvVXdVN3N1ZWNfMW9PZ2s0eHFna2QtOHNoTU50Rlo5aGdkcUtlelVodEVQd01hdlRwb20yV0VNbEgxN2cyazBVTlVfbFRlN2hZWEd6SFIyemxBbUJTWGJMX0R1UVdYdXJNclRFME5KS2lWRUdfbllLX2h0X1NqZ2c?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 14:19:44 GMT",
-      "description": "Navy expands annual flu shot requirement under Pentagon exemption stripes.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -945,6 +937,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "'Almost an insult': Republican senator slams CDC over autism, vaccines website - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS2NBNFdUUDdfc3V3YzFjbW5HM0lMRHMwVGlNWmItSkxjY2lHX2xiV3VRS2dFSWdfOGk0VW82UUpIWndYWm02QzFna0YtQ1BleGdWcHJUTkFOSnNMcHBfY3N5T1BXRXJoOElzOFZkcno5dTBjaDlocDlDZS1SSG1GX3pRMTZNRFpEUHlqdVZPdnZEajhlYmtUS1RrTDRJcGFkZHN4R0RPX01NMzA?oc=5",
+      "pubDate": "Sun, 26 Jul 2026 20:21:00 GMT",
+      "description": "'Almost an insult': Republican senator slams CDC over autism, vaccines website USA Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Cassidy on if Trump nominee will change CDC's vaccine website - CNN",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEROS1VLRERlaEVWb21paEg4WU9YbGhoM2ZNRks0NW80LXloU3YtNy1HTjEzR19fR0VzMXV4bk1qblBYaWZIQzdTRzlTSDlyWEVzTDN2N0tZLXFoRFNZN3cxWG1HZzAxUXY1eFRLZFRySVRjT2o2MzMxdHVVQmdyeTdON296ZGZPUkh4eWdjY05rT1pQSUtfb3ctTFRGVkZTVVBvTVpJdDhQelJscktMSFZlOXlFb1ROS2c?oc=5",
       "pubDate": "Sun, 26 Jul 2026 19:35:00 GMT",
@@ -975,19 +980,6 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbG5MZnVkTTF3aXZjbzJaVnhiaU9uNUZQcVdyeWZwejktb0x1NG5IaTB0RWs2Z0tncXhTMlZ0bm9xREZENVktZzRhSXFZNkpuVTJrRnFKZ0VOVFF5ZnAxOFkwUHRTUkhiQ3ROWEhxZnl1dVRNT2d0YmxMb0RsbWh3T2Z4Y25KYnZWTWdJZ0hySURwSnYz?oc=5",
       "pubDate": "Sun, 26 Jul 2026 09:00:31 GMT",
       "description": "Book Review: ‘Albert Sabin,’ by Karen Torghele The New York Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Vaccine-Preventable Diseases in Hospitalized Pediatric Populations on the Rise Nationally - Infectious Disease Special Edition",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTFF6VmsxTWFjTWpILWtHVHNkTElpbm9tT0pxUjEyM281NFl2T0lZaURObTgwdzZIeENQbjlhSk1vLXJ0UW5CdjZQUWQ2VU8yZW9acUJzRWltNGFqV3VlcW5YdnlJQlpOREs0SVlWOE5MV0ZIMkNUSmdDMk5zc2R5d2JiX0lpeTVoYUR5NDY5WXpYY1k1ajV1M3lVTEQyaFQzLXlaWkREUWp5TlNIaDlqUm83QUo?oc=5",
-      "pubDate": "Sat, 25 Jul 2026 04:00:10 GMT",
-      "description": "Vaccine-Preventable Diseases in Hospitalized Pediatric Populations on the Rise Nationally Infectious Disease Special Edition",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
