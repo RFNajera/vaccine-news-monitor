@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-28T03:32:53.900Z",
-  "itemCount": 83,
+  "updatedAt": "2026-07-28T05:27:12.647Z",
+  "itemCount": 80,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 6
+      "count": 7
     },
     {
       "key": "flu",
@@ -35,10 +35,23 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 51
+      "count": 47
     }
   ],
   "items": [
+    {
+      "title": "California sees summer uptick in COVID-19 cases. Here's what we know - ABC7 Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSG9xcHdWY2E5Y2l2SWpqeDR5dEl0ZFpmNWkxT1lDTWRoY1p6T1BfY00yaWw4NGtvVDJiWHFhV2RVOXlSX3J1d05kSWN6ODhoWFdsRGwzVEVTM1M2dlJHUDhHaFE0WHRCY0toR2dsb2tCR3plNGpaUzZXLWdYaDBMbkVRc3FfNmNkZmNiakJIV3NXMmtOcW9GUG1iVU9hMkdHdGJSbVZn?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 04:11:49 GMT",
+      "description": "California sees summer uptick in COVID-19 cases. Here's what we know ABC7 Los Angeles",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "MMIR vaccine rates for children continue to drop, measles cases climb - 5 EYEWITNESS NEWS",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVVNFRTZnYlRZUEhTT0pNcXRLVVR5bGpXQWpfNFVtRmR3X0xJcURtRHJzQkhGZmlaNExpY1VfM05kQXI3YUtQMnpXWVlqTmF5M3pPd1QxX3M3VHFCMjg2bE1DNjhQMDhpeHQzN3VUc1RjT094YmZXaVBhaWc0UjZqQXBTeERsQ3dKS3BsakZRaE11Y1ZzRWdraFpXZWFLSlZjVHJHejNtRDk?oc=5",
@@ -118,19 +131,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Trump Turns Up the Heat on RFK Jr. to Cut Back Childhood Vaccines - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOGxaZDRzX1ZjcHBCaWtUaHdtUXNvYkhlNHZCeFBrcGpLdXFkcVRLdWJwU2ZVMllocVB4aDVQVDZXNEZMV0VzY2dpSTJnd2o5bkNubzFXT0M1VWlBLWJoNjhtUEhrNFl2VWNsclFLRGpFWXlrWnBicGlCVDdCdUJocWRRSGg?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 01:00:00 GMT",
-      "description": "Trump Turns Up the Heat on RFK Jr. to Cut Back Childhood Vaccines WSJ",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Insurers Extended Their Vaccine Coverage Pledge Through 2027, But Parents Should Still Check Plan Documents This Fall - Medical Daily",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdUc4Tk1UdGUwQ21ISl82Q0c2a25ndEg3MENxMWRCY1Q2Q3dZcE53MXRxeFdTY0ZkQzVnMl9wc1hmYjBIU21oRWJjS1FYSVNZS0tYeWUxTDRJeFlKcHAyb3RGcm1LMkFUdHo5YnZqS0hLVHZWd2E2Y0VoeGN2Z2FGMzVNY0lVRmFhUjRuR2p0bWNOb0dzcEVwbFZUbzBaSVFN?oc=5",
       "pubDate": "Tue, 28 Jul 2026 00:00:35 GMT",
@@ -159,7 +159,7 @@
     {
       "title": "Delaware County, Pennsylvania, launches mobile health clinic to offer measles vaccines - CBS News",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYl85NlVLZWRlZHlXNS1FOHpzNUJrOW95ZWRvTUFUUHhvTVhuR1JpU290dHNlcTNPN1B1OWg1WmRUN0l1UWNBV2RxYm5QQVlkbE13S1ZuX01fZnVweG5mbjU5OC00Z196U002OTlaeXh4WXhjQjFzaXhudFZxRkV4NTBDaWJkb3lDS3hWeXRlUllfdw?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 22:51:45 GMT",
+      "pubDate": "Mon, 27 Jul 2026 22:51:00 GMT",
       "description": "Delaware County, Pennsylvania, launches mobile health clinic to offer measles vaccines CBS News",
       "source": "news.google.com",
       "sourceType": "news",
@@ -192,6 +192,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Jefferson County Department of Health vaccine clinic to fight uptick in measles cases - wvtm",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHU1UU05WU1VY3VpTElFczVtdU1EbGoxa1BlaFVLbEVpbkFpMHpSQ0JuQm1TSlNrQlUyN2JrLTgzUkx3eEh0aVpadEZnMDBQcFNETldIRHpPdlJOWWxYODFvb3RhTEdUblR0ZHQ5cGJ2a3gxLTgzazF6bUthZm14VTRGRDc1UnZZSVNyQUF1RldrRHRNZUNROTlFd3lNS3hmWXRlSVFjd0VDbU9xUmhn?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 22:26:00 GMT",
+      "description": "Jefferson County Department of Health vaccine clinic to fight uptick in measles cases wvtm",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -248,10 +261,10 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Jeff Co. Dept of Health vaccine clinic to fight uptick in measles cases - wvtm",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHU1UU05WU1VY3VpTElFczVtdU1EbGoxa1BlaFVLbEVpbkFpMHpSQ0JuQm1TSlNrQlUyN2JrLTgzUkx3eEh0aVpadEZnMDBQcFNETldIRHpPdlJOWWxYODFvb3RhTEdUblR0ZHQ5cGJ2a3gxLTgzazF6bUthZm14VTRGRDc1UnZZSVNyQUF1RldrRHRNZUNROTlFd3lNS3hmWXRlSVFjd0VDbU9xUmhn?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 21:40:00 GMT",
-      "description": "Jeff Co. Dept of Health vaccine clinic to fight uptick in measles cases wvtm",
+      "title": "Ohio health officials push measles vaccine as cases climb - NBC4 WCMH-TV",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYkNwaU1aQV9CRll0ZzFEaUE3NmViUEh6cjJoRkY5VzZ6cnB3ZGdzNnNSMTl5QzNSbXczVk80YUlxLS1xcWtDVVlMcklWd3VyTUxYRWpPa2ZULUhqblo5aTVBOUM2dVhocUpWNW1RdHhtWnNHY0NDc2dnOWRXMTk3UlIyNDB6WDhkQjJ4LXFwMTcxTkhQN01uYXJVMEdOMkdMUmdmSXZyS0zSAa4BQVVfeXFMT1FxdnJHUXV4RmxzaWFQUEx4YklzbmVxelRNSzJmbUZ6YXhNSzJGZFFROUFpTzRya2VjcldkNkhoR2VyRGlSYS0zLXUyTWxCZWhIcjRIYXR2ZWZIcFdTOFpvWGVsNWpHS3hHVEw3ZWd0M3NmWjhYTy0zMzRiWk14cVhsQkRzemtmUG4tYlhObElpTk03OFZpbks1VUpfVFJPUzdPSDlLRTFUcVF3VURB?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 22:00:00 GMT",
+      "description": "Ohio health officials push measles vaccine as cases climb NBC4 WCMH-TV",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -348,19 +361,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "The worst year for measles in a generation - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNREVJQnFkZ01NVHBPbFUwa243M2RaamRCUjR1TWF3d3AwTFhMNmhMMWFIdjZad3c1TXpPcW1aNExDWGNNS1ZjTWRPdmdYSlI5Q2I5LXlSZG1tWjhEbXlWRXJpUFFKQTZxRkVNSjBQemg0eUR6LVFJSXl0UTlQejRJWk1OVnZBUHlmSG9R?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 20:50:00 GMT",
-      "description": "The worst year for measles in a generation Yahoo",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -495,6 +495,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Trump Turns Up the Heat on RFK Jr. to Cut Back Childhood Vaccines - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOGxaZDRzX1ZjcHBCaWtUaHdtUXNvYkhlNHZCeFBrcGpLdXFkcVRLdWJwU2ZVMllocVB4aDVQVDZXNEZMV0VzY2dpSTJnd2o5bkNubzFXT0M1VWlBLWJoNjhtUEhrNFl2VWNsclFLRGpFWXlrWnBicGlCVDdCdUJocWRRSGg?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 18:12:45 GMT",
+      "description": "Trump Turns Up the Heat on RFK Jr. to Cut Back Childhood Vaccines WSJ",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "USDA to drop oral rabies vaccine baits in Carroll County starting Aug. 19 - Your Ohio News",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc0ZkVW9KSl9tUU55Ulc3TEVLQkZlaWh3RWFTUEJMb2RJU3FFbmM1SDljLTVzYmxSNS1rT2Y0TnhOblJLdGNVcVBWQmZ0bE9vZHJTVGZrejhEbjk0M25idTV4aDd1QmFVZ1VXdk42RjFsVDk2ZTBtb21KUEZuNTB5QW85bnBGejRkYlluanZOeXlaMUdFSURyZzhhWmFLZnNMbnNJTUVrZDR2THhHbnJVUE04VEYxbHBqSXc?oc=5",
       "pubDate": "Mon, 27 Jul 2026 18:04:49 GMT",
@@ -548,22 +561,9 @@
     },
     {
       "title": "First volunteer receives Ebola Bundibugyo strain vaccine in trial - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzcTI1aF9UQm9CZ2pydHUwSDVpdWlKM0FUQ1k3STZQYWFOaU01WHJWV2prQm5mSkNaRjBRSlNOcXIzV0RjenlGalptNnk3X3phYThPbGM5Yl9KVkplcThhalVvXzRDTEk?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 16:35:07 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyS0p3cjFCazZsWlctbWdtSG1tdmxSeVpMcy1xbnB5aFdrOWtqS3pfODc3R2FfbnMxMTJKcjljczdoc2lWcVhtc2dUcWNQc3lsM3BMMW9WWEUzZTNXZzZZMzB3dGdWdw?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 16:33:37 GMT",
       "description": "First volunteer receives Ebola Bundibugyo strain vaccine in trial Reuters",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
-      "title": "First volunteer receives Ebola Bundibugyo strain vaccine in trial - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd08xU2RDNm1KXy1RVzF0enlrZWt6Z0pEN0lfV2gwUnU3ejVOWmktVmUwS2JyWUt6MkczTDF0azhXN09fdXJPcjlmUWZiejRwSDNTS05iWHlCZlRhZXAwdkNqTVFIZ0w5b0NZeHpiZ1FNdENfYS1Zb3ViZndPYTFUVTJ5Z2JxUXBHbjg0OU9WWlcyTUxQ?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 16:20:50 GMT",
-      "description": "First volunteer receives Ebola Bundibugyo strain vaccine in trial Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -651,10 +651,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "'Amnesia' about measles risk pushes growth in US infections - DW.com",
+      "title": "'Amnesia' about measles risk pushes growth in US infections - dw.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPazRpSW9vZEJILVRzWDF4RF96b3NDaHBIQm1FWU1ITjUtSERaSHFLR1RTYWNZUkxjM28wdndJaWwwU3BCeGNlNG9QS0JEWVh3NnpKS0NqZFlKSjZQUFFUV1NaWG5DdTNvak9fcV9ZQ2Jwa0hvTFV2WVFGNXR1aWwxX2xROTJzbkJHellWYV9jemFhUlBkQnFPeWx4QmVnNUpERHdJajFqSzhnMU1iY2JKT0FSbmQ3eDDSAbcBQVVfeXFMTWZPRWdtRGtCelNSUElLaEYzM0NrWnlOLVlwaklGU2tYeENadWpVSUQ5NS1BOTlwZXg3eHkxNW1LclYyY1ZkX3hHejl2bVljUXVPdkZYYmxLWTBINjRPaDhBaG9YTzRYWGJLQjd6d1p1ck8wczc0MmtibnJ5bUZhallQRXB1OEc4Z1M0VnBvM1c4OG5SNnNlcXppd1MxZjdBRXdIQ2JyRG4tX0lRcWVVTm5HS0JEcHBR?oc=5",
       "pubDate": "Mon, 27 Jul 2026 14:59:50 GMT",
-      "description": "'Amnesia' about measles risk pushes growth in US infections DW.com",
+      "description": "'Amnesia' about measles risk pushes growth in US infections dw.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -716,19 +716,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Experimental Ebola vaccine enters first human trial as Congo outbreak worsens - AnewZ",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQzYzMXRBY2hadlpUNmpzQVJaM1llc2dGUFJyUUN2SlotVkVNbXpqV2QyNkgxMlBJU1YwM3dqSE1FOTBQR3MyNk5LMXByWWxLV1RWYVNZSDdoVXJZZlczOWJuSUFRU2VOdW9fYWJXcmVyZXdDM1JDX3N1WG1NeVFzT1JDYmlNd1B4QTZRMXo0WjFsX2sw?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 13:43:00 GMT",
-      "description": "Experimental Ebola vaccine enters first human trial as Congo outbreak worsens AnewZ",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "How vaccine skeptics use storytelling effectively to create powerful but medically inaccurate messaging - The Conversation",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRFEwNmlXVnRnajcyTll2VENuZHlCY19MM2pQWU4yX0VEQ0dyd08xMEstcV9PVjd1cEI3NDFjZjVhWGFJclBRTUdTM01FUGlJaHJ0aUJ0TEg3SjllQkFickFXTG44aXhNLWpNdC1kSWlUQTNoTGwzdlZXQThoUFVnMlZCR0RvaXpSRzY3SHQ5X1NDa1hlTnNfa1RtWG1VSTFqS0ZuZ19NM3FPNVVzMk91SVdVbUtBOGp6SWFPX1h5WXE0RXRnRXRDRGVCWGdxWk54T29qUQ?oc=5",
       "pubDate": "Mon, 27 Jul 2026 12:40:34 GMT",
@@ -781,36 +768,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Ebola surges past 3,200 cases in DRC as Oxford begins first vaccine trial - RFI",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRVBjYThxOGY4bUJKVGs4UjVHc1V5X0ZmUkdZdXpUVGt1QmEta3ZvU01OTHp6TlNISTF1YWdBOFQtR0NaWjE0MDNYM3pSY0tCOEdjVTFUQlk1Q1I1RmRjMHp4cC11VlhSaWZwMTJ4c0ozVGszUWcxWXpVSm5LN3hOaFBka2ZweXJkbzlkUE1OYWlqX3NFbEE1d0JBdU5GRzl5WkN1VzBkTVRUSjBIdWJxaQ?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 10:29:46 GMT",
-      "description": "Ebola surges past 3,200 cases in DRC as Oxford begins first vaccine trial RFI",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "Experimental Ebola vaccine administered to first volunteer - Nursing in Practice",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNGNHSk9JRUI5Z3JONG5XMGljWVliNmd2aXJMelFBakU4NVJBckhfRF9VTGhLbE94MkJUdHJqalR6RjVXTmpfNERwWXJ4LW5VX2dsaGVNakowSDR0M0pnaVVGTkxtNjllWUFhSE5MMjJ6dXVPcEcxMVhTc180c1luaTh0R1hNVDBkbEdOelNkeGtNUEM2UHZtVWpQSXpJN05jWUwxNnFPdGtpMzJhbXF0S0MyMUdzV25VeGt1MXhpLWFWc09HYkVF?oc=5",
       "pubDate": "Mon, 27 Jul 2026 10:22:33 GMT",
       "description": "Experimental Ebola vaccine administered to first volunteer Nursing in Practice",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Call for stronger powers to reverse decline in childhood vaccination - National Health Executive",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNWZyZnhxOHdUaFlPNnhadlV6VHJEXzIyNmZ2V0daTUlXSHJYN3pBXzhRc0RfTkZFYjVvdDg1bFc5b3Q4ajFnZ0VscUo5Q1o2X2pxNXREQUEyQWgyalIwb29UdlU5V1U5RnYwVTVQVkNiV0UtTVpUMDJpcUhrWk9YYTA0N0hEQ2c0ajVabWZ0WVA1OWlUcy1yS2FwWEZUekNFQjVWNjF4OW5TQzA?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 09:52:39 GMT",
-      "description": "Call for stronger powers to reverse decline in childhood vaccination National Health Executive",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -872,10 +833,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Congo Ebola death toll tops 1,400 as vaccine trials start - DW.com",
+      "title": "Congo Ebola death toll tops 1,400 as vaccine trials start - dw.com",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRVVmMERKN3NTSmpXbGloOEdQUXR2cG5OVGQxRXdJZ2hPZTdLTVZrNXg2bDZKY3pFMG1uNEozWXNGekVMU2ZoOWd1RERHWFBxUS1wcEZRX2d0dUFjMXJsQW5jLXZGWThMZnNvZldXMVRmWWUydm54Skx3ZkZpRkduaFEtcVB2SF9XNEt1NEdVdDZyajDSAZMBQVVfeXFMTmVZbXhCbTdESFhvQjhPRFF6SjdKdnRfTDg2ZEFNSnJRS3dpOWRwOXdCaDlQSWo5N0RZeERuVXNJNU85aV9xb0dtRmE0UXFSTHpkQXhOdTRKUDNzY1FNZFNGaHV6VE1fTWsxQWk2M3ZidE84Z0daUjczY2VJdDh4NldVUEc1c0pqcjgwV0JvUTFUU1Vn?oc=5",
       "pubDate": "Mon, 27 Jul 2026 06:06:43 GMT",
-      "description": "Congo Ebola death toll tops 1,400 as vaccine trials start DW.com",
+      "description": "Congo Ebola death toll tops 1,400 as vaccine trials start dw.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
