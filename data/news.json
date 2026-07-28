@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-28T18:53:56.614Z",
-  "itemCount": 87,
+  "updatedAt": "2026-07-28T19:57:16.705Z",
+  "itemCount": 93,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 6
+      "count": 7
     },
     {
       "key": "flu",
@@ -33,6 +33,11 @@
       "count": 4
     },
     {
+      "key": "pneumococcal",
+      "label": "Pneumococcal",
+      "count": 1
+    },
+    {
       "key": "meningococcal",
       "label": "Meningococcal",
       "count": 1
@@ -45,10 +50,75 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 51
+      "count": 55
     }
   ],
   "items": [
+    {
+      "title": "New research aims to break the ‘silent epidemic’ of Long COVID - WBEZ Chicago",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWF9wb3hrVEZZN24wWHA3bXUtdFlwYXJtOEFLYmFYelJRRmFrU0NpUVRWdlRxMEEwZy1QVWtBMm55ai1nbUN5Qk9rOVhRbnZ5bDdBWmdvUG5FaUM4RllXaHZsSnA0eWpEdUFmTEdVOC1OWjJsRHpoYWV0RzNsb3Fjekl4NFhaWnp1N2s5N1A2bHcxZVlKa3I5REhNeXJWWDQzQTR4UjdERDVUelhYTmlNaTA1cENoakRKOXhSTHVOOExpTDNG?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 19:49:00 GMT",
+      "description": "New research aims to break the ‘silent epidemic’ of Long COVID WBEZ Chicago",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Health officials urge physicals, vaccinations ahead of new school year - WKYT",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZXJhUmlhZTRmeFdQcEFwdDZ2NklUaTBrMTk4UUZPOWdYMV9EVi1od0taWl94N0kzeVJOV1dkcU1xd2x0NnY0b2UxMHVCNm84czBCb1J4aUFlQUxZbEtzS29OV0E3ODRCVzdvWmkzQTZWbHdJUUVxMVVTOVRWMFZ0a1JYVlYtbUFjNnNPZlNJd082OTZVdWR5V0ppRkpGQU9E?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 19:40:00 GMT",
+      "description": "Health officials urge physicals, vaccinations ahead of new school year WKYT",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Study Adds New Rationale for Pneumococcal Vaccination in At-Risk Adults - Drug Topics",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNHdPVUFkS2hacEl1ajhtN1JUMUpPd2pFc2hKTFRuaEVaMnhlZlQxUk9QYkpqSVFza3ZpSTRfSFZGNlVhUW9mcGdKRU5xem03b0N0QzFjNW9XdlBJZktoVHgzQy1uRGNVWS1tX05YQjdFSkF1UjhyNkt3clU5WXc3dHNCS0VSdVgyWl9Pa25ObmF6Zy1GVGRNSVA0Qkppb2R0WEJCcWxR?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 19:22:42 GMT",
+      "description": "Study Adds New Rationale for Pneumococcal Vaccination in At-Risk Adults Drug Topics",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "pneumococcal",
+      "vaccineLabel": "Pneumococcal",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Trump reportedly pushing RFK Jr to cut vaccines more aggressively - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORXp2X2NOR2ZBbm9zdm9jUnhxZi03ZWJJcGU4dG9GWVR1MU94TW5uT3QyM0tKTmlFYUdmWFBacldobWhxQmprNUQ4RkpQT1ZuNUR1SVZzajRfVncxTjA1YmpXandSeHZfUlJqYTNvbV9JUmxsRHozbHZrbUNia2FzeGNWWQ?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 19:08:00 GMT",
+      "description": "Trump reportedly pushing RFK Jr to cut vaccines more aggressively The Guardian",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "What is the ‘dose zero’? Here’s what you need to know about Pa.’s new recommendations for early measles vaccination - Inquirer.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdFB3bG1ieVl1cFVVOVVFb0hxekNFVzRwVXFNd1l6dW1FWHJ1bjZNNHNYeWVWTXVDcWRWT21xdXpLaGY5Z2U0QkUwN0NPVnFsYUt6UHQ0NGFuV2tLOFlRWkx4ekdmLUxGMUxta0E1Q2tfVzY1aVVXMzdxcXIyVWlpTHhTcEdSYVdyMDh2TUVGWllxLWZNZGFBREtqTlRyakt3TUdtTndjNFlaVEVuUW5LZDdUbw?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 18:59:57 GMT",
+      "description": "What is the ‘dose zero’? Here’s what you need to know about Pa.’s new recommendations for early measles vaccination Inquirer.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Nation amid worst measles outbreak in more than 25 years - PhillyBurbs",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQY0NnRVNkSE5uTG0yS2ZkMVZ1dFBmMHFXeUJDY0RvRlowLXlJUUgwTGQxQzBKUHNBZ2Nod3RHdjJ2dmJIU2l4ZDZrZVJsM214OWx1WHMwajlJWEY5QlhHeVpRM3E3ZkdUajliak5rS2l2R0dEM0VCRjZEbi1QelQ1TE9JSjQ3SmhVYVkxV3dMRll3Xzl4VzdZWmlkbG9ramNqaXd1NEF6QWRBT3prcV9NOFhPZGdhWXZmbExiUHp4bEtRUXBjdl8tRnZxVWNaTzVVWWRhUmtJalRtQ0J6TTliRnFTSHMwSWcwX0JoQmxiVFVLU29Zd0VkZ3FSWQ?oc=5",
@@ -141,6 +211,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "The Shocking Reason Trump Is Pissed at RFK Jr. Over Vaccines - The New Republic",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSkZWRW1zMXpQYktrd2otVGpWWkoxZGVfNUljbXQ2dE0tQTZGM1FvSm1GeFlabUtfRnlCZ2l2OTV5aXJFWHZLNHhHWVdEQ3g2eGNhX3VxeFJzcDB3SkNkNVo5MXBrbXEzRTI2Q2l6cnpPdEx0MGZEX2xfZjhmbHY0SnhXTQ?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 15:39:22 GMT",
+      "description": "The Shocking Reason Trump Is Pissed at RFK Jr. Over Vaccines The New Republic",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "South Carolina health officials encourage hepatitis awareness and early testing - WLTX",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWk9oRDMxaWlicEJxaWRySWQycVkyUUpxM2ZPcVpndE5aaHVkOEp5VXg0d0s1aHZuTHVSS3c4YWd6Z3pUbW1LOVJnWF9vb2s3cVVpNkVPLTJ3SVpvNXRueUQ1dzhQRmE0ZmhfSWtEcm9TY3dSUFk1ZjVnTWMxa3hTRTd3NEJnNU5pWXZzeWJDaU14WDMyd05GMTNCQjRPbE01QVpXbDNFT0hFbk5Kc1dCMmwwOVNCZEVUT3JlZzBQTjU?oc=5",
       "pubDate": "Tue, 28 Jul 2026 15:21:00 GMT",
@@ -154,10 +237,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Prepare for respiratory virus season by getting vaccinated - The River Reporter",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFNzJqV0taTnBrYXZFQ2h6T2tnSHRpUEd1VkNWMUVPMDBGSnlyREJwWWNEWmcwMWwxdVBuREd4MXdrelRHTTY1V09sUm1YamR1OFJoZWM1N1doY1JCNVlVTFd3?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 15:14:00 GMT",
-      "description": "Prepare for respiratory virus season by getting vaccinated The River Reporter",
+      "title": "Dyadic develops Ebola vaccine antigens in 15 da... - Pluang",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFBqdllreTFPOVlPcW1VZ3ZpWnZqdWxiakk0UnNza0hQR1hzX3pkQ0hYWEJrQm1QNlF1VE9TRG5yWF9ZOVkyT3NobUp5a1d3M1VjOHRNUXRSaXFGS3d1VVQzUXMybzlyRk5CbUxaRmhPR3oyX3ZzVVZHbktYVjkyeFdXd0hZeXFvdjgzVXhsM0tSQ2gyUFh3VEVWaVl6Zm8zMzByQm44b3NSN25UeVZhWUFR?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 14:43:13 GMT",
+      "description": "Dyadic develops Ebola vaccine antigens in 15 da... Pluang",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -778,19 +861,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Egg-related Salmonella outbreak sickens nearly 100 in 17 US states - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ2NYZjd5dC00RUxPaGV1OF9HSTAySlBZZy1ScXBfOG1xQnlGRU9QYXFINVNWbUVocm5VR2RKaGQ5TDBnT1JJdnZoeVJrZk5zbUVYbVRVaXpGT1pRWUNLcS1CSE43RlRMV1puOHFjb1BBVzVGSE96My1saC15SjBYVDVaTVNsNG1RQlVKRHNtMjNfdVJuSk9LRE9pMTgwcDFsREdBbldILVNqc0kx?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 20:19:00 GMT",
-      "description": "Egg-related Salmonella outbreak sickens nearly 100 in 17 US states CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "First volunteer vaccinated in Ebola vaccine trial - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbVNnZjExWkZSZ3BGYkVoNjh1NmVsWEwtVmdUZHZWT1RNYUEtT2ozRWxXdFBKZVZ2UlRDaGQtVlRyQ3ljY2FMVXB0ZXMzb3VQZnhQZ3JOX0szUGRfYmJidXZQLVJkTG43bFVTQXlTM1BqYk1YZS1JaW5jNy1UdGgyN1lfRkdaZw?oc=5",
       "pubDate": "Mon, 27 Jul 2026 20:17:00 GMT",
@@ -886,6 +956,19 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUVJFT0VsNU9aYVRPTVFjV3NBWXl0dEhJT3hvMElXS3hMRkpiNGgtZXc5cS1QRDRSM0xCVDAwMHE1V3NrdE5NdjJxeDZHUGpQVGd0MXVzNy1oanFmT2hhVkg5TU50T3ltQWhla3E4a2VSTWpwbC1PN2VTcFRKX2pwM3RxV3VFYlhFbW9kNjJBYV9xZ3NVQ1kzQ0EwSEtJcWw3SkVIZ2t0czlqc3NBVjFSYzgtUjRGY0IzcmJjc3dYb2xDMW1t?oc=5",
       "pubDate": "Mon, 27 Jul 2026 16:14:20 GMT",
       "description": "Vaccine mis- and disinformation isn’t just a threat to public health, but also to our autonomy The Conversation",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Existing Vaccine May Help Counter Ebola Outbreak - Technology Networks",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc0ZzWV9jUndzZTVMX0ZKanZUeFNDZXRGRVVnaHlIclVwbldGZ0JUaThPRTc3QVl4VGQtR0oxTlVQRmR1V1NsaG0tTnMzbWFUZXJYOEl4dk9BMmdiSDJXNlZVV2hBLW42RHhzbGoxU0JjNjNlNU1qX3JaLXlOLVhtNUVsc1BwbEY4UlpGSnpsZXR3bFZpS21nN0IzOXVPc2c4dDZGNWFRY0c?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 15:37:37 GMT",
+      "description": "Existing Vaccine May Help Counter Ebola Outbreak Technology Networks",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1103,10 +1186,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "The viral online attack on Pittsburgh doctors that sparked a national debate over vaccines - Pittsburgh Post-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemtLOU9JOFhOT0xmRlI5dFE3cE1Eb3MtRUtPQnQzanprc1pxS2hnbjJkeHJ5WlNTcTNsdmtsTldYNHJVWjVuWXp5VkNZd3NpS3RkZXdOdVZvcmExWm54b2JpYXA4WGZMRGxndXlQWlNncUFjMnkzQS1VMG1kMVBsVjVFWnNrVTNnMTN0YmhrT2pJZzdGRTROOHk5VmVnMmc?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 19:57:02 GMT",
-      "description": "The viral online attack on Pittsburgh doctors that sparked a national debate over vaccines Pittsburgh Post-Gazette",
+      "title": "He Was One of America’s Most Important — and Most Divisive — Scientists - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbG5MZnVkTTF3aXZjbzJaVnhiaU9uNUZQcVdyeWZwejktb0x1NG5IaTB0RWs2Z0tncXhTMlZ0bm9xREZENVktZzRhSXFZNkpuVTJrRnFKZ0VOVFF5ZnAxOFkwUHRTUkhiQ3ROWEhxZnl1dVRNT2d0YmxMb0RsbWh3T2Z4Y25KYnZWTWdJZ0hySURwSnYz?oc=5",
+      "pubDate": "Sun, 26 Jul 2026 09:00:31 GMT",
+      "description": "He Was One of America’s Most Important — and Most Divisive — Scientists The New York Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1116,15 +1199,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "Surgeon General suggests high measles counts could be tied to abortion opposition - Florida Phoenix",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWG44NkZ2d1lfWFhYV0NYbHpqRDR2NFRnSnprQk5yaTRuNGFDeVpBcmllSUhKQmR5M0FZSUpORWw0NUxUblFqdkM2SDBtZjRKdDlocmFwWmJWbzh4OVEtREl5RlJTREUyTE8weS1GSmRlaGE2bTJfcDhkamNtRVQzY21JdVJnY1RlRC0tUnd0TDhmb3NzWUNMNGlmOU1oaHI2b3oxQ3BTSjdWQWpBNHpUTm12eUdDLUZvV3duNQ?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 18:44:53 GMT",
-      "description": "Surgeon General suggests high measles counts could be tied to abortion opposition Florida Phoenix",
+      "title": "The viral online attack on Pittsburgh doctors that sparked a national debate over vaccines - Pittsburgh Post-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemtLOU9JOFhOT0xmRlI5dFE3cE1Eb3MtRUtPQnQzanprc1pxS2hnbjJkeHJ5WlNTcTNsdmtsTldYNHJVWjVuWXp5VkNZd3NpS3RkZXdOdVZvcmExWm54b2JpYXA4WGZMRGxndXlQWlNncUFjMnkzQS1VMG1kMVBsVjVFWnNrVTNnMTN0YmhrT2pJZzdGRTROOHk5VmVnMmc?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 19:57:02 GMT",
+      "description": "The viral online attack on Pittsburgh doctors that sparked a national debate over vaccines Pittsburgh Post-Gazette",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
