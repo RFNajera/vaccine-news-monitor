@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-28T12:06:15.808Z",
+  "updatedAt": "2026-07-28T13:02:09.048Z",
   "itemCount": 81,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 7
+      "count": 6
     },
     {
       "key": "flu",
@@ -23,6 +23,11 @@
       "count": 1
     },
     {
+      "key": "hepatitis",
+      "label": "Hepatitis",
+      "count": 1
+    },
+    {
       "key": "general",
       "label": "General / multiple vaccines",
       "count": 49
@@ -30,17 +35,69 @@
   ],
   "items": [
     {
-      "title": "HanesBrands resolves lawsuit over religious objection to COVID-19 vaccine mandate - Winston-Salem Journal",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN1JHWmVUeWp6ZkRTTUtoQklyVWRPYUFfZmZnMHVXOVJrWWFqMWtvTnp3ZnNoNjd1b3piQ1ZnT1FDQS0zWmZHVUc3LUZ0NWtuTkhOSlNqUFljRVVsM1FtUHlqU3NhUVhzMnhfUkpVODBqbXZGa2pxMmRDVGJncmhEaXlINzBqZ2dudU1URW1rV3lqckRxSTRz?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 08:30:00 GMT",
-      "description": "HanesBrands resolves lawsuit over religious objection to COVID-19 vaccine mandate Winston-Salem Journal",
+      "title": "Romania is drawing up a PPR vaccination plan (Peste des Petits Ruminants) - Agroberichten Buitenland",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTUlMWHlTRUk4dXZiUER4LS1pQjJ1M1dQbmF0YVBUdVl2dlJoTUNKVzVhZlNiUG10TEs5dEc5NGtEYVJudEthcWtXdWJrbUFfeXFIR3NXZkVkNUJncm9oeHA2aUdlVlhoVDNTRjlkVFRHZnpPWEdHQ3pMdkh4MXpIQ0NRZXN6NE82el9YUE12U2dGNUFVQmpKZDZfR2V1bWYycjhITHRwUlpLejJhbC1UNFcxdjd3NzRKUkZ3Zm5za29aVkRsRGJiWk40MVVBOUtkRGc?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 12:57:30 GMT",
+      "description": "Romania is drawing up a PPR vaccination plan (Peste des Petits Ruminants) Agroberichten Buitenland",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "DPH highlights hepatitis vaccination, testing and treatment for World Hepatitis Day - The Sumter Item",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOHlEaXFDU0tjWU53ak5tWE5uNGY3THJUeTBrRkpxenVCZWZheTlaQndMVi1ubVlrUDBvMnpTZTNiNXpKU0hIT3o2Qm45UGJlc0FDLV9ZYlBhN003NUN4NWtTUHRPNjBXQUpTa1RpcDk0dkk4WmdtSG1VNmZjSWRUeWZxeUNhdE5YT3hMNFhUaml5c2MwUzZ5R1VCb1NJUVNxeG1tbVMtdUtDTndhaFBOc3FYYUNxbWxfbTM0OA?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 12:36:00 GMT",
+      "description": "DPH highlights hepatitis vaccination, testing and treatment for World Hepatitis Day The Sumter Item",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hepatitis",
+      "vaccineLabel": "Hepatitis",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "US measles cases surge to 35-year high - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUDNOTXA2Z0NTM2lCZlNhSkVta2JicWJVel9PSVlKaGdPVDBMWHphTDJ6U1ZJODh3bG9TM193RnFqRE1RajNQdTQ3Qjd2a1dIeGp3S0I0R1llT1h3WVZsQ2xqSDk3TzlEX09qUVR2UERITU9DX0hkLUxlbUFMMjlubXN1TFBpUQ?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 12:24:50 GMT",
+      "description": "US measles cases surge to 35-year high Yahoo",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "https://marylandreporter.com/2025/10/25/freedom-bank-wins-an-award-in-dubai - MarylandReporter.com",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTEd2SXlTaGljZFhXZUVzU1lOc0Y3YnhpeFlpcGtyQzFQRURReDZRWVQyb2xOY1Bjd2dIX190UkdOeVctV1lQSnVjWTNFaXRWN0FQcXVadm1mVTBvYVE3UVE0eXhmWkpDT2VtRTBUazR3WUFfRWlsa3lENWlSUE5RQXlsX01nNkJOdDN5VThqY3FGS191VklxY0V5Y2RQQWx0UG9hMkZlUm4yeDd2aWVWbmJxbkFkMDRGRTN2djdnaV9WNXl3aF9tNmE2UEhDb0kyVGRIckp5ak1MNERiNUluM0stNEMyOVVmMlMtR1pNcVFLOFVFZkJwOUN3?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 12:18:23 GMT",
+      "description": "https://marylandreporter.com/2025/10/25/freedom-bank-wins-an-award-in-dubai MarylandReporter.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Immune Memory Against SARS-CoV-2 Can Be Harnessed To Fight Tumors - Technology Networks",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaWJFVmZjeGNVYmNNcnl1RUJuSlp4WkZONFB1eEdvZHM2QVJBb2l5dEtOV1d1ajlOQmtMb085aHd5N2xXemN4MlVvb1hlQ2pMcTVkV2hsNFMwNVhicTRJeFF3NDNJZjNGcGF5cXltQVVDWmppRU4zdUdScXFVZXU0cDFYc0hhdnFQVUh3N1FvR2gtT2k1dkdIajFTTG5VUE5MMnhSR1ZvR0NTa3lGYWF6b0syd3VUc3lQbGQ0R3M4MDFGTzFucmtZ?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 08:53:28 GMT",
+      "description": "Immune Memory Against SARS-CoV-2 Can Be Harnessed To Fight Tumors Technology Networks",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
-      "articleType": "research",
-      "articleLabel": "Research"
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Hunterdon Medical Center earns New Jersey Influenza Honor Roll recognition - WRNJ Radio",
@@ -433,19 +490,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Turning COVID-19 immune memory into a powerful new ally against cancer - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSndjYUo3WDlXTF9uYTR4UW1yQy1qbHVVVlRBM1dzU2V3SzNUUldSMHlVU1RvVEJudDhVLVFjVWdRUkpPalZlTXdWMk96amwzTjdIb3pvVXVYbWpwRnJmcTQ4R05SYWVYeUNWT0FxcURzTmtlU3hlVkpGMldzLUVzdmdLYw?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 21:20:02 GMT",
-      "description": "Turning COVID-19 immune memory into a powerful new ally against cancer Medical Xpress",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Wildlife vaccine drop planned for August to help slow spread of rabies - Bennington Banner",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZi1SZ2RodlR5SzQtaGtCVUtvbjlwT1BzMm5XS0dkLUFNZy1IT0t0dlVEN0xBRHRFb29LNXVLV1lzM3gwSWRVVng0OF9lNy0wY1ZmcHZkdmpOd2t3eE1DQ2RKTDRDRUxnMGN6YXBybEgwOEstUTctYlJ6eHJfTHJMQWthVTZnT21VN1Zrbi1mX2FWWFVsdUpzdDVWZm05SXRlelJQclVWTkdOTWxsbXZHS19QcWFZUE83WksxVTFKTDAzOEJUTHR2ZGczZUF1S0w2UmVOTmVocUcySkl4UkNtdVhhcHRWME5oNFF4aGRaSE1fVl8wLTVz?oc=5",
       "pubDate": "Mon, 27 Jul 2026 21:02:00 GMT",
@@ -580,19 +624,6 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcXlRcUpUbC1TWGg3OXo5cTg1TV9OMXNEeDI5XzkwR2pZNm5RRlBQNkplbGFBdHVmbXdqN2VrTEpGNzhjdmVwclFfN1lxLXY3UWI3WHZaazRfRU80czB4QmYyZ01lX210d0dmaXp0Z2VjeXpGSjU1cUFVczVGZmZUWmxTTjhtaVI0MUh3cVAtNA?oc=5",
       "pubDate": "Mon, 27 Jul 2026 19:02:22 GMT",
       "description": "Delaware County launches mobile measles vaccination campaign Audacy",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Measles outbreak raises alarms over vaccination rates - Central Oregon Daily",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObi1ZODhHRzZWWlo5MUZCXzJfWmRrZ0EyN2hiaGNaSU1xTkVkbXUxT0I5NEJfbFRYYWJKelhSY1hMM1NNa1NoUmxjLVFJc0Q4dk56cktIemh4cDVKcUxJbVk2NmhmbG1KNW1XbXQtSFVsbnNYQW9wLWx6SGpFZ3h5NWZRUDA2V1RnRVpqcHRIQzExYjk1aUZLSVMzMXFicWx5aGYyYTE5aE5MREk5YWRxUWVUXzhlZmIyb0puRmlzYUthd0w2X3lUVFNHUC00ZXBBTEltRF9IX25iV3BiVWF5QUE5bjRtcDJ4Znc?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 17:05:16 GMT",
-      "description": "Measles outbreak raises alarms over vaccination rates Central Oregon Daily",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -901,19 +932,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Mucosal immunity and vaccine development - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvQl9yb2ZiSkhha2liNmo3UVJGdU9YVVhNMlRJWGVieGpxb1FnV0hhNnJkakZSbWN1R0lyazdsMXZrT2t2Q3doOHdDdnI0YUkzWloxbldUNzBjZ0oydlpv?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 02:08:42 GMT",
-      "description": "Mucosal immunity and vaccine development Nature",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Vaccine court: Where Americans who suffer rare injury after vaccination can take their claims - CBS News",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbTFZX2V4Q2dFQmZaNzZaN1VreG1fT3dTeXdEcjVmOHBLekdvWW9tLVhwaHVkZEt2UlFoUWc5WFFxeWVMa3RDeEtGRkc4M3ZMdFduQmtsY1I4VGoyTTRBWUFQaFBxUUpfd0xBNmhGTTdqV3l4QmJwLVQ0YlFIa0gwMUZtTXlqdHk2X3JxUE55bWV4Ymo2YTYtZ19uaTF5bUVmQ1RXRDZFcEFaTm5WNFNtOHp0Q1NvSk1xYjNYZXVfczVXcV9yN0pPQXRmU04xUE5XcFFsYlZB?oc=5",
       "pubDate": "Sun, 26 Jul 2026 23:00:13 GMT",
@@ -996,19 +1014,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcXlZTUdvUjd6QmxBQUFZOUhhTk5hZUNjaUJFSkpNV0xwdF9ueFAyX0xHYkNSSEZ2XzVROU40Sl9UcjIxRkRSeTFhNzhmUEZoVV9Dc1pnUHBWUEt6U2dxSnFvRG5ZdFJWcTFmX25SdXNKdHpsZ1prQjhrVXQzZ3kwSmFGbUl0aU11NFcxSTBkUFBLUi0yalBoOXQ4M2xnbkNWcGotLXltcU83MlZvSmsyeURpNzlIWFlzdGNFTXh2Y3A?oc=5",
       "pubDate": "Fri, 24 Jul 2026 21:03:22 GMT",
       "description": "One immunization may protect newborns against 2 serious diseases CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "The viral online attack on Pittsburgh doctors that sparked a national debate over vaccines - Pittsburgh Post-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemtLOU9JOFhOT0xmRlI5dFE3cE1Eb3MtRUtPQnQzanprc1pxS2hnbjJkeHJ5WlNTcTNsdmtsTldYNHJVWjVuWXp5VkNZd3NpS3RkZXdOdVZvcmExWm54b2JpYXA4WGZMRGxndXlQWlNncUFjMnkzQS1VMG1kMVBsVjVFWnNrVTNnMTN0YmhrT2pJZzdGRTROOHk5VmVnMmc?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 19:57:02 GMT",
-      "description": "The viral online attack on Pittsburgh doctors that sparked a national debate over vaccines Pittsburgh Post-Gazette",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
