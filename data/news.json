@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-28T05:27:12.647Z",
-  "itemCount": 80,
+  "updatedAt": "2026-07-28T07:21:00.416Z",
+  "itemCount": 78,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 7
+      "count": 6
     },
     {
       "key": "flu",
@@ -35,10 +35,23 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 47
+      "count": 46
     }
   ],
   "items": [
+    {
+      "title": "Health experts: State’s high vaccination rate is keeping spread of measles in check - Maryland Matters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS2ZkVlFmOFpndE84SGpqNmlGQ1F2VGFfWjFSNGFjc0hZeC1QZndXZ2M5MEtMYUFxZTJWS2ZHNDQ0ck53ajFmcG10bFBfVlgyZGg5QmhFTUc2OU85S0NGZzA2U1hhamF6c1lkVUg2QWlMQ3pHVURsTk1kNVhBVndNSlJrTUwwRXpBY19lMTdGdExhUEFiU1ZmUkxsZTFhX05tVjNaVnp2aXdGdHlnUnMtX3hRdjV6T21Ub1JpVU5R?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 05:43:27 GMT",
+      "description": "Health experts: State’s high vaccination rate is keeping spread of measles in check Maryland Matters",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "California sees summer uptick in COVID-19 cases. Here's what we know - ABC7 Los Angeles",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSG9xcHdWY2E5Y2l2SWpqeDR5dEl0ZFpmNWkxT1lDTWRoY1p6T1BfY00yaWw4NGtvVDJiWHFhV2RVOXlSX3J1d05kSWN6ODhoWFdsRGwzVEVTM1M2dlJHUDhHaFE0WHRCY0toR2dsb2tCR3plNGpaUzZXLWdYaDBMbkVRc3FfNmNkZmNiakJIV3NXMmtOcW9GUG1iVU9hMkdHdGJSbVZn?oc=5",
@@ -49,6 +62,32 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Seneca County Seeks Public Input on Adult Vaccine Records - Finger Lakes Daily News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnhHZ0lEclh5djcyLWVRXzZRSjVxZHc4SzZkOVNEVHM5QzlIRVVOSXEtUnUzRXNTdXNNN2VnVkFOQ3BhRUp4YXlKTEVrOFFwU2hNY1l3aXNfX29VMWtkSEdiX05NUWNCX2V4ME11cWEzc2lSZzl3a2E4MnZnNnZoQjhlZVpBWERMVGRZOTNGckczMnlXclRBb3NxSGpadDE2eTFR?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 04:03:34 GMT",
+      "description": "Seneca County Seeks Public Input on Adult Vaccine Records Finger Lakes Daily News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "How vaccine skeptics use storytelling effectively to create powerful but medically inaccurate messaging - The Anniston Star",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPakZXc0VueGZiMzBTc1I5VWYtZnBsXzlZdnpHS3c3MzdFM2FjS2Utd1Rqa29nNGxEZ0g1Q3V0eXN6VDV1UHRnUzRKSVNwd1lqcnJJVUh2VjlvdDNCU3BKY2U0dUd3bXU0VHJDUFROb0lnU3RGbVJiNWlmNVhDazdIU1MtUU1iWE9TLVk3YWNaYzFFQ01mbUtOUGhwRHk1Szhybk1hTWRobHhfWGxOUFNXODc3b0NRZTRtdnZLLVRucUhIaDVYeF82RjJnRm1tQVVDWE5uWDJlZFdPckdzd3VtekZGaVhmcjJYQVBTN3dCaVNWUmNzMkdXNXVhN2xzb0U1MkxBaTRya3dQMDk4YzhGd00tc1FvSFRjaWhlZFdQNzIxdnMwNTYw?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 03:59:31 GMT",
+      "description": "How vaccine skeptics use storytelling effectively to create powerful but medically inaccurate messaging The Anniston Star",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -127,6 +166,19 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Trump Turns Up the Heat on RFK Jr. to Cut Back Childhood Vaccines - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOGxaZDRzX1ZjcHBCaWtUaHdtUXNvYkhlNHZCeFBrcGpLdXFkcVRLdWJwU2ZVMllocVB4aDVQVDZXNEZMV0VzY2dpSTJnd2o5bkNubzFXT0M1VWlBLWJoNjhtUEhrNFl2VWNsclFLRGpFWXlrWnBicGlCVDdCdUJocWRRSGg?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 01:00:00 GMT",
+      "description": "Trump Turns Up the Heat on RFK Jr. to Cut Back Childhood Vaccines WSJ",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -365,19 +417,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "WATCH: Measles outbreak raises alarms over vaccination rates - KVNU",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYUxBOU4tTkMwMkJnOHlJM2Jyb0pqMndtdGNuQ0JmZkw4Zi1JcW92amhKVnRObE5sMTRuckVvSVVPTFNneUZYRWZwRDZMM0ZMbmdkU1VmckZMUXEwZ0dRSXhBN2RKZTdvMUZhdHNZMkRHNVZqeTNLS1lUSlM2eFdSWmRYamJ2SmtC?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 20:47:51 GMT",
-      "description": "WATCH: Measles outbreak raises alarms over vaccination rates KVNU",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Pertussis: Study highlights safety of Tdap vaccine during pregnancy - Association of Health Care Journalists",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQalloY1JZV3VpSW1BRXd2SllfUlhLT3U2QVhGVGZEcW1rWFJGb1dxeUdLc2liUFhKNGJhS0NtcEYyRlBOdVQ3TTJMWXI3RjdkS2VwVloyOHBIbmZvdndPUkNrNDZMbFo1R1ZtZFctRk1zOWcwSUtodERtdEdUaXcwdTFON1VlYWVMd0VuT2JLNzZ1TDNwNU9Ja1lPc0lPeGc0?oc=5",
       "pubDate": "Mon, 27 Jul 2026 20:41:09 GMT",
@@ -495,19 +534,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Trump Turns Up the Heat on RFK Jr. to Cut Back Childhood Vaccines - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOGxaZDRzX1ZjcHBCaWtUaHdtUXNvYkhlNHZCeFBrcGpLdXFkcVRLdWJwU2ZVMllocVB4aDVQVDZXNEZMV0VzY2dpSTJnd2o5bkNubzFXT0M1VWlBLWJoNjhtUEhrNFl2VWNsclFLRGpFWXlrWnBicGlCVDdCdUJocWRRSGg?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 18:12:45 GMT",
-      "description": "Trump Turns Up the Heat on RFK Jr. to Cut Back Childhood Vaccines WSJ",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "USDA to drop oral rabies vaccine baits in Carroll County starting Aug. 19 - Your Ohio News",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc0ZkVW9KSl9tUU55Ulc3TEVLQkZlaWh3RWFTUEJMb2RJU3FFbmM1SDljLTVzYmxSNS1rT2Y0TnhOblJLdGNVcVBWQmZ0bE9vZHJTVGZrejhEbjk0M25idTV4aDd1QmFVZ1VXdk42RjFsVDk2ZTBtb21KUEZuNTB5QW85bnBGejRkYlluanZOeXlaMUdFSURyZzhhWmFLZnNMbnNJTUVrZDR2THhHbnJVUE04VEYxbHBqSXc?oc=5",
       "pubDate": "Mon, 27 Jul 2026 18:04:49 GMT",
@@ -517,6 +543,19 @@
       "sourceLabel": "News",
       "vaccineKey": "rabies",
       "vaccineLabel": "Rabies",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "'Amnesia' about measles risk pushes growth in US infections - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPazRpSW9vZEJILVRzWDF4RF96b3NDaHBIQm1FWU1ITjUtSERaSHFLR1RTYWNZUkxjM28wdndJaWwwU3BCeGNlNG9QS0JEWVh3NnpKS0NqZFlKSjZQUFFUV1NaWG5DdTNvak9fcV9ZQ2Jwa0hvTFV2WVFGNXR1aWwxX2xROTJzbkJHellWYV9jemFhUlBkQnFPeWx4QmVnNUpERHdJajFqSzhnMU1iY2JKT0FSbmQ3eDDSAbcBQVVfeXFMTWZPRWdtRGtCelNSUElLaEYzM0NrWnlOLVlwaklGU2tYeENadWpVSUQ5NS1BOTlwZXg3eHkxNW1LclYyY1ZkX3hHejl2bVljUXVPdkZYYmxLWTBINjRPaDhBaG9YTzRYWGJLQjd6d1p1ck8wczc0MmtibnJ5bUZhallQRXB1OEc4Z1M0VnBvM1c4OG5SNnNlcXppd1MxZjdBRXdIQ2JyRG4tX0lRcWVVTm5HS0JEcHBR?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 17:25:36 GMT",
+      "description": "'Amnesia' about measles risk pushes growth in US infections DW.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -561,8 +600,8 @@
     },
     {
       "title": "First volunteer receives Ebola Bundibugyo strain vaccine in trial - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyS0p3cjFCazZsWlctbWdtSG1tdmxSeVpMcy1xbnB5aFdrOWtqS3pfODc3R2FfbnMxMTJKcjljczdoc2lWcVhtc2dUcWNQc3lsM3BMMW9WWEUzZTNXZzZZMzB3dGdWdw?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 16:33:37 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzcTI1aF9UQm9CZ2pydHUwSDVpdWlKM0FUQ1k3STZQYWFOaU01WHJWV2prQm5mSkNaRjBRSlNOcXIzV0RjenlGalptNnk3X3phYThPbGM5Yl9KVkplcThhalVvXzRDTEk?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 16:35:07 GMT",
       "description": "First volunteer receives Ebola Bundibugyo strain vaccine in trial Reuters",
       "source": "news.google.com",
       "sourceType": "news",
@@ -577,19 +616,6 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUVJFT0VsNU9aYVRPTVFjV3NBWXl0dEhJT3hvMElXS3hMRkpiNGgtZXc5cS1QRDRSM0xCVDAwMHE1V3NrdE5NdjJxeDZHUGpQVGd0MXVzNy1oanFmT2hhVkg5TU50T3ltQWhla3E4a2VSTWpwbC1PN2VTcFRKX2pwM3RxV3VFYlhFbW9kNjJBYV9xZ3NVQ1kzQ0EwSEtJcWw3SkVIZ2t0czlqc3NBVjFSYzgtUjRGY0IzcmJjc3dYb2xDMW1t?oc=5",
       "pubDate": "Mon, 27 Jul 2026 16:14:20 GMT",
       "description": "Vaccine mis- and disinformation isn’t just a threat to public health, but also to our autonomy The Conversation",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Seneca County Seeks Public Input on Adult Vaccine Records - Finger Lakes Daily News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnhHZ0lEclh5djcyLWVRXzZRSjVxZHc4SzZkOVNEVHM5QzlIRVVOSXEtUnUzRXNTdXNNN2VnVkFOQ3BhRUp4YXlKTEVrOFFwU2hNY1l3aXNfX29VMWtkSEdiX05NUWNCX2V4ME11cWEzc2lSZzl3a2E4MnZnNnZoQjhlZVpBWERMVGRZOTNGckczMnlXclRBb3NxSGpadDE2eTFR?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 16:00:34 GMT",
-      "description": "Seneca County Seeks Public Input on Adult Vaccine Records Finger Lakes Daily News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -642,19 +668,6 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSmZwYWlhUDRMeDZzYS1VMnZPeXFCU1E3Qk9mTDBJcEFHZVRrTEFsb0ZWWVVURUZHWHFXTzRUc3RNMWtYOE1GTXVkbWlkTnhTNldPblJrMVFhbF8xWXF6eWstNGZpVHktb01nVU02elZ0RmhoSkZJdmt1LXVuM3IwYjZsOWxKVHMzTFZkZEN3di12V1hieUJwNkVyUXFHbm5QRGl2bUJhbzRKNWRrY2J3YUlXbWJncF9ub01RbkwyOER0N2ZCcmJ4YQ?oc=5",
       "pubDate": "Mon, 27 Jul 2026 15:04:09 GMT",
       "description": "Florida measles cases not over as school is about to start Naples Daily News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "'Amnesia' about measles risk pushes growth in US infections - dw.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPazRpSW9vZEJILVRzWDF4RF96b3NDaHBIQm1FWU1ITjUtSERaSHFLR1RTYWNZUkxjM28wdndJaWwwU3BCeGNlNG9QS0JEWVh3NnpKS0NqZFlKSjZQUFFUV1NaWG5DdTNvak9fcV9ZQ2Jwa0hvTFV2WVFGNXR1aWwxX2xROTJzbkJHellWYV9jemFhUlBkQnFPeWx4QmVnNUpERHdJajFqSzhnMU1iY2JKT0FSbmQ3eDDSAbcBQVVfeXFMTWZPRWdtRGtCelNSUElLaEYzM0NrWnlOLVlwaklGU2tYeENadWpVSUQ5NS1BOTlwZXg3eHkxNW1LclYyY1ZkX3hHejl2bVljUXVPdkZYYmxLWTBINjRPaDhBaG9YTzRYWGJLQjd6d1p1ck8wczc0MmtibnJ5bUZhallQRXB1OEc4Z1M0VnBvM1c4OG5SNnNlcXppd1MxZjdBRXdIQ2JyRG4tX0lRcWVVTm5HS0JEcHBR?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 14:59:50 GMT",
-      "description": "'Amnesia' about measles risk pushes growth in US infections dw.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -768,17 +781,17 @@
       "articleLabel": "News"
     },
     {
-      "title": "Experimental Ebola vaccine administered to first volunteer - Nursing in Practice",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNGNHSk9JRUI5Z3JONG5XMGljWVliNmd2aXJMelFBakU4NVJBckhfRF9VTGhLbE94MkJUdHJqalR6RjVXTmpfNERwWXJ4LW5VX2dsaGVNakowSDR0M0pnaVVGTkxtNjllWUFhSE5MMjJ6dXVPcEcxMVhTc180c1luaTh0R1hNVDBkbEdOelNkeGtNUEM2UHZtVWpQSXpJN05jWUwxNnFPdGtpMzJhbXF0S0MyMUdzV25VeGt1MXhpLWFWc09HYkVF?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 10:22:33 GMT",
-      "description": "Experimental Ebola vaccine administered to first volunteer Nursing in Practice",
+      "title": "Ebola surges past 3,200 cases in DRC as Oxford begins first vaccine trial - RFI",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRVBjYThxOGY4bUJKVGs4UjVHc1V5X0ZmUkdZdXpUVGt1QmEta3ZvU01OTHp6TlNISTF1YWdBOFQtR0NaWjE0MDNYM3pSY0tCOEdjVTFUQlk1Q1I1RmRjMHp4cC11VlhSaWZwMTJ4c0ozVGszUWcxWXpVSm5LN3hOaFBka2ZweXJkbzlkUE1OYWlqX3NFbEE1d0JBdU5GRzl5WkN1VzBkTVRUSjBIdWJxaQ?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 10:29:46 GMT",
+      "description": "Ebola surges past 3,200 cases in DRC as Oxford begins first vaccine trial RFI",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
+      "articleType": "research",
+      "articleLabel": "Research"
     },
     {
       "title": "The Dendritic Cell-based Vaccine PROTEXI leverages Antiviral CD4 T cell Memory to boost anti-tumor immune responses in mice - Nature",
@@ -833,10 +846,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Congo Ebola death toll tops 1,400 as vaccine trials start - dw.com",
+      "title": "Congo Ebola death toll tops 1,400 as vaccine trials start - DW.com",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRVVmMERKN3NTSmpXbGloOEdQUXR2cG5OVGQxRXdJZ2hPZTdLTVZrNXg2bDZKY3pFMG1uNEozWXNGekVMU2ZoOWd1RERHWFBxUS1wcEZRX2d0dUFjMXJsQW5jLXZGWThMZnNvZldXMVRmWWUydm54Skx3ZkZpRkduaFEtcVB2SF9XNEt1NEdVdDZyajDSAZMBQVVfeXFMTmVZbXhCbTdESFhvQjhPRFF6SjdKdnRfTDg2ZEFNSnJRS3dpOWRwOXdCaDlQSWo5N0RZeERuVXNJNU85aV9xb0dtRmE0UXFSTHpkQXhOdTRKUDNzY1FNZFNGaHV6VE1fTWsxQWk2M3ZidE84Z0daUjczY2VJdDh4NldVUEc1c0pqcjgwV0JvUTFUU1Vn?oc=5",
       "pubDate": "Mon, 27 Jul 2026 06:06:43 GMT",
-      "description": "Congo Ebola death toll tops 1,400 as vaccine trials start dw.com",
+      "description": "Congo Ebola death toll tops 1,400 as vaccine trials start DW.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -963,19 +976,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "The viral online attack on Pittsburgh doctors that sparked a national debate over vaccines - Pittsburgh Post-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemtLOU9JOFhOT0xmRlI5dFE3cE1Eb3MtRUtPQnQzanprc1pxS2hnbjJkeHJ5WlNTcTNsdmtsTldYNHJVWjVuWXp5VkNZd3NpS3RkZXdOdVZvcmExWm54b2JpYXA4WGZMRGxndXlQWlNncUFjMnkzQS1VMG1kMVBsVjVFWnNrVTNnMTN0YmhrT2pJZzdGRTROOHk5VmVnMmc?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 19:57:02 GMT",
-      "description": "The viral online attack on Pittsburgh doctors that sparked a national debate over vaccines Pittsburgh Post-Gazette",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "As measles cases reach record highs, see your school’s vaccine rates - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMmJzQUNYUjZuTFFTWDhRSENIdmRmZTA0dzlHTjZkbktmUnRvN0FpdTFZYkF6WG9raEluSUZxdldSNTRlRC1ld1FZSlA5ZjhGRWdwZ1JVUF90UTljd0g0TTJMYmJUWHJtNWtDc3RPMmdlTWthc2dBUWZuOEhneWVGZW5ERy1HVGUwUXdSMjNjMjF6S1BBODFtT1dhek9MbVFzU1kwMm1rdzhIRV9jMmF0UnpxYw?oc=5",
       "pubDate": "Fri, 24 Jul 2026 19:00:00 GMT",
@@ -998,19 +998,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Experimental plague vaccine strategy protects mice with missing key immune defenses - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON2NTVGI0WUJYSlNFVm9ZbVZKblFWUTlSb3BVTzdsb0xhbmFRU1NKbGw4V2NHVmNQUXVGc3VubkN6LVJZU3pqOHA0ZkhUcDlqb2NNbXBYZXM1Xy0xM2xmTzdJdWE1U0V4dEd3YUc2YUZYUHdQVlY4Y3M5RkQxemlPdVdpQUh4OGdUUGpoTVFB?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 15:00:11 GMT",
-      "description": "Experimental plague vaccine strategy protects mice with missing key immune defenses Medical Xpress",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1050,19 +1037,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "COVID vaccination during pregnancy didn’t increase poor infant outcomes, data suggest - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbldjV1hWZDZqekZDTUNFWTRtbXdLZ1RRbVVrZUhlUmQ4T2wzbTNuckUzWVJLTHY0U28tWEJyOTQtOEV3NjhUb1NGS0NLaFozQS1tbEZRM2diSjVfLVVLSTlZaklHeXVpalR0a3RBc3lnWlYtWDg3WDJGMkJtWWg1QlQ1NXJ2ck9yVjlNYktiZVQxLUpJMlNIYVZXNG1JeVRNMlktSGdXNmpUX080bmtaX2NKdkM5RFJRbHVYTA?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 19:30:00 GMT",
-      "description": "COVID vaccination during pregnancy didn’t increase poor infant outcomes, data suggest CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
