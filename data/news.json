@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-28T15:11:48.736Z",
-  "itemCount": 82,
+  "updatedAt": "2026-07-28T16:08:15.303Z",
+  "itemCount": 81,
   "groups": [
     {
       "key": "covid",
@@ -15,7 +15,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 21
+      "count": 20
     },
     {
       "key": "pertussis",
@@ -25,7 +25,7 @@
     {
       "key": "hepatitis",
       "label": "Hepatitis",
-      "count": 2
+      "count": 3
     },
     {
       "key": "meningococcal",
@@ -33,12 +33,43 @@
       "count": 1
     },
     {
+      "key": "rabies",
+      "label": "Rabies",
+      "count": 1
+    },
+    {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 49
+      "count": 47
     }
   ],
   "items": [
+    {
+      "title": "Falsified Rabies Vaccine: Philippines - NaTHNaC",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYjVMMm9IRlBzZDZXZmNFUFhCY0NTenlmU29mdVFqYWEtN29zcThJMWE4OEk2b1UtaS1qNWsySnluOTVqVXZLb2dPbWk4NlFCckw5OC1VLUdvTFBhQXEwNzV1VmRmdnpmSGhtd0pEN0RVbTlUd0lNZkpoZDlZd0tGTm5B?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 15:44:27 GMT",
+      "description": "Falsified Rabies Vaccine: Philippines NaTHNaC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "rabies",
+      "vaccineLabel": "Rabies",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Prepare for respiratory virus season by getting vaccinated - The River Reporter",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFNzJqV0taTnBrYXZFQ2h6T2tnSHRpUEd1VkNWMUVPMDBGSnlyREJwWWNEWmcwMWwxdVBuREd4MXdrelRHTTY1V09sUm1YamR1OFJoZWM1N1doY1JCNVlVTFd3?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 15:14:00 GMT",
+      "description": "Prepare for respiratory virus season by getting vaccinated The River Reporter",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Dyadic develops Ebola vaccine antigens in 15 da... - Pluang",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFBqdllreTFPOVlPcW1VZ3ZpWnZqdWxiakk0UnNza0hQR1hzX3pkQ0hYWEJrQm1QNlF1VE9TRG5yWF9ZOVkyT3NobUp5a1d3M1VjOHRNUXRSaXFGS3d1VVQzUXMybzlyRk5CbUxaRmhPR3oyX3ZzVVZHbktYVjkyeFdXd0hZeXFvdjgzVXhsM0tSQ2gyUFh3VEVWaVl6Zm8zMzByQm44b3NSN25UeVZhWUFR?oc=5",
@@ -144,6 +175,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "2026-07 - Next-generation technologies take aim at hepatitis B - Wits University",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNURYcmUza0ZHUXI3RFFKQlM1b1lkbm9HYWpLeE94ajRKYzRVYjh3eDFfRDRCX1cxdXM2ZldQenZGQk9TZkNLb0ZTeE55clBPUnltNl9aR01DbGtkanBJVGNrblJmYmtkb1o3ajRYUVpmM0ItbmRYd1NyY2hmVVZhQldzS0ZVU2FCWkxBRV9DVXJwS0NmQlJRaHR0RzdiV2U3NHlnYUVUcEg3UjNzeU82Tkxlbms0MEctQ0pSd0h2VWt2Mnc?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 11:54:59 GMT",
+      "description": "2026-07 - Next-generation technologies take aim at hepatitis B Wits University",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hepatitis",
+      "vaccineLabel": "Hepatitis",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Ayrshire young people encouraged to get MenB vaccination before the start of the academic year - NHS Ayrshire",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLVVIY2RQMmJxNXdkZkN6cHVhUWhqWGY3dW5WLU9fT1dOX1FKS052Z281ZGpRa2h4N3hCa2s2NkZmcGtkRU05djJ3ZmROdFBxZ1NuaHk4X2pxdzE0NG56N0hVMVNfNHBwTUJZTUF6NDk5TUp4bmZ5RHJFSVF2ZWxyZDN4YzRQb2c2TE51UUZMc3ZfMTVwajdQcDBTTThwNEZFN2JKOUFrTHpJVzZ0YWV3UTZuN1MyQ1V2SEE?oc=5",
       "pubDate": "Tue, 28 Jul 2026 11:23:16 GMT",
@@ -168,19 +212,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "Trump Pressed RFK Jr. to Prove Vaccine-Autism Link - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR05McmNBaVJpRGk5NU85dS1XdlNKRWhJN0l5NkxSeW5nTjlnbTdNa2dLVUpwWmtlQlhVaWhZZ2hiTVZENHdiUmduVmxHV2ZDSzJyWE1KVkUwYVFPZDY2TC0wM0RpZ1B6SFlJdnVMMVcxcVQ0bHJ3c2FMSjZ3ZzFUTlc2SlpIWGNuTUEzVmE3bw?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 09:02:05 GMT",
-      "description": "Trump Pressed RFK Jr. to Prove Vaccine-Autism Link Yahoo",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "Immune Memory Against SARS-CoV-2 Can Be Harnessed To Fight Tumors - Technology Networks",
@@ -430,19 +461,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Delaware County, Pennsylvania, launches mobile health clinic to offer measles vaccines - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYl85NlVLZWRlZHlXNS1FOHpzNUJrOW95ZWRvTUFUUHhvTVhuR1JpU290dHNlcTNPN1B1OWg1WmRUN0l1UWNBV2RxYm5QQVlkbE13S1ZuX01fZnVweG5mbjU5OC00Z196U002OTlaeXh4WXhjQjFzaXhudFZxRkV4NTBDaWJkb3lDS3hWeXRlUllfdw?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 22:51:00 GMT",
-      "description": "Delaware County, Pennsylvania, launches mobile health clinic to offer measles vaccines CBS News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Vaccine candidate from Scripps Research lab shows promise against addictiveness of Fentanyl - San Diego Union-Tribune",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdjlIUDVwMzBqRjNIVHZ6a1psUXo5R0NzaENVNHZLTlIzbHNpZjZFc3lkS0tUZGE4WGVHWlp3ZGE5dV9Fa2xTZk9aSmFpNEstQnE0bllackk3RnplZGU0eDc5LUVTYWt4OHVrbS05M3RWZEZPOFQ3NkZVTC1JdXNEZkZxY1pHTjhXSGUycWhyLTFrZkRlaHlKVU94RmNrNkFtdF9xd2JoSXpnLTVYdHpPalZRVEsyWTZ2WXEwWVNyZnp0ZmdCTWktcVhmWENOdDNFVHBBSzE0Yw?oc=5",
       "pubDate": "Mon, 27 Jul 2026 22:45:33 GMT",
@@ -495,10 +513,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Beaumont health department extends certain August hours for school immunizations - Beaumont Enterprise",
+      "title": "Health Department extends hours for vaccination clinic - Beaumont Enterprise",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLTRJNDduUW1hN3diX1hITU1OcFZSblppWlpEdjQtcmhrbzh1T1d5cm0zQWFLY3lnMVJMS2JiQWlncXlsMEZtU1RDSmQtN19TWXhubGNmRFZ1Nk9sX1pkLUJ3cmwxY1dfdWRrS2JsOE83cGJ6WUw3VFV2ZnRLZE1rM29WVWNsR0lrYjdDaFVYMGpQTzhTeDlYN1A5S2hBcDcwSTB2X1p6dXJwdXc?oc=5",
       "pubDate": "Mon, 27 Jul 2026 22:07:57 GMT",
-      "description": "Beaumont health department extends certain August hours for school immunizations Beaumont Enterprise",
+      "description": "Health Department extends hours for vaccination clinic Beaumont Enterprise",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -768,19 +786,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Annual back-to-school vaccine event - KTBS 3",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUnF0aU1pNnBET1VoVkMyMVduU2Z3YzdVYzViOHVCZUgzaVhLYWFzZ2F3SktYWkw4bEw0ZXp0RWZ3R2Rja0FoSG9WZXF4ZVgtSGNrZmpRcXZfZ2dLcnYybExrc3FPUDlfZGF2eWo0TXV6QVpkZWU1eXNuLVVRYTM5NThsMEJUdXg0SUYtRDNmWlFmVS0xWHlqS0lCamdTc1BEUFBjaHNXX1BldjhLX0hnaGVxRQ?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 15:59:00 GMT",
-      "description": "Annual back-to-school vaccine event KTBS 3",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Existing Vaccine May Help Counter Ebola Outbreak - Technology Networks",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc0ZzWV9jUndzZTVMX0ZKanZUeFNDZXRGRVVnaHlIclVwbldGZ0JUaThPRTc3QVl4VGQtR0oxTlVQRmR1V1NsaG0tTnMzbWFUZXJYOEl4dk9BMmdiSDJXNlZVV2hBLW42RHhzbGoxU0JjNjNlNU1qX3JaLXlOLVhtNUVsc1BwbEY4UlpGSnpsZXR3bFZpS21nN0IzOXVPc2c4dDZGNWFRY0c?oc=5",
       "pubDate": "Mon, 27 Jul 2026 15:37:37 GMT",
@@ -989,10 +994,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Cassidy on if Trump nominee will change CDC's vaccine website - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEROS1VLRERlaEVWb21paEg4WU9YbGhoM2ZNRks0NW80LXloU3YtNy1HTjEzR19fR0VzMXV4bk1qblBYaWZIQzdTRzlTSDlyWEVzTDN2N0tZLXFoRFNZN3cxWG1HZzAxUXY1eFRLZFRySVRjT2o2MzMxdHVVQmdyeTdON296ZGZPUkh4eWdjY05rT1pQSUtfb3ctTFRGVkZTVVBvTVpJdDhQelJscktMSFZlOXlFb1ROS2c?oc=5",
-      "pubDate": "Sun, 26 Jul 2026 19:35:00 GMT",
-      "description": "Cassidy on if Trump nominee will change CDC's vaccine website CNN",
+      "title": "'Almost an insult': Republican senator slams CDC over autism, vaccines website - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS2NBNFdUUDdfc3V3YzFjbW5HM0lMRHMwVGlNWmItSkxjY2lHX2xiV3VRS2dFSWdfOGk0VW82UUpIWndYWm02QzFna0YtQ1BleGdWcHJUTkFOSnNMcHBfY3N5T1BXRXJoOElzOFZkcno5dTBjaDlocDlDZS1SSG1GX3pRMTZNRFpEUHlqdVZPdnZEajhlYmtUS1RrTDRJcGFkZHN4R0RPX01NMzA?oc=5",
+      "pubDate": "Sun, 26 Jul 2026 20:21:00 GMT",
+      "description": "'Almost an insult': Republican senator slams CDC over autism, vaccines website USA Today",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1002,10 +1007,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Hale County Health Department hosting free back-to-school immunization clinics - KCBD",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOclFkb0FCNVhCMXFoV1k4ckpHNGQ1T21CdGRHQWVveG9UWHE2anBhcG5tSkFBWlgtRDJ5cVV5ajJJdnlNQ2RtNmMyVDY5c2w1VkViR2loVzVRRzBFb242S0JHLVNaSGpHNUd1Mm5ta2g1RmZGRkZ2Y2RQYTVXM2xJOEhGczZ0TnlWRTh6UHNOb3pIUkxOM3R2NzNjUlB0UzEzd3Bxb09RaTlZMzVkdWxGVtIBxAFBVV95cUxPeW1fLWpmOTVnbGY1Mm9RLWNONFp0WFB2SlRNMTB6RDBKRGxSeW9BcUNuU1dqMWwycmdjeE5RczRPY2FhMjhMUUx0azVwUTNza0h3Q2U1N0dONnZQbE5JT0VFSl9Bek5DUVludXVJR2lvQzhqZm14YmRMZWlXdmZheGdwQm52bmYyV3JDUGRPYXpheUV5ck4xeGZEdHAwTVdaN0w3ZWF2anhCNWVxOHFLVGJkSmxFb1FVcjJqa2kyNGZ2VnNM?oc=5",
-      "pubDate": "Sun, 26 Jul 2026 14:49:00 GMT",
-      "description": "Hale County Health Department hosting free back-to-school immunization clinics KCBD",
+      "title": "Cassidy on if Trump nominee will change CDC's vaccine website - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEROS1VLRERlaEVWb21paEg4WU9YbGhoM2ZNRks0NW80LXloU3YtNy1HTjEzR19fR0VzMXV4bk1qblBYaWZIQzdTRzlTSDlyWEVzTDN2N0tZLXFoRFNZN3cxWG1HZzAxUXY1eFRLZFRySVRjT2o2MzMxdHVVQmdyeTdON296ZGZPUkh4eWdjY05rT1pQSUtfb3ctTFRGVkZTVVBvTVpJdDhQelJscktMSFZlOXlFb1ROS2c?oc=5",
+      "pubDate": "Sun, 26 Jul 2026 19:35:00 GMT",
+      "description": "Cassidy on if Trump nominee will change CDC's vaccine website CNN",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1024,19 +1029,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "One immunization may protect newborns against 2 serious diseases - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcXlZTUdvUjd6QmxBQUFZOUhhTk5hZUNjaUJFSkpNV0xwdF9ueFAyX0xHYkNSSEZ2XzVROU40Sl9UcjIxRkRSeTFhNzhmUEZoVV9Dc1pnUHBWUEt6U2dxSnFvRG5ZdFJWcTFmX25SdXNKdHpsZ1prQjhrVXQzZ3kwSmFGbUl0aU11NFcxSTBkUFBLUi0yalBoOXQ4M2xnbkNWcGotLXltcU83MlZvSmsyeURpNzlIWFlzdGNFTXh2Y3A?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 21:03:22 GMT",
-      "description": "One immunization may protect newborns against 2 serious diseases CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
