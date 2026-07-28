@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-28T22:44:24.467Z",
-  "itemCount": 93,
+  "updatedAt": "2026-07-28T23:44:14.735Z",
+  "itemCount": 89,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 8
+      "count": 9
     },
     {
       "key": "flu",
@@ -20,16 +20,11 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 22
+      "count": 20
     },
     {
       "key": "hpv",
       "label": "HPV",
-      "count": 2
-    },
-    {
-      "key": "pertussis",
-      "label": "Whooping cough / Tdap",
       "count": 1
     },
     {
@@ -43,6 +38,11 @@
       "count": 1
     },
     {
+      "key": "meningococcal",
+      "label": "Meningococcal",
+      "count": 1
+    },
+    {
       "key": "rabies",
       "label": "Rabies",
       "count": 1
@@ -50,10 +50,36 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 50
+      "count": 48
     }
   ],
   "items": [
+    {
+      "title": "Tennessee vaccination rates drop below healthy threshold - WBIR",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMDhHZktMUVFkMndGcVN5b0p1QVBhdEJwUE9CTTY3UnlsazUtdGV5VkN3bE1pT3g5Uk53SWpmWXVvOURtRE1YV0Z4Nl9ZM0FEQjhwd3pWMDQxbFRvMHBmamh3LVJ2bVkwRjVsMkdzTG16NWIyUDNpaHhyOEotLWJYT2FDLWVNWmwtTTU0MjhYUV9uVjNnbTFla3BYRHBmYVBHY05iamtDN2NuLWJyOXNLWnNrX1p4MV9wYmRkR05zMzVjRHFMbXhkdnU2Z05iMVpKNFpKbDdjS3pWak1v?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 22:47:00 GMT",
+      "description": "Tennessee vaccination rates drop below healthy threshold WBIR",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Did Fauci suffer pulmonary infarction due to COVID-19 vaccine? What we know - Snopes",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95eDZKYThqRU1qMDl0RUl6YjRSV0VSQ2FnOHYxbkx2RDVaYU42Ml9uOGNhNVhFWWVQRzBUekUzcXJBNTlnNm5KLUk1T2x6MjdwVUZXb1hPX215QjFfVHdSUThWLUR2MThfb2FNOGViTUpselBRdEE?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 22:18:41 GMT",
+      "description": "Did Fauci suffer pulmonary infarction due to COVID-19 vaccine? What we know Snopes",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Vaccines, shot records, and birth certs. — Here’s a list of back-to-school resources for Shelby Co. parents: - Action News 5",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTldtOWh1TkRXVk1jTjRLVThYNzFjU2pXRjRYb2VUUlNHaWVBTFQ0YmFQa0I5TE9BeUJ5QlhqdGZ6ZVVWR1NVZDNCdWprWHJNZXB3bXRiRzlXQkV1X2JEaUhDZ2laSFZKcjkyV2FzdjlKQTVjVXJjV2NaV2IwWUNtRm9tWFZuSDVqeHdsdmJDbGNsMGkteGUxLUlBbUVWWWJvU1ZoYnptai1hellqczh6TnVRSUJYTEE0dHk5bXg0NGEwcGFpQnc?oc=5",
@@ -129,6 +155,19 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "State Department will dispense $600M for vaccines RFK Jr. held up, Collins says - Politico",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb3pRNDlSX2Q5bnZPSk9WV0hpczJJcjVBTTdKLWppUXo0VTctZUFEeTN2NlRxV1RiYVVWVlBjSDNveWpBUk5BVVFEWDk4UUZ6UjVSUXFLLXdBcXk3MkhmaVVOeHRaai1FOEI5Z0REbHg2ZkE5TWc1MmFEdDhSdlZzZ2FBR2FnUzI0?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 20:15:00 GMT",
+      "description": "State Department will dispense $600M for vaccines RFK Jr. held up, Collins says Politico",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -237,6 +276,19 @@
       "articleLabel": "Research"
     },
     {
+      "title": "Arkansas Health Units stand ready to support families - NEA Town Courier",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYUtDeHhITVZMcV9aNVlTNm5OUDdkU1UxXy1HY0UycGNxMTY3M3RaWUdtWkFlOVRFV1VuTHpYclV5ZG5fTWFYeHZNcmdnSEw5NC1RMDBJZENNbWJweDluc1B4MjhyTm40aERXcnNwNlpNTGY0ME0wUWVuY1dzQlZlNi1iUWlSZXNUZExDd3REVnBFODU5UVZDblByc1ZGRjg?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 19:17:31 GMT",
+      "description": "Arkansas Health Units stand ready to support families NEA Town Courier",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Trump reportedly pushing RFK Jr to cut vaccines more aggressively - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORXp2X2NOR2ZBbm9zdm9jUnhxZi03ZWJJcGU4dG9GWVR1MU94TW5uT3QyM0tKTmlFYUdmWFBacldobWhxQmprNUQ4RkpQT1ZuNUR1SVZzajRfVncxTjA1YmpXandSeHZfUlJqYTNvbV9JUmxsRHozbHZrbUNia2FzeGNWWQ?oc=5",
       "pubDate": "Tue, 28 Jul 2026 19:08:00 GMT",
@@ -287,6 +339,19 @@
       "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
+    },
+    {
+      "title": "MenB vaccine supply ‘bolstered’ for NHS England pharmacy campaign - The Pharmaceutical Journal",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQzVWRW5WSEhuZTZBc0hqRkEyZWd3R3d6YVZXY3E3STRqQXVXOUFHN3F6NmlMa1BfLWxCcWxvQmpPaTJRV2dMMlhtUUNjbEN4bkozbXdueDBqb003WWxCRFFland1MWlWejVOVjFLaVFYR0ZYdDh4bmJwS2dqWU0zejBxQW81RlJEbW5XcTBoLUtxN0ZZWWxvY1d6a3NaQnJ2UVJhdHBNbW5wWlVzVnIxaQ?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 17:40:07 GMT",
+      "description": "MenB vaccine supply ‘bolstered’ for NHS England pharmacy campaign The Pharmaceutical Journal",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "meningococcal",
+      "vaccineLabel": "Meningococcal",
+      "articleType": "research",
+      "articleLabel": "Research"
     },
     {
       "title": "Vaccine candidate shows promise against addictiveness of fentanyl - Times-Standard",
@@ -406,32 +471,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Trump’s Oval Office Humiliation of RFK Jr. Is Leaked - The Daily Beast",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdGFhZm5zekp4cFNPSm00dHNEXzktdWJxQW13QlJEaEthN1RvWVh2V2EzdDhJazhrMkpjNV9XamJhVU44X2RMM1hxUm5hcUNkNGhrWU9GTlpYc0pDNUVhR0JVWHhSN2l6ckRfNW90TTdjTngtOXRyRlplZmJveDI1c1B4V0UxM1pt?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 15:06:00 GMT",
-      "description": "Trump’s Oval Office Humiliation of RFK Jr. Is Leaked The Daily Beast",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "HPV Vaccine Could Help Eliminate Cervical Cancer in India, Oncologist Says - INDIA New England News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRlBiZlRUTXlMY2R1U2hSV2xjOURQM0NnazRaV3VFUzJzU2hJckVCa0dPRHNjLXlYVk43c3hLNGpMZkRrUWJ0eGx0U1lQNDZkdkZUbDBTdkFfZGVsUFdwc05XMVVtTm45TFBYdFBSTndZMm44SWF0RmktZzZKV3kyTk04YlJVVXd5d2dxc3QyOERhNHlZU21VS0JfN1BZQnRfMGJRcQ?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 14:43:47 GMT",
-      "description": "HPV Vaccine Could Help Eliminate Cervical Cancer in India, Oncologist Says INDIA New England News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hpv",
-      "vaccineLabel": "HPV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Vaccine Laws Were Under Debate in Dozens of States. Here’s How Those Bills Fared. - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSkNqYWQzbU9YWEduN1E1UTJMUXQ1UUk0cFJPSkd6RTJEVWxOTnpaSFMxcHQzNElkaUZmTF9OVEVmVDRIYk5pOVFiUWJSMGJKZlpvOWlweldxSjF6dnVsYW51UFVGWFNfQVlOdHNpQ3VoX0hLbG5nZVJUbUhfTXBLZnRfSWwtby1hanFRcF81UQ?oc=5",
       "pubDate": "Tue, 28 Jul 2026 14:37:59 GMT",
@@ -462,19 +501,6 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaFFWLS14SUFMMWtnb0NsN1MyNlhkRndIak9qVGlCa20tSHlfcWVCdEV3U1dVYkpucFd4YjlaaGRwN3h4NmhLVTdHLWRZMldSb2ExNVphemNFRDNWTVdGS2RJdXJTZVhRTko2SVRwSkNQV1ZwME1Tc1k0VWdxVnVSdWZ5TExhWDdXeUE2eVQ3Q0xqaXdTbi1aOV9OOUh5Z3RVUnM2TFVvUUU1ektuT3hJ?oc=5",
       "pubDate": "Tue, 28 Jul 2026 14:00:00 GMT",
       "description": "PUBLIC HEALTH CORNER: National Immunization Awareness Month Kirksville Daily Express",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Trump pressured RFK Jr to slash childhood vaccines over autism fears: report - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWlM3T3JaQ1ExemJGZGpLV05zWms1V0QzQ3BaM1ZqY1JSMzY4RmZDSjY2X1ZTQ3NyeXc1a2txTE15WDRhTjYxdzIxaXdIWWVocUlleDFqNWV0OW9pWm0tdjh4aFhwbk5IQkRGX3Q1Ukt4cl9PVW10OXdfXzE4eFlHVDBITEpGRmNOdkpRQzhmWW5LRENBVmpsNG1KaHByOGx0eDAyNmdSa1h1MG1ScVE?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 13:50:00 GMT",
-      "description": "Trump pressured RFK Jr to slash childhood vaccines over autism fears: report The Independent",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -519,19 +545,6 @@
       "sourceLabel": "News",
       "vaccineKey": "rsv",
       "vaccineLabel": "RSV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Romania is drawing up a PPR vaccination plan (Peste des Petits Ruminants) - Agroberichten Buitenland",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTUlMWHlTRUk4dXZiUER4LS1pQjJ1M1dQbmF0YVBUdVl2dlJoTUNKVzVhZlNiUG10TEs5dEc5NGtEYVJudEthcWtXdWJrbUFfeXFIR3NXZkVkNUJncm9oeHA2aUdlVlhoVDNTRjlkVFRHZnpPWEdHQ3pMdkh4MXpIQ0NRZXN6NE82el9YUE12U2dGNUFVQmpKZDZfR2V1bWYycjhITHRwUlpLejJhbC1UNFcxdjd3NzRKUkZ3Zm5za29aVkRsRGJiWk40MVVBOUtkRGc?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 12:57:26 GMT",
-      "description": "Romania is drawing up a PPR vaccination plan (Peste des Petits Ruminants) Agroberichten Buitenland",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -692,19 +705,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "How vaccine skeptics use storytelling effectively to create powerful but medically inaccurate messaging - The Anniston Star",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPakZXc0VueGZiMzBTc1I5VWYtZnBsXzlZdnpHS3c3MzdFM2FjS2Utd1Rqa29nNGxEZ0g1Q3V0eXN6VDV1UHRnUzRKSVNwd1lqcnJJVUh2VjlvdDNCU3BKY2U0dUd3bXU0VHJDUFROb0lnU3RGbVJiNWlmNVhDazdIU1MtUU1iWE9TLVk3YWNaYzFFQ01mbUtOUGhwRHk1Szhybk1hTWRobHhfWGxOUFNXODc3b0NRZTRtdnZLLVRucUhIaDVYeF82RjJnRm1tQVVDWE5uWDJlZFdPckdzd3VtekZGaVhmcjJYQVBTN3dCaVNWUmNzMkdXNXVhN2xzb0U1MkxBaTRya3dQMDk4YzhGd00tc1FvSFRjaWhlZFdQNzIxdnMwNTYw?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 03:59:31 GMT",
-      "description": "How vaccine skeptics use storytelling effectively to create powerful but medically inaccurate messaging The Anniston Star",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "California sees summer uptick in COVID-19 cases. Here's what we know - ABC7 Los Angeles",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ1pINEpuOFV0RDBDS09EMkdlQ0VZZWZuZzVSMW5SUVF4Qy1pazdxczJReTZBZ0htblJSV0gwdmJvc0xXdy1iUWNnNjJqem16eWVTLXhYMHVkRThRanUzNG5ONFpiWjhjR01rTS1MU2RqY1UzcTVjS0liUE52c1k2VmRydlROcjNFR0ZTcWtsSzd0Qy1DVlB30gGcAUFVX3lxTE8zT01iZnhUemNhQmQ4Ty1vRUk4NlFfRl9YSUtEUXNkRVMtbXRGMlVENlJrU2pKZHZSVGJjTmY3UEJ4R202NDNhQVFRM1ZFYWJtVGJjallyaHJONUJfVkJMTDFWeFN2U3ZVbHdjVVVoSVhPYVd6T09zZndiTjNyWWFDSjZkTHlCY0s2aDQtNEdSZmtUc245MXhYYkJnMw?oc=5",
       "pubDate": "Tue, 28 Jul 2026 03:54:25 GMT",
@@ -744,19 +744,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Spanish vaccine maker urges broader EU incentives for innovation - euractiv.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUWR1bzN3YkNacm5ZT3dwUGtzU3BsNnRBcUdyT3hZNkl3X0h1RWlFa2tEYkdTZUktRXFmeG02cGplNEhoYlg0ZlpZWkRJdU1lVTZGWWt0NHR6Q1JKdk1EN1JfSTJuYlpvQ1FFQm1EelpXZVBKV3dJRFZCOWtlN2hCaTEteGxKbW12NVNmY1pvVHE2ZjdyMDhyWXdpcw?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 02:03:45 GMT",
-      "description": "Spanish vaccine maker urges broader EU incentives for innovation euractiv.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "‘The child is terrified’: Doctors on the front lines of a measles comeback speak out - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQXM4cGpYWE9GaWxsZnRZUmZrNDh4ZDRnMXQxbUFkQ1lodUZkY1I2M282UWNUN29YZnp1Uk50YVo2Z2pucEVDSENkUnY1cWVueWtyaE5DTGpwckxpTDlUVEpQekxQX29uZU1Uc0NfZFl2cFB0QWNHY05ZUWZudnFPN1ZvSnRGSUl5Ul9MTmtaQlVkQ0tmekZfQWNMZDFmSVYwUE8xdzUtd2FUQ3BWQVNpellGSnhaSWZ6VlJRRlNwYjBMZw?oc=5",
       "pubDate": "Tue, 28 Jul 2026 01:03:00 GMT",
@@ -772,7 +759,7 @@
     {
       "title": "Trump Turns Up the Heat on RFK Jr. to Cut Back Childhood Vaccines - WSJ",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOGxaZDRzX1ZjcHBCaWtUaHdtUXNvYkhlNHZCeFBrcGpLdXFkcVRLdWJwU2ZVMllocVB4aDVQVDZXNEZMV0VzY2dpSTJnd2o5bkNubzFXT0M1VWlBLWJoNjhtUEhrNFl2VWNsclFLRGpFWXlrWnBicGlCVDdCdUJocWRRSGg?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 01:01:13 GMT",
+      "pubDate": "Tue, 28 Jul 2026 01:00:00 GMT",
       "description": "Trump Turns Up the Heat on RFK Jr. to Cut Back Childhood Vaccines WSJ",
       "source": "news.google.com",
       "sourceType": "news",
@@ -861,19 +848,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Following Measles Cases, St. Mary’s Health Department Hosting Free MMR Vaccine Clinics - The BayNet",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaUlwZ0dLR0t2WEdKUFhlWXZlSWwySHVYdEgtSHVScHhrdmQxakttcHphcWphOHFMblFVV3J0U0Q5U3NpYkNBLS1vYXhGWmRkei1DMjZFQjhOX18wSVlXV3VGRmlSemR5RE9oLUdVQ3FzNTFpYklFRm5nSC1yaHU3c0V5cFlqZ0hSUnljMThxWWNuRnJPdzlQWldUOEpwTnI1RmstUUhhdHJSdw?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 21:22:43 GMT",
-      "description": "Following Measles Cases, St. Mary’s Health Department Hosting Free MMR Vaccine Clinics The BayNet",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Previous vaccinations shouldn’t bar worker’s religious vaccine exemption request, 9th Circuit says - HR Dive",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdzZuaVVUNDF3MDlNeTRnaWg1dnBheHRya0FIUUJVV3pydUlUZ0x0d1lsdUtZSUM0UHNXSXVWRUFxRlBFX0RXTi1CX01XWUNuOGI2SDkyRmxTZFhtZnUxSDE0TDRXaGRzTEw5NlRvbElBdmxUSFVWRktJZlVaVWs2ZFJrbGNDZllDTTJMQi1PU2w3MTBsVFI5WENyRS1nZkJhaF9yTmpkQUVtTldfYWc?oc=5",
       "pubDate": "Mon, 27 Jul 2026 20:57:35 GMT",
@@ -885,19 +859,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "Pertussis: Study highlights safety of Tdap vaccine during pregnancy - Association of Health Care Journalists",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQalloY1JZV3VpSW1BRXd2SllfUlhLT3U2QVhGVGZEcW1rWFJGb1dxeUdLc2liUFhKNGJhS0NtcEYyRlBOdVQ3TTJMWXI3RjdkS2VwVloyOHBIbmZvdndPUkNrNDZMbFo1R1ZtZFctRk1zOWcwSUtodERtdEdUaXcwdTFON1VlYWVMd0VuT2JLNzZ1TDNwNU9Ja1lPc0lPeGc0?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 20:41:09 GMT",
-      "description": "Pertussis: Study highlights safety of Tdap vaccine during pregnancy Association of Health Care Journalists",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "pertussis",
-      "vaccineLabel": "Whooping cough / Tdap",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "Navy announces new flu vaccination requirements for sailors - Navy Times",
@@ -1030,15 +991,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "Florida measles cases not over as school is about to start - Naples Daily News",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSmZwYWlhUDRMeDZzYS1VMnZPeXFCU1E3Qk9mTDBJcEFHZVRrTEFsb0ZWWVVURUZHWHFXTzRUc3RNMWtYOE1GTXVkbWlkTnhTNldPblJrMVFhbF8xWXF6eWstNGZpVHktb01nVU02elZ0RmhoSkZJdmt1LXVuM3IwYjZsOWxKVHMzTFZkZEN3di12V1hieUJwNkVyUXFHbm5QRGl2bUJhbzRKNWRrY2J3YUlXbWJncF9ub01RbkwyOER0N2ZCcmJ4YQ?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 15:04:09 GMT",
-      "description": "Florida measles cases not over as school is about to start Naples Daily News",
+      "title": "Congo Ebola death toll tops 1,400 as vaccine trials start - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRVVmMERKN3NTSmpXbGloOEdQUXR2cG5OVGQxRXdJZ2hPZTdLTVZrNXg2bDZKY3pFMG1uNEozWXNGekVMU2ZoOWd1RERHWFBxUS1wcEZRX2d0dUFjMXJsQW5jLXZGWThMZnNvZldXMVRmWWUydm54Skx3ZkZpRkduaFEtcVB2SF9XNEt1NEdVdDZyajDSAZMBQVVfeXFMTmVZbXhCbTdESFhvQjhPRFF6SjdKdnRfTDg2ZEFNSnJRS3dpOWRwOXdCaDlQSWo5N0RZeERuVXNJNU85aV9xb0dtRmE0UXFSTHpkQXhOdTRKUDNzY1FNZFNGaHV6VE1fTWsxQWk2M3ZidE84Z0daUjczY2VJdDh4NldVUEc1c0pqcjgwV0JvUTFUU1Vn?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 16:07:46 GMT",
+      "description": "Congo Ebola death toll tops 1,400 as vaccine trials start DW.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1160,19 +1121,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Congo Ebola death toll tops 1,400 as vaccine trials start - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRVVmMERKN3NTSmpXbGloOEdQUXR2cG5OVGQxRXdJZ2hPZTdLTVZrNXg2bDZKY3pFMG1uNEozWXNGekVMU2ZoOWd1RERHWFBxUS1wcEZRX2d0dUFjMXJsQW5jLXZGWThMZnNvZldXMVRmWWUydm54Skx3ZkZpRkduaFEtcVB2SF9XNEt1NEdVdDZyajDSAZMBQVVfeXFMTmVZbXhCbTdESFhvQjhPRFF6SjdKdnRfTDg2ZEFNSnJRS3dpOWRwOXdCaDlQSWo5N0RZeERuVXNJNU85aV9xb0dtRmE0UXFSTHpkQXhOdTRKUDNzY1FNZFNGaHV6VE1fTWsxQWk2M3ZidE84Z0daUjczY2VJdDh4NldVUEc1c0pqcjgwV0JvUTFUU1Vn?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 06:14:41 GMT",
-      "description": "Congo Ebola death toll tops 1,400 as vaccine trials start DW.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "mRNA Cancer Vaccines Show Promise But Are Dogged by Misinformation - Cancer Therapy Advisor",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeUVBVlJ4M1pWb0RhelVVelF0TEd1Nmh1bHEyQkZvWkM4V2trbk1DYW40OEJRdUJ4R0dFYUFHa2t5emZINHBpcXFQQmpNclFBT2NCZWhIODRNMHZsREpCR2FMOUwwQTlDdWxacFE4WHZEeF9yVzg0TjNpMUtPQXJkVnJUREVMcWs1M3hSMjJEc2JWOWtCS0laZnFBbVowZ2l4WXN2S1NBcDFJUQ?oc=5",
       "pubDate": "Mon, 27 Jul 2026 04:00:00 GMT",
@@ -1186,10 +1134,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Experts share vaccine importance - WPSD Local 6",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ3h3R3duYmtCR1JaOFNCN3duRWFHUlZqV2ZxM0VCZ3NmYTZfR2dzMUxKelJtNTA5eDlqbjJCNHg1dzdJcVk3RDNVbUtZVDBrMkQ3Qi0xUnBFc1hySjZhXzJPVlowbmhCM083N2FOemVuSVR6TXBSbkNxTXFlTmVYNE16TWxiTnJSOXUzY1ZjbTVqMDZPaEY4cW5sYXNLSW9VWTk4MjNSd0pSd0pxMklGXw?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 03:00:40 GMT",
-      "description": "Experts share vaccine importance WPSD Local 6",
+      "title": "Mucosal immunity and vaccine development - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvQl9yb2ZiSkhha2liNmo3UVJGdU9YVVhNMlRJWGVieGpxb1FnV0hhNnJkakZSbWN1R0lyazdsMXZrT2t2Q3doOHdDdnI0YUkzWloxbldUNzBjZ0oydlpv?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 02:08:42 GMT",
+      "description": "Mucosal immunity and vaccine development Nature",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
