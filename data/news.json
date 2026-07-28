@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-28T19:57:16.705Z",
-  "itemCount": 93,
+  "updatedAt": "2026-07-28T20:47:38.085Z",
+  "itemCount": 94,
   "groups": [
     {
       "key": "covid",
@@ -10,7 +10,7 @@
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 2
+      "count": 4
     },
     {
       "key": "rsv",
@@ -20,7 +20,12 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 20
+      "count": 21
+    },
+    {
+      "key": "hpv",
+      "label": "HPV",
+      "count": 1
     },
     {
       "key": "pertussis",
@@ -30,16 +35,11 @@
     {
       "key": "hepatitis",
       "label": "Hepatitis",
-      "count": 4
+      "count": 3
     },
     {
       "key": "pneumococcal",
       "label": "Pneumococcal",
-      "count": 1
-    },
-    {
-      "key": "meningococcal",
-      "label": "Meningococcal",
       "count": 1
     },
     {
@@ -50,10 +50,62 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 55
+      "count": 54
     }
   ],
   "items": [
+    {
+      "title": "Measles cases at 35-year high; Sanford doctors urge vaccination before school year - Valley News Live",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWDBMbVp5Yzhad2RxTFFMMTdoYk5oOFVFYklIb3hsUjBHazljbjd2X1ZEbVNEbkhBeXkxa2dPdkd5WWlTTi1wZFpPSUN5YWpUMFRuSWlZUnBDLXEyVDFsQkpDMkUxRmo4bm5vWEJLZnNVZzB0RFVTdkk5cTQ4bmEyeFA0WWdQQWlWUk91cGhUWjM3NGNrNmdaOEFKNXlZeFFKVEpSWmpQdGxLV3BRRnROWEEwOTJjbmVoTGkxRW5B0gHSAUFVX3lxTE9PcUZMcXJYZVpEZmh6ZC00QWkxTVpqSWNUWS1sc1ZUVlNuUThCOHQwcUdfOFJISy11a01jVDZuV2UxMExGNzFOS09XYkxaVkJYQW9ldmRQYXJ6Z0xLNGFGSlBsZDAxcXJpdjZReHIyMVp2cWxtZTRRU2pPWHNEWVdEM01tMmpsSEFDQ1F5Sk03dWU2cVdWSHlkQklrT0ZjWnd2c2ozUVRZZkNlelREcjF6WXk2bEtoc0d5dEhUTGw1cE41SmhnbU1jNVNxbXVDaGFzdw?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 20:13:00 GMT",
+      "description": "Measles cases at 35-year high; Sanford doctors urge vaccination before school year Valley News Live",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Navy Restores Flu Vaccine Requirement for Recruits, Deploying Sailors - Military.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00dDZPLTlSQkZXc3ZJYWlyem02SzhEM042UWpFS1pOZU5LSHlFWEhpMWJHWGhsOXhaVkVHSFI0dGFQTk9rYzVmS1R5T2JmTmpOYnNVYWZjNDNwQkNjXzlNY0kwbDZQTDlRVjNCczRNeEZMZG9YWXpyUnJn?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 20:09:55 GMT",
+      "description": "Navy Restores Flu Vaccine Requirement for Recruits, Deploying Sailors Military.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Houston Zoo partnership advances research against deadly elephant virus - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNV81VnFnZFRiVEpkeGhmN3diX1N6MWp2UTVDVWFYdEFNMHZGdjhoOTdhRmNzRVNPRlIyQXpwbjNPbXV3OGRGdVNmZDBvN19pSkQwcTc3Uk0tOUhoT3FVRENCM2hobFQ5b3gwTGgyeXVqWDVRTFIyaDM2WnVxYXd3aXFJLW5DLVZXNzFoZEVwSEtNd0FpSTRCVFlVcWdvUEZKYlQ0YmlUWENReU1XSlIxT2FObnVRQW50WjFTMEx0MEViazkwckE?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 20:07:29 GMT",
+      "description": "Houston Zoo partnership advances research against deadly elephant virus Houston Chronicle",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Shaun Truelove, Andrea Carcelen Named as New IVAC Leadership - Johns Hopkins Bloomberg School of Public Health",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQWpYXzZWM2dHTFI2OGRpeGtfUVNNTFdpTzdCa0VLV3RScjh3RnZza0VUMjc1cE1LY2o2aVpmSmQ5NjdRUnU0R0N4MGFLcTBqTHJmVlBqZS0yems2X1EyVmhUZUNPZUtid3o4blE4bXVCTEQ5SEJPZXdmM3padmFBQkxfMlhYWGtmdHBGNWdQbkVzUVRZUmdNLXlEY1ZmN0k?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 19:50:44 GMT",
+      "description": "Shaun Truelove, Andrea Carcelen Named as New IVAC Leadership Johns Hopkins Bloomberg School of Public Health",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "New research aims to break the ‘silent epidemic’ of Long COVID - WBEZ Chicago",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWF9wb3hrVEZZN24wWHA3bXUtdFlwYXJtOEFLYmFYelJRRmFrU0NpUVRWdlRxMEEwZy1QVWtBMm55ai1nbUN5Qk9rOVhRbnZ5bDdBWmdvUG5FaUM4RllXaHZsSnA0eWpEdUFmTEdVOC1OWjJsRHpoYWV0RzNsb3Fjekl4NFhaWnp1N2s5N1A2bHcxZVlKa3I5REhNeXJWWDQzQTR4UjdERDVUelhYTmlNaTA1cENoakRKOXhSTHVOOExpTDNG?oc=5",
@@ -116,6 +168,19 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Superheroes Shield Up for School vaccination and resource fair returns Aug. 11 - Signal Tribune",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNXpvY3JsSHFwSzZ6c09fdGtWT3FKRUduSGYzNm90aWNwT29oYTAzejVLZndHd0tfWWFmYnFjWUoxR1kzVGEyVGhLZlBLRVBFVmE3TDBYRmZBZHZ4b3VhUF9SVlk4el9MVW4yZnoydDZxdElWdHlodV80TGtJZUg4b1dlLWZLT28yb25tODRnSWZZZmxtbUNyTmNDN2Uyejg?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 18:47:59 GMT",
+      "description": "Superheroes Shield Up for School vaccination and resource fair returns Aug. 11 Signal Tribune",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -237,15 +302,28 @@
       "articleLabel": "News"
     },
     {
-      "title": "Dyadic develops Ebola vaccine antigens in 15 da... - Pluang",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFBqdllreTFPOVlPcW1VZ3ZpWnZqdWxiakk0UnNza0hQR1hzX3pkQ0hYWEJrQm1QNlF1VE9TRG5yWF9ZOVkyT3NobUp5a1d3M1VjOHRNUXRSaXFGS3d1VVQzUXMybzlyRk5CbUxaRmhPR3oyX3ZzVVZHbktYVjkyeFdXd0hZeXFvdjgzVXhsM0tSQ2gyUFh3VEVWaVl6Zm8zMzByQm44b3NSN25UeVZhWUFR?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 14:43:13 GMT",
-      "description": "Dyadic develops Ebola vaccine antigens in 15 da... Pluang",
+      "title": "Prepare for respiratory virus season by getting vaccinated - The River Reporter",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFNzJqV0taTnBrYXZFQ2h6T2tnSHRpUEd1VkNWMUVPMDBGSnlyREJwWWNEWmcwMWwxdVBuREd4MXdrelRHTTY1V09sUm1YamR1OFJoZWM1N1doY1JCNVlVTFd3?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 15:14:00 GMT",
+      "description": "Prepare for respiratory virus season by getting vaccinated The River Reporter",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "HPV Vaccine Could Help Eliminate Cervical Cancer in India, Oncologist Says - INDIA New England News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRlBiZlRUTXlMY2R1U2hSV2xjOURQM0NnazRaV3VFUzJzU2hJckVCa0dPRHNjLXlYVk43c3hLNGpMZkRrUWJ0eGx0U1lQNDZkdkZUbDBTdkFfZGVsUFdwc05XMVVtTm45TFBYdFBSTndZMm44SWF0RmktZzZKV3kyTk04YlJVVXd5d2dxc3QyOERhNHlZU21VS0JfN1BZQnRfMGJRcQ?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 14:43:47 GMT",
+      "description": "HPV Vaccine Could Help Eliminate Cervical Cancer in India, Oncologist Says INDIA New England News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hpv",
+      "vaccineLabel": "HPV",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -263,10 +341,23 @@
       "articleLabel": "News"
     },
     {
-      "title": "Springfield District 186 Community Back-To-School Physicals and Immunization Clinics - NewsChannel20",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxONTdNZHRQdXVWMGhfTmlITGRYNEJNWE54Q01waS01MEJpc0hPcmU1RVVwM2RTc2EyZXJRbVRvajljWjR6SFdyS1A5S2kwTVNJTy0zVjdLYnJ5enVtdVE2bjBzcTg3UFJTcXk0T3hEc3I3S09IMURlZDEwYXJicGthN3hiT1lUcVJPTkRpazRhakZnQlBsX05TSHpqdlhrLTRibHZZREdSdjVERkVUVFpmRnZXWmdPSXk3U18xMU1VVEt4R1czWUxWVEo3T1Q2OXA0QVNMdjNWdHBtOF9LYk1kYkt0WWlkVm1ZUTgyU1hRLUtDZ3Eyc0FfM25mcGlUdw?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 13:53:00 GMT",
-      "description": "Springfield District 186 Community Back-To-School Physicals and Immunization Clinics NewsChannel20",
+      "title": "Florida Measles Cases Rise Before Schools Reopen - EMJ",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQlpOY3o0MnVxVS1WSG4yV3c1d3pxQUpiZUlmR1hFV0xuWnEwZzFZUmVzVW1Da1UzSEZxX3JrcFRPbFg0QVNuT0tBY0tmMV9jT21HUWlEXzZHTl94UEt2OGkyRVZSdlVNaERDWHVoZjNKU1U2S1RJakdVN3lLU2x4UXdIOHJGSDFSNGlHU3k3bmktdDRMT3JoT05pcU9fTXJSZE1qdFlXREV4VDFqV0xiM0dLbHE?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 14:20:25 GMT",
+      "description": "Florida Measles Cases Rise Before Schools Reopen EMJ",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "PUBLIC HEALTH CORNER: National Immunization Awareness Month - Kirksville Daily Express",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaFFWLS14SUFMMWtnb0NsN1MyNlhkRndIak9qVGlCa20tSHlfcWVCdEV3U1dVYkpucFd4YjlaaGRwN3h4NmhLVTdHLWRZMldSb2ExNVphemNFRDNWTVdGS2RJdXJTZVhRTko2SVRwSkNQV1ZwME1Tc1k0VWdxVnVSdWZ5TExhWDdXeUE2eVQ3Q0xqaXdTbi1aOV9OOUh5Z3RVUnM2TFVvUUU1ektuT3hJ?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 14:00:00 GMT",
+      "description": "PUBLIC HEALTH CORNER: National Immunization Awareness Month Kirksville Daily Express",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -376,32 +467,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "2026-07 - Next-generation technologies take aim at hepatitis B - Wits University",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNURYcmUza0ZHUXI3RFFKQlM1b1lkbm9HYWpLeE94ajRKYzRVYjh3eDFfRDRCX1cxdXM2ZldQenZGQk9TZkNLb0ZTeE55clBPUnltNl9aR01DbGtkanBJVGNrblJmYmtkb1o3ajRYUVpmM0ItbmRYd1NyY2hmVVZhQldzS0ZVU2FCWkxBRV9DVXJwS0NmQlJRaHR0RzdiV2U3NHlnYUVUcEg3UjNzeU82Tkxlbms0MEctQ0pSd0h2VWt2Mnc?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 11:54:59 GMT",
-      "description": "2026-07 - Next-generation technologies take aim at hepatitis B Wits University",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hepatitis",
-      "vaccineLabel": "Hepatitis",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Ayrshire young people encouraged to get MenB vaccination before the start of the academic year - NHS Ayrshire",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLVVIY2RQMmJxNXdkZkN6cHVhUWhqWGY3dW5WLU9fT1dOX1FKS052Z281ZGpRa2h4N3hCa2s2NkZmcGtkRU05djJ3ZmROdFBxZ1NuaHk4X2pxdzE0NG56N0hVMVNfNHBwTUJZTUF6NDk5TUp4bmZ5RHJFSVF2ZWxyZDN4YzRQb2c2TE51UUZMc3ZfMTVwajdQcDBTTThwNEZFN2JKOUFrTHpJVzZ0YWV3UTZuN1MyQ1V2SEE?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 11:23:16 GMT",
-      "description": "Ayrshire young people encouraged to get MenB vaccination before the start of the academic year NHS Ayrshire",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "meningococcal",
-      "vaccineLabel": "Meningococcal",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -666,23 +731,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Community Care of West Virginia to host vaccination, crisis counseling events in Upshur County - WV News",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNT3RLOWwzeklLLW5UeUdrUThNdG9mWjVnMndMZDhYSndTbnV2Y2Z0Y1dJOUxxUTdHUE1JRy04R2s1ZGVWbHNWR3MzS0tQdVplY1JPd25iSG4yaWJVOGJrbmRYREY1VWJtMmQ0NXhEOWNpcC15VWRwdWtfeHJKRWFncUE1NkxGc01DSmtkcm82bXoxZ1BKOTF2MHFYQ3hYZmpBWjNzOFBQMWN5SjVfOWh6cHBRSjZqNk9TWGpOX3JKcTUyaGlFWUhFd05wcmQwNVM4NTlZOEdGQVVsQ0preTZIZmoxMjBlOXVCUVdkcVVnTHBXal80LUxiNkVKZ0NyQ1NfRzFDZS1aTDEtR3RVZWRMSw?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 22:30:00 GMT",
-      "description": "Community Care of West Virginia to host vaccination, crisis counseling events in Upshur County WV News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Jefferson County Department of Health vaccine clinic to fight uptick in measles cases - WVTM",
+      "title": "Jefferson County Department of Health vaccine clinic to fight uptick in measles cases - wvtm",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHU1UU05WU1VY3VpTElFczVtdU1EbGoxa1BlaFVLbEVpbkFpMHpSQ0JuQm1TSlNrQlUyN2JrLTgzUkx3eEh0aVpadEZnMDBQcFNETldIRHpPdlJOWWxYODFvb3RhTEdUblR0ZHQ5cGJ2a3gxLTgzazF6bUthZm14VTRGRDc1UnZZSVNyQUF1RldrRHRNZUNROTlFd3lNS3hmWXRlSVFjd0VDbU9xUmhn?oc=5",
       "pubDate": "Mon, 27 Jul 2026 22:26:00 GMT",
-      "description": "Jefferson County Department of Health vaccine clinic to fight uptick in measles cases WVTM",
+      "description": "Jefferson County Department of Health vaccine clinic to fight uptick in measles cases wvtm",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -796,19 +848,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Wildlife vaccine drop planned for August to help slow spread of rabies - Bennington Banner",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZi1SZ2RodlR5SzQtaGtCVUtvbjlwT1BzMm5XS0dkLUFNZy1IT0t0dlVEN0xBRHRFb29LNXVLV1lzM3gwSWRVVng0OF9lNy0wY1ZmcHZkdmpOd2t3eE1DQ2RKTDRDRUxnMGN6YXBybEgwOEstUTctYlJ6eHJfTHJMQWthVTZnT21VN1Zrbi1mX2FWWFVsdUpzdDVWZm05SXRlelJQclVWTkdOTWxsbXZHS19QcWFZUE83WksxVTFKTDAzOEJUTHR2ZGczZUF1S0w2UmVOTmVocUcySkl4UkNtdVhhcHRWME5oNFF4aGRaSE1fVl8wLTVz?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 21:02:00 GMT",
-      "description": "Wildlife vaccine drop planned for August to help slow spread of rabies Bennington Banner",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Previous vaccinations shouldn’t bar worker’s religious vaccine exemption request, 9th Circuit says - HR Dive",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdzZuaVVUNDF3MDlNeTRnaWg1dnBheHRya0FIUUJVV3pydUlUZ0x0d1lsdUtZSUM0UHNXSXVWRUFxRlBFX0RXTi1CX01XWUNuOGI2SDkyRmxTZFhtZnUxSDE0TDRXaGRzTEw5NlRvbElBdmxUSFVWRktJZlVaVWs2ZFJrbGNDZllDTTJMQi1PU2w3MTBsVFI5WENyRS1nZkJhaF9yTmpkQUVtTldfYWc?oc=5",
       "pubDate": "Mon, 27 Jul 2026 20:57:35 GMT",
@@ -874,6 +913,19 @@
       "articleLabel": "Research"
     },
     {
+      "title": "Navy Requires Flu Vaccine for New Recruits, Officer Candidates - USNI News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaURBU1ZPRGo3TTVENGJ1cHVnY25nRmdkQ0poQWdjdU1XZmNjZGdvaE5yWEd3NlRlWjFfc3ZveHZRVXg0WTEzdHdGanFMM3JDdDZacmk0c0RsMVJyYllSaFRvbWdycXVrbFh5cnM4SzlUTjBUdXZoZlNmM1JrUjV1T04yZGlHSjNaNGl4eEsycDZuc3lpVHJpcy1R?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 20:06:00 GMT",
+      "description": "Navy Requires Flu Vaccine for New Recruits, Officer Candidates USNI News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Delaware County launches vaccine campaign as Pa. measles cases reach highest level in more than 30 years - Inquirer.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb3NKcWZHekNyRzNBUVVlQlpKTERsakUzamJpY1YzdU5nRWFyTUlKc1oxMUkxZjhKbVFKZnJNcmMzcm01XzF2NTZ6RGZjeU0xZ203YThKMFl5ZE02VUFaUEtnZGVsNnc5bHRZQnZ5czNMR1JKeTFxczloVFVoNjNEWGg4ZlpLSmxRQ2ZHaFhRRTQzdW9TQ3NiSlJkMTR5bTZKaDlBMk9JQVZ0UF9iU2c?oc=5",
       "pubDate": "Mon, 27 Jul 2026 19:50:31 GMT",
@@ -896,19 +948,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Measles cases rise as vaccination rates continues to decline - MS NOW",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV296ZVJkQ2M5d0dBaXpsNlVtbm0tenlXYWlabTVDWU1mbEpSazFPV19URmg0U2E5N3RSVDExNmxQNkN4QTFlT0tKUkZsbmRCMTdHc3hRMEE3aWloRWU1czVzaUZvY0h2TUk0Q3k3WlBNRG13S0xoN0UtczJWQVlLV2p5VTRneXhBMWtuX24zOFE5ZXpHYkNZVzlEaDliZWJGMThmLWhRNkdlQVlG?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 19:29:48 GMT",
-      "description": "Measles cases rise as vaccination rates continues to decline MS NOW",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1173,36 +1212,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Cassidy on if Trump nominee will change CDC's vaccine website - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEROS1VLRERlaEVWb21paEg4WU9YbGhoM2ZNRks0NW80LXloU3YtNy1HTjEzR19fR0VzMXV4bk1qblBYaWZIQzdTRzlTSDlyWEVzTDN2N0tZLXFoRFNZN3cxWG1HZzAxUXY1eFRLZFRySVRjT2o2MzMxdHVVQmdyeTdON296ZGZPUkh4eWdjY05rT1pQSUtfb3ctTFRGVkZTVVBvTVpJdDhQelJscktMSFZlOXlFb1ROS2c?oc=5",
-      "pubDate": "Sun, 26 Jul 2026 19:35:00 GMT",
-      "description": "Cassidy on if Trump nominee will change CDC's vaccine website CNN",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "He Was One of America’s Most Important — and Most Divisive — Scientists - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbG5MZnVkTTF3aXZjbzJaVnhiaU9uNUZQcVdyeWZwejktb0x1NG5IaTB0RWs2Z0tncXhTMlZ0bm9xREZENVktZzRhSXFZNkpuVTJrRnFKZ0VOVFF5ZnAxOFkwUHRTUkhiQ3ROWEhxZnl1dVRNT2d0YmxMb0RsbWh3T2Z4Y25KYnZWTWdJZ0hySURwSnYz?oc=5",
       "pubDate": "Sun, 26 Jul 2026 09:00:31 GMT",
       "description": "He Was One of America’s Most Important — and Most Divisive — Scientists The New York Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "The viral online attack on Pittsburgh doctors that sparked a national debate over vaccines - Pittsburgh Post-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemtLOU9JOFhOT0xmRlI5dFE3cE1Eb3MtRUtPQnQzanprc1pxS2hnbjJkeHJ5WlNTcTNsdmtsTldYNHJVWjVuWXp5VkNZd3NpS3RkZXdOdVZvcmExWm54b2JpYXA4WGZMRGxndXlQWlNncUFjMnkzQS1VMG1kMVBsVjVFWnNrVTNnMTN0YmhrT2pJZzdGRTROOHk5VmVnMmc?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 19:57:02 GMT",
-      "description": "The viral online attack on Pittsburgh doctors that sparked a national debate over vaccines Pittsburgh Post-Gazette",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
