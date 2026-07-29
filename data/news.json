@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-29T13:05:51.326Z",
+  "updatedAt": "2026-07-29T14:11:09.072Z",
   "itemCount": 93,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 4
+      "count": 5
     },
     {
       "key": "flu",
@@ -35,7 +35,7 @@
     {
       "key": "pneumococcal",
       "label": "Pneumococcal",
-      "count": 2
+      "count": 3
     },
     {
       "key": "meningococcal",
@@ -50,10 +50,62 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 61
+      "count": 59
     }
   ],
   "items": [
+    {
+      "title": "Local LSD vaccine offers major savings for livestock farmers - New Age BD",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR1pucm5odS1SdVlwa1Y4OUd2Q3BkcnczRnhEUkFJN01GblhhWHlXVk0zcFc1TmJQQjM3LUJWOXBVWEJPUlZ6YlkxaHo3ODlNSXBxelAtRmR0THRkcUlaM0N1dGlhRnVQamRVN1pmM2lqdUFFRUt3Sms4dVQtWUJIVV9FSUdXZ2ltaWl1VGJjbHp2Qzg2N3FWLVNWS3ZnSHVpYmNYUXFBdVo?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 13:50:53 GMT",
+      "description": "Local LSD vaccine offers major savings for livestock farmers New Age BD",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Use New Philanthropy for a Maximum Vaccination Strategy - cgdev.org",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNU9HbGdKcVZZck5VdzI3YkRjUHpzdEhKQjUzbFN0RzBsWUQ2dUNmRlJ0YkQ1RkhZd0hTS1EwQzdQbkNzNEh3S0YzRDdDeXNmdERTaTdCdFB0RXYtYmQyYnY4ai00U2tLNnU0bHFoeEszS1poaDRUTEtrMjU1aktiWmp3?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 13:29:35 GMT",
+      "description": "Use New Philanthropy for a Maximum Vaccination Strategy cgdev.org",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Why Moderna (MRNA) Is Down 6.5% After Europe Clears Its First Flu-COVID Combo Vaccine - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa1J0dTA3TkhweGhKRkNpcHpEdDlaVXgxWXpKUnpZbzJtS3dSN1VuZVB1a0dnMWFDYjZFdEstUzd1cXd1allrVHpMallmamxQVEtXcVFjZFlDQ25BZFNiOHJIZXU2bWdWeUFBaGc3UHZwVFVKaURrbXZTa1dtclE4WUZBTjhjbm5rclg4Vg?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 13:09:45 GMT",
+      "description": "Why Moderna (MRNA) Is Down 6.5% After Europe Clears Its First Flu-COVID Combo Vaccine Yahoo Finance",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Pfizer's PREVNAR 20™ Selected for Québec's Publicly Funded Pediatric Pneumococcal Immunization Program - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa1FTdXN1RktvaTJNZ0ZsOEN2LVJwcVUySGtjdldadXk1QXdWQ21sQUxIcTVNTWVTMkRFMDBtaHRhaDZId3BPN3Iwc1ZDaUNDSXJGVkROZ1lsY3RYY2ZxRDlOQlNwQnJSUTRLN05faFZMMkVaZzlTXzczZ0J3cVBEX01jcTk2UEY2UmYtLVF5cFVCUFJkY0E?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 13:00:00 GMT",
+      "description": "Pfizer's PREVNAR 20™ Selected for Québec's Publicly Funded Pediatric Pneumococcal Immunization Program Financial Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "pneumococcal",
+      "vaccineLabel": "Pneumococcal",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Pfizer's PREVNAR 20™ Selected for Québec's Publicly Funded Pediatric Pneumococcal Immunization Program - PR Newswire Canada",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOb0c1bnNrbm1VQUtBYkdiVDdUZ3BhUjFIN2tXX0llRzZwdldLc0I2LVN0S0sxRXhmZjFibU5ZUjdXME5lM3FtbURpWXYxMTJtVEViazU3cGNZZEZKU1M2VTBYOXNkaVlaQW1sQ2VuYTgzOUxTX2ZMVzVwdy1zTkpCLWVaMGw4Q1ZkcjlWSTExbkF1WXpla29KVEVyUENqWkdKaVB1S2lUR1pha3N3YW84LTg2bGNUQ2s4MzRUVE03X1JoUEM4LUNfNmJYS0t5Ym55SUk2bDgzZjZHN2htanhPeVFfVkxSYlBEUjU1R0Vn?oc=5",
@@ -64,6 +116,19 @@
       "sourceLabel": "News",
       "vaccineKey": "pneumococcal",
       "vaccineLabel": "Pneumococcal",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Super Shot hosting back-to-school ‘START SMART!’ vaccine event Thursday - WPTA | 21Alive | Fort Wayne, IN",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR2UwN2dHN0xYc3ZJM3F5UE1UQ3htM1pVQmpneEtQdW5Sa0xmWEtUamdNYjNueE1lZHFWek15dGJqeGhIMFBkclhVeGU1b25tWnRtRmdaUWdjdmFkYThnYThJV25pVUE1Z0FSTURndFFFY3FQTVI1bGJUbVlXbGlWbDlJZTRvZGMyYXlITnlodzVDV1RkaGhlU0pfMmZiUWFDUFo0TTNjTnVESkd30gHAAUFVX3lxTE1RaUd0cHNZMFM2bUZ2VmtBRkt6dFFUc2JiLWlXZjhWMloyWUd4MENfZW5ON1NVZzJxTDh4NXZ3cGJSOHRUX1Fsa1AtZXBTTGkzMnAyQlJjeDBDM0d6V0RqQ3FJeG5iczg3YXJEN0RZVmlkMjR0Z2xZR29HZjd2UnFkM2huQ1RQdVFjUWpfc3oyQWpsUjB3dThWeDlWRlpoOG5Cbm1nMDUxWWM1aE9jMG1iUzRXYW1pQ0RDVjJBLXVjcg?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 12:49:00 GMT",
+      "description": "Super Shot hosting back-to-school ‘START SMART!’ vaccine event Thursday WPTA | 21Alive | Fort Wayne, IN",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -94,10 +159,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Why a Rs 12,000 vaccine isn’t the silver bullet against dengue in India - The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQODdJd0hZbnRJc0xxM3NnbkpnSWxZbkczTkpQS1ozLV9wQzBRYWlnYzB0b3cwd0VGRW84c01fWmJUZ3F1czNIMkJWM3lvOEs3NnYtMnlnT1ZjY1ZMZzVzcklDSDN3MDhIQ0tPWWZIOWlheFNrNXhNYldJWktlZ2tNaFBacUFoRnJOamp1RlFBdkJTeWJ5VlB1bzhubGFsa0lsTUhpWEdkS0owNzFKSU1rdTlfMDVJWmNvZklSQ1MzaVZST2_SAcoBQVVfeXFMT2NkQkVERkRYdE9XLVNpUGFRVTBIR2NjTjk1ZWNZdFFad1M4ZXhFRzlla1QxUUZxU2VHNzRrbjZuSy1jNm02YWNNbG12VE8xSmRpb1o5TXRDYXhZS1pqTlBoSFJ2cDh5VTYxNTBDUHU4UHlDS1hHZ2V4bXNvckJzYmo4NnktWXh1eEV2VlBCOUV2N1hpNTZRcW1qMkpoYXVWVC1vN1dMSGRGaVRnNmI1aUpRd1MtY2V5cXpNYUY0WGJlb0phenppR2Rwdw?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 12:02:34 GMT",
-      "description": "Why a Rs 12,000 vaccine isn’t the silver bullet against dengue in India The Indian Express",
+      "title": "US lawmakers press Health Secretary Robert F. Kennedy Jr. on vaccine settlement - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY2NEUzBCU2xhcVRIcFhES3pjOFcxSUN5TVRGdjRKRkdEYUFUZGhQS2c2d3VnOG04NThYUHU2V1l6a1FlMHZhX0hVNHJNOF9MclZMSnU2RGp0ZXo5MFY1LVlvaWViWU9IOFl4a1JfaTFTR3UxMjBOQ3dGX2tZRFhzRmxUTzRGeUV6NXF6RlZWSWFKbG4ya0VFRVJBQVR6RGh4NjZMb2hlcFJvMkVYa25ncnIya3B2b3dsWlQtODBlaU1qRVllakE?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 12:07:57 GMT",
+      "description": "US lawmakers press Health Secretary Robert F. Kennedy Jr. on vaccine settlement Reuters",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -137,32 +202,6 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNZmRtd3ZmTDFJczdTT0ZndS1XMHFWUnMwUnE0UktpSDhsVjh1Q1NwdFVOQThnUXhIOFdMQUMtSTNVcF9YSmFRemVTXzF6c01JUDU5V1JlMFVvS3I2LVF5NmJqcDdrSWJ6X0YzdFdIQTRRNWVORWRIN0VzQlppUdIBgwFBVV95cUxQMER5TWg4cFdOM1FjYlZMeWltazloektaTFpqcTVOYTVQdmZrMXhiVzY4RnBXVzZYdUdxSVNnRFZmbVV0d0ZkU0ZLbDdpQk1fZEYzbnl6MTV2bHRzdTdUTXBKbzhQcFc0WWhwbmlBSUYwajVfclVIUExfLUtfc09oeTI2VQ?oc=5",
       "pubDate": "Wed, 29 Jul 2026 10:40:18 GMT",
       "description": "Trump urges RFK Jr. to accelerate childhood vaccine changes: report NewsNation",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "US lawmakers press Health Secretary Robert F. Kennedy Jr. on vaccine settlement - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY2NEUzBCU2xhcVRIcFhES3pjOFcxSUN5TVRGdjRKRkdEYUFUZGhQS2c2d3VnOG04NThYUHU2V1l6a1FlMHZhX0hVNHJNOF9MclZMSnU2RGp0ZXo5MFY1LVlvaWViWU9IOFl4a1JfaTFTR3UxMjBOQ3dGX2tZRFhzRmxUTzRGeUV6NXF6RlZWSWFKbG4ya0VFRVJBQVR6RGh4NjZMb2hlcFJvMkVYa25ncnIya3B2b3dsWlQtODBlaU1qRVllakE?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 10:26:50 GMT",
-      "description": "US lawmakers press Health Secretary Robert F. Kennedy Jr. on vaccine settlement Reuters",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "US lawmakers press Health Secretary Robert F. Kennedy Jr. on vaccine settlement - marketscreener.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWlhCWl9NQUFQejNOWXp5OGZkZHgwZnNBd2NJV2J5UzlxdkIyYWpITlBUUWI5SldIMms2YnRKMXRyc2ZnSmJCaXFXc2h5VWlaRWVqSTdHN3dyS2ZkWWlrTG5zVzFBWGFCMjgzcVd1RDA1VzVCdlZER0ZlbHl4QXNuTi0xTTc5WTJWRDJ1cjljOVNkSUdhVVZLUUpOcmNHN3V2aXNyNDlBUld4cmh5cTJDQVFUUG1ydUtFNWNHMFB6UTR1d1JuNEV1QXZR?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 10:03:57 GMT",
-      "description": "US lawmakers press Health Secretary Robert F. Kennedy Jr. on vaccine settlement marketscreener.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -267,6 +306,19 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNE1lM295M1F4d2VpdHRDdEI2MUN0MzZ4ZWM3STZvSVhXWUNnTkR2N2FkSDJyQ2tvTjBVaVNNazB0V2hxRkVOZnk4bTRiallFTGh0R2l3QTc1MEN5TlByenhfZS1wWXhmUDZrR0kzTTJGNUZISG8xSm51Vmd3M0pMN1lobnphNV9fMUVBVw?oc=5",
       "pubDate": "Wed, 29 Jul 2026 04:05:50 GMT",
       "description": "Anti-vaccine myths rattle health care Genetic Literacy Project",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Fifth Death Reported In NYC Legionnaires’ Disease Outbreak - Vaccine Advisor",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN2dUZ3g1RmdtdkVxenkyYUNEYmdJUF9vaTNURFNFVTZqejFNZlBpYzJtenIzUmF5cWViTVhuSXotaXhTR2t0dDJZUlVTdmVKTjJYempyamlkU0cwWEEzNDY1ZGtCQ0pfNXpBM25VTERQVUE0Vnc5Y1Zjc3VZQlZJb29xNXdjUy1FMzVMRGNwVEVYajVBOEMxa3dn?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 04:00:00 GMT",
+      "description": "Fifth Death Reported In NYC Legionnaires’ Disease Outbreak Vaccine Advisor",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -419,19 +471,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "STRATFORD HEALTH DEPARTMENT TO HOST BACK-TO-SCHOOL IMMUNIZATION CLINICS - DoingItLocal",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWTZLYWtkSkg4Tm5ocUduZ1hYY0F4aGZjZDc2UnZaR2pEMXA5S1FoaUowYVl0bUlad0RNd05teFgyRlpaaERESnJJLURxT2hhZ3RCSW82bzhTSFJzMzRTRU9WaFZzaXBqSGwyR01zMEllZHpjQjFPUm15VzZDYlNtWk41Mkh0TjNkbUJoQXphOGdvZ1B3d1BiaE9DRzdkdl9xdm5fVkRWWTBXdGNPbVE?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 22:03:04 GMT",
-      "description": "STRATFORD HEALTH DEPARTMENT TO HOST BACK-TO-SCHOOL IMMUNIZATION CLINICS DoingItLocal",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Families should check on children’s vaccinations - The Farmville Herald",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ2hsN1RwZ3g0T01ZSkI2NElsOUxXeHEySzN1UEUtUXZLczEwZTZXbnNpX1psdC02MlRTUkd1XzdTdVBORjg4QTVzbEVZZGJFWnYtVDB1aDNHSGtkRWJtMmgtcWpJZzA5UWV5RnpLYXpNOTc5WTFBNmhRM1V6WUFYNGNOLWJTRVR3VDREMw?oc=5",
       "pubDate": "Tue, 28 Jul 2026 21:58:15 GMT",
@@ -473,7 +512,7 @@
     {
       "title": "Most Aren't Confident in the CDC and FDA to Make Recommendations About Childhood Vaccine Schedules - KFF",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS1FKdXhGZjB4MkhUNS0tZXcyVVF4dkRJTGdoUkRNalU2NTQ4YVdPNi1qdEk2NlBNaVJoTXVwb2xZSHFxdmgyWFBISC1DWVQ1X0REMFEzcjJTRE1NZHJnWnF4eEtTZEVjWUJVMjNzbTVwVkNTNWxSVm1DajJBYWNmWlRDMWtvcHJOcnRYYWppMEpHSHo4NXA4Zmt2RGt2VDJyM1RoRkN5WXhEcWM1Y3FnZWVrdTF6cm0yaWxXaTIzVDh5YkhCbmRyUlBoVy1nUQ?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 21:09:10 GMT",
+      "pubDate": "Tue, 28 Jul 2026 21:10:01 GMT",
       "description": "Most Aren't Confident in the CDC and FDA to Make Recommendations About Childhood Vaccine Schedules KFF",
       "source": "news.google.com",
       "sourceType": "news",
@@ -731,19 +770,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "A quarter of Czechs and Slovaks are suspicious of vaccinated people - CEDMO",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVFQMTJPSXhFZ1FiekN1eDIwQjU1N2Jkc1Z5dGlMQjVqS2tTeFhKa0FtR3FHQmRTRTREM1JVaXdaNzY2RUNONk9XZGpaekZZMUVWSjczam9WaXZXZkxMN0NwMV80aDhvVTdHU2VDRURWcjByaXZ5LW10QjNvYkZ4N1V5RG91aWJUcENsU2lrYTg5UQ?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 11:06:58 GMT",
-      "description": "A quarter of Czechs and Slovaks are suspicious of vaccinated people CEDMO",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Maternal 6-valent group B Streptococcus vaccine in non-pregnant and pregnant females: a randomized phase 1/2 trial - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03ZDRBX0NuYXZ2S19CaTVGVGlLMExJcUs5aW9XNmttc3B6VXRrWXFINF9meDBiNVZhcjJ6NUJZWmM3RVlVSDVSdjFGMU9ldG1lTjRYSWdHM1d0YkNWWU9V?oc=5",
       "pubDate": "Tue, 28 Jul 2026 09:56:45 GMT",
@@ -926,6 +952,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Delaware County launches vaccine campaign as Pa. measles cases reach highest level in more than 30 years - Hanford Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxONTRyNHRoTmo0dTdpdWlsYXRCcmhPV2VqSmdNNldKT2hiNmxwVHk5cjZKazVhZmpHNWJ2V1JmMVZvTUpxc1VFa1cwY092TVFIdGpJTEJmLW1EQ2RrTklRTnJqWGE5VzRUa2xMV1p5QXhQVGMwRDZZY3FUVTVlVXRROHlLNHByYWpqN0RKR2xPRHVUdkZ2ZWx1d25ZTTYxeC0zUVBNTFB4NlJ0dEhIZHkwRzh6MWRmN0t1UTZMOXdrdEg3MVFoTGg5bkN1NXQtd0QxYk11MnIzRlNkWl9FSXVGbEZGN1BBR09wZExiMmcyeTY5SjR0dS1QczM3blI5eWw5bDVjQjVNZFdOSzF4TUlITllvczLSAZoCQVVfeXFMTkZKVHBybF9La2ZVRXJ2NUM4Z20tM1VJc0t3a0RDaE91NFZIbEFyTUdYdUNpVzZkZVI3cG9pWFg4NWFoTTRJSEN6aWpMallYS2l3amNKTk1ld2tRM0U1bDhLY0hhQUJLbWJaYl9KWXozZlktNWNMVDFVR2hPUGpEWFNmTlRmWExXTWlOU2c3Y1VKMDh1Q0RCTHlHbXozT0VWWENQemxIVzhTQl96bFdpb0tEeXVCVXkxUFNOSUtpcWFEbWZtYmdOTGw1cDhUaW80aXpDQ3UwNVFCci1qSjVhcFlLREZycjhwdll3TDhTUjdxQk5BZEk2M3hmdklZR1pkUXRWekMzbkUyRDMzcDZ0bHpyVG1kMkYtOHBR?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 21:25:00 GMT",
+      "description": "Delaware County launches vaccine campaign as Pa. measles cases reach highest level in more than 30 years Hanford Sentinel",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Previous vaccinations shouldn’t bar worker’s religious vaccine exemption request, 9th Circuit says - HR Dive",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdzZuaVVUNDF3MDlNeTRnaWg1dnBheHRya0FIUUJVV3pydUlUZ0x0d1lsdUtZSUM0UHNXSXVWRUFxRlBFX0RXTi1CX01XWUNuOGI2SDkyRmxTZFhtZnUxSDE0TDRXaGRzTEw5NlRvbElBdmxUSFVWRktJZlVaVWs2ZFJrbGNDZllDTTJMQi1PU2w3MTBsVFI5WENyRS1nZkJhaF9yTmpkQUVtTldfYWc?oc=5",
       "pubDate": "Mon, 27 Jul 2026 20:57:35 GMT",
@@ -952,19 +991,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Measles Cases in the U.S. Are at a 35-Year High - Time Magazine",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BTTlKVGxkLU5wU3VHaHktWVNHSEVibVU0clAtRmRRMGsxRnp4em5FbUtkZ2J3NzI2NHFJRk54TDJBZG9QUlRtN2liVzdSYnJLVHVZUUdZNGJSaFExeGFTaEh4aDNfNjkxcWRnSVlreDE4QzVt?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 20:22:29 GMT",
-      "description": "Measles Cases in the U.S. Are at a 35-Year High Time Magazine",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "First volunteer vaccinated in Ebola vaccine trial - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbVNnZjExWkZSZ3BGYkVoNjh1NmVsWEwtVmdUZHZWT1RNYUEtT2ozRWxXdFBKZVZ2UlRDaGQtVlRyQ3ljY2FMVXB0ZXMzb3VQZnhQZ3JOX0szUGRfYmJidXZQLVJkTG43bFVTQXlTM1BqYk1YZS1JaW5jNy1UdGgyN1lfRkdaZw?oc=5",
       "pubDate": "Mon, 27 Jul 2026 20:17:00 GMT",
@@ -987,32 +1013,6 @@
       "sourceLabel": "News",
       "vaccineKey": "flu",
       "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Delaware County launches vaccine campaign as Pa. measles cases reach highest level in more than 30 years - Inquirer.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb3NKcWZHekNyRzNBUVVlQlpKTERsakUzamJpY1YzdU5nRWFyTUlKc1oxMUkxZjhKbVFKZnJNcmMzcm01XzF2NTZ6RGZjeU0xZ203YThKMFl5ZE02VUFaUEtnZGVsNnc5bHRZQnZ5czNMR1JKeTFxczloVFVoNjNEWGg4ZlpLSmxRQ2ZHaFhRRTQzdW9TQ3NiSlJkMTR5bTZKaDlBMk9JQVZ0UF9iU2c?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 19:50:31 GMT",
-      "description": "Delaware County launches vaccine campaign as Pa. measles cases reach highest level in more than 30 years Inquirer.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Vaccine mis‑ and disinformation aren't just a threat to public health, but also to our autonomy - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRnhrbHFDeThfMzRNUy1aMk5KYVZET2Nyd1ZVRjBlU01WZ0NiSUlyWjg3cV9CZVZJUkpfSDNjZWNFRkpLYXVQZ3NsV3k4bjlFR2RLaHhNM2lER2F0d2czX29ZYTNhZmZKcDhrTDh2ZjJqZzdEVkxiRFIwZXdIN0NvczQzOUQwbzVQQVlfRA?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 19:40:01 GMT",
-      "description": "Vaccine mis‑ and disinformation aren't just a threat to public health, but also to our autonomy Medical Xpress",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1052,6 +1052,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "'Amnesia' about measles risk pushes growth in US infections - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPazRpSW9vZEJILVRzWDF4RF96b3NDaHBIQm1FWU1ITjUtSERaSHFLR1RTYWNZUkxjM28wdndJaWwwU3BCeGNlNG9QS0JEWVh3NnpKS0NqZFlKSjZQUFFUV1NaWG5DdTNvak9fcV9ZQ2Jwa0hvTFV2WVFGNXR1aWwxX2xROTJzbkJHellWYV9jemFhUlBkQnFPeWx4QmVnNUpERHdJajFqSzhnMU1iY2JKT0FSbmQ3eDDSAbcBQVVfeXFMTWZPRWdtRGtCelNSUElLaEYzM0NrWnlOLVlwaklGU2tYeENadWpVSUQ5NS1BOTlwZXg3eHkxNW1LclYyY1ZkX3hHejl2bVljUXVPdkZYYmxLWTBINjRPaDhBaG9YTzRYWGJLQjd6d1p1ck8wczc0MmtibnJ5bUZhallQRXB1OEc4Z1M0VnBvM1c4OG5SNnNlcXppd1MxZjdBRXdIQ2JyRG4tX0lRcWVVTm5HS0JEcHBR?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 14:59:50 GMT",
+      "description": "'Amnesia' about measles risk pushes growth in US infections DW.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1134,10 +1147,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Could this nasal spray replace all your vaccines one day? : Short Wave - NPR",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUXpJUlRXTlZaczFiTHBUcVhxNTRsTlFldi0xa2Q3VThudzVMVUV0YnQzUzZEeEpoTk9KR0ZxcUZtQTNtazE0QXNHLVNtWHNLa0RDOU1uQmZwQ25yS0hfVXJjMU5tMUxsV2FIXzFzczlkVWdGWXlVXzZONkVhT1hKVXhRY29YRkFWZFkxVE1GY3V1N2NOb2VQTWtVRDVTUGNlbjlEUVZRWGtLUVBTcjRRLWY1WnN1MFlETmJ1S3NJZms?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT",
-      "description": "Could this nasal spray replace all your vaccines one day? : Short Wave NPR",
+      "title": "How midwives like me can help fight medical misinformation - STAT",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ29ZbUkteFFDUVZSUlJnazhDdnVjQmVKMGJqNU1yQjItTkpUR3I1ajB4N1JEMmYwbHpPSG9mU01XekY3YlJwTU9lMGZDaXh3R05peUtaRDh6VUlwaUIweVFVc2NxR2NhREFIMGtCTzJadW5GWmN0cWFuNXBOWWk3cUhJQUJ5NDBzQ2JRQQ?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 08:32:47 GMT",
+      "description": "How midwives like me can help fight medical misinformation STAT",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1147,10 +1160,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Experts share vaccine importance - WPSD Local 6",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ3h3R3duYmtCR1JaOFNCN3duRWFHUlZqV2ZxM0VCZ3NmYTZfR2dzMUxKelJtNTA5eDlqbjJCNHg1dzdJcVk3RDNVbUtZVDBrMkQ3Qi0xUnBFc1hySjZhXzJPVlowbmhCM083N2FOemVuSVR6TXBSbkNxTXFlTmVYNE16TWxiTnJSOXUzY1ZjbTVqMDZPaEY4cW5sYXNLSW9VWTk4MjNSd0pSd0pxMklGXw?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 03:00:40 GMT",
-      "description": "Experts share vaccine importance WPSD Local 6",
+      "title": "Could this nasal spray replace all your vaccines one day? : Short Wave - NPR",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUXpJUlRXTlZaczFiTHBUcVhxNTRsTlFldi0xa2Q3VThudzVMVUV0YnQzUzZEeEpoTk9KR0ZxcUZtQTNtazE0QXNHLVNtWHNLa0RDOU1uQmZwQ25yS0hfVXJjMU5tMUxsV2FIXzFzczlkVWdGWXlVXzZONkVhT1hKVXhRY29YRkFWZFkxVE1GY3V1N2NOb2VQTWtVRDVTUGNlbjlEUVZRWGtLUVBTcjRRLWY1WnN1MFlETmJ1S3NJZms?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT",
+      "description": "Could this nasal spray replace all your vaccines one day? : Short Wave NPR",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1190,19 +1203,6 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEROS1VLRERlaEVWb21paEg4WU9YbGhoM2ZNRks0NW80LXloU3YtNy1HTjEzR19fR0VzMXV4bk1qblBYaWZIQzdTRzlTSDlyWEVzTDN2N0tZLXFoRFNZN3cxWG1HZzAxUXY1eFRLZFRySVRjT2o2MzMxdHVVQmdyeTdON296ZGZPUkh4eWdjY05rT1pQSUtfb3ctTFRGVkZTVVBvTVpJdDhQelJscktMSFZlOXlFb1ROS2c?oc=5",
       "pubDate": "Sun, 26 Jul 2026 19:35:00 GMT",
       "description": "Cassidy on if Trump nominee will change CDC's vaccine website CNN",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Hale County Health Department hosting free back-to-school immunization clinics - KCBD",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOclFkb0FCNVhCMXFoV1k4ckpHNGQ1T21CdGRHQWVveG9UWHE2anBhcG5tSkFBWlgtRDJ5cVV5ajJJdnlNQ2RtNmMyVDY5c2w1VkViR2loVzVRRzBFb242S0JHLVNaSGpHNUd1Mm5ta2g1RmZGRkZ2Y2RQYTVXM2xJOEhGczZ0TnlWRTh6UHNOb3pIUkxOM3R2NzNjUlB0UzEzd3Bxb09RaTlZMzVkdWxGVtIBxAFBVV95cUxPeW1fLWpmOTVnbGY1Mm9RLWNONFp0WFB2SlRNMTB6RDBKRGxSeW9BcUNuU1dqMWwycmdjeE5RczRPY2FhMjhMUUx0azVwUTNza0h3Q2U1N0dONnZQbE5JT0VFSl9Bek5DUVludXVJR2lvQzhqZm14YmRMZWlXdmZheGdwQm52bmYyV3JDUGRPYXpheUV5ck4xeGZEdHAwTVdaN0w3ZWF2anhCNWVxOHFLVGJkSmxFb1FVcjJqa2kyNGZ2VnNM?oc=5",
-      "pubDate": "Sun, 26 Jul 2026 14:49:00 GMT",
-      "description": "Hale County Health Department hosting free back-to-school immunization clinics KCBD",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
