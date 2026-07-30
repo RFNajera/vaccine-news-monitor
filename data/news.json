@@ -1,11 +1,16 @@
 {
-  "updatedAt": "2026-07-30T18:54:49.142Z",
-  "itemCount": 93,
+  "updatedAt": "2026-07-30T19:57:36.757Z",
+  "itemCount": 94,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 5
+      "count": 6
+    },
+    {
+      "key": "flu",
+      "label": "Influenza (flu)",
+      "count": 1
     },
     {
       "key": "rsv",
@@ -15,7 +20,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 10
+      "count": 8
     },
     {
       "key": "hpv",
@@ -35,7 +40,7 @@
     {
       "key": "rabies",
       "label": "Rabies",
-      "count": 3
+      "count": 4
     },
     {
       "key": "general",
@@ -44,6 +49,58 @@
     }
   ],
   "items": [
+    {
+      "title": "Historic Ebola Virus vaccine testing begins in Oxford - The Oxford Student",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbzYzYjdSb2JFSy1ybVRRRTd2ZVNhcXBJMWluLVdIcUVtWTBVVVl3VDFKRlBFR2F6TG14bTZLOGVlOVlEUmZxQXdsTlhKVEU5YVNrUFV2UDF4R3VsTWZaZzJQMHZ3OGNwcXp3S1AtU0NkM1pCR3NuVG56Um4ydElrYVFYRUFFd0phLVlSYjFLRUhHVjFUWlYtdFplMA?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 19:45:24 GMT",
+      "description": "Historic Ebola Virus vaccine testing begins in Oxford The Oxford Student",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Moderna Q2 preview - cash burn, vaccine sales on focus (MRNA:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMDAzTzZyX21MTTZqbDZXbV9aYjNWTG9RR29XVU0tR2NxWDhRb0I3a1VsQWlGZHpLMlNnR3Zzc0JaQ09jdmdlZEhZOVNPNmNKR0xjdkNkbW1pc3FTQi05Y1AwUHRkNWExNTc3LWt4U2cteGw0R1RnTVNWOGktVm0wQmxLWDhsekppT3dxYXlkZUJYN3lsTlE?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 19:30:44 GMT",
+      "description": "Moderna Q2 preview - cash burn, vaccine sales on focus (MRNA:NASDAQ) Seeking Alpha",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "CDC nominee clears key Senate hurdle despite vaccine scrutiny - GovExec.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa2F3RVN5X3pSUTlucFNxU0g3Z2E4N2ZpLUxfNWw5dDhNZWhPc3RxSDFIX09hRzAzd1ctdGJ2TjVjZ0l0UTJZb2xwZGR3UUhRMkxxNEs0NzBVaUxRX0MyRXVVXzlMMWVzemxtUVNUdGI2TTZvcWF0bmtUb1M1NklBZTR5S2VfaVY0Wk1xWDJrMmc3Z0VyNWgxZHk1bzJOSWJ4alpqamRab2hkMWdEYThSUlN3?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 18:56:05 GMT",
+      "description": "CDC nominee clears key Senate hurdle despite vaccine scrutiny GovExec.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Time of Day Doesn't Affect Flu Vaccine Effectiveness, Large Cohort Study Finds - Pharmacy Times",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd0Jkei0xVzlZRWROMUdnbEpIVmhjUlgxVklWOGdaY0JNY25iZjVkWnFIejh3SWlMZk9NNXFLTG4zaXItYWdQRUU3VkFPeG1mbFZYZThwNnc4UktxOGtablNRaDQ4VFk0RlJXbUdYQV9mWF8tbnRxMWY4R1ozR1RCTjlvVkowV25IMEh0R2tENDFFLTdjUnJYRk5LT3BJdTZKeGRKZ1QycHhFV2hmRW9EOTRR?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 18:53:15 GMT",
+      "description": "Time of Day Doesn't Affect Flu Vaccine Effectiveness, Large Cohort Study Finds Pharmacy Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
     {
       "title": "Verify: vaccine requirements for schools in South Carolina - WCNC",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNc1d1TVB3alpmMGwyLVpDTHlZYktvUGtSRnl6SGc5T3NvUTVFeXdpWnRnTVYzbFhWdVpkZkhXQ2Q1aWRZYzR5OWthOEIxRkRRY3VWSTVaYUFZdFJxRDFTQUJNMEMwOUg3YVA3Z0hDUVl4aFV0NjBvZnFtQ1NTbnFEZ1k4V2M4dXQwWVFiQzZiR3RfaXNmb3lNT3pYUXc5N215YzNmb2JNMmhJanlFMUsxd3pidC1KWWRCRHJ0QnJwc2pyeTVlZWQ1SDFvMk9WS1FYbllkQ3hPMjNKb0tqNU91ODBaeU0yZw?oc=5",
@@ -54,6 +111,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Medicare Will Stop Requiring Nursing Homes to Report Staff COVID Vaccination Rates - medicaldaily.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONEFlMHA0ZlFWQkNPa2NmX0RDVWNDUEVLYnRuRWZILU80dUItSVFRSWJYVEFFNUhlNFB6M1NlNlA0bGV3RUw3aWQyVFpvam00OTVKUnJlUW9xdlRjNk9fRnNLTzJvREpuY2VmMEt1S19OU2NHenQxTUVGaFpPQ01vY3AzN3Rvbm02ZUxITVlIM1RXNGh0TF9oVHVHLUZFMEE?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 18:45:09 GMT",
+      "description": "Medicare Will Stop Requiring Nursing Homes to Report Staff COVID Vaccination Rates medicaldaily.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -88,6 +158,19 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY0tYRkZ2aWgzV21wR3RYSkQ0Rm13TUtmdDd3SGlZMHptanQySXhldTZQWG95bnA2Z1NZUTFfb0R6QXBHaHJVLU02SzdpdXNOOXVKeUxURFVnWldtMDA4S0RiT0JTbDJkTk1OM2NXcGtwUjRwUWtmUkpicm5fV1Q4ZGJSamRzcXVlLVB1UWtxZFNfalU?oc=5",
       "pubDate": "Thu, 30 Jul 2026 17:54:00 GMT",
       "description": "Upcoming free vaccine and microchip clinic with CHS KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "State Vaccination Averages Hide the Local Pockets That Matter, and Most Places Do Not Publish Theirs - medicaldaily.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWkJQUUtSRTZONzFtUGViN2l6eEJHZzNFSERaQk5uQ1BXQlFKS2h0MTNHYmRweHc3VHpUVnpYRWRRczFvb2RNamx1dktYbXdDQU5Ma296MUhYakpoQThiaWhsZ3ZXWnNaRzIyLWh4NHRSMmJlNGJUc1RDNmJ1dkJqX1VhTDRCeXR6d3d2dzBGVFJWWHVfVzhzT2lWSHFzRFIy?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 17:45:01 GMT",
+      "description": "State Vaccination Averages Hide the Local Pockets That Matter, and Most Places Do Not Publish Theirs medicaldaily.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -149,10 +232,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Allen County Public Health to host Back-to-School Vaccine Clinics next week - Hometown Stations",
+      "title": "Allen County Public Health to host Back-to-School Vaccine Clinics next week - hometownstations.com",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOczFpSzdHNWRKcTVvWjQ3TWFpSjRBb3lqOUkxSDhtZkpfYWFuTTBYLWgwMFNmVlViZDJmclo0eTN0d2x0VHVyMngtM2xFVDl6MHZRTjNPaDYxdm5jQThrSk9rVFg4OVFlUHIwX2tSLW91YXJ1cmdiMGRlYmtQNWtqUV9Rak45Y1UwUHhOZFB1dTVJZTQ2Tk16YlEzZEE1cDZUd2l0SE81Z1M2VU5JVHlOSG9SZUpyT01DVzdRV1lmSzhPbDk4Y2dpaHJPbzRtRUNXTUFSdVRnWGp4b2U0LVNVZ3B1VGoxY1dLNXo5NkhPT2x6Z0NjY2tPMU1rNi1qbmZVUnNTLUtHWQ?oc=5",
       "pubDate": "Thu, 30 Jul 2026 16:44:49 GMT",
-      "description": "Allen County Public Health to host Back-to-School Vaccine Clinics next week Hometown Stations",
+      "description": "Allen County Public Health to host Back-to-School Vaccine Clinics next week hometownstations.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -164,7 +247,7 @@
     {
       "title": "Researchers find ‘priority zones’ for yellow fever vaccination of golden lion tamarins - news - Mongabay",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWmdReHI0UExQSnRaQzV4R1VUR0pZdzU3UjloNFctZ2E1VURWZE5KanZNeDVUNWVzcWgzMmpDaEk0SGZlQVVtZEI3MkxlRWM4QjVBT2s5RWhDOHh3TnB3QU5KTF9SZXFqblBkTGl0SkE2eHRtZmdDQ0dwMHBka1ZBajYyZWtkeTNzSEU2QWkyME94a2gwVFAwM1N5SmVWWFVhcllPSDEzVU10VWpXSTFickVaanlUX1I5MTBv0gHAAUFVX3lxTE9BTG9LU25vYzhSNkQtRUdBT3BmR2dkMTViQl9LODYzZzlPV25xMmxrXzJQRmpJSXJHR0xCb09Kd1ljTFVSQmZkYV8yM3BkZUJFLV84QjVrVV8tX2NjRDlQYnpYckNVUHozY0NFbG14ZkFKTFdFY3NRTGJnNnI0ZEswb25qQXY1RWtOTE53T1R0VEtPVU80QXN3azFDbkZEcXYzZjI1WjlsSV9sNjVIV0s4aS16ZVphWTNjNDQyN2ZQMA?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 16:36:55 GMT",
+      "pubDate": "Thu, 30 Jul 2026 16:38:09 GMT",
       "description": "Researchers find ‘priority zones’ for yellow fever vaccination of golden lion tamarins news - Mongabay",
       "source": "news.google.com",
       "sourceType": "news",
@@ -279,10 +362,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Senate committee advances two public health nominees after vaccine misinformation talks - mezha.net",
+      "title": "Senate committee advances two public health nominees after vaccine misinformation talks - Межа. Новини України.",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UR3h4NW50ZTJUc0lSV1phU0MwaUJUSlFSUmhwZE5UeEppX0I1OEY1RjlOOUdna1JyUzE2TWVSbWJTeS1sTl9OaW9LVERPS2Yza0s3bTZ1bmhEekZTTHlmOHg5eVBETUNmc21od1EtTzI?oc=5",
       "pubDate": "Thu, 30 Jul 2026 14:53:58 GMT",
-      "description": "Senate committee advances two public health nominees after vaccine misinformation talks mezha.net",
+      "description": "Senate committee advances two public health nominees after vaccine misinformation talks Межа. Новини України.",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -357,10 +440,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Trump administration unfreezes $600M for Gavi global vaccine effort - thehill.com",
+      "title": "Trump administration unfreezes $600M for Gavi global vaccine effort - The Hill",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LRjRKYjZLQnF2b1NHZjI4elhtNjduNlJUUkVVZUY3OEpVWnBoakhVRlJFc1lRVFpZZ0YwNThJNTZnajlKYXRsWkpxUXhOSXFoWGRCN2dkODZTYjRtSmF3ZmFMTm9WczdzUXJ4THF4M1FsRHQ0NzBTeWRzRURCUUHSAYQBQVVfeXFMUDRRbkFySXNQMjB5WE5ncF9kZlpyU2JTbU52SmNnMldwM2ZiVG9pWXNSa2UxeXE5aEJpMU9Takd0NE43YmhYYkNrdjRjUWRxLUQxM29FMGdJQk5KZWc3R2x5N0xHMHJIQmxhYXljODRtYk44QWkwRE54STlfMXNZR2pTUTFK?oc=5",
       "pubDate": "Thu, 30 Jul 2026 14:02:00 GMT",
-      "description": "Trump administration unfreezes $600M for Gavi global vaccine effort thehill.com",
+      "description": "Trump administration unfreezes $600M for Gavi global vaccine effort The Hill",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -385,7 +468,7 @@
     {
       "title": "World’s most mosquito-bitten district records sharp drop in hospitalisations since malaria jab - Gavi, the Vaccine Alliance",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeXotM2FGOHZiVVVwWDFIMlhQcXVUczlKdTBYcWFyQl9vM1hQNXhYNGc5anBzU204b1Bnd3U4UDVGeEF0emdmYU9ScnI3QjlIUjNlNTdIZERuM0JWM2EtdWl5dTZBLXlQdHFBRlRZOXM5VFJ2MzdxZWNwLU9TWW1pM05OLWdTQWdKVV9xZElHdmpzQ0ppVUN6Vm9kYU1naGxYVU9xREtEMzhlYlR0MkwtbXlScUM?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 13:55:58 GMT",
+      "pubDate": "Thu, 30 Jul 2026 13:56:45 GMT",
       "description": "World’s most mosquito-bitten district records sharp drop in hospitalisations since malaria jab Gavi, the Vaccine Alliance",
       "source": "news.google.com",
       "sourceType": "news",
@@ -396,10 +479,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "RFK Jr.'s Gardasil litigation ties subject to fresh lawmaker scrutiny after Merck settlement - Fierce Pharma",
+      "title": "RFK Jr.'s Gardasil litigation ties subject to fresh lawmaker scrutiny after Merck settlement - fiercepharma.com",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNTVGZGR5MTN4NlhTZ3JCa2dwc014WXFmaTlxUGFJNFRnRHk3Q3dqQ1Q1YzB5RlVnUzkwWWZ6dl9MOGw0ZmJMWG9Ob2R5VDNfZ0tvMXRXZ3pEOTR1RU5XalZXaWlRMVNaV09RV2wzQ2hmUTluczJBeWlxY1pLdmE4NHpLVjdkaVJxMkNhX1dUZzlFeDgxSUo5a3AxWDNtZ1dTQXlybzdqQ211U3BEQU5KajJveXdPZDBwcVV3R1NDcUo?oc=5",
       "pubDate": "Thu, 30 Jul 2026 13:50:54 GMT",
-      "description": "RFK Jr.'s Gardasil litigation ties subject to fresh lawmaker scrutiny after Merck settlement Fierce Pharma",
+      "description": "RFK Jr.'s Gardasil litigation ties subject to fresh lawmaker scrutiny after Merck settlement fiercepharma.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -409,10 +492,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Gavi Welcomes Restoration of US Funding – But No Clarity on How Agency will Phase out Thimerosal - healthpolicy-watch.news",
+      "title": "Gavi Welcomes Restoration of US Funding – But No Clarity on How Agency will Phase out Thimerosal - Health Policy Watch",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtTlgyekR6Q1cxMUVzN0NlUERDX2I4RjRmUDJKUHNYUEtIZEg1WVpPOUhGNzVkdVpsNWtxZ3JXWDBGbnM4NE4wZ1p4VjNiWWQwazJQLWhEZUR6ZUpSSU5SN1dzeXk?oc=5",
       "pubDate": "Thu, 30 Jul 2026 13:45:51 GMT",
-      "description": "Gavi Welcomes Restoration of US Funding – But No Clarity on How Agency will Phase out Thimerosal healthpolicy-watch.news",
+      "description": "Gavi Welcomes Restoration of US Funding – But No Clarity on How Agency will Phase out Thimerosal Health Policy Watch",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -487,10 +570,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Vaccination clinics in Lima, Aug 3, 5 and 6 by appointment - Bluffton Icon",
+      "title": "Vaccination clinics in Lima, Aug 3, 5 and 6 by appointment - blufftonicon.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc3duSVNqcEVpZ2x1aGwweGpJOWhLNEZTVldwakU5ZExCaTJfRUgyNUc2Q0tsWVQyNG4wSFVtNUw2LURNb1ZRYnQxNE5qRlphMTE1WmpJU0MtWmFXMmY4NDc4WmxWV3ZMNzdOQnNGeHQtMjl4M09IVVZDVl9KNF9iNklkRWp6LTUwa2hQT2dPNkJZNHVwX0lrTzJpUQ?oc=5",
       "pubDate": "Thu, 30 Jul 2026 12:34:39 GMT",
-      "description": "Vaccination clinics in Lima, Aug 3, 5 and 6 by appointment Bluffton Icon",
+      "description": "Vaccination clinics in Lima, Aug 3, 5 and 6 by appointment blufftonicon.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -552,19 +635,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Trump Pressures RFK Jr. to Cut Childhood Vaccines - North American Community Hub - NCHStats",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OaUI2TlRYWXpHUHhlekRtc052MUd3ZThlc1JJb0JTRC1wTHduREFjNWMwWGxOVmxMQzRyeENqUGNUcTFRYVVtMGZUeGJGSVlaUk1qTXJHd0h1Y3pxSWtsNjBFSl9lUHFnQ29DQmkzQU1MbWpTb2h2MlVB?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 10:23:22 GMT",
-      "description": "Trump Pressures RFK Jr. to Cut Childhood Vaccines - North American Community Hub NCHStats",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "VERIFY: With SC schools starting soon, is your child's vaccine record up to date? - WCNC",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV2o2SERIY2hzMVVmc0pZYVN2VllnMUVNUWNUYWF1VWI1Z3NjbEUxcnAxSDRKS0lHUmdwa2xUcHRKMGVfVU9KYTdYSEFRSlRvelFYcWYzbzJ2ZnRLczh3LUlKVG85cFNPRTBGdWxybFdOSU9oTFBZZ2VzRFozSVQ0M3daeWp2UEJmelNfYXhGX3BjUXJ1YURZOEV6QVllNDBlak1zXzlZNmlCTlUyR0htb2FzZEMzRTZZRWkzaTlfUFVfRlpWRU9HYXR1dw?oc=5",
       "pubDate": "Thu, 30 Jul 2026 10:21:00 GMT",
@@ -591,10 +661,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Trump releases $600 million in vaccine funding after RFK Jr. wins key concession - The Independent",
+      "title": "Trump releases $600 million in vaccine funding after RFK Jr. wins key concession - independent.co.uk",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWDdQOGc2dFoyX0dQM3dJTzIxRzFJTDVPeHJNa3h0RExDS203U1ZxNXNFdDhKVUg0bzUwSmFYd1FCSW1obGxxSG91RVlheHpWU1dCMzFWOUVEVlRyeGVtNDJmTmlIejZfU2pta0FoZ3RQWWkyZFJUcDJrZ1N3Uk42R25BN0IzRzJtZkVMNzc5bm1YSm1vdEhHa3hpanBHQlVXc1FYWHIxbFhCY2Vy?oc=5",
       "pubDate": "Thu, 30 Jul 2026 10:04:00 GMT",
-      "description": "Trump releases $600 million in vaccine funding after RFK Jr. wins key concession The Independent",
+      "description": "Trump releases $600 million in vaccine funding after RFK Jr. wins key concession independent.co.uk",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -617,10 +687,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Thursday Shorts: HIV funding cuts, GLP-1s and absences, vaccine uncertainty, and vaccine legislation - Substack",
+      "title": "Thursday Shorts: HIV funding cuts, GLP-1s and absences, vaccine uncertainty, and vaccine legislation - employercoverage.substack.com",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zNF9lMi10WlhHN1gzcVdsVTIwcDVkbS1IT216WkNOd0lwMVdhaXNWQjBJaXdHajFhWUxWdVRFbFFnMDZ2clp4aE53LUx2eWtVc1dwcHAwQjJVTzRySnhSNDhGZmJHblBHR1BuaXQ2VVltSnhjR3pHMjQwdGk?oc=5",
       "pubDate": "Thu, 30 Jul 2026 09:04:29 GMT",
-      "description": "Thursday Shorts: HIV funding cuts, GLP-1s and absences, vaccine uncertainty, and vaccine legislation Substack",
+      "description": "Thursday Shorts: HIV funding cuts, GLP-1s and absences, vaccine uncertainty, and vaccine legislation employercoverage.substack.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -721,10 +791,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Ebola Vaccine Race Accelerates as Congo Outbreak Outpaces International Response - bloomberg.com",
+      "title": "Ebola Vaccine Race Accelerates as Congo Outbreak Outpaces International Response - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVUx0a0F5NlpfVFpLSVBJM2RvN3NtMWpBdEdjNGlyRUJsRnhCaW0xa3pvWEVHTndYUjU3ellyU1lPSTAtV3cxQTlpUTVTVGZkRUJGbDVwS2ptRUo4MTIzVjNMRmRTYkNBaGIzS1VxOG9FMm1vajJibjk3b2xmUWZTejdZaGFjeGY5TTZqQWYwQXUzWTg4UnJEN2dyZVl4TzQwWURwRHVjZDI5NGRPak5GbHZfQWJNSDdnS0JDX21GN25FM2VOemttTzkwNHQwX3hWQTBjTQ?oc=5",
       "pubDate": "Thu, 30 Jul 2026 05:00:00 GMT",
-      "description": "Ebola Vaccine Race Accelerates as Congo Outbreak Outpaces International Response bloomberg.com",
+      "description": "Ebola Vaccine Race Accelerates as Congo Outbreak Outpaces International Response Bloomberg.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -799,10 +869,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Health experts encourage communities to consider practicing immunization - wvva.com",
+      "title": "Health experts encourage communities to consider practicing immunization - WVVA",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVmZYVWV0cTVpN2htNnlneGZHaEc3UG9jbnZEa3RrVVdMTk50OEhHXzRQZDZHbmZMNHRqblRRWVlGME9YeWRENEhCWHMyNTAxTzJHckozM242MTVoWW5IUU85TjhheUdNOEFad3Nzb3pJamxKaFpNNjlyQUJweFZIaS01d1NXTGdtRnhyajc2WWo5Tk5VcVFmRjBJZlA3aExRZkFmSdIBuAFBVV95cUxPaEFiNC0zd0w3Q2xNNjAxYl81Yk9HVUp4Sk9ZazJ5UXNqa0luSFVpSjZSSDdUX1FRbHlRMjJzeUZDbC1JZF9rWXRyRFJJb1hITG1qQldxSkRXSFZSYXFXWEJmMlVVZTVTWENyNFdGWXNJOUNNeXFBVlc1NEFKVmJGY2RvbHpMSDVmU2s1VDdOdUdHQVFnS3NkOVRpaWVGd1RGbTZuZXBqM2wzSDF5X3BSQndYZlMwem9K?oc=5",
       "pubDate": "Thu, 30 Jul 2026 02:37:00 GMT",
-      "description": "Health experts encourage communities to consider practicing immunization wvva.com",
+      "description": "Health experts encourage communities to consider practicing immunization WVVA",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -877,10 +947,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Mesa County Public Health holding back-to-school vaccine clinic - westernslopenow.com",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYl81WXBhM25vYmZPSmhZX1VIZTZqM3FZOWNfbF9CXzVrX2k1LTMta0hCR0pRN0EtdzZuSDh2eHJwS0ZVLXBJUjlIektpZHpUUzZxQzhvRUxpaExyTXlWSExaLVplYV9SMDZKbWpRQkpmbWZGZWZjeXFzejFTVmNoRmp3OUpvWUExNXRWa2twTE44Q0NkTnVOQjdxaUdwU2UzNF9EOVlKc3lXdENwX2NwZUVMcUh4NDFHOTFQUVRyajk3aDhEWUpPTzB1YWpfeUFX0gHWAUFVX3lxTE05YlExR2tGc0trZ1hBWUxBTGRYbzRFNjQwcjFra3l2WWJzTk5jZFE1WFVXNWNDNENlV3hGcEFUNV9Mb1NPbzZSMUJfcTNsUUx0XzBoenZvYzNwZktJbmN4c3JBclZGZWpMYUNvUldJU29ybnZHV0liQ1h1b3FLZEFreEpNUHlTcHMxSy1zR2IwU2FZUFdVVE92LWlLdHlQZ3Z5V0tLcGlqSGFPRzZnZEhsLXhHWHhKT1JXRkYzb2x4bTFxVGZqeDlrMlZiblgzMHk5NWI5Q0E?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 22:52:22 GMT",
-      "description": "Mesa County Public Health holding back-to-school vaccine clinic westernslopenow.com",
+      "title": "Mesa County Public Health holding back-to-school vaccine clinic - WesternSlopeNow.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUlpfVHY2YjM1UEU2ZUhBNzVzQzJoamQ3LXFkOHROREYyV0huQWJveTJZYVRicG5HdHluTGg2R0plWTlaRTRsdzZQdkQwTFdsckxhX2VPcXRaMHExd1FFekNXR1FrRG1DSTh4SGx0dl9Ga1FGVFVYa0toNXE1Zk9PeVZzX21qVDdnUm9VQktCYmVqSm5DNk1fYk80M1BlY3YxeTE3VVpMbWhRZjlaaGNMRQ?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 22:52:02 GMT",
+      "description": "Mesa County Public Health holding back-to-school vaccine clinic WesternSlopeNow.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -890,10 +960,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "RFK Jr. Restores Vaccine Funds for Poor Countries After Dispute - bloomberg.com",
+      "title": "RFK Jr. Restores Vaccine Funds for Poor Countries After Dispute - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNkFKLUFPbDdYc3BmUjhyZmU2bWswRkJlV1ZCSGM2MFZOdzRDekJkWmtzZFZId2EzQmNfTlNsQ1J3aVk3ZTQ0T2tqOGZ5cXFHT2FGWGNmTjBnZ0xFNEt2cUE5Nkh0dlUyTVFXelJiS0FKOUlFWE1GVkhRbDF0NHNQYmFHR0cwRHJqUGRSUTJmUk9BaDRjb1BqYlNGRVVLbGpyWnladkJSRDJVZUsxaXNKOGFUdw?oc=5",
       "pubDate": "Wed, 29 Jul 2026 22:45:21 GMT",
-      "description": "RFK Jr. Restores Vaccine Funds for Poor Countries After Dispute bloomberg.com",
+      "description": "RFK Jr. Restores Vaccine Funds for Poor Countries After Dispute Bloomberg.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -903,10 +973,36 @@
       "articleLabel": "News"
     },
     {
-      "title": "Oral rabies vaccine airdrop for wildlife populations will occur end of July - North Country Now",
+      "title": "Hallsville ISD hosts back-to-school vaccination clinic as exemption rates rise across East Texas - KSLA",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSzV1RU5YRVI3QjJTU2VVS0ZRUlE4QTVEODRucmx3OFFxckxfSGhkN0gwNDJuOThoVWdEYkY2TF96Mmd5eC1OUzczTlJZSUlPc2x0a3NsRnlPV05HMm5FQzhnTFdBbXpMdDIyS3VLMzBKWlhJUmlzZ3VWLXRNYVJaMzhGT0FWdkt5OTZONXN6ajdib2lBS3FvaC1GX1ZZREI3MmRpbDJnSkxXM1IzemxuRTk3cDY5b29ZVGlZbVd1X2k1U0hi0gHYAUFVX3lxTE9yR0EyUmU5Vmg0QWtKMG1mQTY3WmlsZ2tSb2RTcTdCRnFZODUwdnhmUnI4SHVsc2lTYTJMOW91dHRRRUxKSnBnTjBYeWREd3JoWTJMWkROdF96dTJSeVpUQUI5dW4wYlhrWTlac1FzN2szOWJhcjBLMUI2VlVvWV9WX1FxV0Z1cWxKYW1DS0Myc3hEdElfVjhKYUI4V1JrVy1idWI5X2ZOeDFmSjFMYWplU1NiNmVtZzQ0Umdoc19la1pJVnY0VmFJcDFuRC1YMjBxcnFEQnlfeA?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 22:14:00 GMT",
+      "description": "Hallsville ISD hosts back-to-school vaccination clinic as exemption rates rise across East Texas KSLA",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Joint Statement on Strengthening Vaccine Safety, Accountability, and American Leadership in Global Health - HHS.gov",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVHBzbXBfX09lSUN6WERBSENNcWwwZFkzY2hPOXBvRXp4ZWhLZHJKRTBBak1yQW1JUGlMVXdoaWhlUWMxdzREckxTZ1pqOUVLWUV4eEgzeWRJUEVXV2xRZlVYVHIyQzhyQXJnUkFjTVdDdl9WMUJ5YTFQRmVyOUZaYnFkMVVRcEc2RXZ1VV95SXY3X1RnZ2ZSam8yY25TSURoQThuM25iSzh2aHN2SkZMRW1VQnNTT3VrRmlGMVdTenhTMWRFTDZNQg?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 21:33:00 GMT",
+      "description": "Joint Statement on Strengthening Vaccine Safety, Accountability, and American Leadership in Global Health HHS.gov",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Oral rabies vaccine airdrop for wildlife populations will occur end of July - northcountrynow.com",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91Yk92dWo3b1NuUk4tckNSdXF0RmtQMXItaHRUYmdWbWp3T1F2d1UyMDJUT0MtbVFOSm1ULTVCdHZzd1k0dmVVd0p6Y3czZFVCRDlDMGliOUNiRDNjWTlXbw?oc=5",
       "pubDate": "Wed, 29 Jul 2026 21:13:12 GMT",
-      "description": "Oral rabies vaccine airdrop for wildlife populations will occur end of July North Country Now",
+      "description": "Oral rabies vaccine airdrop for wildlife populations will occur end of July northcountrynow.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -916,10 +1012,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Florida's Surgeon General Blames a Debunked Abortion Vaccine Claim to Explain Measles Surge - Gizmodo",
+      "title": "Florida's Surgeon General Blames a Debunked Abortion Vaccine Claim to Explain Measles Surge - gizmodo.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM3ZzQkdVRWNKZTlCUW5BU3RVTzdzMkJtVFJfdjV4d2l6YUNnTWV2QVJ0Z3A4a2tkYllzNkZnRGdINVRNbzZNbGQwbGtsS29UQ19QLTYtTTk3SzI5Rm5BZnhqc3ZDb0ZPT0g4MVp6bGVQOTh3RWhPVG93dFdsc1RCSjdBcVVDQUppeVNLLXpEX2hveFpDUnFON1VqSno0UUVlN3V0WE1vWGtIUloyYTRHQ0FSRjVWdUFkaU5NUW53?oc=5",
       "pubDate": "Wed, 29 Jul 2026 21:10:53 GMT",
-      "description": "Florida's Surgeon General Blames a Debunked Abortion Vaccine Claim to Explain Measles Surge Gizmodo",
+      "description": "Florida's Surgeon General Blames a Debunked Abortion Vaccine Claim to Explain Measles Surge gizmodo.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -981,19 +1077,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Summit County schools' immunization rates continue to drop since the pandemic - FOX 8 News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT1FXOXIwMm1wMTBwVjd2Wm1BaFpuWGEydXRsS2FhdUFlajRUaC1KNVlKeldvU2FJT1RiVXpPWHJFR1IwWEpya09hWFg1WGVNZ0FtdHhkZVNWNmY4VTVwd3c0aVk3N2NaLWdYcjVhQW9fSFQ1TjhGbHFMVkpGRmpOcVFSSHpGUTB6SDdIUm01cVdvYjBHSEJtaEl4WVFuWEthQjY0dFZrX21ZRVVyTmc?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 20:01:00 GMT",
-      "description": "Summit County schools' immunization rates continue to drop since the pandemic FOX 8 News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "State Department agrees to reinstate vaccine funding for Gavi - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa3ZGT19pU2tVaHRZdEFkbWx5eWp3VUw3ZDlIMWZ2UF9wa2FnV3E4RHJPSDh6NlBNVnhwdEo5Tm12Tm5GLTJYV3c4V1lza2RaVlBqa0dMak1jQ0dYTUlOR3VmS3A1dGZHc1BBaTQxdnBUZ2xZZncwMjJXLXN2RlFIb2tzVnA5c0V5UlJTT1VkVEpFUXM4VmZnMEZKY2FKRzhjRHc?oc=5",
       "pubDate": "Wed, 29 Jul 2026 19:12:00 GMT",
@@ -1020,15 +1103,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "mRNA vaccine technology is key to Africa's public health independence, experts suggest - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbDZnYWNqbGZYY3ZEQUVzUWxVc1ZFWkZOSEZJNjhXN05HRTdSbjNoWWdaSUlYLWtCU1U0czh6SlRiazhxa3Fkem9ZUGtQY3d3WFNYVF9WdG84ajZzZ0cxc002VGdwVS1FWXVmdk1mdFlSYlpXNWI4dDVKdHFrN3B3X0VHNnc?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 18:40:02 GMT",
-      "description": "mRNA vaccine technology is key to Africa's public health independence, experts suggest Medical Xpress",
+      "title": "St. Lawrence County prepares for aerial rabies vaccine drop - InformNNY.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTGVHY05RTHoxX1FaZ1JmYS1ERklteHctbjVDVENHSlBEQi1WTFpYR3Q4U21tNmxoaWR6ZDdQN21nUWd2UjdKX3JwYkhlYV91aDRKMF9zTktlUXFncnV4TzVwemNnZEVyeC1ZTlB3a0tYc1g4UUdJdTQ1bV9Cd19SalllV25PUDZBREdn0gGQAUFVX3lxTE53NmRNNmlrN2VJQjZncjhFUi12bW9rdWpqVTFxS1Jsd0ZOSlBIT1AwX2FJS0hScEVvcUM3UUI4bmhnZDlMRXMzRkQtZXAwcFdPMkNHREFYcFhJOGZVeHdMbFIxajNlTkFUeW5YaE05WHBCbnpqR0plM2lEQjBhWjM1TE1rVnZrV0NUNFlDZ0NEeg?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 19:00:30 GMT",
+      "description": "St. Lawrence County prepares for aerial rabies vaccine drop InformNNY.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
+      "vaccineKey": "rabies",
+      "vaccineLabel": "Rabies",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1059,23 +1142,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Free Measles Vaccine Clinics Set For Charles And St. Mary’s Counties - The BayNet",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONUstNjdrVHlFMUliRWNZZDBKUmxCNUQ5UXJpOWxVYmZfWWhId2xpdW9WbG42SUdEbF83WVo5Z1dpaWNHVlhxWkJFaGNmZWVhOC1CNzJRa2YtOGVyY1VzdmJrMVZQT3ZmQy1oenk1OW8tR09NSXI2Y294R2hhdTBfcElLSkgzWHplMDU3VUt1TWRiRzQ?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 17:41:09 GMT",
-      "description": "Free Measles Vaccine Clinics Set For Charles And St. Mary’s Counties The BayNet",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Senate Democrats ask RFK Jr. if family will benefit from vaccine settlement - thehill.com",
+      "title": "Senate Democrats ask RFK Jr. if family will benefit from vaccine settlement - The Hill",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BTzBGRXZHeUw1alJVVjFURl9IalA4ZjdmdGJQcTZZVEdQc2VWb2I3cEItQ1FEclJXOUllUWQ1RjlPRWREQmNqOUtEZjJlb1hLRnhpT1pZOGFFeGxmOG1RdV93Mmc2UmNQX29lbkFBQVN2bU9EQ0Q0SkFR0gF_QVVfeXFMUGh2NXpsOEROY2lWcHNwbURCcUc3dHNwT0labVRWcS1MVDExZGI1M09SdWlPeld6UTljaHY0YjVtNUFUOURFTWlzTFdDeWRidHowS092Uy1BQ1NsTDJWT0g4VWRmeDRZUjFTdUFtVUxmREpYNnN6MUNTVHNBYzJQQQ?oc=5",
       "pubDate": "Wed, 29 Jul 2026 17:20:00 GMT",
-      "description": "Senate Democrats ask RFK Jr. if family will benefit from vaccine settlement thehill.com",
+      "description": "Senate Democrats ask RFK Jr. if family will benefit from vaccine settlement The Hill",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1096,32 +1166,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "IDEA Public Schools Hosts Immunization Clinics Ahead of School Year - Texas Border Business",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUWdvQzZEVkhKYzJLRTVmNVl3WEdReWFwT0tQYW1aTkpsd1c3VUtxYWdZLUNmdWRUa3hHWGwwYk9yWDZPLXNQc1hBa2NRenRiSUkzUjFqYjluS3JrTnZFUWtBcFVtRlVCN2V3TDNKbHlZalJqYnBLdU9QUDNOVWYxRlBqTVBRbVNJYUlGd2QydnliSGljbTZfdmp2bFNmN2ZEbnBjbg?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 15:44:14 GMT",
-      "description": "IDEA Public Schools Hosts Immunization Clinics Ahead of School Year Texas Border Business",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Trial evaluates maternal vaccine to protect newborns from Group B Streptococcus - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUTVEWnZEMXUzR2lCTlJ4X3N6LWJfQ2pJeHczYUF1SWtTWlI2Mk9IYWsxZnY3YTlKcThmYi1jODBaLVNQaDAxWjU3bGhGbzRkTWtDQlgybVRkdldhUGFjeE0yVkVYWXUtTmVPRldTeGQxdmRQY0syVDV5dWs0R0c0NEU1d2d0dENY?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 15:40:01 GMT",
-      "description": "Trial evaluates maternal vaccine to protect newborns from Group B Streptococcus Medical Xpress",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "'Put the MenB vaccine on your university prep checklist' - BBC",
@@ -1150,23 +1194,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Most US Adults Unsure Which Vaccines CDC Recommends During Pregnancy - Vaccine Advisor",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWE1RSTBJbzEtaFEyaVhUekFLNWFuN2N6Q3h6TmpmTXNEandRcEw0M2dIVFc4eXVnSVdqNDNiM2lVQm1ON2dvTHR0VkhYRGwzWm12c24tWTVLNnZTMDY0eGt5VzQweDFGaVdhNDlTeVl2MGh3Q2ZYczBJX3pENjk0dkJpVXlPbHhwd2NiYTh4Ml9qeHhwX1JsMm5TU0pSeG82QldZdDdCdV8?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 04:00:00 GMT",
-      "description": "Most US Adults Unsure Which Vaccines CDC Recommends During Pregnancy Vaccine Advisor",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Collins says State Department will reinstate funding for global humanitarian vaccine alliance - thehill.com",
+      "title": "Collins says State Department will reinstate funding for global humanitarian vaccine alliance - The Hill",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa0dGYWNjWlFobldhV3JNcVZrZFdFdWNGZVd5TVJiZU9lOEk4dmltdUdZM05KUUR6YlRWS0pSTlpUb3VRUjBCcGt4SzhtV1pZa2xOZ1k0MUJSZUtVODNySlZibWl1c0tPMFMtRllnTUtYTlFBX1VtRTFOMFN4eGJCaWJPVmRNWngwQ2o00gGQAUFVX3lxTE1wZW1yYlQ4WHo4OU5YWVJtSEttc1doWl9mb2lNdXZrSnZfRmV3TDBNTk1MOU1sdWlZU1hFZFZpQWNpYVYxbVA2aldOWmpXREhkUll6SXVDU0VIN2xrajRqMUkybTlkS0htQi14Y1RnNFVmMEI1M01aZXVDUXZhUTVDS0h5YTgzU0pZWEZIRndZQg?oc=5",
       "pubDate": "Wed, 29 Jul 2026 02:43:00 GMT",
-      "description": "Collins says State Department will reinstate funding for global humanitarian vaccine alliance thehill.com",
+      "description": "Collins says State Department will reinstate funding for global humanitarian vaccine alliance The Hill",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1189,10 +1220,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Dozens of States Tried to Roll Back Vaccine Laws. Here’s How They Fared. - The New York Times",
+      "title": "Dozens of States Tried to Roll Back Vaccine Laws. Here’s How They Fared. - nytimes.com",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSkNqYWQzbU9YWEduN1E1UTJMUXQ1UUk0cFJPSkd6RTJEVWxOTnpaSFMxcHQzNElkaUZmTF9OVEVmVDRIYk5pOVFiUWJSMGJKZlpvOWlweldxSjF6dnVsYW51UFVGWFNfQVlOdHNpQ3VoX0hLbG5nZVJUbUhfTXBLZnRfSWwtby1hanFRcF81UQ?oc=5",
       "pubDate": "Tue, 28 Jul 2026 14:37:59 GMT",
-      "description": "Dozens of States Tried to Roll Back Vaccine Laws. Here’s How They Fared. The New York Times",
+      "description": "Dozens of States Tried to Roll Back Vaccine Laws. Here’s How They Fared. nytimes.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1224,19 +1255,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Measles Cases Hit New Record in U.S., as Vaccination Rates Wane - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUFBiV2pOcE9jOVU5N1g5VzBWMC1LdnpPRm15cFdXMVluQ2VWOU00WEktOGF1QUZhWUF4eEJSU1BPNjNtUXJBQm5rOXNxYjh3cDNNN3ZtMklSdzhDb0o2UnVtelZGM0l1aFdxUmVpbEtMTGVnaGdHMk1MVGVBbmZSWF9zVElIYmxB?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 14:59:15 GMT",
-      "description": "Measles Cases Hit New Record in U.S., as Vaccination Rates Wane The New York Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
