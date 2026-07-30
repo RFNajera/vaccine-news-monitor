@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-30T07:18:51.547Z",
-  "itemCount": 90,
+  "updatedAt": "2026-07-30T08:11:12.123Z",
+  "itemCount": 91,
   "groups": [
     {
       "key": "covid",
@@ -20,7 +20,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 12
+      "count": 11
     },
     {
       "key": "hpv",
@@ -45,10 +45,49 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 61
+      "count": 63
     }
   ],
   "items": [
+    {
+      "title": "Measles cases reach highest level in 35 years. See the charts - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR2h2R3JOSVJzSDZhdEpOQlBpei04X2FIOGluYzNmb1hxcWcyUURLS3BNLXZHd1A2ZzI5Z2dvOVNVYWlXTEh6YVh5LUVoZi1xZFdyUk55Ulh6dEF0WVREQUtHcllrMVRuNXduSTVwU1h3VlMtby1MWUhjMjRLWWNmQlBKTnBzZEpkTVVTMFhjMHVRMzFGT3Z6eDZSVDJINEZw?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 08:02:00 GMT",
+      "description": "Measles cases reach highest level in 35 years. See the charts USA Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Last chance to START SMART! before school, Super Shot vaccination event - WANE 15",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV0UyajByRnV5QkJkY2N2dm00TUkxWXFnemowRF96bU1mdGZ2MnZtRFRZSnpWaEk0d25PVnBxNUQ3cGFIeTIxM05QSGFRS0pxaW9lVXFxMTdjLVZEaTc5eXVsajNZcFNQVnZDUlljRTEtTklGU3lYWDg2M1RIN3FpUVM0Y1dRQjBRXzIwMkZYMUZYRHNZb3l0eG5qNGQydXJNSnlrbnJ30gGrAUFVX3lxTE9TcVhUaVBVTm1nUjlNTUd5c08zNFRZTlFtSUdZSEFRYTNTY0N6bTExakhNOGpoZkd2RVBEQUhlLWlBaFJmOFZ0d1hRaElmeGtYeDlyMlUxUXRHSVZ1NmRVZ095RUpUdF9vS1ZkdnQ2eTlCdG5pekJQa3l6dXhRczVhNi1TdGNfcmZXRE1yMVB6QWVrTnJKXzhwbm1yY0t2VUlHaXM5WnV0VlJldw?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 07:53:31 GMT",
+      "description": "Last chance to START SMART! before school, Super Shot vaccination event WANE 15",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "A Maternal GBS Vaccine Just Cleared Phase 1/2. Here’s What the Trial Design Tells Us About the Regulatory Gauntlet Ahead. - The Clinical Trial Vanguard",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQSGROLWFwS2VITGQ3bXJfOGxkanRyc0ZpaVRTdl9FUmlkLS04T2dpTmtTcGVtTTJQRVF0Um44V2lLOVFYTU5zRGVNamRCSW5ZWEdsQUM4NEhhYlIwRnZBM2F0amlkc3ozb1ZReWg2d1JIV3M1Tk1SNUMzY0RNaTdoWDlmWkNldXRUNlBUby00YVA4enRwQ0YxSnJDSVlWb1l0dVR6bUF5VHE4dDAxLWRtZUFrbGdqeUFJVE82RDdmaTZ5UVZjeVJwcnpvMjlxTDdNdjBGSERraVlGajg4aFVmSnBCMXpla3h3ZVNPNHVOMlpsYUphZ014NmprREZtRmR3d2RuTDIycU1SOXVwYUppaw?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 07:32:08 GMT",
+      "description": "A Maternal GBS Vaccine Just Cleared Phase 1/2. Here’s What the Trial Design Tells Us About the Regulatory Gauntlet Ahead. The Clinical Trial Vanguard",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
     {
       "title": "Read the latest Meningitis Matters newsletter - Summer Edition | News & Centre - Meningitis Now",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZkNoZm4yelpxanFrY2w1WW1XbV9wTU80elJyZmpTV0Fncy1UcVFKSDZjQWY2NDlXSHBuc1NOcDVkZVQxOUNxM0NSOTl5UjRTc2xkZUFoNmhXQWtIWHJ3N0RsdU1MR29xRno0cFVQQS03TkxEb05QM3oxMURaTjgyWUt4OTNoTnBDQVVvTGNNR21FaUFtanM1dnpIcDVNeGM2VnQtVlhUMUpZMlBtVndHUWpTWXFhUGNLcS14UW03ZHM?oc=5",
@@ -89,10 +128,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Merck, Wellcome partner with global health group to make Ebola vaccine for clinical trials - reuters.com",
+      "title": "Merck, Wellcome partner with global health group to make Ebola vaccine for clinical trials - Reuters",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR1REeGNHUGlqR2hRRGZnaDlhelZwNU1xRUJUemU1OEVrVnk3bWwtVm83LW1JNi1iY1lFaVpFbXBfanVrdURtQXI5VWU2S1lMU19OeTJFUkx4aXhhNWVpb1ViZVBsQ2xoLXY1TjBBR0xYV1BTMXU2Z0djNk5xMjZKeUdyQ3NGREt1eHNTdXdLLS01WFpkaS1yZURiNXJSYi1jUDR6UkFqY1BnT295Z1ZQdXpxalFVSmlfUzZfMUlTOWF1eFlUM0NvQldCX2Y3SE8zR3F2OGZNbFdSaXk2MXlmaA?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 05:10:03 GMT",
-      "description": "Merck, Wellcome partner with global health group to make Ebola vaccine for clinical trials reuters.com",
+      "pubDate": "Thu, 30 Jul 2026 05:09:00 GMT",
+      "description": "Merck, Wellcome partner with global health group to make Ebola vaccine for clinical trials Reuters",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -193,10 +232,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Mahoning Valley included in nationwide wildlife rabies management efforts - WFMJ",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNa1U2NjgtWnNSTUQ2eG9ieWxSN25jb3puLXY2c0taUkVLejZHQ0R1Nm1naWRubjJEamlKNkdoa2FtRUV3eGZ5ckMtVko1bVV4M2YxV0lWU0EtLXVvVTFCSUhQcGNrcXNTdk5ETGlwcUFHN1lGem5ocVVKUEVJcElkM2ROM2FuQTJNRWt0QkszeUJWcUtVcmZRRE4wdGhZZE5sYURkUVhONDRwRVYxdDBWcWktTGlTd040dE8yQWlZQTl2TXI4VTB4LXZRandQZTQ4SGIyVE43eUMxNmNadlpjUldoUkdEaEhTSzRFZUNFQ0RMdw?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 01:48:54 GMT",
-      "description": "Mahoning Valley included in nationwide wildlife rabies management efforts WFMJ",
+      "title": "Senate President Mattie Daughtry-sponsored law on vaccine access takes effect - foxbangor.com",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPc2VHdjQwemlkX2VoSUhua2FNYlNTOUdvcEN6UWRVUENYdDRKMk5WQWZ3UXMzcmQ2SmEzeTJXX2tCaFpmRVB4aXVrZHo2Q3Zlc3o0bUFCeEs0eGxlWVdxUjlsVmpEeFlRTzc2bnI4cmtuYzVIRHB6azNnOUdNMHRXeGZzWFYwTHYtT3A5ZlR3LXVHNUZzVXZTQzhuOUJMSDQ3OFdHU1JFejNBemEtNmt4bWV3M1ZMQ1VfX040X2JPdnhkUEtrcXNvaGdZV2FWQl9LRXJOMkdtSHg0bHZWVV9YMU13XzdJc0RTWUZPTW4zU0VKOUNtNmE0?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 01:46:00 GMT",
+      "description": "Senate President Mattie Daughtry-sponsored law on vaccine access takes effect foxbangor.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -245,10 +284,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Trump administration unfreezes $773 million for Gavi global vaccine effort - The Straits Times",
+      "title": "Trump administration unfreezes $774 million for Gavi global vaccine effort - The Straits Times",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORzNVQVVLb21SQmNqRlNKYnVRMU9RR1NkV2U1X0F0aWc4NWFuNDRoTElicGt3eU82VlVWc01ZMUNvMV9za1drOFp4ZWRzamM1WW05Vjh0TzhqdS1NOU40Njk2Q1ZSVUxUZ0FGMFZacG91M29wVVM3MVhHR1ZOVl9LX3p4cTBlZ0pQQ21rQlc2alFscWVsNmFnejEzaVhHbllobVVEU2xiYzgzQ3B4V3ZHdk5jSFZlV2FRejl3VmJQQQ?oc=5",
       "pubDate": "Wed, 29 Jul 2026 23:51:00 GMT",
-      "description": "Trump administration unfreezes $773 million for Gavi global vaccine effort The Straits Times",
+      "description": "Trump administration unfreezes $774 million for Gavi global vaccine effort The Straits Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -271,10 +310,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Trump administration unfreezes $600 million for Gavi for global vaccine effort - reuters.com",
+      "title": "Trump administration unfreezes $600 million for Gavi for global vaccine effort - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc0VNSkVxaXI4RFdBSVI0RlNJZldkdTZpbGdseW55Q2hCZEpvLUUzcnVfbmllU1BrYmJwQ0NKbWgzZDBOTGt1MjlyMmRvVm5kVkFDMUU2enllYXhCaWtsdjVZQWVaeW9hZmt0MVlBQmlMVHYwY2NyYjdiWklGNHhoSzlCR3V2aGg4dEFTeklVZ21JN3FPaHZod2VjdDBXTTFlbngydHFMamtYMWFjakd4SA?oc=5",
       "pubDate": "Wed, 29 Jul 2026 23:17:53 GMT",
-      "description": "Trump administration unfreezes $600 million for Gavi for global vaccine effort reuters.com",
+      "description": "Trump administration unfreezes $600 million for Gavi for global vaccine effort Reuters",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -284,10 +323,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Countering vaccine hesitancy with curiosity - Chief Healthcare Executive",
+      "title": "Countering vaccine hesitancy with curiosity - chiefhealthcareexecutive.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdkd2SjdfMDI0RExlQWNhd3g2WWY2Zmo3c2EwVXlrQzZyYWZ3emsyQ2F1NjRvc0Iwc1VVV2pKMkU0TnpMQU9ZZHVZb2c2bm5LTU9yMVZzVWktYVlDVWhsdUdCM2lQa1ViX1N3YmZKeldOM0tIUDIxSkJLR1ZMNEpRNkl2VUlPSUdYNGpIcUpoN09EWnp6SWc?oc=5",
       "pubDate": "Wed, 29 Jul 2026 23:08:55 GMT",
-      "description": "Countering vaccine hesitancy with curiosity Chief Healthcare Executive",
+      "description": "Countering vaccine hesitancy with curiosity chiefhealthcareexecutive.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -336,10 +375,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "European Commission Authorizes Pfizer And Biontech Xfg-Adapted Covid-19 Vaccine In The European Union - TradingView",
+      "title": "European Commission Authorizes Pfizer And Biontech Xfg-Adapted Covid-19 Vaccine In The European Union - tradingview.com",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOLVBlMW9saGhyMFZPZkdWQi0wS2pCekhGNVpxMDJPZGpBWE9EQjVGWTZPWFVyWWNxc05ZbDh2X2JnRnN5QkJEMDBET3VYeC1zbUF6NkM1cUVBRTFfZUJnYXRCUndrNTdRQlNrWFdteEZnb2VnSTZVSFBZdDdPTWplLVU4QUZpOWRkUE9hSW9HYVNINnByYlNOVWhtS3Z0Q2hSejZjNGhXT043WVdwR2V4a2tFbmtraDlUYTZORUdfZE9tUnBQR0ItTVVWdXFDY2R6ZlpxTTNhNDJsVjV2Q0hUeEVKaE1fNE5ZZ2ZuRFZnR21DSjdRTWxjMEU2aGpsQldC?oc=5",
       "pubDate": "Wed, 29 Jul 2026 22:07:36 GMT",
-      "description": "European Commission Authorizes Pfizer And Biontech Xfg-Adapted Covid-19 Vaccine In The European Union TradingView",
+      "description": "European Commission Authorizes Pfizer And Biontech Xfg-Adapted Covid-19 Vaccine In The European Union tradingview.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -397,19 +436,6 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Texas issues measles alert after Montgomery County confirms four cases - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQal9ITnFHRTZ0U2JsLW5UVm9BTWF1MWVNRF9nT2dFTk1sWHRfS201ZzlJMWFKYWdJMV9SeW9uYzZ0TWpXeEhGT0ctMV92RjdEQTZwQTBweW91Yzg2dlFTaU1VQ0NDUWRGVWFsdjdCMkozeTg3XzhCMVBxbm81cEg4aTRyTS1BX2JOV0J0cEJ0NnRWTzdXandDS1FXUlFHcXd4RS16WjJiWUFud1lTdXVzemVpdFVtcUFfNnN3d014NVRRMkk?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 20:41:07 GMT",
-      "description": "Texas issues measles alert after Montgomery County confirms four cases Houston Chronicle",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -531,10 +557,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "be Well: Myths about the flu vaccine - News12 | New Jersey",
+      "title": "be Well: Myths about the flu vaccine - newjersey.news12.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM1JSdVdXWU9keDNkdnRFSFNSRG41UEp1TFFnUUZLaGpZdktlNmVqeUNWa1ZTc2lldS1NRTRkZ243MGRVb2pyT0JUWDZMa1ctQmRBTV9Qdm82MGo5TlZaQVp5QjhxSFRvaEFCM01QU1ZiaHVoNmcwalFtU3NEamJaSENLTGJFSGNUTS1Jd0w2RVlSOURvXzZRb3I3a0xGQjdSUUFoQw?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 18:52:30 GMT",
-      "description": "be Well: Myths about the flu vaccine News12 | New Jersey",
+      "pubDate": "Wed, 29 Jul 2026 18:55:00 GMT",
+      "description": "be Well: Myths about the flu vaccine newjersey.news12.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -596,10 +622,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Free Measles Vaccine Clinics Set For Charles And St. Mary’s Counties - The BayNet",
+      "title": "Free Measles Vaccine Clinics Set For Charles And St. Mary’s Counties - thebaynet.com",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONUstNjdrVHlFMUliRWNZZDBKUmxCNUQ5UXJpOWxVYmZfWWhId2xpdW9WbG42SUdEbF83WVo5Z1dpaWNHVlhxWkJFaGNmZWVhOC1CNzJRa2YtOGVyY1VzdmJrMVZQT3ZmQy1oenk1OW8tR09NSXI2Y294R2hhdTBfcElLSkgzWHplMDU3VUt1TWRiRzQ?oc=5",
       "pubDate": "Wed, 29 Jul 2026 17:41:09 GMT",
-      "description": "Free Measles Vaccine Clinics Set For Charles And St. Mary’s Counties The BayNet",
+      "description": "Free Measles Vaccine Clinics Set For Charles And St. Mary’s Counties thebaynet.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -635,10 +661,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "US lawmakers press Health Secretary Robert F. Kennedy Jr. on vaccine settlement - reuters.com",
+      "title": "US lawmakers press Health Secretary Robert F. Kennedy Jr. on vaccine settlement - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY2NEUzBCU2xhcVRIcFhES3pjOFcxSUN5TVRGdjRKRkdEYUFUZGhQS2c2d3VnOG04NThYUHU2V1l6a1FlMHZhX0hVNHJNOF9MclZMSnU2RGp0ZXo5MFY1LVlvaWViWU9IOFl4a1JfaTFTR3UxMjBOQ3dGX2tZRFhzRmxUTzRGeUV6NXF6RlZWSWFKbG4ya0VFRVJBQVR6RGh4NjZMb2hlcFJvMkVYa25ncnIya3B2b3dsWlQtODBlaU1qRVllakE?oc=5",
       "pubDate": "Wed, 29 Jul 2026 15:44:56 GMT",
-      "description": "US lawmakers press Health Secretary Robert F. Kennedy Jr. on vaccine settlement reuters.com",
+      "description": "US lawmakers press Health Secretary Robert F. Kennedy Jr. on vaccine settlement Reuters",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -713,10 +739,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "'Put the MenB vaccine on your university prep checklist' - BBC",
+      "title": "'Put the MenB vaccine on your university prep checklist' - bbc.com",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uajJjdUxmX045WjBCSzFXY0FtbUlhTHF5UUFOQkZYdkFvaklGRmlZNG84TUo3b25YLXh6MHhrTkRmTkFnekZjanVXakxUUXB3SUltTVRRN3dRQQ?oc=5",
       "pubDate": "Wed, 29 Jul 2026 14:06:44 GMT",
-      "description": "'Put the MenB vaccine on your university prep checklist' BBC",
+      "description": "'Put the MenB vaccine on your university prep checklist' bbc.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -804,10 +830,10 @@
       "articleLabel": "Opinion"
     },
     {
-      "title": "Inside New York health officials push for back-to-school vaccinations - lohud.com",
+      "title": "Inside New York health officials push for back-to-school vaccinations - Lohud",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeXVGYmFFTGpPLXhVaXRvQVY0ekIzdDZEQk1ETlJCNTNhdkxxQURUS09Icjg0bFZHQnI5cjM4c2J3WGxFMHA0NElfMllLSnhDV1dsOUxTaFlneFBVbTJJbmc0LWxYTHUtU1ItNTdLU25XaVFINHE1eDVmellGdGVSWjJYZUlIVUVXaGprc0Fmd3JPUVFqMUdnQzdDS21WYjZHdk1weTA2T3pfN1JnUkVXbUoyX3VNZWZqUmFOSmVwRVNob2pQV0VNWHNn?oc=5",
       "pubDate": "Wed, 29 Jul 2026 07:01:00 GMT",
-      "description": "Inside New York health officials push for back-to-school vaccinations lohud.com",
+      "description": "Inside New York health officials push for back-to-school vaccinations Lohud",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -895,10 +921,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Vaccines, shot records, and birth certs. — Here’s a list of back-to-school resources for Shelby Co. parents: - actionnews5.com",
+      "title": "Vaccines, shot records, and birth certs. — Here’s a list of back-to-school resources for Shelby Co. parents: - Action News 5",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTldtOWh1TkRXVk1jTjRLVThYNzFjU2pXRjRYb2VUUlNHaWVBTFQ0YmFQa0I5TE9BeUJ5QlhqdGZ6ZVVWR1NVZDNCdWprWHJNZXB3bXRiRzlXQkV1X2JEaUhDZ2laSFZKcjkyV2FzdjlKQTVjVXJjV2NaV2IwWUNtRm9tWFZuSDVqeHdsdmJDbGNsMGkteGUxLUlBbUVWWWJvU1ZoYnptai1hellqczh6TnVRSUJYTEE0dHk5bXg0NGEwcGFpQnc?oc=5",
       "pubDate": "Tue, 28 Jul 2026 22:05:00 GMT",
-      "description": "Vaccines, shot records, and birth certs. — Here’s a list of back-to-school resources for Shelby Co. parents: actionnews5.com",
+      "description": "Vaccines, shot records, and birth certs. — Here’s a list of back-to-school resources for Shelby Co. parents: Action News 5",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1008,19 +1034,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Florida Measles Cases Rise Before Schools Reopen - EMJ",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQlpOY3o0MnVxVS1WSG4yV3c1d3pxQUpiZUlmR1hFV0xuWnEwZzFZUmVzVW1Da1UzSEZxX3JrcFRPbFg0QVNuT0tBY0tmMV9jT21HUWlEXzZHTl94UEt2OGkyRVZSdlVNaERDWHVoZjNKU1U2S1RJakdVN3lLU2x4UXdIOHJGSDFSNGlHU3k3bmktdDRMT3JoT05pcU9fTXJSZE1qdFlXREV4VDFqV0xiM0dLbHE?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 14:20:25 GMT",
-      "description": "Florida Measles Cases Rise Before Schools Reopen EMJ",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
