@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T16:59:14.044Z",
+  "updatedAt": "2026-07-31T17:57:40.435Z",
   "itemCount": 92,
   "groups": [
     {
@@ -10,12 +10,12 @@
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 2
+      "count": 3
     },
     {
       "key": "rsv",
       "label": "RSV",
-      "count": 2
+      "count": 1
     },
     {
       "key": "measles_mmr",
@@ -26,6 +26,11 @@
       "key": "pertussis",
       "label": "Whooping cough / Tdap",
       "count": 2
+    },
+    {
+      "key": "hepatitis",
+      "label": "Hepatitis",
+      "count": 1
     },
     {
       "key": "shingles",
@@ -40,10 +45,75 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 67
+      "count": 66
     }
   ],
   "items": [
+    {
+      "title": "Guillain-Barré Syndrome Following Influenza Vaccination: Diagnostic Challenges in an Uncommon Presentation - Cureus",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMFhvV2xDbGJmWUsxVG92eG10ZnhDdkgycWdhWWR3TjZvR1VFdGE5dmhRQm1tZFh1Wm9YdjN2RkhmTGo1ekhNd0FaaUp4Sm5lQnRHdmtSNlVhUVJNdWVaQTk3ZTdBYU5mWHhhamVnRUxvaGY2SEVxNEVONExHc0I3U1hjVlVLYTAtdlhFb04zeGZKMHp2OEhiYTNkMUVBSVlwVG1ZSzZFXzA5NGxxTnhBX3I0dEVFRjFmRmg2X1VZQUU0U0VRM2ptM1llU1lEWWh0WDhRWWNDOWtmeXdZVDI2MGRkTTFKQUZ5ZjNKd0VEc0lLSm9U?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 17:55:07 GMT",
+      "description": "Guillain-Barré Syndrome Following Influenza Vaccination: Diagnostic Challenges in an Uncommon Presentation Cureus",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Epstein-Barr Virus Link to MS Spurs New Vaccine and T-Cell Trials - ajmc.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZVZuQTJjaW5IRWVMV3hKeUtjczB6QUZjOGU4N25yNHdzNTJLWjlnYjJ1bWFrZ0VCOXVpMzQ1OEhSUzE2dzBCNEctVmpYNTNneTh3R1NUYjI0ZTN6Wk1kX19Ram5TT3Fwbkt4WHQ4V0VCQmNuWGZSSWk3TE9mTW1QdGZnWG85U283dlRJV0FfRXZfRTlyYnc?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 17:46:52 GMT",
+      "description": "Epstein-Barr Virus Link to MS Spurs New Vaccine and T-Cell Trials ajmc.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "MRNA Q2 Earnings Meet, Stock Down on Norovirus Vaccine Setback - Zacks Investment Research",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcWxyMkpnMHlCQlMzdXY2Z2JHdU5vSWhaeHJzaUoyWjNIYnRmUDFvZVF0cE1mMVktekttdjAxbDBMa3ZZam5BWGtISGJGNXc0ZVdJSDduZ19UY0tHQ1hMM0JhUHdQc285Ym9helhrelo1M3FLZy16bFNLaVh6MXczZms0TG03c1hDNWpIZzZyU2ZpX1U2c2hvYTdfenh5LVNuMlBPZQ?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 17:13:00 GMT",
+      "description": "MRNA Q2 Earnings Meet, Stock Down on Norovirus Vaccine Setback Zacks Investment Research",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Childhood Hepatitis B Vaccination Tied to Lower Coinfection in Patients With HIV - ajmc.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbDZ1MHdDRUZUYS1ZeEFDZGExWDNJMFJvbzFybVBWUE5tMW5nZEQ1VXp1YVlESkh4MUlpOWlJVkpVaFByS3RwbzFTbGRNVmtpQTlrZGg2ODNpdnRUZG9ZN0xTTHhmR3RqeTZVbWxiV21Bdm04dnBnaGNBbk0zVklnU1otckFNdXhaT2JaS0l2V1J6T282S1ZyRFJIckdQemJyYzJjMllvZXZZUQ?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 17:12:22 GMT",
+      "description": "Childhood Hepatitis B Vaccination Tied to Lower Coinfection in Patients With HIV ajmc.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hepatitis",
+      "vaccineLabel": "Hepatitis",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Human Ebola Vaccine Trials Begin, a Newly Discovered Dinosaur from Zimbabwe, and Wildfires in Europe Are Producing \"Fire Clouds\" - Discover Magazine",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZWVZaVpWY3A3Mlh0TXF4NVNzNFNPYTJzb003cWswSXFITnI4S1ZGODNrZUgzWV9lYVBvRnlEeDAtWkR2RlF4cXFXQ1pHN0JmdEtLYU1uQi1UYnFVV1JubnZTUTJtSWV5TXFpdkRiZzVWTzBFbHp2Y3IyX25PTDgtYmo0SGpyMi1NR2VWMGJhclJzRC1UVF9WS0lOdDZvcmhwbm1EQnVqQmZUbzlfc1M5SmpzNWRvaXNXc2JlamdvWGptQ3FSeEFDQzg5MlZSVnB6d3BwaUYzUmlheWVZaTBPRFBwNGdnZkxGV3RJQnJLUEhYNklPa3c?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 17:06:33 GMT",
+      "description": "Human Ebola Vaccine Trials Begin, a Newly Discovered Dinosaur from Zimbabwe, and Wildfires in Europe Are Producing \"Fire Clouds\" Discover Magazine",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Sipuleucel-T Becomes the First FDA-Approved Therapeutic Cancer Vaccine for Metastatic Prostate Cancer - Oncodaily",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjQnMweTN2eTB2TDhWVm5qRGhJM1JGanNvNk1qNlI5RGJpZTc4bFhDZUlTQi1oc3Y1TmtIV2NpN2hnemhvOUxreGhKeDZYa3ZSTktMN21tY3ZwQU5Zcnc?oc=5",
@@ -56,6 +126,32 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
+    },
+    {
+      "title": "IDEA Public Schools offers low-cost immunization clinics across the Valley - KRGV",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUTVwTjFUTHNEUkdjOVdkSmRwanBKNEVOdHAtWHFNZEVFN09XTjRiQUhuR2tvNDFiTzl2bzZ6NWdxaUNQbXlXOEdYMFJXV3Bac3hPNnhOU0NtOF9JUWNzeC1wS0ZnS2JZQjFsZ3RUTzhteENETmthNDBkUU9sbVRuSWo3S3ljdzlWV0I3YVBKeHVpa3ZoeFJ5ZU1Oa20yTHhSckNRUXVB?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 16:36:39 GMT",
+      "description": "IDEA Public Schools offers low-cost immunization clinics across the Valley KRGV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Moderna delays norovirus vaccine trial readout because of too few infections - Endpoints News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNWRSWG5EcGRKSlFHVTNKam9UeXpmWEhLSWVyWW5rM3owWlg0UlBDY0tsRTJLV0x2Y1RETmNPSnFkN0VEbFBKcmZidldwRzJPQ01XSi10Y0RadDJQSExEYVVVanhkcm1kbkNKekRSWjRoaE0zZXFRcE9aY1FmdGUtTDRRU2Q2Uy1Qd2xmUEhBZ3ZYTXl4S3BqVk9sZFJ3WEpk?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 16:36:00 GMT",
+      "description": "Moderna delays norovirus vaccine trial readout because of too few infections Endpoints News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
     },
     {
       "title": "Stephen A. Smith Shares Apology to Kyrie Irving for Criticizing His Vaccine Stance During COVID - basketballnews.com",
@@ -110,19 +206,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Florida AG writes open letter to Florida catholic leader regarding vaccine mandates - WINK News",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRXRiVmNleFZaUXZLS2hOV3dQRGtXTUF0SkVtY0ZmM2Jvb3B2cU5HSlNKNzVFVmtaMTBfY2kxazY0dFAzU2NieFhDalotd1RJZ0x4UWJKcGM3QmRiaFc3bUd2ZWdZaWpuSEYtcWNpMmtjanNZVjNiQ2U5S1pYYS02QTEyYlp0b29vUnhhd2EzeWFVS3dWZnhURjZCUDFSVmc4Nlo3d2lubVl2STZrZVlmS1ZSX3AtV3FSLWRnZE9iN3JaUTlZTGpjM09nUjZMTXpRQzd2QmtFbWRiTlB3Z0owbk5NZzc2cGYySlpMNA?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 15:47:55 GMT",
-      "description": "Florida AG writes open letter to Florida catholic leader regarding vaccine mandates WINK News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Why Moderna Stock Is Falling Friday - Moderna (NASDAQ:MRNA) - Benzinga",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS2IzOWNWYmdzZzRHVTJGMWxJakNnRmh5VFl0T1FnRUFQQ1hCUFhSX2IwdGNndHlURGZBb3haTUV2QkVmdlRuYjFyZFpsTEFWRnlwZ09sQjA4N2tmYjlPMk9rTHIxS0RseG1DNjdFV1d4ZTd0QWRhR2lHVkVQMzlkSmR2MnpRUVRtbktRdW40MHZwLU53SlR6XzBqMjlZWWNaMDVfNm80N0k?oc=5",
       "pubDate": "Fri, 31 Jul 2026 15:23:10 GMT",
@@ -136,10 +219,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Moderna maintains 10% growth target despite Phase 3 norovirus miss - biospace.com",
+      "title": "Moderna maintains 10% growth target despite Phase 3 norovirus miss - BioSpace",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcXltU01OU3JMTnN4WFZjTnFKc09WUV9QdGxsVk1Nc0lNLVpieGJzX0NFRnhTWmxibGg1dkI3UThXU2lydUwya1lKZ0dRcElNYVBobkdGa3gyMnZZa0RwTDJleTNNdU9CUUswU0NyMjFRcEVscGY3S0hoejBwYXRwZVZ0bkFTdUNXZW40U0haeDBibHU4emxkSzNzbw?oc=5",
       "pubDate": "Fri, 31 Jul 2026 15:22:37 GMT",
-      "description": "Moderna maintains 10% growth target despite Phase 3 norovirus miss biospace.com",
+      "description": "Moderna maintains 10% growth target despite Phase 3 norovirus miss BioSpace",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -227,10 +310,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Moderna beats quarterly revenue estimates ahead of key US flu vaccine decision - reuters.com",
+      "title": "Moderna beats quarterly revenue estimates ahead of key US flu vaccine decision - Reuters",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRGFiYjlLYXdmRERzY2xvRFZweG5WMW1PdkF6R3RIazJqTGt5ZlZ4ZDdJVUVVTTF3R0dKVW9STUg5Y2lLa2gtTWVuNTh4VmtDOWs0ZFhnSWVGcDMxdG9nSFdTWGNocXptQTFRZFMzdFJRX3RUcU5qUW9UZGxBS2dsMTdXMTVBdkxNTWRlZVhPT0IzQU85RGViTlRNZ3dkZHpLR2gtZzZPVkE4RFp4ZWNtc3pSQl9sMVdqcnR6ZDEwSTRPZF9oNk9NRVN1UG5fWmVlWVh3?oc=5",
       "pubDate": "Fri, 31 Jul 2026 14:47:29 GMT",
-      "description": "Moderna beats quarterly revenue estimates ahead of key US flu vaccine decision reuters.com",
+      "description": "Moderna beats quarterly revenue estimates ahead of key US flu vaccine decision Reuters",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -383,6 +466,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Moderna beats quarterly revenue estimates on COVID vaccine strength - 1470 & 100.3 WMBD",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd09rZENmWHZWZFFhaVdQYlVwQjgtRGRiS094czExVXYwS1BpS01zeHcySUVBTUdZMlZqVlVoTHVqQmhCc2J4S1JqZ2NFaTItOGFlY1BmeGNla0tyZFdfMi15TXhRbllEZ3JpdUtYWGRCNVZxQml4RW9iYjdvMm9FeHpIZUx2TGV1OXdpdTloalNHbUplVjc1eDQ0NWJQX3ByM3d3?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 12:01:29 GMT",
+      "description": "Moderna beats quarterly revenue estimates on COVID vaccine strength 1470 & 100.3 WMBD",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Fauci’s Ailment Falsely Linked to Vaccine - newsguardrealitycheck.com",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94NEw5MFBtLTJJcXhuX1c2ZFlqeGhnOHg1VnlnTGdXdGJ3TkRJN3ZSbUlaaVdldVVGMWxkM2lsRnEzV2ktbF9taUZ4bnNpRmFJVXlUNEFOZC0teEgzZjNjY0duR1BFWHRmZ01yNXRPNnZudGdmRkNXemxjbHY?oc=5",
       "pubDate": "Fri, 31 Jul 2026 12:00:06 GMT",
@@ -407,19 +503,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "Moderna beats quarterly revenue estimates on COVID vaccine strength - The Mighty 790 KFGO",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdnBYLVBNXzFnNFpLWDY5elN3bUgxNjlzLThrUVhDV2UxTVVmMkt1OEpFcjFTYWVKcWZsNXRnR1FNRXozNW1DTnNCQ2VHTHdmc0FJNlJMYjFfSjRnSjhMQ2VJRjdDeXFmUV9MR0RCODU3eFpKeXdHZldDbTZHRV9rNEtVSW5CNjE3RXh4a3NnRmxBaUJvUm1GdldPWTk?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 11:32:52 GMT",
-      "description": "Moderna beats quarterly revenue estimates on COVID vaccine strength The Mighty 790 KFGO",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "Moderna misses quarterly revenue estimates on COVID vaccine weakness - Yahoo Finance",
@@ -457,19 +540,6 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Touchlight’s dbDNA used in first UK personalised lung cancer vaccine - Manufacturing Chemist",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY0IxdzZjajU4bHM4UFNGTTcyVEZNQUZaazBwRGRkSGtmbFlQWm5kY1lCWUVoelE3VC1ZbXBqeVRZcnNMaDlmY3I2cjFkUzVjMDZGTHU5MWYyOEFxMWRMbnJHOTlZZWxnZ2RucjB4MjJrOENnT1hJQVNhZmVXT1NoZVRLYUJyNjdZTmhnb3loQzczUnE3UXc?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 10:09:53 GMT",
-      "description": "Touchlight’s dbDNA used in first UK personalised lung cancer vaccine Manufacturing Chemist",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -578,19 +648,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Back-to-School Vaccines in Focus as Michigan Health Officials Address Immunization Rates - wowo.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVlQwdG5pRG1wc3daMi1hWkFLYU5wN01EaHdSQVBxb0N5dEpUTThTZUVfc1B4UE1NYm5lMHpielhIei1pSExyYXRtVExUVkl3WFM4cWd0Y1R6MGJ1VDZDZGdxZEFzUGoyb2xQdFlZRVljUUNHU2lIYkQ5M3g2M0tpMDc5aGx1MnpYb0RldXlHWlpSc19YVjIyaUhCdUllSTFVelFvYmZiRERtdw?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 04:37:30 GMT",
-      "description": "Back-to-School Vaccines in Focus as Michigan Health Officials Address Immunization Rates wowo.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Comal ISD to host back-to-school immunization clinics for district students - Community Impact",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaVEyanN5T1dxb3VFTWcwRmN2TVJYUXVHRVdZb1pfMnJWQWQ2Nk9UUlREemtTZ3RnY3cyYVpNck52bjJIQWZYbGJZelVwdENra0RsdHBLM2pCMGdsS2NGR1A0c2N4S294LVgwVVY5SUxHUUZCNFItVzVRUTRBQmVYaE1tc0cwUjI3N19tT3dzQ1dfa0lGYnJEc3NzVFg5OF9GZk03MWNpYXpjRzR3V08wU2RZbmY0Mk8yYWVqRDBTaDRGS1VIYzNJ?oc=5",
       "pubDate": "Fri, 31 Jul 2026 02:50:00 GMT",
@@ -682,19 +739,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Congressmen tout legislation to protect U.S. manufacturing and vaccine-injury claimants - WGAL",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVW9ETHUySDljMWdaeGRMNjNsLW9QeXRKWl9xNkZQUkNtdzdTTmd4NmQwckhjYWJGazFZS2Jhb2pscXo3OG1nRGpDT0dvcTFrZHFTYU9LYUQ5Sk16X3U0eUVjNWNzQm40angyNWRmc1V2bmpmYjZvaGotYTlQU2c1MmpkY3FuYjE2Y0hSVVRtdDhVbXg0ZkpXT294UUdhQ3pkTk56cw?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 21:55:00 GMT",
-      "description": "Congressmen tout legislation to protect U.S. manufacturing and vaccine-injury claimants WGAL",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Florida ranks 5th in the country for the most measles cases - Spectrum News 13",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT2c1ZHBpTy1QSjJNTExVdTNJX0FtM09FbTVrUWUyZzl1V3RLcGFRV09wR3hBY1UweWxodWxJck0zRFVxekg4MjNpb1pTVW1ETTRsU1FrMmdDUUFpUzY2NklIVEpKVy1Wa0VLaWdfcFBfN1h3YjRma29TNXhnWHlvbmJPOXk3RmNZaWY3MFktbHpid3k3UThKczNfNHFXSFM4RDdyTVM0cHRVUQ?oc=5",
       "pubDate": "Thu, 30 Jul 2026 21:15:00 GMT",
@@ -773,10 +817,10 @@
       "articleLabel": "Research"
     },
     {
-      "title": "CDC nominee clears key Senate hurdle despite vaccine scrutiny - GovExec.com",
+      "title": "CDC nominee clears key Senate hurdle despite vaccine scrutiny - govexec.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa2F3RVN5X3pSUTlucFNxU0g3Z2E4N2ZpLUxfNWw5dDhNZWhPc3RxSDFIX09hRzAzd1ctdGJ2TjVjZ0l0UTJZb2xwZGR3UUhRMkxxNEs0NzBVaUxRX0MyRXVVXzlMMWVzemxtUVNUdGI2TTZvcWF0bmtUb1M1NklBZTR5S2VfaVY0Wk1xWDJrMmc3Z0VyNWgxZHk1bzJOSWJ4alpqamRab2hkMWdEYThSUlN3?oc=5",
       "pubDate": "Thu, 30 Jul 2026 18:56:05 GMT",
-      "description": "CDC nominee clears key Senate hurdle despite vaccine scrutiny GovExec.com",
+      "description": "CDC nominee clears key Senate hurdle despite vaccine scrutiny govexec.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -851,10 +895,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "'Inexcusable deception': RFK Jr., in exclusive interview, discusses Fauci diary - usatoday.com",
+      "title": "'Inexcusable deception': RFK Jr., in exclusive interview, discusses Fauci diary - USA Today",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS1RNaUtDcVA0a3pjMmVmYVpZZUFGZGd4NzhCeE1FRkZnM0VSeUNEZlRJalRtSXE1Z0FjYlU1Wmx3V1Z1cDJTUnZiQjJ6UGZ4QWI2SlYtVVhVUElIbE11SG9SaXYzb3FkMDhYOF9maDI3aU1iV3oyQnFQREkyeVhlSFBxdHo0TkFWa01oTW8zQ1YxZ1U2Q2RqSGFtdTd5TnZTLXZtOGZnQQ?oc=5",
       "pubDate": "Thu, 30 Jul 2026 15:40:00 GMT",
-      "description": "'Inexcusable deception': RFK Jr., in exclusive interview, discusses Fauci diary usatoday.com",
+      "description": "'Inexcusable deception': RFK Jr., in exclusive interview, discusses Fauci diary USA Today",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1033,19 +1077,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "A Maternal GBS Vaccine Just Cleared Phase 1/2. Here’s What the Trial Design Tells Us About the Regulatory Gauntlet Ahead. - The Clinical Trial Vanguard",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQSGROLWFwS2VITGQ3bXJfOGxkanRyc0ZpaVRTdl9FUmlkLS04T2dpTmtTcGVtTTJQRVF0Um44V2lLOVFYTU5zRGVNamRCSW5ZWEdsQUM4NEhhYlIwRnZBM2F0amlkc3ozb1ZReWg2d1JIV3M1Tk1SNUMzY0RNaTdoWDlmWkNldXRUNlBUby00YVA4enRwQ0YxSnJDSVlWb1l0dVR6bUF5VHE4dDAxLWRtZUFrbGdqeUFJVE82RDdmaTZ5UVZjeVJwcnpvMjlxTDdNdjBGSERraVlGajg4aFVmSnBCMXpla3h3ZVNPNHVOMlpsYUphZ014NmprREZtRmR3d2RuTDIycU1SOXVwYUppaw?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 07:32:08 GMT",
-      "description": "A Maternal GBS Vaccine Just Cleared Phase 1/2. Here’s What the Trial Design Tells Us About the Regulatory Gauntlet Ahead. The Clinical Trial Vanguard",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "MSU vaccine experts offer science and solutions as measles surge, school starts - Michigan State University",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfYjMzcTdVZjhJTnB0TVZ1aUpXS2lEdmF6MGJqakhIcXdTUmFSbkwtVHZ4TWtHTkhGS0VhdEZ3WUZYa1hVN3hjSkZwamI3Wk5YYlNqT0YydURMWDZEUTgtNTdsczNVTWItMjRaRmNB?oc=5",
       "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
@@ -1059,10 +1090,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Merck, Wellcome partner with global health group to make Ebola vaccine for clinical trials - reuters.com",
+      "title": "Merck, Wellcome partner with global health group to make Ebola vaccine for clinical trials - Reuters",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR1REeGNHUGlqR2hRRGZnaDlhelZwNU1xRUJUemU1OEVrVnk3bWwtVm83LW1JNi1iY1lFaVpFbXBfanVrdURtQXI5VWU2S1lMU19OeTJFUkx4aXhhNWVpb1ViZVBsQ2xoLXY1TjBBR0xYV1BTMXU2Z0djNk5xMjZKeUdyQ3NGREt1eHNTdXdLLS01WFpkaS1yZURiNXJSYi1jUDR6UkFqY1BnT295Z1ZQdXpxalFVSmlfUzZfMUlTOWF1eFlUM0NvQldCX2Y3SE8zR3F2OGZNbFdSaXk2MXlmaA?oc=5",
       "pubDate": "Thu, 30 Jul 2026 05:09:00 GMT",
-      "description": "Merck, Wellcome partner with global health group to make Ebola vaccine for clinical trials reuters.com",
+      "description": "Merck, Wellcome partner with global health group to make Ebola vaccine for clinical trials Reuters",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1085,10 +1116,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Trump administration unfreezes $600 million for Gavi for global vaccine effort - reuters.com",
+      "title": "Trump administration unfreezes $600 million for Gavi for global vaccine effort - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc0VNSkVxaXI4RFdBSVI0RlNJZldkdTZpbGdseW55Q2hCZEpvLUUzcnVfbmllU1BrYmJwQ0NKbWgzZDBOTGt1MjlyMmRvVm5kVkFDMUU2enllYXhCaWtsdjVZQWVaeW9hZmt0MVlBQmlMVHYwY2NyYjdiWklGNHhoSzlCR3V2aGg4dEFTeklVZ21JN3FPaHZod2VjdDBXTTFlbngydHFMamtYMWFjakd4SA?oc=5",
       "pubDate": "Wed, 29 Jul 2026 23:17:53 GMT",
-      "description": "Trump administration unfreezes $600 million for Gavi for global vaccine effort reuters.com",
+      "description": "Trump administration unfreezes $600 million for Gavi for global vaccine effort Reuters",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1098,10 +1129,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Hallsville ISD hosts back-to-school vaccination clinic as exemption rates rise across East Texas - KSLA",
+      "title": "Hallsville ISD hosts back-to-school vaccination clinic as exemption rates rise across East Texas - ksla.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSzV1RU5YRVI3QjJTU2VVS0ZRUlE4QTVEODRucmx3OFFxckxfSGhkN0gwNDJuOThoVWdEYkY2TF96Mmd5eC1OUzczTlJZSUlPc2x0a3NsRnlPV05HMm5FQzhnTFdBbXpMdDIyS3VLMzBKWlhJUmlzZ3VWLXRNYVJaMzhGT0FWdkt5OTZONXN6ajdib2lBS3FvaC1GX1ZZREI3MmRpbDJnSkxXM1IzemxuRTk3cDY5b29ZVGlZbVd1X2k1U0hi0gHYAUFVX3lxTE9yR0EyUmU5Vmg0QWtKMG1mQTY3WmlsZ2tSb2RTcTdCRnFZODUwdnhmUnI4SHVsc2lTYTJMOW91dHRRRUxKSnBnTjBYeWREd3JoWTJMWkROdF96dTJSeVpUQUI5dW4wYlhrWTlac1FzN2szOWJhcjBLMUI2VlVvWV9WX1FxV0Z1cWxKYW1DS0Myc3hEdElfVjhKYUI4V1JrVy1idWI5X2ZOeDFmSjFMYWplU1NiNmVtZzQ0Umdoc19la1pJVnY0VmFJcDFuRC1YMjBxcnFEQnlfeA?oc=5",
       "pubDate": "Wed, 29 Jul 2026 22:14:00 GMT",
-      "description": "Hallsville ISD hosts back-to-school vaccination clinic as exemption rates rise across East Texas KSLA",
+      "description": "Hallsville ISD hosts back-to-school vaccination clinic as exemption rates rise across East Texas ksla.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1176,23 +1207,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "US lawmakers press Health Secretary Robert F. Kennedy Jr. on vaccine settlement - reuters.com",
+      "title": "US lawmakers press Health Secretary Robert F. Kennedy Jr. on vaccine settlement - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY2NEUzBCU2xhcVRIcFhES3pjOFcxSUN5TVRGdjRKRkdEYUFUZGhQS2c2d3VnOG04NThYUHU2V1l6a1FlMHZhX0hVNHJNOF9MclZMSnU2RGp0ZXo5MFY1LVlvaWViWU9IOFl4a1JfaTFTR3UxMjBOQ3dGX2tZRFhzRmxUTzRGeUV6NXF6RlZWSWFKbG4ya0VFRVJBQVR6RGh4NjZMb2hlcFJvMkVYa25ncnIya3B2b3dsWlQtODBlaU1qRVllakE?oc=5",
       "pubDate": "Wed, 29 Jul 2026 15:44:56 GMT",
-      "description": "US lawmakers press Health Secretary Robert F. Kennedy Jr. on vaccine settlement reuters.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Trump urges RFK Jr. to accelerate childhood vaccine changes: report - NewsNation",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNZmRtd3ZmTDFJczdTT0ZndS1XMHFWUnMwUnE0UktpSDhsVjh1Q1NwdFVOQThnUXhIOFdMQUMtSTNVcF9YSmFRemVTXzF6c01JUDU5V1JlMFVvS3I2LVF5NmJqcDdrSWJ6X0YzdFdIQTRRNWVORWRIN0VzQlppUdIBgwFBVV95cUxQMER5TWg4cFdOM1FjYlZMeWltazloektaTFpqcTVOYTVQdmZrMXhiVzY4RnBXVzZYdUdxSVNnRFZmbVV0d0ZkU0ZLbDdpQk1fZEYzbnl6MTV2bHRzdTdUTXBKbzhQcFc0WWhwbmlBSUYwajVfclVIUExfLUtfc09oeTI2VQ?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 12:41:20 GMT",
-      "description": "Trump urges RFK Jr. to accelerate childhood vaccine changes: report NewsNation",
+      "description": "US lawmakers press Health Secretary Robert F. Kennedy Jr. on vaccine settlement Reuters",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1211,19 +1229,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "RSV options: Most pregnant women, parents prefer the maternal RSV vaccine over the infant antibody shot - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeVlka1JOWDQ2Rm43SlZacmxSYzR5c2Yzb2xRTEVHb2cxcVRhSFVVaEkwQ1NIZXdvQU5kYzVVVTBzTkFpcXpGb1RNYzExLTZlTnBNeTRsZXBld2pMTk93Ulh0RVY5VWQ0bDB4dGZWR2oybTduTXRHSWdobDhURU1iRy1uWXhCWWN6N2JRSGxabFBDcTBCd3NjdTJLdllEY19TNWtNV01zek9ZckI3M25Db2R4WFZVZDhrZXBmMjlwdEh5Z3Vt?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 13:14:05 GMT",
-      "description": "RSV options: Most pregnant women, parents prefer the maternal RSV vaccine over the infant antibody shot CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "rsv",
-      "vaccineLabel": "RSV",
       "articleType": "news",
       "articleLabel": "News"
     },
