@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-31T00:58:48.689Z",
+  "updatedAt": "2026-07-31T02:10:56.094Z",
   "itemCount": 94,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 7
+      "count": 6
     },
     {
       "key": "flu",
@@ -15,7 +15,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 9
+      "count": 11
     },
     {
       "key": "hpv",
@@ -45,7 +45,7 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 70
+      "count": 69
     }
   ],
   "items": [
@@ -72,6 +72,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Delaware families urged to check MMR vaccinations amid measles outbreak - CoastTV",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVmpIa29rSG9SdVZuSC16bWlqanJMS2RLalF4R0d3YU5ONzF4X01CU1ZYRUFYSjJ3bm82b25KNkVQUm1sblJHVEVRNE5iVWV1Mng0ejhPUDAzM2t5QVl6OEZzV3dkYzhEM19NRzl0Nm1wclFCaURFRnVyRlItS0wzdmpSd2pxa2NnM29IZDd6dURmZ1lnQndIUWNvazBNVnZ5emRUajd2cWhMcEFKMVhDSk9QbXNCNnM0ZjQxY3NTQ1dmeFBrZDBfQ3hUVHFraDhRcExzUEE5MDJSc1hpRUViRWlwdmk?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 23:25:00 GMT",
+      "description": "Delaware families urged to check MMR vaccinations amid measles outbreak CoastTV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -128,10 +141,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Measles cases rise as vaccination rates fall - ClickOnDetroit | WDIV Local 4",
+      "title": "Measles cases rise as vaccination rates fall - clickondetroit.com",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ2s0YVM4YVpMWkVlbGw0Z3BfZXBPcEtoUFFiU0NLUVczX3h0eVg1aU5kQVhrTmlRN3JKU0l3ZW5VdmNXdWZaaXNQeFZqSFktQmVacE9hQWZoQnFPcUFQSG1PQUJpVmJrem9oSy1MWHhKeDhhUVRkX0tlaEJnNU8wQ0c3MGxORGJrRF9La0NKSURXV1FYMlZaRTh2T0VCWGM?oc=5",
       "pubDate": "Thu, 30 Jul 2026 22:11:53 GMT",
-      "description": "Measles cases rise as vaccination rates fall ClickOnDetroit | WDIV Local 4",
+      "description": "Measles cases rise as vaccination rates fall clickondetroit.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -180,6 +193,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Florida ranks 5th in the country for the most measles cases - Spectrum News 13",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT2c1ZHBpTy1QSjJNTExVdTNJX0FtM09FbTVrUWUyZzl1V3RLcGFRV09wR3hBY1UweWxodWxJck0zRFVxekg4MjNpb1pTVW1ETTRsU1FrMmdDUUFpUzY2NklIVEpKVy1Wa0VLaWdfcFBfN1h3YjRma29TNXhnWHlvbmJPOXk3RmNZaWY3MFktbHpid3k3UThKczNfNHFXSFM4RDdyTVM0cHRVUQ?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 21:15:00 GMT",
+      "description": "Florida ranks 5th in the country for the most measles cases Spectrum News 13",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Over 400 state vaccine bills, 9 new laws, 2 fed charters, and 1 step closer to a CDC director: The State of US Vaccine Policy - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU2ljN29vQWpnbW1wal9nSXZ5Q3dPYVdmSTNEUEJCSnBjNklsMkx4MFhOQXlVQlludlVEdjRpdG9meGNVZ29fVHo3elhKLVpObXVwaE9uUnBUSjB4VUxVTzJaajBURE8tMDZpVUlsbFZvbHRoMk12bjB3UHpkdF96STVObEFWYW44ZWFodHRMN1BuMVZ4UC1JcmJMVnFtQ2JUNlZWeFU2WHUtUjNZZUFmYTh2ME40REgtZ1A1eDFDUQ?oc=5",
       "pubDate": "Thu, 30 Jul 2026 21:13:22 GMT",
@@ -219,6 +245,19 @@
       "articleLabel": "Research"
     },
     {
+      "title": "Across rivers and rough roads, the DRIVE initiative is ensuring no child is left waiting for vaccine - UNICEF",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWnp4WEtUbkJnQjFSSDA1bVJPQmVPbmY5WWVRdEhnVkNDUDRhYUFQQkYwOVBuUWZCUlBNSjB6ZjZxQmVKdUwxdWEyQXlYMUowZ0tyd3QtRGhIUnZobVJzanRRTDAzRk1vTmVBUmRaekFOcldwWk55TTctdWM5Z2pEajd3UFk5emdBU1A2R1lGM1JzbzF1eWZvQkZCUVk4Z05PWl9zRnJjWHdpSkt4RzlHSFZvUzJOVzlodkNNNFpNTnZqdHR0THE4?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 20:13:57 GMT",
+      "description": "Across rivers and rough roads, the DRIVE initiative is ensuring no child is left waiting for vaccine UNICEF",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "MV130 Mucosal Vaccine Reduces COPD Exacerbations in Phase 3 Trial - HCPLive",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN0l0emhLSnZVUWRPdzdGbEhjZ1J1akR0Z0lMdXpBMWVBSFJ0VVJqWXBjQmR3cUxhUzVHaDRrVloyeEQ0M0NDRldHeXNya05hT1BrN0xJeWxOYWNnVGxRUjYzaGpleG1wQ0RIeXdDLVVaVFFJb3ZUR1ZXRTEyOHhvSXJCbFdtQ0NFTWhoTWowWTl0NzhxcUE?oc=5",
       "pubDate": "Thu, 30 Jul 2026 20:08:29 GMT",
@@ -236,6 +275,19 @@
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPNEtNNlBCLWRtNFRzSXQ1Zk1MQmlicW5fWURTb3lKTkpZSENySjFhTEJuU2h1ZjUwWDJ1X0d5ckdEYmk5SG1IZG1DX3U0anlQdzdkTzhSQ29SUlFheDU4VTJNb0cyYVpVWndETXJZbnBDdzFMNnJTMU1YY2VVU3ZidUIxb2ltRlZPcFNRakhEMVZIV2c0V1JPX051SXBuT3NROGNQZEJzMUpYX0FwUUpGR3ZZenhlUTJ5ZVR6Rm9JamtuanV5dzg4N0FESjBZc0RjckQ4NlZiSTZsVGVHV0hiN2VyWTJ6QjEzUXFGUE92NEhxQkNyS255SmZMcFppeHBEeDVTUHRaUk5wcWY1TUlsei1sMTRUZw?oc=5",
       "pubDate": "Thu, 30 Jul 2026 20:01:00 GMT",
       "description": "EnlivenHealth Highlights VaxReach Ahead of ThoughtSpot 2026 Designed to Help Pharmacies Strengthen Communities Through Vaccination Business Wire",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Historic Ebola Virus vaccine testing begins in Oxford - The Oxford Student",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbzYzYjdSb2JFSy1ybVRRRTd2ZVNhcXBJMWluLVdIcUVtWTBVVVl3VDFKRlBFR2F6TG14bTZLOGVlOVlEUmZxQXdsTlhKVEU5YVNrUFV2UDF4R3VsTWZaZzJQMHZ3OGNwcXp3S1AtU0NkM1pCR3NuVG56Um4ydElrYVFYRUFFd0phLVlSYjFLRUhHVjFUWlYtdFplMA?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 19:45:24 GMT",
+      "description": "Historic Ebola Virus vaccine testing begins in Oxford The Oxford Student",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -297,19 +349,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Medicare Will Stop Requiring Nursing Homes to Report Staff COVID Vaccination Rates - Medical Daily",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONEFlMHA0ZlFWQkNPa2NmX0RDVWNDUEVLYnRuRWZILU80dUItSVFRSWJYVEFFNUhlNFB6M1NlNlA0bGV3RUw3aWQyVFpvam00OTVKUnJlUW9xdlRjNk9fRnNLTzJvREpuY2VmMEt1S19OU2NHenQxTUVGaFpPQ01vY3AzN3Rvbm02ZUxITVlIM1RXNGh0TF9oVHVHLUZFMEE?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 18:45:09 GMT",
-      "description": "Medicare Will Stop Requiring Nursing Homes to Report Staff COVID Vaccination Rates Medical Daily",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Global vaccine group to transition away from shots with mercury, receive US funding - Baltimore Sun",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVXRQTGFRZVdEdy1fMzlhUDNiYXFhTmMtcHpvV3RZVEhjN0hjZ210TktEcFg2WldmRXA0VWRVQXdKRGlWS1pSanFualdxMjg1SkVGNTFMcDdtd1FSRXU5M1Iwb1RMejl5Zlk4ZnRLZHpBTUVaUld0c1l0MzBwS3Zhc2cwWHg2R0d6blpHNjdCb1NiUWtaNTR4Z0tHZXNPNXJUOUhUNS1nb2RLZjBKMWhBM0NpajBBN0stOHRjVDFKREw?oc=5",
       "pubDate": "Thu, 30 Jul 2026 18:04:24 GMT",
@@ -336,10 +375,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Mahoning County Public Library offers vaccination clinics for students - wfmj.com",
+      "title": "Mahoning County Public Library offers vaccination clinics for students - WFMJ",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYzd3bl9Rajl4TTExVjhUc2szQ0hmZHN1bzVoQ183dmFUZG1IRW9TYVpYVlI2Tm1fSzFZNTh1eUVPR0I0RzlxUFFKU3pPOFdmM2pIemZGc2J2cklKb1N6YjJUcjVxbUxPaFNENUtPR1FNU3BfMHNubExHclFDTkVQZGpqcDZzX3lTVzdWOFJNR2pCT1BKRVBtTkdhR3VMbVhLczV2RENDd3lwOTZuOEdkbENSV3A5QkJoUEU4b21BUDFRRnBDaU15OG81aURXbkFpelFwVmd1Q0dNOU5yYUNGOG0wcE9QZ0lOTF9HbmJLWnZ3RVlPU1pDeld1ang?oc=5",
       "pubDate": "Thu, 30 Jul 2026 17:50:54 GMT",
-      "description": "Mahoning County Public Library offers vaccination clinics for students wfmj.com",
+      "description": "Mahoning County Public Library offers vaccination clinics for students WFMJ",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -544,10 +583,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Rare Presentation of Parsonage-Turner Syndrome Post Tdap Vaccination: A Case Report - cureus.com",
+      "title": "Rare Presentation of Parsonage-Turner Syndrome Post Tdap Vaccination: A Case Report - Cureus",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYUtYRXQxdGdyaXZ4d2x3R0VWTjkwN003bG1kU0NZMHZaaGRSNW9yR0s5ODFJbGNJdUFJT1Z0dk1ULXRjQnBQVXBiQUhMRjRYU3FtREN2QUIzc242b3hIZnRDQUhKa0xpX2F0VjdaVWM0RnlPZjJYY0E0ZEVmQVhlcWhveDdoSG8zdEM3bGF0d2lYNmp1cTI3LW5EdmhNQUZFMllEM0pmd0M1S2lwNHNEVzFVbF9fX3o3em5HSkhn?oc=5",
       "pubDate": "Thu, 30 Jul 2026 14:45:07 GMT",
-      "description": "Rare Presentation of Parsonage-Turner Syndrome Post Tdap Vaccination: A Case Report cureus.com",
+      "description": "Rare Presentation of Parsonage-Turner Syndrome Post Tdap Vaccination: A Case Report Cureus",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -649,7 +688,7 @@
     },
     {
       "title": "Doesn’t Medicare cover vaccinations? Why did mine cost $200? - Las Vegas Review-Journal",
-      "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQcDJ4NWtrSmRmMFFPVm52T1BCc0h6WU1BTGIzamF4eGQ1dVhuUlc0cjZMbGZHWXkyQWlZc0dzYTJUSUM4Nm96MVhsaGFzeC12VzZxQ0wxZk5jM0l4YnNERHExX3BUZlVZYjduYUsxWEtJeTRHSHFwVldwSjFMZTB0cEdyY0l1UFJFbjJHMWl2UzlRa0tMaFJvNGpSc1JibVNyR3doV1dPWnFQQjh1aEg2WDFLbWMwVXVDVS1scVhPUEZTN2ZwcjlkTjdyeGZjUkRhT3hPQUxWcGNaQ3dvckluaGhLcmN1UE9COWpVdjh5SGsxY0VYcUZnMGlOQ2FobUtKbW9PTlJFOC1TekNvQTB3LW9BSzBsdURSU1J2QnBYTTNMUlBxRzBHQmFZanJ2RWhPbjI2NFpBR1o5b0lOb3IyVkJyMnVLYUFtSEpnbHlWN0I0WGVoZE9tMWQ0TkxPTXJkQXg0aDZCTFBKMUR2OFIyZ2JUcW5IdnpnbHdkeHpxOA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQanVNWV9uMzNjaEdVMjFpazRJTG5FNlBDUTJ5bmNtQ3ktUVpnYnVrR1BoeUl5RllSNHFaSHBoaXZtSHFNb0Z5YmpoaW9mZGhCak9HWlhtTVFqX0o2Q0c4Y25kcVNvbjgya0NwVC1weDZxczN2RXJaeUdUVGNlMWVUbXNzZTRFMHNVVURPcXBvUm1mb1RuUXhCRzVvOXo4aGRoZG5WT3VqZE4yTVkycU5CUjhseFJidmZ0by1YdDRpdlRHVkFKQXFtNXdTaW5CaUktT3lSdENZUkZ1N0ZxTlhEZXFWS3I3aS1rdXBKUTZqaUR5Rm5Qc1N3enV4SVlMU2h0OFUxcWYxOXhWSlBaOFF0cGpBUldEZVZReHNta3Y4SXFYZXZjRDRnOHlYU3ZZMTVvbmJWSF8wcXZzMHlKNmh2TVNiODhGX0dHNktPWHNEeU5leGZZWkxRVHdYTlZPSnQ4TmRqMXNfSzY4aHdiTzFhRnJUUkREUQ?oc=5",
       "pubDate": "Thu, 30 Jul 2026 13:30:00 GMT",
       "description": "Doesn’t Medicare cover vaccinations? Why did mine cost $200? Las Vegas Review-Journal",
       "source": "news.google.com",
@@ -921,10 +960,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Ebola Vaccine Race Accelerates as Congo Outbreak Outpaces Response - Bloomberg",
+      "title": "Ebola Vaccine Race Accelerates as Congo Outbreak Outpaces Response - bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObklyTE9FZnpXZUZocmV4VEVyZ3NqeV9rVzN2WkFyeE1Td0IzR0tjZ3A1LUJ1RFVxamhZUldVZDR4RW5uelliOHY5OWt3Q0JFRU8zVlRJLWhYYnhpUVMwRFdpdk1uTVVaQzlDTERNOXVyTjNzeE84Z0p3SVNuRS00LWRKVVpCeDZlcU9xZnlWWk5vQnBMY3E0bktoV0JrdHhhc2sxcExjODhaMGRWTzJBZHdiSnppT240UWc?oc=5",
       "pubDate": "Thu, 30 Jul 2026 05:00:00 GMT",
-      "description": "Ebola Vaccine Race Accelerates as Congo Outbreak Outpaces Response Bloomberg",
+      "description": "Ebola Vaccine Race Accelerates as Congo Outbreak Outpaces Response bloomberg.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -947,32 +986,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "After muzzling RFK, Jr. over autism-vaccine conspiracy theories, Trump defies aides to push scares again - Genetic Literacy Project",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTUV2SHdTb2thYklkRjRrMk9mUjRoWmNwU2RCZEkwWHJoUFhhcDNnai02RUZuNHBPMkNfdmsyeURIUkdiVGtpTXRxVmhBMlpVTVRndTdEdmMzbmlENVIzMDBFUGkwR1hhLVVBS3Z3SWw4R2xHeGpEV0dhMHFwUnl5d2VKejlCX2xuRTcySGc3M2dRWi1CQ3JwZFExYVEtSXBmX2N3T2YxOE1FUDJiVlFaRHN2UGh0TjZqZ0VKZHhGY09JX2x4UDdoTEZKYkd5VUFWTHFZVlV6elpEVjlvRkxQY2t3?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 04:13:18 GMT",
-      "description": "After muzzling RFK, Jr. over autism-vaccine conspiracy theories, Trump defies aides to push scares again Genetic Literacy Project",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "North Texas doctors warn parents amid rising measles cases - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVTJwVDNmeld1WWxTLXo1aW05a3pVbVR2MFJtWlVlT2pZbndQeHhqWHgxY0lIUU9FSFg3TWJUaHNqQnM5Zms3dDdwMGI2NzJkY3B4UmtNTDAxcnFCNWgtdDNiWjdwOC1UMG9xdm9ia3FDZWlOR0tacVJBejlTUmU2TVVzajVLVTZaYk9BQWlwbHdPXzdnbFE?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 03:34:37 GMT",
-      "description": "North Texas doctors warn parents amid rising measles cases CBS News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Pfizer (PFE) Wins EU Approval For Updated COVID Vaccine Ahead Of 2026 Season - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTBGZGlmYjRGaUpsRU1NckVJSUVldzRmNXE5NThEWU5fLThIdF9OY1ZvYzV2ZlVqLVRlRGhuMHZkeHFHM0NOUVVIenBSY0JLVHFxT0pSRkpLVXloNGNLY2VMa3ZKRTRrSUVJUnNoYnJhQ185emxIVkp5WkdOU1d3T0JuLUNMNkdPeG9mN18xTUlCZw?oc=5",
       "pubDate": "Thu, 30 Jul 2026 03:18:00 GMT",
@@ -990,32 +1003,6 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTWlieHlhWnZMa3FZN1NsY0NVa0tKaGlUX2tuQnBzdGFETkJTSXRsM0FFZjBrVmR2OGlSTFdEcmpUcjlvMzdDblVBZlVkN3hrbk5RT2tyc1BFOHNaY3JzVmc3Ui0tbnpjazJLMTFYd2RmdUUxY0pydE1fV3IyQWdseHEyT3AtY284Y1hJZTcxT25oSkdHUHRUcjFuTXR0QVJNOE9KSjZUSDJNdTVGaVRpSTYxUThoc0JZMkRpb253N3dqalptc3NVWHBtakM?oc=5",
       "pubDate": "Thu, 30 Jul 2026 03:13:00 GMT",
       "description": "Hallsville ISD hosts back-to-school vaccination clinic as exemption rates rise across East Texas KLTV.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Health experts encourage communities to consider practicing immunization - WVVA",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVmZYVWV0cTVpN2htNnlneGZHaEc3UG9jbnZEa3RrVVdMTk50OEhHXzRQZDZHbmZMNHRqblRRWVlGME9YeWRENEhCWHMyNTAxTzJHckozM242MTVoWW5IUU85TjhheUdNOEFad3Nzb3pJamxKaFpNNjlyQUJweFZIaS01d1NXTGdtRnhyajc2WWo5Tk5VcVFmRjBJZlA3aExRZkFmSdIBuAFBVV95cUxPaEFiNC0zd0w3Q2xNNjAxYl81Yk9HVUp4Sk9ZazJ5UXNqa0luSFVpSjZSSDdUX1FRbHlRMjJzeUZDbC1JZF9rWXRyRFJJb1hITG1qQldxSkRXSFZSYXFXWEJmMlVVZTVTWENyNFdGWXNJOUNNeXFBVlc1NEFKVmJGY2RvbHpMSDVmU2s1VDdOdUdHQVFnS3NkOVRpaWVGd1RGbTZuZXBqM2wzSDF5X3BSQndYZlMwem9K?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 02:37:00 GMT",
-      "description": "Health experts encourage communities to consider practicing immunization WVVA",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "RFK Jr. restores vaccine funds for poor countries after dispute - The Seattle Times",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaGc3TWVLNEIzOWpqSUxWcktiTnRQUm8xN2ZFQnFqcXV2YWw4SF9ybURVdUc5R19rNFVPbEcwYmxOTEQ3Y1M0OHg2eFZlbTJXT2pMTWxacWRZdi0tTXFTcmJGSWZBRGQ2VHUxdlg5YUlyNHlLVUtMaHBtTEFweS1XZ2dJRmNlNXh4azdlYVJwX3J2UklOSEF1MzJnN1R3SndmemNVdjRlNU5nMkVOTVJadEI1MjdlMm1MT1BLVUFR?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 01:41:09 GMT",
-      "description": "RFK Jr. restores vaccine funds for poor countries after dispute The Seattle Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1129,10 +1116,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Cancer Vaccine Piggybacks on COVID-19 Mass Immunity - insideprecisionmedicine.com",
+      "title": "Cancer Vaccine Piggybacks on COVID-19 Mass Immunity - Inside Precision Medicine",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcEY4bkRDRWIzbXVOTWlYVzRhUVlYSThjenhhYUxIS1psX2xYTmRVLVBYLU9KY2lkb0UwNDd1TFMxcHA4UGt2WXNBdkJzVjhHSHEyVHRNSkNDek52bVY2Z2prU2JHNWNLekRvdjhWYzdUcWh3TVhfSGRmTU5oUmNNeHBSdzltcGZxank1c1RRWlUwcFRKdkFYNTBJbVdIdUFaQ2g0N05YTTk4R1dT?oc=5",
       "pubDate": "Wed, 29 Jul 2026 19:03:22 GMT",
-      "description": "Cancer Vaccine Piggybacks on COVID-19 Mass Immunity insideprecisionmedicine.com",
+      "description": "Cancer Vaccine Piggybacks on COVID-19 Mass Immunity Inside Precision Medicine",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1233,6 +1220,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Health experts: State’s high vaccination rate is keeping spread of measles in check - Maryland Matters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS2ZkVlFmOFpndE84SGpqNmlGQ1F2VGFfWjFSNGFjc0hZeC1QZndXZ2M5MEtMYUFxZTJWS2ZHNDQ0ck53ajFmcG10bFBfVlgyZGg5QmhFTUc2OU85S0NGZzA2U1hhamF6c1lkVUg2QWlMQ3pHVURsTk1kNVhBVndNSlJrTUwwRXpBY19lMTdGdExhUEFiU1ZmUkxsZTFhX05tVjNaVnp2aXdGdHlnUnMtX3hRdjV6T21Ub1JpVU5R?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 05:43:27 GMT",
+      "description": "Health experts: State’s high vaccination rate is keeping spread of measles in check Maryland Matters",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "How vaccine skeptics use storytelling effectively to create powerful but medically inaccurate messaging - The Conversation",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRFEwNmlXVnRnajcyTll2VENuZHlCY19MM2pQWU4yX0VEQ0dyd08xMEstcV9PVjd1cEI3NDFjZjVhWGFJclBRTUdTM01FUGlJaHJ0aUJ0TEg3SjllQkFickFXTG44aXhNLWpNdC1kSWlUQTNoTGwzdlZXQThoUFVnMlZCR0RvaXpSRzY3SHQ5X1NDa1hlTnNfa1RtWG1VSTFqS0ZuZ19NM3FPNVVzMk91SVdVbUtBOGp6SWFPX1h5WXE0RXRnRXRDRGVCWGdxWk54T29qUQ?oc=5",
       "pubDate": "Mon, 27 Jul 2026 12:40:34 GMT",
@@ -1259,10 +1259,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
+      "title": "Measles Cases and Outbreaks - cdc.gov",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
       "pubDate": "Fri, 24 Jul 2026 07:00:00 GMT",
-      "description": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)",
+      "description": "Measles Cases and Outbreaks cdc.gov",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
