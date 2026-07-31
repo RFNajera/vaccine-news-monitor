@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-31T13:04:26.586Z",
-  "itemCount": 91,
+  "updatedAt": "2026-07-31T14:09:32.736Z",
+  "itemCount": 93,
   "groups": [
     {
       "key": "covid",
@@ -33,6 +33,11 @@
       "count": 1
     },
     {
+      "key": "chickenpox",
+      "label": "Chickenpox",
+      "count": 1
+    },
+    {
       "key": "rabies",
       "label": "Rabies",
       "count": 1
@@ -40,10 +45,101 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 68
+      "count": 69
     }
   ],
   "items": [
+    {
+      "title": "Bluetongue vaccination: protecting fertility, stock and farm businesses - NFUonline",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY08ycWJrMmR0RGotR2doOHVySndWUHFvX19YZUkzaVpOb1BFR1loX1dBMnJ4d0hWcXRLd0FrZGU2aExBV2hYOEl2bUUwRHJvamRubDBROVJHc1kwZEpFdTNZU3hRcjU3RzhXaUlMRUVVdlhMckJUSkZQTzQzbkF0aG1RaEo5U1lZS3lXenBTLVlCdDZyVFVJaUMycnpXeTNyZS1B?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 13:53:28 GMT",
+      "description": "Bluetongue vaccination: protecting fertility, stock and farm businesses NFUonline",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Sweden Makes Chickenpox Vaccine Free, Sets Course for Disease Elimination in Seven Years - Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYVBRaS0xX3NnNHlzZmxLQ05CZHBhTzlQNDVKNF9KZ2RHa04zSVZrV0NmUVlmQmVnUGVnR0paODdpMzB4TWc5RXpNVWMwbS1OUkpnVHpRRUxXYkVUdFlWZTVuRG0yeDNYVVVKRXhESzE2NElPMEtuMHNSNE1ZeUxfelJYRzI2M1RKT21xd0E5UUl5ejQ1OU92R1Z6YzJRTU9janZySGJXa1oxdVoxdlM1NW4wZnpGdHhkcktDWG1Pby16Q09rX1pPYVBpMGdfclpT?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 13:49:53 GMT",
+      "description": "Sweden Makes Chickenpox Vaccine Free, Sets Course for Disease Elimination in Seven Years Tech Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "chickenpox",
+      "vaccineLabel": "Chickenpox",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Merck-backed Ebola vaccine moves towards clinical manufacturing - Manufacturing Chemist",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNHNQanNlYk1WMVB1QWJBdlBIUkNPdUdjaG04ZjlDQlQxYVpKQnozV3k0RzdFejA3ZkhpalBSR2drWElhUTgtM1lrQUpHb1pCQ0lWdVI0UWR2ZVFVeWtWSjRYXzZqSktMMHhiQ19saFY0TUs1blg3dUlIS3F0RklQUXF2SzN1aEdIZjBtdHVSelZNcV92bmRKMllCU20?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 13:35:04 GMT",
+      "description": "Merck-backed Ebola vaccine moves towards clinical manufacturing Manufacturing Chemist",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "KY ranks among states with lowest kindergarten vaccine rates as measles cases hit 35-year high - WTVQ",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONjYyLW5iaGM3MnpOeEdzUDNKcVZRajQ2TVN6bmh4RXdDSW9VSHNOdnZkQU11X01NWEplY0lZTFFTOGJXdkFoVGRJX1ZFdjBtZlhVdG81Q3pXU2xmV2pTbW5ZdkQ4X2VZLTVfZ0ZMTnFVeDg5ZUUtUklKY0dkWGJtVU5wcVBKcHZpbnpqTU05LVFlNkdRd21HaWY0Mk9MbGNUMEtoSHpFUjNqYXJIY1ZPc3prRERKUG8?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 13:26:02 GMT",
+      "description": "KY ranks among states with lowest kindergarten vaccine rates as measles cases hit 35-year high WTVQ",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Lancaster County Immunization Coalition works behind the scenes to promote vaccination - LancasterOnline",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOeUgwSkJoVW5NbHZ3Tjdfcl9yT3dIRzRIOE5TbG5CcGNsT1AxT2lHLWUtRzBCSW1jUVRfa1J2eFFSSllEUnRCOUw4SXkwYUFSbnpwZjNYQjJCeHFFeTVsbTlOcFNsZE9LYmdzS3BPZFVoa2FvNVBOQzluX3Y1UHAwaTFyQU1jOUdkVDFVY1dhTF9GcDVWNW1hSl9KX25jR1FmYW9VM2xWUDFvV3U0NFhONGtEd3hsRmUxcnVPR0gyeUh5ck5Wd2tiYVBGdGNhR1NIZDNuZGo2bEtVTEhlWV9OM0ZZQXA2RFptU2J5MnBIUkZZOUQ5ajBkUW1TTzYzOTF2N3ZaYTBQUQ?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 13:22:00 GMT",
+      "description": "Lancaster County Immunization Coalition works behind the scenes to promote vaccination LancasterOnline",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Moderna Norovirus Vaccine Fails Interim Bar: Trial Extends Into Fourth Season - Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRlc5LXpmT0laMktyWngyNEZpblk3NExLSVhKUWttTDVGQVBfSzFlTC0xdEJjRzFhY0pEbVo2dWZCRHZZY2ZnbEpueHNWM0VUTmw2QS03OEpJeHpkSWlQWFNfbVRpZGwzX0RSM180WndVdHdVekt4RUtENnRaaVc0T0FNbDdXRkNtbzE3b1NiUEQwRVhYenFRaXdjek9Nbkx3WnFwLUF6ZXNTTk4xNjl1aG9wUG5VQXBhd2RQQTB1WnowQjJS?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 13:16:02 GMT",
+      "description": "Moderna Norovirus Vaccine Fails Interim Bar: Trial Extends Into Fourth Season Tech Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Michigan health officials urge parents to update vaccines before school - Detroit Free Press",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMmt3bTRrVHA4RlQ5b1IxaFVqNTRObWhRUnpTTERIVzlQa09wc2NVRmgyTC1yY1VHekVZaDc2RXlkMkM2Q2cza190dXBUd3VvU1diQV9qNks0MTRJWlJWMWhlSG5QNnRELTl1amJUenhEOXVrZUhYM1pVZ2V0TGczeXl6c3Y2dzZnOGt5YUx4ZnNucUMwZThoRUQyal85eGZ3aERDMUt6X2Y0dzlXdXF0TC1UeGpUcjZXV0tPbzZmdzRlNUhXQ3plV0hn?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 12:58:00 GMT",
+      "description": "Michigan health officials urge parents to update vaccines before school Detroit Free Press",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "World-first trial delivers personalised lung cancer vaccine - EMJ",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTVZfV3JlOVNXRXlzbVNTSUF4ZlVfRFlyNmEzWHdFd2JBNmNQdjZ5TlJkelNveklsXzVoQmMzT0pvTzV2clNhQXhjdFRTa21fdFdPVUstNzVnYm5DNGRUUG9SWTMtQ3lWVEpBdVdBbHBPUmVGRi1GZ2lDUGdBR01tVkppYkJveGlNSTFUTGVoMC01OXE5MVVSdlktX3hzYzYzY2Vr?oc=5",
@@ -110,17 +206,17 @@
       "articleLabel": "News"
     },
     {
-      "title": "Moderna Narrows Loss, Says New Norovirus Vaccine Didn’t Meet Expectations - WSJ",
+      "title": "Moderna Says Norovirus Vaccine Didn’t Meet Statistical Criteria for Early Success in Trial - WSJ",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUGRzMENLMHh5X255MUNMMEVaUG1FbnFJUy1rb1Rpd3NWcG12QXhYZmNmeTVGM3k5YS0xVWQzZ2N4dXFKYzF4bGxuZm4tclR1MlZJLTMtSXBfX045WUhSVXZKSE9pdG9uWnBfMFlvdHBoaWU4TGdpS2FaV0tiUlFBWDhFbS1sN0NmNk9UZ1FOVDhSV2gyX210R2swOHhUWlZyQzRlVnhrdFpYUmJFZFdDV0k4X3c2ZmZsZEE?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 11:45:00 GMT",
-      "description": "Moderna Narrows Loss, Says New Norovirus Vaccine Didn’t Meet Expectations WSJ",
+      "pubDate": "Fri, 31 Jul 2026 11:52:00 GMT",
+      "description": "Moderna Says Norovirus Vaccine Didn’t Meet Statistical Criteria for Early Success in Trial WSJ",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
+      "articleType": "research",
+      "articleLabel": "Research"
     },
     {
       "title": "Moderna beats quarterly revenue estimates on COVID vaccine strength - 1450 AM 99.7 FM WHTC",
@@ -177,7 +273,7 @@
     {
       "title": "Parenting role models shape mothers' COVID-19 vaccination intent - Contemporary Pediatrics",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQm45eHlsa3RNOTFGQVFyTjV0RXppbXZyVDhjcWwtNWFmaE1ScS1XaHFQWl9rUE8zWmZMXzNLcHR6QzFkWXlzQlNjak5GbXFIbG1ReGItSzREUnE5azhZM1VWenEzYzcteC1CaXlVWmtqMG42eFJsd1c3aTRzbFNUbHoxdUxTckFjdlZmcnNkQU5xYUZyUVN2TFVXX0ZfdlpoWHlXWURwWVhkVW8?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 10:10:39 GMT",
+      "pubDate": "Fri, 31 Jul 2026 10:16:14 GMT",
       "description": "Parenting role models shape mothers' COVID-19 vaccination intent Contemporary Pediatrics",
       "source": "news.google.com",
       "sourceType": "news",
@@ -201,10 +297,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Michigan health officials urge parents to update vaccines before school - Detroit Free Press",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMmt3bTRrVHA4RlQ5b1IxaFVqNTRObWhRUnpTTERIVzlQa09wc2NVRmgyTC1yY1VHekVZaDc2RXlkMkM2Q2cza190dXBUd3VvU1diQV9qNks0MTRJWlJWMWhlSG5QNnRELTl1amJUenhEOXVrZUhYM1pVZ2V0TGczeXl6c3Y2dzZnOGt5YUx4ZnNucUMwZThoRUQyal85eGZ3aERDMUt6X2Y0dzlXdXF0TC1UeGpUcjZXV0tPbzZmdzRlNUhXQ3plV0hn?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 10:02:00 GMT",
-      "description": "Michigan health officials urge parents to update vaccines before school Detroit Free Press",
+      "title": "Trump administration's health leadership reboot sputters - axios.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OcXlIeEppVEZtVTlPYmNwenZOLTE1Wmw5Wkl0TkdWeTBYUDU3c054cV9XX01TbU02NkVvMXJEcVI1UWFlU2NTeWFWRldQVHUtdHJpQ0otSjE2SFhTVGxpOXVDZ0FTWmhEeEc2MVBxMzZYYkF5R1hidVluaV9GQQ?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 10:07:16 GMT",
+      "description": "Trump administration's health leadership reboot sputters axios.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -244,19 +340,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVTNrYXJ5XzFjSVFyNGR4Vk9YYnM4YTYxX3FSVXFWbkdqUWVBNnRRZDZua3JaNHhIS24yREtwUUFibGhZRXRXWDg0MHgzZlJHZFlRZjJDREtCVTJOSUtfd2dUY25qV3NqV2lCcDZUdVl1MjdwMFpvQVROdGdwRWZ1Y0VNY0xqSHpDQ0NnNmdwd0t3YUFVSG9oVmQ5MVpkcXdveTlfbGdTM2VocnJDbDA1QXMwVUlvWXYwWkoxOUk2Ujc1dw?oc=5",
       "pubDate": "Fri, 31 Jul 2026 09:39:29 GMT",
       "description": "First patient in the world receives personalised lung cancer vaccine at Clatterbridge National Health Executive",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Trump administration's health leadership reboot sputters - Axios",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OcXlIeEppVEZtVTlPYmNwenZOLTE1Wmw5Wkl0TkdWeTBYUDU3c054cV9XX01TbU02NkVvMXJEcVI1UWFlU2NTeWFWRldQVHUtdHJpQ0otSjE2SFhTVGxpOXVDZ0FTWmhEeEc2MVBxMzZYYkF5R1hidVluaV9GQQ?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 09:31:30 GMT",
-      "description": "Trump administration's health leadership reboot sputters Axios",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -396,6 +479,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "'A bonus': How the shingles vaccine may also benefit your brain - WWLTV.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZDdlaFZMdGI2RHlmOHB4VFFoZkVZMUN4eGlwbVRwcmRSNkVWWEdlNTJfMUNiV0M0RFJoRXZEVFJuMXE4aDlFR2pzQWwtZGxBc3BPQjZEXzJ4TERnc3dKWmNxaXlqdUYyQVlDWEpvZEszbkpFN2tXdjlZbGdURFQtMHpsaGhsUGljTEtzTDRzTmNIZUNDM1Myc2xqZnVJaC1kLTMtUnIya0xXZHljYVpua0UwZ2pPLW90UFQ0NVpOcGNCWlh6c2hsVWc3SFZtVUowbHFrZWpBejA?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 23:43:00 GMT",
+      "description": "'A bonus': How the shingles vaccine may also benefit your brain WWLTV.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "shingles",
+      "vaccineLabel": "Shingles",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Summit County health officials urge families to review childhood vaccinations before school starts - WKYC",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRURpOU9VZXlRd2djV0UyYlk5OUFfa0trZ19QQkNpdTNaVTNJQ1lSZjVnNl9QakI5Tk0ydFF5QU5YSUQ5b2lzWUMzVWVQUXRMZmsyQWE1VS1PTkhVd2tqa3AtMFpwYXBlZ2tObkJYcWx0U1ZjNWZ2aFRfbEQycS1Ed1d5RHNnTUdycDFyZkllMnlJY3lkbUd4MlQ2N2pvVHEyVHdoUGZ0aVhvQy0zbUhaQ3dJQ1Q4ci1sY2UxMlFEUzZiUHBrM0FheGxLMXlzbndRMVN0WTF2Wlh3SHpKMkotUW9fZFNobFU?oc=5",
       "pubDate": "Thu, 30 Jul 2026 23:26:00 GMT",
@@ -448,19 +544,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "KY ranks among states with lowest kindergarten vaccine rates as measles cases hit 35-year high - LEX 18 News",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUENudkU0RE1mVjI5WE1BZjJ2VnNnQU1LSml0LTdwS2g5MTBwTUdlZkd5MUJNd053QzRabzk0WXZmME05aDJCUVIyanhiMFNpaDFmdDlaYWN4cDlERTdwWGotUXhQcVA3SHNJc1BNSXR6ZHRlYVk1RFFoRjkxVnB4aGlETXQ5TzZMVnpmaXJSN2RvWW5oSk1oaFdfZWJEUkdaWWRiSzgxVlVYRTFVSUc5d2xyVzRqME1nZTNUd1dpWDhVZG8wNlhhM3lST3BoNUhDTGJ6bFlR?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 23:03:18 GMT",
-      "description": "KY ranks among states with lowest kindergarten vaccine rates as measles cases hit 35-year high LEX 18 News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Erica Schwartz, Trump’s pick for CDC director, gets okay from Senate panel - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbmNzQmJZb3FLd3cxbWRhMThNQ2laY2Rtc2g1eE5qbVI0ZWJ3RUZBOEFLY25SX05GV25GMGpnMEtfbXFoWEE0YllUQWhPR2drclFKYmJXYVRBN0F2QjJKNWxzb1lIbVNZSUZWZzE1MHlSb2c1cDNMVlEwcE9qdUlZOFg1SUFLZTk3cnBXc1FUWGVjU3lmc3hFVG10OGJIY0c4UUd5eS00TFpsQkwxTXBHakp0Z3dlMlJCWDY4?oc=5",
       "pubDate": "Thu, 30 Jul 2026 23:00:00 GMT",
@@ -496,19 +579,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "'A bonus': How the shingles vaccine may also benefit your brain - WWLTV.com",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNGZrQmdLR3Q2MzlTZkR3TUxJUFBKV1lxcFhsMS00OEhkTHEzSGNqRXV4cmY4b3duTjJOd3J5X3RxaTRmR3VhY3BQcHM5c0s1Z1Q5TTdWbDZva0Y1TWd2RGpjOHQyNmtzMUR3MFZlR3lhZVBibENwdUNRamJVRjRtUl94TlJwMTU3TE4tbGVsNXprT1RXd0JSMUR1NlZ3bllKV2Q4RzJ6NzNXcXpIWjIxak5fWmxMajhBQnk5QmxBU0lzTl9FODM3YmpMVEZQZjVIOUV3X3dn?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 21:40:00 GMT",
-      "description": "'A bonus': How the shingles vaccine may also benefit your brain WWLTV.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "shingles",
-      "vaccineLabel": "Shingles",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -734,10 +804,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "'Inexcusable deception': RFK Jr., in exclusive interview, discusses Fauci diary - usatoday.com",
+      "title": "'Inexcusable deception': RFK Jr., in exclusive interview, discusses Fauci diary - USA Today",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS1RNaUtDcVA0a3pjMmVmYVpZZUFGZGd4NzhCeE1FRkZnM0VSeUNEZlRJalRtSXE1Z0FjYlU1Wmx3V1Z1cDJTUnZiQjJ6UGZ4QWI2SlYtVVhVUElIbE11SG9SaXYzb3FkMDhYOF9maDI3aU1iV3oyQnFQREkyeVhlSFBxdHo0TkFWa01oTW8zQ1YxZ1U2Q2RqSGFtdTd5TnZTLXZtOGZnQQ?oc=5",
       "pubDate": "Thu, 30 Jul 2026 15:40:00 GMT",
-      "description": "'Inexcusable deception': RFK Jr., in exclusive interview, discusses Fauci diary usatoday.com",
+      "description": "'Inexcusable deception': RFK Jr., in exclusive interview, discusses Fauci diary USA Today",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -760,23 +830,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "USA to free up $600 million in withheld funding for vaccine alliance Gavi - The Pharma Letter",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUTNjVFpHZjBPR19UTXQwdTltNjMwWU0yVi1MN2dwTHFRZVRmcjhkR2RCellwcnhVZDdJMXo5MjR4ODFfTFZ2TENYMUJnTEFxZG92VDNtaWJuYzlnX0RvWm5ES0lfR1E2bGZFUk1LT0xuaHZVcE5BX19lV2t3a05XS0pwRnMweGpseFh0T3FaNmJRVlQ4LWR3NTJ6VzFzSXhGODgxZmN3aExpWkt3cEk4Q1R0MUJKdw?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 15:23:56 GMT",
-      "description": "USA to free up $600 million in withheld funding for vaccine alliance Gavi The Pharma Letter",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Ebola outbreak sparks global vaccine race - semafor.com",
+      "title": "Ebola outbreak sparks global vaccine race - Semafor",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbTYweGZpenlpQTNid3prNkdaMUM5bEJacWNGcVQyWVBUTExXNkI1MzMySkpISkl4a0R5eWFScDd3WG51NnNRdTA0TG5CaGlXNVV0U2NEUnNtTVo1TmF2T0tsQXRGRFpZVWtmaW9PU1JvMVdOZmNWVFdIVmI5dU5QRGRzUnM0cTh2X3FMdQ?oc=5",
       "pubDate": "Thu, 30 Jul 2026 15:04:00 GMT",
-      "description": "Ebola outbreak sparks global vaccine race semafor.com",
+      "description": "Ebola outbreak sparks global vaccine race Semafor",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -825,10 +882,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Trump administration unfreezes $600M for Gavi global vaccine effort - The Hill",
+      "title": "Trump administration unfreezes $600M for Gavi global vaccine effort - thehill.com",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LRjRKYjZLQnF2b1NHZjI4elhtNjduNlJUUkVVZUY3OEpVWnBoakhVRlJFc1lRVFpZZ0YwNThJNTZnajlKYXRsWkpxUXhOSXFoWGRCN2dkODZTYjRtSmF3ZmFMTm9WczdzUXJ4THF4M1FsRHQ0NzBTeWRzRURCUUHSAYQBQVVfeXFMUDRRbkFySXNQMjB5WE5ncF9kZlpyU2JTbU52SmNnMldwM2ZiVG9pWXNSa2UxeXE5aEJpMU9Takd0NE43YmhYYkNrdjRjUWRxLUQxM29FMGdJQk5KZWc3R2x5N0xHMHJIQmxhYXljODRtYk44QWkwRE54STlfMXNZR2pTUTFK?oc=5",
       "pubDate": "Thu, 30 Jul 2026 14:02:00 GMT",
-      "description": "Trump administration unfreezes $600M for Gavi global vaccine effort The Hill",
+      "description": "Trump administration unfreezes $600M for Gavi global vaccine effort thehill.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -864,10 +921,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Bucking Texas decline in vaccination, El Paso public schools record high immunization rates - El Paso Matters",
+      "title": "Bucking Texas decline in vaccination, El Paso public schools record high immunization rates - elpasomatters.org",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOVZOZC1Ua3BQN1VQQ0VObzc5NVgyc3J1QUtKbTUyMS1UYkxaTEpRRUlseURBcTlDR0ZDSnNQby1paUViaUNZTjcyR3RpcGxzZmQtc3BjMlVsLVNMaUNiS28wUDlQQTl3Q19TeHVJbzBOT3pmMTVYRWE1VnZWVlBidTZEdGVqNXRrOFZVS1BMa1B5VWo2Y1E?oc=5",
       "pubDate": "Thu, 30 Jul 2026 13:00:00 GMT",
-      "description": "Bucking Texas decline in vaccination, El Paso public schools record high immunization rates El Paso Matters",
+      "description": "Bucking Texas decline in vaccination, El Paso public schools record high immunization rates elpasomatters.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -877,10 +934,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Vaccination rates decline in Polk County schools - Axios",
+      "title": "Vaccination rates decline in Polk County schools - axios.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbjZTcGlhU3Itb0l3MzdWNDF3c0RkM09NeDJyYjlFZkUtSlpWRzJLWGNjOENoTnV0S05fWUpILVFMM3RjS3NtNlJUa0JTaHdHcHpHVlZqcHpEWlBHU3BSSzd5Q1RpMnJZTjNVUWZmUldtQkVYNHhneTQ3UzNHVHlGU3hLdVRYRlNjWndyczhR?oc=5",
       "pubDate": "Thu, 30 Jul 2026 12:46:04 GMT",
-      "description": "Vaccination rates decline in Polk County schools Axios",
+      "description": "Vaccination rates decline in Polk County schools axios.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1007,19 +1064,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Tuberculosis Vaccine Reprograms Brain Immunity in Small Trial - the-scientist.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMmY0bnI0TmlsVHVnblVBdGYxQzhRbUZLa2ppLU5tbnRDZXhRUVRTU3pFVEVXV0lobVMyOG5KTlRVU1paZVNiSDM1elM2LVpoNk9LUk95aVJtVllUWmc2UXhmZGV2N18tUEFxQTMtTTZhVnRMWld3TnRVUzBpMnV0OXVvTGNYcWhSWVV5clZMOGF0cm1HQUNVSENCc1JrQQ?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 04:14:33 GMT",
-      "description": "Tuberculosis Vaccine Reprograms Brain Immunity in Small Trial the-scientist.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "Trump cuts WHO off from Gavi vaccine alliance funding - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbTFPbDhkZGNrQlZxeG11UWw1MDlVUmZYdVJTNWU0NHhadWxuWjUwOE55S1dJQnF1S3JubHRPbXFKQ3pBa2tpNEYweEwzanhoeGJsemlyUmYtdmNGdWJ1ZWVUR3Z3dl83WFdwTHpKYVpHSkZlRGtMSjdvNFEycDJ2RVl4bXBNd3JjdDhZQ3UtONIBlAFBVV95cUxNNVRyRHJ6SkdxSGNSMXRlWXM0bnZtY3lIWmdQXzE4U1lTWXo5Ym9CRDdhRDd3NkRuNjRIYllrbHBnZmxoU2pjSXhvcmdYZmwzVjNIOXdXa1VWeXJJSXU3UEFib0VxWi1uRDhnMFh4Ql9JblFtdVJrZ0I1M0puUVN3bjdQNlBiZTNiRkJ3U2xFcmtPaVJE?oc=5",
       "pubDate": "Thu, 30 Jul 2026 00:34:40 GMT",
@@ -1111,10 +1155,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Senate Democrats ask RFK Jr. if family will benefit from vaccine settlement - The Hill",
+      "title": "Senate Democrats ask RFK Jr. if family will benefit from vaccine settlement - thehill.com",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BTzBGRXZHeUw1alJVVjFURl9IalA4ZjdmdGJQcTZZVEdQc2VWb2I3cEItQ1FEclJXOUllUWQ1RjlPRWREQmNqOUtEZjJlb1hLRnhpT1pZOGFFeGxmOG1RdV93Mmc2UmNQX29lbkFBQVN2bU9EQ0Q0SkFR0gF_QVVfeXFMUGh2NXpsOEROY2lWcHNwbURCcUc3dHNwT0labVRWcS1MVDExZGI1M09SdWlPeld6UTljaHY0YjVtNUFUOURFTWlzTFdDeWRidHowS092Uy1BQ1NsTDJWT0g4VWRmeDRZUjFTdUFtVUxmREpYNnN6MUNTVHNBYzJQQQ?oc=5",
       "pubDate": "Wed, 29 Jul 2026 17:20:00 GMT",
-      "description": "Senate Democrats ask RFK Jr. if family will benefit from vaccine settlement The Hill",
+      "description": "Senate Democrats ask RFK Jr. if family will benefit from vaccine settlement thehill.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1150,23 +1194,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Collins says State Department will reinstate funding for global humanitarian vaccine alliance - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa0dGYWNjWlFobldhV3JNcVZrZFdFdWNGZVd5TVJiZU9lOEk4dmltdUdZM05KUUR6YlRWS0pSTlpUb3VRUjBCcGt4SzhtV1pZa2xOZ1k0MUJSZUtVODNySlZibWl1c0tPMFMtRllnTUtYTlFBX1VtRTFOMFN4eGJCaWJPVmRNWngwQ2o00gGQAUFVX3lxTE1wZW1yYlQ4WHo4OU5YWVJtSEttc1doWl9mb2lNdXZrSnZfRmV3TDBNTk1MOU1sdWlZU1hFZFZpQWNpYVYxbVA2aldOWmpXREhkUll6SXVDU0VIN2xrajRqMUkybTlkS0htQi14Y1RnNFVmMEI1M01aZXVDUXZhUTVDS0h5YTgzU0pZWEZIRndZQg?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 02:43:00 GMT",
-      "description": "Collins says State Department will reinstate funding for global humanitarian vaccine alliance The Hill",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Dozens of States Tried to Roll Back Vaccine Laws. Here’s How They Fared. - nytimes.com",
+      "title": "Dozens of States Tried to Roll Back Vaccine Laws. Here’s How They Fared. - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSkNqYWQzbU9YWEduN1E1UTJMUXQ1UUk0cFJPSkd6RTJEVWxOTnpaSFMxcHQzNElkaUZmTF9OVEVmVDRIYk5pOVFiUWJSMGJKZlpvOWlweldxSjF6dnVsYW51UFVGWFNfQVlOdHNpQ3VoX0hLbG5nZVJUbUhfTXBLZnRfSWwtby1hanFRcF81UQ?oc=5",
       "pubDate": "Tue, 28 Jul 2026 14:37:59 GMT",
-      "description": "Dozens of States Tried to Roll Back Vaccine Laws. Here’s How They Fared. nytimes.com",
+      "description": "Dozens of States Tried to Roll Back Vaccine Laws. Here’s How They Fared. The New York Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1202,10 +1233,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "How vaccine skeptics use storytelling effectively to create powerful but medically inaccurate messaging - The Conversation",
+      "title": "How vaccine skeptics use storytelling effectively to create powerful but medically inaccurate messaging - theconversation.com",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRFEwNmlXVnRnajcyTll2VENuZHlCY19MM2pQWU4yX0VEQ0dyd08xMEstcV9PVjd1cEI3NDFjZjVhWGFJclBRTUdTM01FUGlJaHJ0aUJ0TEg3SjllQkFickFXTG44aXhNLWpNdC1kSWlUQTNoTGwzdlZXQThoUFVnMlZCR0RvaXpSRzY3SHQ5X1NDa1hlTnNfa1RtWG1VSTFqS0ZuZ19NM3FPNVVzMk91SVdVbUtBOGp6SWFPX1h5WXE0RXRnRXRDRGVCWGdxWk54T29qUQ?oc=5",
       "pubDate": "Mon, 27 Jul 2026 12:40:34 GMT",
-      "description": "How vaccine skeptics use storytelling effectively to create powerful but medically inaccurate messaging The Conversation",
+      "description": "How vaccine skeptics use storytelling effectively to create powerful but medically inaccurate messaging theconversation.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1215,10 +1246,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Measles Cases Hit New Record in U.S., as Vaccination Rates Wane - nytimes.com",
+      "title": "Measles Cases Hit New Record in U.S., as Vaccination Rates Wane - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUFBiV2pOcE9jOVU5N1g5VzBWMC1LdnpPRm15cFdXMVluQ2VWOU00WEktOGF1QUZhWUF4eEJSU1BPNjNtUXJBQm5rOXNxYjh3cDNNN3ZtMklSdzhDb0o2UnVtelZGM0l1aFdxUmVpbEtMTGVnaGdHMk1MVGVBbmZSWF9zVElIYmxB?oc=5",
       "pubDate": "Fri, 24 Jul 2026 14:59:15 GMT",
-      "description": "Measles Cases Hit New Record in U.S., as Vaccination Rates Wane nytimes.com",
+      "description": "Measles Cases Hit New Record in U.S., as Vaccination Rates Wane The New York Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
