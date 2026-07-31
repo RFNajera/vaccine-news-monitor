@@ -1,15 +1,20 @@
 {
-  "updatedAt": "2026-07-31T07:23:47.594Z",
-  "itemCount": 90,
+  "updatedAt": "2026-07-31T08:21:21.306Z",
+  "itemCount": 89,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 8
+      "count": 7
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
+      "count": 1
+    },
+    {
+      "key": "rsv",
+      "label": "RSV",
       "count": 1
     },
     {
@@ -35,15 +40,28 @@
     {
       "key": "rabies",
       "label": "Rabies",
-      "count": 2
+      "count": 3
     },
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 66
+      "count": 64
     }
   ],
   "items": [
+    {
+      "title": "Rare, Untreatable Bourbon Virus In New York: Viral Disease With No Vaccine, No Cure Explained - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWk9Nc19hTzlSeDA4VXFwZXRGT25zQ1FWUDZhQ2NRX2cwYkxCckRlVk5aV3dLVm9USmI0eG1BbnIxOGd2X0IwWno0MW9qRV9hUnIzRk54bkUxMXBHcjBiWmZIOVl1dVkwVHlsYzBULUJ1bXBCX1R5SFRjU0J3SkhIZDY3cks5T25XenRPX1A2LVo1SzEyZ1RiSjdOUXkzRDBDbkJsaDdkYTRsNExnLW5JVlZfcFJESVZ2RFoxT2NDWG5sZ2F2Rmc?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 08:00:01 GMT",
+      "description": "Rare, Untreatable Bourbon Virus In New York: Viral Disease With No Vaccine, No Cure Explained NDTV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Well Biotec Ex-CEO Indicted for COVID-19 Vaccine Insider Trading - 조선일보",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUVnT3B6c2J4UUZYeHNXYTNnb3VVSjczeFZDcG5rbi1EbUlsSVZkd3F3MUhETnp2QzlZZTBZVEI5bFpxWTdQQTE4T3VIMXpLc19CZUkyT05SVnhUYmNSa2d3aVNYUS1kZ1BHTGxoOWk2SUdYTWpHYkgxb1htR05hLUlLenV2Nnpl?oc=5",
@@ -84,10 +102,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "How Kennedy and his family could pocket millions from Merck’s $50 million vaccine injury settlement that he oversaw - geneticliteracyproject.org",
+      "title": "How Kennedy and his family could pocket millions from Merck’s $50 million vaccine injury settlement that he oversaw - Genetic Literacy Project",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPR2JHVzdnWlFac1gxVFNHd0JoSVdVejlkT1JWTm5uMDhNVkJER0p1SWx2VE5iQS1Tclhucm1wUWZpZXprVUFhb21pWnlMQ3FJZjZUM2R1U201NFBSdUdJNkV0OUh6bDJoUzNveFNnZXR0aFZGOUllcUFBR1l0UTNzajFpeEEwemhWQ2tzTzhrR1NGQlhjQlFZa2lHcjFtVEF2WkZNN0ZjN2hMbWNKbmNCZVd2Smxob0ltR1hVRXcwQWV2elBFeHBxMTZ6cU1wV01yZjBld3hhMlVfbGIyM2VYMWk2cml5MmlRam9vcUh1czJIUQ?oc=5",
       "pubDate": "Fri, 31 Jul 2026 04:07:31 GMT",
-      "description": "How Kennedy and his family could pocket millions from Merck’s $50 million vaccine injury settlement that he oversaw geneticliteracyproject.org",
+      "description": "How Kennedy and his family could pocket millions from Merck’s $50 million vaccine injury settlement that he oversaw Genetic Literacy Project",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -108,6 +126,19 @@
       "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
+    },
+    {
+      "title": "US could be entering tragic new era with measles - The Journal Gazette",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQkcwWGpESkJwcktDRDFKNExQT3pfOGdQTUFWdld0SnM0SHNSaDdZLUJDWHdmeElUdzVyeXV3eHZERDdyZjZjcmZpTGFUOHZWYnJNWE1aMk8xMjlnX3QxNU4zVmJLTXhHOHRoTmhnN2JmbnNoS3B5cjNQZ2J1WEROWGRDdFlmVkU2b2hSeU0tMWFRbmkyRmU3R0hmS3NYcTZRYU9taFZxZzlSb3V0M1ZOeVBMWmQ2ZmJmLUkyYlJkaDR5VnJ2ejFnMjNxd05JYi1LRkxtVjJvWXVTLWVyX19BRnh3?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 03:45:00 GMT",
+      "description": "US could be entering tragic new era with measles The Journal Gazette",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "research",
+      "articleLabel": "Research"
     },
     {
       "title": "Public Health Madison & Dane County offering free COVID vaccines - WMTV 15 NEWS",
@@ -136,23 +167,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "'A bonus': How the shingles vaccine may also benefit your brain - WWLTV.com",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZDdlaFZMdGI2RHlmOHB4VFFoZkVZMUN4eGlwbVRwcmRSNkVWWEdlNTJfMUNiV0M0RFJoRXZEVFJuMXE4aDlFR2pzQWwtZGxBc3BPQjZEXzJ4TERnc3dKWmNxaXlqdUYyQVlDWEpvZEszbkpFN2tXdjlZbGdURFQtMHpsaGhsUGljTEtzTDRzTmNIZUNDM1Myc2xqZnVJaC1kLTMtUnIya0xXZHljYVpua0UwZ2pPLW90UFQ0NVpOcGNCWlh6c2hsVWc3SFZtVUowbHFrZWpBejA?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 23:43:00 GMT",
-      "description": "'A bonus': How the shingles vaccine may also benefit your brain WWLTV.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "shingles",
-      "vaccineLabel": "Shingles",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Summit County health officials urge families to review childhood vaccinations before school starts - wkyc.com",
+      "title": "Summit County health officials urge families to review childhood vaccinations before school starts - WKYC",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRURpOU9VZXlRd2djV0UyYlk5OUFfa0trZ19QQkNpdTNaVTNJQ1lSZjVnNl9QakI5Tk0ydFF5QU5YSUQ5b2lzWUMzVWVQUXRMZmsyQWE1VS1PTkhVd2tqa3AtMFpwYXBlZ2tObkJYcWx0U1ZjNWZ2aFRfbEQycS1Ed1d5RHNnTUdycDFyZkllMnlJY3lkbUd4MlQ2N2pvVHEyVHdoUGZ0aVhvQy0zbUhaQ3dJQ1Q4ci1sY2UxMlFEUzZiUHBrM0FheGxLMXlzbndRMVN0WTF2Wlh3SHpKMkotUW9fZFNobFU?oc=5",
       "pubDate": "Thu, 30 Jul 2026 23:26:00 GMT",
-      "description": "Summit County health officials urge families to review childhood vaccinations before school starts wkyc.com",
+      "description": "Summit County health officials urge families to review childhood vaccinations before school starts WKYC",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -162,10 +180,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Delaware families urged to check MMR vaccinations amid measles outbreak - coasttv.com",
+      "title": "Delaware families urged to check MMR vaccinations amid measles outbreak - CoastTV",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVmpIa29rSG9SdVZuSC16bWlqanJMS2RLalF4R0d3YU5ONzF4X01CU1ZYRUFYSjJ3bm82b25KNkVQUm1sblJHVEVRNE5iVWV1Mng0ejhPUDAzM2t5QVl6OEZzV3dkYzhEM19NRzl0Nm1wclFCaURFRnVyRlItS0wzdmpSd2pxa2NnM29IZDd6dURmZ1lnQndIUWNvazBNVnZ5emRUajd2cWhMcEFKMVhDSk9QbXNCNnM0ZjQxY3NTQ1dmeFBrZDBfQ3hUVHFraDhRcExzUEE5MDJSc1hpRUViRWlwdmk?oc=5",
       "pubDate": "Thu, 30 Jul 2026 23:25:00 GMT",
-      "description": "Delaware families urged to check MMR vaccinations amid measles outbreak coasttv.com",
+      "description": "Delaware families urged to check MMR vaccinations amid measles outbreak CoastTV",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -266,10 +284,23 @@
       "articleLabel": "News"
     },
     {
-      "title": "Florida ranks 5th in the country for the most measles cases - mynews13.com",
+      "title": "'A bonus': How the shingles vaccine may also benefit your brain - WWLTV.com",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNGZrQmdLR3Q2MzlTZkR3TUxJUFBKV1lxcFhsMS00OEhkTHEzSGNqRXV4cmY4b3duTjJOd3J5X3RxaTRmR3VhY3BQcHM5c0s1Z1Q5TTdWbDZva0Y1TWd2RGpjOHQyNmtzMUR3MFZlR3lhZVBibENwdUNRamJVRjRtUl94TlJwMTU3TE4tbGVsNXprT1RXd0JSMUR1NlZ3bllKV2Q4RzJ6NzNXcXpIWjIxak5fWmxMajhBQnk5QmxBU0lzTl9FODM3YmpMVEZQZjVIOUV3X3dn?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 21:40:00 GMT",
+      "description": "'A bonus': How the shingles vaccine may also benefit your brain WWLTV.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "shingles",
+      "vaccineLabel": "Shingles",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Florida ranks 5th in the country for the most measles cases - Spectrum News 13",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT2c1ZHBpTy1QSjJNTExVdTNJX0FtM09FbTVrUWUyZzl1V3RLcGFRV09wR3hBY1UweWxodWxJck0zRFVxekg4MjNpb1pTVW1ETTRsU1FrMmdDUUFpUzY2NklIVEpKVy1Wa0VLaWdfcFBfN1h3YjRma29TNXhnWHlvbmJPOXk3RmNZaWY3MFktbHpid3k3UThKczNfNHFXSFM4RDdyTVM0cHRVUQ?oc=5",
       "pubDate": "Thu, 30 Jul 2026 21:15:00 GMT",
-      "description": "Florida ranks 5th in the country for the most measles cases mynews13.com",
+      "description": "Florida ranks 5th in the country for the most measles cases Spectrum News 13",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -279,10 +310,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Over 400 state vaccine bills, 9 new laws, 2 fed charters, and 1 step closer to a CDC director: The State of US Vaccine Policy - cidrap.umn.edu",
+      "title": "Over 400 state vaccine bills, 9 new laws, 2 fed charters, and 1 step closer to a CDC director: The State of US Vaccine Policy - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU2ljN29vQWpnbW1wal9nSXZ5Q3dPYVdmSTNEUEJCSnBjNklsMkx4MFhOQXlVQlludlVEdjRpdG9meGNVZ29fVHo3elhKLVpObXVwaE9uUnBUSjB4VUxVTzJaajBURE8tMDZpVUlsbFZvbHRoMk12bjB3UHpkdF96STVObEFWYW44ZWFodHRMN1BuMVZ4UC1JcmJMVnFtQ2JUNlZWeFU2WHUtUjNZZUFmYTh2ME40REgtZ1A1eDFDUQ?oc=5",
       "pubDate": "Thu, 30 Jul 2026 21:13:22 GMT",
-      "description": "Over 400 state vaccine bills, 9 new laws, 2 fed charters, and 1 step closer to a CDC director: The State of US Vaccine Policy cidrap.umn.edu",
+      "description": "Over 400 state vaccine bills, 9 new laws, 2 fed charters, and 1 step closer to a CDC director: The State of US Vaccine Policy CIDRAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -292,10 +323,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Round 2 of rabies vaccine bait drop begins Saturday - vtdigger.org",
+      "title": "Round 2 of rabies vaccine bait drop begins Saturday - VTDigger",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOTUzaE1DWE5UaExqYWNWblRvN0NQaVk2SE93YVpfSkFHZkF2V2pVdnVMc1BQZnBFVFRHNGlYeEVqM0VUWE9XeldUV0E2NWl6Z094NC1FNTdVU1p1MVZqTDJyNlp6cnlvR2RRWk9VMERHZ2tFS09LSWlmbTZSeUoxaml5SVhxMS1iSDAtdQ?oc=5",
       "pubDate": "Thu, 30 Jul 2026 21:10:26 GMT",
-      "description": "Round 2 of rabies vaccine bait drop begins Saturday vtdigger.org",
+      "description": "Round 2 of rabies vaccine bait drop begins Saturday VTDigger",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -329,19 +360,6 @@
       "vaccineLabel": "Measles / MMR",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "Across rivers and rough roads, the DRIVE initiative is ensuring no child is left waiting for vaccine - UNICEF",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWnp4WEtUbkJnQjFSSDA1bVJPQmVPbmY5WWVRdEhnVkNDUDRhYUFQQkYwOVBuUWZCUlBNSjB6ZjZxQmVKdUwxdWEyQXlYMUowZ0tyd3QtRGhIUnZobVJzanRRTDAzRk1vTmVBUmRaekFOcldwWk55TTctdWM5Z2pEajd3UFk5emdBU1A2R1lGM1JzbzF1eWZvQkZCUVk4Z05PWl9zRnJjWHdpSkt4RzlHSFZvUzJOVzlodkNNNFpNTnZqdHR0THE4?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 20:13:57 GMT",
-      "description": "Across rivers and rough roads, the DRIVE initiative is ensuring no child is left waiting for vaccine UNICEF",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "MV130 Mucosal Vaccine Reduces COPD Exacerbations in Phase 3 Trial - HCPLive",
@@ -422,10 +440,10 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Upcoming free vaccine and microchip clinic with CHS - 1011now.com",
+      "title": "Upcoming free vaccine and microchip clinic with CHS - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY0tYRkZ2aWgzV21wR3RYSkQ0Rm13TUtmdDd3SGlZMHptanQySXhldTZQWG95bnA2Z1NZUTFfb0R6QXBHaHJVLU02SzdpdXNOOXVKeUxURFVnWldtMDA4S0RiT0JTbDJkTk1OM2NXcGtwUjRwUWtmUkpicm5fV1Q4ZGJSamRzcXVlLVB1UWtxZFNfalU?oc=5",
       "pubDate": "Thu, 30 Jul 2026 17:54:00 GMT",
-      "description": "Upcoming free vaccine and microchip clinic with CHS 1011now.com",
+      "description": "Upcoming free vaccine and microchip clinic with CHS KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -461,10 +479,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "UK patient first in world to get novel lung cancer vaccine - pharmaphorum.com",
+      "title": "UK patient first in world to get novel lung cancer vaccine - pharmaphorum",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNODdobmlWTGE1Rzg2RjZQYll5TFlBeVA1RzRETGVieGYyOUpsQXR2WUdENEZaVWFKMU14SEotYlZZTW93Q042T0hlOG1YbjBKbmhGOFpVLV9Pd25xUkNqNDgxV1l1WWRGVzdUaDE1Q0ZiMElJSVRtMTA5ZVNzSl9mejFYbUk3dlFOT1E?oc=5",
       "pubDate": "Thu, 30 Jul 2026 17:17:32 GMT",
-      "description": "UK patient first in world to get novel lung cancer vaccine pharmaphorum.com",
+      "description": "UK patient first in world to get novel lung cancer vaccine pharmaphorum",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -487,10 +505,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Researchers find ‘priority zones’ for yellow fever vaccination of golden lion tamarins - news - Mongabay",
+      "title": "Researchers find ‘priority zones’ for yellow fever vaccination of golden lion tamarins - news.mongabay.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWmdReHI0UExQSnRaQzV4R1VUR0pZdzU3UjloNFctZ2E1VURWZE5KanZNeDVUNWVzcWgzMmpDaEk0SGZlQVVtZEI3MkxlRWM4QjVBT2s5RWhDOHh3TnB3QU5KTF9SZXFqblBkTGl0SkE2eHRtZmdDQ0dwMHBka1ZBajYyZWtkeTNzSEU2QWkyME94a2gwVFAwM1N5SmVWWFVhcllPSDEzVU10VWpXSTFickVaanlUX1I5MTBv0gHAAUFVX3lxTE9BTG9LU25vYzhSNkQtRUdBT3BmR2dkMTViQl9LODYzZzlPV25xMmxrXzJQRmpJSXJHR0xCb09Kd1ljTFVSQmZkYV8yM3BkZUJFLV84QjVrVV8tX2NjRDlQYnpYckNVUHozY0NFbG14ZkFKTFdFY3NRTGJnNnI0ZEswb25qQXY1RWtOTE53T1R0VEtPVU80QXN3azFDbkZEcXYzZjI1WjlsSV9sNjVIV0s4aS16ZVphWTNjNDQyN2ZQMA?oc=5",
       "pubDate": "Thu, 30 Jul 2026 16:38:09 GMT",
-      "description": "Researchers find ‘priority zones’ for yellow fever vaccination of golden lion tamarins news - Mongabay",
+      "description": "Researchers find ‘priority zones’ for yellow fever vaccination of golden lion tamarins news.mongabay.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -552,10 +570,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "How Automated Temperature Monitoring Can Prevent Costly Vaccine and Medication Loss - Infection Control Today",
+      "title": "How Automated Temperature Monitoring Can Prevent Costly Vaccine and Medication Loss - infectioncontroltoday.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSF9mTjdHWGoweGNmVE1KWl9hUTJnUFAxOXBkUU5SS0VFcW9KUE9jN2NTWDlEei1lRFdnNnkzUzBhQUlKNWloSkdsbG9waGNyTllNZVpQTGcyUHNFYnRxMGJSTGpIZUFRSkVhekZTOEoyUW1haXotMzI5YWdPRjJpUGJpem45MWFIRF9NSm5PQWRSVVFGOFYwa0ZMeU1IeXRybm5Ra3hMS3huVU9qYUNudEtMdVJfejJBVWdwcmZydw?oc=5",
       "pubDate": "Thu, 30 Jul 2026 15:26:17 GMT",
-      "description": "How Automated Temperature Monitoring Can Prevent Costly Vaccine and Medication Loss Infection Control Today",
+      "description": "How Automated Temperature Monitoring Can Prevent Costly Vaccine and Medication Loss infectioncontroltoday.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -721,10 +739,10 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Bucking Texas decline in vaccination, El Paso public schools record high immunization rates - El Paso Matters",
+      "title": "Bucking Texas decline in vaccination, El Paso public schools record high immunization rates - elpasomatters.org",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOVZOZC1Ua3BQN1VQQ0VObzc5NVgyc3J1QUtKbTUyMS1UYkxaTEpRRUlseURBcTlDR0ZDSnNQby1paUViaUNZTjcyR3RpcGxzZmQtc3BjMlVsLVNMaUNiS28wUDlQQTl3Q19TeHVJbzBOT3pmMTVYRWE1VnZWVlBidTZEdGVqNXRrOFZVS1BMa1B5VWo2Y1E?oc=5",
       "pubDate": "Thu, 30 Jul 2026 13:00:00 GMT",
-      "description": "Bucking Texas decline in vaccination, El Paso public schools record high immunization rates El Paso Matters",
+      "description": "Bucking Texas decline in vaccination, El Paso public schools record high immunization rates elpasomatters.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -743,19 +761,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "EU greenlights Pfizer and BioNTech’s new COVID vaccine - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM2I3RklwVmFlY0c0eFZCeHRjUVJoOF9rNElzc2xOWjZQeUVqbGtrTHNaWjl3ZUJ1N1RXRTlFQm1UUnY4QmI0UUNKTXRJUkRoU1FVVjdJQ3ltc0FFWDdkQm9HcHVKMndKS1p1RHVGLVR6RXVvYWwwNThpY1RGU2ZxZTlkUlZLZ01tcDFLakplb3RZdHltV2pBTUpFcw?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 12:40:00 GMT",
-      "description": "EU greenlights Pfizer and BioNTech’s new COVID vaccine Yahoo",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -838,36 +843,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "US releases financial contributions to Global Vaccine Alliance - medwatch.com",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03ZFBwR2Jndm1XdGY3MFJIY1VmVHA3TW1mYzVFT1hxUURTakNOQlZxcGVBZk5xUTFYQmc1ajZsenlYaS1RZUN5ZFVGcmZrbG5yRlo3aWJIOElLVDdzeHh1dUtmdkd6NEZKUGl0czlXMA?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 10:04:00 GMT",
-      "description": "US releases financial contributions to Global Vaccine Alliance medwatch.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Race for vaccine against new Ebola strain gets $8.5m boost - The Telegraph",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaHg3ZVc5NGRRMmZIRWhwYjd6T1hER0FsRE9JSlFMaU5rcXh0WG1SZjdZaHlaczluVXNMZkxVMHlLSW9IcFlXRnlnU1VTNl9xZmdBYkxLUTZSLXJJTHZ4NjRzMVBmLU5YM2JYZVNhMVJITlEwY1BHRW1tUUUzOWdET1Blc1IzWU5yc3hLRzdJVzdXNHJibGVKejEtbTVCaTIwNERTczdCeGVxRVlUVGEzdkpTXzZBcTduSWtfRA?oc=5",
       "pubDate": "Thu, 30 Jul 2026 09:59:00 GMT",
       "description": "Race for vaccine against new Ebola strain gets $8.5m boost The Telegraph",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Thursday Shorts: HIV funding cuts, GLP-1s and absences, vaccine uncertainty, and vaccine legislation - Substack",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zNF9lMi10WlhHN1gzcVdsVTIwcDVkbS1IT216WkNOd0lwMVdhaXNWQjBJaXdHajFhWUxWdVRFbFFnMDZ2clp4aE53LUx2eWtVc1dwcHAwQjJVTzRySnhSNDhGZmJHblBHR1BuaXQ2VVltSnhjR3pHMjQwdGk?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 09:04:29 GMT",
-      "description": "Thursday Shorts: HIV funding cuts, GLP-1s and absences, vaccine uncertainty, and vaccine legislation Substack",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1046,41 +1025,41 @@
       "articleLabel": "News"
     },
     {
-      "title": "‘Not out of the woods’: Delaware doctor predicts more measles cases as the state’s outbreak rises to 5 - WHYY",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mSnM5OWJTV3dxbkJtNHRNNzBBQ0ctdFRtd0dnMHcza2hkMmI1a0NnQkRtOE5HSVBwaGNMSEk1M1VsNzJFNUhLRXkzUnJuV0E2a3lHb25VaDRidmtDVnJ2d05OTkM?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 20:12:27 GMT",
-      "description": "‘Not out of the woods’: Delaware doctor predicts more measles cases as the state’s outbreak rises to 5 WHYY",
+      "title": "Oral rabies vaccine airdrop for wildlife populations will occur end of July - North Country Now",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91Yk92dWo3b1NuUk4tckNSdXF0RmtQMXItaHRUYmdWbWp3T1F2d1UyMDJUT0MtbVFOSm1ULTVCdHZzd1k0dmVVd0p6Y3czZFVCRDlDMGliOUNiRDNjWTlXbw?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 21:13:12 GMT",
+      "description": "Oral rabies vaccine airdrop for wildlife populations will occur end of July North Country Now",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
+      "vaccineKey": "rabies",
+      "vaccineLabel": "Rabies",
       "articleType": "news",
       "articleLabel": "News"
     },
     {
-      "title": "State Department agrees to reinstate vaccine funding for Gavi - cidrap.umn.edu",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa3ZGT19pU2tVaHRZdEFkbWx5eWp3VUw3ZDlIMWZ2UF9wa2FnV3E4RHJPSDh6NlBNVnhwdEo5Tm12Tm5GLTJYV3c4V1lza2RaVlBqa0dMak1jQ0dYTUlOR3VmS3A1dGZHc1BBaTQxdnBUZ2xZZncwMjJXLXN2RlFIb2tzVnA5c0V5UlJTT1VkVEpFUXM4VmZnMEZKY2FKRzhjRHc?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 19:12:00 GMT",
-      "description": "State Department agrees to reinstate vaccine funding for Gavi cidrap.umn.edu",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Cancer Vaccine Piggybacks on COVID-19 Mass Immunity - Inside Precision Medicine",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcEY4bkRDRWIzbXVOTWlYVzRhUVlYSThjenhhYUxIS1psX2xYTmRVLVBYLU9KY2lkb0UwNDd1TFMxcHA4UGt2WXNBdkJzVjhHSHEyVHRNSkNDek52bVY2Z2prU2JHNWNLekRvdjhWYzdUcWh3TVhfSGRmTU5oUmNNeHBSdzltcGZxank1c1RRWlUwcFRKdkFYNTBJbVdIdUFaQ2g0N05YTTk4R1dT?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 19:03:22 GMT",
-      "description": "Cancer Vaccine Piggybacks on COVID-19 Mass Immunity Inside Precision Medicine",
+      "title": "European Commission Authorizes Pfizer and BioNTech XFG-adapted COVID-19 Vaccine in the European Union - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQLUt1YmNONms4eFlPcUFiajJhMjQ2MWN6OGtNNHRkNlZ6WU1aeTdoY25LY0k2aUNXRFdVQzJyTFdONVY5aGppaGk1bE4yNjFJQUNpWDRHRE1VR3pzdWdlWHluSXpoOVZLWkN2dVZZdDZBOG5jQU55elR1SGJxUEhfZDF3bE1XTGtZMFB3YnNQRjRVMXF4NE9FT1R3TDFCZ1Z0Nzg0WWM1c0c1TXdKblNLU0M4bXhYVC02U1RPNmg0RE1EM21ITWJhSEZpZGlZOEQtU2NSc21qTEF2QnVmV2JnbjNlbzlXbUhZQk5JME5Saw?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 20:30:00 GMT",
+      "description": "European Commission Authorizes Pfizer and BioNTech XFG-adapted COVID-19 Vaccine in the European Union Business Wire",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "State Department agrees to reinstate vaccine funding for Gavi - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa3ZGT19pU2tVaHRZdEFkbWx5eWp3VUw3ZDlIMWZ2UF9wa2FnV3E4RHJPSDh6NlBNVnhwdEo5Tm12Tm5GLTJYV3c4V1lza2RaVlBqa0dMak1jQ0dYTUlOR3VmS3A1dGZHc1BBaTQxdnBUZ2xZZncwMjJXLXN2RlFIb2tzVnA5c0V5UlJTT1VkVEpFUXM4VmZnMEZKY2FKRzhjRHc?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 19:12:00 GMT",
+      "description": "State Department agrees to reinstate vaccine funding for Gavi CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1176,10 +1155,23 @@
       "articleLabel": "News"
     },
     {
-      "title": "Health experts: State’s high vaccination rate is keeping spread of measles in check - Maryland Matters",
+      "title": "RSV options: Most pregnant women, parents prefer the maternal RSV vaccine over the infant antibody shot - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeVlka1JOWDQ2Rm43SlZacmxSYzR5c2Yzb2xRTEVHb2cxcVRhSFVVaEkwQ1NIZXdvQU5kYzVVVTBzTkFpcXpGb1RNYzExLTZlTnBNeTRsZXBld2pMTk93Ulh0RVY5VWQ0bDB4dGZWR2oybTduTXRHSWdobDhURU1iRy1uWXhCWWN6N2JRSGxabFBDcTBCd3NjdTJLdllEY19TNWtNV01zek9ZckI3M25Db2R4WFZVZDhrZXBmMjlwdEh5Z3Vt?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 13:14:05 GMT",
+      "description": "RSV options: Most pregnant women, parents prefer the maternal RSV vaccine over the infant antibody shot CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "rsv",
+      "vaccineLabel": "RSV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Health experts: State’s high vaccination rate is keeping spread of measles in check - marylandmatters.org",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS2ZkVlFmOFpndE84SGpqNmlGQ1F2VGFfWjFSNGFjc0hZeC1QZndXZ2M5MEtMYUFxZTJWS2ZHNDQ0ck53ajFmcG10bFBfVlgyZGg5QmhFTUc2OU85S0NGZzA2U1hhamF6c1lkVUg2QWlMQ3pHVURsTk1kNVhBVndNSlJrTUwwRXpBY19lMTdGdExhUEFiU1ZmUkxsZTFhX05tVjNaVnp2aXdGdHlnUnMtX3hRdjV6T21Ub1JpVU5R?oc=5",
       "pubDate": "Tue, 28 Jul 2026 05:43:27 GMT",
-      "description": "Health experts: State’s high vaccination rate is keeping spread of measles in check Maryland Matters",
+      "description": "Health experts: State’s high vaccination rate is keeping spread of measles in check marylandmatters.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
