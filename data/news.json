@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-31T12:07:47.669Z",
-  "itemCount": 92,
+  "updatedAt": "2026-07-31T13:04:26.586Z",
+  "itemCount": 91,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 8
+      "count": 6
     },
     {
       "key": "flu",
@@ -40,20 +40,46 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 67
+      "count": 68
     }
   ],
   "items": [
     {
-      "title": "Moderna beats quarterly revenue estimates on COVID vaccine strength - 1470 & 100.3 WMBD",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd09rZENmWHZWZFFhaVdQYlVwQjgtRGRiS094czExVXYwS1BpS01zeHcySUVBTUdZMlZqVlVoTHVqQmhCc2J4S1JqZ2NFaTItOGFlY1BmeGNla0tyZFdfMi15TXhRbllEZ3JpdUtYWGRCNVZxQml4RW9iYjdvMm9FeHpIZUx2TGV1OXdpdTloalNHbUplVjc1eDQ0NWJQX3ByM3d3?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 12:01:29 GMT",
-      "description": "Moderna beats quarterly revenue estimates on COVID vaccine strength 1470 & 100.3 WMBD",
+      "title": "World-first trial delivers personalised lung cancer vaccine - EMJ",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTVZfV3JlOVNXRXlzbVNTSUF4ZlVfRFlyNmEzWHdFd2JBNmNQdjZ5TlJkelNveklsXzVoQmMzT0pvTzV2clNhQXhjdFRTa21fdFdPVUstNzVnYm5DNGRUUG9SWTMtQ3lWVEpBdVdBbHBPUmVGRi1GZ2lDUGdBR01tVkppYkJveGlNSTFUTGVoMC01OXE5MVVSdlktX3hzYzYzY2Vr?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 12:20:40 GMT",
+      "description": "World-first trial delivers personalised lung cancer vaccine EMJ",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Provisional childhood vaccine coverage: May 2026 - GOV.UK",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZzJHN3NtUXFaMFl0Yzhpa3FmX3RPZGk3QnlreExtekNoXzZoUDBxc0JWVUJYbG43SmRlTTBtaTRLSHhZdmxrSHh4S1VuS2ljQXFpdXJmVFVBc1diMmJIdE42d3g4cTNVTWdNMzJ5QnluMjFqTkh5OHZqOWg1SVgtY0M0TERjVTdOWVl1bW9tTjlybHZDUk4yNzQ3UGRTUEFYWUs3Q2Y5eUJaVkQ1aGlQV2FESWtLcTBORU5CUmtlWWhjX092dHlsXzJjV0tncHVtemQ3RFNPVU5XdDBSc1NmUW9tcndVU2M1MWZGc3FNWQ?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 12:18:05 GMT",
+      "description": "Provisional childhood vaccine coverage: May 2026 GOV.UK",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Moderna Drops as Vaccine Setback Overshadows Beat - TradingPedia",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbTZkejc4LURUSXlYSGxmZlNORDl0dlZRN3ZOcVR3UkVhaXVOdVdTVVdWeVNoVl9HNE5IOG4xdTJ0aHVQY3lDYzU1Z3JSV0NwOHdGczdMUVdLZ085NmQ5bkVqa3NfV0N6VHR1cjY2dzBpVWNGWmtZdnpPZFEyUHdtN2pMQ1BDRjFqYWZsdXdxZl9JR2Fq?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 12:12:38 GMT",
+      "description": "Moderna Drops as Vaccine Setback Overshadows Beat TradingPedia",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -71,10 +97,36 @@
       "articleLabel": "News"
     },
     {
-      "title": "Moderna misses quarterly revenue estimates on COVID vaccine weakness - Reuters",
+      "title": "Moderna beats quarterly revenue estimates on partnership strength - Reuters",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRGFiYjlLYXdmRERzY2xvRFZweG5WMW1PdkF6R3RIazJqTGt5ZlZ4ZDdJVUVVTTF3R0dKVW9STUg5Y2lLa2gtTWVuNTh4VmtDOWs0ZFhnSWVGcDMxdG9nSFdTWGNocXptQTFRZFMzdFJRX3RUcU5qUW9UZGxBS2dsMTdXMTVBdkxNTWRlZVhPT0IzQU85RGViTlRNZ3dkZHpLR2gtZzZPVkE4RFp4ZWNtc3pSQl9sMVdqcnR6ZDEwSTRPZF9oNk9NRVN1UG5fWmVlWVh3?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 11:05:43 GMT",
-      "description": "Moderna misses quarterly revenue estimates on COVID vaccine weakness Reuters",
+      "pubDate": "Fri, 31 Jul 2026 11:54:19 GMT",
+      "description": "Moderna beats quarterly revenue estimates on partnership strength Reuters",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Moderna Narrows Loss, Says New Norovirus Vaccine Didn’t Meet Expectations - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUGRzMENLMHh5X255MUNMMEVaUG1FbnFJUy1rb1Rpd3NWcG12QXhYZmNmeTVGM3k5YS0xVWQzZ2N4dXFKYzF4bGxuZm4tclR1MlZJLTMtSXBfX045WUhSVXZKSE9pdG9uWnBfMFlvdHBoaWU4TGdpS2FaV0tiUlFBWDhFbS1sN0NmNk9UZ1FOVDhSV2gyX210R2swOHhUWlZyQzRlVnhrdFpYUmJFZFdDV0k4X3c2ZmZsZEE?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 11:45:00 GMT",
+      "description": "Moderna Narrows Loss, Says New Norovirus Vaccine Didn’t Meet Expectations WSJ",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Moderna beats quarterly revenue estimates on COVID vaccine strength - 1450 AM 99.7 FM WHTC",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb1cyNnBKT1ZJSkZ0YW90cWhCS2Y5NG1rLS0wNV9UNjdhVnc2SF9CN0xWdURXYndIbl9TOUE3NENCMmJQMXYzRU80LWJudllya050Nl9uRDJtNHJibmJjel9CcHlaTHlGU2RvZDBqWGZJcFBaREIxZGx4UXZfY1RualpXUDFUUGFqU0N4OUZQYXFiclNjU016WFpjMVE?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 11:36:43 GMT",
+      "description": "Moderna beats quarterly revenue estimates on COVID vaccine strength 1450 AM 99.7 FM WHTC",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -110,10 +162,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Fewer Young Women Are Dying of Cervical Cancer in England - medangel.org",
+      "title": "Fewer Young Women Are Dying of Cervical Cancer in England - Angels in Medicine",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDR3RqenlMcENvdk84a241Z2h5SlQ0QjFBaHcyOHRBbFhQYk56UV9EZ0N1N1FYM0hPRTA1YTJlN0xrVTJFeExZenZITGZsb0tMN3ZXUHFWZmladS1CclVLODZXMWZFOUlLOHl6N1dHRXNCSVZDSGln?oc=5",
       "pubDate": "Fri, 31 Jul 2026 11:00:00 GMT",
-      "description": "Fewer Young Women Are Dying of Cervical Cancer in England medangel.org",
+      "description": "Fewer Young Women Are Dying of Cervical Cancer in England Angels in Medicine",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -253,10 +305,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Rare, Untreatable Bourbon Virus In New York: Viral Disease With No Vaccine, No Cure Explained - NDTV",
+      "title": "Rare, Untreatable Bourbon Virus In New York: Viral Disease With No Vaccine, No Cure Explained - ndtv.com",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWk9Nc19hTzlSeDA4VXFwZXRGT25zQ1FWUDZhQ2NRX2cwYkxCckRlVk5aV3dLVm9USmI0eG1BbnIxOGd2X0IwWno0MW9qRV9hUnIzRk54bkUxMXBHcjBiWmZIOVl1dVkwVHlsYzBULUJ1bXBCX1R5SFRjU0J3SkhIZDY3cks5T25XenRPX1A2LVo1SzEyZ1RiSjdOUXkzRDBDbkJsaDdkYTRsNExnLW5JVlZfcFJESVZ2RFoxT2NDWG5sZ2F2Rmc?oc=5",
       "pubDate": "Fri, 31 Jul 2026 08:00:01 GMT",
-      "description": "Rare, Untreatable Bourbon Virus In New York: Viral Disease With No Vaccine, No Cure Explained NDTV",
+      "description": "Rare, Untreatable Bourbon Virus In New York: Viral Disease With No Vaccine, No Cure Explained ndtv.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -331,10 +383,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Public Health Madison & Dane County offering free COVID vaccines - wmtv15news.com",
+      "title": "Public Health Madison & Dane County offering free COVID vaccines - WMTV 15 NEWS",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWGFXTUNYVGNtR24xQ0ppQUw0bWFGd2FlSlhKV3VhQzVOWTR4bzJoQlpqc1RXX0oyeXdhU052eWFOc1JUMkptcDAxTGxtM1dhQ3JfM2FJeTExRXBldmVBdEdPeFYwVGdhcDFfTFJ5NGRzZnE0OTh2bERNcXdDYXdJNVlZY1ZuRUF3SFE5LTExSl9wSUIzY3V5ek9jcWJyQkkwRnRR0gG3AUFVX3lxTFBYNWhIMzAtMkFsNkVMclpGblNBWm5ISEFOUXF1clBIVTM1TmNjd1NFUHJtQ3hBTGtjVjFpbmpzVXU5VVFLeXJQaDAtUllGS014b1lMR0FITFBQcGg5VzV5ODFvMkQyUHF4cEdSV1FUTzNJWDBFN2FMbG5zRWxpb3o5aGxUQ1pwTXliMVJ3b3FlUlJodlltZy0wb1JVb1lGNlAyeEZhZjZYaTBjcEdibnZ6WVE4LXRGaw?oc=5",
       "pubDate": "Fri, 31 Jul 2026 02:47:00 GMT",
-      "description": "Public Health Madison & Dane County offering free COVID vaccines wmtv15news.com",
+      "description": "Public Health Madison & Dane County offering free COVID vaccines WMTV 15 NEWS",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -422,19 +474,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "EBOLA-VACCINE/MERCK & CO - smdailyjournal.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3JhOHRWdlk5SktCME1vZ0dlelB1RjJ6N1E0RDlNbnZGRUdqc1dXQmNPX2piUWRkbklNRGczaHhfei1JejJTeUZlZFZqRzBCMmRVY0FwYVBiZ2w2NHZRU1BWVENvVjdqdUJoYjVZVGRyRms4OHJFU0RRMHJ0ZVI3WmpiVy1GREpHWnpmWURweVZ2RVlxVW9hZC1sZzRaVzU3Q1dZ?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 22:46:44 GMT",
-      "description": "EBOLA-VACCINE/MERCK & CO smdailyjournal.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Measles cases rise as vaccination rates fall - ClickOnDetroit | WDIV Local 4",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ2s0YVM4YVpMWkVlbGw0Z3BfZXBPcEtoUFFiU0NLUVczX3h0eVg1aU5kQVhrTmlRN3JKU0l3ZW5VdmNXdWZaaXNQeFZqSFktQmVacE9hQWZoQnFPcUFQSG1PQUJpVmJrem9oSy1MWHhKeDhhUVRkX0tlaEJnNU8wQ0c3MGxORGJrRF9La0NKSURXV1FYMlZaRTh2T0VCWGM?oc=5",
       "pubDate": "Thu, 30 Jul 2026 22:11:53 GMT",
@@ -448,10 +487,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Congressmen tout legislation to protect U.S. manufacturing and vaccine-injury claimants - wgal.com",
+      "title": "Congressmen tout legislation to protect U.S. manufacturing and vaccine-injury claimants - WGAL",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVW9ETHUySDljMWdaeGRMNjNsLW9QeXRKWl9xNkZQUkNtdzdTTmd4NmQwckhjYWJGazFZS2Jhb2pscXo3OG1nRGpDT0dvcTFrZHFTYU9LYUQ5Sk16X3U0eUVjNWNzQm40angyNWRmc1V2bmpmYjZvaGotYTlQU2c1MmpkY3FuYjE2Y0hSVVRtdDhVbXg0ZkpXT294UUdhQ3pkTk56cw?oc=5",
       "pubDate": "Thu, 30 Jul 2026 21:55:00 GMT",
-      "description": "Congressmen tout legislation to protect U.S. manufacturing and vaccine-injury claimants wgal.com",
+      "description": "Congressmen tout legislation to protect U.S. manufacturing and vaccine-injury claimants WGAL",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -578,19 +617,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "VERIFY: vaccine requirements for schools in South Carolina - WCNC",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNc1d1TVB3alpmMGwyLVpDTHlZYktvUGtSRnl6SGc5T3NvUTVFeXdpWnRnTVYzbFhWdVpkZkhXQ2Q1aWRZYzR5OWthOEIxRkRRY3VWSTVaYUFZdFJxRDFTQUJNMEMwOUg3YVA3Z0hDUVl4aFV0NjBvZnFtQ1NTbnFEZ1k4V2M4dXQwWVFiQzZiR3RfaXNmb3lNT3pYUXc5N215YzNmb2JNMmhJanlFMUsxd3pidC1KWWRCRHJ0QnJwc2pyeTVlZWQ1SDFvMk9WS1FYbllkQ3hPMjNKb0tqNU91ODBaeU0yZw?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 18:55:00 GMT",
-      "description": "VERIFY: vaccine requirements for schools in South Carolina WCNC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Time of Day Doesn't Affect Flu Vaccine Effectiveness, Large Cohort Study Finds - Pharmacy Times",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd0Jkei0xVzlZRWROMUdnbEpIVmhjUlgxVklWOGdaY0JNY25iZjVkWnFIejh3SWlMZk9NNXFLTG4zaXItYWdQRUU3VkFPeG1mbFZYZThwNnc4UktxOGtablNRaDQ4VFk0RlJXbUdYQV9mWF8tbnRxMWY4R1ozR1RCTjlvVkowV25IMEh0R2tENDFFLTdjUnJYRk5LT3BJdTZKeGRKZ1QycHhFV2hmRW9EOTRR?oc=5",
       "pubDate": "Thu, 30 Jul 2026 18:53:15 GMT",
@@ -669,10 +695,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Allen County Public Health to host Back-to-School Vaccine Clinics next week - hometownstations.com",
+      "title": "Allen County Public Health to host Back-to-School Vaccine Clinics next week - Hometown Stations",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOczFpSzdHNWRKcTVvWjQ3TWFpSjRBb3lqOUkxSDhtZkpfYWFuTTBYLWgwMFNmVlViZDJmclo0eTN0d2x0VHVyMngtM2xFVDl6MHZRTjNPaDYxdm5jQThrSk9rVFg4OVFlUHIwX2tSLW91YXJ1cmdiMGRlYmtQNWtqUV9Rak45Y1UwUHhOZFB1dTVJZTQ2Tk16YlEzZEE1cDZUd2l0SE81Z1M2VU5JVHlOSG9SZUpyT01DVzdRV1lmSzhPbDk4Y2dpaHJPbzRtRUNXTUFSdVRnWGp4b2U0LVNVZ3B1VGoxY1dLNXo5NkhPT2x6Z0NjY2tPMU1rNi1qbmZVUnNTLUtHWQ?oc=5",
       "pubDate": "Thu, 30 Jul 2026 16:36:00 GMT",
-      "description": "Allen County Public Health to host Back-to-School Vaccine Clinics next week hometownstations.com",
+      "description": "Allen County Public Health to host Back-to-School Vaccine Clinics next week Hometown Stations",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -695,10 +721,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Trump admin announces global vaccine group to transition away from shots with mercury - thenationaldesk.com",
+      "title": "Trump admin announces global vaccine group to transition away from shots with mercury - National Desk",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQS3FPcmIzSHYzZmEtMUl5UE9Xd21tV0hLeURLaTZXVEhWVlYwTnh1ZENIbVNuT1o3b29wZmFhS3ZVbmVESE03cFNmYXBWc3N5ZkJBdzYybXNzbVljbF82cFhXYkFBVmpGWnZvX2dra1dlU0xFRllILWlkVE5nNXZsODY4RnZnTXd1bk43YWFjcDVDVjlJdnRvbGtiemcwZHZmTTJBZVIySzRuSE5MUUdhN1BBeWxGS1VlOUhIU1JTdFVOTVp5a0ZkQnNhVC1NLWdENS1FTmdKVmZJNU9FLTd0LVF3aTNQaWVDWWhSc05uUDVXeG8zZFNJVWJNVnQzZw?oc=5",
       "pubDate": "Thu, 30 Jul 2026 15:53:00 GMT",
-      "description": "Trump admin announces global vaccine group to transition away from shots with mercury thenationaldesk.com",
+      "description": "Trump admin announces global vaccine group to transition away from shots with mercury National Desk",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -747,10 +773,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Ebola outbreak sparks global vaccine race - Semafor",
+      "title": "Ebola outbreak sparks global vaccine race - semafor.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbTYweGZpenlpQTNid3prNkdaMUM5bEJacWNGcVQyWVBUTExXNkI1MzMySkpISkl4a0R5eWFScDd3WG51NnNRdTA0TG5CaGlXNVV0U2NEUnNtTVo1TmF2T0tsQXRGRFpZVWtmaW9PU1JvMVdOZmNWVFdIVmI5dU5QRGRzUnM0cTh2X3FMdQ?oc=5",
       "pubDate": "Thu, 30 Jul 2026 15:04:00 GMT",
-      "description": "Ebola outbreak sparks global vaccine race Semafor",
+      "description": "Ebola outbreak sparks global vaccine race semafor.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -812,23 +838,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Gavi Welcomes Restoration of US Funding – But No Clarity on How Agency will Phase out Thimerosal - Health Policy Watch",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtTlgyekR6Q1cxMUVzN0NlUERDX2I4RjRmUDJKUHNYUEtIZEg1WVpPOUhGNzVkdVpsNWtxZ3JXWDBGbnM4NE4wZ1p4VjNiWWQwazJQLWhEZUR6ZUpSSU5SN1dzeXk?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 13:45:51 GMT",
-      "description": "Gavi Welcomes Restoration of US Funding – But No Clarity on How Agency will Phase out Thimerosal Health Policy Watch",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Trump administration unfreezes $600 million for Gavi for global vaccine effort - ksl.com",
+      "title": "Trump administration unfreezes $600 million for Gavi for global vaccine effort - KSL.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQU9jQU54aWp0TG5lSmJ0U1BPZFZiVHFvUTc4N3hoSmR0STFKWFkxWnZ0ZVdMY3ZfamlFQXVLVDIxWi1Fd0pJZFI0Q05OSDlhcUtqSHVmbGl1T0Z6Zk90Y21aZXRKUTR3bjZpOEhld3B5S3FIYkZIeFRja2RCQnFhbDFzZ2c3MTV0b3l2QVQybmFMUlNjcUZENmVhTHltS2FZUjFoMzktZjA3WmNwdExJeDhjLUI?oc=5",
       "pubDate": "Thu, 30 Jul 2026 13:37:16 GMT",
-      "description": "Trump administration unfreezes $600 million for Gavi for global vaccine effort ksl.com",
+      "description": "Trump administration unfreezes $600 million for Gavi for global vaccine effort KSL.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1007,32 +1020,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Pfizer (PFE) Wins EU Approval For Updated COVID Vaccine Ahead Of 2026 Season - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTBGZGlmYjRGaUpsRU1NckVJSUVldzRmNXE5NThEWU5fLThIdF9OY1ZvYzV2ZlVqLVRlRGhuMHZkeHFHM0NOUVVIenBSY0JLVHFxT0pSRkpLVXloNGNLY2VMa3ZKRTRrSUVJUnNoYnJhQ185emxIVkp5WkdOU1d3T0JuLUNMNkdPeG9mN18xTUlCZw?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 03:18:00 GMT",
-      "description": "Pfizer (PFE) Wins EU Approval For Updated COVID Vaccine Ahead Of 2026 Season Yahoo Finance",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Hallsville ISD hosts back-to-school vaccination clinic as exemption rates rise across East Texas - KLTV.com",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTWlieHlhWnZMa3FZN1NsY0NVa0tKaGlUX2tuQnBzdGFETkJTSXRsM0FFZjBrVmR2OGlSTFdEcmpUcjlvMzdDblVBZlVkN3hrbk5RT2tyc1BFOHNaY3JzVmc3Ui0tbnpjazJLMTFYd2RmdUUxY0pydE1fV3IyQWdseHEyT3AtY284Y1hJZTcxT25oSkdHUHRUcjFuTXR0QVJNOE9KSjZUSDJNdTVGaVRpSTYxUThoc0JZMkRpb253N3dqalptc3NVWHBtakM?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 03:13:00 GMT",
-      "description": "Hallsville ISD hosts back-to-school vaccination clinic as exemption rates rise across East Texas KLTV.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Trump cuts WHO off from Gavi vaccine alliance funding - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbTFPbDhkZGNrQlZxeG11UWw1MDlVUmZYdVJTNWU0NHhadWxuWjUwOE55S1dJQnF1S3JubHRPbXFKQ3pBa2tpNEYweEwzanhoeGJsemlyUmYtdmNGdWJ1ZWVUR3Z3dl83WFdwTHpKYVpHSkZlRGtMSjdvNFEycDJ2RVl4bXBNd3JjdDhZQ3UtONIBlAFBVV95cUxNNVRyRHJ6SkdxSGNSMXRlWXM0bnZtY3lIWmdQXzE4U1lTWXo5Ym9CRDdhRDd3NkRuNjRIYllrbHBnZmxoU2pjSXhvcmdYZmwzVjNIOXdXa1VWeXJJSXU3UEFib0VxWi1uRDhnMFh4Ql9JblFtdVJrZ0I1M0puUVN3bjdQNlBiZTNiRkJ3U2xFcmtPaVJE?oc=5",
       "pubDate": "Thu, 30 Jul 2026 00:34:40 GMT",
@@ -1150,10 +1137,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Trump urges RFK Jr. to accelerate childhood vaccine changes: report - newsnationnow.com",
+      "title": "Trump urges RFK Jr. to accelerate childhood vaccine changes: report - NewsNation",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNZmRtd3ZmTDFJczdTT0ZndS1XMHFWUnMwUnE0UktpSDhsVjh1Q1NwdFVOQThnUXhIOFdMQUMtSTNVcF9YSmFRemVTXzF6c01JUDU5V1JlMFVvS3I2LVF5NmJqcDdrSWJ6X0YzdFdIQTRRNWVORWRIN0VzQlppUdIBgwFBVV95cUxQMER5TWg4cFdOM1FjYlZMeWltazloektaTFpqcTVOYTVQdmZrMXhiVzY4RnBXVzZYdUdxSVNnRFZmbVV0d0ZkU0ZLbDdpQk1fZEYzbnl6MTV2bHRzdTdUTXBKbzhQcFc0WWhwbmlBSUYwajVfclVIUExfLUtfc09oeTI2VQ?oc=5",
       "pubDate": "Wed, 29 Jul 2026 12:41:20 GMT",
-      "description": "Trump urges RFK Jr. to accelerate childhood vaccine changes: report newsnationnow.com",
+      "description": "Trump urges RFK Jr. to accelerate childhood vaccine changes: report NewsNation",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1176,10 +1163,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Dozens of States Tried to Roll Back Vaccine Laws. Here’s How They Fared. - The New York Times",
+      "title": "Dozens of States Tried to Roll Back Vaccine Laws. Here’s How They Fared. - nytimes.com",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSkNqYWQzbU9YWEduN1E1UTJMUXQ1UUk0cFJPSkd6RTJEVWxOTnpaSFMxcHQzNElkaUZmTF9OVEVmVDRIYk5pOVFiUWJSMGJKZlpvOWlweldxSjF6dnVsYW51UFVGWFNfQVlOdHNpQ3VoX0hLbG5nZVJUbUhfTXBLZnRfSWwtby1hanFRcF81UQ?oc=5",
       "pubDate": "Tue, 28 Jul 2026 14:37:59 GMT",
-      "description": "Dozens of States Tried to Roll Back Vaccine Laws. Here’s How They Fared. The New York Times",
+      "description": "Dozens of States Tried to Roll Back Vaccine Laws. Here’s How They Fared. nytimes.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1215,10 +1202,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "How vaccine skeptics use storytelling effectively to create powerful but medically inaccurate messaging - theconversation.com",
+      "title": "How vaccine skeptics use storytelling effectively to create powerful but medically inaccurate messaging - The Conversation",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRFEwNmlXVnRnajcyTll2VENuZHlCY19MM2pQWU4yX0VEQ0dyd08xMEstcV9PVjd1cEI3NDFjZjVhWGFJclBRTUdTM01FUGlJaHJ0aUJ0TEg3SjllQkFickFXTG44aXhNLWpNdC1kSWlUQTNoTGwzdlZXQThoUFVnMlZCR0RvaXpSRzY3SHQ5X1NDa1hlTnNfa1RtWG1VSTFqS0ZuZ19NM3FPNVVzMk91SVdVbUtBOGp6SWFPX1h5WXE0RXRnRXRDRGVCWGdxWk54T29qUQ?oc=5",
       "pubDate": "Mon, 27 Jul 2026 12:40:34 GMT",
-      "description": "How vaccine skeptics use storytelling effectively to create powerful but medically inaccurate messaging theconversation.com",
+      "description": "How vaccine skeptics use storytelling effectively to create powerful but medically inaccurate messaging The Conversation",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1228,10 +1215,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Measles Cases Hit New Record in U.S., as Vaccination Rates Wane - The New York Times",
+      "title": "Measles Cases Hit New Record in U.S., as Vaccination Rates Wane - nytimes.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUFBiV2pOcE9jOVU5N1g5VzBWMC1LdnpPRm15cFdXMVluQ2VWOU00WEktOGF1QUZhWUF4eEJSU1BPNjNtUXJBQm5rOXNxYjh3cDNNN3ZtMklSdzhDb0o2UnVtelZGM0l1aFdxUmVpbEtMTGVnaGdHMk1MVGVBbmZSWF9zVElIYmxB?oc=5",
       "pubDate": "Fri, 24 Jul 2026 14:59:15 GMT",
-      "description": "Measles Cases Hit New Record in U.S., as Vaccination Rates Wane The New York Times",
+      "description": "Measles Cases Hit New Record in U.S., as Vaccination Rates Wane nytimes.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
