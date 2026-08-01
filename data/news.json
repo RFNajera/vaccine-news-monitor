@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-01T11:46:52.049Z",
-  "itemCount": 89,
+  "updatedAt": "2026-08-01T12:43:28.845Z",
+  "itemCount": 87,
   "groups": [
     {
       "key": "covid",
@@ -20,7 +20,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 10
+      "count": 11
     },
     {
       "key": "pertussis",
@@ -31,6 +31,11 @@
       "key": "hepatitis",
       "label": "Hepatitis",
       "count": 2
+    },
+    {
+      "key": "meningococcal",
+      "label": "Meningococcal",
+      "count": 1
     },
     {
       "key": "shingles",
@@ -45,7 +50,7 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 64
+      "count": 60
     }
   ],
   "items": [
@@ -271,10 +276,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Florida AG threatens to pull funding from Catholic schools over vaccine issue - miamiherald.com",
+      "title": "Florida AG threatens to pull funding from Catholic schools over vaccine issue - Miami Herald",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iTXlkWDRjV29NWm1hWG5LcEZqekJtMmxyY1pkVlo3ZFFTRzdzRnMtQlRHTm9tbktMNUtOYkxLQ3B4VGVKZGVBOHdRVGZQd1hVUjJ1eWVYNnlxSlNaMF85TTVnMVdKSkR5eE0zLWxqQ09nMy1BeEpFNzlR0gF6QVVfeXFMTVFySjZ5N2xDU3Z3ZTVFTTMyOFZURnk4RC1URF9MdFR1bVdaNDBUa0dHV1ZTemNEaGhBWkZnMVNzS2RNQWw4S24zSlVJTlJYUFhjMEYxTTBEMmNOSDdYcjVMYjJMMXJyRWxudmNQZ0ZmWE1vTzh0akdxbUE?oc=5",
       "pubDate": "Fri, 31 Jul 2026 21:08:56 GMT",
-      "description": "Florida AG threatens to pull funding from Catholic schools over vaccine issue miamiherald.com",
+      "description": "Florida AG threatens to pull funding from Catholic schools over vaccine issue Miami Herald",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -310,6 +315,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Answering FAQs About Meningitis & the Meningitis Vaccine - University Health",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPamNncjV1UWRJeEZidHVPUGFTT2hUZE1JTTRMWjF6Z1RDQmZUSFF0dFVfOGpfallia09EVGFiRWNESEdmNU5mMFpEdEpGTEFUTFNVRTVrZ2hqZF9XVFFKcm5PRnUtSHlTSmE1ZFp3ZWp5Qk1yZGU0bnZFd1NDdHAydWJralhIQQ?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 20:37:17 GMT",
+      "description": "Answering FAQs About Meningitis & the Meningitis Vaccine University Health",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "meningococcal",
+      "vaccineLabel": "Meningococcal",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Back-to-school vaccine clinics scheduled in Fargo this August - Valley News Live",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcWhGeUl4eXF4UXYwcjZmU2k0MTZURnFQdGRFQWhsN2R0cTkyOXRRUzVSdHFGZ3QwWUpnUmZmWE5Hc04wUV9XSTBrM09rQmFHTm5YQ19rT2dod3ZmQTVQeDdBUHR3d1Q2bnpLM21GOVpQWi1Ic1Nxc0hTSHNHMmtKV3RnNFBhM3NWT01FeUk1YVg0SmxyR09FanVvQjBCTGFuVTZz0gG3AUFVX3lxTE52bWViYmtWMnJHTExyM0hKUGtjSWJja2xRczNrd2JhMUQzc3hLdGM3d2VPeUx2Zm81OHgxTjdoUXN6QmgxdTRRcUE3Unp2OUhER0MyVGJvMXZvSzlxSjdydmlaYkpmUTNEczBibUM1ZVpPby1oYmd3WHZWLVRpQnI1N3BLOUV5NHlsZExzdU5ZTWp6TzNWZFhvTW85WFNkblJadndZNUt1dWxieGk3bnFya0FqbkNrMA?oc=5",
       "pubDate": "Fri, 31 Jul 2026 20:35:00 GMT",
@@ -323,10 +341,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Florida AG warns Catholic schools on vaccine policy - tallahassee.com",
+      "title": "Florida AG warns Catholic schools on vaccine policy - Tallahassee Democrat",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWkdnWjhBc3p1Sjh4bWd1dWF0QmtnNmNSZUwyMHdPUVp3bzdycGpPamRMZjBfS1B5QWxVS09Oa2JTTUlqcmJQV2wyZWZxRjRCY1gzU1gta3lteVV5Q3hEbEZDa0V4dUFUU1dhQkZOMjVsbHBxSXlab2J1eUNZVGw0aS1IQTV1WXo5VHZhWnVVV3c2dzkya2FWTmRPOHZFcDlvWkNXVVI5NUo5bWE2bUROTDhMUGRRSmtJVXo5SQ?oc=5",
       "pubDate": "Fri, 31 Jul 2026 20:13:00 GMT",
-      "description": "Florida AG warns Catholic schools on vaccine policy tallahassee.com",
+      "description": "Florida AG warns Catholic schools on vaccine policy Tallahassee Democrat",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -570,10 +588,10 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Harrison-Clarksburg Health Department monitoring measles case, encourages residents to check vaccination status - WV News",
+      "title": "Harrison-Clarksburg Health Department monitoring measles case, encourages residents to check vaccination status - wvnews.com",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPOXBETVVnbUNIZ2c1aEM4cUlKX016ZW51a1VFNmNKQk9FdTZzM3F1ejVlWjNVX2J3ZlQ0b3hTb1ZKODJ2LU9zaFZuMjV3OGRDam9aLXlEeGJWcEdlaGdFVndwTmVPRkxQZFNTVnhnVmhTSkZ5QmMxay04Z0FoYW5LSUF1TDdRSFBKQUtpbGZzOV94d3RPTG13ZlY3SUFCVmIwcXUzajMtd0M5b2poSUFwTGtKVUhlZ3A5WDNKdzNoYTMxNF95MktUVXJ6Z2hZT1E2RDgtblpJTVM1TVpmZ2JKbkdtMGRySzZITWgtWm1JZWFhb0xxNTFPVXJKeVZzdG1tR2FyMW9pa0lzSVRQeHg1Ug?oc=5",
       "pubDate": "Fri, 31 Jul 2026 15:00:00 GMT",
-      "description": "Harrison-Clarksburg Health Department monitoring measles case, encourages residents to check vaccination status WV News",
+      "description": "Harrison-Clarksburg Health Department monitoring measles case, encourages residents to check vaccination status wvnews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -583,10 +601,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Florida AG warns Catholic schools vaccine policies could affect state scholarship eligibility - winknews.com",
+      "title": "Florida AG warns Catholic schools vaccine policies could affect state scholarship eligibility - WINK News",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOTFJhbjZTMERsbXQxMmxBa0NheUNZZ3ZMQjQtbFBhU3RjVllKMl9DOERkb0hoQ3JxOUtRTDE0ODJHdkFJaXk4WFF2M05oRmRxalAyZDBseUl6MXdEdUVSNTFyeUNRelRLQWswYnJHLUlZMVM5c1FYQXhNbWNIYUZ5eGJwc2F3TVBZV0RzdlJzQVJkRVpNbHk2VWxPaW9mZms5ZWdMUGRfNXBQeWNYcUZvV0FOUHRsaDBRcWxkOERmY21FUG5jNmE0Wm83YWYxSjhPeVlWUkNIcWpPZXFsSjRuSExPbVl4ZHQ0dndKOFViSWVyQ1ZkQzg4YzFjZUp2Zjd5V3NYbGdHc3FTbjA?oc=5",
       "pubDate": "Fri, 31 Jul 2026 14:58:00 GMT",
-      "description": "Florida AG warns Catholic schools vaccine policies could affect state scholarship eligibility winknews.com",
+      "description": "Florida AG warns Catholic schools vaccine policies could affect state scholarship eligibility WINK News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -661,19 +679,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Fauci’s Ailment Falsely Linked to Vaccine - NewsGuard's Reality Check",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94NEw5MFBtLTJJcXhuX1c2ZFlqeGhnOHg1VnlnTGdXdGJ3TkRJN3ZSbUlaaVdldVVGMWxkM2lsRnEzV2ktbF9taUZ4bnNpRmFJVXlUNEFOZC0teEgzZjNjY0duR1BFWHRmZ01yNXRPNnZudGdmRkNXemxjbHY?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 12:00:06 GMT",
-      "description": "Fauci’s Ailment Falsely Linked to Vaccine NewsGuard's Reality Check",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Moderna Says Norovirus Vaccine Didn’t Meet Statistical Criteria for Early Success in Trial - WSJ",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUGRzMENLMHh5X255MUNMMEVaUG1FbnFJUy1rb1Rpd3NWcG12QXhYZmNmeTVGM3k5YS0xVWQzZ2N4dXFKYzF4bGxuZm4tclR1MlZJLTMtSXBfX045WUhSVXZKSE9pdG9uWnBfMFlvdHBoaWU4TGdpS2FaV0tiUlFBWDhFbS1sN0NmNk9UZ1FOVDhSV2gyX210R2swOHhUWlZyQzRlVnhrdFpYUmJFZFdDV0k4X3c2ZmZsZEE?oc=5",
       "pubDate": "Fri, 31 Jul 2026 11:52:00 GMT",
@@ -713,10 +718,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Scientists Seek to Repurpose Existing Merck Ebola Vaccine - Bloomberg",
+      "title": "Scientists Seek to Repurpose Existing Merck Ebola Vaccine - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRDRaWE9OT2dnR0xTdFdWUVBXMFRJenNCdzZ1NVE1U08xN1k3ZHc3cWRUdjk0WWFnNVpTanFPOTJ4M3FvR0ZILXJ2QklFaFRmVm5UTnEwTXRxUGVXQlNWTkhPWHBydnVHVVpHVGRvVEZJbTJtRzZkdExtSFpBSXJ3SC1HcUdQczZDRi02MENsd3owV081LWRXVnd2T1NKdDRJT0JSTXA4Yl9LV3dhSV8taXByX2QxeEN4M0dwQnB3cHpNUlAy?oc=5",
       "pubDate": "Fri, 31 Jul 2026 08:25:51 GMT",
-      "description": "Scientists Seek to Repurpose Existing Merck Ebola Vaccine Bloomberg",
+      "description": "Scientists Seek to Repurpose Existing Merck Ebola Vaccine Bloomberg.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -761,6 +766,19 @@
       "sourceLabel": "News",
       "vaccineKey": "pertussis",
       "vaccineLabel": "Whooping cough / Tdap",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "KY ranks among states with lowest kindergarten vaccine rates as measles cases hit 35-year high - lex18.com",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUENudkU0RE1mVjI5WE1BZjJ2VnNnQU1LSml0LTdwS2g5MTBwTUdlZkd5MUJNd053QzRabzk0WXZmME05aDJCUVIyanhiMFNpaDFmdDlaYWN4cDlERTdwWGotUXhQcVA3SHNJc1BNSXR6ZHRlYVk1RFFoRjkxVnB4aGlETXQ5TzZMVnpmaXJSN2RvWW5oSk1oaFdfZWJEUkdaWWRiSzgxVlVYRTFVSUc5d2xyVzRqME1nZTNUd1dpWDhVZG8wNlhhM3lST3BoNUhDTGJ6bFlR?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 23:03:18 GMT",
+      "description": "KY ranks among states with lowest kindergarten vaccine rates as measles cases hit 35-year high lex18.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -921,19 +939,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "How Automated Temperature Monitoring Can Prevent Costly Vaccine and Medication Loss - Infection Control Today",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSF9mTjdHWGoweGNmVE1KWl9hUTJnUFAxOXBkUU5SS0VFcW9KUE9jN2NTWDlEei1lRFdnNnkzUzBhQUlKNWloSkdsbG9waGNyTllNZVpQTGcyUHNFYnRxMGJSTGpIZUFRSkVhekZTOEoyUW1haXotMzI5YWdPRjJpUGJpem45MWFIRF9NSm5PQWRSVVFGOFYwa0ZMeU1IeXRybm5Ra3hMS3huVU9qYUNudEtMdVJfejJBVWdwcmZydw?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 15:26:17 GMT",
-      "description": "How Automated Temperature Monitoring Can Prevent Costly Vaccine and Medication Loss Infection Control Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Commissioner’s Court recognizes immunization month, denied utility board re-appointment - The University Star",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON0stMGxNZ2ktVnBpYVhOdEZVc0xIcm40S3hrR0pyTUVCQTZMX0JvU1VvVV9JVVY1MjJOTjlIeUVnbHpwZzMtaXVxT3A3d3B5WEUzdzN2SGRZYWJZZFlfeVdaZEwwakhZRG1FYk5DODJraG1faXJHQ3d0YmZLeUFkOTRRTWhkLWtlNWVHc3NkOTVuZnF2ZUNPa3RqaUhZcEVTUk1oM0VuV0xVa1o5Tl9oeFBQQWx6eVlweEUxNjVCTUNMdw?oc=5",
       "pubDate": "Thu, 30 Jul 2026 14:10:06 GMT",
@@ -960,10 +965,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Trump administration to dispense $600M for vaccines RFK Jr. held up - Politico",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVHEwNG4xM2VhTVVjTmQwWFJEcmRWUkpMNWxVVFJDX1Q4c3VFbTFiRFFjYWwtWHBTbVQtODZiVXYyNkx5LUQzUWVkei1lZEpVWmFlVGdGRVRhTkJyN3V1d01WUGl4MTl3VFJVbHlMS0txb1FwQlVueGRZUlpVZDdZMUctTHBCWjRhWV94ZUxLVUVXS2hNQkE?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 13:30:00 GMT",
-      "description": "Trump administration to dispense $600M for vaccines RFK Jr. held up Politico",
+      "title": "Trump administration unfreezes $600 million for Gavi for global vaccine effort - KSL.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQU9jQU54aWp0TG5lSmJ0U1BPZFZiVHFvUTc4N3hoSmR0STFKWFkxWnZ0ZVdMY3ZfamlFQXVLVDIxWi1Fd0pJZFI0Q05OSDlhcUtqSHVmbGl1T0Z6Zk90Y21aZXRKUTR3bjZpOEhld3B5S3FIYkZIeFRja2RCQnFhbDFzZ2c3MTV0b3l2QVQybmFMUlNjcUZENmVhTHltS2FZUjFoMzktZjA3WmNwdExJeDhjLUI?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 13:37:16 GMT",
+      "description": "Trump administration unfreezes $600 million for Gavi for global vaccine effort KSL.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1038,19 +1043,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Hilleman Laboratories to develop and produce CEPI-backed Bundibugyo ebolavirus vaccine doses for clinical trials - CEPI",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaVZ2YWVwNmJteWx2UFhHSGF1aGhDbWd5Q05ZOHUteXBQcm02M2RvclFMQUtxWTA0bjlTQVQtUk5wc2ZZOElMUWNOTURSb0tSZjZnaEdmNjU1QU5paEl5UE91ZDdFYWNRdExKVUhoTzhvb2pkNEIzVy1pS3JwazBBVDlhemR4dTBrQmtCR1ppcDZfaG1FcUdjaHVLTmxvRGg0WFdSNkdURGVjVjd1ZV9IekJyV2drdw?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 08:52:43 GMT",
-      "description": "Hilleman Laboratories to develop and produce CEPI-backed Bundibugyo ebolavirus vaccine doses for clinical trials CEPI",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "MSU vaccine experts offer science and solutions as measles surge, school starts - Michigan State University",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfYjMzcTdVZjhJTnB0TVZ1aUpXS2lEdmF6MGJqakhIcXdTUmFSbkwtVHZ4TWtHTkhGS0VhdEZ3WUZYa1hVN3hjSkZwamI3Wk5YYlNqT0YydURMWDZEUTgtNTdsczNVTWItMjRaRmNB?oc=5",
       "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
@@ -1090,10 +1082,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Trump cuts WHO off from Gavi vaccine alliance funding - aljazeera.com",
+      "title": "Trump cuts WHO off from Gavi vaccine alliance funding - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbTFPbDhkZGNrQlZxeG11UWw1MDlVUmZYdVJTNWU0NHhadWxuWjUwOE55S1dJQnF1S3JubHRPbXFKQ3pBa2tpNEYweEwzanhoeGJsemlyUmYtdmNGdWJ1ZWVUR3Z3dl83WFdwTHpKYVpHSkZlRGtMSjdvNFEycDJ2RVl4bXBNd3JjdDhZQ3UtONIBlAFBVV95cUxNNVRyRHJ6SkdxSGNSMXRlWXM0bnZtY3lIWmdQXzE4U1lTWXo5Ym9CRDdhRDd3NkRuNjRIYllrbHBnZmxoU2pjSXhvcmdYZmwzVjNIOXdXa1VWeXJJSXU3UEFib0VxWi1uRDhnMFh4Ql9JblFtdVJrZ0I1M0puUVN3bjdQNlBiZTNiRkJ3U2xFcmtPaVJE?oc=5",
       "pubDate": "Thu, 30 Jul 2026 00:34:40 GMT",
-      "description": "Trump cuts WHO off from Gavi vaccine alliance funding aljazeera.com",
+      "description": "Trump cuts WHO off from Gavi vaccine alliance funding Al Jazeera",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1172,19 +1164,6 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY2NEUzBCU2xhcVRIcFhES3pjOFcxSUN5TVRGdjRKRkdEYUFUZGhQS2c2d3VnOG04NThYUHU2V1l6a1FlMHZhX0hVNHJNOF9MclZMSnU2RGp0ZXo5MFY1LVlvaWViWU9IOFl4a1JfaTFTR3UxMjBOQ3dGX2tZRFhzRmxUTzRGeUV6NXF6RlZWSWFKbG4ya0VFRVJBQVR6RGh4NjZMb2hlcFJvMkVYa25ncnIya3B2b3dsWlQtODBlaU1qRVllakE?oc=5",
       "pubDate": "Wed, 29 Jul 2026 15:44:56 GMT",
       "description": "US lawmakers press Health Secretary Robert F. Kennedy Jr. on vaccine settlement Reuters",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Collins says State Department will reinstate funding for global humanitarian vaccine alliance - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa0dGYWNjWlFobldhV3JNcVZrZFdFdWNGZVd5TVJiZU9lOEk4dmltdUdZM05KUUR6YlRWS0pSTlpUb3VRUjBCcGt4SzhtV1pZa2xOZ1k0MUJSZUtVODNySlZibWl1c0tPMFMtRllnTUtYTlFBX1VtRTFOMFN4eGJCaWJPVmRNWngwQ2o00gGQAUFVX3lxTE1wZW1yYlQ4WHo4OU5YWVJtSEttc1doWl9mb2lNdXZrSnZfRmV3TDBNTk1MOU1sdWlZU1hFZFZpQWNpYVYxbVA2aldOWmpXREhkUll6SXVDU0VIN2xrajRqMUkybTlkS0htQi14Y1RnNFVmMEI1M01aZXVDUXZhUTVDS0h5YTgzU0pZWEZIRndZQg?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 02:43:00 GMT",
-      "description": "Collins says State Department will reinstate funding for global humanitarian vaccine alliance The Hill",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
