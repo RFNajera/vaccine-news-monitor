@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-01T15:44:37.344Z",
-  "itemCount": 86,
+  "updatedAt": "2026-08-01T17:44:51.774Z",
+  "itemCount": 84,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 7
+      "count": 6
     },
     {
       "key": "flu",
@@ -20,7 +20,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 10
+      "count": 11
     },
     {
       "key": "pertussis",
@@ -50,20 +50,33 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 59
+      "count": 57
     }
   ],
   "items": [
     {
       "title": "Stephen A. Smith offers surprising apology to Kyrie Irving about COVID vaccine after watching Fauci hearing - New York Post",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS3l3MEtYNzEwOFV2Z1dpNVRqN0liN1BSbmV5cVE3Ukx4WVEtN1dfcFg2QlpsOWFZRWhVYmRFT3ZsRWZ1QlhjSUN1bG5leHplOUxocDF0bEFuVDdCMFRaRENrRi1XQ0I3MksweldtLWZzQ2hwSE05bUR5ZTI4NjlZVUtHOUdpUURzZE1IME5Qb2tHcTZhNkpBY2VES3lHOUtwNGRsUGlxWEoxX3E0c3NiMG9tdnZKeElYMjYydHJQQVM5Rloyc1BFMUtZWFFYUXdvaHdR?oc=5",
-      "pubDate": "Sat, 01 Aug 2026 14:17:00 GMT",
+      "pubDate": "Sat, 01 Aug 2026 17:18:34 GMT",
       "description": "Stephen A. Smith offers surprising apology to Kyrie Irving about COVID vaccine after watching Fauci hearing New York Post",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "As measles has a record resurgence, doctors relive terror of last major US outbreak - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTTItZ2JwQ3FuYXk5RWdHS3dqQVBYZks4TFVzcmkxZm9sRkhQQjQxRmNsSGZCZmdRV2MyeWFfalNscS1TU29sYTRoSkRPbUNIUmpubGx1dHNqa29zcGxxcUs3SUl5ZTEyMFpZazJPU2NSZ0xYbXBwWjBCMjk2TEpWanpaOGNnUjNiWXJVU2hQWGdSTlFhM21GLUpYeUszRzNW?oc=5",
+      "pubDate": "Sat, 01 Aug 2026 11:32:00 GMT",
+      "description": "As measles has a record resurgence, doctors relive terror of last major US outbreak The Independent",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -94,23 +107,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Tinubu seeks stronger Gavi partnership, reaffirms commitment to vaccine production - Premium Times Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOXR3VTI1OXQyZEpRTExPT3RtRDRrTHplWGljSDZiNUtJeWZwZ0Zqd3V5eVJVQUtnNHAyYnc1Ynp1MlNNXy1GZzQ2dEEybUtmU2JOWUtkVGpJSnplYkJDY3B0Q0d5N2dwX2hwRjdRU0YtUVc2VWJNbU9wUnpHWFAyc0JiQ29MN3EyVE5iYTZwaDZ3aWxnNHVVc0Q3cjNiWU40blVfbXA3M2N1bmU5UkVLNzAtb08wbUxNbmxxQmVHVDhSNFhWbVNoaWxURElaa1JySHlSRk16YUJlMFE?oc=5",
-      "pubDate": "Sat, 01 Aug 2026 09:23:57 GMT",
-      "description": "Tinubu seeks stronger Gavi partnership, reaffirms commitment to vaccine production Premium Times Nigeria",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "DR Congo Ebola outbreak becomes world's second-largest ever - DW.com",
+      "title": "DR Congo Ebola outbreak becomes world's second-largest ever - dw.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN1JYSXFXNzMzenFLN0NfQ1ZsanRVZnJ4cmhZdWJhQi1WbVpGbVR2QV85djRwa2xJR0hjbGVfYWlCR3ZDOUloZ0h4WTVpbjYtQjF1NnIxbHZwZzFmMVYtUmJEWkhNUzFfelUza2VNelhSVE1PaS1TLU5zWTJfS3F4eHRjNmNManpwYlN1MnlNaVJ5X2lYQ0HSAZYBQVVfeXFMT1pYLUFvWHdFLWZDdVJManZkbHFNRE1lTjhkbWhKQzEza1ZtX2dJN3haSlRjb29FUldmNVRuQ2FxR2pKQ0FhNVhSdm1DbmJQRnMxckVsTFdsTERVSTJCRDlUaVQxUHBNc2dYd1l0SVVITmtlWTZWdm84LVdhTkVid0dVUWZVT19TZDdzdXBSYWlmYkY0b2ZB?oc=5",
       "pubDate": "Sat, 01 Aug 2026 07:58:29 GMT",
-      "description": "DR Congo Ebola outbreak becomes world's second-largest ever DW.com",
+      "description": "DR Congo Ebola outbreak becomes world's second-largest ever dw.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -142,6 +142,19 @@
       "sourceLabel": "News",
       "vaccineKey": "flu",
       "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Florida Attorney General pushes Catholic schools to grant vaccine exemptions - Tampa Bay Times",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQUlER3Z2RW1Yam1lSDAyNFVQRm5pTVVGbVRaQVV2UFN2YW9qTklIendZVjZRUFhxSk1hWlRsSlFnaWlyNFRGeDQ2RUx6T2pXMG9ldy1lWWtLM3h0ZjQ2d2FVRTAzQXM0T3JtVTBKTHFHLWJEd0pqQ1VVZ3oyc1MzdUgyemUwRU9UNjIzUGQ1dUJuLTVxUlN1Yld1VUgwajFXQ19YZEtUeV9NZXhBcUhRVEp4ZEFQWUR4OWhB?oc=5",
+      "pubDate": "Sat, 01 Aug 2026 04:11:00 GMT",
+      "description": "Florida Attorney General pushes Catholic schools to grant vaccine exemptions Tampa Bay Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -224,10 +237,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Declining vaccination rates nationwide have doctors brushing up on protocols for Measles - ksdk.com",
+      "title": "Declining vaccination rates nationwide have doctors brushing up on protocols for Measles - KSDK",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUFBmN1A5RENCMElJd2pWdjRYNlJGc21qMWFJYnZCeWdfbndhaFA1d19oLUhqWGR2cm1DT09BSzNaZ1EzZFB3dFRQU3FxZnFFZjZaNkhhV3ZBeFhpcEVzbFNMeGNDTFhVVmxLY2l6YVQ4Y2dwMjdxcjBZOFpBRGRudW1DdTFFa2MyeEtpeklteDNGcWowb2ZXREV1SHJoMWthUGw4eXQwRkxvRnhzOVo3cTlYY1hKVXdaTUF6dV83cWszSmp3SjRkNXE0ZU5CdGFJemY4VjdTbExMS1pOQlpNU3kyYlJOQWxkaFhScExMS0RYSWx6bXVCRVRB?oc=5",
       "pubDate": "Fri, 31 Jul 2026 23:22:00 GMT",
-      "description": "Declining vaccination rates nationwide have doctors brushing up on protocols for Measles ksdk.com",
+      "description": "Declining vaccination rates nationwide have doctors brushing up on protocols for Measles KSDK",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -367,19 +380,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "HES offers low-cost vaccine clinic - WDEF",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WOW9udDBGbkFNdEJPeGdYanFudVBKUEwyNnV4WTdUNUx5NDk2dUNJLXY4SENfOThtVWpDeW9SdWFRQmRjTXJvYmc4Yi1NUjNfWnZJYm16NlRxMmxOaDFxRjdYOUwydWc?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 20:15:40 GMT",
-      "description": "HES offers low-cost vaccine clinic WDEF",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Florida AG warns Catholic schools on vaccine policy - Tallahassee Democrat",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWkdnWjhBc3p1Sjh4bWd1dWF0QmtnNmNSZUwyMHdPUVp3bzdycGpPamRMZjBfS1B5QWxVS09Oa2JTTUlqcmJQV2wyZWZxRjRCY1gzU1gta3lteVV5Q3hEbEZDa0V4dUFUU1dhQkZOMjVsbHBxSXlab2J1eUNZVGw0aS1IQTV1WXo5VHZhWnVVV3c2dzkya2FWTmRPOHZFcDlvWkNXVVI5NUo5bWE2bUROTDhMUGRRSmtJVXo5SQ?oc=5",
       "pubDate": "Fri, 31 Jul 2026 20:13:00 GMT",
@@ -393,10 +393,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "RFK Jr’s undermining of vaccine science and official data is eroding institutional confidence in American healthcare - LSE Blogs",
+      "title": "RFK Jr’s undermining of vaccine science and official data is eroding institutional confidence in American healthcare - blogs.lse.ac.uk",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUGpLa2h6VC1rN1VhYUYwUVZlNUw4RzhJQkdVdXo4YWFwT3dUOXZVSGI5clZ1SEpyM3BmMFdGeG5uOHQtTTFWYlhkcTNsdUp0aGx1cDJOZ0thbGxOa1dac0pwb2FSVHRwYWNtWklhVTdiM0lZRkM2MzR4cWE4eE0zUXprMUJUS0ltUS1ieWlkc1pBS2tjSFlNTzEyd2Y1UndydWxoSlhJSDYzVjRpUS1vMVFTWkZZamdmaU5FWVFmdWN4MVd1V0JCXzVqb1NaWndPU3YwVmZ2TnFRM0pfSkZQSUFjTFF5WU5WSngzNlRjQ3VSWEU?oc=5",
       "pubDate": "Fri, 31 Jul 2026 19:56:37 GMT",
-      "description": "RFK Jr’s undermining of vaccine science and official data is eroding institutional confidence in American healthcare LSE Blogs",
+      "description": "RFK Jr’s undermining of vaccine science and official data is eroding institutional confidence in American healthcare blogs.lse.ac.uk",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -471,10 +471,10 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Childhood Hepatitis B Vaccination Tied to Lower Coinfection in Patients With HIV - The American Journal of Managed Care",
+      "title": "Childhood Hepatitis B Vaccination Tied to Lower Coinfection in Patients With HIV - The American Journal of Managed Care® (AJMC®)",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbDZ1MHdDRUZUYS1ZeEFDZGExWDNJMFJvbzFybVBWUE5tMW5nZEQ1VXp1YVlESkh4MUlpOWlJVkpVaFByS3RwbzFTbGRNVmtpQTlrZGg2ODNpdnRUZG9ZN0xTTHhmR3RqeTZVbWxiV21Bdm04dnBnaGNBbk0zVklnU1otckFNdXhaT2JaS0l2V1J6T282S1ZyRFJIckdQemJyYzJjMllvZXZZUQ?oc=5",
       "pubDate": "Fri, 31 Jul 2026 18:10:10 GMT",
-      "description": "Childhood Hepatitis B Vaccination Tied to Lower Coinfection in Patients With HIV The American Journal of Managed Care",
+      "description": "Childhood Hepatitis B Vaccination Tied to Lower Coinfection in Patients With HIV The American Journal of Managed Care® (AJMC®)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -484,23 +484,10 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Back-to-school vaccine clinics - KRXI",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQUhGa18wQ3U4Z01QNVZIM2Nlb0J5OGItWWlsOFQ0ZDVkMDF2WGJfdTBPTDZ2Q3BIc2ZxOHNacGN4NUxXV2RWSFd6aDBGdzZRQXZXY1FtSy15VkduX2ZkcF9PN1dkdndaLUQybDVQVFFkMURObEVMa3Q2SXBkM1JVbnY0dkc3dzBJQnk4dkZBTDliRENQWG9CQ25BTU8wRFE?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 18:04:29 GMT",
-      "description": "Back-to-school vaccine clinics KRXI",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Moderna Fields Questions on Cancer Vaccine Development as Investors Await Phase III Data - Precision Medicine Online",
+      "title": "Moderna Fields Questions on Cancer Vaccine Development as Investors Await Phase III Data - precisionmedicineonline.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY0ZTRmowdWdNVUEybFRod2xGZTZuTkdZTmJKMjhtSFBRV184YmpOemphTlctWmFUWjFtVkZucy1ZcGJGejM0Mmx4dkhjbzdEOHdfRC1wYnhFcjFwbTNXU0lhM2FKY0QtOUdtZjVRNWh0SmREcU1QQmw5S3ZRei1zQmdoSm1abnA1R2ZNSFdNMVd0b0hKV0NTd3RxQkJ0eVQ4MVViQnBqdlhKTmxBTEx1T1hwTTVxaDI1N2RNZVhBSU5wRUlsZm5vblU2WUFMc2k3UlE?oc=5",
       "pubDate": "Fri, 31 Jul 2026 18:02:43 GMT",
-      "description": "Moderna Fields Questions on Cancer Vaccine Development as Investors Await Phase III Data Precision Medicine Online",
+      "description": "Moderna Fields Questions on Cancer Vaccine Development as Investors Await Phase III Data precisionmedicineonline.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -510,10 +497,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Epstein-Barr Virus Link to MS Spurs New Vaccine and T-Cell Trials - The American Journal of Managed Care",
+      "title": "Epstein-Barr Virus Link to MS Spurs New Vaccine and T-Cell Trials - The American Journal of Managed Care® (AJMC®)",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZVZuQTJjaW5IRWVMV3hKeUtjczB6QUZjOGU4N25yNHdzNTJLWjlnYjJ1bWFrZ0VCOXVpMzQ1OEhSUzE2dzBCNEctVmpYNTNneTh3R1NUYjI0ZTN6Wk1kX19Ram5TT3Fwbkt4WHQ4V0VCQmNuWGZSSWk3TE9mTW1QdGZnWG85U283dlRJV0FfRXZfRTlyYnc?oc=5",
       "pubDate": "Fri, 31 Jul 2026 17:46:52 GMT",
-      "description": "Epstein-Barr Virus Link to MS Spurs New Vaccine and T-Cell Trials The American Journal of Managed Care",
+      "description": "Epstein-Barr Virus Link to MS Spurs New Vaccine and T-Cell Trials The American Journal of Managed Care® (AJMC®)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -536,6 +523,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Moderna delays norovirus vaccine trial readout because of too few infections - Endpoints News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNWRSWG5EcGRKSlFHVTNKam9UeXpmWEhLSWVyWW5rM3owWlg0UlBDY0tsRTJLV0x2Y1RETmNPSnFkN0VEbFBKcmZidldwRzJPQ01XSi10Y0RadDJQSExEYVVVanhkcm1kbkNKekRSWjRoaE0zZXFRcE9aY1FmdGUtTDRRU2Q2Uy1Qd2xmUEhBZ3ZYTXl4S3BqVk9sZFJ3WEpk?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 16:36:00 GMT",
+      "description": "Moderna delays norovirus vaccine trial readout because of too few infections Endpoints News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
       "title": "Pregnant Women Favor Maternal RSV Vaccine Over Infant Antibody Shot - Drug Topics",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb1VXb1h6eVlraVpGUHdIQXVOcDNVR1dZSFJLaTB4aENoSmtwT2pXa1FFbG1ueElUSkFJOUlRMi1BcC1tb0dKWEJDOURZblNOQXpuRjZCLU52SFEtdkVHQzNEY0w3VDJfLVk5b19jOHlpS3BrYWxvaHRKX3FOTjRwWV9HZ3EyUlRBTTBYeUJlNmN1OFlZN1dQdW4wZVZVRzRn?oc=5",
       "pubDate": "Fri, 31 Jul 2026 16:11:03 GMT",
@@ -549,23 +549,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Chef Shreds Rand Paul After Senator Slams Covid Vaccine as ‘Fauci Ouchie’: ‘By All Means Keep Bullsh*tting’ - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWkxxd05jZGlXR1lMTG9OcGRISzR4dVNwc25KLVJBMEp1YUIzQ1dHRmdhN05fWkZGbU05Sy1YNkRIanF2QnFNRHBraDRhek5FbXoyeTA0Q0w0ODdzRmJPU3lZeF9odm04UEF0V2VjUnp3dnBnWDdUaGZJSlgta0YxemVldVNoXzRIZnpnOFZXQlN3RGc?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 15:40:35 GMT",
-      "description": "Chef Shreds Rand Paul After Senator Slams Covid Vaccine as ‘Fauci Ouchie’: ‘By All Means Keep Bullsh*tting’ Yahoo",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "'Overall vaccination rates are declining': U.S. on pace for worst measles year in 3 decades - ksdk.com",
+      "title": "'Overall vaccination rates are declining': U.S. on pace for worst measles year in 3 decades - KSDK",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSnpWRVVkRmdOUE45UWlGZVBfbEttbm11dWNlampfSUp0eEZ2VDV1SlhucklqWnRxN3VlZG92bVdRMlk1cWJFS1VuMzB5RUh0dG13NXAxSDBHQXNwX3ZYeVBrVFBvVFFwVW5KN1NoZHJQV0N0SzdMODJmdzFFa3pKc1BfeVNvVHNoSnNWRVpsc3RIaVUxelhzVDQwbGJ0NVNEeGhDTkJuUVpUS2F6V3VIN2Y1VE1LUGhJVkR0cGFoZlNwS0ppNnU0dEZYS0g5Q2RaZ09EMW1ocHEtcEZGV0psZzRqMFpPZnZsaGQ2N3FhdThRZnVoMWNDQ2VzQQ?oc=5",
       "pubDate": "Fri, 31 Jul 2026 15:22:00 GMT",
-      "description": "'Overall vaccination rates are declining': U.S. on pace for worst measles year in 3 decades ksdk.com",
+      "description": "'Overall vaccination rates are declining': U.S. on pace for worst measles year in 3 decades KSDK",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -601,10 +588,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "‘Measles is here’: Michigan health officials warn as vaccination rates fall dangerously low - clickondetroit.com",
+      "title": "‘Measles is here’: Michigan health officials warn as vaccination rates fall dangerously low - ClickOnDetroit | WDIV Local 4",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaS16WXBIWElnTmZUczMxaG0tZnFaZWJhcE9nUVIwbVp0ZDBIcFRWczl5QjdnYjl4aHpkMHVUV3hVX2RJckJyVWZ3U0RlU2hDT1Nod2o3cm16MXc3SHl4bEJIZk5fTnYyUVY1RmthRjlibmxjTVY3ZU50aDRkZC1YNjhpR3ZVVVdFZEFTeGhjQWZQR196dHpYTDZ5S0dBeGxVY2l4WGJvMnBEU2poOERRNXBOazczWmUwMkdMeTh4VVczeXJFS0ZndVdPM05mdjE2VmFReVJVVzZfdw?oc=5",
       "pubDate": "Fri, 31 Jul 2026 14:26:12 GMT",
-      "description": "‘Measles is here’: Michigan health officials warn as vaccination rates fall dangerously low clickondetroit.com",
+      "description": "‘Measles is here’: Michigan health officials warn as vaccination rates fall dangerously low ClickOnDetroit | WDIV Local 4",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -640,10 +627,10 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Moderna beats quarterly revenue estimates on COVID vaccine strength - wmbdradio.com",
+      "title": "Moderna beats quarterly revenue estimates on COVID vaccine strength - 1470 & 100.3 WMBD",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd09rZENmWHZWZFFhaVdQYlVwQjgtRGRiS094czExVXYwS1BpS01zeHcySUVBTUdZMlZqVlVoTHVqQmhCc2J4S1JqZ2NFaTItOGFlY1BmeGNla0tyZFdfMi15TXhRbllEZ3JpdUtYWGRCNVZxQml4RW9iYjdvMm9FeHpIZUx2TGV1OXdpdTloalNHbUplVjc1eDQ0NWJQX3ByM3d3?oc=5",
       "pubDate": "Fri, 31 Jul 2026 12:01:29 GMT",
-      "description": "Moderna beats quarterly revenue estimates on COVID vaccine strength wmbdradio.com",
+      "description": "Moderna beats quarterly revenue estimates on COVID vaccine strength 1470 & 100.3 WMBD",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -757,10 +744,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Measles cases rise as vaccination rates fall - clickondetroit.com",
+      "title": "Measles cases rise as vaccination rates fall - ClickOnDetroit | WDIV Local 4",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ2s0YVM4YVpMWkVlbGw0Z3BfZXBPcEtoUFFiU0NLUVczX3h0eVg1aU5kQVhrTmlRN3JKU0l3ZW5VdmNXdWZaaXNQeFZqSFktQmVacE9hQWZoQnFPcUFQSG1PQUJpVmJrem9oSy1MWHhKeDhhUVRkX0tlaEJnNU8wQ0c3MGxORGJrRF9La0NKSURXV1FYMlZaRTh2T0VCWGM?oc=5",
       "pubDate": "Thu, 30 Jul 2026 22:11:53 GMT",
-      "description": "Measles cases rise as vaccination rates fall clickondetroit.com",
+      "description": "Measles cases rise as vaccination rates fall ClickOnDetroit | WDIV Local 4",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -913,10 +900,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Commissioner’s Court recognizes immunization month, denied utility board re-appointment - universitystar.com",
+      "title": "Commissioner’s Court recognizes immunization month, denied utility board re-appointment - The University Star",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON0stMGxNZ2ktVnBpYVhOdEZVc0xIcm40S3hrR0pyTUVCQTZMX0JvU1VvVV9JVVY1MjJOTjlIeUVnbHpwZzMtaXVxT3A3d3B5WEUzdzN2SGRZYWJZZFlfeVdaZEwwakhZRG1FYk5DODJraG1faXJHQ3d0YmZLeUFkOTRRTWhkLWtlNWVHc3NkOTVuZnF2ZUNPa3RqaUhZcEVTUk1oM0VuV0xVa1o5Tl9oeFBQQWx6eVlweEUxNjVCTUNMdw?oc=5",
       "pubDate": "Thu, 30 Jul 2026 14:10:06 GMT",
-      "description": "Commissioner’s Court recognizes immunization month, denied utility board re-appointment universitystar.com",
+      "description": "Commissioner’s Court recognizes immunization month, denied utility board re-appointment The University Star",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -978,10 +965,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Ebola outbreak nears milestone, while a vaccine remains months away - statnews.com",
+      "title": "Ebola outbreak nears milestone, while a vaccine remains months away - STAT",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM3BhZGZmRTNZNHNhU0VReEloekZpNU5BQzNuLWVMOG80d0hoN2F2S3FMc2UtUHBvbExWVHlUakJFWWMtU29DMnUyd3lhc0tiTG8xY3lza1hKX041WTdmZnN5RTMyTjRxWjRPR0lzTjFDUTdpRExhY3ZPRlhfSTlwZVQ0Wk9jWHFmUkFDX1FrMnhZMVdMM1FfMnFkYWFXdw?oc=5",
       "pubDate": "Thu, 30 Jul 2026 11:55:25 GMT",
-      "description": "Ebola outbreak nears milestone, while a vaccine remains months away statnews.com",
+      "description": "Ebola outbreak nears milestone, while a vaccine remains months away STAT",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1030,19 +1017,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "US to release $600M in funds for global vaccine alliance - Healio",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV1pkRU1YeEZyRFcwaDMzRmxqb1lNNkJCc3NFalVQbVNxWk1XTFVqT0otS3p0SDlDSkMwaWFxNHh1OEJvblN3MHFrYTlvYWE5NWJmN19WRFdaOWduNnVfc0tnMFA1VFdfMXB3Z0pwM2dBdG4xZnAwdy1yZnJKdnh0dmRMNDNaQ3ZyN19NS2lHYllxa01RZGZ5OEJYdEtLS1kweUowY1IzUXgxbFpjT1ZOZA?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "description": "US to release $600M in funds for global vaccine alliance Healio",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Merck, Wellcome partner with global health group to make Ebola vaccine for clinical trials - Reuters",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR1REeGNHUGlqR2hRRGZnaDlhelZwNU1xRUJUemU1OEVrVnk3bWwtVm83LW1JNi1iY1lFaVpFbXBfanVrdURtQXI5VWU2S1lMU19OeTJFUkx4aXhhNWVpb1ViZVBsQ2xoLXY1TjBBR0xYV1BTMXU2Z0djNk5xMjZKeUdyQ3NGREt1eHNTdXdLLS01WFpkaS1yZURiNXJSYi1jUDR6UkFqY1BnT295Z1ZQdXpxalFVSmlfUzZfMUlTOWF1eFlUM0NvQldCX2Y3SE8zR3F2OGZNbFdSaXk2MXlmaA?oc=5",
       "pubDate": "Thu, 30 Jul 2026 05:09:00 GMT",
@@ -1056,10 +1030,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Merseyside lung cancer patient first in world to get new vaccine - BBC",
+      "title": "Merseyside lung cancer patient first in world to get new vaccine - bbc.com",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIOTV6VjdDOHRacndlS09BbUlkU0RTQW5tSHRQd1BNTUZFcWRLeWdUYzZ1dVY0TkhDbXZXTnVOU0xYdEI5NjlQeTFJS3E1alhpTVBJNWM0WHp0QQ?oc=5",
       "pubDate": "Thu, 30 Jul 2026 05:05:25 GMT",
-      "description": "Merseyside lung cancer patient first in world to get new vaccine BBC",
+      "description": "Merseyside lung cancer patient first in world to get new vaccine bbc.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1069,10 +1043,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Trump cuts WHO off from Gavi vaccine alliance funding - aljazeera.com",
+      "title": "Trump cuts WHO off from Gavi vaccine alliance funding - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbTFPbDhkZGNrQlZxeG11UWw1MDlVUmZYdVJTNWU0NHhadWxuWjUwOE55S1dJQnF1S3JubHRPbXFKQ3pBa2tpNEYweEwzanhoeGJsemlyUmYtdmNGdWJ1ZWVUR3Z3dl83WFdwTHpKYVpHSkZlRGtMSjdvNFEycDJ2RVl4bXBNd3JjdDhZQ3UtONIBlAFBVV95cUxNNVRyRHJ6SkdxSGNSMXRlWXM0bnZtY3lIWmdQXzE4U1lTWXo5Ym9CRDdhRDd3NkRuNjRIYllrbHBnZmxoU2pjSXhvcmdYZmwzVjNIOXdXa1VWeXJJSXU3UEFib0VxWi1uRDhnMFh4Ql9JblFtdVJrZ0I1M0puUVN3bjdQNlBiZTNiRkJ3U2xFcmtPaVJE?oc=5",
       "pubDate": "Thu, 30 Jul 2026 00:34:40 GMT",
-      "description": "Trump cuts WHO off from Gavi vaccine alliance funding aljazeera.com",
+      "description": "Trump cuts WHO off from Gavi vaccine alliance funding Al Jazeera",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1108,10 +1082,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "‘Not out of the woods’: Delaware doctor predicts more measles cases as the state’s outbreak rises to 5 - WHYY",
+      "title": "‘Not out of the woods’: Delaware doctor predicts more measles cases as the state’s outbreak rises to 5 - whyy.org",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mSnM5OWJTV3dxbkJtNHRNNzBBQ0ctdFRtd0dnMHcza2hkMmI1a0NnQkRtOE5HSVBwaGNMSEk1M1VsNzJFNUhLRXkzUnJuV0E2a3lHb25VaDRidmtDVnJ2d05OTkM?oc=5",
       "pubDate": "Wed, 29 Jul 2026 20:12:27 GMT",
-      "description": "‘Not out of the woods’: Delaware doctor predicts more measles cases as the state’s outbreak rises to 5 WHYY",
+      "description": "‘Not out of the woods’: Delaware doctor predicts more measles cases as the state’s outbreak rises to 5 whyy.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
