@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-02T17:45:11.065Z",
+  "updatedAt": "2026-08-02T18:44:25.485Z",
   "itemCount": 94,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 7
+      "count": 8
     },
     {
       "key": "flu",
@@ -20,7 +20,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 15
+      "count": 16
     },
     {
       "key": "hpv",
@@ -35,7 +35,7 @@
     {
       "key": "hepatitis",
       "label": "Hepatitis",
-      "count": 2
+      "count": 1
     },
     {
       "key": "shingles",
@@ -50,10 +50,62 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 63
+      "count": 62
     }
   ],
   "items": [
+    {
+      "title": "RFK Jr tells US families to vaccinate children against measles amid outbreak - theguardian.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZMU9OZ2liMWJPUmUwLUlpZUVwVkRRbTBCOEg0ZXBpQ05kZDVsQVdnMTBaby1tM0kyWG1jTjd6N05VT09BREVVT1NGbkZIbkJUb0FoUmxTTFNsT0czNTVfWjlXR0tQOGg4MzFjdVpDWmRyZ00tbmxERFR6VXE5SGM?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 18:28:00 GMT",
+      "description": "RFK Jr tells US families to vaccinate children against measles amid outbreak theguardian.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Kennedy Disputes Vaccine Science on CNN as Measles Hits 35-Year US High - Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN3RNeUxoc2dDREVoazJ2MnpMSU1UOHkyZ0JDR1dxX1prY0ZOTjdYRkoxM281MTJoT2lxQmhEaGpQaUlpYmQtN1o5dDBTOXhBalpaU19WNDlPZTlPc0k3Q0tGZXVPOW5maXZON0hwRFhYY1MycnZiYXhlRXpZdWszanc0N1I4YTQ5eHpvYXhGdUd3M1RxWXVEaDljdThJeFlwRU9iS0ZCM1VseGd4TGRoQ3dnYzFBN0VwcFlITA?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 17:53:31 GMT",
+      "description": "Kennedy Disputes Vaccine Science on CNN as Measles Hits 35-Year US High Tech Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "RFK Jr. pushes measles vaccine and blames Fauci's COVID-19 handling - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVW1FcUV3UEJZMmFaOVJaQldWdDNDRHZQLUpKdF9SckNwRHNERTdQSEdwZUQ4Zm1fdlJFd3dOd3M1bmRaWUZOeTh5c0E5bE1rN2JDS241dWowX19BRktGUkNMZHJrX1pYUG81dUFYbzhBcGxRWl9vRloyb3JGd2ZDc2xHU2pjYTFjX3ZLRXNLZnNZaDFPRFNpUXdfeHVxajFlNmpVa1pia3hXUW9Z?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 17:53:00 GMT",
+      "description": "RFK Jr. pushes measles vaccine and blames Fauci's COVID-19 handling USA Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Sickening signs of vaccination neglect | EDITORIAL - Baltimore Sun",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nRnlkakp4cDlsT0FQVGpHYTEtblZ2a1p4RnU3NkpxZTV6UWJudVJFbXNCbk1zalJYV1hoekk5UzBlR2FILTNOeVZVZzQzR0dUMnc3QmQ0SXlIOExVeUlhS2d0SDFhSXFiUHc0WWowMlFsNnQ3ckp5SjVn?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 17:45:12 GMT",
+      "description": "Sickening signs of vaccination neglect | EDITORIAL Baltimore Sun",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "opinion",
+      "articleLabel": "Opinion"
+    },
     {
       "title": "Phoebe Ongadi։ HPV Vaccination and Screening Support Cervical Cancer Elimination in Kenya - Oncodaily",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mbmNyVGFvYy1ySjdTZklXMjFmaGRPWnVUdzdJQm8zUHdObVI0aDRKcExvZzlhaWNNeTJOX1hITzJaLWkwUGsyNjl6WjdNQmJHWGlGcDJMcnBWSmt2bmc?oc=5",
@@ -68,36 +120,23 @@
       "articleLabel": "News"
     },
     {
+      "title": "\"My job is to find out the truth\": Dana Bash grills RFK Jr. over vaccines - Salon.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTEdvSHBMeElUTFE2NUJBRnI2ZHprdmtORTMzblZNS3hSYVBTSHVHVWI5RGJtU0U2SUtNaUgtam9aSVA0QVA0ekR4X2pLRktaTWY2TkpKZEp5a1VYeWVkLUlZT3NKNkJja3VFTzlQQzhpeldMTlJvbl9UMHNfM3Rhb2stQXgyVW9XbEpIS2ZycURuWFNIUHZNS2k5ZmFERm0zalZibnp3?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 17:30:17 GMT",
+      "description": "\"My job is to find out the truth\": Dana Bash grills RFK Jr. over vaccines Salon.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "New York health officials urge parents to check vaccine requirements - Lohud",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNR1BMa0lLMy0tYUZ4N183M0RvM1NDUWxpWHJKWWMwZVFObkhpQVlnOXhpTTBvNnNuaEVOakoxNG5tSHd2MUx6N2h4cUNmRi1VelpBcG92N3N1NXVYV0FjMHV3ak5EQWhfOFBaNGZobGU0TkVnYXlieGxxdEV4UFhaV1ZseWRmbzZlYzRGbW8zdzN2djhNR1NqRG5sRnQ2bXFMajBoM3hXOVRKODVYRWV5VHdmeHJscUptbmJXdTRCV09WaDlaY3lCZ1N5SUdTNWlnTmpTNl9XVnVZYm00ZDVWVnF1dDlCNGsyVWgwbW5R?oc=5",
       "pubDate": "Sun, 02 Aug 2026 17:05:12 GMT",
       "description": "New York health officials urge parents to check vaccine requirements Lohud",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Yemen urges international action to protect children in Houthi-controlled areas - Arab News PK",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBTlFybG9mWnBGYTN4TVRzbC1zRXdwTDZ1cmpHQzczWlU0cTFGZzN6TDZ3aElCQVNOUTF3UWgybnBzLUdROEVxT2R4dV9LOHBkRU9saUJ1dVpsT3pY?oc=5",
-      "pubDate": "Sun, 02 Aug 2026 16:03:01 GMT",
-      "description": "Yemen urges international action to protect children in Houthi-controlled areas Arab News PK",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "RFK Jr., Bash clash in heated interview: ‘This is not productive’ - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ09tcUthWEllckcxTFV6TjRNdzNqc2cteEt3XzY0eGozcFhwR3RmVEI4UTRyYXc0ZUNLa2JmZS1VZV9ZdVhVZEh0QkVwQ3RZUE1IRGNUWS1aSEtPeXNkUksxWTR1RlRDZG9SaXg2a0JLRDFKTkJmSXhzYnBtNFFoSk1vUHlxUknSAYwBQVVfeXFMT2hXcGZwTkgwN1UweHRMOENnSzNvTVRBM29YRWVPV3RMRlFlOHNkLWFZR0dJeHgwYlNHLXRlSVFzM0lEeFJESTItYkVaUm1ua250ODlJWWtsbk9NX3FIN2Jnb3Nha1dOX3dNNnV1TGZDZml0Rm1FYm1WRnpiczgtMml6VTRvX0NVUHJHM0c?oc=5",
-      "pubDate": "Sun, 02 Aug 2026 15:10:00 GMT",
-      "description": "RFK Jr., Bash clash in heated interview: ‘This is not productive’ The Hill",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -116,19 +155,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Measles virus shows no sign of escaping vaccine protection: icddr,b - thedailystar.net",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSkhaLWJwT2VxSTYyaElyZXd5cDJVbDhWaGUyRTB1Wl9NeG03a1lhVWs3SlBzZ2g0OHlMbVBjcldVR3E2S1V5cHdVWkdYWjVPYXBLclRvamdRc1ZMeDlOTkFNbjJWelQ1NERsUXhMNUgyM29YaklhQmI1dnAtbld0enFkTzliN2FXSTQ1bkxFVXhTRnlfLVBVOTZ6ei1uZFE3SEtsRHFST0t1Ty1rano3Y3cyS3Z6cmZja3Jucg?oc=5",
-      "pubDate": "Sun, 02 Aug 2026 13:25:13 GMT",
-      "description": "Measles virus shows no sign of escaping vaccine protection: icddr,b thedailystar.net",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -159,10 +185,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "US officials focus on identification and rapid action as measles cases rise - The Guardian",
+      "title": "US officials focus on identification and rapid action as measles cases rise - theguardian.com",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jQm41ZzFQaUVnQWx5b2w1dEpjbnZoME1seGxUSGFhVVRJbjFzUXZTX2pMeHpST0tib3lua1lwUzhacFBZakE2OVIxRTJqY2xqdWUwb0lBdkJuN05qMnM1enNCTFBuTHMzZGhsSl9oZzNIQW1LUjJZX2Q5QlZhUQ?oc=5",
       "pubDate": "Sun, 02 Aug 2026 11:00:00 GMT",
-      "description": "US officials focus on identification and rapid action as measles cases rise The Guardian",
+      "description": "US officials focus on identification and rapid action as measles cases rise theguardian.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -198,10 +224,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Yates County to Hold Free Rabies Vaccination Clinic - fingerlakesdailynews.com",
+      "title": "Yates County to Hold Free Rabies Vaccination Clinic - Finger Lakes Daily News",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcDdFclZsTHhienczU1hvS0ktNGhtRGpRZEp2UnMyVnpteDRfZXBTN2NhQTNUMmhGcUotVlc3dTJJbF90QXlWcDQ0cmgzckRfdUlfal95ZkxXMGUwUm5rY2F6UndXcldJckhlbncwNkNsc05DUlVUTi1YNllaRmxJUnlBNHFxLUN1SlZrbzlqUUdGOHJULVoxVmxuUQ?oc=5",
       "pubDate": "Sun, 02 Aug 2026 04:01:02 GMT",
-      "description": "Yates County to Hold Free Rabies Vaccination Clinic fingerlakesdailynews.com",
+      "description": "Yates County to Hold Free Rabies Vaccination Clinic Finger Lakes Daily News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -315,10 +341,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Florida attorney general urges Catholic schools to grant vaccine exemptions - baynews9.com",
+      "title": "Florida attorney general urges Catholic schools to grant vaccine exemptions - Spectrum Bay News 9",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ0hpLXc3dVU3ckV0Mi1GOGlyWjA2WTVENkJnb1pKS211Z1hCY2xUQWRBY2c0QTVVdFBDeXZFbTA1OC1PaEFzMERBUld2WXBDaFJoQ05DdVpZUkdwbWhPeXNlX2hiRlo2STBkR3hhdmhFZThWWkxjN2xoaHJxS296SnhGVlE3VkF6SG92QWZybk52bl9fR3NQclh0RjgyR3BWSy05dGo2Qks5ODVYU3BzYzVJLWdxbnZCRm1MUWNn?oc=5",
       "pubDate": "Sat, 01 Aug 2026 03:24:00 GMT",
-      "description": "Florida attorney general urges Catholic schools to grant vaccine exemptions baynews9.com",
+      "description": "Florida attorney general urges Catholic schools to grant vaccine exemptions Spectrum Bay News 9",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -350,19 +376,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Declining vaccination rates nationwide have doctors brushing up on protocols for Measles - KSDK",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUFBmN1A5RENCMElJd2pWdjRYNlJGc21qMWFJYnZCeWdfbndhaFA1d19oLUhqWGR2cm1DT09BSzNaZ1EzZFB3dFRQU3FxZnFFZjZaNkhhV3ZBeFhpcEVzbFNMeGNDTFhVVmxLY2l6YVQ4Y2dwMjdxcjBZOFpBRGRudW1DdTFFa2MyeEtpeklteDNGcWowb2ZXREV1SHJoMWthUGw4eXQwRkxvRnhzOVo3cTlYY1hKVXdaTUF6dV83cWszSmp3SjRkNXE0ZU5CdGFJemY4VjdTbExMS1pOQlpNU3kyYlJOQWxkaFhScExMS0RYSWx6bXVCRVRB?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 23:22:00 GMT",
-      "description": "Declining vaccination rates nationwide have doctors brushing up on protocols for Measles KSDK",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -458,10 +471,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Lower vaccination rates cited as Florida ranks fifth nationwide for measles cases - WEAR-TV",
+      "title": "Lower vaccination rates cited as Florida ranks fifth nationwide for measles cases - weartv.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOU1EZlNKWnhWa0VxaTlLYUZZUEZPQlhpOVQ0X1F6ME1kaVpaWFNOeWJCNlhvNEx3RkVqbVRjUWFqZWdRRTVRMHpmWDdRbTA5b2tSTHB0VHlVakYtQ0JteUxMSFp3MHRpNHFseFJDSms5Y3FLcTU4dl9QQXN1a0E1em1TaDNvY01EWGpUNElPSEdLN1huTGtmWUx2UHdQcUJUWGMydkZyYjdybXpJS0MtMA?oc=5",
       "pubDate": "Fri, 31 Jul 2026 21:07:05 GMT",
-      "description": "Lower vaccination rates cited as Florida ranks fifth nationwide for measles cases WEAR-TV",
+      "description": "Lower vaccination rates cited as Florida ranks fifth nationwide for measles cases weartv.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -536,23 +549,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Pregnant Patients Caught Between Two Vaccine Schedules Now Have Infant Hospitalization Numbers to Bring to the Appointment - Medical Daily",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRzZtblZXZm5TMVpBajZVMTlHSzV4X1ZxdXd3M2w4VEZZQWhFTU9DM1dDMkVfeC1LbEhCTzFGczMxTUItZW9mNk53ZVQ5NmRvY0lvM3NEQWJTLW1OOW43M0tQOVR2YXA2VHJsa3MxRzY1Q01DRkh3WVd4RWU3TFhrNVZoVXg4aFVfM0RxMUFTQi1mQWhuWU1sQTdNMk1KMi04TlJDb1hsaTFYNEN2?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 19:15:09 GMT",
-      "description": "Pregnant Patients Caught Between Two Vaccine Schedules Now Have Infant Hospitalization Numbers to Bring to the Appointment Medical Daily",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hepatitis",
-      "vaccineLabel": "Hepatitis",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "How vaccine skeptics use storytelling effectively to create powerful but medically inaccurate messaging - japantoday.com",
+      "title": "How vaccine skeptics use storytelling effectively to create powerful but medically inaccurate messaging - Japan Today",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWEhxc1ZNdklWcW0zNjZjU1lkMlk2TFlOYnBDZlZPV0lyMURVUUkyNWRwTTlTSW9pVGJETDYzTFlrYml2eVJiRnRGdXdHSkxINXhmempCVnNzRk1aZi1HblJ0NzliM2FMUzJjWDFqQmNvVXUwRFJDSk41QmlHaE1zcDB6a2I0YmdNQVFDbklwRWplV1hsOUNMc1NuUWl1VUI4NXY3aHBXeVdkeS1yeFdPUW5ELWZUN0paQ19nRGw4UjVta0JkdTFmeks0b0JSQW9MOFA5a1k5YzNScDNvNkcyWC1fTHFqZ2ky?oc=5",
       "pubDate": "Fri, 31 Jul 2026 19:05:00 GMT",
-      "description": "How vaccine skeptics use storytelling effectively to create powerful but medically inaccurate messaging japantoday.com",
+      "description": "How vaccine skeptics use storytelling effectively to create powerful but medically inaccurate messaging Japan Today",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -573,6 +573,19 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
+    },
+    {
+      "title": "RFK Jr., Bash clash in heated interview: ‘This is not productive’ - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ09tcUthWEllckcxTFV6TjRNdzNqc2cteEt3XzY0eGozcFhwR3RmVEI4UTRyYXc0ZUNLa2JmZS1VZV9ZdVhVZEh0QkVwQ3RZUE1IRGNUWS1aSEtPeXNkUksxWTR1RlRDZG9SaXg2a0JLRDFKTkJmSXhzYnBtNFFoSk1vUHlxUknSAYwBQVVfeXFMT2hXcGZwTkgwN1UweHRMOENnSzNvTVRBM29YRWVPV3RMRlFlOHNkLWFZR0dJeHgwYlNHLXRlSVFzM0lEeFJESTItYkVaUm1ua250ODlJWWtsbk9NX3FIN2Jnb3Nha1dOX3dNNnV1TGZDZml0Rm1FYm1WRnpiczgtMml6VTRvX0NVUHJHM0c?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 18:25:04 GMT",
+      "description": "RFK Jr., Bash clash in heated interview: ‘This is not productive’ The Hill",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Childhood Hepatitis B Vaccination Tied to Lower Coinfection in Patients With HIV - The American Journal of Managed Care® (AJMC®)",
@@ -666,10 +679,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Moderna delays norovirus vaccine trial readout because of too few infections - Endpoints News",
+      "title": "Moderna delays norovirus vaccine trial readout because of too few infections - endpoints.news",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNWRSWG5EcGRKSlFHVTNKam9UeXpmWEhLSWVyWW5rM3owWlg0UlBDY0tsRTJLV0x2Y1RETmNPSnFkN0VEbFBKcmZidldwRzJPQ01XSi10Y0RadDJQSExEYVVVanhkcm1kbkNKekRSWjRoaE0zZXFRcE9aY1FmdGUtTDRRU2Q2Uy1Qd2xmUEhBZ3ZYTXl4S3BqVk9sZFJ3WEpk?oc=5",
       "pubDate": "Fri, 31 Jul 2026 16:36:00 GMT",
-      "description": "Moderna delays norovirus vaccine trial readout because of too few infections Endpoints News",
+      "description": "Moderna delays norovirus vaccine trial readout because of too few infections endpoints.news",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -900,6 +913,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Trump admin announces global vaccine group to transition away from shots with mercury - WCIV",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOY045ZzJRT041NER4bld3MWhNX3VQRjctTExqN1lxTFh4bEMyQURlYlFoSjcxNm9EX0FaSTBocFRHaHduMVFFbDdjWUxub3B6NFdhRlBsMWRycHFBeFZYdHVPRmFYVzlqbG5ENHVnRHJURXVIYnBoVXRVeU0zejJGZ3FpZnlfY2ZoblVadm5hSkMwS2lGazJWNk1zT2liU0xrTlNYVXZZSFFCUnlFU1lqNDJDcExld1B4RzJvZVQyVHZyZEstNjJFaFF0OUIyT0syRjdpNXdfQU5GMnllZTg4UFkyUXlvbW9nSDFPWmxWSXBOckhOS1hQbE1leXpHLXJhSlBqUVl4eXZLbTQ?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 09:33:36 GMT",
+      "description": "Trump admin announces global vaccine group to transition away from shots with mercury WCIV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Scientists Seek to Repurpose Existing Merck Ebola Vaccine - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRDRaWE9OT2dnR0xTdFdWUVBXMFRJenNCdzZ1NVE1U08xN1k3ZHc3cWRUdjk0WWFnNVpTanFPOTJ4M3FvR0ZILXJ2QklFaFRmVm5UTnEwTXRxUGVXQlNWTkhPWHBydnVHVVpHVGRvVEZJbTJtRzZkdExtSFpBSXJ3SC1HcUdQczZDRi02MENsd3owV081LWRXVnd2T1NKdDRJT0JSTXA4Yl9LV3dhSV8taXByX2QxeEN4M0dwQnB3cHpNUlAy?oc=5",
       "pubDate": "Fri, 31 Jul 2026 08:25:51 GMT",
@@ -909,6 +935,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT",
+      "description": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -926,10 +965,10 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Arkansas Health Department offers back-to-school vaccine clinics, whooping cough focus - KATV",
+      "title": "Arkansas Health Department offers back-to-school vaccine clinics, whooping cough focus - katv.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONW1EUEx2aGdJN0tKVDE5N1hFS29qUHpsSjEzMlhpUlFEU0VnNTNhY1JiZXhBcGQzT21KXzJ3OGZOQ0RndGkwVHYxMzIyTU5qS0dsRDZCNTUyb09YX0NZRUJOZzctU3pFYnh4clV0bVdBVE9BSG5ma3ZkU2VJekE1Ny1JaERLZTdNQXF2bE5zcDRHTkU3c2c2d2Z5bVNnVW5GRGdZRTJ6RkZPQ1BEM2dLX1Q4WQ?oc=5",
       "pubDate": "Thu, 30 Jul 2026 23:23:25 GMT",
-      "description": "Arkansas Health Department offers back-to-school vaccine clinics, whooping cough focus KATV",
+      "description": "Arkansas Health Department offers back-to-school vaccine clinics, whooping cough focus katv.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -978,10 +1017,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Florida ranks 5th in the country for the most measles cases - mynews13.com",
+      "title": "Florida ranks 5th in the country for the most measles cases - Spectrum News 13",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT2c1ZHBpTy1QSjJNTExVdTNJX0FtM09FbTVrUWUyZzl1V3RLcGFRV09wR3hBY1UweWxodWxJck0zRFVxekg4MjNpb1pTVW1ETTRsU1FrMmdDUUFpUzY2NklIVEpKVy1Wa0VLaWdfcFBfN1h3YjRma29TNXhnWHlvbmJPOXk3RmNZaWY3MFktbHpid3k3UThKczNfNHFXSFM4RDdyTVM0cHRVUQ?oc=5",
       "pubDate": "Thu, 30 Jul 2026 21:15:00 GMT",
-      "description": "Florida ranks 5th in the country for the most measles cases mynews13.com",
+      "description": "Florida ranks 5th in the country for the most measles cases Spectrum News 13",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1004,10 +1043,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Round 2 of rabies vaccine bait drop begins Saturday - VTDigger",
+      "title": "Round 2 of rabies vaccine bait drop begins Saturday - vtdigger.org",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOTUzaE1DWE5UaExqYWNWblRvN0NQaVk2SE93YVpfSkFHZkF2V2pVdnVMc1BQZnBFVFRHNGlYeEVqM0VUWE9XeldUV0E2NWl6Z094NC1FNTdVU1p1MVZqTDJyNlp6cnlvR2RRWk9VMERHZ2tFS09LSWlmbTZSeUoxaml5SVhxMS1iSDAtdQ?oc=5",
       "pubDate": "Thu, 30 Jul 2026 21:10:26 GMT",
-      "description": "Round 2 of rabies vaccine bait drop begins Saturday VTDigger",
+      "description": "Round 2 of rabies vaccine bait drop begins Saturday vtdigger.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1108,19 +1147,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Trump admin announces global vaccine group to transition away from shots with mercury - National News Desk",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQS3FPcmIzSHYzZmEtMUl5UE9Xd21tV0hLeURLaTZXVEhWVlYwTnh1ZENIbVNuT1o3b29wZmFhS3ZVbmVESE03cFNmYXBWc3N5ZkJBdzYybXNzbVljbF82cFhXYkFBVmpGWnZvX2dra1dlU0xFRllILWlkVE5nNXZsODY4RnZnTXd1bk43YWFjcDVDVjlJdnRvbGtiemcwZHZmTTJBZVIySzRuSE5MUUdhN1BBeWxGS1VlOUhIU1JTdFVOTVp5a0ZkQnNhVC1NLWdENS1FTmdKVmZJNU9FLTd0LVF3aTNQaWVDWWhSc05uUDVXeG8zZFNJVWJNVnQzZw?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 15:53:00 GMT",
-      "description": "Trump admin announces global vaccine group to transition away from shots with mercury National News Desk",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Merck, Wellcome partner with global health group to make Ebola vaccine for clinical trials - Reuters",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR1REeGNHUGlqR2hRRGZnaDlhelZwNU1xRUJUemU1OEVrVnk3bWwtVm83LW1JNi1iY1lFaVpFbXBfanVrdURtQXI5VWU2S1lMU19OeTJFUkx4aXhhNWVpb1ViZVBsQ2xoLXY1TjBBR0xYV1BTMXU2Z0djNk5xMjZKeUdyQ3NGREt1eHNTdXdLLS01WFpkaS1yZURiNXJSYi1jUDR6UkFqY1BnT295Z1ZQdXpxalFVSmlfUzZfMUlTOWF1eFlUM0NvQldCX2Y3SE8zR3F2OGZNbFdSaXk2MXlmaA?oc=5",
       "pubDate": "Thu, 30 Jul 2026 15:48:42 GMT",
@@ -1138,19 +1164,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS1RNaUtDcVA0a3pjMmVmYVpZZUFGZGd4NzhCeE1FRkZnM0VSeUNEZlRJalRtSXE1Z0FjYlU1Wmx3V1Z1cDJTUnZiQjJ6UGZ4QWI2SlYtVVhVUElIbE11SG9SaXYzb3FkMDhYOF9maDI3aU1iV3oyQnFQREkyeVhlSFBxdHo0TkFWa01oTW8zQ1YxZ1U2Q2RqSGFtdTd5TnZTLXZtOGZnQQ?oc=5",
       "pubDate": "Thu, 30 Jul 2026 15:40:00 GMT",
       "description": "'Inexcusable deception': RFK Jr., in exclusive interview, discusses Fauci diary USA Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Post-Pandemic Vaccine Gaps Mirror Socioeconomic Disparities - Drug Topics",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObE5uTGFRZHl6QVkzZUdIaC1DUlhzelVQaUEzak1Qd1g0YUtoQzh1cGZRZEd6eU82ZzFCYzRKSVFiQ1Q1VnlGMVNXc0JBNkdGTnJnakFTVWFWa2VfZ3hNaTk1MUc0YWtTbFN4OS1hc0N4QVkzSVZ5QWtIQzFueTh5cVBobzQwa09ydm8yMTVLOWVPalI2X0E?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 14:05:52 GMT",
-      "description": "Post-Pandemic Vaccine Gaps Mirror Socioeconomic Disparities Drug Topics",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1216,19 +1229,6 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbTFPbDhkZGNrQlZxeG11UWw1MDlVUmZYdVJTNWU0NHhadWxuWjUwOE55S1dJQnF1S3JubHRPbXFKQ3pBa2tpNEYweEwzanhoeGJsemlyUmYtdmNGdWJ1ZWVUR3Z3dl83WFdwTHpKYVpHSkZlRGtMSjdvNFEycDJ2RVl4bXBNd3JjdDhZQ3UtONIBlAFBVV95cUxNNVRyRHJ6SkdxSGNSMXRlWXM0bnZtY3lIWmdQXzE4U1lTWXo5Ym9CRDdhRDd3NkRuNjRIYllrbHBnZmxoU2pjSXhvcmdYZmwzVjNIOXdXa1VWeXJJSXU3UEFib0VxWi1uRDhnMFh4Ql9JblFtdVJrZ0I1M0puUVN3bjdQNlBiZTNiRkJ3U2xFcmtPaVJE?oc=5",
       "pubDate": "Thu, 30 Jul 2026 00:34:40 GMT",
       "description": "Trump cuts WHO off from Gavi vaccine alliance funding Al Jazeera",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Trump administration unfreezes $600 million for Gavi for global vaccine effort - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc0VNSkVxaXI4RFdBSVI0RlNJZldkdTZpbGdseW55Q2hCZEpvLUUzcnVfbmllU1BrYmJwQ0NKbWgzZDBOTGt1MjlyMmRvVm5kVkFDMUU2enllYXhCaWtsdjVZQWVaeW9hZmt0MVlBQmlMVHYwY2NyYjdiWklGNHhoSzlCR3V2aGg4dEFTeklVZ21JN3FPaHZod2VjdDBXTTFlbngydHFMamtYMWFjakd4SA?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 23:17:53 GMT",
-      "description": "Trump administration unfreezes $600 million for Gavi for global vaccine effort Reuters",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
