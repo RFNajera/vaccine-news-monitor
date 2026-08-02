@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-02T18:44:25.485Z",
+  "updatedAt": "2026-08-02T19:49:20.948Z",
   "itemCount": 94,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 8
+      "count": 9
     },
     {
       "key": "flu",
@@ -38,6 +38,11 @@
       "count": 1
     },
     {
+      "key": "meningococcal",
+      "label": "Meningococcal",
+      "count": 1
+    },
+    {
       "key": "shingles",
       "label": "Shingles",
       "count": 1
@@ -50,15 +55,41 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 62
+      "count": 60
     }
   ],
   "items": [
     {
-      "title": "RFK Jr tells US families to vaccinate children against measles amid outbreak - theguardian.com",
+      "title": "RFK Jr. Shouts at Dana Bash in Raging COVID Vaccine Debate: ‘You Were Scaring People. That Was the Job of CNN' - TheWrap",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNVpMVjBRZE1jZS1SdFlISDJWcFVjZFoxTlRtLVR0M0JyVUdmbXFfTWFrT0lmbUJoTnJFZXNacjRIbWN4VWEzalFFaVRHWll0LTAxdHFjVWdRVnQ5dVFEQzk0cmljTndfVzdsS1h6NHctNUxyQ1piN0JiVlFxUmdkOXY1TjlCMTladEFKSXI1aUs3MGF4TmZfUw?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 18:51:27 GMT",
+      "description": "RFK Jr. Shouts at Dana Bash in Raging COVID Vaccine Debate: ‘You Were Scaring People. That Was the Job of CNN' TheWrap",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Second Chance Animal Services hosts low cost pet vaccine clinic - westernmassnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeGMwbHljRVFCZ0gtR3M4ZHFVcHFtQkczODNJcVRXeC1zRUxDOWpUb0JickxjTEF1VW15Ykw1ODFDRDR2a0d6UjgtN2hiblNDTUJpQWd1R0ppdm1LbDNra3g4R0ZtX0xmRU5WSVRreDBzNGpBQ0ZNYlRDX3FGRVZld0xDT1BOeHM0eEFBaDBiV0phNHRVUUxuakVab180TGt6NjNNNnRmN0QyZmc?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 18:48:00 GMT",
+      "description": "Second Chance Animal Services hosts low cost pet vaccine clinic westernmassnews.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "RFK Jr tells US families to vaccinate children against measles amid outbreak - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZMU9OZ2liMWJPUmUwLUlpZUVwVkRRbTBCOEg0ZXBpQ05kZDVsQVdnMTBaby1tM0kyWG1jTjd6N05VT09BREVVT1NGbkZIbkJUb0FoUmxTTFNsT0czNTVfWjlXR0tQOGg4MzFjdVpDWmRyZ00tbmxERFR6VXE5SGM?oc=5",
       "pubDate": "Sun, 02 Aug 2026 18:28:00 GMT",
-      "description": "RFK Jr tells US families to vaccinate children against measles amid outbreak theguardian.com",
+      "description": "RFK Jr tells US families to vaccinate children against measles amid outbreak The Guardian",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -146,10 +177,23 @@
       "articleLabel": "News"
     },
     {
-      "title": "How to find the vaccination rate in your Texas school district - Click2Houston",
+      "title": "Yemen urges international action to protect children in Houthi-controlled areas - Arab News",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JNEVTVXlpNVZXTDN0dmtXd3VGN2NMQ0lzR082X2ZFc0RmcFpzM3BOWUpWRnlMaXBTakVLSzRYb3IwUXc5YXY0MHlaRVhMRzBBaUhNUlM2YWF4NUg0bVE?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 16:03:01 GMT",
+      "description": "Yemen urges international action to protect children in Houthi-controlled areas Arab News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "How to find the vaccination rate in your Texas school district - click2houston.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb1ZDNFo1aXVPcUZFanYtZ1VoOEp4c0p4djVIeWh3Sm42WTRsZWhDeG9PNlE2WHU5cThpeklhcnRDWUJwTFExSTh1MGZjQWJJSG9aQU5RQjhnSFZaZ3FWeUEyeXI3UnZsZHktTVR5SnlmeUgxd1luNnNBNjVkU3U0TDVsV3VZTy1sTGdlcWJ6YTJUQkpIUFNwVThrWHBOMmlNbkltQXY4bmR5VDBSUTJXMWVnMFpwQQ?oc=5",
       "pubDate": "Sun, 02 Aug 2026 13:33:25 GMT",
-      "description": "How to find the vaccination rate in your Texas school district Click2Houston",
+      "description": "How to find the vaccination rate in your Texas school district click2houston.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -185,10 +229,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "US officials focus on identification and rapid action as measles cases rise - theguardian.com",
+      "title": "US officials focus on identification and rapid action as measles cases rise - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jQm41ZzFQaUVnQWx5b2w1dEpjbnZoME1seGxUSGFhVVRJbjFzUXZTX2pMeHpST0tib3lua1lwUzhacFBZakE2OVIxRTJqY2xqdWUwb0lBdkJuN05qMnM1enNCTFBuTHMzZGhsSl9oZzNIQW1LUjJZX2Q5QlZhUQ?oc=5",
       "pubDate": "Sun, 02 Aug 2026 11:00:00 GMT",
-      "description": "US officials focus on identification and rapid action as measles cases rise theguardian.com",
+      "description": "US officials focus on identification and rapid action as measles cases rise The Guardian",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -237,36 +281,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "String of Outbreaks Tests US Public Health System Amid Funding Cuts, Vaccine Resistance - Royal Examiner",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeUpBazg0MmY4RllwUDFIeVJuV29TZ3JQWFpQVVVGZTdwSWFnRDZQa0RrM09HNWszN3A5SEpQSnhEa3lqb185eDlsT2QzMlAtN0pWWGFYblhrYUVkOVlWWkdTeUZ2ajZTX3NTOUJLUDFjSUpJNUppb1FnQWtkaDR2dldwWjhGVTNpRHJqUE1OVFVlRGZpUmp4bS15T2ZHS3FBS21vUlctSU5RVWdYMTJheWw2TQ?oc=5",
-      "pubDate": "Sat, 01 Aug 2026 22:07:56 GMT",
-      "description": "String of Outbreaks Tests US Public Health System Amid Funding Cuts, Vaccine Resistance Royal Examiner",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Jewish Tulsa, Tulsa Health Department host free seminar on vaccine hesitancy - KTUL",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeF9RTWZmRmVBUlQwcWNib1FmZHlGNjV3b1UzbDg1QlVsWmZ6OVpOdEpYbHRLRlNaMnk5MTdMQmwxd3VmcTRxM2F3V1RCMkZGZ1dsYnM4XzlMeERtRGdBWkJVMU1aSllrQldwc0xVTVA4MzctNmRqc3pDQ0JMdkEzY0VSUV9GWUZBa3l2azVkMmVhYkt0NllvbV9LM0JBam15RGg2bjYxSXQ0eW96Ums2c0hvY20?oc=5",
       "pubDate": "Sat, 01 Aug 2026 21:56:50 GMT",
       "description": "Jewish Tulsa, Tulsa Health Department host free seminar on vaccine hesitancy KTUL",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "No cure, no vaccine: Experts warn of rare Bourbon virus after first NY case - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMWFsZ3BzOXNvVXlKeUw5d21jU1RTRnRsM3BHRlh1bXE2TFI5SFYtcERpX1doUmVuNWJxLVMzeDltUFI0NElLTmJReDJ0aEplb0ZzeDI3cnRqc0M0LWRmcFhWTm51MzhyTDlmQm1KYlc3SVRkZDZrcG43UHpCcGo4aGdQZHAyVXBlT3RaMWU3UGFtRFp3Q2dhV3Nud21mY283WFh30gGoAUFVX3lxTE1UZTBUT3NwbEEzdVZ3TEJNSEZ6S1BValJGZmJvalJxTzVDa25mV3AxVjJ0bVFNQTdncl9XUmFYNnhWblFEQzFSOTVlbGUxUko0dXk3Y3NGbFNIN2daa0drM0dJVWk4bFZGSVZ3c0R1dnhqVEVNSWxPQjBEWFJUTUtZYllCX2UzWENfM3IwS0U0QlBkbl9kc3I5Tlh0dHN0X1lmUnpKMGJGZA?oc=5",
-      "pubDate": "Sat, 01 Aug 2026 19:14:59 GMT",
-      "description": "No cure, no vaccine: Experts warn of rare Bourbon virus after first NY case Fox News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -289,10 +307,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Trump vaccine policy reversal deepens rift with Health Secretary Kennedy - report - The Jerusalem Post",
+      "title": "Trump vaccine policy reversal deepens rift with Health Secretary Kennedy - report - jpost.com",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tRnBLQmdKZXY5djQ4N05XaGVFWXI4RUpxekQyZGpiWEtvUDdrZE0tZU53WDFrVlgtZjJaZTlCSjFMRF9YWHpaS0IzR1VwVHV3c1NWVFRITElfbzJzUUlmUlhoQVM?oc=5",
       "pubDate": "Sat, 01 Aug 2026 11:08:15 GMT",
-      "description": "Trump vaccine policy reversal deepens rift with Health Secretary Kennedy - report The Jerusalem Post",
+      "description": "Trump vaccine policy reversal deepens rift with Health Secretary Kennedy - report jpost.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -306,19 +324,6 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GSWlVVWVZTlZ0SjhmYjJqS0I5UDNSaS1EY2xRSElFa2dHNldPWkhGUW1TaGgtS3VYRGM0TWprOE56OUltWEpTalU2SVdiV2cxbWRmbmZ6ZGFZZzYyMXI2d0hhZmdRSTJmTkc0aDZrdmw0ZDc5MGlZZXJvR3p1QQ?oc=5",
       "pubDate": "Sat, 01 Aug 2026 11:00:00 GMT",
       "description": "FDA weighs a new kind of flu shot based on technology RFK Jr. has questioned NPR",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Florida Attorney General pushes Catholic schools to grant vaccine exemptions - Tampa Bay Times",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQUlER3Z2RW1Yam1lSDAyNFVQRm5pTVVGbVRaQVV2UFN2YW9qTklIendZVjZRUFhxSk1hWlRsSlFnaWlyNFRGeDQ2RUx6T2pXMG9ldy1lWWtLM3h0ZjQ2d2FVRTAzQXM0T3JtVTBKTHFHLWJEd0pqQ1VVZ3oyc1MzdUgyemUwRU9UNjIzUGQ1dUJuLTVxUlN1Yld1VUgwajFXQ19YZEtUeV9NZXhBcUhRVEp4ZEFQWUR4OWhB?oc=5",
-      "pubDate": "Sat, 01 Aug 2026 04:11:00 GMT",
-      "description": "Florida Attorney General pushes Catholic schools to grant vaccine exemptions Tampa Bay Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -471,15 +476,28 @@
       "articleLabel": "News"
     },
     {
-      "title": "Lower vaccination rates cited as Florida ranks fifth nationwide for measles cases - weartv.com",
+      "title": "Lower vaccination rates cited as Florida ranks fifth nationwide for measles cases - WEAR-TV",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOU1EZlNKWnhWa0VxaTlLYUZZUEZPQlhpOVQ0X1F6ME1kaVpaWFNOeWJCNlhvNEx3RkVqbVRjUWFqZWdRRTVRMHpmWDdRbTA5b2tSTHB0VHlVakYtQ0JteUxMSFp3MHRpNHFseFJDSms5Y3FLcTU4dl9QQXN1a0E1em1TaDNvY01EWGpUNElPSEdLN1huTGtmWUx2UHdQcUJUWGMydkZyYjdybXpJS0MtMA?oc=5",
       "pubDate": "Fri, 31 Jul 2026 21:07:05 GMT",
-      "description": "Lower vaccination rates cited as Florida ranks fifth nationwide for measles cases weartv.com",
+      "description": "Lower vaccination rates cited as Florida ranks fifth nationwide for measles cases WEAR-TV",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Answering FAQs About Meningitis & the Meningitis Vaccine - University Health",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPamNncjV1UWRJeEZidHVPUGFTT2hUZE1JTTRMWjF6Z1RDQmZUSFF0dFVfOGpfallia09EVGFiRWNESEdmNU5mMFpEdEpGTEFUTFNVRTVrZ2hqZF9XVFFKcm5PRnUtSHlTSmE1ZFp3ZWp5Qk1yZGU0bnZFd1NDdHAydWJralhIQQ?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 20:37:17 GMT",
+      "description": "Answering FAQs About Meningitis & the Meningitis Vaccine University Health",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "meningococcal",
+      "vaccineLabel": "Meningococcal",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -497,10 +515,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "RFK Jr’s undermining of vaccine science and official data is eroding institutional confidence in American healthcare - LSE Blogs",
+      "title": "RFK Jr’s undermining of vaccine science and official data is eroding institutional confidence in American healthcare - blogs.lse.ac.uk",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUGpLa2h6VC1rN1VhYUYwUVZlNUw4RzhJQkdVdXo4YWFwT3dUOXZVSGI5clZ1SEpyM3BmMFdGeG5uOHQtTTFWYlhkcTNsdUp0aGx1cDJOZ0thbGxOa1dac0pwb2FSVHRwYWNtWklhVTdiM0lZRkM2MzR4cWE4eE0zUXprMUJUS0ltUS1ieWlkc1pBS2tjSFlNTzEyd2Y1UndydWxoSlhJSDYzVjRpUS1vMVFTWkZZamdmaU5FWVFmdWN4MVd1V0JCXzVqb1NaWndPU3YwVmZ2TnFRM0pfSkZQSUFjTFF5WU5WSngzNlRjQ3VSWEU?oc=5",
       "pubDate": "Fri, 31 Jul 2026 19:56:37 GMT",
-      "description": "RFK Jr’s undermining of vaccine science and official data is eroding institutional confidence in American healthcare LSE Blogs",
+      "description": "RFK Jr’s undermining of vaccine science and official data is eroding institutional confidence in American healthcare blogs.lse.ac.uk",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -588,10 +606,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Childhood Hepatitis B Vaccination Tied to Lower Coinfection in Patients With HIV - The American Journal of Managed Care® (AJMC®)",
+      "title": "Childhood Hepatitis B Vaccination Tied to Lower Coinfection in Patients With HIV - The American Journal of Managed Care",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbDZ1MHdDRUZUYS1ZeEFDZGExWDNJMFJvbzFybVBWUE5tMW5nZEQ1VXp1YVlESkh4MUlpOWlJVkpVaFByS3RwbzFTbGRNVmtpQTlrZGg2ODNpdnRUZG9ZN0xTTHhmR3RqeTZVbWxiV21Bdm04dnBnaGNBbk0zVklnU1otckFNdXhaT2JaS0l2V1J6T282S1ZyRFJIckdQemJyYzJjMllvZXZZUQ?oc=5",
       "pubDate": "Fri, 31 Jul 2026 18:10:10 GMT",
-      "description": "Childhood Hepatitis B Vaccination Tied to Lower Coinfection in Patients With HIV The American Journal of Managed Care® (AJMC®)",
+      "description": "Childhood Hepatitis B Vaccination Tied to Lower Coinfection in Patients With HIV The American Journal of Managed Care",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -627,10 +645,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Epstein-Barr Virus Link to MS Spurs New Vaccine and T-Cell Trials - The American Journal of Managed Care® (AJMC®)",
+      "title": "Epstein-Barr Virus Link to MS Spurs New Vaccine and T-Cell Trials - The American Journal of Managed Care",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZVZuQTJjaW5IRWVMV3hKeUtjczB6QUZjOGU4N25yNHdzNTJLWjlnYjJ1bWFrZ0VCOXVpMzQ1OEhSUzE2dzBCNEctVmpYNTNneTh3R1NUYjI0ZTN6Wk1kX19Ram5TT3Fwbkt4WHQ4V0VCQmNuWGZSSWk3TE9mTW1QdGZnWG85U283dlRJV0FfRXZfRTlyYnc?oc=5",
       "pubDate": "Fri, 31 Jul 2026 17:46:52 GMT",
-      "description": "Epstein-Barr Virus Link to MS Spurs New Vaccine and T-Cell Trials The American Journal of Managed Care® (AJMC®)",
+      "description": "Epstein-Barr Virus Link to MS Spurs New Vaccine and T-Cell Trials The American Journal of Managed Care",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -653,19 +671,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Human Ebola Vaccine Trials Begin, a Newly Discovered Dinosaur from Zimbabwe, and Wildfires in Europe Are Producing \"Fire Clouds\" - Discover Magazine",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZWVZaVpWY3A3Mlh0TXF4NVNzNFNPYTJzb003cWswSXFITnI4S1ZGODNrZUgzWV9lYVBvRnlEeDAtWkR2RlF4cXFXQ1pHN0JmdEtLYU1uQi1UYnFVV1JubnZTUTJtSWV5TXFpdkRiZzVWTzBFbHp2Y3IyX25PTDgtYmo0SGpyMi1NR2VWMGJhclJzRC1UVF9WS0lOdDZvcmhwbm1EQnVqQmZUbzlfc1M5SmpzNWRvaXNXc2JlamdvWGptQ3FSeEFDQzg5MlZSVnB6d3BwaUYzUmlheWVZaTBPRFBwNGdnZkxGV3RJQnJLUEhYNklPa3c?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 17:06:33 GMT",
-      "description": "Human Ebola Vaccine Trials Begin, a Newly Discovered Dinosaur from Zimbabwe, and Wildfires in Europe Are Producing \"Fire Clouds\" Discover Magazine",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Stephen A. Smith Shares Apology to Kyrie Irving for Criticizing His Vaccine Stance During COVID - basketballnews.com",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRXkxVjRGa2gwZkEtcWtub01HWEJtdjBpWWI1NkFBb0JhQWs0TXpwaFFOZndLeHFVcnU4OHlCZzhiWHlsWUlkRld6YnpFa3pTNXVMMGNkZFF4SUNFbTJpS25VcEFEREhVUmdDaGRKN2huWnQ2SWMtb0h3dWFKSm4tSkN1X0c0TVJoSEdDZEViQ3czbGIycUdFV3Jyd19keVRwbnJFV1RCSEFVeUpJaV9TM1ZYWW5NYVhSSU9wTE1EX1VBNWhrTnNqUUtldEJ3cENMaU4yRGpUZ2dGYmJCU1IxWmRoZXhPRnpfdmpTVkJRall3Tzdo?oc=5",
       "pubDate": "Fri, 31 Jul 2026 16:36:02 GMT",
@@ -679,10 +684,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Moderna delays norovirus vaccine trial readout because of too few infections - endpoints.news",
+      "title": "Moderna delays norovirus vaccine trial readout because of too few infections - Endpoints News",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNWRSWG5EcGRKSlFHVTNKam9UeXpmWEhLSWVyWW5rM3owWlg0UlBDY0tsRTJLV0x2Y1RETmNPSnFkN0VEbFBKcmZidldwRzJPQ01XSi10Y0RadDJQSExEYVVVanhkcm1kbkNKekRSWjRoaE0zZXFRcE9aY1FmdGUtTDRRU2Q2Uy1Qd2xmUEhBZ3ZYTXl4S3BqVk9sZFJ3WEpk?oc=5",
       "pubDate": "Fri, 31 Jul 2026 16:36:00 GMT",
-      "description": "Moderna delays norovirus vaccine trial readout because of too few infections endpoints.news",
+      "description": "Moderna delays norovirus vaccine trial readout because of too few infections Endpoints News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -770,10 +775,10 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Harrison-Clarksburg Health Department monitoring measles case, encourages residents to check vaccination status - WV News",
+      "title": "Harrison-Clarksburg Health Department monitoring measles case, encourages residents to check vaccination status - wvnews.com",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPOXBETVVnbUNIZ2c1aEM4cUlKX016ZW51a1VFNmNKQk9FdTZzM3F1ejVlWjNVX2J3ZlQ0b3hTb1ZKODJ2LU9zaFZuMjV3OGRDam9aLXlEeGJWcEdlaGdFVndwTmVPRkxQZFNTVnhnVmhTSkZ5QmMxay04Z0FoYW5LSUF1TDdRSFBKQUtpbGZzOV94d3RPTG13ZlY3SUFCVmIwcXUzajMtd0M5b2poSUFwTGtKVUhlZ3A5WDNKdzNoYTMxNF95MktUVXJ6Z2hZT1E2RDgtblpJTVM1TVpmZ2JKbkdtMGRySzZITWgtWm1JZWFhb0xxNTFPVXJKeVZzdG1tR2FyMW9pa0lzSVRQeHg1Ug?oc=5",
       "pubDate": "Fri, 31 Jul 2026 15:00:00 GMT",
-      "description": "Harrison-Clarksburg Health Department monitoring measles case, encourages residents to check vaccination status WV News",
+      "description": "Harrison-Clarksburg Health Department monitoring measles case, encourages residents to check vaccination status wvnews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -965,10 +970,10 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Arkansas Health Department offers back-to-school vaccine clinics, whooping cough focus - katv.com",
+      "title": "Arkansas Health Department offers back-to-school vaccine clinics, whooping cough focus - KATV",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONW1EUEx2aGdJN0tKVDE5N1hFS29qUHpsSjEzMlhpUlFEU0VnNTNhY1JiZXhBcGQzT21KXzJ3OGZOQ0RndGkwVHYxMzIyTU5qS0dsRDZCNTUyb09YX0NZRUJOZzctU3pFYnh4clV0bVdBVE9BSG5ma3ZkU2VJekE1Ny1JaERLZTdNQXF2bE5zcDRHTkU3c2c2d2Z5bVNnVW5GRGdZRTJ6RkZPQ1BEM2dLX1Q4WQ?oc=5",
       "pubDate": "Thu, 30 Jul 2026 23:23:25 GMT",
-      "description": "Arkansas Health Department offers back-to-school vaccine clinics, whooping cough focus katv.com",
+      "description": "Arkansas Health Department offers back-to-school vaccine clinics, whooping cough focus KATV",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1043,10 +1048,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Round 2 of rabies vaccine bait drop begins Saturday - vtdigger.org",
+      "title": "Round 2 of rabies vaccine bait drop begins Saturday - VTDigger",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOTUzaE1DWE5UaExqYWNWblRvN0NQaVk2SE93YVpfSkFHZkF2V2pVdnVMc1BQZnBFVFRHNGlYeEVqM0VUWE9XeldUV0E2NWl6Z094NC1FNTdVU1p1MVZqTDJyNlp6cnlvR2RRWk9VMERHZ2tFS09LSWlmbTZSeUoxaml5SVhxMS1iSDAtdQ?oc=5",
       "pubDate": "Thu, 30 Jul 2026 21:10:26 GMT",
-      "description": "Round 2 of rabies vaccine bait drop begins Saturday vtdigger.org",
+      "description": "Round 2 of rabies vaccine bait drop begins Saturday VTDigger",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1173,19 +1178,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Trump administration unfreezes $600M for Gavi global vaccine effort - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LRjRKYjZLQnF2b1NHZjI4elhtNjduNlJUUkVVZUY3OEpVWnBoakhVRlJFc1lRVFpZZ0YwNThJNTZnajlKYXRsWkpxUXhOSXFoWGRCN2dkODZTYjRtSmF3ZmFMTm9WczdzUXJ4THF4M1FsRHQ0NzBTeWRzRURCUUHSAYQBQVVfeXFMUDRRbkFySXNQMjB5WE5ncF9kZlpyU2JTbU52SmNnMldwM2ZiVG9pWXNSa2UxeXE5aEJpMU9Takd0NE43YmhYYkNrdjRjUWRxLUQxM29FMGdJQk5KZWc3R2x5N0xHMHJIQmxhYXljODRtYk44QWkwRE54STlfMXNZR2pTUTFK?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 14:02:00 GMT",
-      "description": "Trump administration unfreezes $600M for Gavi global vaccine effort The Hill",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Pediatricians and health officials are sidestepping Trump's CDC on vaccine advice - NPR",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNk9OQkhHVW52Q0lDS2tzVlJLVmZqYnZ0MEJDZWd6cy1RS2pzRG1Jc0VjS0trcXMyVTdpUVVpZ1M1ZWQxU2NKSXZwT2xMa3ZJd0hiRlRaV3RwNUVQN2UyMXh3Qnh1di1Zcm5LWTFmTUVJRWJMbXg4LW13ODhlOGFLT1kzek1NREJ1LVlpaGtMU0tWSTFMQ1RHTFpHaXp5ODROck0yYmxQVGpfeGpHYnU1c2psOA?oc=5",
       "pubDate": "Thu, 30 Jul 2026 09:00:00 GMT",
@@ -1199,10 +1191,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "MSU vaccine experts offer science and solutions as measles surge, school starts - Michigan State University",
+      "title": "MSU vaccine experts offer science and solutions as measles surge, school starts - msutoday.msu.edu",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfYjMzcTdVZjhJTnB0TVZ1aUpXS2lEdmF6MGJqakhIcXdTUmFSbkwtVHZ4TWtHTkhGS0VhdEZ3WUZYa1hVN3hjSkZwamI3Wk5YYlNqT0YydURMWDZEUTgtNTdsczNVTWItMjRaRmNB?oc=5",
       "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "description": "MSU vaccine experts offer science and solutions as measles surge, school starts Michigan State University",
+      "description": "MSU vaccine experts offer science and solutions as measles surge, school starts msutoday.msu.edu",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1229,6 +1221,19 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbTFPbDhkZGNrQlZxeG11UWw1MDlVUmZYdVJTNWU0NHhadWxuWjUwOE55S1dJQnF1S3JubHRPbXFKQ3pBa2tpNEYweEwzanhoeGJsemlyUmYtdmNGdWJ1ZWVUR3Z3dl83WFdwTHpKYVpHSkZlRGtMSjdvNFEycDJ2RVl4bXBNd3JjdDhZQ3UtONIBlAFBVV95cUxNNVRyRHJ6SkdxSGNSMXRlWXM0bnZtY3lIWmdQXzE4U1lTWXo5Ym9CRDdhRDd3NkRuNjRIYllrbHBnZmxoU2pjSXhvcmdYZmwzVjNIOXdXa1VWeXJJSXU3UEFib0VxWi1uRDhnMFh4Ql9JblFtdVJrZ0I1M0puUVN3bjdQNlBiZTNiRkJ3U2xFcmtPaVJE?oc=5",
       "pubDate": "Thu, 30 Jul 2026 00:34:40 GMT",
       "description": "Trump cuts WHO off from Gavi vaccine alliance funding Al Jazeera",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Trump administration unfreezes $600 million for Gavi for global vaccine effort - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc0VNSkVxaXI4RFdBSVI0RlNJZldkdTZpbGdseW55Q2hCZEpvLUUzcnVfbmllU1BrYmJwQ0NKbWgzZDBOTGt1MjlyMmRvVm5kVkFDMUU2enllYXhCaWtsdjVZQWVaeW9hZmt0MVlBQmlMVHYwY2NyYjdiWklGNHhoSzlCR3V2aGg4dEFTeklVZ21JN3FPaHZod2VjdDBXTTFlbngydHFMamtYMWFjakd4SA?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 23:17:53 GMT",
+      "description": "Trump administration unfreezes $600 million for Gavi for global vaccine effort Reuters",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
