@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T18:59:45.984Z",
+  "updatedAt": "2026-08-03T20:00:34.614Z",
   "itemCount": 95,
   "groups": [
     {
@@ -10,17 +10,17 @@
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 3
+      "count": 4
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 14
+      "count": 15
     },
     {
       "key": "hpv",
       "label": "HPV",
-      "count": 2
+      "count": 1
     },
     {
       "key": "hepatitis",
@@ -40,28 +40,93 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 64
+      "count": 63
     }
   ],
   "items": [
+    {
+      "title": "New online tool lets parents see vaccination rates at individual schools - WFMZ.com",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSWUtNG0zMllGcWdQWk0tTTlWTWpwdzlvZVJtMjZndmM0VnBtcS1NcTJXOUUyRmhkck1oV195LWpoOVRXVnQ5WjlaaGVmSHFYZFk4RnZDcjQtY0Q4ZGRsbzB1YkJPMC1qRllRdThfcVViX0l6dkY5WXliOTJGb1RWcHhPMTJadEhKa1pfUF9nQmxYQ1lIeFRxQlRjV2lzeHNVRExrZHpZRkVwZEZLUm1HZzc4dnJEMmtZczFpcFdqZU9ZWUxGRmxFanlodHRqVkFqMjlqVVpMM2w4OXMwbUp2WjlETEdwUFpvTzNDdnRGNDViRDRFSGR0cmtn?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 19:46:00 GMT",
+      "description": "New online tool lets parents see vaccination rates at individual schools WFMZ.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Measles shots: Mop-up drive does a lot better - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd0NhbV9aSmRlaHJ1SFVOWmRDeUhKRDZKb0o2Yk0xRHRQei13M1p1M25MRkkxVXhoX0R3LWpqUGYxVmJaLU5KT1VLbGsyUk5SeDhkc2xjZTUySWxfT3VMdWZKZkt1TXJIWGl0V2s3M3FzakJTa0VFN2FTX1ZnRDlsU3hRSzh5dGV4QlhmaDJCQnRLWWk3bFh3RlpKTHlsQQ?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 19:43:29 GMT",
+      "description": "Measles shots: Mop-up drive does a lot better The Daily Star",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Shapiro Administration Launches New Tool Making School-Level Vaccination Rates Available to Parents, Boosting Public Health Transparency - pa.gov",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeVd3SnVYb2xSSFlJeE1iRlNQLXB2czNwMUk5Wk8yVTFHWUE2QWpaYmdEdDZGMDgxUWJwZzZPZGNKUjE5bjhBUzc2MnBOSjdXRTYxSWJ4bHlLSHo0UHZMN0NFaUV4T0JGcko2ek9EaTM1MkxLd0Z1WXVhRUpLSi04eTJpZU9nRG5rVlRTRXJfU19LbjBTdHpzOVlWZ2hPVHdBaGc2TXl1OFRGY1No?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 19:40:40 GMT",
+      "description": "Shapiro Administration Launches New Tool Making School-Level Vaccination Rates Available to Parents, Boosting Public Health Transparency pa.gov",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Ebola outbreak in DR Congo now second-deadliest in history - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSEo1aHpTWllacXZ4bE9vekxFZVA0UGRvb19FeVZ4b1JHbENJaWZDNUc0cEFsMnJIbXNhNDQ3SVl2UDJZS3VJOUExOVVaTTJmZk15RjF5czRXUkc2djBTYl9XbGctUmVJc3lrVG5nVGNBMFZFZ1ZxMl9GSGhKOW5JcWNDNlA4UGZfM1BzRkxR?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 19:38:00 GMT",
+      "description": "Ebola outbreak in DR Congo now second-deadliest in history CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "No link between MMR vaccination before age 2 and autism, large US study suggests - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVFk4Nlp3enNJblA4LVhyOVFmeW1uSFl1VVJDZFVCZnJ3SE9fYmtyd3pDWFlXaXFvc0lPUWU4bXE1VDBBcHlsR1dKaEpjT1JWVzh3Ui1BYmZleWFXcjQ0WWVRMDk3N0w5cENRWGlRNXRLTV8xYkYzZEp0ZndjMVMwUldxeFprZGFuall0bXJqRk9EdDRIbHpkbktnSy0xT0R0Y3pOY2RBUVYzS0YxUlFlYUNBQ0NSQTdPSXc?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 19:30:00 GMT",
+      "description": "No link between MMR vaccination before age 2 and autism, large US study suggests CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "What's new in canine and feline vaccination guidelines? - DVM360",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSm1RS19idzJnM3VzRFVvcDNzM1R3ZlBUb1hqWE1BdkdoZ051UnlOb1hOVkd4VVNnRGNUUUlmMmRNMkJZYkR6RVV3bU13QnpSTGpPYXZ3Qk1aaW40Q3JiYm9RRlFSSkJPUVYzR1c3WHhaYmxrY1JLeVZyV1FScmxwRVp2dFozSl92Q2dR?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 19:28:59 GMT",
+      "description": "What's new in canine and feline vaccination guidelines? DVM360",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Woman Who Developed 3 HPV-Linked Cancers After Husband’s Affair Speaks Out, Urges Vaccination - For Women First",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSXJZYWJZTmdMUXJ4VzNkYTlMMGtwRHRTNVY5MTJXcThDNHd0X2kxSC11cURqWDVnRzdMa0FmX3FNZzczZXBxYzNTNUNqY0FOMlNhVXg0NXBuQVl5c0V0S2xFRmxBVmgtZ1lDUHRLa0pyNGpTaXYtWmJkZTlfSkhMUXBERjV2NmVZTjllOWVoQWFsNWpUb0hFTHE5S0hzdTlUVXBMRmN5TjFiYzdxMGMyTzdHNHhOaWM2MkE?oc=5",
       "pubDate": "Mon, 03 Aug 2026 18:30:36 GMT",
       "description": "Woman Who Developed 3 HPV-Linked Cancers After Husband’s Affair Speaks Out, Urges Vaccination For Women First",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hpv",
-      "vaccineLabel": "HPV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "HPV Vaccine Can Eliminate Cervical Cancer: Dr. Nori - IndiaWest",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQlF6MUgwRjNweWViVXNSTllkeUNqU3gwLTE1ZVNoT0ZJWE5QYTZjWkt5NnBHNC1ZS1JPcG85OXhVSzM4cnRLZWJnOGhJeTBSODEzTXZEMWh1cnNncTRZallVcHktdnZ6ekJYbUJ5bjV3OGJvUWlmUWtuNUJSRERuSzExUkIycTBleWliVQ?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 18:19:52 GMT",
-      "description": "HPV Vaccine Can Eliminate Cervical Cancer: Dr. Nori IndiaWest",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -82,19 +147,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "NAFDAC, OAU Join £3.7bn Oxford Vaccine Safety Research - Real Broadcasting Network",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcUg4SkV5dGxHa1otaXBVdmZYbmFwYW10bkZ5YnlYcjBkcXphZTZqSlhCUjFVYVN0Q0JWeGRNbTVvdUtOQzVLZVlsb2UweW1NbHg0cnctUzFiUjQycmZXT2VfWTZ1Wm1YTlBfUXFmMFFqQVBQMWNuN3B1ZDRNLTBPX0g3Z04tNXdlSkwzX2Zoaw?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 18:10:19 GMT",
-      "description": "NAFDAC, OAU Join £3.7bn Oxford Vaccine Safety Research Real Broadcasting Network",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "No early success for Moderna’s norovirus vaccine in phase 3 trial - CIDRAP",
@@ -149,10 +201,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Back to school: RFK Jr. backs MMR vaccine for kids - KITV",
+      "title": "Back to school: RFK Jr. backs MMR vaccine for kids - kitv.com",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMlY4ZExQLTZsRTA5TGcyYXRlWF9CTFZIM24tUko2VDRrZnBBYmVnUUJYeDFVQkRKTUtFS2lWeWlod1dudndrX3dwZ1dlYUpOMndEY29Lb2FiYzVjdUNHUzJLNFhscWU3bEpJR1huWHgwQ0dHdXltNExiN1BoUUo5d0hSVDMwMGVwRzViQTZ3bjhkWEVRWmpsMFhkZmFpZ0Nlc1EyWE1EZ0huRXhjNWdiZzU0cUdPWE4xclp4aFdQY1c5ODFnZmh3?oc=5",
       "pubDate": "Mon, 03 Aug 2026 17:23:00 GMT",
-      "description": "Back to school: RFK Jr. backs MMR vaccine for kids KITV",
+      "description": "Back to school: RFK Jr. backs MMR vaccine for kids kitv.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -201,10 +253,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "RFK Jr. pushes measles vaccine and blames Fauci's COVID-19 handling - news.lee.net",
+      "title": "RFK Jr. pushes measles vaccine and blames Fauci's COVID-19 handling - Lee News Central",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNeEdlTnp4dE03R3d6NmNlRlFlODJiTFExWEFITFNsaTlnU09yRzI0Z3oyOVRkSmtWQnlYN0drNm85R0Zacnk2MktOOVJQYllwMzFxUXpnYTNlQUkySlpCbVVKTmk5OWFHQ1lkcHY2RThCaXF3NnNhU010RlNBNHgtS1ZZdDNxQ05NUm9qZ0tBeUlVN0RvM0MzTy1ZdFY4emtQMFhZcTRpQnhyUWthdGlkOWUwSzJ6UmQwLUVCZHBfamo0TVVoa09TcGZJR0g1MHdjRGRJWV9ka012SlcxeEYteUhhOGxlTzJjYkV6X3BkLWRkcWhCR05xMjk2OGl3VzJDYUppNw?oc=5",
       "pubDate": "Mon, 03 Aug 2026 16:30:00 GMT",
-      "description": "RFK Jr. pushes measles vaccine and blames Fauci's COVID-19 handling news.lee.net",
+      "description": "RFK Jr. pushes measles vaccine and blames Fauci's COVID-19 handling Lee News Central",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -331,10 +383,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Florida threatens to defund Catholic schools in vaccine showdown - independent.co.uk",
+      "title": "Florida threatens to defund Catholic schools in vaccine showdown - The Independent",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORXRjN0FMc0ZBVUE3bXkzYTE4dE9wUDdyQ1EtWW8zRnVCOTBzRmZmTXdTYzhRY0pCd2FzWlRsSFFBbXk5ZkR1OHQ4dkVXektsY0kxdzIwVWJOejdfRjR2QkJIOHpDNEd4RUxIbkE0UHQ5X1pCZms2RlhOZU9INlBIQ2dPYTRfSTlBMmFuZDdkLXZkMk1fR0wydkxvVF9VTlcxRlVEUQ?oc=5",
       "pubDate": "Mon, 03 Aug 2026 14:32:00 GMT",
-      "description": "Florida threatens to defund Catholic schools in vaccine showdown independent.co.uk",
+      "description": "Florida threatens to defund Catholic schools in vaccine showdown The Independent",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -422,19 +474,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Back-to-school vaccine schedule updates: What South Carolina families should know - WCCB Charlotte",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUVF6dTJNREc1RDR1Q01PQURPU0FZTE1xdFVwVGZGdV9JZXJWZXhjVnYxMzRObDlYNm1rQjg3YnNFdzZibDVibFgtVTZQOUN2SEZvb19nOEpjenZkLXdzTGhrTlBXSnpKTUlTZ3FsVi02TnZuRTVMTGFZaXFFM2NrZFlBdVpvNHdFQWdEY0M3eVNPdktWTUZJX2Ywd21CWkE2LVJrb1liUE0yQWFkX052cDlHMXhac1p6TllfZXdjRQ?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 13:40:01 GMT",
-      "description": "Back-to-school vaccine schedule updates: What South Carolina families should know WCCB Charlotte",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Preserving vaccine progress depends strong, fact-based public policy - Louisiana Illuminator",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKSXJsS2VQd1Jucll2OTVqZ2dUV0dzYS1zcTRUa0JHbHo2OHFjbmxyT2tsUXZDSFhHRG5JRTJla3UzWS0zWlNmcHpuLXFFTlVLN3ppWE0xNzd5VHRkUXRuYlN0YmpiS0VLdHkw?oc=5",
       "pubDate": "Mon, 03 Aug 2026 13:39:56 GMT",
@@ -452,6 +491,19 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLUE0ZGF5cHBYM2VITGZpWXlaelRjNkpzb01VSDd3eXFjWnJOX3M2QW50ejN1Skd3bmdIa3JLLXJFVHpZaWVOWWNQWXNMazZkV3ZRMnAwSWp5bXJ2TVF6b3NtQ1lwMXQtdzdFT2FsWjhaZTRhdkVRQ0c2QzRWYi1tYUJLNzJHYzBBczJYdF9lWnpjeVVSdk1YZEktTUtZdEgwcnc4VFZoa194ZWdGX1E?oc=5",
       "pubDate": "Mon, 03 Aug 2026 13:36:27 GMT",
       "description": "The unexpected upsides of vaccines Healthcare Dive",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Back-to-school vaccine schedule updates: What South Carolina families should know - WCCB Charlotte",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUVF6dTJNREc1RDR1Q01PQURPU0FZTE1xdFVwVGZGdV9JZXJWZXhjVnYxMzRObDlYNm1rQjg3YnNFdzZibDVibFgtVTZQOUN2SEZvb19nOEpjenZkLXdzTGhrTlBXSnpKTUlTZ3FsVi02TnZuRTVMTGFZaXFFM2NrZFlBdVpvNHdFQWdEY0M3eVNPdktWTUZJX2Ywd21CWkE2LVJrb1liUE0yQWFkX052cDlHMXhac1p6TllfZXdjRQ?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 13:26:59 GMT",
+      "description": "Back-to-school vaccine schedule updates: What South Carolina families should know WCCB Charlotte",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -487,10 +539,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Back-to-school vaccine clinics available for students in Sedgwick County - KWCH",
+      "title": "Back-to-school vaccine clinics available for students in Sedgwick County - kwch.com",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeDh1elNXV2pITmwwUm8xdnhEMWlRakRISlZBSnI2WG1zZTh0TUpXQkRFU3BKTzg1X0hYZ2RvaWc5T2JfSlJjSnBocGtjeDNYdU9yS1R5dkNLelRrcjFxNjl3UURSRlo1YklPVV9DRHFzM013enE2TUoyenVhdkdJanFhZHFQc29tdGdlSVJTQ3c1QW1uTk1oTkQtd2tkd1U?oc=5",
       "pubDate": "Mon, 03 Aug 2026 13:11:00 GMT",
-      "description": "Back-to-school vaccine clinics available for students in Sedgwick County KWCH",
+      "description": "Back-to-school vaccine clinics available for students in Sedgwick County kwch.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -517,6 +569,19 @@
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdnhzbWlLXzVtOU5LMEhWTVdfaV8weFVxdXRpdWxmaDlDRTJGYjI2NVZEQ2E1ZVo5UkhfTjlncUZFX2x0OWZyLUh4RFYtWVhwNDNQZTBraVdvU1RzY2FQd0YyV3pLVDFHOVZSNy0tc3NiYllQM1l5c212Wk1EWU5wV0VrdEd0a0ZicU05eDNCdmo2bXFZYmhKbVJfS29iNHgtN1lTc3hLbUttSUpQV29sRUp5SnVSLVA1eFJSYzI4Qk5MeUozalVCRFFGMjRvSnIxN3Y5MTF1TnBPV0VlMXQxS3JwVmhpSzI3RV9BNmY4a0tCaFNLT1c3SC05dw?oc=5",
       "pubDate": "Mon, 03 Aug 2026 13:03:00 GMT",
       "description": "Kentucky ranks fifth-lowest for kindergarten vaccination rates Spectrum News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Vaximm AG, an OSR Company, Announces Forthcoming Publication of Cross-Indication Clinical Data for VXM01, Its VEGFR-2-Targeted Cancer Vaccine Platform - Newswire.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY1kyLVJENUVmNXN6YkNMTVY2Zzh3bHZJSERxeTlKSllxNkZnYmJaNlREajl0UlZHdElwSzRRclVXUGtfUXRiZGNkcnFrUjI5TmhIYWljNTQ0Q2JBTHZaWVd3T0NQdXpTYUdhVlZjcVE5WE45WGp4R2EzQVhXSVcwbnNudUtYbFBYZFV1VVRIcG1HLUJfbWRzUXh2YUduU2NzSGdiQnBMLWZhN2xV?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 13:02:00 GMT",
+      "description": "Vaximm AG, an OSR Company, Announces Forthcoming Publication of Cross-Indication Clinical Data for VXM01, Its VEGFR-2-Targeted Cancer Vaccine Platform Newswire.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -608,19 +673,6 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSEVDWGdNemk2S3M1ajhoVGlyenlkVzZGSkdQamlVUmJSRVpCQlB5VnUtZ3dsX3lJMGxaU1FwUFNrblF0ZUZrbUVwNFhzUWk3MTFuX2RJc2JUMm90MWplQ0dndlZpYkd5X2RyR3l3TDRzelNNbjhPZ19CYnpWZDlJU3g0dThkRE1ETWZaQnhtdkNHTWZHbG5EYV95T24wZjhFMnBpbDlvNHBZcW1TaHgta3Y1aV9zaXJNdHc?oc=5",
       "pubDate": "Mon, 03 Aug 2026 11:31:40 GMT",
       "description": "IOM Hands Over Vaccine Transport Trucks to Strengthen Immunization Services Across Southern Iran International Organization for Migration",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "GSK India first-quarter profit rises on steady vaccine demand - marketscreener.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcmRvVERPdEppQnV1WDhldFJRdF9ZZGR3RWIzZjlXYk9ka29QSk0tMWtJaGd5UWJ4M0JZdGRQLUNoZmQ5aUtldE5lQkZsTnFlNkdkMmJNNV9mT2hvR0Z5R2lrT2wzVWlrZ1VBRE50UzBTTHFBeENuenVsQlY2VFhRYmRiRFpWM2lEZ3lES3FhSm1tUE1ha0hETzlfcVh6eWduX3pJNTBxSUdXaWt4ZGktekZUdjc?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 11:28:01 GMT",
-      "description": "GSK India first-quarter profit rises on steady vaccine demand marketscreener.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -747,28 +799,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "RFK Says Kids Should Get Measles Vaccine - 710 KURV",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRZjIyMW9YdTFXSVR6RXZGcEs5RjExY2ktTWRIOEFVU3Rzc1JDWno1ZE83dUdsS1lXM0NzR1VYdkJDRFhsZFlVUWk0b3ZDWEFwcDJRVG5fa1psR3N4RnR5RG9jTXUzVlBwMEYxNmFNWQ?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 07:58:04 GMT",
-      "description": "RFK Says Kids Should Get Measles Vaccine 710 KURV",
+      "title": "RFK Jr urges parents to vaccinate kids amid record measles outbreak - abc.net.au",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMmlzVnlSU0o0NTFSN0ZueTJQREhHaGdLeGdoeFluNVRLLXBIcEprNy1qTnpua0hlTmpPREVVdVdSZG8yeUp6dW1JTUVWbFF1VUg3M244NVBqWS03cnJLS1Z0aGZzdl94Z25qZ1Y2MmlCM0xYS21rTkFzTmlxdHpyaHpvUENtVkhKUkpBVVBQMno4SGdBYjdpTzdUYw?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 05:53:09 GMT",
+      "description": "RFK Jr urges parents to vaccinate kids amid record measles outbreak abc.net.au",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Pharmaq: Fish-vaccine giant’s profit surges 53% to record €171 million - Salmon Business",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQk4zLVMzalQ5Szd6bGs4OUFXN3I3YTloOGt6OVdRNlNUZG1HQmF4T0pLczVvSE8yRURJbXliRG9CeEdLNnNjeVQ5TGhXQ2c2dkEyU25ObmZjOGpHcDhwOFd6a281cjRrRTEtcm5lYkFCSmZZem85QVJrYmFKQ3RMbjFRXzZXZFhLdWpsanUzTThLTWdGODRCUWExWFlLWnJt?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 07:48:10 GMT",
-      "description": "Pharmaq: Fish-vaccine giant’s profit surges 53% to record €171 million Salmon Business",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -786,15 +825,15 @@
       "articleLabel": "Research"
     },
     {
-      "title": "RFK Jr urges parents to vaccinate kids amid record measles outbreak - ABC News & Headlines – Australian Broadcasting Corporation",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMmlzVnlSU0o0NTFSN0ZueTJQREhHaGdLeGdoeFluNVRLLXBIcEprNy1qTnpua0hlTmpPREVVdVdSZG8yeUp6dW1JTUVWbFF1VUg3M244NVBqWS03cnJLS1Z0aGZzdl94Z25qZ1Y2MmlCM0xYS21rTkFzTmlxdHpyaHpvUENtVkhKUkpBVVBQMno4SGdBYjdpTzdUYw?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 05:49:53 GMT",
-      "description": "RFK Jr urges parents to vaccinate kids amid record measles outbreak ABC News & Headlines – Australian Broadcasting Corporation",
+      "title": "Russian health authorities update flu vaccine strains for 2026‑2027 season - gxpnews.net",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTHNCb0dGUXhJc243OHpvbEs5OTg1Ym03WEpRVWhYV28yRjJmM0g4dHhNbGZja294WmxEbTh1R3dzaTFjMUZnUW5EdnFRZ2VlS29RVEtiS01IY2F0cmRkTjZIc1lERDZMRTZ4Rkw5NVJCdEZxVGZieW15XzZIc2o0X1V3cmlyREs0Z3AwY01KdVQ5U2l5c0pOejRzLTh0SHVGVmZBYThuOWJTQTJJa3NaVzNjeDDSAbQBQVVfeXFMTUxzQm9HRlF4SXNuNzh6b2xLOTk4NWJtN1hKUVVoWFdvMkYyZjNIOHR4TWxmY2tveFpsRG04dUd3c2kxYzFGZ1FuRHZxUWdlZUtvUVRLYktNSGNhdHJkZE42SHNZREQ2TEU2eEZMOTVSQnRGcVRmYnlteV82SHNqNF9Vd3JpckRLNGdwMGNNSnVUOVNpeXNKTno0cy04dEh1RlZmQWE4bjliU0EySWtzWlczY3gw?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 05:13:09 GMT",
+      "description": "Russian health authorities update flu vaccine strains for 2026‑2027 season gxpnews.net",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -868,19 +907,6 @@
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV3FsdUpzeHZhYkQtSzNOZDExSzZkQlo4Q2Q1aFh3N2FaY1M2YTczdjdDRnFwYnRKelpBdm1GN0R6cmhEOEhmTTdOZHcyMTBwVDRuV1pXM01QTGV6MTk0TnBacjVUVWpKYS1oYkJIQ2ZiR3daWkF2b25aNnd2V01OZnBzQjN3c3FtS3E5Q2ZGbENvRTJTdHNTaW5neUNYeFZzbmlkOUJqSXNkbkhfOVJJSTM2R0w2VUgtM2ZnN2ljalRqRURZWEZTcXBtWnNHOWp1bk41NzVucllLZw?oc=5",
       "pubDate": "Sun, 02 Aug 2026 23:38:35 GMT",
       "description": "RFK jr becomes enraged when pressed about his vaccination misinformation on CNN Daily Kos",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "South Africa Prepares For Potential New Adult TB Vaccine - Eurasia Review",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb0I2T3Qwam9wQjQwLTF6Ml9nOTNFV291U3pKX0dJbEduX0xfaXRpUUxOX3JCMldKUVRScjVKUDZFcjIySHk1OUxLbmR5YzM0TWoxNFEyQ1FnVTU2T2NZQzY1a3BWbllFMjdlQWFUYXBjYzl2Z2FYaXAxZDlCcW81RloyZWlhdVVZcFJvWUtleXY1cHl5bnl0bXFLWlM?oc=5",
-      "pubDate": "Sun, 02 Aug 2026 22:05:59 GMT",
-      "description": "South Africa Prepares For Potential New Adult TB Vaccine Eurasia Review",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -994,28 +1020,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "RFK Jr tells US families to vaccinate children against measles amid outbreak - The Guardian",
+      "title": "RFK Jr tells US families to vaccinate children against measles amid outbreak - theguardian.com",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZMU9OZ2liMWJPUmUwLUlpZUVwVkRRbTBCOEg0ZXBpQ05kZDVsQVdnMTBaby1tM0kyWG1jTjd6N05VT09BREVVT1NGbkZIbkJUb0FoUmxTTFNsT0czNTVfWjlXR0tQOGg4MzFjdVpDWmRyZ00tbmxERFR6VXE5SGM?oc=5",
       "pubDate": "Sun, 02 Aug 2026 18:28:00 GMT",
-      "description": "RFK Jr tells US families to vaccinate children against measles amid outbreak The Guardian",
+      "description": "RFK Jr tells US families to vaccinate children against measles amid outbreak theguardian.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Uthmeier warns Catholic Church to accept vaccine exemptions - yoursun.com",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUU1jaG1ic0doX0lMOGw5eHo4LXJOZ3FqTTloZk00VXRQNmJuTEpsYksyaWtqeFpXVFdaZmxGSGQ3eGhqbTRwS0JHZndITF8yQjhQSV9jbnQ2blo3V0t0U2UxU3RNaTJLcC1fYk5hYVVDR0toOE1GV1VJNV9SNGFNRjduUUlSYmQxX1RSajlzZkxId0xteVR3MG1Ca3JNX29CVDdvS0ZZRE95M3NQSGNxaXF5cmhmVGYzOGFYc1lHaE83bzZkbm9pZkdhNFhYZDhqYlJjYmg0ekJoTTA?oc=5",
-      "pubDate": "Sun, 02 Aug 2026 17:10:00 GMT",
-      "description": "Uthmeier warns Catholic Church to accept vaccine exemptions yoursun.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1059,6 +1072,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "U.S. Restores Some Vaccine and Health Aid to Unicef, Gavi and World Food Programme - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXdmRGtCVW45N0hDOURqY2dWb3ctVnc1NW12NkExNkpaOUh1WW0zckJBVXFaOWtqMmZaNENIUkU5MjhLVTJ2Zk5JaDdVcy1JOG5TM0tPZkVTNkRCT1BfNS1NUUhqMGU2OFRxN0VfYVZyT256TWJSRE8teHZCNjJybzVEcFdTdW8?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 15:22:14 GMT",
+      "description": "U.S. Restores Some Vaccine and Health Aid to Unicef, Gavi and World Food Programme The New York Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "How to find the vaccination rate in your Texas school district - Click2Houston",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb1ZDNFo1aXVPcUZFanYtZ1VoOEp4c0p4djVIeWh3Sm42WTRsZWhDeG9PNlE2WHU5cThpeklhcnRDWUJwTFExSTh1MGZjQWJJSG9aQU5RQjhnSFZaZ3FWeUEyeXI3UnZsZHktTVR5SnlmeUgxd1luNnNBNjVkU3U0TDVsV3VZTy1sTGdlcWJ6YTJUQkpIUFNwVThrWHBOMmlNbkltQXY4bmR5VDBSUTJXMWVnMFpwQQ?oc=5",
       "pubDate": "Sun, 02 Aug 2026 13:33:25 GMT",
@@ -1072,41 +1098,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "US officials focus on identification and rapid action as measles cases rise - The Guardian",
+      "title": "US officials focus on identification and rapid action as measles cases rise - theguardian.com",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jQm41ZzFQaUVnQWx5b2w1dEpjbnZoME1seGxUSGFhVVRJbjFzUXZTX2pMeHpST0tib3lua1lwUzhacFBZakE2OVIxRTJqY2xqdWUwb0lBdkJuN05qMnM1enNCTFBuTHMzZGhsSl9oZzNIQW1LUjJZX2Q5QlZhUQ?oc=5",
       "pubDate": "Sun, 02 Aug 2026 11:00:00 GMT",
-      "description": "US officials focus on identification and rapid action as measles cases rise The Guardian",
+      "description": "US officials focus on identification and rapid action as measles cases rise theguardian.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "U.S. Restores Some Vaccine and Health Aid to Unicef, Gavi and World Food Programme - nytimes.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXdmRGtCVW45N0hDOURqY2dWb3ctVnc1NW12NkExNkpaOUh1WW0zckJBVXFaOWtqMmZaNENIUkU5MjhLVTJ2Zk5JaDdVcy1JOG5TM0tPZkVTNkRCT1BfNS1NUUhqMGU2OFRxN0VfYVZyT256TWJSRE8teHZCNjJybzVEcFdTdW8?oc=5",
-      "pubDate": "Sun, 02 Aug 2026 09:00:07 GMT",
-      "description": "U.S. Restores Some Vaccine and Health Aid to Unicef, Gavi and World Food Programme nytimes.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "No cure, no vaccine: Experts warn of rare Bourbon virus after first NY case - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMWFsZ3BzOXNvVXlKeUw5d21jU1RTRnRsM3BHRlh1bXE2TFI5SFYtcERpX1doUmVuNWJxLVMzeDltUFI0NElLTmJReDJ0aEplb0ZzeDI3cnRqc0M0LWRmcFhWTm51MzhyTDlmQm1KYlc3SVRkZDZrcG43UHpCcGo4aGdQZHAyVXBlT3RaMWU3UGFtRFp3Q2dhV3Nud21mY283WFh30gGoAUFVX3lxTE1UZTBUT3NwbEEzdVZ3TEJNSEZ6S1BValJGZmJvalJxTzVDa25mV3AxVjJ0bVFNQTdncl9XUmFYNnhWblFEQzFSOTVlbGUxUko0dXk3Y3NGbFNIN2daa0drM0dJVWk4bFZGSVZ3c0R1dnhqVEVNSWxPQjBEWFJUTUtZYllCX2UzWENfM3IwS0U0QlBkbl9kc3I5Tlh0dHN0X1lmUnpKMGJGZA?oc=5",
-      "pubDate": "Sat, 01 Aug 2026 19:14:59 GMT",
-      "description": "No cure, no vaccine: Experts warn of rare Bourbon virus after first NY case Fox News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1150,10 +1150,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "FDA weighs a new kind of flu shot based on technology RFK Jr. has questioned - NPR",
+      "title": "FDA weighs a new kind of flu shot based on technology RFK Jr. has questioned - npr.org",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GSWlVVWVZTlZ0SjhmYjJqS0I5UDNSaS1EY2xRSElFa2dHNldPWkhGUW1TaGgtS3VYRGM0TWprOE56OUltWEpTalU2SVdiV2cxbWRmbmZ6ZGFZZzYyMXI2d0hhZmdRSTJmTkc0aDZrdmw0ZDc5MGlZZXJvR3p1QQ?oc=5",
       "pubDate": "Sat, 01 Aug 2026 11:00:00 GMT",
-      "description": "FDA weighs a new kind of flu shot based on technology RFK Jr. has questioned NPR",
+      "description": "FDA weighs a new kind of flu shot based on technology RFK Jr. has questioned npr.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1254,10 +1254,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Pediatricians and health officials are sidestepping Trump's CDC on vaccine advice - NPR",
+      "title": "Pediatricians and health officials are sidestepping Trump's CDC on vaccine advice - npr.org",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNk9OQkhHVW52Q0lDS2tzVlJLVmZqYnZ0MEJDZWd6cy1RS2pzRG1Jc0VjS0trcXMyVTdpUVVpZ1M1ZWQxU2NKSXZwT2xMa3ZJd0hiRlRaV3RwNUVQN2UyMXh3Qnh1di1Zcm5LWTFmTUVJRWJMbXg4LW13ODhlOGFLT1kzek1NREJ1LVlpaGtMU0tWSTFMQ1RHTFpHaXp5ODROck0yYmxQVGpfeGpHYnU1c2psOA?oc=5",
       "pubDate": "Thu, 30 Jul 2026 09:00:00 GMT",
-      "description": "Pediatricians and health officials are sidestepping Trump's CDC on vaccine advice NPR",
+      "description": "Pediatricians and health officials are sidestepping Trump's CDC on vaccine advice npr.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
