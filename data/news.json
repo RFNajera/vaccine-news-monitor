@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-08-03T03:38:20.055Z",
-  "itemCount": 95,
+  "updatedAt": "2026-08-03T05:40:15.379Z",
+  "itemCount": 81,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 9
+      "count": 6
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 1
+      "count": 2
     },
     {
       "key": "rsv",
@@ -20,7 +20,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 13
+      "count": 12
     },
     {
       "key": "hpv",
@@ -33,17 +33,51 @@
       "count": 1
     },
     {
-      "key": "rabies",
-      "label": "Rabies",
-      "count": 1
-    },
-    {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 68
+      "count": 58
     }
   ],
   "items": [
+    {
+      "title": "No young woman has died of cervical cancer in England in the 2020s - Healthcare Today",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUXMtNHdiTy1maElwc0E5YXg0OF9tSXNHSXNUSkdaZUdfakpnZ05YUE8yMi15YWlKSFptdUI0bDRmczZnamExRXBIM0lBWWg1bEZVZFFNOXU3STR4S0pjcXIzd2dXcm5WbmdJTDV5MEpjV01zQVpEbkg3Q09lRFVneVdvVUlHN0FKOWg0SzV6REZQTkItdVl3bEZKcDhzaEpTT0FHUQ?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 05:03:12 GMT",
+      "description": "No young woman has died of cervical cancer in England in the 2020s Healthcare Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "With trust in RFK, Jr.'s CDC vaccine advice collapsing, physicians scramble to fill the information gap - Genetic Literacy Project",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTW9STThfeC1XLWZvMnFUWllQUDZYUGFJak5YU3lVSlFjRDJ4OWJFalJVQjZtT2tnQ3QxZ0NfcllIVnRjaUtRNXhtaHNTZnMxM3FIaS1EdUNYcVRybTV1cjhaTFFwWExaRUFLQ3hGNTR0bkk1LWpla2dzTjNwalFNYmFjR054a2Nmd2xzLVdxdm15Y2NtaVd1N3liUERYeThNMHgwOWM4allQVGk5XzkzS091Yk5VTTZFV2FpV2hRZGhCbnlURFJfUDBXTnBsWGVWc01KVmptb2VadXVHczFMYg?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 04:07:51 GMT",
+      "description": "With trust in RFK, Jr.'s CDC vaccine advice collapsing, physicians scramble to fill the information gap Genetic Literacy Project",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Moderna: Revenue Reaches $145 Million As Quarterly Operating Loss Tops $800 Million Ahead Of Flu Vaccine Decision - Pulse 2.0",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYUNkOElRRy1tdVpVVE9wQk5OU3NtZlVpOXJnS016YnM1SXl6a2FMQTNocldyWDJ2YWMtdUlMdzFEeEkteVRfM1ZfM2FrdkdXc1QyQUV2NUx5TWRsaURBNktkUnVGeUVFYXhkUURoSDBqXzhrNll5WUtLaVJ6aFVvMUV4dGh5QUVnOVpGbnNrZ2VQb20tVzhLUUlHTnZNNHNJMVFUTE5vVzdSc0RsYnBzYmk1ODBmNXM2NW9vbk5zYzJkT1ZBMHppRnB30gHPAUFVX3lxTE82YkJtYzZmMWd5dy1NUXhwRW93V0NFRmRuMHUwY1ZLbmdSV29LUjJ1TjlhWFdtOVFDWlo1ODNJRW93cDh0QlBrSk1IS0txWjFCTlY0V2RKcGdlSFM5MFY5U3JJVHd1VHJXNlM5NE5xX3IxdTNUZE5YUkNHM2w1RWwxQW9jeFFLT0JxOWw1Nk9MbDNYZC1VRkRNZkdBVDVFdk55Uzc2VVk5cERZOG1NWXN3UlMwQVVfREkydk15cVR1T0xEV3MyRFdEbFRpZ2tpNA?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 03:51:10 GMT",
+      "description": "Moderna: Revenue Reaches $145 Million As Quarterly Operating Loss Tops $800 Million Ahead Of Flu Vaccine Decision Pulse 2.0",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Robert F. Kennedy Jr, Dana Bash spar over measles vaccine, rising cases - Fox News",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fcnI0Yy1OUFpHSmJDRG1oekwxQmJ6ZnRQUVYwRU9RZ1ZrTEF0VXotZGNXV1VETHdnMHoxWFBJZEE4WkJqa1I2SUp1TWswOFVNbDNQSi1R?oc=5",
@@ -73,7 +107,7 @@
     {
       "title": "RFK jr becomes enraged when pressed about his vaccination misinformation on CNN - Daily Kos",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV3FsdUpzeHZhYkQtSzNOZDExSzZkQlo4Q2Q1aFh3N2FaY1M2YTczdjdDRnFwYnRKelpBdm1GN0R6cmhEOEhmTTdOZHcyMTBwVDRuV1pXM01QTGV6MTk0TnBacjVUVWpKYS1oYkJIQ2ZiR3daWkF2b25aNnd2V01OZnBzQjN3c3FtS3E5Q2ZGbENvRTJTdHNTaW5neUNYeFZzbmlkOUJqSXNkbkhfOVJJSTM2R0w2VUgtM2ZnN2ljalRqRURZWEZTcXBtWnNHOWp1bk41NzVucllLZw?oc=5",
-      "pubDate": "Sun, 02 Aug 2026 23:43:03 GMT",
+      "pubDate": "Sun, 02 Aug 2026 23:38:35 GMT",
       "description": "RFK jr becomes enraged when pressed about his vaccination misinformation on CNN Daily Kos",
       "source": "news.google.com",
       "sourceType": "news",
@@ -162,10 +196,10 @@
       "articleLabel": "Opinion"
     },
     {
-      "title": "RFK Jr. says Trump ‘certainly’ wants him to investigate any link between autism and vaccines - thehill.com",
+      "title": "RFK Jr. says Trump ‘certainly’ wants him to investigate any link between autism and vaccines - The Hill",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNHRTTlNMWVFPenh1blpOQnRld2pLUl9xdFVMV3hBV2NnelcxM0ZYcFBYMldZblkxeDNJU0tXSEZKa09fbjRMM2ItTDlra2VBT3dOaGpNZ0Z3b2lrLVNWNFBiQnNwSU1oNTJvQ1JPbTBCcnFTTS11Z3owazQtRHUzOFZSamNFWjhIdEHSAY8BQVVfeXFMTlVSVHR3VUtjaFp4TjRkZU1sNHdWZXF5bjBmZ01WdVZjNWREbmZjalI4RnVFQm0yM3NLaE9PT09WcU83VFRGckpValM1NWo4OVRxOW9LYzU3OWs3RDhvWWc3U3FVbVdFaE9tOGVyZlR3bzE0a3NXOVZHQ1BwV2VqeTNBc3ZvejlCRUllb1NWR28?oc=5",
       "pubDate": "Sun, 02 Aug 2026 19:48:00 GMT",
-      "description": "RFK Jr. says Trump ‘certainly’ wants him to investigate any link between autism and vaccines thehill.com",
+      "description": "RFK Jr. says Trump ‘certainly’ wants him to investigate any link between autism and vaccines The Hill",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -188,10 +222,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "A Doctor Fact Checks Secretary Robert F. Kennedy Jr.’s CNN Interview - Forbes",
+      "title": "A Doctor Fact Checks Secretary Robert F. Kennedy Jr.’s CNN Interview - forbes.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcV9UM0U1VnZrYnpMUTVtVzBFRE8wclZmMjhwQnlWOVFSdzBROXM0YVowLUFrSnJDdGdNaXcwdTZVTUh2c0dQQmJXZzQ0VGI1Q3VfanJUaDltNXJIbzdfSzNGamtmRW9MSkRmWFBhR2dlSGRzeE1xREhlTUVlbUk5VExfMVNsMTNFU3VMSGhRNkJPdDBWUDNQLVFxTzRleFYzYkktYWNTUHExRFRNeThUcC1sWHFQQQ?oc=5",
       "pubDate": "Sun, 02 Aug 2026 18:50:35 GMT",
-      "description": "A Doctor Fact Checks Secretary Robert F. Kennedy Jr.’s CNN Interview Forbes",
+      "description": "A Doctor Fact Checks Secretary Robert F. Kennedy Jr.’s CNN Interview forbes.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -281,7 +315,7 @@
     {
       "title": "New York health officials urge parents to check vaccine requirements - Lohud",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNR1BMa0lLMy0tYUZ4N183M0RvM1NDUWxpWHJKWWMwZVFObkhpQVlnOXhpTTBvNnNuaEVOakoxNG5tSHd2MUx6N2h4cUNmRi1VelpBcG92N3N1NXVYV0FjMHV3ak5EQWhfOFBaNGZobGU0TkVnYXlieGxxdEV4UFhaV1ZseWRmbzZlYzRGbW8zdzN2djhNR1NqRG5sRnQ2bXFMajBoM3hXOVRKODVYRWV5VHdmeHJscUptbmJXdTRCV09WaDlaY3lCZ1N5SUdTNWlnTmpTNl9XVnVZYm00ZDVWVnF1dDlCNGsyVWgwbW5R?oc=5",
-      "pubDate": "Sun, 02 Aug 2026 17:05:12 GMT",
+      "pubDate": "Sun, 02 Aug 2026 17:04:45 GMT",
       "description": "New York health officials urge parents to check vaccine requirements Lohud",
       "source": "news.google.com",
       "sourceType": "news",
@@ -331,10 +365,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "How to find the vaccination rate in your Texas school district - Click2Houston",
+      "title": "How to find the vaccination rate in your Texas school district - click2houston.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb1ZDNFo1aXVPcUZFanYtZ1VoOEp4c0p4djVIeWh3Sm42WTRsZWhDeG9PNlE2WHU5cThpeklhcnRDWUJwTFExSTh1MGZjQWJJSG9aQU5RQjhnSFZaZ3FWeUEyeXI3UnZsZHktTVR5SnlmeUgxd1luNnNBNjVkU3U0TDVsV3VZTy1sTGdlcWJ6YTJUQkpIUFNwVThrWHBOMmlNbkltQXY4bmR5VDBSUTJXMWVnMFpwQQ?oc=5",
       "pubDate": "Sun, 02 Aug 2026 13:33:25 GMT",
-      "description": "How to find the vaccination rate in your Texas school district Click2Houston",
+      "description": "How to find the vaccination rate in your Texas school district click2houston.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -342,19 +376,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "Measles study finds no genetic changes reducing vaccine protection - The Climate Watch",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWEV5U0JBckpmcVB2cTdueUxrRkFxbzc5T1ZfU0xmZlM0eUo0SGZTQ2NVZ2swUDNlMDAtUGdES0Rob2swN3JrR2lTeVZscEwwV1BrMmg4NUs3cFRtNklMU0oyVFdKLUJGaktHMk5nQmZhRmJ3OXRSMjBDVjJ3UnZ4TjVQekp6NU5EMFZEMmVJSllGRHE1TUpfNUhhbw?oc=5",
-      "pubDate": "Sun, 02 Aug 2026 13:22:10 GMT",
-      "description": "Measles study finds no genetic changes reducing vaccine protection The Climate Watch",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "The County Executive’s Corner: Protecting Our Children Starts with Vaccination - Rockland County Times Newspaper",
@@ -422,19 +443,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "No cure, no vaccine: Experts warn of rare Bourbon virus after first NY case - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMWFsZ3BzOXNvVXlKeUw5d21jU1RTRnRsM3BHRlh1bXE2TFI5SFYtcERpX1doUmVuNWJxLVMzeDltUFI0NElLTmJReDJ0aEplb0ZzeDI3cnRqc0M0LWRmcFhWTm51MzhyTDlmQm1KYlc3SVRkZDZrcG43UHpCcGo4aGdQZHAyVXBlT3RaMWU3UGFtRFp3Q2dhV3Nud21mY283WFh30gGoAUFVX3lxTE1UZTBUT3NwbEEzdVZ3TEJNSEZ6S1BValJGZmJvalJxTzVDa25mV3AxVjJ0bVFNQTdncl9XUmFYNnhWblFEQzFSOTVlbGUxUko0dXk3Y3NGbFNIN2daa0drM0dJVWk4bFZGSVZ3c0R1dnhqVEVNSWxPQjBEWFJUTUtZYllCX2UzWENfM3IwS0U0QlBkbl9kc3I5Tlh0dHN0X1lmUnpKMGJGZA?oc=5",
-      "pubDate": "Sat, 01 Aug 2026 19:14:59 GMT",
-      "description": "No cure, no vaccine: Experts warn of rare Bourbon virus after first NY case Fox News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Stephen A. Smith offers surprising apology to Kyrie Irving about COVID vaccine after watching Fauci hearing - New York Post",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS3l3MEtYNzEwOFV2Z1dpNVRqN0liN1BSbmV5cVE3Ukx4WVEtN1dfcFg2QlpsOWFZRWhVYmRFT3ZsRWZ1QlhjSUN1bG5leHplOUxocDF0bEFuVDdCMFRaRENrRi1XQ0I3MksweldtLWZzQ2hwSE05bUR5ZTI4NjlZVUtHOUdpUURzZE1IME5Qb2tHcTZhNkpBY2VES3lHOUtwNGRsUGlxWEoxX3E0c3NiMG9tdnZKeElYMjYydHJQQVM5Rloyc1BFMUtZWFFYUXdvaHdR?oc=5",
       "pubDate": "Sat, 01 Aug 2026 17:18:34 GMT",
@@ -448,10 +456,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Trump vaccine policy reversal deepens rift with Health Secretary Kennedy - report - The Jerusalem Post",
+      "title": "Trump vaccine policy reversal deepens rift with Health Secretary Kennedy - report - jpost.com",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tRnBLQmdKZXY5djQ4N05XaGVFWXI4RUpxekQyZGpiWEtvUDdrZE0tZU53WDFrVlgtZjJaZTlCSjFMRF9YWHpaS0IzR1VwVHV3c1NWVFRITElfbzJzUUlmUlhoQVM?oc=5",
       "pubDate": "Sat, 01 Aug 2026 11:08:15 GMT",
-      "description": "Trump vaccine policy reversal deepens rift with Health Secretary Kennedy - report The Jerusalem Post",
+      "description": "Trump vaccine policy reversal deepens rift with Health Secretary Kennedy - report jpost.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -487,36 +495,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Florida Attorney General pushes Catholic schools to grant vaccine exemptions - Tampa Bay Times",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQUlER3Z2RW1Yam1lSDAyNFVQRm5pTVVGbVRaQVV2UFN2YW9qTklIendZVjZRUFhxSk1hWlRsSlFnaWlyNFRGeDQ2RUx6T2pXMG9ldy1lWWtLM3h0ZjQ2d2FVRTAzQXM0T3JtVTBKTHFHLWJEd0pqQ1VVZ3oyc1MzdUgyemUwRU9UNjIzUGQ1dUJuLTVxUlN1Yld1VUgwajFXQ19YZEtUeV9NZXhBcUhRVEp4ZEFQWUR4OWhB?oc=5",
-      "pubDate": "Sat, 01 Aug 2026 04:11:00 GMT",
-      "description": "Florida Attorney General pushes Catholic schools to grant vaccine exemptions Tampa Bay Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "August is National Immunization Awareness Month - New Jersey Hills Media Group",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPem5NMER0RjRlNHNUOVJXZ0FNNFllUWtnb0xrNmZjOWZLS0pneEg1aHdsUDVUZHhyZU5wNnlwLVBtbGJadUdQbWRwTkswNFV4bVUzaklHMVpoS25GME53MDc2aEVFVEpsNGo0bHFHREQwS2JReVlUdTkwWTk3QjFHZ0pVLU1yS2lCT25hU3h2a3FRUlplZTRvQkh0MWY2aUpkenFDYmJ4VEdzeTl1eDB1OS1KcVZ2X180WnlGb3ZwTTRyeFpmVUp0Si1TWGtuY1MzZUY5a3lLdzFFOUNlQmpSNy1ONnNSOGM?oc=5",
-      "pubDate": "Sat, 01 Aug 2026 04:00:00 GMT",
-      "description": "August is National Immunization Awareness Month New Jersey Hills Media Group",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "RFK Jr., CNN’s Bash clash in heated interview: ‘This is not productive’ - thehill.com",
+      "title": "RFK Jr., CNN’s Bash clash in heated interview: ‘This is not productive’ - The Hill",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ09tcUthWEllckcxTFV6TjRNdzNqc2cteEt3XzY0eGozcFhwR3RmVEI4UTRyYXc0ZUNLa2JmZS1VZV9ZdVhVZEh0QkVwQ3RZUE1IRGNUWS1aSEtPeXNkUksxWTR1RlRDZG9SaXg2a0JLRDFKTkJmSXhzYnBtNFFoSk1vUHlxUknSAYwBQVVfeXFMT2hXcGZwTkgwN1UweHRMOENnSzNvTVRBM29YRWVPV3RMRlFlOHNkLWFZR0dJeHgwYlNHLXRlSVFzM0lEeFJESTItYkVaUm1ua250ODlJWWtsbk9NX3FIN2Jnb3Nha1dOX3dNNnV1TGZDZml0Rm1FYm1WRnpiczgtMml6VTRvX0NVUHJHM0c?oc=5",
       "pubDate": "Sat, 01 Aug 2026 03:27:24 GMT",
-      "description": "RFK Jr., CNN’s Bash clash in heated interview: ‘This is not productive’ thehill.com",
+      "description": "RFK Jr., CNN’s Bash clash in heated interview: ‘This is not productive’ The Hill",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -539,10 +521,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Florida AG pens letter regarding vaccine mandates at Catholic schools - Gulf Coast News and Weather",
+      "title": "Florida AG pens letter regarding vaccine mandates at Catholic schools - gulfcoastnewsnow.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSV9rVG1WQUF1WE5qM29JREl1V3pwZ3ZudEZjb3RfTkhXQjk4MnFCQS01X2NMaHd0V2tpSkdUMmNTSy1jMXJWd2dMcXZYdTluOWZ1dzN2R1dLaGxaWDZOY2h6MDVreHk1cUV1TnhGWEJETllzbldyV0FDSEk5a1dOWE9QT08xdlFIRzMzcWFxMmJ3dTdMYmtJ?oc=5",
       "pubDate": "Sat, 01 Aug 2026 02:57:00 GMT",
-      "description": "Florida AG pens letter regarding vaccine mandates at Catholic schools Gulf Coast News and Weather",
+      "description": "Florida AG pens letter regarding vaccine mandates at Catholic schools gulfcoastnewsnow.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -561,32 +543,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Declining vaccination rates nationwide have doctors brushing up on protocols for Measles - KSDK",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUFBmN1A5RENCMElJd2pWdjRYNlJGc21qMWFJYnZCeWdfbndhaFA1d19oLUhqWGR2cm1DT09BSzNaZ1EzZFB3dFRQU3FxZnFFZjZaNkhhV3ZBeFhpcEVzbFNMeGNDTFhVVmxLY2l6YVQ4Y2dwMjdxcjBZOFpBRGRudW1DdTFFa2MyeEtpeklteDNGcWowb2ZXREV1SHJoMWthUGw4eXQwRkxvRnhzOVo3cTlYY1hKVXdaTUF6dV83cWszSmp3SjRkNXE0ZU5CdGFJemY4VjdTbExMS1pOQlpNU3kyYlJOQWxkaFhScExMS0RYSWx6bXVCRVRB?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 23:22:00 GMT",
-      "description": "Declining vaccination rates nationwide have doctors brushing up on protocols for Measles KSDK",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Rabies vaccine airdrop takes place in St. Lawrence County as another raccoon tests positive - nny360.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcXBfNWUxOWRPSm9zdUZzOWFCTVE5NzhwZDFzQVVSZjE1UlRNbnZaWFB2MkZPSnVBbXFuQmdvbmQ1eFJYcDJ4d0ltWlFIZGdheGVZUlRoVFhEZ3o0Vi1ZUzFnX3FNLWtIRDBQSWVEZGs3cWhPcHZFd2tVTG5WcC13SVYxZjlBQS04Qm9GOURDcWw0dGM5UGc2bnVEMVRjdzBoMnZieEtsUjc2QU0yTGw1ZFpkUlRWMkFqUk9UYVhPMk1OM09Ea3ducVhhRzVkQXpOdmxUU3VjM2F2Z3NDSG5MZkFSQnlYWlpjMHVYbTBnanVKNmU5ZGE5bHRldWFDQXMxUWo0VTQyOEU?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 22:19:51 GMT",
-      "description": "Rabies vaccine airdrop takes place in St. Lawrence County as another raccoon tests positive nny360.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "rabies",
-      "vaccineLabel": "Rabies",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -643,23 +599,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Uthmeier warns Catholic schools to accept vaccine exemptions - orlandosentinel.com",
+      "title": "Uthmeier warns Catholic schools to accept vaccine exemptions - Orlando Sentinel",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ0VPOXpXUEZDLUQ3Z1NUM0tqVFhzNWtabG1jdnUxekJHR1pwbnBhWDJxSFN1cF85THFXTHhCRXFOak9vTGp0V1MtSjY2S2o1aDlrMWI2QldSYzJ3alU3WHlkdTRpcWRyV1NvV2N1ZTJiYTQ3ZFdtclY1V2cxdVBOdDg0VkI3SUYxZGdDZUNxdy1qYTM2eGxqRmFrc0otOTZBMzhPOUNn?oc=5",
       "pubDate": "Fri, 31 Jul 2026 21:17:41 GMT",
-      "description": "Uthmeier warns Catholic schools to accept vaccine exemptions orlandosentinel.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Florida AG threatens to pull funding from Catholic schools over vaccine issue - Miami Herald",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iTXlkWDRjV29NWm1hWG5LcEZqekJtMmxyY1pkVlo3ZFFTRzdzRnMtQlRHTm9tbktMNUtOYkxLQ3B4VGVKZGVBOHdRVGZQd1hVUjJ1eWVYNnlxSlNaMF85TTVnMVdKSkR5eE0zLWxqQ09nMy1BeEpFNzlR0gF6QVVfeXFMTVFySjZ5N2xDU3Z3ZTVFTTMyOFZURnk4RC1URF9MdFR1bVdaNDBUa0dHV1ZTemNEaGhBWkZnMVNzS2RNQWw4S24zSlVJTlJYUFhjMEYxTTBEMmNOSDdYcjVMYjJMMXJyRWxudmNQZ0ZmWE1vTzh0akdxbUE?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 21:08:56 GMT",
-      "description": "Florida AG threatens to pull funding from Catholic schools over vaccine issue Miami Herald",
+      "description": "Uthmeier warns Catholic schools to accept vaccine exemptions Orlando Sentinel",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -747,19 +690,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "John McGuire thinks COVID vaccine was a ‘BLT sandwich of fetus baby parts’ - Augusta Free Press",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON3l6aFpzSjF6N0NZckhrQ1lUV3dia2VEOWV6T1ZNZEM5LUxyaE1HS194NnNpeXVnRDc1d2YxVThaNzJHQ2tlaVE3Si11dVpkb1FQRE01YllBQWdhc3V4MjlqY3NxdnluQ1Y0ZVRDTW02M3hLNzNwSmFpeFM1cWlaaVhiSk8zWllpeXdiUzVjbHc4ai1sMG9tano3MWVHTHduaVQ3NzM0N0VqNEk?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 19:15:41 GMT",
-      "description": "John McGuire thinks COVID vaccine was a ‘BLT sandwich of fetus baby parts’ Augusta Free Press",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "How vaccine skeptics use storytelling effectively to create powerful but medically inaccurate messaging - Japan Today",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWEhxc1ZNdklWcW0zNjZjU1lkMlk2TFlOYnBDZlZPV0lyMURVUUkyNWRwTTlTSW9pVGJETDYzTFlrYml2eVJiRnRGdXdHSkxINXhmempCVnNzRk1aZi1HblJ0NzliM2FMUzJjWDFqQmNvVXUwRFJDSk41QmlHaE1zcDB6a2I0YmdNQVFDbklwRWplV1hsOUNMc1NuUWl1VUI4NXY3aHBXeVdkeS1yeFdPUW5ELWZUN0paQ19nRGw4UjVta0JkdTFmeks0b0JSQW9MOFA5a1k5YzNScDNvNkcyWC1fTHFqZ2ky?oc=5",
       "pubDate": "Fri, 31 Jul 2026 19:05:00 GMT",
@@ -812,56 +742,17 @@
       "articleLabel": "News"
     },
     {
-      "title": "DR Congo Ebola outbreak becomes world's second-largest ever - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN1JYSXFXNzMzenFLN0NfQ1ZsanRVZnJ4cmhZdWJhQi1WbVpGbVR2QV85djRwa2xJR0hjbGVfYWlCR3ZDOUloZ0h4WTVpbjYtQjF1NnIxbHZwZzFmMVYtUmJEWkhNUzFfelUza2VNelhSVE1PaS1TLU5zWTJfS3F4eHRjNmNManpwYlN1MnlNaVJ5X2lYQ0HSAZYBQVVfeXFMT1pYLUFvWHdFLWZDdVJManZkbHFNRE1lTjhkbWhKQzEza1ZtX2dJN3haSlRjb29FUldmNVRuQ2FxR2pKQ0FhNVhSdm1DbmJQRnMxckVsTFdsTERVSTJCRDlUaVQxUHBNc2dYd1l0SVVITmtlWTZWdm84LVdhTkVid0dVUWZVT19TZDdzdXBSYWlmYkY0b2ZB?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 18:01:37 GMT",
-      "description": "DR Congo Ebola outbreak becomes world's second-largest ever DW.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Epstein-Barr Virus Link to MS Spurs New Vaccine and T-Cell Trials - AJMC",
+      "title": "Epstein-Barr Virus Link to MS Spurs New Vaccine and T-Cell Trials - The American Journal of Managed Care® (AJMC®)",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZVZuQTJjaW5IRWVMV3hKeUtjczB6QUZjOGU4N25yNHdzNTJLWjlnYjJ1bWFrZ0VCOXVpMzQ1OEhSUzE2dzBCNEctVmpYNTNneTh3R1NUYjI0ZTN6Wk1kX19Ram5TT3Fwbkt4WHQ4V0VCQmNuWGZSSWk3TE9mTW1QdGZnWG85U283dlRJV0FfRXZfRTlyYnc?oc=5",
       "pubDate": "Fri, 31 Jul 2026 17:46:52 GMT",
-      "description": "Epstein-Barr Virus Link to MS Spurs New Vaccine and T-Cell Trials AJMC",
+      "description": "Epstein-Barr Virus Link to MS Spurs New Vaccine and T-Cell Trials The American Journal of Managed Care® (AJMC®)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "IDEA Public Schools offers low-cost immunization clinics across the Valley - krgv.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaG5ReXVwd1BJUEZ3NmZfQWdBeWQ1Z3JvNmhfQUZFOWhNYThhdnp5bkptSThKY3hXOG4yZzNwQ0p0SkxHN2VOZU5DalNXa2Z5NHo5clFJREo5LVMxeU95ZDdPZWZnZ3JYS0x0ZEx4RmxEdklPZEdxbkM3S2xnQ2lZSkFMWmM4b0tRemVRSlZ2MzVkTVc1SUFtUTZraXJKWGpZcmFR?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 17:28:58 GMT",
-      "description": "IDEA Public Schools offers low-cost immunization clinics across the Valley krgv.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Human Ebola Vaccine Trials Begin, a Newly Discovered Dinosaur from Zimbabwe, and Wildfires in Europe Are Producing \"Fire Clouds\" - Discover Magazine",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZWVZaVpWY3A3Mlh0TXF4NVNzNFNPYTJzb003cWswSXFITnI4S1ZGODNrZUgzWV9lYVBvRnlEeDAtWkR2RlF4cXFXQ1pHN0JmdEtLYU1uQi1UYnFVV1JubnZTUTJtSWV5TXFpdkRiZzVWTzBFbHp2Y3IyX25PTDgtYmo0SGpyMi1NR2VWMGJhclJzRC1UVF9WS0lOdDZvcmhwbm1EQnVqQmZUbzlfc1M5SmpzNWRvaXNXc2JlamdvWGptQ3FSeEFDQzg5MlZSVnB6d3BwaUYzUmlheWVZaTBPRFBwNGdnZkxGV3RJQnJLUEhYNklPa3c?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 17:06:33 GMT",
-      "description": "Human Ebola Vaccine Trials Begin, a Newly Discovered Dinosaur from Zimbabwe, and Wildfires in Europe Are Producing \"Fire Clouds\" Discover Magazine",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
+      "articleType": "research",
+      "articleLabel": "Research"
     },
     {
       "title": "Stephen A. Smith Shares Apology to Kyrie Irving for Criticizing His Vaccine Stance During COVID - basketballnews.com",
@@ -903,19 +794,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Chef Shreds Rand Paul After Senator Slams Covid Vaccine as ‘Fauci Ouchie’: ‘By All Means Keep Bullsh*tting’ - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWkxxd05jZGlXR1lMTG9OcGRISzR4dVNwc25KLVJBMEp1YUIzQ1dHRmdhN05fWkZGbU05Sy1YNkRIanF2QnFNRHBraDRhek5FbXoyeTA0Q0w0ODdzRmJPU3lZeF9odm04UEF0V2VjUnp3dnBnWDdUaGZJSlgta0YxemVldVNoXzRIZnpnOFZXQlN3RGc?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 15:40:35 GMT",
-      "description": "Chef Shreds Rand Paul After Senator Slams Covid Vaccine as ‘Fauci Ouchie’: ‘By All Means Keep Bullsh*tting’ Yahoo",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "'Overall vaccination rates are declining': U.S. on pace for worst measles year in 3 decades - KSDK",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSnpWRVVkRmdOUE45UWlGZVBfbEttbm11dWNlampfSUp0eEZ2VDV1SlhucklqWnRxN3VlZG92bVdRMlk1cWJFS1VuMzB5RUh0dG13NXAxSDBHQXNwX3ZYeVBrVFBvVFFwVW5KN1NoZHJQV0N0SzdMODJmdzFFa3pKc1BfeVNvVHNoSnNWRVpsc3RIaVUxelhzVDQwbGJ0NVNEeGhDTkJuUVpUS2F6V3VIN2Y1VE1LUGhJVkR0cGFoZlNwS0ppNnU0dEZYS0g5Q2RaZ09EMW1ocHEtcEZGV0psZzRqMFpPZnZsaGQ2N3FhdThRZnVoMWNDQ2VzQQ?oc=5",
       "pubDate": "Fri, 31 Jul 2026 15:22:00 GMT",
@@ -942,17 +820,17 @@
       "articleLabel": "News"
     },
     {
-      "title": "Moderna adds new cohort to Phase III vaccine trial after interim data miss - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSFBKOEd0NmFCTk1qMXh6Q2lYMktYQ0ZER3Z0N3c1aDA3M1BQd3F2Y0I2OWp3UFo2TjVFSWR6OE1DajdTeWZ5QkJLV2tkSkgxcVFqQ2tXMFEteEgwemlvN1VEZHhNT21QZHU4ZktVX180UzVnZ2FyRE5ST2QxQ1BRUzVaNXp3ck9fbGRYb2JybXlzZw?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 15:12:27 GMT",
-      "description": "Moderna adds new cohort to Phase III vaccine trial after interim data miss Yahoo",
+      "title": "Harrison-Clarksburg Health Department monitoring measles case, encourages residents to check vaccination status - WV News",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPOXBETVVnbUNIZ2c1aEM4cUlKX016ZW51a1VFNmNKQk9FdTZzM3F1ejVlWjNVX2J3ZlQ0b3hTb1ZKODJ2LU9zaFZuMjV3OGRDam9aLXlEeGJWcEdlaGdFVndwTmVPRkxQZFNTVnhnVmhTSkZ5QmMxay04Z0FoYW5LSUF1TDdRSFBKQUtpbGZzOV94d3RPTG13ZlY3SUFCVmIwcXUzajMtd0M5b2poSUFwTGtKVUhlZ3A5WDNKdzNoYTMxNF95MktUVXJ6Z2hZT1E2RDgtblpJTVM1TVpmZ2JKbkdtMGRySzZITWgtWm1JZWFhb0xxNTFPVXJKeVZzdG1tR2FyMW9pa0lzSVRQeHg1Ug?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 15:00:00 GMT",
+      "description": "Harrison-Clarksburg Health Department monitoring measles case, encourages residents to check vaccination status WV News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Florida AG warns Catholic schools vaccine policies could affect state scholarship eligibility - WINK News",
@@ -1033,10 +911,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Moderna Says Norovirus Vaccine Didn’t Meet Statistical Criteria for Early Success in Trial - WSJ",
+      "title": "Moderna Says Norovirus Vaccine Didn’t Meet Statistical Criteria for Early Success in Trial - wsj.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUGRzMENLMHh5X255MUNMMEVaUG1FbnFJUy1rb1Rpd3NWcG12QXhYZmNmeTVGM3k5YS0xVWQzZ2N4dXFKYzF4bGxuZm4tclR1MlZJLTMtSXBfX045WUhSVXZKSE9pdG9uWnBfMFlvdHBoaWU4TGdpS2FaV0tiUlFBWDhFbS1sN0NmNk9UZ1FOVDhSV2gyX210R2swOHhUWlZyQzRlVnhrdFpYUmJFZFdDV0k4X3c2ZmZsZEE?oc=5",
       "pubDate": "Fri, 31 Jul 2026 11:52:00 GMT",
-      "description": "Moderna Says Norovirus Vaccine Didn’t Meet Statistical Criteria for Early Success in Trial WSJ",
+      "description": "Moderna Says Norovirus Vaccine Didn’t Meet Statistical Criteria for Early Success in Trial wsj.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1044,19 +922,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "Moderna misses quarterly revenue estimates on COVID vaccine weakness - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVnhFOWlKc21ZbjVteDVPdkJrRGtiSGtSbDRnWDZ4R2VVeWNIUHVZUERqUXBDWWhXUDNsMUtzcmxtRmVST3ZlZ0x5NTdBN2l4a21DUWlfZGVTYm9wT1JEd2tNRWwzNzZyeG0zWHp2T2R0cmFXbFJfU0hsc0JiUm9lVmduRDJqTXJTU1N0Z1RVOS1lcTZLSDQxay04Ulp4Nl9KTHZPR1ln?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 11:04:27 GMT",
-      "description": "Moderna misses quarterly revenue estimates on COVID vaccine weakness Yahoo Finance",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "Parenting role models shape mothers' COVID-19 vaccination intent - Contemporary Pediatrics",
@@ -1068,32 +933,6 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Anti-vaccine bills surge in many states of the USA as Republicans drive legislation - Labmate Online",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPakFiWEUwOVpGMVExeERSYllEYWdOSGJmbXl2TkdldTl5QnpaV3JTX3RSQmNHbTVlYlNZQ0xYS3JNazB0LXBuN2FUdDJUZ0JCcnNMeVBGbFlhbE1OSXZ3bHBEaGpVOEpuNkRuRTZNbTgwS0dpOTc4eFV1QVhtdll5SGR0eUJtNUJnd3FjRG1MT0E2bEM0cENHdWNfUThyUjRHV2FKTTM3ZWFacklmZnFHT2FUazlycC15YVhlZV85bWp6dGJjLUMwblotYzFvSWJobXFSZUJSTmFXbW1jRkk4ajA4ZExJUll6eDJSaVNnaFJyWGpn?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 10:00:00 GMT",
-      "description": "Anti-vaccine bills surge in many states of the USA as Republicans drive legislation Labmate Online",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Scientists Seek to Repurpose Existing Merck Ebola Vaccine - bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRDRaWE9OT2dnR0xTdFdWUVBXMFRJenNCdzZ1NVE1U08xN1k3ZHc3cWRUdjk0WWFnNVpTanFPOTJ4M3FvR0ZILXJ2QklFaFRmVm5UTnEwTXRxUGVXQlNWTkhPWHBydnVHVVpHVGRvVEZJbTJtRzZkdExtSFpBSXJ3SC1HcUdQczZDRi02MENsd3owV081LWRXVnd2T1NKdDRJT0JSTXA4Yl9LV3dhSV8taXByX2QxeEN4M0dwQnB3cHpNUlAy?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 08:25:51 GMT",
-      "description": "Scientists Seek to Repurpose Existing Merck Ebola Vaccine bloomberg.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1215,19 +1054,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Trump administration unfreezes $600 million for Gavi for global vaccine effort - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc0VNSkVxaXI4RFdBSVI0RlNJZldkdTZpbGdseW55Q2hCZEpvLUUzcnVfbmllU1BrYmJwQ0NKbWgzZDBOTGt1MjlyMmRvVm5kVkFDMUU2enllYXhCaWtsdjVZQWVaeW9hZmt0MVlBQmlMVHYwY2NyYjdiWklGNHhoSzlCR3V2aGg4dEFTeklVZ21JN3FPaHZod2VjdDBXTTFlbngydHFMamtYMWFjakd4SA?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 23:17:53 GMT",
-      "description": "Trump administration unfreezes $600 million for Gavi for global vaccine effort Reuters",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Joint Statement on Strengthening Vaccine Safety, Accountability, and American Leadership in Global Health - HHS.gov",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVHBzbXBfX09lSUN6WERBSENNcWwwZFkzY2hPOXBvRXp4ZWhLZHJKRTBBak1yQW1JUGlMVXdoaWhlUWMxdzREckxTZ1pqOUVLWUV4eEgzeWRJUEVXV2xRZlVYVHIyQzhyQXJnUkFjTVdDdl9WMUJ5YTFQRmVyOUZaYnFkMVVRcEc2RXZ1VV95SXY3X1RnZ2ZSam8yY25TSURoQThuM25iSzh2aHN2SkZMRW1VQnNTT3VrRmlGMVdTenhTMWRFTDZNQg?oc=5",
       "pubDate": "Wed, 29 Jul 2026 21:33:00 GMT",
@@ -1258,19 +1084,6 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa3ZGT19pU2tVaHRZdEFkbWx5eWp3VUw3ZDlIMWZ2UF9wa2FnV3E4RHJPSDh6NlBNVnhwdEo5Tm12Tm5GLTJYV3c4V1lza2RaVlBqa0dMak1jQ0dYTUlOR3VmS3A1dGZHc1BBaTQxdnBUZ2xZZncwMjJXLXN2RlFIb2tzVnA5c0V5UlJTT1VkVEpFUXM4VmZnMEZKY2FKRzhjRHc?oc=5",
       "pubDate": "Wed, 29 Jul 2026 19:12:00 GMT",
       "description": "State Department agrees to reinstate vaccine funding for Gavi CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Vaccine update: issue 373, July 2026 - GOV.UK",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYUVHbFBaU2x3dW9MNFdCTnhTQkI1dWRndWp5WDF0NUZyRmxnUlJNQ1FpTFVxUU42NDNTandTVlRIT3lQcC1ZV0dHZUJyNW5BM0VMMVpWTGNzZHRHUWtSRHR4OG9WV3kxd2wwN0tLQWNpZWQwVmJ4TlB4ckpHcVNDZmFMSkpiQmJCeDFtX0NrY2dreUpaNGlxVVY5MFZKQjlrbHVRbFdabEtjb1Q5aDhMODhR?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 09:38:04 GMT",
-      "description": "Vaccine update: issue 373, July 2026 GOV.UK",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
