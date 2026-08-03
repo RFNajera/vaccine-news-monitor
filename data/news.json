@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-03T22:43:52.669Z",
-  "itemCount": 94,
+  "updatedAt": "2026-08-03T23:47:39.626Z",
+  "itemCount": 87,
   "groups": [
     {
       "key": "covid",
@@ -15,7 +15,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 19
+      "count": 16
     },
     {
       "key": "hpv",
@@ -35,10 +35,23 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 62
+      "count": 58
     }
   ],
   "items": [
+    {
+      "title": "There's a reason child vaccination rates are falling - and it's not social media - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YcXowQXlqN0tjR3BpdjhHZGo3M2YzaENGdHQ0VG1rQ1N6M1Z6eDc2TkZyd251aGJwenV6bWtnYzhXelc5MC1zdm84WU9ndmNIX2pTVGR2b2FJYXhy?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 23:10:05 GMT",
+      "description": "There's a reason child vaccination rates are falling - and it's not social media BBC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Pennsylvania data tool allows parents to view school-level vaccination rates - StateScoop",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWTI3dGhZYVktWGFTa0NBc2Vhbm9EWXM3bDlMZHI1WG45aUxjY2wxekNOSGZiVzdoSFNmNy0tMUdKa0VQYnd2TFR2UzUwWExEUUlXRGw4VnM3LVVQSkVObGtRV29CcnFMdVdEUGU1VlFGUzNpanhLVHM4cW5wcHZaNG9QLURqWHhpcW5UeGx3djY5YnZmQXR5RElraC1CRThVcGc?oc=5",
@@ -79,19 +92,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Kennedy Urges Measles Vaccination as US Cases Rise - Oz Arab Media",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBBZ056UFd2YnJvXzBvRHI5SnpfLVBMQ2ZXVXY1WENCQ1JhNGphNzN4dEM2bVBTRXFKeFBkbmRsRl9Bel9OREJLWGpSNEhCNjh0QnRsMVhCTHFfZzRueEV6UXZEUU1ZdWVOVVJhOGR0UnJCbmY1YVg5akFtN3o?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 22:03:59 GMT",
-      "description": "Kennedy Urges Measles Vaccination as US Cases Rise Oz Arab Media",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "To Your Health: Vaccination best way to protect against measles - Times Leader",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdUJkajNGVzU3Y1pZWDg2SFZSbE5qYVZndTVNb2NGYm4tNmk1M2xrQkxFZncxSTZlaU9QRmxpQkN6YkZSSEgzRUZ6ZTNfNkxNS2NYV2stSnFEU0lKb0xheW5uU01RQ1BaS2V0NGxsRmEtaFkwQS1rcFJLSk1LWjhqWV9EMDAtTFByVTYwQzB5bzZJdW9Ed3FwU2JfNGJkS01WUUlJdnBKZFFmeFU?oc=5",
       "pubDate": "Mon, 03 Aug 2026 21:57:00 GMT",
@@ -122,32 +122,6 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMTNja1JtWDFBTkJOZ25RWHFpclQ0LVNOc2hwX3NBUV9xeWhOei0zamhRMkcwSmZkdHVBVlBUX2hXcVJDRHZZdTdHMUR3Rzl2NEEwVU1XbVo1Yks5Y0ZQd3JpNjVQQmFvd3N2TE9JWHdTY19iRDJQemM2NDFmTkQtcg?oc=5",
       "pubDate": "Mon, 03 Aug 2026 21:00:03 GMT",
       "description": "New Mexico measles outbreak estimated to cost $5.4 million Medical Xpress",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Governor proclaims August as Immunization Awareness Month - sabethaherald.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaTEwTFBnWGpEcFpzbVFaMkhMb3NCZGlnd3luTlBUS1FxaXBBVXUxUGJIOHF0RTBRblN3OWx5bkJ1dzNJUWhnQ3NGQ0J3U0JEdnNHYVp6QzVEQ2RyTVhFV2F0UWhQR0E4RVRnN2MyaWo1TlBIV0h0QUNsMU9sYVZ5M3JCUURCaWZlRXQyNm10MTNIa0cwc01qdk5RUlVSYXBf?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 20:59:38 GMT",
-      "description": "Governor proclaims August as Immunization Awareness Month sabethaherald.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Pa. health officials release new data on measles vaccinations, showing slight drops in the Philly area - Inquirer.com",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON0Z5S29EU0FlQzVWbE95VndsUzd3OXBPV3l1WUQ0NTJkejhOcko1OENyZWFFTWE2czFyMDJOZU92ZV8tRkpNVXVSWXZtVmx1OGFjbFRIN1g3MDRUdjhTVXBfZVphQU1zc2t6MHhzZVZYYlk5bHlVOEVhT3hfVzNZNXFVUFFoMmJTWHA0UTNuRk1HTk5feHFHUjg1YlQ?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 20:32:05 GMT",
-      "description": "Pa. health officials release new data on measles vaccinations, showing slight drops in the Philly area Inquirer.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -300,10 +274,10 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Nearly 100,000 Young People Get MenB Vaccine in a Fortnight - Medscape",
+      "title": "Nearly 100,000 Young People Get MenB Vaccine in a Fortnight - medscape.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTTdTYWgyMHFJdWdoVjlqWWUzS3oyenhUY1g4anFuM29vX05VZzg5aU9YMlFld0hwdGJueVpUWGt2alVXNDFJeDloWmpRSWp2dVQ2NExHb2ZZSFZOcDd5LUp6c3QzRExOUzRKRWVSYmUwRzRYbDVmYVZwSFN0S2Fid3RYU3pWb3dpVGhLZW1oRVdxQmgwZ21FM1ZDcS10aHJoWU5VLWZ0SQ?oc=5",
       "pubDate": "Mon, 03 Aug 2026 17:35:29 GMT",
-      "description": "Nearly 100,000 Young People Get MenB Vaccine in a Fortnight Medscape",
+      "description": "Nearly 100,000 Young People Get MenB Vaccine in a Fortnight medscape.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -348,19 +322,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "RFK Jr. challenges Dana Bash in contentious vaccine debate - WIBC 93.1 FM",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUWxFZG1xTzhGbDFkMTk2NTJyZWkzbjdRR0NmVEoyMWZOVERLMDY2OXlweExRTmNjU1Z1QjhCWEIyQkJYd3UwSTlRWllrRGdCaXRNRnlOSGI1ODVpUDNiSWVac2V1QjRUeU1sdGRheU83Ull2UmZULUFCUFRodHZRdTF3cXc0RmpVNXc?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 17:22:29 GMT",
-      "description": "RFK Jr. challenges Dana Bash in contentious vaccine debate WIBC 93.1 FM",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -508,10 +469,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Georgia doctors urge back-to-school checkups as MMR vaccine rate slips statewide - CBS News",
+      "title": "Georgia doctors urge back-to-school checkups as MMR vaccine rate slips statewide - cbsnews.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT1Q0OFM1NjVpM3JnSDd0WUduTGtlWXBkbnBWd2VvUmJuVndKb2RTMVdqTjBCM2xWc3V1Ym1XbkIyY2RlMnFSUVB2c1ptdjBKVnV5OHA3Z29pc0R4VGFXWmh0djNkcGRaXzRhc0dyeXVNSWZxUTRzZFpSYzdHZzA5cW9INENaRjBHNDlZQVphQXpkNFVKS0VhRnRDMXBZcWVNbkFwcU5ZREEzQlhsemRIZ2V1SEtpWlJRQ1E?oc=5",
       "pubDate": "Mon, 03 Aug 2026 14:29:13 GMT",
-      "description": "Georgia doctors urge back-to-school checkups as MMR vaccine rate slips statewide CBS News",
+      "description": "Georgia doctors urge back-to-school checkups as MMR vaccine rate slips statewide cbsnews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -534,10 +495,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "MMR vaccination rates slipping across Georgia - CBS News",
+      "title": "MMR vaccination rates slipping across Georgia - cbsnews.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNR2dZQXA0NkNzY2ljWlpOdDlHVlVhV21fOGxqSTVlN01lTWdZUWVDNUtuTV9UcXRRTXNOMFQwNEEwTkEyRVo0Z3lNLTYwYlVjVjRCenk3MkFKaXVid2o5bWdILXFVeFRDdUR6ekRrdGhvemlYUktSYno2UUI1bkdzcFF4c1Q4SVNoajFBRw?oc=5",
       "pubDate": "Mon, 03 Aug 2026 14:24:00 GMT",
-      "description": "MMR vaccination rates slipping across Georgia CBS News",
+      "description": "MMR vaccination rates slipping across Georgia cbsnews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -547,10 +508,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Back-to-school vaccine clinics scheduled for Sedgwick County students - audacy.com",
+      "title": "Back-to-school vaccine clinics scheduled for Sedgwick County students - Audacy",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DV19Qa19pUkRxSzFPU3hXbDBtMTlCQXZ5TmcwdnlNbDJVMmpVekx6STRjdWxfY2tvU3laci1TdXZQN3N1MC1TTDJ3eTQwOVg0TkVDOGp2bTRicU1GNTJJbGhSUTlhbDdC?oc=5",
       "pubDate": "Mon, 03 Aug 2026 13:49:00 GMT",
-      "description": "Back-to-school vaccine clinics scheduled for Sedgwick County students audacy.com",
+      "description": "Back-to-school vaccine clinics scheduled for Sedgwick County students Audacy",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -560,10 +521,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Preserving vaccine progress depends strong, fact-based public policy - Louisiana Illuminator",
+      "title": "Preserving vaccine progress depends strong, fact-based public policy - lailluminator.com",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKSXJsS2VQd1Jucll2OTVqZ2dUV0dzYS1zcTRUa0JHbHo2OHFjbmxyT2tsUXZDSFhHRG5JRTJla3UzWS0zWlNmcHpuLXFFTlVLN3ppWE0xNzd5VHRkUXRuYlN0YmpiS0VLdHkw?oc=5",
       "pubDate": "Mon, 03 Aug 2026 13:39:56 GMT",
-      "description": "Preserving vaccine progress depends strong, fact-based public policy Louisiana Illuminator",
+      "description": "Preserving vaccine progress depends strong, fact-based public policy lailluminator.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -677,23 +638,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Florida Attorney General threatens catholic schools over vaccine mandate policy, says accept exemptions o - timesofindia.indiatimes.com",
+      "title": "Florida Attorney General threatens catholic schools over vaccine mandate policy, says accept exemptions o - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQekVRMGdISWQwcnI0YUhIdUlYQUxuUEczaVFIY2ZuZDQ3Tmpub1NSMDR5RDd2UGVRT2UyS3dmMkZQc2xlZFdLWE5ldTIzSkY3aWtnTjQ3R3Q1Sk9VaklZakFtQ3hUamJneDBrWHlfdWVTZERmclVjUmo1cDRqbnBvWUI3RmVfY1pNM3Z0T3k3UVRnWkN4RWt3RTRHUmxtalhGVS1VM2k3TlR4RXY5TGJwTDFSX2hzbHd6Q0cxdHJ2VDNHRmpYdUxrVWYtWjJhbTNxdkpNT04tR05abC1ZdFYwWEVaalZkQkpsa3hQNV9WZUxvVTJnZ3M2YTVxclNZcjE2dy1GMVVqekg2SlNRSkhaVGdUeXl1UF9Y0gGeAkFVX3lxTE9YTlQ4Y1VxRU52b2hHdEowUml1V3ZQY08zOHFxTm5DQlo2Q1BBeF9wcGloV3F5dkJHbHp6SmtNcWNwTFVPVy1LR3RFY0VjN0cyaUlIY18yNXJfd1Q5REhlUFlkZHczSW5QY2xPVWppZlFjYlBKNFZDSDF6WGE1ZzEwS2V5bUc0QTdQeHMwdUk5MHRFUV9XRmVYVmoyekVMVC1TckRFd2VHZ0h5UTcxYmlISEV0TW5KbGpNdFJOTlJhckxSeTZDaUtRdmRtbDJ1OFd6bHIwbXRJMW8wQURwMFFmRG50blNnN29NTmVUbWcxQW42dnlqM1N4NDBSRmFxUl9OU0szdXRXM3RQRDJPRV8tREF0V19SVi1kX3VtY3c?oc=5",
       "pubDate": "Mon, 03 Aug 2026 12:25:00 GMT",
-      "description": "Florida Attorney General threatens catholic schools over vaccine mandate policy, says accept exemptions o timesofindia.indiatimes.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "First UK patient given bespoke lung cancer therapy vaccine - Wired-Gov",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV2FZN2Z0VnNUck80Z280RUZGeHE3akJGVEIySktINHFxNjNyVjFQbkxWMTZMX0VJbjdBUjFtNHZTMlU1d19UYmcxWE16UlBidlJOc1JHYjYtMjJGckxGcjI5WHJIYXEzMXFMNEVUcEd0QmdzNVRyRGV5VTB1dHlxN0VUV1hWMFFHYU9LUkNqdDFwR3N2MGx6a3lhRThZUE1VR0dVSDFyQm9qeFJkZVgyZGs5N0E2RnVUeXQ0ME40MXNPU0k?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 12:05:47 GMT",
-      "description": "First UK patient given bespoke lung cancer therapy vaccine Wired-Gov",
+      "description": "Florida Attorney General threatens catholic schools over vaccine mandate policy, says accept exemptions o The Times of India",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -872,19 +820,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Inside the trial for a vaccine to end malaria - The Telegraph",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVGFMeTBnNDRGeGlwdi1MSW9HSWNPcFNNMVFfZmZzZ1dULTlzUi15bXNYMEMtM0YwTnBHN2wwQkQ4UW1mbjVDclE4eU5zRklpZy1Nai1tTllYTktzMElsai02ZTl5aHVsVlJaUFlGc2ZHdXdaSlNuU0R2T0FpRkQ1eXBDYUxhOGg3N1pYbGhiN3hWbmxlWlpqbnVpcUJXOWFibUpCWksyNVUwTzItUlNscm4wWHZidw?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 05:50:00 GMT",
-      "description": "Inside the trial for a vaccine to end malaria The Telegraph",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "Russian health authorities update flu vaccine strains for 2026‑2027 season - Новости GxP",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTHNCb0dGUXhJc243OHpvbEs5OTg1Ym03WEpRVWhYV28yRjJmM0g4dHhNbGZja294WmxEbTh1R3dzaTFjMUZnUW5EdnFRZ2VlS29RVEtiS01IY2F0cmRkTjZIc1lERDZMRTZ4Rkw5NVJCdEZxVGZieW15XzZIc2o0X1V3cmlyREs0Z3AwY01KdVQ5U2l5c0pOejRzLTh0SHVGVmZBYThuOWJTQTJJa3NaVzNjeDDSAbQBQVVfeXFMTUxzQm9HRlF4SXNuNzh6b2xLOTk4NWJtN1hKUVVoWFdvMkYyZjNIOHR4TWxmY2tveFpsRG04dUd3c2kxYzFGZ1FuRHZxUWdlZUtvUVRLYktNSGNhdHJkZE42SHNZREQ2TEU2eEZMOTVSQnRGcVRmYnlteV82SHNqNF9Vd3JpckRLNGdwMGNNSnVUOVNpeXNKTno0cy04dEh1RlZmQWE4bjliU0EySWtzWlczY3gw?oc=5",
       "pubDate": "Mon, 03 Aug 2026 05:13:09 GMT",
@@ -946,19 +881,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Breakthrough vaccine shows promise against deadly elephant virus - Straight Arrow",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMDNhWUt3S1VjeUk1YXVtZUlPbzZKZ09Ya2lkeFBBLUhXLXg0Z1o5RjV6M1IzcUsxZTR6dTNmN2RxU2dQdEJ4dFgzMmFKSnB0bnRlbW9oal80NS10UmxSbmEyWXVjUG5YRnl6aWpHOWNKNkJ0ZkYtVFRoNXp6eVdfbWRuSzc1LW9lMnpnUA?oc=5",
-      "pubDate": "Sun, 02 Aug 2026 20:58:39 GMT",
-      "description": "Breakthrough vaccine shows promise against deadly elephant virus Straight Arrow",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1080,6 +1002,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "U.S. Restores Some Vaccine and Health Aid to Unicef, Gavi and World Food Programme - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXdmRGtCVW45N0hDOURqY2dWb3ctVnc1NW12NkExNkpaOUh1WW0zckJBVXFaOWtqMmZaNENIUkU5MjhLVTJ2Zk5JaDdVcy1JOG5TM0tPZkVTNkRCT1BfNS1NUUhqMGU2OFRxN0VfYVZyT256TWJSRE8teHZCNjJybzVEcFdTdW8?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 15:22:14 GMT",
+      "description": "U.S. Restores Some Vaccine and Health Aid to Unicef, Gavi and World Food Programme The New York Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "US officials focus on identification and rapid action as measles cases rise - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jQm41ZzFQaUVnQWx5b2w1dEpjbnZoME1seGxUSGFhVVRJbjFzUXZTX2pMeHpST0tib3lua1lwUzhacFBZakE2OVIxRTJqY2xqdWUwb0lBdkJuN05qMnM1enNCTFBuTHMzZGhsSl9oZzNIQW1LUjJZX2Q5QlZhUQ?oc=5",
       "pubDate": "Sun, 02 Aug 2026 11:00:00 GMT",
@@ -1089,19 +1024,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "U.S. Restores Some Vaccine and Health Aid to Unicef, Gavi and World Food Programme - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXdmRGtCVW45N0hDOURqY2dWb3ctVnc1NW12NkExNkpaOUh1WW0zckJBVXFaOWtqMmZaNENIUkU5MjhLVTJ2Zk5JaDdVcy1JOG5TM0tPZkVTNkRCT1BfNS1NUUhqMGU2OFRxN0VfYVZyT256TWJSRE8teHZCNjJybzVEcFdTdW8?oc=5",
-      "pubDate": "Sun, 02 Aug 2026 09:00:07 GMT",
-      "description": "U.S. Restores Some Vaccine and Health Aid to Unicef, Gavi and World Food Programme The New York Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1219,19 +1141,6 @@
       "sourceLabel": "News",
       "vaccineKey": "flu",
       "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT",
-      "description": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
