@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-03T05:40:15.379Z",
-  "itemCount": 81,
+  "updatedAt": "2026-08-03T07:37:33.761Z",
+  "itemCount": 80,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 6
+      "count": 4
     },
     {
       "key": "flu",
@@ -20,7 +20,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 12
+      "count": 13
     },
     {
       "key": "hpv",
@@ -33,12 +33,43 @@
       "count": 1
     },
     {
+      "key": "malaria",
+      "label": "Malaria",
+      "count": 1
+    },
+    {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 58
+      "count": 57
     }
   ],
   "items": [
+    {
+      "title": "RFK Jr urges parents to vaccinate kids amid record measles outbreak - ABC News & Headlines – Australian Broadcasting Corporation",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMmlzVnlSU0o0NTFSN0ZueTJQREhHaGdLeGdoeFluNVRLLXBIcEprNy1qTnpua0hlTmpPREVVdVdSZG8yeUp6dW1JTUVWbFF1VUg3M244NVBqWS03cnJLS1Z0aGZzdl94Z25qZ1Y2MmlCM0xYS21rTkFzTmlxdHpyaHpvUENtVkhKUkpBVVBQMno4SGdBYjdpTzdUYw?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 05:53:09 GMT",
+      "description": "RFK Jr urges parents to vaccinate kids amid record measles outbreak ABC News & Headlines – Australian Broadcasting Corporation",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Inside the trial for an experimental malaria vaccine - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcjZGNDhNQ21XdmswRzVUMW9RY2x4SXVTeXdPbThuRTVwc1FVaGNvSmR2LV9pS1JxT05KT3pxLTk4a2k4WHdRZHlodGJSeUx0T2VNQXN6RzhZME5UVVhhQ2V5WUdaekxBMzlDc3p3bl9DMDdPbDgxSXhXNE9ZQzZzZ09lU0lUMGd6ODdMbE15NnVxbzVIamQ5a20zMEtuNlFzQUE?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 05:50:00 GMT",
+      "description": "Inside the trial for an experimental malaria vaccine Yahoo",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "malaria",
+      "vaccineLabel": "Malaria",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
     {
       "title": "No young woman has died of cervical cancer in England in the 2020s - Healthcare Today",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUXMtNHdiTy1maElwc0E5YXg0OF9tSXNHSXNUSkdaZUdfakpnZ05YUE8yMi15YWlKSFptdUI0bDRmczZnamExRXBIM0lBWWg1bEZVZFFNOXU3STR4S0pjcXIzd2dXcm5WbmdJTDV5MEpjV01zQVpEbkg3Q09lRFVneVdvVUlHN0FKOWg0SzV6REZQTkItdVl3bEZKcDhzaEpTT0FHUQ?oc=5",
@@ -88,6 +119,19 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Robert F. Kennedy Jr. Clashes With Dana Bash Over Fauci Blames Lockdowns, Vaccine Skepticism - NewsCord",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUXNIQ19ZWFd4X0VQdFNtM3BlTmhKbFNoWXlWbEdxU1pGSGZMQVY1eFE0Wk80Nk1MaURCQlBwTGtaQzV2UDBTMjFhNkZJZm1kVXVQV2dYVTU5RThUQ3BXelFKS3E1eEFpczhJT1V2UzNfQl8xQjlwMXhrR0ZzRVB1YXdJN3ZrQVFFTVJZaWhQaWsyaGM0eTRBUHdRanplS1ZjVVlVREpaVnh5LWJySjJMc0h4aUd6WHlDcGQ5ZmpkRDBUb3NHUmhjLTktZWtDRTNVZ0lqNWg0QTdrQ2l1cXFOanNZTXdYZG9fN3c?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 02:39:19 GMT",
+      "description": "Robert F. Kennedy Jr. Clashes With Dana Bash Over Fauci Blames Lockdowns, Vaccine Skepticism NewsCord",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -183,10 +227,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Sickening signs of vaccination neglect | EDITORIAL - Baltimore Sun",
+      "title": "Sickening signs of vaccination neglect | EDITORIAL - baltimoresun.com",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nRnlkakp4cDlsT0FQVGpHYTEtblZ2a1p4RnU3NkpxZTV6UWJudVJFbXNCbk1zalJYV1hoekk5UzBlR2FILTNOeVZVZzQzR0dUMnc3QmQ0SXlIOExVeUlhS2d0SDFhSXFiUHc0WWowMlFsNnQ3ckp5SjVn?oc=5",
       "pubDate": "Sun, 02 Aug 2026 20:33:07 GMT",
-      "description": "Sickening signs of vaccination neglect | EDITORIAL Baltimore Sun",
+      "description": "Sickening signs of vaccination neglect | EDITORIAL baltimoresun.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -222,10 +266,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "A Doctor Fact Checks Secretary Robert F. Kennedy Jr.’s CNN Interview - forbes.com",
+      "title": "A Doctor Fact Checks Secretary Robert F. Kennedy Jr.’s CNN Interview - Forbes",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcV9UM0U1VnZrYnpMUTVtVzBFRE8wclZmMjhwQnlWOVFSdzBROXM0YVowLUFrSnJDdGdNaXcwdTZVTUh2c0dQQmJXZzQ0VGI1Q3VfanJUaDltNXJIbzdfSzNGamtmRW9MSkRmWFBhR2dlSGRzeE1xREhlTUVlbUk5VExfMVNsMTNFU3VMSGhRNkJPdDBWUDNQLVFxTzRleFYzYkktYWNTUHExRFRNeThUcC1sWHFQQQ?oc=5",
       "pubDate": "Sun, 02 Aug 2026 18:50:35 GMT",
-      "description": "A Doctor Fact Checks Secretary Robert F. Kennedy Jr.’s CNN Interview forbes.com",
+      "description": "A Doctor Fact Checks Secretary Robert F. Kennedy Jr.’s CNN Interview Forbes",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -326,19 +370,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Yemen urges international action to protect children in Houthi-controlled areas - Arab News",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JNEVTVXlpNVZXTDN0dmtXd3VGN2NMQ0lzR082X2ZFc0RmcFpzM3BOWUpWRnlMaXBTakVLSzRYb3IwUXc5YXY0MHlaRVhMRzBBaUhNUlM2YWF4NUg0bVE?oc=5",
-      "pubDate": "Sun, 02 Aug 2026 16:03:01 GMT",
-      "description": "Yemen urges international action to protect children in Houthi-controlled areas Arab News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "RFK Jr. says parents should vaccinate children against measles as U.S. cases hit a 35-year high - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOa1E5UkxWVi1ZcGF1b3J6TWctNEE0NFp1UFNEQTFxNll1cXk4bDBiZS1mTU91ZXZMTmN1X3BmYWd6eXNQYjEwZTgxaHJmcEpiU1BLR3liZU5rWmpmbndTY1lGZFcyWHdINE9zN3NyMEtIa3VyU01DUV8yUEZ6a09NRXg0cjcyUVZzU3hicmdMd3I1T1pXNW50VDZvaEZJZ0pFdmlsMXByMTYzUUx5Y1JZQk5ncXZFR3Yzdm8xRk8zNExYUVhjWmwtb2xkMkRuV1FReDB2bm5wUXdlMl9jbWIzYjlsNkNvQQ?oc=5",
       "pubDate": "Sun, 02 Aug 2026 16:00:31 GMT",
@@ -365,10 +396,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "How to find the vaccination rate in your Texas school district - click2houston.com",
+      "title": "How to find the vaccination rate in your Texas school district - Click2Houston",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb1ZDNFo1aXVPcUZFanYtZ1VoOEp4c0p4djVIeWh3Sm42WTRsZWhDeG9PNlE2WHU5cThpeklhcnRDWUJwTFExSTh1MGZjQWJJSG9aQU5RQjhnSFZaZ3FWeUEyeXI3UnZsZHktTVR5SnlmeUgxd1luNnNBNjVkU3U0TDVsV3VZTy1sTGdlcWJ6YTJUQkpIUFNwVThrWHBOMmlNbkltQXY4bmR5VDBSUTJXMWVnMFpwQQ?oc=5",
       "pubDate": "Sun, 02 Aug 2026 13:33:25 GMT",
-      "description": "How to find the vaccination rate in your Texas school district click2houston.com",
+      "description": "How to find the vaccination rate in your Texas school district Click2Houston",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -456,10 +487,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Trump vaccine policy reversal deepens rift with Health Secretary Kennedy - report - jpost.com",
+      "title": "Trump vaccine policy reversal deepens rift with Health Secretary Kennedy - report - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tRnBLQmdKZXY5djQ4N05XaGVFWXI4RUpxekQyZGpiWEtvUDdrZE0tZU53WDFrVlgtZjJaZTlCSjFMRF9YWHpaS0IzR1VwVHV3c1NWVFRITElfbzJzUUlmUlhoQVM?oc=5",
       "pubDate": "Sat, 01 Aug 2026 11:08:15 GMT",
-      "description": "Trump vaccine policy reversal deepens rift with Health Secretary Kennedy - report jpost.com",
+      "description": "Trump vaccine policy reversal deepens rift with Health Secretary Kennedy - report The Jerusalem Post",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -486,19 +517,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa2JQejF2RXpOaFI1QjhrMGY5N2ozR2RxQndaaW5DazlNbGlyYm5iUmhWRlJrbkpFNmlhYlJYQXJ0b1JQTE5iVmNPY3Rna2JYZHRMQ1QzWTRpbmU3bjNDbVA0RG9XeUpoMk1OeU1LazYzM1ZlU05vRUszTldLU2hVMjlsam1qclFkU3c5R3RjOUM0WWgwdV96UVVTZkVsbDkyc1Q2c1p2dGFVOGM?oc=5",
       "pubDate": "Sat, 01 Aug 2026 10:28:34 GMT",
       "description": "Back-to-school vaccine clinics scheduled in Fargo this August Valley News Live",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "RFK Jr., CNN’s Bash clash in heated interview: ‘This is not productive’ - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ09tcUthWEllckcxTFV6TjRNdzNqc2cteEt3XzY0eGozcFhwR3RmVEI4UTRyYXc0ZUNLa2JmZS1VZV9ZdVhVZEh0QkVwQ3RZUE1IRGNUWS1aSEtPeXNkUksxWTR1RlRDZG9SaXg2a0JLRDFKTkJmSXhzYnBtNFFoSk1vUHlxUknSAYwBQVVfeXFMT2hXcGZwTkgwN1UweHRMOENnSzNvTVRBM29YRWVPV3RMRlFlOHNkLWFZR0dJeHgwYlNHLXRlSVFzM0lEeFJESTItYkVaUm1ua250ODlJWWtsbk9NX3FIN2Jnb3Nha1dOX3dNNnV1TGZDZml0Rm1FYm1WRnpiczgtMml6VTRvX0NVUHJHM0c?oc=5",
-      "pubDate": "Sat, 01 Aug 2026 03:27:24 GMT",
-      "description": "RFK Jr., CNN’s Bash clash in heated interview: ‘This is not productive’ The Hill",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -794,6 +812,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "RFK Jr., CNN’s Bash clash in heated interview: ‘This is not productive’ - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ09tcUthWEllckcxTFV6TjRNdzNqc2cteEt3XzY0eGozcFhwR3RmVEI4UTRyYXc0ZUNLa2JmZS1VZV9ZdVhVZEh0QkVwQ3RZUE1IRGNUWS1aSEtPeXNkUksxWTR1RlRDZG9SaXg2a0JLRDFKTkJmSXhzYnBtNFFoSk1vUHlxUknSAYwBQVVfeXFMT2hXcGZwTkgwN1UweHRMOENnSzNvTVRBM29YRWVPV3RMRlFlOHNkLWFZR0dJeHgwYlNHLXRlSVFzM0lEeFJESTItYkVaUm1ua250ODlJWWtsbk9NX3FIN2Jnb3Nha1dOX3dNNnV1TGZDZml0Rm1FYm1WRnpiczgtMml6VTRvX0NVUHJHM0c?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 16:02:00 GMT",
+      "description": "RFK Jr., CNN’s Bash clash in heated interview: ‘This is not productive’ The Hill",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "'Overall vaccination rates are declining': U.S. on pace for worst measles year in 3 decades - KSDK",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSnpWRVVkRmdOUE45UWlGZVBfbEttbm11dWNlampfSUp0eEZ2VDV1SlhucklqWnRxN3VlZG92bVdRMlk1cWJFS1VuMzB5RUh0dG13NXAxSDBHQXNwX3ZYeVBrVFBvVFFwVW5KN1NoZHJQV0N0SzdMODJmdzFFa3pKc1BfeVNvVHNoSnNWRVpsc3RIaVUxelhzVDQwbGJ0NVNEeGhDTkJuUVpUS2F6V3VIN2Y1VE1LUGhJVkR0cGFoZlNwS0ppNnU0dEZYS0g5Q2RaZ09EMW1ocHEtcEZGV0psZzRqMFpPZnZsaGQ2N3FhdThRZnVoMWNDQ2VzQQ?oc=5",
       "pubDate": "Fri, 31 Jul 2026 15:22:00 GMT",
@@ -898,23 +929,10 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Moderna beats quarterly revenue estimates on COVID vaccine strength - 1470 & 100.3 WMBD",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd09rZENmWHZWZFFhaVdQYlVwQjgtRGRiS094czExVXYwS1BpS01zeHcySUVBTUdZMlZqVlVoTHVqQmhCc2J4S1JqZ2NFaTItOGFlY1BmeGNla0tyZFdfMi15TXhRbllEZ3JpdUtYWGRCNVZxQml4RW9iYjdvMm9FeHpIZUx2TGV1OXdpdTloalNHbUplVjc1eDQ0NWJQX3ByM3d3?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 12:01:29 GMT",
-      "description": "Moderna beats quarterly revenue estimates on COVID vaccine strength 1470 & 100.3 WMBD",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Moderna Says Norovirus Vaccine Didn’t Meet Statistical Criteria for Early Success in Trial - wsj.com",
+      "title": "Moderna Says Norovirus Vaccine Didn’t Meet Statistical Criteria for Early Success in Trial - WSJ",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUGRzMENLMHh5X255MUNMMEVaUG1FbnFJUy1rb1Rpd3NWcG12QXhYZmNmeTVGM3k5YS0xVWQzZ2N4dXFKYzF4bGxuZm4tclR1MlZJLTMtSXBfX045WUhSVXZKSE9pdG9uWnBfMFlvdHBoaWU4TGdpS2FaV0tiUlFBWDhFbS1sN0NmNk9UZ1FOVDhSV2gyX210R2swOHhUWlZyQzRlVnhrdFpYUmJFZFdDV0k4X3c2ZmZsZEE?oc=5",
       "pubDate": "Fri, 31 Jul 2026 11:52:00 GMT",
-      "description": "Moderna Says Norovirus Vaccine Didn’t Meet Statistical Criteria for Early Success in Trial wsj.com",
+      "description": "Moderna Says Norovirus Vaccine Didn’t Meet Statistical Criteria for Early Success in Trial WSJ",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -922,19 +940,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "Parenting role models shape mothers' COVID-19 vaccination intent - Contemporary Pediatrics",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQm45eHlsa3RNOTFGQVFyTjV0RXppbXZyVDhjcWwtNWFmaE1ScS1XaHFQWl9rUE8zWmZMXzNLcHR6QzFkWXlzQlNjak5GbXFIbG1ReGItSzREUnE5azhZM1VWenEzYzcteC1CaXlVWmtqMG42eFJsd1c3aTRzbFNUbHoxdUxTckFjdlZmcnNkQU5xYUZyUVN2TFVXX0ZfdlpoWHlXWURwWVhkVW8?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 10:16:14 GMT",
-      "description": "Parenting role models shape mothers' COVID-19 vaccination intent Contemporary Pediatrics",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
@@ -967,19 +972,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWmdReHI0UExQSnRaQzV4R1VUR0pZdzU3UjloNFctZ2E1VURWZE5KanZNeDVUNWVzcWgzMmpDaEk0SGZlQVVtZEI3MkxlRWM4QjVBT2s5RWhDOHh3TnB3QU5KTF9SZXFqblBkTGl0SkE2eHRtZmdDQ0dwMHBka1ZBajYyZWtkeTNzSEU2QWkyME94a2gwVFAwM1N5SmVWWFVhcllPSDEzVU10VWpXSTFickVaanlUX1I5MTBv0gHAAUFVX3lxTE9BTG9LU25vYzhSNkQtRUdBT3BmR2dkMTViQl9LODYzZzlPV25xMmxrXzJQRmpJSXJHR0xCb09Kd1ljTFVSQmZkYV8yM3BkZUJFLV84QjVrVV8tX2NjRDlQYnpYckNVUHozY0NFbG14ZkFKTFdFY3NRTGJnNnI0ZEswb25qQXY1RWtOTE53T1R0VEtPVU80QXN3azFDbkZEcXYzZjI1WjlsSV9sNjVIV0s4aS16ZVphWTNjNDQyN2ZQMA?oc=5",
       "pubDate": "Thu, 30 Jul 2026 16:38:09 GMT",
       "description": "Researchers find ‘priority zones’ for yellow fever vaccination of golden lion tamarins news - Mongabay",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "'Inexcusable deception': RFK Jr., in exclusive interview, discusses Fauci diary - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS1RNaUtDcVA0a3pjMmVmYVpZZUFGZGd4NzhCeE1FRkZnM0VSeUNEZlRJalRtSXE1Z0FjYlU1Wmx3V1Z1cDJTUnZiQjJ6UGZ4QWI2SlYtVVhVUElIbE11SG9SaXYzb3FkMDhYOF9maDI3aU1iV3oyQnFQREkyeVhlSFBxdHo0TkFWa01oTW8zQ1YxZ1U2Q2RqSGFtdTd5TnZTLXZtOGZnQQ?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 15:40:00 GMT",
-      "description": "'Inexcusable deception': RFK Jr., in exclusive interview, discusses Fauci diary USA Today",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1041,10 +1033,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Trump cuts WHO off from Gavi vaccine alliance funding - Al Jazeera",
+      "title": "Trump cuts WHO off from Gavi vaccine alliance funding - aljazeera.com",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbTFPbDhkZGNrQlZxeG11UWw1MDlVUmZYdVJTNWU0NHhadWxuWjUwOE55S1dJQnF1S3JubHRPbXFKQ3pBa2tpNEYweEwzanhoeGJsemlyUmYtdmNGdWJ1ZWVUR3Z3dl83WFdwTHpKYVpHSkZlRGtMSjdvNFEycDJ2RVl4bXBNd3JjdDhZQ3UtONIBlAFBVV95cUxNNVRyRHJ6SkdxSGNSMXRlWXM0bnZtY3lIWmdQXzE4U1lTWXo5Ym9CRDdhRDd3NkRuNjRIYllrbHBnZmxoU2pjSXhvcmdYZmwzVjNIOXdXa1VWeXJJSXU3UEFib0VxWi1uRDhnMFh4Ql9JblFtdVJrZ0I1M0puUVN3bjdQNlBiZTNiRkJ3U2xFcmtPaVJE?oc=5",
       "pubDate": "Thu, 30 Jul 2026 00:34:40 GMT",
-      "description": "Trump cuts WHO off from Gavi vaccine alliance funding Al Jazeera",
+      "description": "Trump cuts WHO off from Gavi vaccine alliance funding aljazeera.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1067,10 +1059,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "‘Not out of the woods’: Delaware doctor predicts more measles cases as the state’s outbreak rises to 5 - WHYY",
+      "title": "‘Not out of the woods’: Delaware doctor predicts more measles cases as the state’s outbreak rises to 5 - whyy.org",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mSnM5OWJTV3dxbkJtNHRNNzBBQ0ctdFRtd0dnMHcza2hkMmI1a0NnQkRtOE5HSVBwaGNMSEk1M1VsNzJFNUhLRXkzUnJuV0E2a3lHb25VaDRidmtDVnJ2d05OTkM?oc=5",
       "pubDate": "Wed, 29 Jul 2026 20:12:27 GMT",
-      "description": "‘Not out of the woods’: Delaware doctor predicts more measles cases as the state’s outbreak rises to 5 WHYY",
+      "description": "‘Not out of the woods’: Delaware doctor predicts more measles cases as the state’s outbreak rises to 5 whyy.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
