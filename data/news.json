@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-04T09:22:56.985Z",
-  "itemCount": 85,
+  "updatedAt": "2026-08-04T10:19:36.656Z",
+  "itemCount": 92,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 5
+      "count": 6
     },
     {
       "key": "flu",
@@ -15,7 +15,12 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 19
+      "count": 20
+    },
+    {
+      "key": "polio",
+      "label": "Polio",
+      "count": 1
     },
     {
       "key": "meningococcal",
@@ -25,10 +30,88 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 59
+      "count": 63
     }
   ],
   "items": [
+    {
+      "title": "What vaccines does your child need to attend school in Oklahoma? - The Oklahoman",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNazQ0M2l4SUFyVUxubG93RWRicG14dnFBeURMUkZQZGwxNDgzdzJLcWJROG9ZSUZ2N3VLQzRFOG1CT05qanlmczVORmZFTDZWN2t1RndQZDU5M0NwdmdXMTVlT0pGN3B0Y3N6TUNYUGlpaE5BdWQxaGZpQnZfVVdMOXBMR2g1bFVMWi04WE9SUVJuTmlQaHRvWXNjek5IRnVnLTJfbFVpNEZxaExDVWlkb0ZhLWFuZ3k4VU1waGZ2S1dSMG1sY3RrZ0hrN2FoaHNlaHhhY2NB?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 10:04:00 GMT",
+      "description": "What vaccines does your child need to attend school in Oklahoma? The Oklahoman",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Can you file for vaccine exemption in Oklahoma schools? What to know - The Oklahoman",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObFBmRldnM0ozRjUydVRIN2dDMGtCT1M3UWIyMndyNlVpcl9pN29va041MTJsLVctUDk0RnZoMTBrX0IwSlJZc2tDTXZjVWtaZVk1R2RyOFNodHBpMWZWakw5cGVjOGVwWWdraG4tNVlielp6NjJ0Rk1MUXBZelZ4ejRGOTdjWHdCWDdyVWh4dzQxTVBKWkNaazAtLXRfWTVSYmJ0ZUlUc2JKdFNzeHQwRzhfaVpVVzd3bUotMlhQSUNlaF9JV0p3MVlOWVcxekhVaWVaZ2hn?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 10:02:00 GMT",
+      "description": "Can you file for vaccine exemption in Oklahoma schools? What to know The Oklahoman",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Angola steps up its strategy to eradicate polio - afro.who.int",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVTlPMl85UGx6ek9ZS0ZNVThwNm0wQUNhODRYdkhsdEx4cDg2dFZBYlczV1prY2VnNEpCTGgzS2JBUnlERGFNOUtuemViU0JucWRTaU11NWhmdFIyVmx0dHRjdEhJWE0xNE03RG5fMk9OeGszcHhLTnlZamdxTDBNd2FfNDJfX0pTOHJHZVJjMVBvZw?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 09:59:21 GMT",
+      "description": "Angola steps up its strategy to eradicate polio afro.who.int",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "polio",
+      "vaccineLabel": "Polio",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Pa. launches new tool to track school vaccination rates - WGAL",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLXZKZ1hzZXhqQVZaSlN1bXJqc05GLW1PaFhrWXBGZ0ctZFdWeTJkSkNIWHVBLVdwLUc5V01CcHNJd0M5VDhfNUpYa0pzcFgwLWxfRXBBeVFUQ1BtUGdLYzhiVGhLSXY4MGJHRm1nWDNLcGQ3eWN0WjMzWWxraGZTbTBZdWo5ZDRRSUdMbFZfNE9Tdw?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 09:40:00 GMT",
+      "description": "Pa. launches new tool to track school vaccination rates WGAL",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Back to school, back to measles? | Guest column - Richmond Times-Dispatch",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNHFIZVI1RENjZGN4amgyejF3clVRYlR6UmJHcS1ZLXRCSl9ZdUEzUlVHY2xCS1NqbkQzQXVEOEVZcTh2YlpkRGF3VGd3QVc2UjJiVzkwTzZ0clE1dklvMC1DendrMTd4blRiRlVxSWNUSHBaU3lublU3cFlfbWROdWZPVVg3ZHQzWHl0REVR?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 09:30:00 GMT",
+      "description": "Back to school, back to measles? | Guest column Richmond Times-Dispatch",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Nirsevimab Linked to Lower Risk for IPD Hospitalizations - Medscape",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORTJTaTY0cVdQOGJPZU1fQUlVVFZHdjFTdWdkLTBPZmVibXNfVlhLUGlqeWdUYjJtZ2VRaEFvTGw2Y1RvRjNDdThCankwRmk1RmliTXVCTE5mR3pKRlRWQk1Kbnd3ZDF5aklxbGlGWnBaQlYyd2Y4eHFlNlh3cW9yZkZiTVdIb3BGWGxSUDFCNklHeTF6ZXFsVFFXcWUtNXlDT2ZQc1JUeEVvemc?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 09:22:39 GMT",
+      "description": "Nirsevimab Linked to Lower Risk for IPD Hospitalizations Medscape",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Pennsylvania launches first-ever school-level vaccination data tool - LocalNews1",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSzhaZVN1SHQ5OXc3QVY0VHYybXRwLXM4T003dXU2RksyNzZsTTktX1VBWG1ESW1qTFpEZzlFaE1xdW1KOWg3MHhmOWxzTHNiclJKWFl6Z1VNejVwM3FVRTJXTlNyUElvMVhVN0VldEVwaGZSazduYTItQmpnNW9FakFnSVNtTDRaWFlGRDVKenZxZTMxYVE?oc=5",
@@ -147,10 +230,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Catholic school vaccine fight sparks questions for Tallahassee parents - fox49.tv",
+      "title": "Catholic school vaccine fight sparks questions for Tallahassee parents - wtwcfox",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbENYSjlsWWowRkNHR18xMlNXbjZIQUhVVzVER0FnWDNLWEVscUVWZWxOT2NpeGU0LTk2MnRVc2FnWVdLVFpkNHNtdGdWbUlNa0ZseXQwMnoySWo2b3pTbFZlQlFFUkZYN2YwaTZ2TVRXVmFEdTFnVEx4UEZ5bWppNTNmNHFzMTFvd05GdURLZmEwSG93VDdra3U3TlhCU0U?oc=5",
       "pubDate": "Tue, 04 Aug 2026 00:34:05 GMT",
-      "description": "Catholic school vaccine fight sparks questions for Tallahassee parents fox49.tv",
+      "description": "Catholic school vaccine fight sparks questions for Tallahassee parents wtwcfox",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -186,9 +269,22 @@
       "articleLabel": "News"
     },
     {
+      "title": "Kentucky kindergarten vaccination rates among lowest in nation - FOX 56 News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcm1uMEtKTlpWYjFuS213N1hRWWdBbzdKcHdjOUlDLW9FMzMxeVJjNWQ5aW5LOVV4S21xRkpaQUN6UVVxS2JEY3lOQlE4c0JrTW5rUU14ZklibWZTNWRHajlJdWNPT05OYXdxVGV0bDRiSWMzV0hkZkI4Zl9Ld3gxaHFpVDIxQmxReEp0U3ktcVNaX19EWnJwVnRsTUZDWC1Z0gGmAUFVX3lxTE1TSnlLUTgxMlBZNm5CeERDbnN0ZGhWeGlZUHBZSnZCUW1pTEJkYm1yMWp1bTlCYXllLUx5TlV4dWJvbXJJV1NOekJDUF9Vb1hkdGZPMzBUSkZndWFjR2hoVlBhYTRCeFVYU0RFMEx2SFd2ZlJLSVZrUHdhZnJlNkhYYmI2bk04TDFHTk1LYUJ6d2Jtb2pLQW9rUU1VckloYVhheTZxZ0E?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 23:22:35 GMT",
+      "description": "Kentucky kindergarten vaccination rates among lowest in nation FOX 56 News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "There's a reason child vaccination rates are falling - and it's not social media - BBC",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YcXowQXlqN0tjR3BpdjhHZGo3M2YzaENGdHQ0VG1rQ1N6M1Z6eDc2TkZyd251aGJwenV6bWtnYzhXelc5MC1zdm84WU9ndmNIX2pTVGR2b2FJYXhy?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 23:10:05 GMT",
+      "pubDate": "Mon, 03 Aug 2026 23:10:00 GMT",
       "description": "There's a reason child vaccination rates are falling - and it's not social media BBC",
       "source": "news.google.com",
       "sourceType": "news",
@@ -199,10 +295,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Pennsylvania data tool allows parents to view school-level vaccination rates - statescoop.com",
+      "title": "Pennsylvania data tool allows parents to view school-level vaccination rates - StateScoop",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWTI3dGhZYVktWGFTa0NBc2Vhbm9EWXM3bDlMZHI1WG45aUxjY2wxekNOSGZiVzdoSFNmNy0tMUdKa0VQYnd2TFR2UzUwWExEUUlXRGw4VnM3LVVQSkVObGtRV29CcnFMdVdEUGU1VlFGUzNpanhLVHM4cW5wcHZaNG9QLURqWHhpcW5UeGx3djY5YnZmQXR5RElraC1CRThVcGc?oc=5",
       "pubDate": "Mon, 03 Aug 2026 22:36:21 GMT",
-      "description": "Pennsylvania data tool allows parents to view school-level vaccination rates statescoop.com",
+      "description": "Pennsylvania data tool allows parents to view school-level vaccination rates StateScoop",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -277,10 +373,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "New Mexico measles outbreak estimated to cost $5.4 million - Medical Xpress",
+      "title": "New Mexico measles outbreak estimated to cost $5.4 million - medicalxpress.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMTNja1JtWDFBTkJOZ25RWHFpclQ0LVNOc2hwX3NBUV9xeWhOei0zamhRMkcwSmZkdHVBVlBUX2hXcVJDRHZZdTdHMUR3Rzl2NEEwVU1XbVo1Yks5Y0ZQd3JpNjVQQmFvd3N2TE9JWHdTY19iRDJQemM2NDFmTkQtcg?oc=5",
       "pubDate": "Mon, 03 Aug 2026 21:00:03 GMT",
-      "description": "New Mexico measles outbreak estimated to cost $5.4 million Medical Xpress",
+      "description": "New Mexico measles outbreak estimated to cost $5.4 million medicalxpress.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -290,10 +386,36 @@
       "articleLabel": "News"
     },
     {
-      "title": "US officials focus on identification and rapid action as measles cases rise - The Guardian",
+      "title": "Aaron Rodgers’ Anthony Fauci Attack Revives His Explosive COVID Vaccine Controversy - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV3dkQmY2ckpjempYenBEcThkalNjMFRaRVYwOFZlekJnRl85R1NBVGxsNWlTNUNzQnBUMlNCa2taeW42dmstdkhIeEp0UFJ4QWtJaVV2VmloMzBDMEdzX1FiaGk0a3RNSHNmUENPNFhVdXJzU0Z6anFKR1U3NTNmRXJPMnk5azBtMHFr?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 20:30:00 GMT",
+      "description": "Aaron Rodgers’ Anthony Fauci Attack Revives His Explosive COVID Vaccine Controversy Yahoo Sports",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Pennsylvania debuts new digital tool for tracking school vaccination rates - ABC27",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPczN4M1BYWTBXZ1BYUkM5amszRDdDVXlmQnh4UTlmYlBCejZONlBlblJ4eWEzX2drOUFMaGFEX2lCZTVaeGhDd2xMVnl6Y0p3dVZVS3p4QTlQTTExUjN1MUNRM0tfNEMzUU5yYVJpbkFqZExSVWFnM29jTUhhR0dOdlo5dGhaZUE3RElNNm1YUmdSNFk4cEppc1BEUjNEZW1sTkVZNG5PTGXSAa4BQVVfeXFMTXlmX2FkaVRoLXVsclRsN09yODBRQ2tKRGNYTTNfOFExM2JJcGdRWEtrcHlQNjlIT0V1RU53R0hubWdlVnJNbS0tRXQ5dlNtcWRUOHZGY3JhVG9wQW9OQ0pEWjBscHZBZU40OUlXNFAtRXBoRzliS2lTZ0pLOU44dXVJTnRnZVp2T3BWaFBjQWs0cUNJeHltRFhZWDlGaEFyaGNjcWJOQjk0R3dzbGFR?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 20:24:52 GMT",
+      "description": "Pennsylvania debuts new digital tool for tracking school vaccination rates ABC27",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "US officials focus on identification and rapid action as measles cases rise - theguardian.com",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jQm41ZzFQaUVnQWx5b2w1dEpjbnZoME1seGxUSGFhVVRJbjFzUXZTX2pMeHpST0tib3lua1lwUzhacFBZakE2OVIxRTJqY2xqdWUwb0lBdkJuN05qMnM1enNCTFBuTHMzZGhsSl9oZzNIQW1LUjJZX2Q5QlZhUQ?oc=5",
       "pubDate": "Mon, 03 Aug 2026 20:18:00 GMT",
-      "description": "US officials focus on identification and rapid action as measles cases rise The Guardian",
+      "description": "US officials focus on identification and rapid action as measles cases rise theguardian.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -303,10 +425,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Shapiro Administration Launches New Tool Making School-Level Vaccination Rates Available to Parents, Boosting Public Health Transparency - Commonwealth of Pennsylvania (.gov)",
+      "title": "Shapiro Administration Launches New Tool Making School-Level Vaccination Rates Available to Parents, Boosting Public Health Transparency - pa.gov",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeVd3SnVYb2xSSFlJeE1iRlNQLXB2czNwMUk5Wk8yVTFHWUE2QWpaYmdEdDZGMDgxUWJwZzZPZGNKUjE5bjhBUzc2MnBOSjdXRTYxSWJ4bHlLSHo0UHZMN0NFaUV4T0JGcko2ek9EaTM1MkxLd0Z1WXVhRUpLSi04eTJpZU9nRG5rVlRTRXJfU19LbjBTdHpzOVlWZ2hPVHdBaGc2TXl1OFRGY1No?oc=5",
       "pubDate": "Mon, 03 Aug 2026 19:40:40 GMT",
-      "description": "Shapiro Administration Launches New Tool Making School-Level Vaccination Rates Available to Parents, Boosting Public Health Transparency Commonwealth of Pennsylvania (.gov)",
+      "description": "Shapiro Administration Launches New Tool Making School-Level Vaccination Rates Available to Parents, Boosting Public Health Transparency pa.gov",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -316,10 +438,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Ebola outbreak in DR Congo now second-deadliest in history - CIDRAP",
+      "title": "Ebola outbreak in DR Congo now second-deadliest in history - cidrap.umn.edu",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSEo1aHpTWllacXZ4bE9vekxFZVA0UGRvb19FeVZ4b1JHbENJaWZDNUc0cEFsMnJIbXNhNDQ3SVl2UDJZS3VJOUExOVVaTTJmZk15RjF5czRXUkc2djBTYl9XbGctUmVJc3lrVG5nVGNBMFZFZ1ZxMl9GSGhKOW5JcWNDNlA4UGZfM1BzRkxR?oc=5",
       "pubDate": "Mon, 03 Aug 2026 19:38:00 GMT",
-      "description": "Ebola outbreak in DR Congo now second-deadliest in history CIDRAP",
+      "description": "Ebola outbreak in DR Congo now second-deadliest in history cidrap.umn.edu",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -329,10 +451,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "No link between MMR vaccination before age 2 and autism, large US study suggests - CIDRAP",
+      "title": "No link between MMR vaccination before age 2 and autism, large US study suggests - cidrap.umn.edu",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVFk4Nlp3enNJblA4LVhyOVFmeW1uSFl1VVJDZFVCZnJ3SE9fYmtyd3pDWFlXaXFvc0lPUWU4bXE1VDBBcHlsR1dKaEpjT1JWVzh3Ui1BYmZleWFXcjQ0WWVRMDk3N0w5cENRWGlRNXRLTV8xYkYzZEp0ZndjMVMwUldxeFprZGFuall0bXJqRk9EdDRIbHpkbktnSy0xT0R0Y3pOY2RBUVYzS0YxUlFlYUNBQ0NSQTdPSXc?oc=5",
       "pubDate": "Mon, 03 Aug 2026 19:30:00 GMT",
-      "description": "No link between MMR vaccination before age 2 and autism, large US study suggests CIDRAP",
+      "description": "No link between MMR vaccination before age 2 and autism, large US study suggests cidrap.umn.edu",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -667,10 +789,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Florida Attorney General questions Catholic schools over religious vaccine exemptions - fox49.tv",
+      "title": "Florida Attorney General questions Catholic schools over religious vaccine exemptions - wtwcfox",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbWdqeGNOeE5DMVl1ZXhvdS1URU54dUVhWVBtNUZNZ3ZzUkhsdFhWSVhjNHk3NDZrVFlBbzRjemlMMUJ3QkkzblNnOEhBRlRlNFRoUnBmckE5WkxtdllMZ3BPNnVpVkRDSlpzbkI1WGdONmxBV2NCN1d3SVN5QjFjckVrVVkyZ2Q5VkVmZHZTb2NFaEc0YU55ZkNpWm1yOXZjSVhaZU9aUmlic2NoNHA1RVdrRQ?oc=5",
       "pubDate": "Mon, 03 Aug 2026 13:04:05 GMT",
-      "description": "Florida Attorney General questions Catholic schools over religious vaccine exemptions fox49.tv",
+      "description": "Florida Attorney General questions Catholic schools over religious vaccine exemptions wtwcfox",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -693,10 +815,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Vaccine clinics scheduled ahead of return to school - KSN-TV",
+      "title": "Vaccine clinics scheduled ahead of return to school - KSN.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdE5naXlZTE55dmI3NmFoRk9ob2FFajBndHRNMThXSnRuWldwNU50X2tlR3lKbUp2RTVkU1pPQy1WdWlEamlTZGJWUmVLOGl4aUppZTN3MWNCaEFjbXNZVmh2YWJVUm1JYjE0VEZlajhXdHlwb0t2RGlGMmNIa1F5TmVYTGljNGFZRXF6MdIBkgFBVV95cUxPOXVYN3oybEt4bzhQVnJtWGg2X3dlekN5LXJheXZjQ0g5Tk5KaVBMQ204QndHRWo0WFlyektST2k3ckFSclY4Ti1NcC15V3d0QVNrYzZlYndBVVdwZDNYWU1pemhBQzdaQ1EzMVYzNDRzQ2FJZUlwbmNTTEkyNzFQb2g0MGJRLUhSNTB0cG02cnVqUQ?oc=5",
       "pubDate": "Mon, 03 Aug 2026 13:02:07 GMT",
-      "description": "Vaccine clinics scheduled ahead of return to school KSN-TV",
+      "description": "Vaccine clinics scheduled ahead of return to school KSN.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -762,19 +884,6 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQzNVM2VtX2dJNnhKQ21BaElMeVhTYUJmZUxKR2M2bEdtbmxDaWl1dEluaGdqME82LTBIN0pLQ05yMks1OXdvS1Y3RnRNMUtFSDBBdmFJY3djUExocEpnd3ZsbUVpTDgwX2EzWjhEaXRxb1RHcjVtS1ZKV3lEcDlDT2JuVEE4WXZmbVJjazlsQS1HdWtTeDFGSEFVNXpfa0tMU3k1aHNSNjhUY1ltZ1JHRUtncXYzVEljZjhqTw?oc=5",
       "pubDate": "Mon, 03 Aug 2026 11:00:00 GMT",
       "description": "String of outbreaks tests US public health system amid funding cuts, vaccine resistance Kiowa County Press",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "CNN's Dana Bash spars with RFK Jr over vaccine efficacy, demands he 'look into the camera' and push vaccines - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd3FOeXdQdzg4VkJRVHpPZ1BTQldTVk1QSV95SXNUMUlqLV9KaVhJeU54d19zbnVWTF9yck9JNnZnM1d4c0dJZXVIX1h2QkpZZm9xMmdhU1gwZU9kcHI3TldyUEh4eGlLLWNKbTl5UWFoVWM3SEh3ZTdoQzB1bU51R3N3SGxGUHBLSkpnaHN6MXVxU3Q1MHhJdFZ4cF8yYTlVdnRCUTJrUnFNVk3SAbABQVVfeXFMT0d0YkNseEtSZkloVkFTUkRxUlRudzRud2Y0dE1KUXZDMXNGNnd6ZzZRclp1cWY0MDRiMHB6a0JOZFY1cWp3aWNTMkpySkxOTGQ5UUJhRFNaZzFUOHQ4TjhzUkpFb0xhaE9rYk1EOHFiWjRrOTZfWC1mbVRXZmpaTHNhWHAxdFcxZWFhX2E3RjM2V3pyWkJWbDZiQmdLeVUxZWJuRXYxUkhzSHpJTk52Qms?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 10:47:59 GMT",
-      "description": "CNN's Dana Bash spars with RFK Jr over vaccine efficacy, demands he 'look into the camera' and push vaccines Fox News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -875,17 +984,30 @@
       "articleLabel": "News"
     },
     {
-      "title": "Sickening signs of vaccination neglect | EDITORIAL - Baltimore Sun",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nRnlkakp4cDlsT0FQVGpHYTEtblZ2a1p4RnU3NkpxZTV6UWJudVJFbXNCbk1zalJYV1hoekk5UzBlR2FILTNOeVZVZzQzR0dUMnc3QmQ0SXlIOExVeUlhS2d0SDFhSXFiUHc0WWowMlFsNnQ3ckp5SjVn?oc=5",
-      "pubDate": "Sun, 02 Aug 2026 20:33:07 GMT",
-      "description": "Sickening signs of vaccination neglect | EDITORIAL Baltimore Sun",
+      "title": "Breakthrough vaccine shows promise against deadly elephant virus - Straight Arrow",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMDNhWUt3S1VjeUk1YXVtZUlPbzZKZ09Ya2lkeFBBLUhXLXg0Z1o5RjV6M1IzcUsxZTR6dTNmN2RxU2dQdEJ4dFgzMmFKSnB0bnRlbW9oal80NS10UmxSbmEyWXVjUG5YRnl6aWpHOWNKNkJ0ZkYtVFRoNXp6eVdfbWRuSzc1LW9lMnpnUA?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 20:58:39 GMT",
+      "description": "Breakthrough vaccine shows promise against deadly elephant virus Straight Arrow",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "opinion",
-      "articleLabel": "Opinion"
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "School vaccine rules may protect more than children's health - Earth.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4RHo4Yk1ybXZucnhtUHA3VVhjMFVsR2gxSXZZY0RuTHRjZ0Z5Rm9GM2N6Nm9LUWE0SlRpejlMZXJiS2FHTDNPbXVhLWpQdmN0dFRuelpfN2RmTGQzSm4ySXRhU2xJZmhtbGl0QnFpa01LdkRtY3RqUi1Idw?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 20:41:57 GMT",
+      "description": "School vaccine rules may protect more than children's health Earth.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "RFK Jr. says Trump ‘certainly’ wants him to investigate any link between autism and vaccines - The Hill",
@@ -927,23 +1049,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Second Chance Animal Services hosts low cost pet vaccine clinic - Western Mass News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeGMwbHljRVFCZ0gtR3M4ZHFVcHFtQkczODNJcVRXeC1zRUxDOWpUb0JickxjTEF1VW15Ykw1ODFDRDR2a0d6UjgtN2hiblNDTUJpQWd1R0ppdm1LbDNra3g4R0ZtX0xmRU5WSVRreDBzNGpBQ0ZNYlRDX3FGRVZld0xDT1BOeHM0eEFBaDBiV0phNHRVUUxuakVab180TGt6NjNNNnRmN0QyZmfSAb8BQVVfeXFMTUlQWXAwaTBRMGNaWUZIQnhkT2xNNGxldzNQY2U5NERZYTlVLWhoSW9TbU1idmZxUHhPTkltQzdMZHUweUNFckh2dW9SWUFYR1BidTZBZFhHTXhVTWx4VmRqaXFJLUR0NmdMUVFwNmt1Q05ndFo2ek90MElqYTJHZnJRay14LXNFQnEwbVBtUjdnbVNXN1N2M2ZTb29fR0VOSUtiR2VxelFjeGk1emNPNVVKSllOQUw2b1cyNElZSFk?oc=5",
-      "pubDate": "Sun, 02 Aug 2026 18:48:00 GMT",
-      "description": "Second Chance Animal Services hosts low cost pet vaccine clinic Western Mass News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "RFK Jr tells US families to vaccinate children against measles amid outbreak - The Guardian",
+      "title": "RFK Jr tells US families to vaccinate children against measles amid outbreak - theguardian.com",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZMU9OZ2liMWJPUmUwLUlpZUVwVkRRbTBCOEg0ZXBpQ05kZDVsQVdnMTBaby1tM0kyWG1jTjd6N05VT09BREVVT1NGbkZIbkJUb0FoUmxTTFNsT0czNTVfWjlXR0tQOGg4MzFjdVpDWmRyZ00tbmxERFR6VXE5SGM?oc=5",
       "pubDate": "Sun, 02 Aug 2026 18:28:00 GMT",
-      "description": "RFK Jr tells US families to vaccinate children against measles amid outbreak The Guardian",
+      "description": "RFK Jr tells US families to vaccinate children against measles amid outbreak theguardian.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1001,19 +1110,6 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Trump vaccine policy reversal deepens rift with Health Secretary Kennedy - report - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tRnBLQmdKZXY5djQ4N05XaGVFWXI4RUpxekQyZGpiWEtvUDdrZE0tZU53WDFrVlgtZjJaZTlCSjFMRF9YWHpaS0IzR1VwVHV3c1NWVFRITElfbzJzUUlmUlhoQVM?oc=5",
-      "pubDate": "Sat, 01 Aug 2026 11:08:15 GMT",
-      "description": "Trump vaccine policy reversal deepens rift with Health Secretary Kennedy - report The Jerusalem Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1109,10 +1205,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Over 400 state vaccine bills, 9 new laws, 2 fed charters, and 1 step closer to a CDC director: The State of US Vaccine Policy - CIDRAP",
+      "title": "Over 400 state vaccine bills, 9 new laws, 2 fed charters, and 1 step closer to a CDC director: The State of US Vaccine Policy - cidrap.umn.edu",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU2ljN29vQWpnbW1wal9nSXZ5Q3dPYVdmSTNEUEJCSnBjNklsMkx4MFhOQXlVQlludlVEdjRpdG9meGNVZ29fVHo3elhKLVpObXVwaE9uUnBUSjB4VUxVTzJaajBURE8tMDZpVUlsbFZvbHRoMk12bjB3UHpkdF96STVObEFWYW44ZWFodHRMN1BuMVZ4UC1JcmJMVnFtQ2JUNlZWeFU2WHUtUjNZZUFmYTh2ME40REgtZ1A1eDFDUQ?oc=5",
       "pubDate": "Thu, 30 Jul 2026 21:13:22 GMT",
-      "description": "Over 400 state vaccine bills, 9 new laws, 2 fed charters, and 1 step closer to a CDC director: The State of US Vaccine Policy CIDRAP",
+      "description": "Over 400 state vaccine bills, 9 new laws, 2 fed charters, and 1 step closer to a CDC director: The State of US Vaccine Policy cidrap.umn.edu",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
