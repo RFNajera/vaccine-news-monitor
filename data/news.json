@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-04T14:09:55.725Z",
-  "itemCount": 93,
+  "updatedAt": "2026-08-04T15:12:28.789Z",
+  "itemCount": 94,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 10
+      "count": 9
     },
     {
       "key": "flu",
@@ -15,7 +15,12 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 18
+      "count": 16
+    },
+    {
+      "key": "hpv",
+      "label": "HPV",
+      "count": 1
     },
     {
       "key": "polio",
@@ -30,10 +35,179 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 62
+      "count": 65
     }
   ],
   "items": [
+    {
+      "title": "Moderna begins first human trial of Bundibugyo Ebola vaccine - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRUpseTBiVk8zUzYtaks3RkJCeTlJYURDTllpNy0yZGJjRXg2MnJGWkxiLXhHRW84YXByOG1zZXlsdk16c3Bkdmd4VUl6QVZTSHktX3dnZkctUnZvX01BT2NNSTM4UkZlaHlxbVlmRzE0SHY0NnZjTXVQN1U2U3lfV1h1djNXYmkyaXZNS2Z0UjFmMUNNY25ZRk5fcGhEOUVEYXhVNFcyR1g0alpSZE9xSWdKZk1DRnJsSjZWWm5oZ2JELXhoNkVVTA?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 15:03:44 GMT",
+      "description": "Moderna begins first human trial of Bundibugyo Ebola vaccine Reuters",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Moderna begins first human trial of Bundibugyo Ebola vaccine - Yahoo News Canada",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMSkR1MldWVDFtUDFIVzhaT0ViUU90a0V0eV8xbC1hSEFfYUdkT0MwTmdNQjNwZElGU01UYUdZMnJFY05Rb1V0WDNVOGRMZ3JsQUVucmZhWFl0NnZiOXI3RWtRLXd0MUNPM3F4RV93YkdVOTBsRzNJX1NaZm53UQ?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 15:03:08 GMT",
+      "description": "Moderna begins first human trial of Bundibugyo Ebola vaccine Yahoo News Canada",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "PA site tracks school-level vaccination rates - Daily Local",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV0Y4cXNzMzM1RFJFLVZGMWp0MG85Z3VBN1hOUEpUc1dDTWN5SlA2cUgyQWRhdEFHamI0YS0tMEhiVTd2ZF9CLTdfRjhfUVNwSi1JTm9BNHFOZmwxWEtMUGFBdGZOUGxmY19DZF82dVprdjBqb2trNlBzbVlYemhyM3hoSGxRVmcyeXBtTQ?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 15:00:57 GMT",
+      "description": "PA site tracks school-level vaccination rates Daily Local",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Elephant vaccine shows first signs of protection against deadly virus - Baylor College of Medicine Blog Network -",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQU9xWVliZk5uamZVc3BFNjJ5d05pWGdWWFIxMjc0Y0hvdWdjNDdsbG1wUjVxSTBqZy1IWHpxZGRoOFhmS19zdlVqOWdBX2N2WTE0dDdUbmQ1MFktcmg1c1J3bmY4LXVZRXd1U2NSM01OYS1tVmdkT0hTOXZzRFpPWnBhNGEyTmhPMVRNUkJ0Z21BRmNoMEM5ekxjY0RQN2laSlVfT1R3?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 15:00:51 GMT",
+      "description": "Elephant vaccine shows first signs of protection against deadly virus Baylor College of Medicine Blog Network -",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Health Canada authorizes mRNA vaccine trial for Ebola virus causing huge outbreak in Congo - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOE1MVnVEckFPZW5adEpaMG1oMGxkc3FoQzNOQjdlV2VUTnFYeEN4aDNWQkJrQXV1dk9QTUR4VkpRUFp6UTdlUFh5OGphSHJCMzhzR3VYSy1hME5CNFBneDE4LUN5em1FclEzZVdBZWNMWXA3c2xVQWR6bTZJTUpNd05pVTljZ21vc2c?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 15:00:00 GMT",
+      "description": "Health Canada authorizes mRNA vaccine trial for Ebola virus causing huge outbreak in Congo CBC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Moderna vaccinates first participants in trial for Ebola strain with no vaccine - stocktitan.net",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORlFNdk9rU0JOTjA2eDVvc1o1QXQweXFCZi1KOFc1YWNoZWFxYzFMMmJyejNTVFdwVlZNejl5RWFxbk5mdDNuaHpZZlN5Y2YyNVlnTlA2WExyaHhxbU9HNWRWVmRHRUxXZHJVbEN3OWFnQThTWTFDVFVPWmV0dHNRcXVtbEgwSUVLYV9JOS1FNm1PMVZmOHFRVG5WUVFEajZvSlFmMDhXQVcxN2dVSXYyazlSVV9TejZJcUc3cjhyQms?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 15:00:00 GMT",
+      "description": "Moderna vaccinates first participants in trial for Ebola strain with no vaccine stocktitan.net",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "BioNTech cuts sales forecast on slumping demand for COVID-19 vaccine - BioSpace",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNFd4QkxVaXBzTDZSR29jclVZckFfWkYzd2ZSWlR4eThSbDNQRC1acFJtaWt4THFWTWsxeU1felVKdVNCVTY5aVFOMWtzaUdmYlhIRUxtNTJGZWNwMFdlVE5hMERDbU1QTC1PSUNic3Q1VWIwRGNIVkttNUhtTk9CQXU0eHJWU0RpMTR5WDlFWmJvZW0tOWo2M3pCUVF5UU5rdnc4Qg?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 14:52:45 GMT",
+      "description": "BioNTech cuts sales forecast on slumping demand for COVID-19 vaccine BioSpace",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Ohio’s top health official to give update on Cyclosporiasis outbreak, discuss childhood vaccination - WTVG",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa2FRb2F2M1dmT0NWb2YzbkxRV1d4RWVFN0JmZEk1bDZsam1ucVFzWjZGTWtfY2ZDT2hBNVpaUHlWOW9NRVpmSEV0WlZUZERDUUM0QmpPU1Rzd01RN3ZMd3FDbF9uckpvdFNfemdMQjk4WW1sbXFLSV9tNkNNN2lYNzdxS0dXUkpVVkJRU1VWazZBMWNkZEJtYkJOcENGdmF5eUg1UXlhOWc0QkhyXzJ4aU41dGZRampwamdmb3NRXzVGeDg?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 14:41:00 GMT",
+      "description": "Ohio’s top health official to give update on Cyclosporiasis outbreak, discuss childhood vaccination WTVG",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Pneumococcal, HPV Vaccination Reduce Children’s ENT Disease Burden - Drug Topics",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTEptNFdQZklZNkVLN1NUaUItdEpxejlIWjRDZXhkN2pvQlR1bHZzUlViS1hBWTg0ZG9keE1LWUx2eXhWV3JVOWFCc0xHU3AxNHNIc3NEd1VNZjVkS1V2a09DT3FnR19oQ0J1STRBX3pwekNtT0xxWTRYM3F0cmpESVVkMmRBeGRjbXpNMDFVLXlCQzluVmtKZ0FkQUtIQQ?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 14:24:28 GMT",
+      "description": "Pneumococcal, HPV Vaccination Reduce Children’s ENT Disease Burden Drug Topics",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hpv",
+      "vaccineLabel": "HPV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Pfizer Covid Pill Revenue Plunges 95%. That’s Just One Reason the Stock Is Slipping. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNXEtc2UxQnNVc2QxR2VhQ3daSGpGeVlocVJ5eEhJTHg1N0pjWXlnenFDLURHR3hvMXNwTzlUR1BoSm5mOXhodkU3NjJVNS1JZUI5S2N4TmM1Q0VTZENOR3lOWW4zWlRCVzFLUkctSDBGZ25ZV2RWOGdKNXY2LXRLRkNFWEw?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 14:19:00 GMT",
+      "description": "Pfizer Covid Pill Revenue Plunges 95%. That’s Just One Reason the Stock Is Slipping. Barron's",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Innovative New Cancer Vaccine Weaponizes The Body's Memory Of COVID-19 To Mount A “Coordinated, Supercharged Immune Attack” - IFLScience",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa1lyMWVmN25OMXhnRWdsNEczSVFPS290ZURBQzJPVVhralhoLWZCM3NQWl9WZEYtYkxHRU9tOHhQSXdBdG1OZ0ktNWVyZ3BoWXBKU0d5bVlhemZrQ0VQWEdNbFhVUTVpR0JCLVpuaFpiMGY1T2VLWmtDU21kVDYzQkhQOHo2cDROUnFpUFdocTRTa3BCN2VNbnNnaVl2dWdxME1GYVJjMjZkZ1VEVjhjWXJlMU9OU011T09remhrRDdJZUg1WktYbmtSZjZjMXlFY3hRXzd1Tnl5S1JsTkt0UFhnV3ZHdk0?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 14:16:38 GMT",
+      "description": "Innovative New Cancer Vaccine Weaponizes The Body's Memory Of COVID-19 To Mount A “Coordinated, Supercharged Immune Attack” IFLScience",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "National Immunization Awareness Month - Ohio Department of Health (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM2dPd0JyRnFJUUE2NUpXODdZTnc4bk01alJna29KTTR4V2FpV3NHeXR2ZzlnbVU4cWw5QkRMcURtbUVldVlrRzRJV2Zic3k2RTc5MjQtZEV1em9jZHFpWnFFNzAyaVhUYU94Yk1kQzR5QllrRWNUMEczdEs2ck81Q2o1dU1lUHQzVkx2UGs4U0V6akl3a2hjTUdqWmJ6U0pPM29oZQ?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 14:09:31 GMT",
+      "description": "National Immunization Awareness Month Ohio Department of Health (.gov)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Health dept. hosting after-hours immunization clinic - Sandusky Register",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTU1BM0NFU2pGckNmMENwXzYxLU16b3lIRGxsNl9VUlpPT1RQOVoyWlNzWUI0YnotRzZiRjRXVVljWEpCNjZweE11emhkNm5uZVdTcVJjU3VRc0dvVi10UV95YzRHSEx4RTRDZ1FIXzN1S2lLNUJOaTI1UDhuWEpfcTZDSEdsaHhhcjNPUXZiQjBZeUJWX3NQZklR?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 14:02:34 GMT",
+      "description": "Health dept. hosting after-hours immunization clinic Sandusky Register",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "WHO and Sweden are making the vaccine cold chain in Ukraine more robust - unric",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSkx0alp3QndWWUgyNDgtbGp0ZDgzSG1uUl9tYm5ucUxOV2dqeTY5dHRWUUJBVTE5aDRWUWtFaFVTREZjMTN5cUp4bnZZQ2RROXdQbUVseEpvYjBnV0laUDI3WnBTOGtUTGstZmFFVmJkSjc4SW0xdkZKTGxqTFVCQXBNbXgwRDN6ZUsxbHBkUDJ4RkI1cVc5dg?oc=5",
@@ -74,10 +248,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Back-to-School: What updated vaccine schedules and doctor visits your children may need - WBFF",
+      "title": "Back-to-School: What updated vaccine schedules and doctor visits your children may need - foxbaltimore.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWHQtWFdDQVZVbHp3NHJ2UUxrX0R1SnR1NE5UaWFPRnBad0ZzbDRpMk9CbDEzU2M5M2loaXRNRmo3NUpodGtHVWtnbHFJOWNkWHVXTGNhQlRYcEN1c29qcVowbnZNbkdaSW16czdRbV9Sam1wNm9uMkl0UXZ5QXo3bVVlVHFIUkVGYlI5djRMR0M5RTZWdENoc3FUQkVLQlBRYklHRmV1a3FwTWNTTjY1T2xFVGRvSzJZcWpUb0tPOE56am00?oc=5",
       "pubDate": "Tue, 04 Aug 2026 12:22:49 GMT",
-      "description": "Back-to-School: What updated vaccine schedules and doctor visits your children may need WBFF",
+      "description": "Back-to-School: What updated vaccine schedules and doctor visits your children may need foxbaltimore.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -96,19 +270,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Why Pfizer Stock and Its Covid Vaccine Partner Diverged on Earnings - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNXEtc2UxQnNVc2QxR2VhQ3daSGpGeVlocVJ5eEhJTHg1N0pjWXlnenFDLURHR3hvMXNwTzlUR1BoSm5mOXhodkU3NjJVNS1JZUI5S2N4TmM1Q0VTZENOR3lOWW4zWlRCVzFLUkctSDBGZ25ZV2RWOGdKNXY2LXRLRkNFWEw?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 11:44:00 GMT",
-      "description": "Why Pfizer Stock and Its Covid Vaccine Partner Diverged on Earnings Barron's",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -143,45 +304,6 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORmZkUkZNaVRTQ2pNZEtPaUN0OW5HRDZPc21QR1J1Q2JXNW9Za01oRjlNVmU5WFk0Z1BaUU4xci1KSkR6NEk3MDMyRHpKM0pMY1VNUnVUNzJDNDVrbmpYRU53dWdkOWc2MDBhNTIxU1dwdVo0SEtKbTZZQXJuQ0M3WXVjQ3hEcHgtWFhJY1Bqa1VWeFAyeXVieUpiWmE?oc=5",
       "pubDate": "Tue, 04 Aug 2026 11:07:48 GMT",
       "description": "BioNTech Cuts 2026 Sales Forecast as COVID Vaccine Demand Declines Global Banking & Finance Review",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "BioNTech lowers 2026 sales outlook as COVID vaccine demand softens - marketscreener.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMHdvRWtETERWYzExcjRoVEtrTTQ2NEh3VjhJZjktMFdZLU5DWlRrWGJxNWltLTE0Y0dsZDRlc19wVUFtc0ZMclgzSzhGM3M0d0hfd3RFa29wY2pqX3NoSk52UEF6Y24wd3ZJeXU3V2MyOFEtd1RpckRzSWNJdVBRSTFIYTdBZThhdlpKYkJVeHhIc1RDbExqSjg0Q3NiVUpfbVp4ZlZaeU5VOU5zVDFsb05xel9ZRE5mcmRr?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 11:04:04 GMT",
-      "description": "BioNTech lowers 2026 sales outlook as COVID vaccine demand softens marketscreener.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "BioNTech Cut Its 2026 Sales Outlook As COVID Vaccine Demand Softened - Finimize",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSFBIaHhhMnF0YVJzbXV5RjdyTVM2U1piVXJRMk1ZU3A5QmZsMkcycFBaS0ZJZ1pYc1lWaklUUjlGNnF4Sy1pakM0THE2N1NHc1JmaWhlbjBDOVREcTV5ZmJCUUY2XzVnTTlMcVVrRVNoUlZpeUMzTkRtSndKUjBxWkpFUEwyemFxNDRiUlRaNnRuY1FxN0w3Ynd5NXYwQQ?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 11:00:50 GMT",
-      "description": "BioNTech Cut Its 2026 Sales Outlook As COVID Vaccine Demand Softened Finimize",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Poland Appeals €1.3bn Pfizer Covid Vaccine Ruling - Yahoo News Canada",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XM3VuekJXUHBhcXRsTzFPR3o0b2JKUlZNTUNLazVEMzFoZ1c2UUJTZnVaZ09JMnFjMk5MQ0NGcEVPZUZRUjZNZHMwc1U1TUtjbDlobEpUMDA5N3YwTnVJSThWVEd3WHlZaHVyM0pDZnBvRXVUU3RZ?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 10:30:00 GMT",
-      "description": "Poland Appeals €1.3bn Pfizer Covid Vaccine Ruling Yahoo News Canada",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -243,10 +365,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Pennsylvania launches new tool to track school vaccination rates - Yahoo News Canada",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUNKdFNtTHVGY05fN3hQOXJtUFd4U1RWSU4yU0xSR2ZDX2NtWHI0YndmaVBaYjlQSjJHYnZCMjhCQmNwaGpqS0tJaHgzTXZiQ1R4aHZzT20xTDlhaVdLMVlGN3hxR1Nna0QyWV9nU0NEdVhLVHFrbDN3NDdYdjhPa21lcTFXcWs?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 09:40:12 GMT",
-      "description": "Pennsylvania launches new tool to track school vaccination rates Yahoo News Canada",
+      "title": "Pa. launches new tool to track school vaccination rates - WGAL",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLXZKZ1hzZXhqQVZaSlN1bXJqc05GLW1PaFhrWXBGZ0ctZFdWeTJkSkNIWHVBLVdwLUc5V01CcHNJd0M5VDhfNUpYa0pzcFgwLWxfRXBBeVFUQ1BtUGdLYzhiVGhLSXY4MGJHRm1nWDNLcGQ3eWN0WjMzWWxraGZTbTBZdWo5ZDRRSUdMbFZfNE9Tdw?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 09:41:42 GMT",
+      "description": "Pa. launches new tool to track school vaccination rates WGAL",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -256,10 +378,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Pa. launches new tool to track school vaccination rates - WGAL",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLXZKZ1hzZXhqQVZaSlN1bXJqc05GLW1PaFhrWXBGZ0ctZFdWeTJkSkNIWHVBLVdwLUc5V01CcHNJd0M5VDhfNUpYa0pzcFgwLWxfRXBBeVFUQ1BtUGdLYzhiVGhLSXY4MGJHRm1nWDNLcGQ3eWN0WjMzWWxraGZTbTBZdWo5ZDRRSUdMbFZfNE9Tdw?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 09:40:00 GMT",
-      "description": "Pa. launches new tool to track school vaccination rates WGAL",
+      "title": "Pennsylvania launches new tool to track school vaccination rates - Yahoo News Canada",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUNKdFNtTHVGY05fN3hQOXJtUFd4U1RWSU4yU0xSR2ZDX2NtWHI0YndmaVBaYjlQSjJHYnZCMjhCQmNwaGpqS0tJaHgzTXZiQ1R4aHZzT20xTDlhaVdLMVlGN3hxR1Nna0QyWV9nU0NEdVhLVHFrbDN3NDdYdjhPa21lcTFXcWs?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 09:40:12 GMT",
+      "description": "Pennsylvania launches new tool to track school vaccination rates Yahoo News Canada",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -286,6 +408,19 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORTJTaTY0cVdQOGJPZU1fQUlVVFZHdjFTdWdkLTBPZmVibXNfVlhLUGlqeWdUYjJtZ2VRaEFvTGw2Y1RvRjNDdThCankwRmk1RmliTXVCTE5mR3pKRlRWQk1Kbnd3ZDF5aklxbGlGWnBaQlYyd2Y4eHFlNlh3cW9yZkZiTVdIb3BGWGxSUDFCNklHeTF6ZXFsVFFXcWUtNXlDT2ZQc1JUeEVvemc?oc=5",
       "pubDate": "Tue, 04 Aug 2026 09:22:39 GMT",
       "description": "Nirsevimab Linked to Lower Risk for IPD Hospitalizations Medscape",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Rethinking cancer vaccines through the tumour immunopeptidome - ESMO Daily Reporter",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONXhtQzFXVWptekh3SENxYWp2U01ZUzhxLUtqMHN0Zk1yZUM3b2s1eXBZRnktZ1J5V3ZjMlRPaHB4SUk1dHhuZlVtS2dxc1pJVDVqVXVZZlhaeTFlRjJRWkRZWklfc2Y3MUR5RmVRZGUzbThyZlJQOE5nVG9XcWN1V2xpQkdmS2NqUGhPNUtCdlhqT1FWWXRzSl9XNXo3d2h2Q01aMXpaN1VINm9aTFE?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 08:23:23 GMT",
+      "description": "Rethinking cancer vaccines through the tumour immunopeptidome ESMO Daily Reporter",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -360,10 +495,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "State medical executive urges vaccination against measles - WSJM",
+      "title": "State medical executive urges vaccination against measles - wsjm.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObGFvMjNvODhfdGhDV2o2RHVWWDA3SHdzbnp3RnFlX3BWTWU4a2l0MUhaSjR3UUZfc0xtclBURGpVdnpYc1BaTE1NdXU2RWxKMU5TYmYtQ1FNbXFGNFRLQW5LVERUWXBwNURXTm5ON3BkNlFVd19uVmw5WElNWGk2R3NRN1ZkMENYdTZVMmVPbTdSb29X?oc=5",
       "pubDate": "Tue, 04 Aug 2026 03:03:05 GMT",
-      "description": "State medical executive urges vaccination against measles WSJM",
+      "description": "State medical executive urges vaccination against measles wsjm.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -373,10 +508,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "AI-driven optimization speeds large-scale vaccine distribution planning - news-medical.net",
+      "title": "AI-driven optimization speeds large-scale vaccine distribution planning - News-Medical",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNENnOTFhcmxaS2hmQTN4SDluMlZxWDdkSThRNWpsX0tDQWFXSlBjcnBBSTVPLUE3TkJ5REEzNkNUSUJsWWN1Q0JDaERCenMwX2FBTTFEYkNJQ3lCelBPdEJwM0NuNXI3SjZGM3I4eTFCZWFrbWNzVFdDTE5IY0ZDWTVuSTlHNTh2UFVKbmZDZDBndUlyN29BOUFBX2E1NkhWQUo2SjBFVXg3R0xjczZpNzljU2pCVjNEaEtn?oc=5",
       "pubDate": "Tue, 04 Aug 2026 02:59:00 GMT",
-      "description": "AI-driven optimization speeds large-scale vaccine distribution planning news-medical.net",
+      "description": "AI-driven optimization speeds large-scale vaccine distribution planning News-Medical",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -390,19 +525,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWHF3RXoxZXhBaHd2VWd5Tmk2MU84cGticV9KZnZtemFSc0hUSHkxZVVGY2syVUpuNVpsanJSaWE2d0YwMFpPQ2s0djU0Q1cyVzktVjhNd2ZzbHNaSlZOTXdZQ085cTh1eEh3TEVublcyaGhqNThpbndhamVCWXNxOFV4RFM4YjJ0MzRyZlFrMXNxeEhPYnJuUUZHUW5XRE1uaEd6Tnd6Vml5Tml5N3ZhT0QxZG1hc1E4VDBXRzl5aFdlaVU?oc=5",
       "pubDate": "Tue, 04 Aug 2026 00:52:46 GMT",
       "description": "Vaccine shortage threatens 5 million children in Yemen’s Houthi-controlled areas Anadolu Ajansı",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Merck (MRK) Wins EU Vaccine Approval, Is The Stock Still Below Fair Value? - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ1ZLMDdOMWtvVzR3S1Z0dlRIbzNiMFdRNWhkSG5QSHJYTVlyTTlNUVpJNFZvM1N4WGFLWVl5OFc0R04zZUxUdzVkbDVjbWxfLU5uX0Jmb2x2ZTJKQzlfZ0VzNkNCakJaVlRFOVZtZ1E3U2tZNmJWWkoyYXBuMVhjX21rX0hCWHBSZ2cyWXJ2a1VUdldLR3RBTm5qYVcyRzgxTURSM2NvVzJzSVRZWFZKUHpHYlRjVXh4ekNkWWhKRldEekQtUTFNeWJjSjM4VVlT0gHWAUFVX3lxTE9vc3pnT1JWQklUMTJPcFJBLUw4akcyb0NWMlJnYkQ1dVBJel9Zel96N2xHYWVLd0NERjh0QXZIX19WXzIwNUFxSHFfZmxSbWNxRFVqeW9PcGx2WGpQeXhiSU9rZTNoaUVCdklmeEx4RGZMMk1ZbkJreGQwTG5oSi01a18xR0w3Wi1uTUc4ZnN6NWdMVVBFMjRkdTBuTVVLMkRUMElOYUhLb2NlUktVSUg5TklfQTg2RjVVdkJiNDlfay1ZaWlCNHFQWWo0Ulp4TndRbEZJbUE?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 00:52:07 GMT",
-      "description": "Merck (MRK) Wins EU Vaccine Approval, Is The Stock Still Below Fair Value? simplywall.st",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -516,15 +638,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "To Your Health: Vaccination best way to protect against measles - Times Leader",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdUJkajNGVzU3Y1pZWDg2SFZSbE5qYVZndTVNb2NGYm4tNmk1M2xrQkxFZncxSTZlaU9QRmxpQkN6YkZSSEgzRUZ6ZTNfNkxNS2NYV2stSnFEU0lKb0xheW5uU01RQ1BaS2V0NGxsRmEtaFkwQS1rcFJLSk1LWjhqWV9EMDAtTFByVTYwQzB5bzZJdW9Ed3FwU2JfNGJkS01WUUlJdnBKZFFmeFU?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 21:57:00 GMT",
-      "description": "To Your Health: Vaccination best way to protect against measles Times Leader",
+      "title": "Vaccine battle threatens vouchers for nearly 87,000 students in Florida Catholic schools - Action News Jax",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPLTQ3MjFuY0VIMHc2d3E4bHVybDZDdWZVUDNFSW5KVnpvcWlyN0FTV25aeHZzQVFHY1pjRmxBOGd5LVRpdFVVczYzXzh4NnZFSUNwMUhTQVBwekpCZkNJQWIyVnZRcU42d3pYdmFraXUtMEJobnRscWxuN08xejFzWE42ak05a2w4eVBEM2hCUWtIbC1hdEM1M0lzcHJwTTZYNkJZRmduOGU1Nl9ka2ZHTjhYRzBRYmZLVjU3RkhJczVidGozVmdMeTdsRkdsRWFpQ0c2VDN1TS12VGRocHVnSXE5UdIB9wFBVV95cUxOdExISG5yMzBiSW5tUGl2ZkFCRlgxWllnSmhtQ2M4M19nZnJPZDdJZ3hvREhNOFVrYlhDRXFhN3FBWkd0S1F5Mkh3UXVlaURuSDhjSU9ieG9wcUd2R0hMeFNPdF95N1lvWlhIdkpqa3hPcGItQnQ0NGQ0Umg3b3VJNnVjbDRUb2VvTWVYaTVxVjFjOWtRNlp6LXA5VXVBYjBERzI1M3AzZWxBRWlEQVFvM1RQelljdkVHRG96aHpEek9HcUpoaEhZVlpGRVlmMTFwTlhBY2djVHBNdjZWdlNCLWg4cWpHaUNmeXFZZ0xLa2xVSkVFVUZv?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 21:41:50 GMT",
+      "description": "Vaccine battle threatens vouchers for nearly 87,000 students in Florida Catholic schools Action News Jax",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -590,6 +712,19 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "New online tool lets parents see vaccination rates at individual schools - WFMZ.com",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSWUtNG0zMllGcWdQWk0tTTlWTWpwdzlvZVJtMjZndmM0VnBtcS1NcTJXOUUyRmhkck1oV195LWpoOVRXVnQ5WjlaaGVmSHFYZFk4RnZDcjQtY0Q4ZGRsbzB1YkJPMC1qRllRdThfcVViX0l6dkY5WXliOTJGb1RWcHhPMTJadEhKa1pfUF9nQmxYQ1lIeFRxQlRjV2lzeHNVRExrZHpZRkVwZEZLUm1HZzc4dnJEMmtZczFpcFdqZU9ZWUxGRmxFanlodHRqVkFqMjlqVVpMM2w4OXMwbUp2WjlETEdwUFpvTzNDdnRGNDViRDRFSGR0cmtn?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 19:46:00 GMT",
+      "description": "New online tool lets parents see vaccination rates at individual schools WFMZ.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -685,32 +820,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Poland appeals €1.3B Pfizer vaccine ruling - politico.eu",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PMTlvRG5mbzNCOGR4Y05SM2JQVUswSldQb3pIVXdZbzhUUTJKUlBsUFNzZUp4YmlJRVdUcmdveDZoZmVsaGxDNzhLU01RNDZfa2hnSUdxQmhyeExQY09yVTdpaUxaekM4OGZrcFdPSGhkZEpZU0Rj?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 17:28:00 GMT",
-      "description": "Poland appeals €1.3B Pfizer vaccine ruling politico.eu",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Back to school: RFK Jr. backs MMR vaccine for kids - KITV",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMlY4ZExQLTZsRTA5TGcyYXRlWF9CTFZIM24tUko2VDRrZnBBYmVnUUJYeDFVQkRKTUtFS2lWeWlod1dudndrX3dwZ1dlYUpOMndEY29Lb2FiYzVjdUNHUzJLNFhscWU3bEpJR1huWHgwQ0dHdXltNExiN1BoUUo5d0hSVDMwMGVwRzViQTZ3bjhkWEVRWmpsMFhkZmFpZ0Nlc1EyWE1EZ0huRXhjNWdiZzU0cUdPWE4xclp4aFdQY1c5ODFnZmh3?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 17:23:00 GMT",
-      "description": "Back to school: RFK Jr. backs MMR vaccine for kids KITV",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Missouri health departments & healthcare providers urge parents to beat the back-to-school vaccine rush - KY3",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS3h0ZUJ3c2gxbERLYmRUV1VCSlNLSGhXQWI5dHp4SmFOMkM5TmlSazNyMzhsc0tsdjBNRGc0eVVhUmt3TGVmeVc0T0gzR2pud252b2paWFVlS080amV3c2ZuTFo2MXZIWF9Td3NFbWlhZFY4RWtLUTVzYVAtb283OTJvSG8wS18wbFQyMWo2UEZvUEhQTlZJWDZHN01IQXdodndwdzg0bjBfWG1uUUlSMnp3SXNBSHhnRVFBOXdUb0J6Wmtz0gHYAUFVX3lxTE9Fd2dRaDl3ZWxWYURjbzhWd1hEVGpRS1ZsUnlvM0VrSGduRXNMU2FvZ0VxQ2k3WEdNN041SzgxemZHaGh2OTVLZVdXeGRVUTdfdXhSbWdxZFNseDBLeU1YaFNOaEl2ZHI2VHVDV0pkN0UwbUZtOE5UbmFmakZTZVFNdU1zcnFQekppWVU2OURVVEhLYjhfYjZSRmFDSU9ISXJxWEEya2tJbkVQcjdCLUlJU2FQSFRtbnh4SWdpOHhkY1RHRFhDZkZRWUlTcjBtdzhqeWNCUTVxNA?oc=5",
       "pubDate": "Mon, 03 Aug 2026 16:41:00 GMT",
@@ -737,10 +846,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "PhRMA on why smart vaccine policy matters - thepharmaletter.com",
+      "title": "PhRMA on why smart vaccine policy matters - The Pharma Letter",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRUlNWWptMFNiNk9CVU0zYjJJTm9zcmVFMEYzNUFRdjJKZllMQ1UxVTQ4cTRfVENhREE0RG4yVVdIN2Z5LVRFM291UGQ2cGlnNUZiYjBBRUIwZ3lwemo2c2VNLVVFS0JXY1lMZEpJVlRKOU5ObEVHTmJ3cEN0cnVaV3pWZC13OC1Qc2NKQ3FB?oc=5",
       "pubDate": "Mon, 03 Aug 2026 16:08:36 GMT",
-      "description": "PhRMA on why smart vaccine policy matters thepharmaletter.com",
+      "description": "PhRMA on why smart vaccine policy matters The Pharma Letter",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -776,10 +885,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Georgia doctors urge back-to-school checkups as MMR vaccine rate slips statewide - cbsnews.com",
+      "title": "Georgia doctors urge back-to-school checkups as MMR vaccine rate slips statewide - CBS News",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT1Q0OFM1NjVpM3JnSDd0WUduTGtlWXBkbnBWd2VvUmJuVndKb2RTMVdqTjBCM2xWc3V1Ym1XbkIyY2RlMnFSUVB2c1ptdjBKVnV5OHA3Z29pc0R4VGFXWmh0djNkcGRaXzRhc0dyeXVNSWZxUTRzZFpSYzdHZzA5cW9INENaRjBHNDlZQVphQXpkNFVKS0VhRnRDMXBZcWVNbkFwcU5ZREEzQlhsemRIZ2V1SEtpWlJRQ1E?oc=5",
       "pubDate": "Mon, 03 Aug 2026 14:29:13 GMT",
-      "description": "Georgia doctors urge back-to-school checkups as MMR vaccine rate slips statewide cbsnews.com",
+      "description": "Georgia doctors urge back-to-school checkups as MMR vaccine rate slips statewide CBS News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -802,23 +911,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Back-to-school vaccine schedule updates: What South Carolina families should know - WCCB Charlotte",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUVF6dTJNREc1RDR1Q01PQURPU0FZTE1xdFVwVGZGdV9JZXJWZXhjVnYxMzRObDlYNm1rQjg3YnNFdzZibDVibFgtVTZQOUN2SEZvb19nOEpjenZkLXdzTGhrTlBXSnpKTUlTZ3FsVi02TnZuRTVMTGFZaXFFM2NrZFlBdVpvNHdFQWdEY0M3eVNPdktWTUZJX2Ywd21CWkE2LVJrb1liUE0yQWFkX052cDlHMXhac1p6TllfZXdjRQ?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 14:26:59 GMT",
-      "description": "Back-to-school vaccine schedule updates: What South Carolina families should know WCCB Charlotte",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "MMR vaccination rates slipping across Georgia - cbsnews.com",
+      "title": "MMR vaccination rates slipping across Georgia - CBS News",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNR2dZQXA0NkNzY2ljWlpOdDlHVlVhV21fOGxqSTVlN01lTWdZUWVDNUtuTV9UcXRRTXNOMFQwNEEwTkEyRVo0Z3lNLTYwYlVjVjRCenk3MkFKaXVid2o5bWdILXFVeFRDdUR6ekRrdGhvemlYUktSYno2UUI1bkdzcFF4c1Q4SVNoajFBRw?oc=5",
       "pubDate": "Mon, 03 Aug 2026 14:24:00 GMT",
-      "description": "MMR vaccination rates slipping across Georgia cbsnews.com",
+      "description": "MMR vaccination rates slipping across Georgia CBS News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -858,19 +954,6 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLUE0ZGF5cHBYM2VITGZpWXlaelRjNkpzb01VSDd3eXFjWnJOX3M2QW50ejN1Skd3bmdIa3JLLXJFVHpZaWVOWWNQWXNMazZkV3ZRMnAwSWp5bXJ2TVF6b3NtQ1lwMXQtdzdFT2FsWjhaZTRhdkVRQ0c2QzRWYi1tYUJLNzJHYzBBczJYdF9lWnpjeVVSdk1YZEktTUtZdEgwcnc4VFZoa194ZWdGX1E?oc=5",
       "pubDate": "Mon, 03 Aug 2026 13:36:27 GMT",
       "description": "The unexpected upsides of vaccines Healthcare Dive",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Is there a pharma mega-merger in the making? - STAT",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTW9xTU9jRkF1SFlBOE5DVVo2UUdXTDRick5jVm9nZlFUM2p2Q1FqTDVJNUZkOUE1dGFvbFF4ekJwQWx0cDZldjdiVEVOQ3B1UDV3TndONm1mSDZaT0d1QnNxbUI5c3BmWV9kZ2ZjZEpDTkVCYkJ3Ui1XbVhQbkdrTW9adVl6bW1BcEg2aVhnWjcwbDc2XzZjMHZXbTd0RkZjei1GeA?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 13:23:25 GMT",
-      "description": "Is there a pharma mega-merger in the making? STAT",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1036,32 +1119,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Breakthrough vaccine shows promise against deadly elephant virus - Straight Arrow",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMDNhWUt3S1VjeUk1YXVtZUlPbzZKZ09Ya2lkeFBBLUhXLXg0Z1o5RjV6M1IzcUsxZTR6dTNmN2RxU2dQdEJ4dFgzMmFKSnB0bnRlbW9oal80NS10UmxSbmEyWXVjUG5YRnl6aWpHOWNKNkJ0ZkYtVFRoNXp6eVdfbWRuSzc1LW9lMnpnUA?oc=5",
-      "pubDate": "Sun, 02 Aug 2026 20:58:39 GMT",
-      "description": "Breakthrough vaccine shows promise against deadly elephant virus Straight Arrow",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Sickening signs of vaccination neglect | EDITORIAL - Baltimore Sun",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nRnlkakp4cDlsT0FQVGpHYTEtblZ2a1p4RnU3NkpxZTV6UWJudVJFbXNCbk1zalJYV1hoekk5UzBlR2FILTNOeVZVZzQzR0dUMnc3QmQ0SXlIOExVeUlhS2d0SDFhSXFiUHc0WWowMlFsNnQ3ckp5SjVn?oc=5",
-      "pubDate": "Sun, 02 Aug 2026 20:33:07 GMT",
-      "description": "Sickening signs of vaccination neglect | EDITORIAL Baltimore Sun",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "opinion",
-      "articleLabel": "Opinion"
-    },
-    {
       "title": "RFK Jr. says Trump ‘certainly’ wants him to investigate any link between autism and vaccines - The Hill",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNHRTTlNMWVFPenh1blpOQnRld2pLUl9xdFVMV3hBV2NnelcxM0ZYcFBYMldZblkxeDNJU0tXSEZKa09fbjRMM2ItTDlra2VBT3dOaGpNZ0Z3b2lrLVNWNFBiQnNwSU1oNTJvQ1JPbTBCcnFTTS11Z3owazQtRHUzOFZSamNFWjhIdEHSAY8BQVVfeXFMTlVSVHR3VUtjaFp4TjRkZU1sNHdWZXF5bjBmZ01WdVZjNWREbmZjalI4RnVFQm0yM3NLaE9PT09WcU83VFRGckpValM1NWo4OVRxOW9LYzU3OWs3RDhvWWc3U3FVbVdFaE9tOGVyZlR3bzE0a3NXOVZHQ1BwV2VqeTNBc3ZvejlCRUllb1NWR28?oc=5",
       "pubDate": "Sun, 02 Aug 2026 19:48:00 GMT",
@@ -1101,19 +1158,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "New York health officials urge parents to check vaccine requirements - Lohud",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNR1BMa0lLMy0tYUZ4N183M0RvM1NDUWxpWHJKWWMwZVFObkhpQVlnOXhpTTBvNnNuaEVOakoxNG5tSHd2MUx6N2h4cUNmRi1VelpBcG92N3N1NXVYV0FjMHV3ak5EQWhfOFBaNGZobGU0TkVnYXlieGxxdEV4UFhaV1ZseWRmbzZlYzRGbW8zdzN2djhNR1NqRG5sRnQ2bXFMajBoM3hXOVRKODVYRWV5VHdmeHJscUptbmJXdTRCV09WaDlaY3lCZ1N5SUdTNWlnTmpTNl9XVnVZYm00ZDVWVnF1dDlCNGsyVWgwbW5R?oc=5",
-      "pubDate": "Sun, 02 Aug 2026 17:04:45 GMT",
-      "description": "New York health officials urge parents to check vaccine requirements Lohud",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "RFK Jr. says parents should vaccinate children against measles as U.S. cases hit a 35-year high - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOa1E5UkxWVi1ZcGF1b3J6TWctNEE0NFp1UFNEQTFxNll1cXk4bDBiZS1mTU91ZXZMTmN1X3BmYWd6eXNQYjEwZTgxaHJmcEpiU1BLR3liZU5rWmpmbndTY1lGZFcyWHdINE9zN3NyMEtIa3VyU01DUV8yUEZ6a09NRXg0cjcyUVZzU3hicmdMd3I1T1pXNW50VDZvaEZJZ0pFdmlsMXByMTYzUUx5Y1JZQk5ncXZFR3Yzdm8xRk8zNExYUVhjWmwtb2xkMkRuV1FReDB2bm5wUXdlMl9jbWIzYjlsNkNvQQ?oc=5",
       "pubDate": "Sun, 02 Aug 2026 16:00:31 GMT",
@@ -1127,10 +1171,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "With a Series of Big Donations, State Department Restores Some Global Health Aid - The New York Times",
+      "title": "With a Series of Big Donations, State Department Restores Some Global Health Aid - nytimes.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXdmRGtCVW45N0hDOURqY2dWb3ctVnc1NW12NkExNkpaOUh1WW0zckJBVXFaOWtqMmZaNENIUkU5MjhLVTJ2Zk5JaDdVcy1JOG5TM0tPZkVTNkRCT1BfNS1NUUhqMGU2OFRxN0VfYVZyT256TWJSRE8teHZCNjJybzVEcFdTdW8?oc=5",
       "pubDate": "Sun, 02 Aug 2026 09:00:07 GMT",
-      "description": "With a Series of Big Donations, State Department Restores Some Global Health Aid The New York Times",
+      "description": "With a Series of Big Donations, State Department Restores Some Global Health Aid nytimes.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1170,32 +1214,6 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ0hpLXc3dVU3ckV0Mi1GOGlyWjA2WTVENkJnb1pKS211Z1hCY2xUQWRBY2c0QTVVdFBDeXZFbTA1OC1PaEFzMERBUld2WXBDaFJoQ05DdVpZUkdwbWhPeXNlX2hiRlo2STBkR3hhdmhFZThWWkxjN2xoaHJxS296SnhGVlE3VkF6SG92QWZybk52bl9fR3NQclh0RjgyR3BWSy05dGo2Qks5ODVYU3BzYzVJLWdxbnZCRm1MUWNn?oc=5",
       "pubDate": "Sat, 01 Aug 2026 03:24:00 GMT",
       "description": "Florida attorney general urges Catholic schools to grant vaccine exemptions Spectrum Bay News 9",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Mississippi vaccine rates drop in 8 counties as new school year begins, State Health Officer shares warnings - wlbt.com",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQY3NvRjJaTTVkZElVcjgzVXkwdm9tT2ZpZnNvNFhoX2FVSUJPTVhHcUY2OE1FUFc2bEd0VWVFS05Gb2NHdGNuQUIwWUl5YVJhU0tvUXpaQmEtUzRMNGFzNVBCNlNXQ1Z5dnlPTFdwenFrUnkzNzlrRE1rTGk5M2EtRExoV1RUNldtMWREelRqcWZpQTB5Qko0NUpIZmthMzFCNFVlQlR0MlJVUU9wVWhrU3YxeWJkcVg1TDJ3YmFjT2tKUENhMlVaMzNIVlluNEE?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 23:41:00 GMT",
-      "description": "Mississippi vaccine rates drop in 8 counties as new school year begins, State Health Officer shares warnings wlbt.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "RFK Jr., CNN’s Bash clash in heated interview: ‘This is not productive’ - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ09tcUthWEllckcxTFV6TjRNdzNqc2cteEt3XzY0eGozcFhwR3RmVEI4UTRyYXc0ZUNLa2JmZS1VZV9ZdVhVZEh0QkVwQ3RZUE1IRGNUWS1aSEtPeXNkUksxWTR1RlRDZG9SaXg2a0JLRDFKTkJmSXhzYnBtNFFoSk1vUHlxUknSAYwBQVVfeXFMT2hXcGZwTkgwN1UweHRMOENnSzNvTVRBM29YRWVPV3RMRlFlOHNkLWFZR0dJeHgwYlNHLXRlSVFzM0lEeFJESTItYkVaUm1ua250ODlJWWtsbk9NX3FIN2Jnb3Nha1dOX3dNNnV1TGZDZml0Rm1FYm1WRnpiczgtMml6VTRvX0NVUHJHM0c?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 16:02:00 GMT",
-      "description": "RFK Jr., CNN’s Bash clash in heated interview: ‘This is not productive’ The Hill",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
