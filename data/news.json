@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-05T00:54:42.400Z",
-  "itemCount": 92,
+  "updatedAt": "2026-08-05T02:10:16.526Z",
+  "itemCount": 90,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 8
+      "count": 9
     },
     {
       "key": "flu",
@@ -28,17 +28,56 @@
       "count": 1
     },
     {
-      "key": "meningococcal",
-      "label": "Meningococcal",
+      "key": "dengue",
+      "label": "Dengue",
       "count": 1
     },
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 69
+      "count": 66
     }
   ],
   "items": [
+    {
+      "title": "Canada approves trial for mRNA Ebola vaccine - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BZGV3MFZyRnVtaV9EbGpUQ3ZxMDR1ZEJQa3h4MG5wa3ROUk80czBtVVEyWlExdjJ0ZzFPRzVJMjl3dFJFRTRVa09FZHJsNFRORWphZG1ySTRPQQ?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 02:02:56 GMT",
+      "description": "Canada approves trial for mRNA Ebola vaccine CBC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Takeda aims for dengue vaccine inclusion in India's shots program - Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdjllaFk1WmxiSi16RmVKZ19aTm1fWkJKU3N6S0ppOTg0TkExdjQyR0hJRUJ2WEIzWWdYcEdQVWItSFNzYTZjZVJWSG1YRVBMRllrdGhBVU5fc2dHckcxVTZ3d01CUThGVmZuMjkyUElERlhFNGh4QzRobzQ3Smt3MFZhQmE5Vzlid04zeE13TmU2T1dPZE1TcGREVkpsemFEa3BFREpCcGNhb18wamNz?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 01:41:00 GMT",
+      "description": "Takeda aims for dengue vaccine inclusion in India's shots program Nikkei Asia",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "dengue",
+      "vaccineLabel": "Dengue",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Canada authorizes clinical trials of Moderna Ebola vaccine - Inquirer.net",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU2xCRUd1LUx0VWRMdzdGTEt1MnZLOXowdHczUnhYOW1OeS01OEktdU5YNDdkMjkyWkZmVnZscGRpc3FTcTA4WVhrQ0NUY2llczhTRWJsbXVmWWxTc050VFhqdzkta2VieHlEcWRuVEJGY1psU1FoMi1Jc0JKUzJjODFGNEd2QXFtbEo3Q243Z3Bib183TlFqbVdIcmR6Y0tM0gGmAUFVX3lxTE9vUW4yd3ZFY0RVNHZRWkY1dkJEenh1RHZYZlNJb2VEV1Z1Y3daNEg0VDN0Wms4UDNvU21zN21jZW9HNE9hbW9SVzVEdnF3MzhEN0luYnNrV3FwTnBRcFo4LTZtMW9lSENyNGVWU093ZEdibzNsYm1YdEhaeFJBVDdDakdHWnR0V3pzYTN0QmE2MHJvM056ZklnSi1FVGcyQ1RWdWNHdEE?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 00:23:00 GMT",
+      "description": "Canada authorizes clinical trials of Moderna Ebola vaccine Inquirer.net",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Here's what to know about Oklahoma's vaccine requirements for school - The Oklahoman",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeGw0ZDlDTkxrMGh0czFsaUNkVklQMjJpcl9ib0pYX0JreWt3UW9KNmptU2UwRWV6RU9xVVVtZ2JMWVloeHh2Tk1TY1AwUVE5UjhSbTF6eEhSRTNWTzNybHZVcllUbE5RNEZJdzJ1TEQyYmp1U1A2TFdjSHEyTEhLNXB4LWNqb1BuWWVyOXY4NDB6X1QxZFVOWlJJQTBiTmtsdlJOdlRHRy1yUi16ZGllOGRlVEpEOU5xakNxcEVHSFVSZ2xCbEdZYTFR?oc=5",
@@ -53,10 +92,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "As kids head back to school, Idaho families navigate vaccine requirements and exemptions - Idaho News 6",
+      "title": "As kids head back to school, Idaho families navigate vaccine requirements and exemptions - kivitv.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNkpmOXgyekJoSlRDM2hXajdXUTNMNFByUjBxYkhQdjVJdV9sdUNqb1Bya0pzdmFFdEo4UDBEYkdybkF2UEhsNmh4c1huS2RuUnZ4dExTRU5FMlNlZVhSSjgtZWctRXRkN2ZJV1lBN2FuTWhOeExnamxIT3JQcVgxUWI4T0t3YnplbWY3TW9hd1dTbE9ubjVBVXRQMXUyZi0yeDhrUGpnWF83dWNlUFdxcjFON2k4dw?oc=5",
       "pubDate": "Tue, 04 Aug 2026 23:28:15 GMT",
-      "description": "As kids head back to school, Idaho families navigate vaccine requirements and exemptions Idaho News 6",
+      "description": "As kids head back to school, Idaho families navigate vaccine requirements and exemptions kivitv.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -66,10 +105,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Tennessee vaccination rates dropping - wkrn.com",
+      "title": "Tennessee vaccination rates dropping - WKRN News 2",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrVENVMWlCS01oYjN2X2dlaVJ1TXM3QXhORUlZUmNoT2FGX2dGSWh5eW1ob25kUFBRcFg5MHpWLXpZY2NFMmYwWU1fbks0TFB0aXFZNXJkMWNxRE5nTFV2SkduSElYVlZxa2x5Ql9QYURlYzBjaVBvbnQ2bWUtdw?oc=5",
       "pubDate": "Tue, 04 Aug 2026 23:14:07 GMT",
-      "description": "Tennessee vaccination rates dropping wkrn.com",
+      "description": "Tennessee vaccination rates dropping WKRN News 2",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -79,10 +118,36 @@
       "articleLabel": "News"
     },
     {
-      "title": "NNPH hosting back to school vaccine clinic - kolotv.com",
+      "title": "Measles cases rise in Chester County amid outbreak - 6abc Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeVNGd0dBVS1yRFZhd1hxajBJZzNZQXFkNXlLTFl0eVFmRXFiSTR0UWxUTEY4M19MN2xOWXdyMTFJOC1sOFNfdHdSZUh5UDN6SkdaeTl0STZGQ2lTUzVhTUVDRXdEN2kwdXlqTlMtbEZ3WTdtZV9XdTZiUGFkY21WQjVka0lyZ9IBiwFBVV95cUxNR1hWRV9tbkVfY2hZV1JGUFpyRHlZRFNBZmlvRzZHRTRCclJ1MjIyQjNBUGRHX3dVR1RMRVhONG9ld1YwNGd5andZdlRNZHAtdTRmNzVHVzB6NjRaampEa2JKV2JLSkF0dlhRZzNzQ2JFbUtKNjRBOUpuYlUtNHlMUWpRT1pPcE5hODU0?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 22:11:07 GMT",
+      "description": "Measles cases rise in Chester County amid outbreak 6abc Philadelphia",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "NNPH hosting back to school vaccine clinic - KOLO | 8 News Now",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3dTkwdmtrX3B3NXc2OWZ3VTNfQk1xYlg1ZmlzNHZ2dS1tVEVYX3k0VzV3Um5fbU43c3E5MkdnazFqLUlQalFYaWJlb0VfenZhVFBxV190Snc2ZW9VTW94NWdlTWktMVlVU2tYaE4weXJvVFFRT1VfVTd4al9jRjQ?oc=5",
       "pubDate": "Tue, 04 Aug 2026 21:48:00 GMT",
-      "description": "NNPH hosting back to school vaccine clinic kolotv.com",
+      "description": "NNPH hosting back to school vaccine clinic KOLO | 8 News Now",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Metro Public Health Department expands immunization access - WKRN News 2",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaVNzTXlicW90dFp2c3QtMWhVN2YzWDN3N0pJaWZlTXY0Vm9rMlZjTTJ1Z0lOSDlyTWFtaVllQXEyYmJJc1lkYUs3Z1ZfSE1TUXAydEJzdVE2RzM3NGVjSlFRbng3M0V4NzBrMERxNWpQT29TOTFySlQyMGVyRDFmdmJjTmZvTEhpSklKSEpYYUxxUUdwLTRiV2d4TQ?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 21:30:32 GMT",
+      "description": "Metro Public Health Department expands immunization access WKRN News 2",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -101,6 +166,19 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Back-to-school vaccine clinic set for Saturday in Reno - KTVN",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ2JtaU9Ecm9qbnBBV0NCUXdqM2tIR0pLVm9qS290NVRWdkRja1ctZXo3SE41TnBrSVJJd3RKcUtaa3lTUFYzWEgzQ1hwWmdkWDlUUHFrWkMzN1UzQ2VFWDg0ek5BZThBd1M0TXNLblhPdHl1UTlXbmFucU5GN0RNVzFXcmFFWmQ2d2wyNFVyZnFxb3Z2al9tRFA0X0kxNjlINlNEMW9vN0dXa2JoQmJmZ25zNFR6OTdtSlNZX0M3anFlNUtTbTRFelRQeWJRaG9pZUV3?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 21:25:00 GMT",
+      "description": "Back-to-school vaccine clinic set for Saturday in Reno KTVN",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -144,10 +222,10 @@
       "articleLabel": "Research"
     },
     {
-      "title": "State medical executive urges vaccination against measles in Michigan - WSBT",
+      "title": "State medical executive urges vaccination against measles in Michigan - wsbt.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLTRiNnlxa2VvclFzejY5NUVweGJYM1JmbWl5bHN4Q0xNTkRWT2lJVkJXN0EwQWF1WEYtMmZrTnl2UW9uc09lc3c3WTA2Qi1JMGJ6TDJyTkk1anZ3ZEJ5ZHhKdjRRX2pIc2VuazlOVGt3d3VjaEFtUHVwT3RsQkh6eGFvcHF6U0VmYXFGcFp4MHprNHIxUElMbC1xZWZ0dw?oc=5",
       "pubDate": "Tue, 04 Aug 2026 20:16:40 GMT",
-      "description": "State medical executive urges vaccination against measles in Michigan WSBT",
+      "description": "State medical executive urges vaccination against measles in Michigan wsbt.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -157,10 +235,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "HES to host low-cost vaccine clinic August 5 - WDEF",
+      "title": "HES to host low-cost vaccine clinic August 5 - wdef.com",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JU1BrSi1XM05NVm9kQ1FTeGdfQ2t2ZWgxMy1vMEdudEliOVlrdHllaWtWdHlHRDZ3UWNienJMZlZEQU14Ykk1OWpYUWNFRmlOMmZOUTVDVFNVS1NhQkhEYkFPcTA5eFRDNl90OXBqXzdBQkpC?oc=5",
       "pubDate": "Tue, 04 Aug 2026 20:11:57 GMT",
-      "description": "HES to host low-cost vaccine clinic August 5 WDEF",
+      "description": "HES to host low-cost vaccine clinic August 5 wdef.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -196,10 +274,10 @@
       "articleLabel": "Research"
     },
     {
-      "title": "What are vaccine requirements for California schools? See CDC changes, state rules - Sacramento Bee",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14RWpROEtJZlZZM1p1aVpkcmpId2o3TGwtTlo1WENpWUtxSGNVZHhnTDdQb1hCOEJDRk85ZURvMC1MUExqVWYxNXdzQ3h5WkxOdndmVGpZaE05V0hpZ3g5UUh6dVc3VFJQTjBxUA?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 19:26:01 GMT",
-      "description": "What are vaccine requirements for California schools? See CDC changes, state rules Sacramento Bee",
+      "title": "Florida AG warns Catholic schools: Honor vaccine exemptions or risk scholarships - Tampa Bay 28",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbE8ydTlYbEx0SDJPX083dTRZb1BRMDhoWkgzRGpiN3pnVG1qV05uQ09BX182SzNEYlF1Y0sydW9vX0NIbThiVm9pLWFhbHVVblA1UW5oaDN6RDNzYTRibUJzc2wtc0VLTUFPU2hNU3BzVXRoSUtndFh3QjJkckV2Z1Y1elRSSWRMdDVVcUdBOV9DZWZ4MG80Zlg1bDBqRWlneU9icGFMUWFrUQ?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 19:39:38 GMT",
+      "description": "Florida AG warns Catholic schools: Honor vaccine exemptions or risk scholarships Tampa Bay 28",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -209,10 +287,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Back-to-school vaccine clinic set for Saturday in Reno - 2news.com",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ2JtaU9Ecm9qbnBBV0NCUXdqM2tIR0pLVm9qS290NVRWdkRja1ctZXo3SE41TnBrSVJJd3RKcUtaa3lTUFYzWEgzQ1hwWmdkWDlUUHFrWkMzN1UzQ2VFWDg0ek5BZThBd1M0TXNLblhPdHl1UTlXbmFucU5GN0RNVzFXcmFFWmQ2d2wyNFVyZnFxb3Z2al9tRFA0X0kxNjlINlNEMW9vN0dXa2JoQmJmZ25zNFR6OTdtSlNZX0M3anFlNUtTbTRFelRQeWJRaG9pZUV3?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 19:25:00 GMT",
-      "description": "Back-to-school vaccine clinic set for Saturday in Reno 2news.com",
+      "title": "What are vaccine requirements for California schools? See CDC changes, state rules - Sacramento Bee",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14RWpROEtJZlZZM1p1aVpkcmpId2o3TGwtTlo1WENpWUtxSGNVZHhnTDdQb1hCOEJDRk85ZURvMC1MUExqVWYxNXdzQ3h5WkxOdndmVGpZaE05V0hpZ3g5UUh6dVc3VFJQTjBxUA?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 19:26:01 GMT",
+      "description": "What are vaccine requirements for California schools? See CDC changes, state rules Sacramento Bee",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -235,10 +313,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Moderna Stock Jumps on Long-Shot Promise of First-of-Its-Kind Ebola Vaccine - Barron's",
+      "title": "Moderna Stock Jumps on Long-Shot Promise of First-of-Its-Kind Ebola Vaccine - barrons.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQXzZKSnhvQTc5ODhYcE1TbGFnYXNndlRlMUhzbzBUcFRaRkduUnhlOVNHUi1Qa1ZCVlZNcVVndUVjWkxVWUk5U3YzVnR2V0haTVZ0cTZsR3JTbzdGaE14aDh1NW16NzJVTjA4d2hzNEhaZ3pZcXRSbE53RFZzVS16cw?oc=5",
       "pubDate": "Tue, 04 Aug 2026 19:01:00 GMT",
-      "description": "Moderna Stock Jumps on Long-Shot Promise of First-of-Its-Kind Ebola Vaccine Barron's",
+      "description": "Moderna Stock Jumps on Long-Shot Promise of First-of-Its-Kind Ebola Vaccine barrons.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -339,19 +417,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Health Canada authorizes Moderna clinical trial for new Ebola vaccine candidate - Toronto Star",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUkRaaWNsSUtHeFNSYldZRHY4SHZMTDFlTmJsdXNlaElYeUstOURMdmRZRUpMU2NhT0prYUZ1b1VWdHRhdXhnQnVUQkhmak5JVHlZNzM5ZkpqSGZDVzIxMC02STRSS1d5RHVVR1JZVlR3WHFGTm56eUxMbWRjRFZvOGlCYmxySnk3Nm12eldEZlBMdFdUWTZ5dXA1ZFdkalFZeFJFQzhHVlB6MHIyckRLUTA0bl9sS0wwSlJSWExsbUVONWNxdjlaNGxUMW5ITHdVaGRmTzBtY2dRQ1NoTzV1cGFHMUh2VGt6WWl6MlltVWU2ZnJqUEZBMQ?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 17:41:22 GMT",
-      "description": "Health Canada authorizes Moderna clinical trial for new Ebola vaccine candidate Toronto Star",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "Health Canada approves clinical trial for Moderna’s mRNA Ebola vaccine - Global News",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Ybm5hT0dNT3lYbW9RREJ5dVVMQktQd0xGZ3VXc2FmZXV5c1U4NzAtUHZfUmNvUVhtc2RsSm1vU0JkV0hsUmF2TUpOcFl2eloxMGg2eWQwWndEemZ6Sm1tdktKcGstUXhCYkhVejdlZkZMbkVwajhSOTM0Mmg?oc=5",
       "pubDate": "Tue, 04 Aug 2026 17:39:59 GMT",
@@ -387,19 +452,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Florida AG's threat to Catholic schools 'clear violation' of the First Amendment, law scholar says - National Catholic Reporter",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOekpNTmlBTldzTUVVMUM0cnJlYko4T0pMWW5fQ3NqYWljZkJDYjJWQ2h0R0NuLUFENEg2Vm1MVUFNZ2JyOUFkY3ZaRkhxWWZQT3hNTEtFemVaSnJQVEgzZ3FMWjZLTTF6S0JQcVBuTi1uWGVNQl9jY1VNOG54d2tHeFBnXzJZeDRvS19OZTRvcldNTWlQMWFzaGEtUEZVNmlOemhZZTZNTlIzT2t5VHNEVWpLRFJRUQ?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 17:12:17 GMT",
-      "description": "Florida AG's threat to Catholic schools 'clear violation' of the First Amendment, law scholar says National Catholic Reporter",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -441,6 +493,19 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
+    },
+    {
+      "title": "Fauci’s diary shows that Israeli data indicated waning COVID vaccine efficiency - jns.org",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUDMzUDJhZXdHS2tZa3BxdHB0blpwWlNzR1FKbVhhLWJuM1dFdzdkTDV1WnFWcF9hVnZOZ0VoZzZqWVRwLTdXXzlVZWlXZnVjRzladTFTQkFtcVA1a0hFb0pQWWJ5TWJkejItM1FVdi1mTEdnMnFhdDFqMjVxcUhJZ2pKSW83T0RwUnZmUkF5aTA5bm90NDlwSTNxc25mMHJJS2lWdGZtaHJtNlU?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 16:28:18 GMT",
+      "description": "Fauci’s diary shows that Israeli data indicated waning COVID vaccine efficiency jns.org",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Back-to-School: What updated vaccine schedules and doctor visits your children may need - WBFF",
@@ -651,10 +716,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "National Immunization Awareness Month - Ohio Department of Health (.gov)",
+      "title": "National Immunization Awareness Month - odh.ohio.gov",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM2dPd0JyRnFJUUE2NUpXODdZTnc4bk01alJna29KTTR4V2FpV3NHeXR2ZzlnbVU4cWw5QkRMcURtbUVldVlrRzRJV2Zic3k2RTc5MjQtZEV1em9jZHFpWnFFNzAyaVhUYU94Yk1kQzR5QllrRWNUMEczdEs2ck81Q2o1dU1lUHQzVkx2UGs4U0V6akl3a2hjTUdqWmJ6U0pPM29oZQ?oc=5",
       "pubDate": "Tue, 04 Aug 2026 14:14:26 GMT",
-      "description": "National Immunization Awareness Month Ohio Department of Health (.gov)",
+      "description": "National Immunization Awareness Month odh.ohio.gov",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -694,19 +759,6 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa2hIeV85UmNkMkd2d3U4NzlOaF9CalJENGlSb2dSWGNFZlh5ZURmZG9kWFBwaHJha1gyYzFBQklzUWYtMHJXOUJRX1lkbmk5LTBnUXdwQktWaXpzVXFMeXBZaGtKYmVkc0ZLa0NsQ2V2eXN0cEZ5VWJmcDZiWWY0ZzczcWw?oc=5",
       "pubDate": "Tue, 04 Aug 2026 12:45:52 GMT",
       "description": "Back-to-School Vaccines: A Parent’s Immunization Checklist National Foundation for Infectious Diseases",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "The First Vaccine Built for This Ebola Strain Has Entered Human Testing as the DRC Outbreak Becomes the Country's Largest - Medical Daily",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORlJjYVlWeUJYbFNtbzdPMlAtU2U4TmFtMmsxem1vSkpPTFNiNHh5SWJsdnc5QTlpYlZsaWw2cTNBX1l4TDV6VklnWDFLQ3lGMVhoVGhyZHJuMWs2bTk0LUF5QjNTOUlwZDNPWkhrYW42OFgxeUpXMjREZHFLY21RV0hFRk1SbmpHVWtIOE05R1hyc3dBdjYzbk9CdHBJMHM?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 12:10:47 GMT",
-      "description": "The First Vaccine Built for This Ebola Strain Has Entered Human Testing as the DRC Outbreak Becomes the Country's Largest Medical Daily",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -807,10 +859,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Nirsevimab Linked to Lower Risk for IPD Hospitalizations - medscape.com",
+      "title": "Nirsevimab Linked to Lower Risk for IPD Hospitalizations - Medscape",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORTJTaTY0cVdQOGJPZU1fQUlVVFZHdjFTdWdkLTBPZmVibXNfVlhLUGlqeWdUYjJtZ2VRaEFvTGw2Y1RvRjNDdThCankwRmk1RmliTXVCTE5mR3pKRlRWQk1Kbnd3ZDF5aklxbGlGWnBaQlYyd2Y4eHFlNlh3cW9yZkZiTVdIb3BGWGxSUDFCNklHeTF6ZXFsVFFXcWUtNXlDT2ZQc1JUeEVvemc?oc=5",
       "pubDate": "Tue, 04 Aug 2026 09:24:22 GMT",
-      "description": "Nirsevimab Linked to Lower Risk for IPD Hospitalizations medscape.com",
+      "description": "Nirsevimab Linked to Lower Risk for IPD Hospitalizations Medscape",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -820,28 +872,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "Rethinking cancer vaccines through the tumour immunopeptidome - dailyreporter.esmo.org",
+      "title": "Rethinking cancer vaccines through the tumour immunopeptidome - ESMO Daily Reporter",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONXhtQzFXVWptekh3SENxYWp2U01ZUzhxLUtqMHN0Zk1yZUM3b2s1eXBZRnktZ1J5V3ZjMlRPaHB4SUk1dHhuZlVtS2dxc1pJVDVqVXVZZlhaeTFlRjJRWkRZWklfc2Y3MUR5RmVRZGUzbThyZlJQOE5nVG9XcWN1V2xpQkdmS2NqUGhPNUtCdlhqT1FWWXRzSl9XNXo3d2h2Q01aMXpaN1VINm9aTFE?oc=5",
       "pubDate": "Tue, 04 Aug 2026 08:23:23 GMT",
-      "description": "Rethinking cancer vaccines through the tumour immunopeptidome dailyreporter.esmo.org",
+      "description": "Rethinking cancer vaccines through the tumour immunopeptidome ESMO Daily Reporter",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "As measles vaccination rates collapse, scientists push for treatments long considered unnecessary - Genetic Literacy Project",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZEpLd21zUXdhUmRBXzBrWjNpWmd6ZGtFUWdOVEptaEllN2VzZ05qZjhFSUpCWmVORno1ZndmZlNJbFNhVjNoQ0p0bHlweHVNYmdLdXlLVWRRaERNM3JWRnFFS2dfOW1ZVFNTVlVjYkhobWpjbW5sSFMxUVBneUx3U202ZFVUaUoyaUlVOXh0ZmEtUHl6MGFoOEdOWDh3eWg3bV9EaFJfREVvV0FaY0JuRXVhQjVWQ2ZtNkF1RnMzazVGUXBxUG9JMDBveFJ6YTJ1NjY0VEhrY0J5aWc?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 04:08:54 GMT",
-      "description": "As measles vaccination rates collapse, scientists push for treatments long considered unnecessary Genetic Literacy Project",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -937,10 +976,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Pennsylvania data tool allows parents to view school-level vaccination rates - statescoop.com",
+      "title": "Pennsylvania data tool allows parents to view school-level vaccination rates - StateScoop",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWTI3dGhZYVktWGFTa0NBc2Vhbm9EWXM3bDlMZHI1WG45aUxjY2wxekNOSGZiVzdoSFNmNy0tMUdKa0VQYnd2TFR2UzUwWExEUUlXRGw4VnM3LVVQSkVObGtRV29CcnFMdVdEUGU1VlFGUzNpanhLVHM4cW5wcHZaNG9QLURqWHhpcW5UeGx3djY5YnZmQXR5RElraC1CRThVcGc?oc=5",
       "pubDate": "Mon, 03 Aug 2026 22:36:21 GMT",
-      "description": "Pennsylvania data tool allows parents to view school-level vaccination rates statescoop.com",
+      "description": "Pennsylvania data tool allows parents to view school-level vaccination rates StateScoop",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -989,32 +1028,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "New online tool lets parents see vaccination rates at individual schools - WFMZ.com",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSWUtNG0zMllGcWdQWk0tTTlWTWpwdzlvZVJtMjZndmM0VnBtcS1NcTJXOUUyRmhkck1oV195LWpoOVRXVnQ5WjlaaGVmSHFYZFk4RnZDcjQtY0Q4ZGRsbzB1YkJPMC1qRllRdThfcVViX0l6dkY5WXliOTJGb1RWcHhPMTJadEhKa1pfUF9nQmxYQ1lIeFRxQlRjV2lzeHNVRExrZHpZRkVwZEZLUm1HZzc4dnJEMmtZczFpcFdqZU9ZWUxGRmxFanlodHRqVkFqMjlqVVpMM2w4OXMwbUp2WjlETEdwUFpvTzNDdnRGNDViRDRFSGR0cmtn?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 19:46:00 GMT",
-      "description": "New online tool lets parents see vaccination rates at individual schools WFMZ.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Shapiro Administration Launches New Tool Making School-Level Vaccination Rates Available to Parents, Boosting Public Health Transparency - Commonwealth of Pennsylvania (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeVd3SnVYb2xSSFlJeE1iRlNQLXB2czNwMUk5Wk8yVTFHWUE2QWpaYmdEdDZGMDgxUWJwZzZPZGNKUjE5bjhBUzc2MnBOSjdXRTYxSWJ4bHlLSHo0UHZMN0NFaUV4T0JGcko2ek9EaTM1MkxLd0Z1WXVhRUpLSi04eTJpZU9nRG5rVlRTRXJfU19LbjBTdHpzOVlWZ2hPVHdBaGc2TXl1OFRGY1No?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 19:40:40 GMT",
-      "description": "Shapiro Administration Launches New Tool Making School-Level Vaccination Rates Available to Parents, Boosting Public Health Transparency Commonwealth of Pennsylvania (.gov)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "No link between MMR vaccination before age 2 and autism, large US study suggests - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVFk4Nlp3enNJblA4LVhyOVFmeW1uSFl1VVJDZFVCZnJ3SE9fYmtyd3pDWFlXaXFvc0lPUWU4bXE1VDBBcHlsR1dKaEpjT1JWVzh3Ui1BYmZleWFXcjQ0WWVRMDk3N0w5cENRWGlRNXRLTV8xYkYzZEp0ZndjMVMwUldxeFprZGFuall0bXJqRk9EdDRIbHpkbktnSy0xT0R0Y3pOY2RBUVYzS0YxUlFlYUNBQ0NSQTdPSXc?oc=5",
       "pubDate": "Mon, 03 Aug 2026 19:30:00 GMT",
@@ -1026,45 +1039,6 @@
       "vaccineLabel": "Measles / MMR",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "What's new in canine and feline vaccination guidelines? - DVM360",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSm1RS19idzJnM3VzRFVvcDNzM1R3ZlBUb1hqWE1BdkdoZ051UnlOb1hOVkd4VVNnRGNUUUlmMmRNMkJZYkR6RVV3bU13QnpSTGpPYXZ3Qk1aaW40Q3JiYm9RRlFSSkJPUVYzR1c3WHhaYmxrY1JLeVZyV1FScmxwRVp2dFozSl92Q2dR?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 19:28:59 GMT",
-      "description": "What's new in canine and feline vaccination guidelines? DVM360",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Health Systems Encouraged to Join the ATS Vaccine Initiative | Newswise - Newswise",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcVhlaGR1SzdHZnRlNHdTVmdOYndwTzZpenNoai1YbFdNcVF4MUM4dTJfUDM3Q2pPcng3dnBRZ1BQdzJSNDdGMHV3M1BZNmhvRFdoRm9jQlR3VkJaY3U2aUIyNzdXY0diQjdIQkk3VjlXNUU2bG5LUVJTWUhDZEFmcVUtQWlxN284TG1YeEYzNE9RdEhrY0xIdmJXRDM4WDNfVTZKSklpV2cxZjliaVBBbjM4aGjSAbQBQVVfeXFMT3FYZWhkdUs3R2Z0ZTR3U1ZnTmJ3cE82aXpzaGotWGxXTXFReDFDOHUyX1AzN0NqT3J4N3ZwUWdQUHcyUjQ3RjB1dzNQWTZob0RXaEZvY0JUd1ZCWmN1NmlCMjc3V2NHYkI3SEJJN1Y5VzVFNmxuS1FSU1lIQ2RBZnFVLUFpcTdvOExtWHhGMzRPUXRIa2NMSHZiV0QzOFgzX1U2SkpJaVdnMWY5YmlQQW4zOGho?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 18:15:00 GMT",
-      "description": "Health Systems Encouraged to Join the ATS Vaccine Initiative | Newswise Newswise",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Nearly 100,000 Young People Get MenB Vaccine in a Fortnight - medscape.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTTdTYWgyMHFJdWdoVjlqWWUzS3oyenhUY1g4anFuM29vX05VZzg5aU9YMlFld0hwdGJueVpUWGt2alVXNDFJeDloWmpRSWp2dVQ2NExHb2ZZSFZOcDd5LUp6c3QzRExOUzRKRWVSYmUwRzRYbDVmYVZwSFN0S2Fid3RYU3pWb3dpVGhLZW1oRVdxQmgwZ21FM1ZDcS10aHJoWU5VLWZ0SQ?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 17:35:29 GMT",
-      "description": "Nearly 100,000 Young People Get MenB Vaccine in a Fortnight medscape.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "meningococcal",
-      "vaccineLabel": "Meningococcal",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "RFK Jr. says parents should vaccinate children against measles - The Hill",
@@ -1210,10 +1184,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Pediatricians and health officials are sidestepping Trump's CDC on vaccine advice - NPR",
+      "title": "Pediatricians and health officials are sidestepping Trump's CDC on vaccine advice - npr.org",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNk9OQkhHVW52Q0lDS2tzVlJLVmZqYnZ0MEJDZWd6cy1RS2pzRG1Jc0VjS0trcXMyVTdpUVVpZ1M1ZWQxU2NKSXZwT2xMa3ZJd0hiRlRaV3RwNUVQN2UyMXh3Qnh1di1Zcm5LWTFmTUVJRWJMbXg4LW13ODhlOGFLT1kzek1NREJ1LVlpaGtMU0tWSTFMQ1RHTFpHaXp5ODROck0yYmxQVGpfeGpHYnU1c2psOA?oc=5",
       "pubDate": "Thu, 30 Jul 2026 09:00:00 GMT",
-      "description": "Pediatricians and health officials are sidestepping Trump's CDC on vaccine advice NPR",
+      "description": "Pediatricians and health officials are sidestepping Trump's CDC on vaccine advice npr.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
