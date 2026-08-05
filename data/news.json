@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-05T10:16:37.038Z",
-  "itemCount": 90,
+  "updatedAt": "2026-08-05T11:11:37.105Z",
+  "itemCount": 91,
   "groups": [
     {
       "key": "covid",
@@ -15,7 +15,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 10
+      "count": 11
     },
     {
       "key": "hpv",
@@ -28,17 +28,61 @@
       "count": 1
     },
     {
+      "key": "mpox",
+      "label": "Mpox",
+      "count": 1
+    },
+    {
       "key": "dengue",
       "label": "Dengue",
-      "count": 1
+      "count": 2
     },
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 70
+      "count": 68
     }
   ],
   "items": [
+    {
+      "title": "How vaccine trials in Congo could help protect mothers and children from Mpox - CEPI",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYXFwQVJHV0E2YTJzMDEwc1RvMXRNMVVhY3Z3OVExT25YeUpsQVVsSWhhenFKd1dQTDM0UHFPOTQwUzJqOURrTlAyMWVKVGl3V1puWFpyMDh6eVRES2wzV0hJMkNwTXdjN3BOcDJOVTlXcVFINUd2YXkxaFRmbFZfR3AwdWcyYWpUbVFSSThhYTkzQkQzTkNibFJqdXhBbjMyVlJ0V3ZQMXRqY1dnQVE?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 11:09:31 GMT",
+      "description": "How vaccine trials in Congo could help protect mothers and children from Mpox CEPI",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "mpox",
+      "vaccineLabel": "Mpox",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Teton Valley’s measles vaccine rate is a mystery - JHNewsAndGuide.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOXZGZ2hfdnB0Z25QYkp5Q1Rab09zN3B5RFh5bGhMUFd4NkJ2MTBWakFFLXg3d09lRFpHYlVNRjVwZjRiVFhnNVJNVzZLRkp5TEM5NDlJWWh0ODEtM0lpZVZRTUdTTTJObEQzYkxzUWhxQlJNdXpvU0VlWEplZDNxRUhib05MZEc1Vmk2TVVZeFFRMHBZenNJNW9vSXZqVFRzS2YzZTZDbzNvWGUtZzlLVlQtN0ZXNGk3Um5ZWEZVMEJLUzFfekU2QTVZcGRsQ3JqdnA1bFMyNXc?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 10:30:00 GMT",
+      "description": "Teton Valley’s measles vaccine rate is a mystery JHNewsAndGuide.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Indonesia dengue vaccine prototype revives mRNA misinformation - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOVhxRjZqTWx4RTNQMGNhc0p0TTNpU0lWTGcwcU9VaExHblJQNmpSbVJHNWVaU1B3SUljbFZXb1FSYkpucFFJX3Bzb0pfMjZ3ZEppLTc5QU1PcXdrNHVlaTdzSmxzZS1iei1WT2NWR0NPZG1VSG00d2VrOUZFd2MyVzRpeDRUM3Z2dE4zZEwwRWo1NEU?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 10:16:55 GMT",
+      "description": "Indonesia dengue vaccine prototype revives mRNA misinformation Yahoo",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "dengue",
+      "vaccineLabel": "Dengue",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "State Unveils New School Vaccine Dashboard - ButlerRadio.com",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FakpPanB1MUdmb3E4Q1RmWVVHRkl2cGN3aG9Ud1pYZFZkLWFFQlNFUEhIUEM4VDZSc2dQcHRaQzJVS0ExcklpTldhckJJRTV6QnBPaVZxd1Fub2FKZG5pbldRaVRlR2J0WWhfSGdNeHMyWVM1cVE?oc=5",
@@ -66,10 +110,36 @@
       "articleLabel": "News"
     },
     {
+      "title": "Dear Doctor: Why hasn’t a Lyme disease vaccine been a bigger priority? - oregonlive.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWEQ2cVlVWWdHcFpIV25VS096RWxHckZTVE50UGVrSnJPMTRPVE5vOUwyUmdCRGZhTUtaVENSMFBJSmh5WlhTbS15OVhpcjg3NEZ1NU9vYjNNZVpRWFU1b0Q1RnFNbkFlRk9HU2tBQVo1bE0zVndkWG9GdDJxYzBZbGV4bEpvdnlKcVY1WHlxTWRycmxFRU9FbHdDYXAxRzY2c2xvR2xoTEh1NVk0Z3lKSVA5cnXSAcgBQVVfeXFMTUxYN190cFlxb21ibm5PclppTE9NT0VjdlROYkJNVURqRjlfSkR4cTl1YjVvd18tR1BOU1pqaHdiSWhOSVRfZ1ROTzlMNVpiSnhEd3FSVXlzNTB5TDZvdlhLSUJyaDd4dm1RNUpteFU2WHBZdW5iMDZQWmlPTUJyTkJ3azNlY3F6SFRhWFhDM2ktRFdmRXlHMW1xeHM3WV9Cb1lodnItS3ZYVUtfQWw1S2dnVjhaSTdBUjdnczBiN0ZBbE1sRXgwb04?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 10:00:00 GMT",
+      "description": "Dear Doctor: Why hasn’t a Lyme disease vaccine been a bigger priority? oregonlive.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "As memory fades, vaccine hesitancy grows - The Valley Breeze",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSUtQdTlMcTlqSlpLM2FOSVZkcHJwODZ5M1RDYWRoV1FRYU5oN2JBc2VuT1JCbURlMGJFdmx0Uzk0UU8xZFI1S0RNTUpIQlpNS2c3TGJxX3hsNjlVTkJsdzlZWnpORmgxSkJBNWhBb1cyWTRGYks3eFNNSW10ejV5TGktZHZOZnRKTmFTYncwekVYSjFudXlJam9XTmNyVERiQ0ltWnZid2ZtVE4zSFdRTXcyUmlSdmxrSThsNmxJVndGek00bXBTQVBQTnYzc3Uxa3RV?oc=5",
       "pubDate": "Wed, 05 Aug 2026 10:00:00 GMT",
       "description": "As memory fades, vaccine hesitancy grows The Valley Breeze",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Why Is Moderna Stock Gaining Wednesday? - Moderna (NASDAQ:MRNA) - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMXg0c0JIUGFFV1ZzOVdmcW9NcG0zenZjYk40NXVuTkNqRE5IUW9fdWNHajdSNTc1VkRLdmFpMWVQWUx4NEYteUxtMU1ZbGNWYmZQbXByZFFfQ05STWpnbHg4bDFjSm9wXzVON1JLVUc3dVE3V2YyZU1XbUMyZDh4Z2FMU0tjdUczTUctZnJILXZENXpSZ25OMVFuTmlBRG1UbVNjV2VVUnladw?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 09:47:48 GMT",
+      "description": "Why Is Moderna Stock Gaining Wednesday? - Moderna (NASDAQ:MRNA) Benzinga",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -131,19 +201,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Dr. Roach: Looking toward the future of vaccines for Lyme disease - The Detroit News",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUS1fRHBQSG11RGJybVpGbWdNYUl0VTV5b3ptc2t6QmlCb2RTVmZucGdPX2VHNGUxQUZRUzdLLWZJOHlURzBpOFpjRHgzQXdpSjFUdzUyRk1Xc2F2NFV3TGtlUXR5MjNSZHQ5SDJURk15azBVX0hlZmpmZFFYTy05QkM4MHM1dnM4clhKX3JEbG5KeFZsTk9BeTdVQ1g0X1RuUzBid3pHcVN0NEZlaFJndUxpRkgwUTRDZktPX0ZpSVdyRnZadEpNdWJxSVpTdw?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 09:06:00 GMT",
-      "description": "Dr. Roach: Looking toward the future of vaccines for Lyme disease The Detroit News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Pediatricians and Health Departments Sidestep Trump’s CDC on Vaccine Guidance - KFF Health News",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUmtJakpGd2NvUHd1alIyLTBwRExybW9pV3piTzl3S0ExWUVfanJLRkhwNWZVaExkdU43cG1PVURsQUF6a3lWZU9WckY5cURfTkd4aVNXR3ZGeXBSa3ZoT29uSmdfYzAyUHJUelFqelg0b1VqcmJKUGx3bnV1S3NUcmJIN3lFSGNnSzNGR0o1VGd0QThEWlJMUENNVk1mTjM3V1NveExRd2NkbF9NMHc?oc=5",
       "pubDate": "Wed, 05 Aug 2026 09:01:24 GMT",
@@ -170,10 +227,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Froma Harrop: Trump, RFK Jr. spurred vaccine hesitancy - Rocky Mount Telegram",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNR291ZWYwek1LSEhkMDNER1V1LUpHV1RJRXpXbS1ac0hnTHVFUG5aLUtKUWt1R3gzdjRPY3FvTjVGdzQzdFI4ZGViQm8tTUh4NWpzUlprVkZQcHMyZzNsb2t6dHlJLTNfX1dndWtVRWlhdU52VHhGUnhZdDN4aFVnU0dXa3hzWEd5NW5HSUItdTI3cHZ6NkNkcGYwSXlIbE42LVdiemNiYWFHZW9jUVFfLVcyLWxDUi1QYjhfdlJOeVRwTFZEQUpRVXpaN3VEWkliR1BweHM0RXR5dnZkcENiRnBadXNkR0FPRGNWYTZaTUtnZUNsUGJN?oc=5",
+      "title": "Froma Harrop: Trump, RFK Jr. spurred vaccine hesitancy - reflector.com",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVTVWUTVRamcyd214dnJkYk9vQXF0YkUxdlNGWDNYbDI2QVVjSTRSZzUxZXVpUHMxeWs3Y1k1X1prMVdEd3R6UUEta0VpVk43UkhadTZWQ2U1dnpkSHl2Ujk4aDM0RndjU1dUaHlXUkN6bldsempEWExYNnFEREhJVDZpdHQzSVpuUjRzdFk3QUwwSnlxU0ItTV9aeVM2aURzQjBLQzEwWlp4OVRQVWdmNWctQjJST1l1SFcyNFQzQkxyRlFjN250b0tSNkc0RXJ4V25uNUNVMVgtVEYydjVnQTNZdjVGWUFBMG13?oc=5",
       "pubDate": "Wed, 05 Aug 2026 08:30:00 GMT",
-      "description": "Froma Harrop: Trump, RFK Jr. spurred vaccine hesitancy Rocky Mount Telegram",
+      "description": "Froma Harrop: Trump, RFK Jr. spurred vaccine hesitancy reflector.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -196,10 +253,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "newsGP - GPs concerned vaccine barriers are adding to record-breaking ED strain - Royal Australian College of General Practitioners (RACGP)",
+      "title": "newsGP - GPs concerned vaccine barriers are adding to record-breaking ED strain - racgp.org.au",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUhhM2E4ejluSWo4TnVYUEt6VEU3QU9td3plNEhFcHVFLXhLV0NRZVkzSkpITXFxZUhkUU1YZXhVZnZrTWd4NExwVVptb3ZZVTBZVE9kZXctT0hBWGt4T0kxcV9KY0VXVU1NdnlmaXRqd1JoR3ZLYTdGQ1pXa0hpcmlHUVdyRE1aLVlodE5uUE1yRWwwYXBNMm9JaDQ?oc=5",
       "pubDate": "Wed, 05 Aug 2026 06:52:07 GMT",
-      "description": "newsGP - GPs concerned vaccine barriers are adding to record-breaking ED strain Royal Australian College of General Practitioners (RACGP)",
+      "description": "newsGP - GPs concerned vaccine barriers are adding to record-breaking ED strain racgp.org.au",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -285,19 +342,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "Canada approves trial for mRNA Ebola vaccine - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BZGV3MFZyRnVtaV9EbGpUQ3ZxMDR1ZEJQa3h4MG5wa3ROUk80czBtVVEyWlExdjJ0ZzFPRzVJMjl3dFJFRTRVa09FZHJsNFRORWphZG1ySTRPQQ?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 02:39:52 GMT",
-      "description": "Canada approves trial for mRNA Ebola vaccine CBC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "Takeda aims for dengue vaccine inclusion in India's shots program - Nikkei Asia",
@@ -404,10 +448,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Pancreatic Cancer Vaccine Shows Interception Promise in High-Risk Patients - MedPage Today",
+      "title": "Pancreatic Cancer Vaccine Shows Interception Promise in High-Risk Patients - medpagetoday.com",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mN0FHaFVYanRyVDJwbWNURGF3Rnl4N2FpNlJrQ3RrRmNoNk9EUzZNRUdsVFEzTTdEYkJmRjA0NHpROUtLTW54emM1ZjBRVDctMFJCWUFfWHJvNHF6NVNIbGh6WmpGTWc2VU9zREtLWDFiZ2FqOEE?oc=5",
       "pubDate": "Tue, 04 Aug 2026 21:08:29 GMT",
-      "description": "Pancreatic Cancer Vaccine Shows Interception Promise in High-Risk Patients MedPage Today",
+      "description": "Pancreatic Cancer Vaccine Shows Interception Promise in High-Risk Patients medpagetoday.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -417,10 +461,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - abcnews.com",
+      "title": "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUHZVVU52ZV9BME5XeURYMmFnb0ZvWldaTFVwMWw5STBBRmx2MVVBVnpKZHk3WndvbUR5SEEtSkNMaE5naHE0c2pFaVMtdTU4NFo3N2ItR0FHUENZWE51M0RGT1R1QjNvSXBvbWRRWjhXdlBnRzJxZERFMFAyc1FmYlQ5WWxUOHdwNzhULTh4RG42TXpSMklHand2X196QdIBowFBVV95cUxPVXgzVUE1ZndSbTNFTTdHTXJvZkM0QnVHa2xMV1FJUzRsTkwtb0gyeXlyMjM2blVSXzVSaXNNb0x4RUZZWHBmM1ZxaTlFa0JZU0JLbVpJUTVMZ0lnd2NacnpDaDVJeGptTjNJZ3lTb3pzRjdscWw3UkpobHRXLTl0T1ZWaFgxb05HZHlvUDByamxmMEJfeGIzVVMyUzJ6RDkxalpN?oc=5",
       "pubDate": "Tue, 04 Aug 2026 20:57:19 GMT",
-      "description": "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak abcnews.com",
+      "description": "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak ABC News - Breaking News, Latest News and Videos",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -430,10 +474,10 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Gov. Kelly Proclaims August Immunization Awareness Month in Kansas - kclyradio.com",
+      "title": "Gov. Kelly Proclaims August Immunization Awareness Month in Kansas - KCLY Radio",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaWJNU183dTB6dGdDRndqeHV6RVdBTHRCLW0xcFBQMHpVWklMRnN2ekl6N0tzQkcwV2FLM3RKNm9PR09NQjVuTTgycmVUaFFjdmtkeVl0VVdpQ3ZJdGMtRHlBcWFacEljdkJYVXl0WDFEMWEyZ0JqZjhwZ1J1ZlFDNkxmUEd4UzkzTkhhVVVVU1BHdVZUUlowTw?oc=5",
       "pubDate": "Tue, 04 Aug 2026 20:42:24 GMT",
-      "description": "Gov. Kelly Proclaims August Immunization Awareness Month in Kansas kclyradio.com",
+      "description": "Gov. Kelly Proclaims August Immunization Awareness Month in Kansas KCLY Radio",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -456,10 +500,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "HES to host low-cost vaccine clinic August 5 - wdef.com",
+      "title": "HES to host low-cost vaccine clinic August 5 - WDEF",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JU1BrSi1XM05NVm9kQ1FTeGdfQ2t2ZWgxMy1vMEdudEliOVlrdHllaWtWdHlHRDZ3UWNienJMZlZEQU14Ykk1OWpYUWNFRmlOMmZOUTVDVFNVS1NhQkhEYkFPcTA5eFRDNl90OXBqXzdBQkpC?oc=5",
       "pubDate": "Tue, 04 Aug 2026 20:17:57 GMT",
-      "description": "HES to host low-cost vaccine clinic August 5 wdef.com",
+      "description": "HES to host low-cost vaccine clinic August 5 WDEF",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -560,10 +604,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Rabies vaccination blitz underway for Quebec wildlife, including in nine Montreal parks - montrealgazette.com",
+      "title": "Rabies vaccination blitz underway for Quebec wildlife, including in nine Montreal parks - Montreal Gazette",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNemVndFFrd0NZWGluTWswNXkzWEtMZld6eTRnakN2cXg3ZHI3VElkU2tGbTZFQ3FQa1NKaFBBSWd1Qk1hNWxmOGljYmV6dXMxUE51RzZKdF8waVpMT0x4enpCaXR0NTZEZi1WRHhrLVB2dHR2clhPS1BGcWpLbEd4TGZVSWZGUnhUODBWUG1MN2Q?oc=5",
       "pubDate": "Tue, 04 Aug 2026 18:06:58 GMT",
-      "description": "Rabies vaccination blitz underway for Quebec wildlife, including in nine Montreal parks montrealgazette.com",
+      "description": "Rabies vaccination blitz underway for Quebec wildlife, including in nine Montreal parks Montreal Gazette",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -677,19 +721,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Pennsylvania Launches New Tool Making School-Level Vaccination Rates Available to Parents - pennwatch.org",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTXFVTFJuR2ROdC00Y3Y4eF9SdDJSenNhTnpUNUJJalZLc0U2NUswNGJhX01uVDNIVS13dkgydk1uRUtqN1FjdVpZRnJfU1dnLXU0ZXJUblNuOWQ3UDZDZVd4bGhoM0hSbUoxMFZKSC1pdVBRUmxiQ2hvX2xENHlrWktENXYtYk1LY3lXbWJGR0hET2JvTFdad2ZOOW5pSTVkSEVOUzRScWxNNmM2b1F3Y0tR?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 16:16:02 GMT",
-      "description": "Pennsylvania Launches New Tool Making School-Level Vaccination Rates Available to Parents pennwatch.org",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Health dept. hosting after-hours immunization clinic - Norwalk Reflector",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORXhoakZNRE5KVlYwZE00bjZySks5RzZSbkVuYVlOdVRuVmZkTVdPdjcxNGZRRldfVF9UUHhRZGIzTl9Zem1Vc0hzb1V5OG8yb3E5dlJZOFprSEFlbkYyU3VXRDJlQ2duQk8tMFk3YUVwWk95bkxyVUhGeFpFRks2dngtejlueHNvYUhXb1JwUTdOVE41alRCTWVR?oc=5",
       "pubDate": "Tue, 04 Aug 2026 16:00:00 GMT",
@@ -794,10 +825,10 @@
       "articleLabel": "Research"
     },
     {
-      "title": "BioNTech cuts sales forecast on slumping demand for COVID-19 vaccine - BioSpace",
+      "title": "BioNTech cuts sales forecast on slumping demand for COVID-19 vaccine - biospace.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNFd4QkxVaXBzTDZSR29jclVZckFfWkYzd2ZSWlR4eThSbDNQRC1acFJtaWt4THFWTWsxeU1felVKdVNCVTY5aVFOMWtzaUdmYlhIRUxtNTJGZWNwMFdlVE5hMERDbU1QTC1PSUNic3Q1VWIwRGNIVkttNUhtTk9CQXU0eHJWU0RpMTR5WDlFWmJvZW0tOWo2M3pCUVF5UU5rdnc4Qg?oc=5",
       "pubDate": "Tue, 04 Aug 2026 14:56:30 GMT",
-      "description": "BioNTech cuts sales forecast on slumping demand for COVID-19 vaccine BioSpace",
+      "description": "BioNTech cuts sales forecast on slumping demand for COVID-19 vaccine biospace.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -833,10 +864,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "National Immunization Awareness Month - odh.ohio.gov",
+      "title": "National Immunization Awareness Month - Ohio Department of Health (.gov)",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM2dPd0JyRnFJUUE2NUpXODdZTnc4bk01alJna29KTTR4V2FpV3NHeXR2ZzlnbVU4cWw5QkRMcURtbUVldVlrRzRJV2Zic3k2RTc5MjQtZEV1em9jZHFpWnFFNzAyaVhUYU94Yk1kQzR5QllrRWNUMEczdEs2ck81Q2o1dU1lUHQzVkx2UGs4U0V6akl3a2hjTUdqWmJ6U0pPM29oZQ?oc=5",
       "pubDate": "Tue, 04 Aug 2026 14:14:26 GMT",
-      "description": "National Immunization Awareness Month odh.ohio.gov",
+      "description": "National Immunization Awareness Month Ohio Department of Health (.gov)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -885,19 +916,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Strengthen the Vaccine Injury Compensation Program — Don’t Tear It Down - National Review",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZUJFazhLSFh5ZlBKM09rbXd3cDZkX1B3aXFRaTBDbWxtZjczaG9DUEY3dDdBejZKNWptMm9oeW9jempxZG52MnU2NzViR0N0NGZLRHN5Ml9YdlpPb0FDMk1EUDBXT1B3TVhHZk1zbFdPOEJpc2xTLVNMbWJlUUk4WGk5d1VkQkNUd3VPWWMzaEQ5ZGlFTFY2Y3g0eXNBNGxZYXJzLUZqTVB6TkdN0gGyAUFVX3lxTFBDNktCMER4UlFfZlFucFM1VjNSMlIzNXk2WkRXZ01vSy1jaHVTcGZIMkgtWmpDQm9QcHNQTkNQLTFCMExZNHh0RnRKY05uNlBEVGY3c3FMTGxJR0YwTmZCR2E2UERHdXZCZXduQnA4ZktzUEhLcHVNbXF5OE5mS2JMWUpyazJHeUl2N1ZvTHVPLXBHUFlxTU1XbmdEUXJGY291YmZDVFdNcWpEdmNUNk5iLVE?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 10:30:58 GMT",
-      "description": "Strengthen the Vaccine Injury Compensation Program — Don’t Tear It Down National Review",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Can you file for vaccine exemption in Oklahoma schools? What to know - The Oklahoman",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObFBmRldnM0ozRjUydVRIN2dDMGtCT1M3UWIyMndyNlVpcl9pN29va041MTJsLVctUDk0RnZoMTBrX0IwSlJZc2tDTXZjVWtaZVk1R2RyOFNodHBpMWZWakw5cGVjOGVwWWdraG4tNVlielp6NjJ0Rk1MUXBZelZ4ejRGOTdjWHdCWDdyVWh4dzQxTVBKWkNaazAtLXRfWTVSYmJ0ZUlUc2JKdFNzeHQwRzhfaVpVVzd3bUotMlhQSUNlaF9JV0p3MVlOWVcxekhVaWVaZ2hn?oc=5",
       "pubDate": "Tue, 04 Aug 2026 10:02:00 GMT",
@@ -911,10 +929,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "What we’ve learned about Covid-19 since the pandemic - CNN",
+      "title": "What we’ve learned about Covid-19 since the pandemic - cnn.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sdDlOMlBrR1BrT01RcXE5UVdXVmhuVERvZ0R1TXl6Tk9FSnVoaE5BSEg0LUp5eElRUDI4cmdyUGZzT2g5RHhvcHBCR3FMb1NOSFBTTnVxZ3RYWVNpbjV1d3FnUGxVbkc3a3drV2tCUnA?oc=5",
       "pubDate": "Tue, 04 Aug 2026 10:00:25 GMT",
-      "description": "What we’ve learned about Covid-19 since the pandemic CNN",
+      "description": "What we’ve learned about Covid-19 since the pandemic cnn.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1002,10 +1020,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Kentucky kindergarten vaccination rates among lowest in nation - FOX 56 News",
+      "title": "Kentucky kindergarten vaccination rates among lowest in nation - fox56news.com",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcm1uMEtKTlpWYjFuS213N1hRWWdBbzdKcHdjOUlDLW9FMzMxeVJjNWQ5aW5LOVV4S21xRkpaQUN6UVVxS2JEY3lOQlE4c0JrTW5rUU14ZklibWZTNWRHajlJdWNPT05OYXdxVGV0bDRiSWMzV0hkZkI4Zl9Ld3gxaHFpVDIxQmxReEp0U3ktcVNaX19EWnJwVnRsTUZDWC1Z0gGmAUFVX3lxTE1TSnlLUTgxMlBZNm5CeERDbnN0ZGhWeGlZUHBZSnZCUW1pTEJkYm1yMWp1bTlCYXllLUx5TlV4dWJvbXJJV1NOekJDUF9Vb1hkdGZPMzBUSkZndWFjR2hoVlBhYTRCeFVYU0RFMEx2SFd2ZlJLSVZrUHdhZnJlNkhYYmI2bk04TDFHTk1LYUJ6d2Jtb2pLQW9rUU1VckloYVhheTZxZ0E?oc=5",
       "pubDate": "Mon, 03 Aug 2026 23:22:35 GMT",
-      "description": "Kentucky kindergarten vaccination rates among lowest in nation FOX 56 News",
+      "description": "Kentucky kindergarten vaccination rates among lowest in nation fox56news.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1015,10 +1033,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "There's a reason child vaccination rates are falling - and it's not social media - BBC",
+      "title": "There's a reason child vaccination rates are falling - and it's not social media - bbc.co.uk",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YcXowQXlqN0tjR3BpdjhHZGo3M2YzaENGdHQ0VG1rQ1N6M1Z6eDc2TkZyd251aGJwenV6bWtnYzhXelc5MC1zdm84WU9ndmNIX2pTVGR2b2FJYXhy?oc=5",
       "pubDate": "Mon, 03 Aug 2026 23:13:18 GMT",
-      "description": "There's a reason child vaccination rates are falling - and it's not social media BBC",
+      "description": "There's a reason child vaccination rates are falling - and it's not social media bbc.co.uk",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1080,10 +1098,10 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Florida AG threatens Catholic schools' voucher funding over vaccine rule - Angelus News",
+      "title": "Florida AG threatens Catholic schools' voucher funding over vaccine rule - angelusnews.com",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE42NU9MOEtrc2syemt6dUx2UVJPZGQzRnB4eVQtRGNDaVRGQmJZc2N1d2FDRkV1SkhJcmJVOHJyTS14Z01LVU1yUFJVaDVLWkpaTVkwY1VuVE9mRnhBcUJjZWNmNFd6S2s5bnFsRUpMSENuc1hOVHpuWllB?oc=5",
       "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
-      "description": "Florida AG threatens Catholic schools' voucher funding over vaccine rule Angelus News",
+      "description": "Florida AG threatens Catholic schools' voucher funding over vaccine rule angelusnews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
