@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-05T09:21:10.338Z",
-  "itemCount": 89,
+  "updatedAt": "2026-08-05T10:16:37.038Z",
+  "itemCount": 90,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 6
+      "count": 5
     },
     {
       "key": "flu",
@@ -15,7 +15,7 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 11
+      "count": 10
     },
     {
       "key": "hpv",
@@ -35,10 +35,114 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 67
+      "count": 70
     }
   ],
   "items": [
+    {
+      "title": "State Unveils New School Vaccine Dashboard - ButlerRadio.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FakpPanB1MUdmb3E4Q1RmWVVHRkl2cGN3aG9Ud1pYZFZkLWFFQlNFUEhIUEM4VDZSc2dQcHRaQzJVS0ExcklpTldhckJJRTV6QnBPaVZxd1Fub2FKZG5pbldRaVRlR2J0WWhfSGdNeHMyWVM1cVE?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 10:14:00 GMT",
+      "description": "State Unveils New School Vaccine Dashboard ButlerRadio.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "What Gives Me Hope About the Future of Public Health in the U.S. - Time Magazine",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcl82dHVJWk1BYkVLWWF6OGtiSEpmdFpFQjJpV2xPcEE4UU1NR0hiU1ZWc0xQdzE0TDhRLU5mVm1pRllfQTUtay03MFBieEVZX0Q0MWpUUk1vSkVrN211OE1zWnNoUzVhbEVsbTBJbDlidjZlYnBIc2VvaDJKNi03dTBOZTBZZw?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 10:00:04 GMT",
+      "description": "What Gives Me Hope About the Future of Public Health in the U.S. Time Magazine",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "As memory fades, vaccine hesitancy grows - The Valley Breeze",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSUtQdTlMcTlqSlpLM2FOSVZkcHJwODZ5M1RDYWRoV1FRYU5oN2JBc2VuT1JCbURlMGJFdmx0Uzk0UU8xZFI1S0RNTUpIQlpNS2c3TGJxX3hsNjlVTkJsdzlZWnpORmgxSkJBNWhBb1cyWTRGYks3eFNNSW10ejV5TGktZHZOZnRKTmFTYncwekVYSjFudXlJam9XTmNyVERiQ0ltWnZid2ZtVE4zSFdRTXcyUmlSdmxrSThsNmxJVndGek00bXBTQVBQTnYzc3Uxa3RV?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 10:00:00 GMT",
+      "description": "As memory fades, vaccine hesitancy grows The Valley Breeze",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Your Good Health: Vaccine for Lyme disease in final stages - Times Colonist",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMTBRLTg0MkJhMHF6YnpoUXVZMHQzRURJQTNqOVVYbjJOTmdlTUk0c2U3eFVrNVVDcUI4UTNwRkQ3STk4Vzh3Q2NfZ1lndWlEbm9qVThGaFRKc3F1aUY1SzB4eWQ0Y18tNU03YjBqX3A4TnpLUGxiSVpJSkdMMWRYRkRvdjFQaWVvaTVkbmVLTXhMZkpfNlBDS2JSN096dFRBazA4?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 09:45:00 GMT",
+      "description": "Your Good Health: Vaccine for Lyme disease in final stages Times Colonist",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Amid soaring measles cases, Pa. parents can now track vaccine rates at their child’s school - 90.5 WESA",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM1ZSQUFkRkM1Q2JJTThwRFhfbnh3dkxoREwzc1Z4MS1lVjBKNmZJS0l2WDZjYmtkdzFiUDR6X1diNjFkM3hwWHpiVHhQZGhyU1pSVjV4UUtZWVY2eUdoTEVmeFEybnB6bU9PVVhLTDEtaGRzdDJlejczTWg4ejdBbmVHcVVMRnd6Y29uMldaZFo4QllFenFmTkpQQkVqaGk0ZW5n?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 09:33:00 GMT",
+      "description": "Amid soaring measles cases, Pa. parents can now track vaccine rates at their child’s school 90.5 WESA",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Moderna starts first trial of its Bundibugyo Ebola vaccine - pharmaphorum",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWmRWOUpIZkJacVc5MVRoUjdKVHVNVVBrNUk4SXRNNWZuRUlGTmFhVkw2VEYyYTVrSmJDVndiYmVJNmdEekhveEdsMFpncXBXVUxfZTY2V29qV0RpNXZzZ0tCOXo0UGxnWGkxdE9sVkI1UENfYllxLUxvY1dkeHJ4NkVNOWR1STAwazgwMTNn?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 09:30:02 GMT",
+      "description": "Moderna starts first trial of its Bundibugyo Ebola vaccine pharmaphorum",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "African Institutions' Readiness to Conduct Phase 1 Bundibugyo Vaccine Trials - CEPI",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ3VBVVhzZGFGM3gyMEpjUmZYZ0NMU0lEeWVpUUpTWmpxTDhBc0k3MzBlbm1fWXpyMTFKMFpMNUdJR2prRFNuR3JWUUxta3lXMEVHOUpiWGpwVDNOYVlxNjdxRklDa3c0Q3hfVGphYlpHT0tva2NZd00tdDVhd2VVWDJyS3BqNDlGRHN4aEFpbEhBX1U?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 09:24:44 GMT",
+      "description": "African Institutions' Readiness to Conduct Phase 1 Bundibugyo Vaccine Trials CEPI",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Dr. Roach: Looking toward the future of vaccines for Lyme disease - The Detroit News",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUS1fRHBQSG11RGJybVpGbWdNYUl0VTV5b3ptc2t6QmlCb2RTVmZucGdPX2VHNGUxQUZRUzdLLWZJOHlURzBpOFpjRHgzQXdpSjFUdzUyRk1Xc2F2NFV3TGtlUXR5MjNSZHQ5SDJURk15azBVX0hlZmpmZFFYTy05QkM4MHM1dnM4clhKX3JEbG5KeFZsTk9BeTdVQ1g0X1RuUzBid3pHcVN0NEZlaFJndUxpRkgwUTRDZktPX0ZpSVdyRnZadEpNdWJxSVpTdw?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 09:06:00 GMT",
+      "description": "Dr. Roach: Looking toward the future of vaccines for Lyme disease The Detroit News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Pediatricians and Health Departments Sidestep Trump’s CDC on Vaccine Guidance - KFF Health News",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUmtJakpGd2NvUHd1alIyLTBwRExybW9pV3piTzl3S0ExWUVfanJLRkhwNWZVaExkdU43cG1PVURsQUF6a3lWZU9WckY5cURfTkd4aVNXR3ZGeXBSa3ZoT29uSmdfYzAyUHJUelFqelg0b1VqcmJKUGx3bnV1S3NUcmJIN3lFSGNnSzNGR0o1VGd0QThEWlJMUENNVk1mTjM3V1NveExRd2NkbF9NMHc?oc=5",
@@ -66,10 +170,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Froma Harrop: Trump, RFK Jr. spurred vaccine hesitancy - reflector.com",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVTVWUTVRamcyd214dnJkYk9vQXF0YkUxdlNGWDNYbDI2QVVjSTRSZzUxZXVpUHMxeWs3Y1k1X1prMVdEd3R6UUEta0VpVk43UkhadTZWQ2U1dnpkSHl2Ujk4aDM0RndjU1dUaHlXUkN6bldsempEWExYNnFEREhJVDZpdHQzSVpuUjRzdFk3QUwwSnlxU0ItTV9aeVM2aURzQjBLQzEwWlp4OVRQVWdmNWctQjJST1l1SFcyNFQzQkxyRlFjN250b0tSNkc0RXJ4V25uNUNVMVgtVEYydjVnQTNZdjVGWUFBMG13?oc=5",
+      "title": "Froma Harrop: Trump, RFK Jr. spurred vaccine hesitancy - Rocky Mount Telegram",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNR291ZWYwek1LSEhkMDNER1V1LUpHV1RJRXpXbS1ac0hnTHVFUG5aLUtKUWt1R3gzdjRPY3FvTjVGdzQzdFI4ZGViQm8tTUh4NWpzUlprVkZQcHMyZzNsb2t6dHlJLTNfX1dndWtVRWlhdU52VHhGUnhZdDN4aFVnU0dXa3hzWEd5NW5HSUItdTI3cHZ6NkNkcGYwSXlIbE42LVdiemNiYWFHZW9jUVFfLVcyLWxDUi1QYjhfdlJOeVRwTFZEQUpRVXpaN3VEWkliR1BweHM0RXR5dnZkcENiRnBadXNkR0FPRGNWYTZaTUtnZUNsUGJN?oc=5",
       "pubDate": "Wed, 05 Aug 2026 08:30:00 GMT",
-      "description": "Froma Harrop: Trump, RFK Jr. spurred vaccine hesitancy reflector.com",
+      "description": "Froma Harrop: Trump, RFK Jr. spurred vaccine hesitancy Rocky Mount Telegram",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -131,10 +235,10 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Vaccinates and Immune-Mediated Inflammatory Diseases - Cleveland Clinic",
+      "title": "Vaccinating Patients With Immune-Mediated Inflammatory Diseases - Cleveland Clinic",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWkEwSVZ0SllZelpuSFZuYWlMcHI4ZVRENkF4OE9rQllXRHh5RFY1RmZ6X21DR1FoS1FUajRqYjZWTV94MF9jU29MYjVER0FzQ2lDRUVLRUstbG9NcFFleWMyNkloWWhzcFN5VlZYLTViWFdIM0kwZ3liRlRIUkJpUXNPSHBLZ3o3Yml5Z1M4SW9waFRrb3FxcXpoSkNvbmVQRmF1Mw?oc=5",
       "pubDate": "Wed, 05 Aug 2026 05:26:15 GMT",
-      "description": "Vaccinates and Immune-Mediated Inflammatory Diseases Cleveland Clinic",
+      "description": "Vaccinating Patients With Immune-Mediated Inflammatory Diseases Cleveland Clinic",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -157,10 +261,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Pennsylvania releases school-level vaccination data - observer-reporter.com",
+      "title": "Pennsylvania releases school-level vaccination data - Observer-Reporter",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSmtTY29wRi1SWU8zdTA2YnFabnFGNjlTbkk4bHBxZXBpaFBHSFRCVmFWbXFwRmdjdGZick80M0FsUXZwdnp3ekZNVF9qTjIzc3lMM1BMbWZtMlRTalFjYmdWOWdyQ2t3bE1WbmdDbVlSZ0htR3FDSXAwdEpMUkNyUm10WC0zU1lJNHJad2VEYnd0cGhIY3FLWXZNUjNHRXQ1MkVDVnAzaUJOLXIxaHIwWDVRdUE?oc=5",
       "pubDate": "Wed, 05 Aug 2026 04:02:51 GMT",
-      "description": "Pennsylvania releases school-level vaccination data observer-reporter.com",
+      "description": "Pennsylvania releases school-level vaccination data Observer-Reporter",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -209,10 +313,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Here's what to know about Oklahoma's vaccine requirements for school - oklahoman.com",
+      "title": "Here's what to know about Oklahoma's vaccine requirements for school - The Oklahoman",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeGw0ZDlDTkxrMGh0czFsaUNkVklQMjJpcl9ib0pYX0JreWt3UW9KNmptU2UwRWV6RU9xVVVtZ2JMWVloeHh2Tk1TY1AwUVE5UjhSbTF6eEhSRTNWTzNybHZVcllUbE5RNEZJdzJ1TEQyYmp1U1A2TFdjSHEyTEhLNXB4LWNqb1BuWWVyOXY4NDB6X1QxZFVOWlJJQTBiTmtsdlJOdlRHRy1yUi16ZGllOGRlVEpEOU5xakNxcEVHSFVSZ2xCbEdZYTFR?oc=5",
       "pubDate": "Tue, 04 Aug 2026 23:29:14 GMT",
-      "description": "Here's what to know about Oklahoma's vaccine requirements for school oklahoman.com",
+      "description": "Here's what to know about Oklahoma's vaccine requirements for school The Oklahoman",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -244,19 +348,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Trump linked MMR vaccines to autism. Ties between the two were just debunked again - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcFJJdnhIZWpPSE85RFg1WG4xTHVLNmx6cGhSUXBENFFMRlB6TzRmX191SFZaMGk1UnA1cXg5TlRnU095U2J1cDdyTDhaV0xHejhmdmNrYTRlRTBWNkJsU05ma1ppQWdlV1dkTE5OTC0xdlNHbkJIdXVYdDd4bGdaeXJXSHoyYXlra0hBRVVKZ3MxdFpQSVE?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 22:26:00 GMT",
-      "description": "Trump linked MMR vaccines to autism. Ties between the two were just debunked again The Independent",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -326,19 +417,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "County lifts measles emergency; no new cases in 4 weeks - buckrail.com",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeWV3aHkyaGFMVXZWSkFwWkxmVzREQWE2SU1ONkF1Y3ZWMkNfZXg3cFVuM2V5NWw4Q2ZqN3BjczBrTGhTbUw4dklON1FGRFhrMVMySFVvOTktZkVPRXdKTS0xU0xMTGhRUTM3YXZMYXFvNGxGb1E5bTB4MXVKejZlRjRn?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 21:00:00 GMT",
-      "description": "County lifts measles emergency; no new cases in 4 weeks buckrail.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - abcnews.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUHZVVU52ZV9BME5XeURYMmFnb0ZvWldaTFVwMWw5STBBRmx2MVVBVnpKZHk3WndvbUR5SEEtSkNMaE5naHE0c2pFaVMtdTU4NFo3N2ItR0FHUENZWE51M0RGT1R1QjNvSXBvbWRRWjhXdlBnRzJxZERFMFAyc1FmYlQ5WWxUOHdwNzhULTh4RG42TXpSMklHand2X196QdIBowFBVV95cUxPVXgzVUE1ZndSbTNFTTdHTXJvZkM0QnVHa2xMV1FJUzRsTkwtb0gyeXlyMjM2blVSXzVSaXNNb0x4RUZZWHBmM1ZxaTlFa0JZU0JLbVpJUTVMZ0lnd2NacnpDaDVJeGptTjNJZ3lTb3pzRjdscWw3UkpobHRXLTl0T1ZWaFgxb05HZHlvUDByamxmMEJfeGIzVVMyUzJ6RDkxalpN?oc=5",
       "pubDate": "Tue, 04 Aug 2026 20:57:19 GMT",
@@ -378,10 +456,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "HES to host low-cost vaccine clinic August 5 - WDEF",
+      "title": "HES to host low-cost vaccine clinic August 5 - wdef.com",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JU1BrSi1XM05NVm9kQ1FTeGdfQ2t2ZWgxMy1vMEdudEliOVlrdHllaWtWdHlHRDZ3UWNienJMZlZEQU14Ykk1OWpYUWNFRmlOMmZOUTVDVFNVS1NhQkhEYkFPcTA5eFRDNl90OXBqXzdBQkpC?oc=5",
       "pubDate": "Tue, 04 Aug 2026 20:17:57 GMT",
-      "description": "HES to host low-cost vaccine clinic August 5 WDEF",
+      "description": "HES to host low-cost vaccine clinic August 5 wdef.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -534,19 +612,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Will There Soon Be a Vaccine to Protect Against Alzheimer’s? - Yahoo Life UK",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOElOUTVWZ0FpOVdDcHF2aVA4TFZYYVdoZzdnbTVwaklUYS12TzExZHpvcFROMlNrMWt2WHJ0Q2F4MVBGTjRXY2ItbVV4ZEFXTzlxS29GcGdiV0RCeFZZbk1kal95b3JxU2tFdzU1Z295NmliM1NUZFRBQXpKVmRLVTVZUUlKX1E?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 17:51:00 GMT",
-      "description": "Will There Soon Be a Vaccine to Protect Against Alzheimer’s? Yahoo Life UK",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "New Ebola vaccine trial launches as outbreak spreads in DR Congo - UN News",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXUGNTUS1GN1R0OW1mNEZTaENiNU5XUW4xQW9CQkJXcjlyX0dISHdiV21mU25KNDRUQXNMYmZjWlNyMGpPdnNBb3AwYnJjSlhGQllNRWFtZw?oc=5",
       "pubDate": "Tue, 04 Aug 2026 17:18:27 GMT",
@@ -586,19 +651,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Moderna Doses First Participants In Ebola Vaccine Trial Ahead Of Key FDA Decision On Flu Shot - Stocktwits",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbG1IUDJyWHZZMy15V1hMbXY3RDB2OVhoM0VRRE5CNkJIcm9DMzF1Y0lxWFB6ZjlFbUh5cmktOUxLNnhmWmhCZU95bFRFSVBXRGdXR2FDNjFYZFhUdDNXQkdEdm5TNVhwalJYN283YXUtbEZlMTR6WTFaVGpEeGExeDhPRHRjTWw5ZFZmVDY0ZC1hU0VPaFZNLTZVWktNNmttYjVsTlV4R0RjQ0Npc0J5Uk5VU0IzWlhwOVJyVzB0aVFuYnJOUXJiVHplWFk?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 16:47:00 GMT",
-      "description": "Moderna Doses First Participants In Ebola Vaccine Trial Ahead Of Key FDA Decision On Flu Shot Stocktwits",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "Moderna begins human trial of experimental Ebola vaccine in Canada - The Seattle Times",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM0gzY2JEaWhrZ0drVFY1VkRqSHhMRTktQW5JYVVpV1Y1bXFtN09GbXNSVk94aGJKcFZ6QUcySHA2c2FXbnpYTEhTMG9YTmpoQzV4LTVvQXY4eGtmRk03MHVBbmdZQjQ3M1Rpc1N0NWY3eUY0MEl6aGlBaGhvbHNnRFdib19ZMkNDZHRsMmdSdUU1Z3NpNWFxS2JwUGRMWHFtUnRaMXVCYmM?oc=5",
       "pubDate": "Tue, 04 Aug 2026 16:29:48 GMT",
@@ -610,19 +662,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "Fauci’s diary shows that Israeli data indicated waning COVID vaccine efficiency - JNS.org",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUDMzUDJhZXdHS2tZa3BxdHB0blpwWlNzR1FKbVhhLWJuM1dFdzdkTDV1WnFWcF9hVnZOZ0VoZzZqWVRwLTdXXzlVZWlXZnVjRzladTFTQkFtcVA1a0hFb0pQWWJ5TWJkejItM1FVdi1mTEdnMnFhdDFqMjVxcUhJZ2pKSW83T0RwUnZmUkF5aTA5bm90NDlwSTNxc25mMHJJS2lWdGZtaHJtNlU?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 16:28:18 GMT",
-      "description": "Fauci’s diary shows that Israeli data indicated waning COVID vaccine efficiency JNS.org",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "Back-to-School: What updated vaccine schedules and doctor visits your children may need - WBFF",
@@ -859,10 +898,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Can you file for vaccine exemption in Oklahoma schools? What to know - oklahoman.com",
+      "title": "Can you file for vaccine exemption in Oklahoma schools? What to know - The Oklahoman",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObFBmRldnM0ozRjUydVRIN2dDMGtCT1M3UWIyMndyNlVpcl9pN29va041MTJsLVctUDk0RnZoMTBrX0IwSlJZc2tDTXZjVWtaZVk1R2RyOFNodHBpMWZWakw5cGVjOGVwWWdraG4tNVlielp6NjJ0Rk1MUXBZelZ4ejRGOTdjWHdCWDdyVWh4dzQxTVBKWkNaazAtLXRfWTVSYmJ0ZUlUc2JKdFNzeHQwRzhfaVpVVzd3bUotMlhQSUNlaF9JV0p3MVlOWVcxekhVaWVaZ2hn?oc=5",
       "pubDate": "Tue, 04 Aug 2026 10:02:00 GMT",
-      "description": "Can you file for vaccine exemption in Oklahoma schools? What to know oklahoman.com",
+      "description": "Can you file for vaccine exemption in Oklahoma schools? What to know The Oklahoman",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -894,6 +933,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Innovative New Cancer Vaccine Weaponizes The Body's Memory Of COVID-19 To Mount A “Coordinated, Supercharged Immune Attack” - IFLScience",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa1lyMWVmN25OMXhnRWdsNEczSVFPS290ZURBQzJPVVhralhoLWZCM3NQWl9WZEYtYkxHRU9tOHhQSXdBdG1OZ0ktNWVyZ3BoWXBKU0d5bVlhemZrQ0VQWEdNbFhVUTVpR0JCLVpuaFpiMGY1T2VLWmtDU21kVDYzQkhQOHo2cDROUnFpUFdocTRTa3BCN2VNbnNnaVl2dWdxME1GYVJjMjZkZ1VEVjhjWXJlMU9OU011T09remhrRDdJZUg1WktYbmtSZjZjMXlFY3hRXzd1Tnl5S1JsTkt0UFhnV3ZHdk0?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 05:45:15 GMT",
+      "description": "Innovative New Cancer Vaccine Weaponizes The Body's Memory Of COVID-19 To Mount A “Coordinated, Supercharged Immune Attack” IFLScience",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -989,19 +1041,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Aaron Rodgers’ Anthony Fauci Attack Revives His Explosive COVID Vaccine Controversy - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV3dkQmY2ckpjempYenBEcThkalNjMFRaRVYwOFZlekJnRl85R1NBVGxsNWlTNUNzQnBUMlNCa2taeW42dmstdkhIeEp0UFJ4QWtJaVV2VmloMzBDMEdzX1FiaGk0a3RNSHNmUENPNFhVdXJzU0Z6anFKR1U3NTNmRXJPMnk5azBtMHFr?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 20:30:00 GMT",
-      "description": "Aaron Rodgers’ Anthony Fauci Attack Revives His Explosive COVID Vaccine Controversy Yahoo Sports",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "No link between MMR vaccination before age 2 and autism, large US study suggests - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVFk4Nlp3enNJblA4LVhyOVFmeW1uSFl1VVJDZFVCZnJ3SE9fYmtyd3pDWFlXaXFvc0lPUWU4bXE1VDBBcHlsR1dKaEpjT1JWVzh3Ui1BYmZleWFXcjQ0WWVRMDk3N0w5cENRWGlRNXRLTV8xYkYzZEp0ZndjMVMwUldxeFprZGFuall0bXJqRk9EdDRIbHpkbktnSy0xT0R0Y3pOY2RBUVYzS0YxUlFlYUNBQ0NSQTdPSXc?oc=5",
       "pubDate": "Mon, 03 Aug 2026 19:30:00 GMT",
@@ -1024,19 +1063,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Is there a pharma mega-merger in the making? - STAT",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTW9xTU9jRkF1SFlBOE5DVVo2UUdXTDRick5jVm9nZlFUM2p2Q1FqTDVJNUZkOUE1dGFvbFF4ekJwQWx0cDZldjdiVEVOQ3B1UDV3TndONm1mSDZaT0d1QnNxbUI5c3BmWV9kZ2ZjZEpDTkVCYkJ3Ui1XbVhQbkdrTW9adVl6bW1BcEg2aVhnWjcwbDc2XzZjMHZXbTd0RkZjei1GeA?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 13:23:25 GMT",
-      "description": "Is there a pharma mega-merger in the making? STAT",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1093,10 +1119,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "RFK Jr tells US families to vaccinate children against measles amid outbreak - theguardian.com",
+      "title": "RFK Jr tells US families to vaccinate children against measles amid outbreak - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZMU9OZ2liMWJPUmUwLUlpZUVwVkRRbTBCOEg0ZXBpQ05kZDVsQVdnMTBaby1tM0kyWG1jTjd6N05VT09BREVVT1NGbkZIbkJUb0FoUmxTTFNsT0czNTVfWjlXR0tQOGg4MzFjdVpDWmRyZ00tbmxERFR6VXE5SGM?oc=5",
       "pubDate": "Sun, 02 Aug 2026 18:28:00 GMT",
-      "description": "RFK Jr tells US families to vaccinate children against measles amid outbreak theguardian.com",
+      "description": "RFK Jr tells US families to vaccinate children against measles amid outbreak The Guardian",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1115,19 +1141,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "RFK Jr., CNN’s Bash clash in heated interview: ‘This is not productive’ - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ09tcUthWEllckcxTFV6TjRNdzNqc2cteEt3XzY0eGozcFhwR3RmVEI4UTRyYXc0ZUNLa2JmZS1VZV9ZdVhVZEh0QkVwQ3RZUE1IRGNUWS1aSEtPeXNkUksxWTR1RlRDZG9SaXg2a0JLRDFKTkJmSXhzYnBtNFFoSk1vUHlxUknSAYwBQVVfeXFMT2hXcGZwTkgwN1UweHRMOENnSzNvTVRBM29YRWVPV3RMRlFlOHNkLWFZR0dJeHgwYlNHLXRlSVFzM0lEeFJESTItYkVaUm1ua250ODlJWWtsbk9NX3FIN2Jnb3Nha1dOX3dNNnV1TGZDZml0Rm1FYm1WRnpiczgtMml6VTRvX0NVUHJHM0c?oc=5",
-      "pubDate": "Sun, 02 Aug 2026 15:10:00 GMT",
-      "description": "RFK Jr., CNN’s Bash clash in heated interview: ‘This is not productive’ The Hill",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
