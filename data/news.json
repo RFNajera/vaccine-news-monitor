@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-06T00:53:20.068Z",
-  "itemCount": 97,
+  "updatedAt": "2026-08-06T02:10:17.728Z",
+  "itemCount": 96,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 5
+      "count": 4
     },
     {
       "key": "flu",
@@ -15,7 +15,12 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 11
+      "count": 10
+    },
+    {
+      "key": "hpv",
+      "label": "HPV",
+      "count": 1
     },
     {
       "key": "meningococcal",
@@ -30,7 +35,7 @@
     {
       "key": "mpox",
       "label": "Mpox",
-      "count": 1
+      "count": 2
     },
     {
       "key": "dengue",
@@ -40,10 +45,49 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 72
+      "count": 71
     }
   ],
   "items": [
+    {
+      "title": "Connecticut Joins National Initiative to Monitor Vaccine-Preventable Diseases - Connecticut by the Numbers",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbnNOTm1YeDcweXJXZ1FoYVg5LWc1M09Eb0s4UTRDRWYwM0RGUkNNVjQ3OHUwMm95blNldDdGSHYzZnpyRUE2V2dvQzM5U1VTOElQT3hQNVFlWWRIQWg3T2NkNWFTRGZOa1ZreTBKems1UFNtLW5wSjN2TGFkM2l3TFpkalRaaWVxUl9oVF9wUGpfbGo0Sm1ucVpkbWVPTlZ1S056dVBQSVJxSHZBRm1xOVF3?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 01:56:12 GMT",
+      "description": "Connecticut Joins National Initiative to Monitor Vaccine-Preventable Diseases Connecticut by the Numbers",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Dr. Neil Silverman Receives 2026 Maternal Immunization Champion Award - UCLA Health",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQck41OVdaTXNyTkZYZXZOVDB4NmV5ZG55Q1FXU3d4dG1tXzZkOUlvYWMzUzhLUmRhYWxtdl9TV1llMXFFY1BJUzd1bjVVUEJhRlNUUU5PeTU2MF9rcE9mU3hSaXpFTnJ2MXBsNGZSQWtidEE1UDVLWFNWMU00dWl4YlJDYWE2UnprWjZoZHZlMVg1dExsdDBNTHQxTQ?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 01:18:45 GMT",
+      "description": "Dr. Neil Silverman Receives 2026 Maternal Immunization Champion Award UCLA Health",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Next-Generation Mpox Vaccine Shows Promise for Durable Protection and Future Outbreak Preparedness - Infection Control Today",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYjBZcUFySEs3WEJZYzF4SmhldnVRMmgtcmU3MzYzekE4VzlyOTRMMVdfU2tSLTQtRmotTmFfMFdtZElhNTlEdk1hOUxMNU5ySEVNM1ZvUDhCcjY2VEE4Si1Oekt1NlpWUnozSThRQjA1a29oME1tTmVWMGxXRExFV1ZLZ3NFQ1JBSEhtcXVNeDFteURpS3Zpak9hQXFqbGE0MEZ3TmpxWUF1dlFUZjJMSGhNR1E2MnRJdFR3OXB3eThmWUNEeGpPVGlydlJmQQ?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 00:45:00 GMT",
+      "description": "Next-Generation Mpox Vaccine Shows Promise for Durable Protection and Future Outbreak Preparedness Infection Control Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "mpox",
+      "vaccineLabel": "Mpox",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Health officials urge MMR vaccine after confirmed measles case in Osceola County - WPBN",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVTQ5dmlfTUtxRUk1dXlZVzM2T2FUTDRMbFJsWWxWblBJcXlZeHhULW5zZkc5MG1tOFV2YnkwdUtmVVlONTd5aEgtSDZick5SaWpKTjk1cGl4UEtncjJ4eTdLbXhyUVBjYUdjNW1vLVVQZjZpQTMxMFk2TmlXNFpfNnlvbG5WTmxhRDBiME5DYTNuOXVfTWxHQ1VfOGhGeDdFWGNXdlVYTF9PQkVVT0JSVVJUYkFLdw?oc=5",
@@ -123,10 +167,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "New maternal vaccine schedule released as immunization month begins - cbsnews.com",
+      "title": "New maternal vaccine schedule released as immunization month begins - CBS News",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdGFmQmdZYVROdmszNVRRVWIxaG9tSzhiWTFJYmFFX3BpZXBOT1JqS05kMndtNlRkcXQ3bnVkZG9vbTRVUnVfZFJfOWVYb2NlTWJ2Mi1hWFZFZjBTX2dNeWlWclRVZFVHaFRDOC1HMUVaSUdNX1lOUTlmQV9WTVpISFRldjUtb3B1cEpTaDVCOEVTOUxBa2laUS12bXp3bmJ2VHhhWFpEQQ?oc=5",
       "pubDate": "Wed, 05 Aug 2026 22:10:00 GMT",
-      "description": "New maternal vaccine schedule released as immunization month begins cbsnews.com",
+      "description": "New maternal vaccine schedule released as immunization month begins CBS News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -175,10 +219,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "OB-GYN doctors group issues independent maternal immunization schedule, breaking with CDC - cbsnews.com",
+      "title": "OB-GYN doctors group issues independent maternal immunization schedule, breaking with CDC - CBS News",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQekhWemMtaklPdG9ibjV3dkYyOGpDUWdOZ1JJazRGM1JkdU9WSGdRSW9uQjZqR0s5RXd3NVlCbmdPSmhnSWw5cXJURkRGTU5EM0tqc0dodmdVU1lTVVJDNEtVRlY4c2R2ODNKTDVRcmd3c1hpMmc4cENvQUpoV2VxWlA4aXZQVEFmMmFWTHNLT0UydFp5UzNmNktBRFE4Wm8wa2J6WjNfb2RNVk1vb3p6c1Y4b1RjX0w1ODZpSVRWZlFIOF8zdmc?oc=5",
       "pubDate": "Wed, 05 Aug 2026 21:30:00 GMT",
-      "description": "OB-GYN doctors group issues independent maternal immunization schedule, breaking with CDC cbsnews.com",
+      "description": "OB-GYN doctors group issues independent maternal immunization schedule, breaking with CDC CBS News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -188,10 +232,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Texas AG investigating AAP over vaccine guidance - kvue.com",
+      "title": "Texas AG investigating AAP over vaccine guidance - KVUE",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZl9rSkNxSXV0QlA1RHEtWGtqbE1LcklWVTFfRHBNSzd4LUJrcl9pbndnREM1RWo0WjhaWkd0UTc3bzVvTGxocmthdURsSGpIeWlUNUxzaUNFZXZwaU81TEZiOVpGUFllYlpRRFdYT3plVURkWmlqN3lpc211eTBpdnBWUWlaaVhycUduQnNEb09vSTZEdDFFRVlwYTdFb3ptbjB2SlFKandIS0pmdGFSOHNCYXd6eklZM1FqTQ?oc=5",
       "pubDate": "Wed, 05 Aug 2026 21:15:00 GMT",
-      "description": "Texas AG investigating AAP over vaccine guidance kvue.com",
+      "description": "Texas AG investigating AAP over vaccine guidance KVUE",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -240,10 +284,10 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Dr. Neil Silverman Receives 2026 Maternal Immunization Champion Award - UCLA Health",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQck41OVdaTXNyTkZYZXZOVDB4NmV5ZG55Q1FXU3d4dG1tXzZkOUlvYWMzUzhLUmRhYWxtdl9TV1llMXFFY1BJUzd1bjVVUEJhRlNUUU5PeTU2MF9rcE9mU3hSaXpFTnJ2MXBsNGZSQWtidEE1UDVLWFNWMU00dWl4YlJDYWE2UnprWjZoZHZlMVg1dExsdDBNTHQxTQ?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 20:15:52 GMT",
-      "description": "Dr. Neil Silverman Receives 2026 Maternal Immunization Champion Award UCLA Health",
+      "title": "New CDC director is confirmed, giving agency its first permanent leader in a year - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdl9LaTh1TWdmWXhHcl8yTFFjVzZDMzlBWHJsa2hwdjRoRnUxNWRyUjVxVy1Mc0ZYQ1NoNGpkQW8zbGRRQlc4REd0Y1BHRThWNHg1QUhKMkNDWkg5VzhrTDFFdU41UzhhWWduSVdaaDc5S0ZPUGFua3FIRFlJSThQbUxBMUtfeDdLTkIwZjNDTzhGR2pPajRIZDFn?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 20:10:07 GMT",
+      "description": "New CDC director is confirmed, giving agency its first permanent leader in a year NBC News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -253,10 +297,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "New CDC director is confirmed, giving agency its first permanent leader in a year - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdl9LaTh1TWdmWXhHcl8yTFFjVzZDMzlBWHJsa2hwdjRoRnUxNWRyUjVxVy1Mc0ZYQ1NoNGpkQW8zbGRRQlc4REd0Y1BHRThWNHg1QUhKMkNDWkg5VzhrTDFFdU41UzhhWWduSVdaaDc5S0ZPUGFua3FIRFlJSThQbUxBMUtfeDdLTkIwZjNDTzhGR2pPajRIZDFn?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 20:10:07 GMT",
-      "description": "New CDC director is confirmed, giving agency its first permanent leader in a year NBC News",
+      "title": "Rural Health urges adults to review vaccination status - kbsi23.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQmZBc0hVX1dqMVR2aDFVNHJ0Z181QUhCSlJqQ1VIRFVMZ2Y5UUdJUDA4MzhNREhsQ2U2dlJ1c3E5LThfcEtRemIwazRYcDFnY3dvN0ZtSWNSUEd1ZWNwaHNSZEZJbHlSazJVV3VsRXRaankwQXE3M2xJWGsxNWJBQ2tZSVYtZWNDMmFZ?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 20:06:05 GMT",
+      "description": "Rural Health urges adults to review vaccination status kbsi23.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -292,36 +336,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Rural Health urges adults to review vaccination status - kbsi23.com",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQmZBc0hVX1dqMVR2aDFVNHJ0Z181QUhCSlJqQ1VIRFVMZ2Y5UUdJUDA4MzhNREhsQ2U2dlJ1c3E5LThfcEtRemIwazRYcDFnY3dvN0ZtSWNSUEd1ZWNwaHNSZEZJbHlSazJVV3VsRXRaankwQXE3M2xJWGsxNWJBQ2tZSVYtZWNDMmFZ?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 19:59:05 GMT",
-      "description": "Rural Health urges adults to review vaccination status kbsi23.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "STRATFORD HEALTH DEPARTMENT CONTINUES BACK-TO-SCHOOL IMMUNIZATION CLINICS - DoingItLocal",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNUtRd2VaLU8tLVpMTnBZSkhGcllsb29jYTFkcVFDeXQwdWxkZ2VVVTIwa2o0QXI3MlU5eU0yMWlNWnFFMDVnUjlEb3RzSHAyZ1YyMG9RZEpveE1lQ1dNTjF6R1V0YnhYdkRxQmstaDN4UmlMRWxoYVZRdWRxNmxXbi1kUXk5UlcxRFJJeUQtdXdnc09oejNEQXM5ZkNDWVlnakh6VjRvR1lCWmgzQ3VUeQ?oc=5",
       "pubDate": "Wed, 05 Aug 2026 19:54:33 GMT",
       "description": "STRATFORD HEALTH DEPARTMENT CONTINUES BACK-TO-SCHOOL IMMUNIZATION CLINICS DoingItLocal",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Chickasaw County Public Health Has New Vaccination Partnership - KCHA News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT1RLMXVuLXk1VHdpN0xHVjc2YjZILWZFTW9ibFhLd21oZXF5OWVDVTIzYlRSM1oyejd5dU90dDVHcGp0b1Y5c1FuUzFyOXhJSWxhaFhkRzFHTVhXZy1zUW1xN0RUVzdMcU80eXZZSHFudWttVWN4d1pOQnN1czY4aVdoTk5rZ08xSjVKbjZPYWlmTEhYdXBNSVQ1RQ?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 19:48:13 GMT",
-      "description": "Chickasaw County Public Health Has New Vaccination Partnership KCHA News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -346,7 +364,7 @@
     {
       "title": "What are the symptoms of measles? How is it spread? Is it contagious? - The Oklahoman",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNzRHcmloVlZvZVU0Tm1CQkxLTV90MHhnRU5YUnQxcFYzNGY0c0x5ZTVIdWZkRWhFeXZOREQ4VlVjLUJ5aHVxekh5aHdibk9oSUZVcC02ZllmLVFZaXU0Z3VhTUNHOVVEZlphQlFDaUJpZlNFWDE1clU4Nk5EeFVaN2hNT3hMcjFicUpSQTh5MXlQXzJTZDd0ekw5bVZpdTNBVDdKd2NsYzZwT3VrdjJyYlZwWlRqSXRhUzdN?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 19:37:46 GMT",
+      "pubDate": "Wed, 05 Aug 2026 19:37:52 GMT",
       "description": "What are the symptoms of measles? How is it spread? Is it contagious? The Oklahoman",
       "source": "news.google.com",
       "sourceType": "news",
@@ -383,23 +401,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Grandparents for Vaccines Launches 'Before the Bell Rings!' Vaccine Education Campaign - EIN Presswire",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWVB5S2RZV2pMZHdwRjdzZ01mTFRydi14UmhwME8xRTFYVFZRWTlJSmhHQTFZQV9neENLSTlDR1Noc2d1aDd4MkNUR3UxNjNHNUdUWGwzS3B2b2Z4RE9yYUJSN19LRFRJZGhSSjd3Y1plTUtJMzhzdWpKZW55X3lyQUtGSlhWNm51ZTN0Nkt1dU9lelNpVVYyVlJ3cS15NUxTVEFuSld4dTRQZEZoQzBTMVNFWnBmazQ1WnEyMjJFS1N3NDJhNEtncFdB?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 19:00:00 GMT",
-      "description": "Grandparents for Vaccines Launches 'Before the Bell Rings!' Vaccine Education Campaign EIN Presswire",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Maryland’s High Vaccination Rate Helps Limit Measles Spread - Conduit Street Blog",
+      "title": "Maryland’s High Vaccination Rate Helps Limit Measles Spread - conduitstreet.mdcounties.org",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNkhQWG5EZDZHZERsV0duaUkzNjZScnFLd3lQamJSdVVERmFZS0UyZnVFY2dxSURKOE9rdWV2YXVGZGJ0T2lzVGR6bUswV0tXeUlUYWlKMG53OFgwRmJwQlQ2dmpGbUFUeGQ3QWxoY1gwbm1lQmFKeXhjaWJ3cGw5cldWQl9XbVdUSkZzcGMySFJNNFhSQ0FiVXVWS0M3QmQ2OVV0Qzh0bDZya0E?oc=5",
       "pubDate": "Wed, 05 Aug 2026 18:20:55 GMT",
-      "description": "Maryland’s High Vaccination Rate Helps Limit Measles Spread Conduit Street Blog",
+      "description": "Maryland’s High Vaccination Rate Helps Limit Measles Spread conduitstreet.mdcounties.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -409,10 +414,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Doctors remind parents to book back-to-school physicals & vaccine appointments - WBNG",
+      "title": "Doctors remind parents to book back-to-school physicals & vaccine appointments - wbng.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUzZBb2MwVVlxU2hhMkZuNXhVQzA0YXZnSjgyS3lfZEl5YjNMSDc3SDJ6Y0NtNDFKTjhxUGJaN2R3dlVkaVNsak84NUZ0SW1YVFFPNTBlRGd0SUt1YlZpclhTakpubGktUGVvME5NWVRaQlh5UHRUSi1pNWRqUW1tdGpwbzBFZkV6UzhiRmJnQzVLaW1nYmFZSzdZY1JqeXdwejNMTGcxNk5nUdIBvgFBVV95cUxOaU9TdmY2bl9OeUc3QU43VTJsdmN3SVNqdW9zekg5QkhzWmpJSDM5WUhLZ29HQkU4QmdEMUFjcWlsdjhoODZZZ3ZDM2puamg2ZWZwN29NeHJNTUFHYktnb3NsNGVsel9mUXZDbnROSXBtbWt4NTVrNWVSRGdwejAxcG1vWGk2VG9qQ3o0VTRsU0VmblBoN2pyUE1JdEg5NU9hYnMtUHNtNGNKNEdtTExobFpoWFVoYnQ2b2RjSTRB?oc=5",
       "pubDate": "Wed, 05 Aug 2026 18:18:00 GMT",
-      "description": "Doctors remind parents to book back-to-school physicals & vaccine appointments WBNG",
+      "description": "Doctors remind parents to book back-to-school physicals & vaccine appointments wbng.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -500,19 +505,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Plan your Midland weekend with these 3 family-friendly events - Midland Reporter-Telegram",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRVFJMTJfRkh6QTkxaDVZUjhralVhZ1l5OW04RzhfV0N3UVE4M0E5Wko0REtuempieFc3Nmp4NTN0c2Q5YmxSaE9kTXBXM09aSjVEUWoxLXZYWUZmd19lZlRDSjFBMTg3U05SRTQtcV9FeXJoOEt4aEVJWTJvQVMxc3J4NzF4QQ?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 15:57:15 GMT",
-      "description": "Plan your Midland weekend with these 3 family-friendly events Midland Reporter-Telegram",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Doctors group issues new vaccine guidance for pregnant women - cbs19.tv",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY2JBeV83ZDF1dlZuLUVHd3MtM01qZDNFdXhTQVlxRWxmaXlTWjVkSEhiWkhVZGN6ZklZSU1fWXBrNFQtb3VpY01oNGRmRzdGR2F3ZTdHbTJQZmw5cUhRMldvczg3cS1BRU82QmtHNGlOYm1QMEZuSUZmaFRaVHhaX2t5TUlETFJGS1JmZ2JoT1JoSmRiWFFjNDJfQmdHdTV5VWNZZF9YcVRLUldrbXBPY2lmTl85eXZaOHU5SzRxME00WVNFbXhjT1BGT2lUV0xvTDVvcElB?oc=5",
       "pubDate": "Wed, 05 Aug 2026 15:52:00 GMT",
@@ -550,19 +542,6 @@
       "vaccineLabel": "Meningococcal",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "Ohio's latest measles outbreak doubles with new cases - Akron Beacon Journal",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc1dhc3RtWEVaSHJHVGRrRll3dXA4Sm1tSlZRUW9JS1V3dHFFN1ZSN3pzQmRONkNaSE5SWEJxMXlzZkN6UjFrLWJGNW81emVxQ2l4UWpMUGxncEttRTVaYlhING5fblIwSXBuaVJXQkN3X3RfR1hXWUFjczk3SC1od01HVXVmSEZDSzZmWDJXR2FXNWlRS1IxLVFQQVlDdjY0aXRXM1dkZ21XeENBVW8xeXpCYkxxQjNO?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 14:53:00 GMT",
-      "description": "Ohio's latest measles outbreak doubles with new cases Akron Beacon Journal",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "New U.S. Disease Tracker strengthens monitoring of vaccine-preventable diseases - Johns Hopkins University",
@@ -656,10 +635,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "National Immunization Awareness Month reminds adults, children to protect themselves against serious diseases - wsfa.com",
+      "title": "National Immunization Awareness Month reminds adults, children to protect themselves against serious diseases - WSFA",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSTJlVlpKczJ2ZGtpd2VPWHY0V1o0MVJteWVpbER3dHhCMFBidlI5SGJGR2tFbUdjZ0ZZdFdBS0lJR0ZiWElTMC0zMk1PV2Zibjg0czJJdDUySXdKSHU3U0szUEpIaGdIVXJlMlhqTDEzc3BKSmRVaWJKR2ItU0JQYlNkdEhUTkt6RklVSlJqeXNNTnRpdWRuNDRjeGNrMExUVmxWbmt2d2E1a09KMHkxQWdLZmdEeXpBM0hvMFVCNlFCLS1HMWlTd2dvVTB6RmFRbFdXUdIB6AFBVV95cUxQeV9iZ0VuUGFERmo0clRPUXFtY1N1SXB2SzFpNWZGYTFsUHZMMk8zcTNoVDI0QjczSXBUVi1TeC1zTW1MU21BZXpOdmhVaVNveTlGeHU2cmI4cml3ZWpMcFNNTE4xcEFJd0FYNDRXTDF5d1I5SGZGTEtKdVVFc3hRMWk2NE1CWUQyLWxlSU81ZU9zYmtVUU94cVpOYXJ0LWQ2U1N3Skh3Mmh5NHhvZTRNZ1daUmE4Tl81azFVTW83bGN4R1F6VzJkX2NJRzFKU0VzaUt3SnVMaWh4UldWYnF3VjFqNEdlT0FX?oc=5",
       "pubDate": "Wed, 05 Aug 2026 11:11:00 GMT",
-      "description": "National Immunization Awareness Month reminds adults, children to protect themselves against serious diseases wsfa.com",
+      "description": "National Immunization Awareness Month reminds adults, children to protect themselves against serious diseases WSFA",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -799,10 +778,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Departments of State and HHS Announce Effort to Improve Vaccine Safety - presidentialprayerteam.org",
+      "title": "Departments of State and HHS Announce Effort to Improve Vaccine Safety - The Presidential Prayer Team",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQndLajFYTWU0Q3p6TW10aVhGNFgzaGV1TUs0WlRQMTRqUWc0aHFGX3IwUjVhcEZNRFVMWGRfNDN0UDdibDNoSFQ0WGpaNi1RclBiU3E4b0xyREdBaUp6T1ZhUlh3Q2NrNmROcTJEcmpRSzZWSVFSdWdMcHhhUDlFSnlWMHR1cjdWc0MxeTkySnN3QllvM1BnM3VVcWZaRUFmaVJuNXI4ZFdqTHBsVGZ5ZTduamxVbEJpWGtVRGVn?oc=5",
       "pubDate": "Wed, 05 Aug 2026 09:00:00 GMT",
-      "description": "Departments of State and HHS Announce Effort to Improve Vaccine Safety presidentialprayerteam.org",
+      "description": "Departments of State and HHS Announce Effort to Improve Vaccine Safety The Presidential Prayer Team",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -877,19 +856,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "COVID-19 Boosters Lower Hospitalization, Death Risk in IMIDs - Rheumatology Advisor",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOEdmZWdNS1o2bHJMejItYWM0d2hyOHk3YmcwQUJOQUh3UGlMWjVFaTRtNW9qeTJDQU8wdEN3T2lKQXgxejhwTXlBT2t4UEpKU3lCckJUWVRyX2xTU1ZwYmhsek5SZ3lVeXNBYlZFNUs3UHlKdWtWVVJ5R21EQnIxRi1TdFF4VzlrYU9QbnVHZVM5LXVFRlJycmtyWEZIZw?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 04:00:00 GMT",
-      "description": "COVID-19 Boosters Lower Hospitalization, Death Risk in IMIDs Rheumatology Advisor",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Child vaccination rates continue to fall in Tennessee - WKRN News 2",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOVUtcl9jWVFzRGZVVXNuckRIcE1xdUdTcGw2REtiUW1lbnpSWkpvam9GWWxEUkhtUlRxNnlHRGZYa1lieGNEdUtra1dKNjNNU21wWWNJWDcwZExyZWcxMUc0a1hyczZPaXBNelFVTHNVQnFHbmdXTVRkWlIxTkdYTFZ3TG5tY1E3MVdZdllEaUVqdkJqU3g5OF8zY9IBoAFBVV95cUxQVGRtTjhjQ2N0clFacU1Ia0NHMzNYclpOTUh5c1VpMWgtb2dMeF8zeGtXMjBvdXd3ejV3dVJndUNTTG93SFQ3YndVTERrVlNJdGpFdjRtLU12OFNWY2IzVU4yaEZlNGtwRmhpdklzMzB2MmdiV0NqMjdFVWZHN2pZN202T08tZS0xNFY2Q2JmVjlKTVh3NlBnaHp5VFYweXdP?oc=5",
       "pubDate": "Tue, 04 Aug 2026 23:30:20 GMT",
@@ -903,10 +869,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "South Central Public Health District offering back-to-school vaccine clinics - kmvt.com",
+      "title": "South Central Public Health District offering back-to-school vaccine clinics - KMVT",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQjVxTk1rckpOcnBEM0pKdVlXR3I4bUpXekFZZ0xJdGlhT0Z0SUlEdGVqQU9ibWxNLVd0M21CVzk3N2xhZmRCOExGeExMZTZHLWFVTExxamVWWG82VXF5TDA4TmhKMTNIWWRGR240bFMwTlc5UThoRVJhcklqQjE5UFA3d0p5a2NDOS11bzZyM2ZJM2FzcFZJdmUtUjhyemZLMjBZTE1SSi1abEdVanfSAcIBQVVfeXFMTU1nZ0RPeTR2YktHU1dkUGJieEM2YXpXV0dtNWJIdzBpZU5nb3A0TzE0RmFKc0xvczZFRmd4U3NVT2MyYkNYOWM1ZGNDQUd0b3YyQ01qdmZTWmdVdXJrQzZKaTAtamlzbnR0Yjc1UEJYeGRJZmNQXzZHNElnQS1VVnpYQzNkODFINzRlYTBBTGZEQ1ZCd0NteTZHOTNyRHRDOGp0Y0dPbWU4Q2JDbDRuRWFpeWk5Ukctc3cyck9GMHBpd3c?oc=5",
       "pubDate": "Tue, 04 Aug 2026 21:59:00 GMT",
-      "description": "South Central Public Health District offering back-to-school vaccine clinics kmvt.com",
+      "description": "South Central Public Health District offering back-to-school vaccine clinics KMVT",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1072,15 +1038,28 @@
       "articleLabel": "News"
     },
     {
-      "title": "BioNTech cuts sales forecast on slumping demand for COVID-19 vaccine - biospace.com",
+      "title": "BioNTech cuts sales forecast on slumping demand for COVID-19 vaccine - BioSpace",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNFd4QkxVaXBzTDZSR29jclVZckFfWkYzd2ZSWlR4eThSbDNQRC1acFJtaWt4THFWTWsxeU1felVKdVNCVTY5aVFOMWtzaUdmYlhIRUxtNTJGZWNwMFdlVE5hMERDbU1QTC1PSUNic3Q1VWIwRGNIVkttNUhtTk9CQXU0eHJWU0RpMTR5WDlFWmJvZW0tOWo2M3pCUVF5UU5rdnc4Qg?oc=5",
       "pubDate": "Tue, 04 Aug 2026 14:56:30 GMT",
-      "description": "BioNTech cuts sales forecast on slumping demand for COVID-19 vaccine biospace.com",
+      "description": "BioNTech cuts sales forecast on slumping demand for COVID-19 vaccine BioSpace",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Pneumococcal, HPV Vaccination Reduce Children’s ENT Disease Burden - Drug Topics",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTEptNFdQZklZNkVLN1NUaUItdEpxejlIWjRDZXhkN2pvQlR1bHZzUlViS1hBWTg0ZG9keE1LWUx2eXhWV3JVOWFCc0xHU3AxNHNIc3NEd1VNZjVkS1V2a09DT3FnR19oQ0J1STRBX3pwekNtT0xxWTRYM3F0cmpESVVkMmRBeGRjbXpNMDFVLXlCQzluVmtKZ0FkQUtIQQ?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 14:33:07 GMT",
+      "description": "Pneumococcal, HPV Vaccination Reduce Children’s ENT Disease Burden Drug Topics",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hpv",
+      "vaccineLabel": "HPV",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1115,6 +1094,19 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSkx0alp3QndWWUgyNDgtbGp0ZDgzSG1uUl9tYm5ucUxOV2dqeTY5dHRWUUJBVTE5aDRWUWtFaFVTREZjMTN5cUp4bnZZQ2RROXdQbUVseEpvYjBnV0laUDI3WnBTOGtUTGstZmFFVmJkSjc4SW0xdkZKTGxqTFVCQXBNbXgwRDN6ZUsxbHBkUDJ4RkI1cVc5dg?oc=5",
       "pubDate": "Tue, 04 Aug 2026 13:56:43 GMT",
       "description": "WHO and Sweden are making the vaccine cold chain in Ukraine more robust unric",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Hardin County Health Department hosts Back-to-School Vaccination Clinic Thursday - wbbjtv.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSXpHcmVmSFhINGdObEJDejA0VUQzYmE5bm1tWkhIWmRya0MwQXlxTTNaVl9BTEZWS3JNTzJKR1lTNHljVW94RVJBSW9zMnNoNUlVZGkzMWhPNy1NQWxET1IzNkJHMU85QTh1Q1phWm1kNFRkcjhjMWprakIwSzN3RzAxTnpTTEIxdWJmbjVSTG1IVUdsSGVQY0NteFV2WHRFQkJwNThMRmNHdFJTc29MZTVMM1o1QdIBygFBVV95cUxON3NCOEN2RUhpV25QZERiNTZUWFI3Unk3cGxGb1k5Z056Y1NzSS1oRVp6czVfclZnZnNsUThWQW1IeDJDSExONXRqOG91TDV1WGNNLTc3WWdXNEU3ZVNab29yR2wyOEowWEtFVE5ucW5tUS1BenBXN21vNWlSZ1d1MW5PMVoxb1lYbUJHS0VWWW10UVQxVnl4b2hGWVo4ejdfRmZUd012NDdVSHloTUhVY0lyVnFiN3RLZUpwbDdYcXQtQU1mXzc3Zkhn?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 13:14:00 GMT",
+      "description": "Hardin County Health Department hosts Back-to-School Vaccination Clinic Thursday wbbjtv.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1267,10 +1259,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "With a Series of Big Donations, State Department Restores Some Global Health Aid - nytimes.com",
+      "title": "With a Series of Big Donations, State Department Restores Some Global Health Aid - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXdmRGtCVW45N0hDOURqY2dWb3ctVnc1NW12NkExNkpaOUh1WW0zckJBVXFaOWtqMmZaNENIUkU5MjhLVTJ2Zk5JaDdVcy1JOG5TM0tPZkVTNkRCT1BfNS1NUUhqMGU2OFRxN0VfYVZyT256TWJSRE8teHZCNjJybzVEcFdTdW8?oc=5",
       "pubDate": "Sun, 02 Aug 2026 09:00:07 GMT",
-      "description": "With a Series of Big Donations, State Department Restores Some Global Health Aid nytimes.com",
+      "description": "With a Series of Big Donations, State Department Restores Some Global Health Aid The New York Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
