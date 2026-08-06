@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-08-06T12:08:06.374Z",
-  "itemCount": 96,
+  "updatedAt": "2026-08-06T13:02:50.642Z",
+  "itemCount": 95,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 1
+      "count": 3
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 32
+      "count": 34
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 7
+      "count": 4
     },
     {
       "key": "hepatitis",
@@ -28,11 +28,6 @@
       "count": 1
     },
     {
-      "key": "shingles",
-      "label": "Shingles",
-      "count": 1
-    },
-    {
       "key": "mpox",
       "label": "Mpox",
       "count": 2
@@ -40,14 +35,209 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 51
+      "count": 50
     }
   ],
   "items": [
     {
+      "title": "FDA approves first ever mRNA flu vaccine - Washington Examiner",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObzZlRllhbU0tcFlhSEM2THkyRFhia0JVYTBhdkFZa21zeEV2ZlNhMXJ5ajFyaUdUZ1NhWmZjV3NENUZOTG02aFRWakJ0X29DLTY3RDhDcElialpBVXI4V0V5R2NpQi1zY1h3WFNfXzN2ZlR5ZWZzcWFJTDhGcURWNmJqRnRyOEpOeGY5Qy1xOXRIeUV1R3dkeTBMLVY5dw?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 12:58:00 GMT",
+      "description": "FDA approves first ever mRNA flu vaccine Washington Examiner",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "New kind of flu shot is on the way as the FDA approves Moderna’s mRNA-based vaccine - Boston Herald",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OeHFsdWFxeVVZeHBTWlhlQU5UcGxTUUlsQlE0bTBLUC1YYnpLSUFfNnNDV2xZbXk4M1pqMmJMQkt4MEpKVTllaVNidjFFSVAxMVhfQ2Y3NG9WNnJPNkNlemlxTG1vaGRHS3FTOUZsa01YOU5yd2xIbnpB?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 12:55:11 GMT",
+      "description": "New kind of flu shot is on the way as the FDA approves Moderna’s mRNA-based vaccine Boston Herald",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Immunization Updates from Moderna, Merck - Contagion Live",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vcXJRYzhuNnYxYmFsOHFPOTZJZkxSZWJMSm5IYzhETjdWdHdCcEstZ2NxYWJLYk9Md0ZOdkNjR3lsMk5uTTA0OW9HRHY3MWtqb3dXSVQ5eEx6aEZFaUNKTm9XbkNoSDRKcS05VHdJdWFiUGNaNTZ3encwQzh3T1U?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 12:54:32 GMT",
+      "description": "Immunization Updates from Moderna, Merck Contagion Live",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "New kind of flu shot is on the way as the FDA approves Moderna’s mRNA-based vaccine - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTlR0QU1BMVZkOTQ0ZnBDNDRvcHdobGxYTXdQcEc5NkdoRl9ncXd0aHRNU3dmUS03ZkxpRjlsbVJPQjlMRzZMWkJnZ0FuZEhIclE0czRZRk9KYnotaWpIcXRqV0Ezci00OWMxanZjRVYwc2taN2NIS0dlSHFyM1g3Nm9QMUxwOEhQUzNlak1XeHhTYTlKWVlWcXEzb1UwazdjRUZIUWZ2bHl2Qjl1eno4N0dTTVF0M21WaEFPQk05NTNDeHA5bmJPYVRGYzJxT2RwVEJzS0F1WXVoek1JQUxEM21FbXdMS3ZpQTYtRWZub2RsTzJ5bWE5RVVxbw?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 12:45:22 GMT",
+      "description": "New kind of flu shot is on the way as the FDA approves Moderna’s mRNA-based vaccine Toronto Star",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Testing is underway on vaccines to intercept brewing colon cancer before it takes root - cp24.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOHVNZ3lKbFVpUXFGYkkwS2tNa2Zod28teGtBdXhweTdEMU56dDFSRGFndUpxb3I5N2Q0VjRIVHE3VEZTbkRDazNTUjRYOVlpbC1UVUhNUEdDUGlJQXBVX05RbkozYVZDajlEbGMxNkFpb3dyWVlyQjZtRGFhcjNPRGdQY0E2cGZuM3JHSXYwYlJMQWQxQzR2WTFWZm14dlFXa1YzSmtHcHIxNXdDTVZkSTNFdlBFWC1TTWhNYVVlcy1DSE9fQWlnZktB?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 12:30:13 GMT",
+      "description": "Testing is underway on vaccines to intercept brewing colon cancer before it takes root cp24.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Meningococcal B vaccine linked to lower gonorrhoea risk - News-Medical",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOHlvMElrSFZoTllESElLZGNqSW1aSVVNSkRpSXQtbmFZbVNlR0lPdVQxZ0IzNWxPZHctMjN1QldCTFF3aGcwNUtsb3pFQ3Y4emlKYXlNcVZJR1JDNzAyRHcwc1c5LWZLOTlsWUp5RVhWejNIdmUyM1QtdWczMkJOOU5JLXl1YW53ZjV1b2dRdHYxallmRjVmN3JaQmNqZ1hNbEdhR0JR?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 12:29:00 GMT",
+      "description": "Meningococcal B vaccine linked to lower gonorrhoea risk News-Medical",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "meningococcal",
+      "vaccineLabel": "Meningococcal",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "FDA approves Moderna's mRNA flu vaccine after months of regulatory turmoil - FirstWord Pharma",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mMVRocXB1OWJvVHFXZUowa2NfNWVMRHJsVkJvXzNhblFLSUUzNjRRWEo1ZTBTWWJXeXA0bllJbTZCRHBPellhR2hqSzdoSHNCMGFn?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 12:26:57 GMT",
+      "description": "FDA approves Moderna's mRNA flu vaccine after months of regulatory turmoil FirstWord Pharma",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "FDA Approves First-Ever mRNA Flu Shot, From Moderna - TODAY.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc3RkcGUxbllEQjFsY0tLQTZHV0VhUWYwSzJId0FvOHZjeU1tMlpkQ1lKclNEamlwME1tb0RqM09NWHRtaEhsV3lTZXQ1VHUzTDVIMGpNWHRpblpRemtqb3c3NEJXOFZoT1BsU2FWUDRTZ1RWZU81X2tLNlcxY0syMENaVHA2aXgtWkJiekRCMHZHUjZUTWtrXzkwMA?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 12:26:51 GMT",
+      "description": "FDA Approves First-Ever mRNA Flu Shot, From Moderna TODAY.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "A faster, more targeted flu shot? FDA approves first mRNA vaccine - Straight Arrow",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY3B1bVRnVUFtSkRCY3hMU0o1S081cE9GMGNNczBmdGppMXJscng1a0t3S3c1UXdpZ19xRWZFMFhQZFZ5VUwtQWVHbTNKeC1RYWh5RmMxQThVREhxaUxhMkpMcHZtTmt2RlE1RE5JeXBYSXdReHhNMThoa3IwdnA4OHFYeGpfNi12Unkw?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 12:26:10 GMT",
+      "description": "A faster, more targeted flu shot? FDA approves first mRNA vaccine Straight Arrow",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Moderna Stock Rises as Flu Vaccine Approval Offers Spark for a Post-Pandemic Future - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9HYWhKNlFrRHIxcjdUeFU4ZXo3am93OVBLZlIzdEVtRGpMekstbktKelByaTBTQUlYOXA2SEFkdVBYTzRUTFBBSTc3RmZFYjItd1lJb0NMRWpEVGR0ZnFoeGRqWDN6OXhVNGRnTHBYYXc4SFRKSkg0d3Itaw?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 12:26:00 GMT",
+      "description": "Moderna Stock Rises as Flu Vaccine Approval Offers Spark for a Post-Pandemic Future Barron's",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "FDA approves first mRNA flu vaccine - wgntv.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15WFh2M2dsZDJiRGljeVFTbE5qTkQ4ZmFQUDdXVGd1Y21LVHhVX3l5UWVSQUxXcmVzVmlLaDFFYVFkOUJETTJuTEZoQTZLWnhXc1NDc2FISXpIemt1MWl4MWp4dHZ5MHZrc3E00gFwQVVfeXFMUFhSQ3YwUVVSLWhNR21OSXBVMnFDckhjSnZBazlJc29KV2ZlcmxHY1gzZ3hUVlFOQnkxaWpSb28taHAzV1RzZ2NpejlvZWR1RzBXNDFnV1NsanU0Q0JGTU5HNjYwZEpSRWZkYjQ1c2hjcg?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 12:19:22 GMT",
+      "description": "FDA approves first mRNA flu vaccine wgntv.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Novavax lifts annual revenue forecast as licensing bets offset weak vaccine demand - KELO-AM",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQclhlMzBzQXIwWFRZR19jMFVHWnNtT3FmdmhaeHpJR2l5Zk4zdTRxZzZESE1XQzBUbExFTlRSNGVFZC1BMkZsVUFFV2d6Ulo1cWdIbVA5QVc5bjVtWm15LXpXOFllS0c3UVBpaXpqNlo3VFY0YUN3TEJHbVhPdThPbTNERFZ3Mko5UE5NSl9lTjVNNk4tTERnbzN1dXJmUG84SFpEemppUi15MVpfYVNwMg?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 12:18:16 GMT",
+      "description": "Novavax lifts annual revenue forecast as licensing bets offset weak vaccine demand KELO-AM",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "One year since Kennedy canceled mRNA vaccine projects, science shows how wrong he was - statnews.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IT3FFVjZtMTdZckEtUjFWaE9rY3pTWjl6R1d1SEh5X05EVDE0b1ByRzRRV2YzU29uWXJhVWFQUWF5M0tDRUFuRVhXcU5pTGhwYjZqOTVnamlqTzdBQkxVenJqQ2x1S2lhQjdRVDFLTWtCQ0p6dUY1Q3lMeHhfdw?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 12:15:03 GMT",
+      "description": "One year since Kennedy canceled mRNA vaccine projects, science shows how wrong he was statnews.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "New Flu Vaccine - wvnews.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaWtJemRRM2x5Q3ZxUWF5SF9laUxTbG5yejZudERHRnNwZHlLaUFoNHZGWWI2MzAtNmo0a3N4TGVTeVF0NTBFNlZJYXE5ZGZ1ZFJiSU4yOXdQRmxqTGIxVkZHcGtGbm1lZ0lCc3FVUVg1aTlBV0dBWV9ZWEpiOEowaVg1blJtZkV0YVp1Qi1Va0ZIdnlreVplQ3haREdJWW8?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 12:10:34 GMT",
+      "description": "New Flu Vaccine wvnews.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Novavax lifts annual revenue forecast as licensing bets offset weak vaccine demand - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcjRsR2RiMDF0TWtVeXpnaXJ0ZGRMam9JZlZDYU1uR0FScGp2WElQcU5YbGstcGF4RHlrczg3WXhCendRdnFYdlJtQlE1Ni1BVHB6VDNCbXhrWUxGdjRERTU1RU5GdThWSU9NNDhzN2o0RjZvaXhkVW9XOENMcHU2NldBSDJKTHVOQkN6eXY2ZDAtcmhGZEE2VDVmcmZsN2J4V09XS2h2OHFENGJySll3TmswLUdFZTZrdGhqbTJwUFZRb2hTZXMteVMyWDk?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 12:04:58 GMT",
+      "description": "Novavax lifts annual revenue forecast as licensing bets offset weak vaccine demand Reuters",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "FDA Approves First mRNA Flu Vaccine for Adults 50 and Older - NCHStats",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qOFlad1g0OThKMDB4c0Z0RFp2Z3Nla2FlRllhQ09pOG5kTnVOdE5NaGl2Xy1kb2hjeEU3YjVveUdhLVBtU29XWlQxUFJJeHdrLTA5c0ducWxpdFFwbFVySVdUZGNXdXN3?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 12:00:14 GMT",
+      "pubDate": "Thu, 06 Aug 2026 11:59:43 GMT",
       "description": "FDA Approves First mRNA Flu Vaccine for Adults 50 and Older NCHStats",
       "source": "news.google.com",
       "sourceType": "news",
@@ -71,10 +261,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "FDA approves Cambridge-based Moderna’s mRNA flu vaccine - Boston 25 News",
+      "title": "FDA approves Cambridge-based Moderna’s mRNA flu vaccine - boston25news.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONi0wbEw3blBnUTZXZVpSQ2tmRGFNTHF4bDNTdF8wejFLMnJHaS1qSW1nUGk4R3NxS05UZlRzQXZNNTdTX0JmUDZjdkQ3UHhnNno1OG9mZXJfMzliT3hpd0RtZVg4RUlRT2tieWs2X2lkZ3ExQjdSX0FXeVN0eXV0LWF2S3ZDcHFqaFlTTU1rTkNDcGswOWpjZ0RwZ25qX0FnOXhyTGI0b2M0N0pSeFU3SWl0RDhrNXdJck8ta2xLQnBRdXNF?oc=5",
       "pubDate": "Thu, 06 Aug 2026 11:40:05 GMT",
-      "description": "FDA approves Cambridge-based Moderna’s mRNA flu vaccine Boston 25 News",
+      "description": "FDA approves Cambridge-based Moderna’s mRNA flu vaccine boston25news.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -84,23 +274,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Testing is underway on vaccines to intercept brewing colon cancer before it takes root - Boston Herald",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZDR4WmRBRzAybUYzVVlfb3l2SURVQmliSlZueWQ4UW1XbDZIRUV4UndVMTdlLWFrTnpwN19mbi0zdUhlVDBzNjZxeTgyN0lhbUw2LUZBLWczUkpSbWlJN29KQmJPZEJSdDA5b1pTWlFJM3VPZnQtaV9wYTdnVW9jOTVwOA?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 11:32:15 GMT",
-      "description": "Testing is underway on vaccines to intercept brewing colon cancer before it takes root Boston Herald",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "FDA approves Moderna's mRNA flu vaccine mFlusiva - islandernews.com",
+      "title": "FDA approves Moderna's mRNA flu vaccine mFlusiva - IslanderNews.com",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWW1mQTczd0tZdGFZWGlfVzVuTW91dC05NGdjUnRzM0FtVW9lVTFDWjA2NzNYZnEwdkhSX1o1dUlRdmtCYWZJVnVJeFo4eXN5b01FUlFZcm5jOERkVmVWdUFsZUNGOHJVT3IzRld5UVZpdXlCX2hKVHo0Q0hmWXZtTy1ERUdDdC1JdEN1SFBFLUI3RXA4a01vNDNqQ2Fydl9rVFR4OUdudmRNOWsteV9UZExwMFBKaEtMRkNoZmRXVXpGYWtvZE5JWkZhT1NmUDRfcmRFdE5FU2VLek0?oc=5",
       "pubDate": "Thu, 06 Aug 2026 11:15:00 GMT",
-      "description": "FDA approves Moderna's mRNA flu vaccine mFlusiva islandernews.com",
+      "description": "FDA approves Moderna's mRNA flu vaccine mFlusiva IslanderNews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -110,10 +287,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "FDA approves Moderna’s mRNA flu vaccine - BioPharma Dive",
+      "title": "FDA approves Moderna’s mRNA flu vaccine - biopharmadive.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ3pWeWNrZktkUkxaS1NEWWJ1VGYxSHMyUUgzZGNFUHh3RGZCRHRDbnFKWmpqakNEeXp4QkV6OExqZTJZT2RPQUZ2ZjdfeU5RVGxlYm5NaC1uaWZiMC1jejczS205ZDdPV0hNaEtNNXgzajI0dXF4TFQ1dE9iY19kbmI4NkpTZW9NZkZ1alZMUjMzVGZq?oc=5",
       "pubDate": "Thu, 06 Aug 2026 11:10:45 GMT",
-      "description": "FDA approves Moderna’s mRNA flu vaccine BioPharma Dive",
+      "description": "FDA approves Moderna’s mRNA flu vaccine biopharmadive.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -123,23 +300,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "FDA approves first mRNA-based flu vaccine - WPTZ",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUlI4dU02WmdjMFNaSFVEMXNkNVhnY2VuUEdCTmt3RC15cW10YW5CSVFXQVBPNmZXMVJsblRaVkZ3cU1MSmVyWm4taVJrbjM5UUdod1VmNi0zQm40MWVFaERKdUc1ekxyMjgzQWdoVjg3Ql94VEFNWGtBSzR4VXRvS1dhdllUanc?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 10:58:00 GMT",
-      "description": "FDA approves first mRNA-based flu vaccine WPTZ",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "SE Minnesota counties, hospitals and schools collaborate for immunization program - KTTC | Rochester, MN",
+      "title": "SE Minnesota counties, hospitals and schools collaborate for immunization program - kttc.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRnBqUEw1d05tVGwwREpHMXFEbWJma0xmTE10NWN6X0ZEUVlPeXlhUVN4X2M2LVRmTzhtSk9teG03VjYxV2E2cmxJV3hiX3ZtRnk2WTNZNGY3X3ptY0NYTGs1Q0tURzlqWEVVZGZ0dUQtajNQa2VyRlFCSjY4VXk1LUZzSEFlQzV0SlNVUVp3aEU4bjNzd3FVb00ybVU3anV4Tmx5T3dOQks?oc=5",
       "pubDate": "Thu, 06 Aug 2026 10:56:00 GMT",
-      "description": "SE Minnesota counties, hospitals and schools collaborate for immunization program KTTC | Rochester, MN",
+      "description": "SE Minnesota counties, hospitals and schools collaborate for immunization program kttc.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -175,19 +339,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "FDA Approves Moderna's mRNA Flu Vaccine. - Billings Gazette",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQXp4NDBud19Sc2oxNlNjQUdMUEIwNGo4NUZndWpYQ2g3azBUcnEwY1FKdFZOU0lCcXRTTG0yUFU5aGs5V3NWSlZuOEEyUDN1VkI4cTJranJWWWxScmdZU052MlB4Yi1sQzZ4S0tXZmVFbXY0MFFyT0FXbDA3NzFBLW5qbXZDaFhqTDViWXgtT1M5eHA1THcwYVhSZnhRR3JXdjVoOGl5Qi1oZ0syYXdxOTBjRWc?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 10:22:19 GMT",
-      "description": "FDA Approves Moderna's mRNA Flu Vaccine. Billings Gazette",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "FDA Approves Moderna's mRNA Flu Vaccine. - Ravalli Republic",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRjJBSmtPd0ZOM3U0V3g2a0M5RnlWb211T1o1dFVjRlBJcmZneEtKbmFWcU1xX0QzUk1CeGdXWmxPUTVBaDR4STVRZ3hVbHpBSzc3bjVaWXhCaTJBNXhKbzhTSzd3TFVSenJ0WE0wbUdhSTVVcmZjT0tSVU1KM0p5NnU4aTZ4WENnVEtfT0RQVVdvUGZyUzVvR1dhWU1KZ1dBcUg3emFDOA?oc=5",
       "pubDate": "Thu, 06 Aug 2026 10:22:19 GMT",
@@ -201,10 +352,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "FDA Approves Moderna's mRNA Flu Vaccine. - The Independent Record",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNGgyamRXZE5KNE1GU291ck5iRlc4RGNNSFN4Uno5T0l4NDVmT2xGYmRnS2J6OGc5LTBiUWFnbENoNC0tNjh2Nlg3WkdDRkF2T3FyZHhDdG1kcHFKMTN2OTZtSkRLNWpqUXIyQmRIYnI1WGhGMFpUVmZQYTl2TmVQRm10OEh6a1hwSHZFdjFaczVfYmJjaE80cHNLT2dydw?oc=5",
+      "title": "FDA Approves Moderna's mRNA Flu Vaccine. - Tulsa World",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWW9KMkRSVFdpLVV6cEUzYnpOLVNJdlFrNDh0NGl4dEY4ZmNPWTJ2eUJxVThZZjNPV2hEemhjZHNMN1J2ZjNmZVBDYkNFWTBCckRlRXFqMlBaSWozUWJ0VjdJaEZROFpFTG5GcWhJUnV2OU14NDVVOTMtMTJXdWNNMTVKRVJYeDc2WTNrS0hzTV9lVzAzRHpqN1Bkd1ZkVVhz?oc=5",
       "pubDate": "Thu, 06 Aug 2026 10:22:19 GMT",
-      "description": "FDA Approves Moderna's mRNA Flu Vaccine. The Independent Record",
+      "description": "FDA Approves Moderna's mRNA Flu Vaccine. Tulsa World",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -214,10 +365,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "FDA Approves Moderna's mRNA Flu Vaccine. - Tulsa World",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWW9KMkRSVFdpLVV6cEUzYnpOLVNJdlFrNDh0NGl4dEY4ZmNPWTJ2eUJxVThZZjNPV2hEemhjZHNMN1J2ZjNmZVBDYkNFWTBCckRlRXFqMlBaSWozUWJ0VjdJaEZROFpFTG5GcWhJUnV2OU14NDVVOTMtMTJXdWNNMTVKRVJYeDc2WTNrS0hzTV9lVzAzRHpqN1Bkd1ZkVVhz?oc=5",
+      "title": "FDA Approves Moderna's mRNA Flu Vaccine. - The Independent Record",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNGgyamRXZE5KNE1GU291ck5iRlc4RGNNSFN4Uno5T0l4NDVmT2xGYmRnS2J6OGc5LTBiUWFnbENoNC0tNjh2Nlg3WkdDRkF2T3FyZHhDdG1kcHFKMTN2OTZtSkRLNWpqUXIyQmRIYnI1WGhGMFpUVmZQYTl2TmVQRm10OEh6a1hwSHZFdjFaczVfYmJjaE80cHNLT2dydw?oc=5",
       "pubDate": "Thu, 06 Aug 2026 10:22:19 GMT",
-      "description": "FDA Approves Moderna's mRNA Flu Vaccine. Tulsa World",
+      "description": "FDA Approves Moderna's mRNA Flu Vaccine. The Independent Record",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -251,6 +402,19 @@
       "vaccineLabel": "Influenza (flu)",
       "articleType": "research",
       "articleLabel": "Research"
+    },
+    {
+      "title": "FDA Approves Moderna's mRNA Flu Vaccine. - magicvalley.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMjFlNFRhSDJyaFVfeHhlZk5vdHJLejZOczJBQ0hKMm82emRrd0pfc3JQMzJiM0pUSC1UeDQxVWNQNVd1aUNpdUZGMk5vRktDOXVTeTZGaGpFaUNiRXUwbnpaR2dDMTNjbXZ2blpKd01GbC02RmVDc253a3BmT1ZFb2M3eExIbFBmUldtd2otVVB3QU1DYzlwc0wxamRfVEo1cHc?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 10:22:19 GMT",
+      "description": "FDA Approves Moderna's mRNA Flu Vaccine. magicvalley.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "FDA Approves Moderna's mRNA Flu Vaccine. - Lynchburg News and Advance",
@@ -292,10 +456,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "FDA Approves Moderna's mRNA Flu Vaccine. - Herald-Review.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNnJPZzRIbzdaQ05Qd2NGdVRvTk0wT1lWVEdDUEZ6WDQxYmhlek9Jdkl2REFUNnI2VmVBeUZ2WTdBYVcwTmF4VGFLNEstLVFtMnJQcHBOYlBmZDBwWW4yODcxQWd1eXg1azZMUkR5ZTFybVhibUxMSWgwTm0zMG5wbEFKR1puQnRmOU5qT3ZkRWNHamM3akw5ckZJMndnckxicGxlZQ?oc=5",
+      "title": "FDA Approves Moderna's mRNA Flu Vaccine. - Omaha World-Herald",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQblRDcjA0d2FpRWNmam1FbGlSNHJNTFlrV3doVDBNcVpyZ2J6LXNWc1ZCU3RHUGxZU3FOU0JxcFN4TDdFX29oQ2J2aF9OSF9WSTdrRU9KcEItdHJSSTd6ZjNTVHR4bHdOcENTMzJBOU1CTUVpUnhXMG5scF9FZ25FenUtTDU2dFFad0xJRWRaNG9jUVowLUlCZXF3?oc=5",
       "pubDate": "Thu, 06 Aug 2026 10:22:19 GMT",
-      "description": "FDA Approves Moderna's mRNA Flu Vaccine. Herald-Review.com",
+      "description": "FDA Approves Moderna's mRNA Flu Vaccine. Omaha World-Herald",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -305,10 +469,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "FDA Approves Moderna's mRNA Flu Vaccine. - Richmond Times-Dispatch",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQm1Bdy1VWFNkSllZRFJnVFNIVkh6TkRGanZSOGIzNVVVUWtRWDBCNGlDV0V2QThhRmJreWFaRjNHRVEtTGtpMGN0OUZyOTdHNUFQTDdCMVU5bDdDYjJXYzlDMXMxd0VtYm1sRzJJVW80YnhjdTFkanFTZkJYMnlmZllUNkdmemNwSkF0WXZUbWtVd1hMdDJkSHl4dGZfdw?oc=5",
+      "title": "FDA Approves Moderna's mRNA Flu Vaccine. - Herald-Review.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNnJPZzRIbzdaQ05Qd2NGdVRvTk0wT1lWVEdDUEZ6WDQxYmhlek9Jdkl2REFUNnI2VmVBeUZ2WTdBYVcwTmF4VGFLNEstLVFtMnJQcHBOYlBmZDBwWW4yODcxQWd1eXg1azZMUkR5ZTFybVhibUxMSWgwTm0zMG5wbEFKR1puQnRmOU5qT3ZkRWNHamM3akw5ckZJMndnckxicGxlZQ?oc=5",
       "pubDate": "Thu, 06 Aug 2026 10:22:19 GMT",
-      "description": "FDA Approves Moderna's mRNA Flu Vaccine. Richmond Times-Dispatch",
+      "description": "FDA Approves Moderna's mRNA Flu Vaccine. Herald-Review.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -383,10 +547,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Affordable pet vaccine clinics set for Winchendon, Athol - The Gardner News",
+      "title": "Affordable pet vaccine clinics set for Winchendon, Athol - thegardnernews.com",
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNOWk1anRWWWNQUEIyOGZHV2hEZTdBM3lhUktLNkpOV2RqRHFpbktzUjV3RUdWanBqM1EyV3pRQWQ3SzFraW9BNUk5MGNaQUNYMXp4bXRwa1ZtOF9EOUJSZk91LUhKWDNwN0hXeURhRDdIcFB3MFBtQ2lRbzI0TmRaT2tWZlpaajI3RkpSSlhOSS1PZzUxbGJ1V1NreEU2bXJodDVnV1Jaa0I1QTIwQmVkbHExZWt4ZEtCaS04clNnNTRMVkVqOFc3TXRNOHZIcmZjSE9Fal80SWdWRi05emFkM2E3X3gycmI5Q245T0tyWWkwYVV1SkRxbk01eE4tNGhoSlE?oc=5",
       "pubDate": "Thu, 06 Aug 2026 08:47:00 GMT",
-      "description": "Affordable pet vaccine clinics set for Winchendon, Athol The Gardner News",
+      "description": "Affordable pet vaccine clinics set for Winchendon, Athol thegardnernews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -409,10 +573,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "US regulators approve Moderna flu vaccine - medicalxpress.com",
+      "title": "US regulators approve Moderna flu vaccine - Medical Xpress",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tTGc3dmlrTWI4Vkl4a0UwU2xiN29OdUFSTzd6OXU2MUZqNUdmSnZHNzd1ZVJCSEdfZTZ5dDJHQlY1YUlzSFFPcU9pa1N6REZuNGw0d21qTlBnNERKVzBORmg3YmdTSVJRdkt2NU1nTk4?oc=5",
       "pubDate": "Thu, 06 Aug 2026 07:08:41 GMT",
-      "description": "US regulators approve Moderna flu vaccine medicalxpress.com",
+      "description": "US regulators approve Moderna flu vaccine Medical Xpress",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -435,19 +599,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "FDA approves Moderna's mRNA flu vaccine after months of regulatory turmoil - FirstWord Pharma",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mMVRocXB1OWJvVHFXZUowa2NfNWVMRHJsVkJvXzNhblFLSUUzNjRRWEo1ZTBTWWJXeXA0bllJbTZCRHBPellhR2hqSzdoSHNCMGFn?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 06:37:49 GMT",
-      "description": "FDA approves Moderna's mRNA flu vaccine after months of regulatory turmoil FirstWord Pharma",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "A new type of flu shot is coming after FDA approves mRNA-based vaccine - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZy1VUm5MbFRub0ZCbWpkejdVa2tXa19xclYySnotZHRvZzIxamJ5S2I4eGxlb09xTkdON3Z4d3A3ZXVnajZKWm1JTm5VR0l6aU8wSDU1NzdWbTFtYjNqWi00a3RVVzNVLTZVa0drRXhQenNia01TaEFrOWtRWU1QUHBhN1dyZnR1UmFDM0l6LUEyNnlTb3VZb2dZeGxHbmU0dTdLX1ljcVJJekZHaUVKczk0UFdnUQ?oc=5",
       "pubDate": "Thu, 06 Aug 2026 05:26:00 GMT",
@@ -457,19 +608,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Moderna wins U.S. FDA approval for first mRNA-based flu vaccine - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT1dfMDlLRDkweEtFNUQ2aTM4bDVFbGF3RVc2ZkxjN2twTDhaeWlkVWNHZmhhTnlKSEdETm9yd2V3NUI0SWdGam85RUtTX3Z4S2NkaGNrZWhLYkN4aGoxMU1wb3BqbzdjQVhBaThkZUU3RUlpajVEcGNsM0FUUHU1YVdfVUZoRkliMGxlYUJTM0ZyMEVCWnVidndvVExLbXZMUm1JZ1dJYnppTnhWX0xzTDBWQTdZWGZ4?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 05:11:57 GMT",
-      "description": "Moderna wins U.S. FDA approval for first mRNA-based flu vaccine Investing.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -552,10 +690,23 @@
       "articleLabel": "News"
     },
     {
-      "title": "Free Vaccines Available in Washington for Kids and Uninsured Adults at Participating Providers - NEWStalk 870",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9OVXlHUkoxbkRUWXkyelpGMi1nYkZoUUxPSzRicmhtcjVhZE5BN3hLYjNxc3lud0hBUVZXTXF4UmR5NURxTWdqUnI2VHlod2pScWhEaExibjV6eWwwdUNtNmoxbDBBZjhFQ0JiUlc0T091eEd5UnA3THNidmlvdw?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 03:00:00 GMT",
-      "description": "Free Vaccines Available in Washington for Kids and Uninsured Adults at Participating Providers NEWStalk 870",
+      "title": "FDA approves first mRNA-based flu vaccine - CNN",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15ZTRNbXU4MVUzQlZNQ193eUZTYUJJYzhOV3dzUTkxVURlelc0eDJnRnFicjV5TzFTQUE0bFczS1lrSlhhWmhmY0h5S01FVTNMTGw1YmdBU01NcGhYWkQ1ZHZYZjdZV1lrRzdScDVGZw?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 02:33:00 GMT",
+      "description": "FDA approves first mRNA-based flu vaccine CNN",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "US FDA approves first mRNA flu shot from Moderna - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdkZQalpnY19jQUQySC1iT2VOTDVZV2JRZTdjS1Zxa1pkdi1HUnl1ZnQ3UkVNN2RYcXhSZDRZSnBNVFpMakIyVlV2bS1RNFp4ZzY1QmxjRXlkSEoxMUZBLTliYUF3VUsyOWNzSVczdk42N05LLTdjem1rczlnOVlqQ0dON3lWTE9iZHotcDQtZ2paa0pWaHVGZmxrNmpKd3BqWThXblNPNzE2QnFiS2QtQ3d2ZnNqdw?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 02:25:07 GMT",
+      "description": "US FDA approves first mRNA flu shot from Moderna Reuters",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -578,19 +729,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "FDA approves Moderna flu vaccine after spat with past agency leaders - Endpoints News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONnZ1dUNxdGhXZmQtYnVqSkd1RWcwaFNpQjlza2dkc24zejBseHZTaXdoY01uaEpPLVgtQk5JNGpBNHJuUmxGYXpPZjcxZnptTHdQaGI1aDVRSHR3NnFCT2FRODFieUpaZ3h4X21kSWR5YXBhX21hNjZud1FZNVNiNGJuSlZXUWRKY1JhS3V2TEZUNUxUd0JR?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 02:25:00 GMT",
-      "description": "FDA approves Moderna flu vaccine after spat with past agency leaders Endpoints News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "F.D.A. Approves Moderna’s mRNA Flu Vaccine - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lcm5pTjNDZHUtR3M0U1RHQU1GbVlrS2xtbW45dDUxYW9mdF9la2pfclY3azBHT1JTeTB3aktoSjhScXFoeEJVcXRTOG5VT2ZTYnUwT0FYbnc4bHpfU2lVSGltOFBIOTF5dmFKTGcxZ1VfY2xWSFZBSWhXbw?oc=5",
       "pubDate": "Thu, 06 Aug 2026 02:24:28 GMT",
@@ -604,28 +742,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "FDA approves Moderna’s mRNA flu vaccine, the first to use the technology - STAT",
+      "title": "FDA approves Moderna’s mRNA flu vaccine, the first to use the technology - statnews.com",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNGFVaUhCTkdIUG9BUlNQb3NqWmZ6WUpiN2Mxd0twWFhoTDJ6ZlJjRlNCUXkyWXJpUmt3T1BlZFJ6bklNd0xoOVBIZXRycV9TSG9oNUFLT09TRFZQVnR6V2lkQjU3OWttbkcwaUV6ZnJ0b3FQdjFadVBXQkpWVUNtNnl4UFd6bmpkTVd2YmhDQm1Ub28?oc=5",
       "pubDate": "Thu, 06 Aug 2026 02:24:25 GMT",
-      "description": "FDA approves Moderna’s mRNA flu vaccine, the first to use the technology STAT",
+      "description": "FDA approves Moderna’s mRNA flu vaccine, the first to use the technology statnews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "flu",
       "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "US FDA approves first mRNA flu shot from Moderna - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdkZQalpnY19jQUQySC1iT2VOTDVZV2JRZTdjS1Zxa1pkdi1HUnl1ZnQ3UkVNN2RYcXhSZDRZSnBNVFpMakIyVlV2bS1RNFp4ZzY1QmxjRXlkSEoxMUZBLTliYUF3VUsyOWNzSVczdk42N05LLTdjem1rczlnOVlqQ0dON3lWTE9iZHotcDQtZ2paa0pWaHVGZmxrNmpKd3BqWThXblNPNzE2QnFiS2QtQ3d2ZnNqdw?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 02:20:00 GMT",
-      "description": "US FDA approves first mRNA flu shot from Moderna Reuters",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -656,23 +781,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Connecticut Joins National Initiative to Monitor Vaccine-Preventable Diseases - Connecticut by the Numbers",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbnNOTm1YeDcweXJXZ1FoYVg5LWc1M09Eb0s4UTRDRWYwM0RGUkNNVjQ3OHUwMm95blNldDdGSHYzZnpyRUE2V2dvQzM5U1VTOElQT3hQNVFlWWRIQWg3T2NkNWFTRGZOa1ZreTBKems1UFNtLW5wSjN2TGFkM2l3TFpkalRaaWVxUl9oVF9wUGpfbGo0Sm1ucVpkbWVPTlZ1S056dVBQSVJxSHZBRm1xOVF3?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 01:56:12 GMT",
-      "description": "Connecticut Joins National Initiative to Monitor Vaccine-Preventable Diseases Connecticut by the Numbers",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Dr. Neil Silverman Receives 2026 Maternal Immunization Champion Award - uclahealth.org",
+      "title": "Dr. Neil Silverman Receives 2026 Maternal Immunization Champion Award - UCLA Health",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQck41OVdaTXNyTkZYZXZOVDB4NmV5ZG55Q1FXU3d4dG1tXzZkOUlvYWMzUzhLUmRhYWxtdl9TV1llMXFFY1BJUzd1bjVVUEJhRlNUUU5PeTU2MF9rcE9mU3hSaXpFTnJ2MXBsNGZSQWtidEE1UDVLWFNWMU00dWl4YlJDYWE2UnprWjZoZHZlMVg1dExsdDBNTHQxTQ?oc=5",
       "pubDate": "Thu, 06 Aug 2026 01:27:39 GMT",
-      "description": "Dr. Neil Silverman Receives 2026 Maternal Immunization Champion Award uclahealth.org",
+      "description": "Dr. Neil Silverman Receives 2026 Maternal Immunization Champion Award UCLA Health",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -682,10 +794,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Next-Generation Mpox Vaccine Shows Promise for Durable Protection and Future Outbreak Preparedness - Infection Control Today",
+      "title": "Next-Generation Mpox Vaccine Shows Promise for Durable Protection and Future Outbreak Preparedness - infectioncontroltoday.com",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYjBZcUFySEs3WEJZYzF4SmhldnVRMmgtcmU3MzYzekE4VzlyOTRMMVdfU2tSLTQtRmotTmFfMFdtZElhNTlEdk1hOUxMNU5ySEVNM1ZvUDhCcjY2VEE4Si1Oekt1NlpWUnozSThRQjA1a29oME1tTmVWMGxXRExFV1ZLZ3NFQ1JBSEhtcXVNeDFteURpS3Zpak9hQXFqbGE0MEZ3TmpxWUF1dlFUZjJMSGhNR1E2MnRJdFR3OXB3eThmWUNEeGpPVGlydlJmQQ?oc=5",
       "pubDate": "Thu, 06 Aug 2026 00:52:57 GMT",
-      "description": "Next-Generation Mpox Vaccine Shows Promise for Durable Protection and Future Outbreak Preparedness Infection Control Today",
+      "description": "Next-Generation Mpox Vaccine Shows Promise for Durable Protection and Future Outbreak Preparedness infectioncontroltoday.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -838,19 +950,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Rural Health urges adults to review vaccination status - kbsi23.com",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQmZBc0hVX1dqMVR2aDFVNHJ0Z181QUhCSlJqQ1VIRFVMZ2Y5UUdJUDA4MzhNREhsQ2U2dlJ1c3E5LThfcEtRemIwazRYcDFnY3dvN0ZtSWNSUEd1ZWNwaHNSZEZJbHlSazJVV3VsRXRaankwQXE3M2xJWGsxNWJBQ2tZSVYtZWNDMmFZ?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 21:06:09 GMT",
-      "description": "Rural Health urges adults to review vaccination status kbsi23.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Moderna begins clinical trial for ebola vaccine - 13newsnow.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWFdjcnJwbnp4R29YYWZTeVR0OVdLY2daTDFSTTYxT2dCdW9aTV8xcHh0Sjh5OWFIWDNHQklNQzBmTy00MlZQRFd1WGQ0S0tRSDRXTGdpeThKWEVzMW9uUDhpaGlia0VwbS04YnVfTU1QWnZ6NWVxRFZCWHdVUExqSDgxajAyQnNNSjBDU1BmUEsyZjZSU19aNENiRUVFMXVLTWx2a3BFbFR5NVg5STA4ZWc0QUxvWnhwVDVEQWM1VGFSRWQtdHdxbklVQUY?oc=5",
       "pubDate": "Wed, 05 Aug 2026 20:47:00 GMT",
@@ -890,19 +989,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Texas Attorney General Targets AAP Over Claims Of Pharma-Influenced Vaccine Guidance - Dallas Express",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQzEtT2tTR00tT3ZkSmZzb0lrMU5qRm5SMG9SMXFlNF9sbEhIZmo0cUx5ckp1RWxzS2xvM0IzMmwzLXpfTjQySVJKV2VtOFp0LWQyLTFiaU5OT2N3bmpqNjRGQ3hVNmZaLWVuV1ZxMDBCR2k4UUFObldIbHVhN04ySTJlamcxY2p4aG9HN0t6NXROdFc2SDUxZVBDenhRMWY2M3pGT3FwM3JRN1lWS1FQd0Y1Zzdyb0R0?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 20:06:03 GMT",
-      "description": "Texas Attorney General Targets AAP Over Claims Of Pharma-Influenced Vaccine Guidance Dallas Express",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Despite quick rollout of trials, Ebola outbreak outpaces response efforts in DR Congo - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObFQ0aHZCX1FhZ0ZWRGhwdG9sTzJlOGlsLWgtSlpsS0V3cmN4Qm9lZzVXWk5jWkJwbE16Z29DcU1Pc3V6RTY4b3RwMm1CNlBSTkRvR1ZGb2pXX09rYlVZQjdpbjVIejk5SnpFR2VmNmc5MTVMTUthWGhsb1UxeC1xQ0hyYXlpaWgxeFJWcktqRGh0a2Y2V0puWVhVTmczVzc4Y3dTTG5TOHZLNnpWZFdpSA?oc=5",
       "pubDate": "Wed, 05 Aug 2026 19:39:30 GMT",
@@ -929,10 +1015,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Moderna launches early trial of Ebola mRNA vaccine - STAT",
+      "title": "Moderna launches early trial of Ebola mRNA vaccine - statnews.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdzFydy11MFMtU1FEVU5tNU52dTUwN2VGdUN1STh6RWs2TzdCN3Roa2NLaDhwR1ZwZFJ6QVkzWDhKSFhIZm1rRHZJaUpSWFdUb0ZCQnlGSGpkREpQWHIzYWtVQlBveHpvMzB2cExPYjdrYzJVOVo1X0daaU9BbTZ4bmpRWlZWQzliTVNwVnlfTEQwajJLUGFwZmNSc0JPUQ?oc=5",
       "pubDate": "Wed, 05 Aug 2026 19:34:10 GMT",
-      "description": "Moderna launches early trial of Ebola mRNA vaccine STAT",
+      "description": "Moderna launches early trial of Ebola mRNA vaccine statnews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -994,23 +1080,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "How is your Lebanon County school ranked for measles immunizations? - Lebanon Daily News",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRXVBNDJqcFYwaXVFRGZFRkl6cHZXM1lpdGhWaWRGYWl4X3Z6cjNINTNVWE5qUkYwN0ZGMGNQZ1RXR3dua0FFcGZ6LUx5Y2pUeTZKM2QxYVpWb053dXNTSDJFMS1oWUlHQTdERm13R1YtbjFKY24yZHJ3aU1peXdVaUhsd01SREg2QWtKM1JMdWEwZ0JpdmJ2eTB1ZHdmal9sd2lrTm0zSXh3cG5Zb2ZDa2RxeU84OVZzZGNzNlh4OXh4QQ?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 17:50:00 GMT",
-      "description": "How is your Lebanon County school ranked for measles immunizations? Lebanon Daily News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Texas school district's vaccine post triggers fierce parent debate - chron.com",
+      "title": "Texas school district's vaccine post triggers fierce parent debate - Chron",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd0Jyd183RTdVcXlIMkZHQTQ5XzY3YlBpYk9FSDVMR1NVRGZ2YXJCeXdBOWpkd1Vqd2ktRnVRM0swMWJ0cDhIenh1LVFDd3pnMnBfQktuQ0pRSFZ4RndKekpuYUF1YS1xMlE3QldXTmppRG1OOGc1cG1aWklQdHB0Qy1aV09pcjR1?oc=5",
       "pubDate": "Wed, 05 Aug 2026 17:35:34 GMT",
-      "description": "Texas school district's vaccine post triggers fierce parent debate chron.com",
+      "description": "Texas school district's vaccine post triggers fierce parent debate Chron",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1031,45 +1104,6 @@
       "vaccineLabel": "COVID-19",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "Eczema Linked to Shingles Risk; Findings May Inform Vaccine Guidance - The Dermatology Digest",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdkNTaDE0X21wLUVseWR4SmhYdmNDRWd6ZnIxSTRoWkdyVEhPVzNmRkNyTTBsdTdwdFhMa2RpYmp4M1lSRnI1NTd6V3Z5ZWU4bTFXVTNKbHlEVThjTjJiY0Y0aEpfUDBxN2duTzhaY0w0UVNua0w2bmh2T2JLNEpHUGNrbldIX1ZQM19EZ3dEdVhTaW5hZmhieXh3?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 15:21:13 GMT",
-      "description": "Eczema Linked to Shingles Risk; Findings May Inform Vaccine Guidance The Dermatology Digest",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "shingles",
-      "vaccineLabel": "Shingles",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
-      "title": "Meningococcal B Vaccine Linked to Lower Gonorrhoea Risk | Newswise - Newswise",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYk9UdWVKMVM5OEdaNkc4NjdQT25keThnb3VwY1BmM1BjcjFZT25fQ1Q2ZnotajdYNXdOOWJVejdVUXNhSzRIQXBmYWM1RmlIbzh4SUMwdk5ja01WS1RqOFFlWG1UalNENDVTdGNHVThLSFZSRXdZSl9YUVBlTjBLY0RCUTNYUW5sV2lBUHVXS1lWX0HSAZMBQVVfeXFMUGJPVHVlSjFTOThHWjZHODY3UE9uZHk4Z291cGNQZjNQY3IxWU9uX0NUNmZ6LWo3WDV3TjliVXo3VVFzYUs0SEFwZmFjNUZpSG84eElDMHZOY2tNVktUajhRZVhtVGpTRDQ1U3RjR1U4S0hWUkV3WUpfWFFQZU4wS2NEQlEzWFFubFdpQVB1V0tZVl9B?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 13:50:00 GMT",
-      "description": "Meningococcal B Vaccine Linked to Lower Gonorrhoea Risk | Newswise Newswise",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "meningococcal",
-      "vaccineLabel": "Meningococcal",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Moderna starts human trials for Ebola vaccine amid Congo outbreak - Euronews",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNV9kY1ZaNFNxMk91eEx3Rk10SkptLWV3ZlQ5UkV6VlAwd19XQ0pFdER4TS1hakhvTS1ULUdITHhYSE83dVFiaWE2VUtIRGdNWkNva3p1T01IdFFLMEpwYlpYQnFqcGQ3TkRUWjQxSmtiYlBEeVFFXy1PVFB6dEVIdy1BVFI2WGtvMDJKbGhFVjFUVzB4d0QwVTNocU9aUGVnY1RNTDRJa0ZXRDZLdmpNaVB4aGY0UXd3R2g1MGZQYTB2Tms0X1Zj?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 12:31:34 GMT",
-      "description": "Moderna starts human trials for Ebola vaccine amid Congo outbreak Euronews",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "National Immunization Awareness Month reminds adults, children to protect themselves against serious diseases - WSFA",
@@ -1163,19 +1197,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Health Canada authorizes mRNA vaccine trial for Ebola virus causing huge outbreak in Congo - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOE1MVnVEckFPZW5adEpaMG1oMGxkc3FoQzNOQjdlV2VUTnFYeEN4aDNWQkJrQXV1dk9QTUR4VkpRUFp6UTdlUFh5OGphSHJCMzhzR3VYSy1hME5CNFBneDE4LUN5em1FclEzZVdBZWNMWXA3c2xVQWR6bTZJTUpNd05pVTljZ21vc2c?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 19:42:49 GMT",
-      "description": "Health Canada authorizes mRNA vaccine trial for Ebola virus causing huge outbreak in Congo CBC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "New Ebola vaccine trial launches as outbreak spreads in DR Congo - UN News",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXUGNTUS1GN1R0OW1mNEZTaENiNU5XUW4xQW9CQkJXcjlyX0dISHdiV21mU25KNDRUQXNMYmZjWlNyMGpPdnNBb3AwYnJjSlhGQllNRWFtZw?oc=5",
       "pubDate": "Tue, 04 Aug 2026 17:18:27 GMT",
@@ -1215,19 +1236,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Pa. launches new tool to track school vaccination rates - WGAL",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLXZKZ1hzZXhqQVZaSlN1bXJqc05GLW1PaFhrWXBGZ0ctZFdWeTJkSkNIWHVBLVdwLUc5V01CcHNJd0M5VDhfNUpYa0pzcFgwLWxfRXBBeVFUQ1BtUGdLYzhiVGhLSXY4MGJHRm1nWDNLcGQ3eWN0WjMzWWxraGZTbTBZdWo5ZDRRSUdMbFZfNE9Tdw?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 09:40:00 GMT",
-      "description": "Pa. launches new tool to track school vaccination rates WGAL",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "to Host Free Student Vaccination Clinics to Help Families Meet Maryland School Immunization Requirements | Montgomery County, MD - Montgomery County, MD (.gov)",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORU1xZWlMUGI3cGVYdjlQMGVlM0FJYzViTnRXZ09nd2hqZGZyajA5aXJ4M1JISnJXdHUzZzZMMk1DQ1U2NlJSV0kyNlVma0VJTFMtSlloN3lrbUE4c0RYRThIX3NIUHdWcGxXQlBsc21IYldMcDREekJveUs2Z2ExVmNnaTVxampRVHNmNk5icHlKSVF1REthTVMyX2QxcXFYNjVuWTJNTEVDc3RXWWw2TmphSmljZXA2SzBrUllWOGkxZ1lzOXdkcXVMVDEtWGF1RlNXS1Zkc3FiRVROZDNtcUFHZnlaOENydXl2V3ZGYw?oc=5",
       "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT",
@@ -1241,19 +1249,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "No link between MMR vaccination before age 2 and autism, large US study suggests - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVFk4Nlp3enNJblA4LVhyOVFmeW1uSFl1VVJDZFVCZnJ3SE9fYmtyd3pDWFlXaXFvc0lPUWU4bXE1VDBBcHlsR1dKaEpjT1JWVzh3Ui1BYmZleWFXcjQ0WWVRMDk3N0w5cENRWGlRNXRLTV8xYkYzZEp0ZndjMVMwUldxeFprZGFuall0bXJqRk9EdDRIbHpkbktnSy0xT0R0Y3pOY2RBUVYzS0YxUlFlYUNBQ0NSQTdPSXc?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 19:30:00 GMT",
-      "description": "No link between MMR vaccination before age 2 and autism, large US study suggests CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "Current CDC Vaccine Price List | VFC Program - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzcDlFY0E3MFdhQmZETTZXa2hSdmxmc2x5TC1XVXNhM2xqUmk2V0Vmd09sOUlSc3Y1bjJCQVlrVWZDSF8zc0lXOXRTM0JNaHV5YlVBcnNDdkZEdE5DQUhYVGNwV3FubzVDWThzLUZqcldYMGNOTkE?oc=5",
       "pubDate": "Sat, 01 Aug 2026 07:00:00 GMT",
@@ -1263,19 +1258,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT",
-      "description": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
