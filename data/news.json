@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-06T11:11:39.856Z",
-  "itemCount": 95,
+  "updatedAt": "2026-08-06T12:08:06.374Z",
+  "itemCount": 96,
   "groups": [
     {
       "key": "covid",
@@ -10,12 +10,12 @@
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 20
+      "count": 32
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 8
+      "count": 7
     },
     {
       "key": "hepatitis",
@@ -25,7 +25,7 @@
     {
       "key": "meningococcal",
       "label": "Meningococcal",
-      "count": 3
+      "count": 1
     },
     {
       "key": "shingles",
@@ -40,20 +40,85 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 59
+      "count": 51
     }
   ],
   "items": [
     {
-      "title": "Testing is underway on vaccines to intercept brewing colon cancer before it takes root - WRAL",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPelJKRGZQM0d5M0lKY3Rwc1hlWDFZV0RGVG93U3E1SnZ2UmR4ZHRua1JRTDNWb3RGaU05VHJqaEVFN0pDYzY0djNQN3hnZGt2T3RLTm1VU3VteU1yd2NIVFJTSGRtMXNzWGhHcmVYeUF0YjJJWkdoN2dtSTZfUUNxOU1xOGlhOUotNzRWRVpGaTRwWWM4eVQ4SUZIa2lqZ2tEcmF5VGNaMVhfX3NBaGlXaHowRDZMcDJySXBPY2lMdw?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 11:05:49 GMT",
-      "description": "Testing is underway on vaccines to intercept brewing colon cancer before it takes root WRAL",
+      "title": "FDA Approves First mRNA Flu Vaccine for Adults 50 and Older - NCHStats",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qOFlad1g0OThKMDB4c0Z0RFp2Z3Nla2FlRllhQ09pOG5kTnVOdE5NaGl2Xy1kb2hjeEU3YjVveUdhLVBtU29XWlQxUFJJeHdrLTA5c0ducWxpdFFwbFVySVdUZGNXdXN3?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 12:00:14 GMT",
+      "description": "FDA Approves First mRNA Flu Vaccine for Adults 50 and Older NCHStats",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "What Does Moderna's mRNA Flu Vaccine Approval Signal? - PharmTech.com",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZWdoYWhGNHJtQVNXZmZ3RF9EbEFUOW90VEUzd1lBd3l3NVhHeTZtQW1DNkhRdzVvc3c2NnpweVIxcnBoM3pxcVA0YV84bmM1elRRMGswWGViQ3NxR25iSEdNSEVQTlRFM3ZlY1pPWUlVR0g3SlhXLXFCeVM0WnNzQnM0TUxmbGh4Nmc?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 11:50:16 GMT",
+      "description": "What Does Moderna's mRNA Flu Vaccine Approval Signal? PharmTech.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "FDA approves Cambridge-based Moderna’s mRNA flu vaccine - Boston 25 News",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONi0wbEw3blBnUTZXZVpSQ2tmRGFNTHF4bDNTdF8wejFLMnJHaS1qSW1nUGk4R3NxS05UZlRzQXZNNTdTX0JmUDZjdkQ3UHhnNno1OG9mZXJfMzliT3hpd0RtZVg4RUlRT2tieWs2X2lkZ3ExQjdSX0FXeVN0eXV0LWF2S3ZDcHFqaFlTTU1rTkNDcGswOWpjZ0RwZ25qX0FnOXhyTGI0b2M0N0pSeFU3SWl0RDhrNXdJck8ta2xLQnBRdXNF?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 11:40:05 GMT",
+      "description": "FDA approves Cambridge-based Moderna’s mRNA flu vaccine Boston 25 News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Testing is underway on vaccines to intercept brewing colon cancer before it takes root - Boston Herald",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZDR4WmRBRzAybUYzVVlfb3l2SURVQmliSlZueWQ4UW1XbDZIRUV4UndVMTdlLWFrTnpwN19mbi0zdUhlVDBzNjZxeTgyN0lhbUw2LUZBLWczUkpSbWlJN29KQmJPZEJSdDA5b1pTWlFJM3VPZnQtaV9wYTdnVW9jOTVwOA?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 11:32:15 GMT",
+      "description": "Testing is underway on vaccines to intercept brewing colon cancer before it takes root Boston Herald",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "FDA approves Moderna's mRNA flu vaccine mFlusiva - islandernews.com",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWW1mQTczd0tZdGFZWGlfVzVuTW91dC05NGdjUnRzM0FtVW9lVTFDWjA2NzNYZnEwdkhSX1o1dUlRdmtCYWZJVnVJeFo4eXN5b01FUlFZcm5jOERkVmVWdUFsZUNGOHJVT3IzRld5UVZpdXlCX2hKVHo0Q0hmWXZtTy1ERUdDdC1JdEN1SFBFLUI3RXA4a01vNDNqQ2Fydl9rVFR4OUdudmRNOWsteV9UZExwMFBKaEtMRkNoZmRXVXpGYWtvZE5JWkZhT1NmUDRfcmRFdE5FU2VLek0?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 11:15:00 GMT",
+      "description": "FDA approves Moderna's mRNA flu vaccine mFlusiva islandernews.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "FDA approves Moderna’s mRNA flu vaccine - BioPharma Dive",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ3pWeWNrZktkUkxaS1NEWWJ1VGYxSHMyUUgzZGNFUHh3RGZCRHRDbnFKWmpqakNEeXp4QkV6OExqZTJZT2RPQUZ2ZjdfeU5RVGxlYm5NaC1uaWZiMC1jejczS205ZDdPV0hNaEtNNXgzajI0dXF4TFQ1dE9iY19kbmI4NkpTZW9NZkZ1alZMUjMzVGZq?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 11:10:45 GMT",
+      "description": "FDA approves Moderna’s mRNA flu vaccine BioPharma Dive",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -110,10 +175,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "FDA Approves Moderna's mRNA Flu Vaccine - Yahoo Life UK",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxWGlJWTl0TGo1RVJ5bHdXdkw3aUZ6UkdjUW11NmJVNmlhV3A1OTYwaUdTdmN6a1FvU29YY0VTT1NOMHVBUnpKSzVnQndQM09HVnhEVVBNTmNnMVlIQ25qMWJpMmxESWVBR2Q4YVlJWXVNY2ZwWkVrZkZtWU4?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 10:45:00 GMT",
-      "description": "FDA Approves Moderna's mRNA Flu Vaccine Yahoo Life UK",
+      "title": "FDA Approves Moderna's mRNA Flu Vaccine. - Billings Gazette",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQXp4NDBud19Sc2oxNlNjQUdMUEIwNGo4NUZndWpYQ2g3azBUcnEwY1FKdFZOU0lCcXRTTG0yUFU5aGs5V3NWSlZuOEEyUDN1VkI4cTJranJWWWxScmdZU052MlB4Yi1sQzZ4S0tXZmVFbXY0MFFyT0FXbDA3NzFBLW5qbXZDaFhqTDViWXgtT1M5eHA1THcwYVhSZnhRR3JXdjVoOGl5Qi1oZ0syYXdxOTBjRWc?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 10:22:19 GMT",
+      "description": "FDA Approves Moderna's mRNA Flu Vaccine. Billings Gazette",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -123,10 +188,127 @@
       "articleLabel": "News"
     },
     {
-      "title": "FDA Approves First mRNA Flu Vaccine from Moderna - chosun.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV0VHbkYzd1lLYjktZXRDRnRPYlJXY2FrVFY0SW5SaEVBemtNcFgtdTZYSElLdGZCcldYakoyWjFHRHhFaXo2WWRlQ0FQbnVrZTR3U2oyOVZMYk9xM1h1TE5HRW9oa1UtQ1VUR2ZKMzRiVTlEYmhWU2ZFWGY3SC1YdkFwQXdZSy1P?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 10:12:11 GMT",
-      "description": "FDA Approves First mRNA Flu Vaccine from Moderna chosun.com",
+      "title": "FDA Approves Moderna's mRNA Flu Vaccine. - Ravalli Republic",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRjJBSmtPd0ZOM3U0V3g2a0M5RnlWb211T1o1dFVjRlBJcmZneEtKbmFWcU1xX0QzUk1CeGdXWmxPUTVBaDR4STVRZ3hVbHpBSzc3bjVaWXhCaTJBNXhKbzhTSzd3TFVSenJ0WE0wbUdhSTVVcmZjT0tSVU1KM0p5NnU4aTZ4WENnVEtfT0RQVVdvUGZyUzVvR1dhWU1KZ1dBcUg3emFDOA?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 10:22:19 GMT",
+      "description": "FDA Approves Moderna's mRNA Flu Vaccine. Ravalli Republic",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "FDA Approves Moderna's mRNA Flu Vaccine. - The Independent Record",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNGgyamRXZE5KNE1GU291ck5iRlc4RGNNSFN4Uno5T0l4NDVmT2xGYmRnS2J6OGc5LTBiUWFnbENoNC0tNjh2Nlg3WkdDRkF2T3FyZHhDdG1kcHFKMTN2OTZtSkRLNWpqUXIyQmRIYnI1WGhGMFpUVmZQYTl2TmVQRm10OEh6a1hwSHZFdjFaczVfYmJjaE80cHNLT2dydw?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 10:22:19 GMT",
+      "description": "FDA Approves Moderna's mRNA Flu Vaccine. The Independent Record",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "FDA Approves Moderna's mRNA Flu Vaccine. - Tulsa World",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWW9KMkRSVFdpLVV6cEUzYnpOLVNJdlFrNDh0NGl4dEY4ZmNPWTJ2eUJxVThZZjNPV2hEemhjZHNMN1J2ZjNmZVBDYkNFWTBCckRlRXFqMlBaSWozUWJ0VjdJaEZROFpFTG5GcWhJUnV2OU14NDVVOTMtMTJXdWNNMTVKRVJYeDc2WTNrS0hzTV9lVzAzRHpqN1Bkd1ZkVVhz?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 10:22:19 GMT",
+      "description": "FDA Approves Moderna's mRNA Flu Vaccine. Tulsa World",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "FDA Approves Moderna's mRNA Flu Vaccine. - AppleValleyNewsNow.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOWNvZjFKUFBMRGZ2UjJVMkZRNlBVZmN2dlNJd3cwdVNzbEpiV0VLVEM0MzZ6T0ZOdmxMOUVrMlpGekdZMFR0TmttMVZOSTdsVnhXaXpjSXdaUzNoUGxvUUZLZWlrX19nSllpS3luc1AxN1lFMllaLXNQUUw5VzVNNWNEOEZPcDdYMXF1YjV3M1VSS1EyS0EyNEt1UUFiQkZha24yOWFtVHA2WXREYnFXbWZQMEJFQWhFUmh6WTR1TmphbnpXN0NBX0J6cVBwdzMyVnc?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 10:22:19 GMT",
+      "description": "FDA Approves Moderna's mRNA Flu Vaccine. AppleValleyNewsNow.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "FDA Approves Moderna's mRNA Flu Vaccine. - Rapid City Journal",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ0FuNGhlMkRjTzBNSXVTM1RtX3NwRTJ1UTVQSHJTVU5YeFhYTHpBT2xtOHBUMFU4di1jRU9EWWhUazBoYXg0Y00td2VjdUY1bnloMTNSU252ZUNZLWV1R0pHVGlFMkxXcVllZ3dibjEwS1pYUTJuQ1YwbXU1ZnVYcnhZRTR5UUxjUnROMmp4dXFteFc5Z0g4Nzg5aFFBSkkyd0JaZ3NUSUs?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 10:22:19 GMT",
+      "description": "FDA Approves Moderna's mRNA Flu Vaccine. Rapid City Journal",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "FDA Approves Moderna's mRNA Flu Vaccine. - Lynchburg News and Advance",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSFZFU0thejlzdTFfV0JRckhwcnJ5WHZFYlFtZ29OeldnTi13RkFBZE9XWUltb2FLMDZqTnZmYXdTT2tEZTVkMVFrUk0wYkEtTjRxS0lENmFwTkJPNFZEMnB3UjQ4RWZmT3BPZmI4QjExM0w3ZU1vOHY5V25HVnJNbW5TNnVGNzc2NkhCT0wtSkU3WnBnRllBMTFwc3hlaHhvM3c?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 10:22:19 GMT",
+      "description": "FDA Approves Moderna's mRNA Flu Vaccine. Lynchburg News and Advance",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "FDA Approves Moderna's mRNA Flu Vaccine. - Bryan College Station Eagle",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOWxUMFc1dnYydGJCcVA2LVJwQVRaLXlBNnc3UGxTRC02d0xYVGUyYllWVE5ocFNEdkFZNUNMOWZnZEEtZjFTbFF1U0VZc0ZNd3pSOFA0cHhDLWhnaE9mNTRYTy1ZMVgwc0ZrYkVWNE40NF90NkdpSjFLZHF5aWlmQVBNNFZmeWFlY0EyWm1JUjVxRGc2cWRpUEVQWTRmZw?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 10:22:19 GMT",
+      "description": "FDA Approves Moderna's mRNA Flu Vaccine. Bryan College Station Eagle",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "FDA Approves Moderna's mRNA Flu Vaccine. - Corvallis Gazette-Times",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdlg3enhmc2tFOFFTdFFGLXNNR24tREFlMkZMV2RrbFhwWU9icjlyNF8xR3V4M3JMOG9TZkp1R09KVHRLZ3dlejZVWkhYVl9tZkZ5SGNEdjlhRzVoZDROaWlIZ0FWVUxYeWJVcC1ic0dXS1RyQzFRQ3B0cU1fb0lKWUZMckwxWTNwU1BTSUFnLWoydW1hMXN1dUtzSmlxdGdiUG44?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 10:22:19 GMT",
+      "description": "FDA Approves Moderna's mRNA Flu Vaccine. Corvallis Gazette-Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "FDA Approves Moderna's mRNA Flu Vaccine. - Herald-Review.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNnJPZzRIbzdaQ05Qd2NGdVRvTk0wT1lWVEdDUEZ6WDQxYmhlek9Jdkl2REFUNnI2VmVBeUZ2WTdBYVcwTmF4VGFLNEstLVFtMnJQcHBOYlBmZDBwWW4yODcxQWd1eXg1azZMUkR5ZTFybVhibUxMSWgwTm0zMG5wbEFKR1puQnRmOU5qT3ZkRWNHamM3akw5ckZJMndnckxicGxlZQ?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 10:22:19 GMT",
+      "description": "FDA Approves Moderna's mRNA Flu Vaccine. Herald-Review.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "FDA Approves Moderna's mRNA Flu Vaccine. - Richmond Times-Dispatch",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQm1Bdy1VWFNkSllZRFJnVFNIVkh6TkRGanZSOGIzNVVVUWtRWDBCNGlDV0V2QThhRmJreWFaRjNHRVEtTGtpMGN0OUZyOTdHNUFQTDdCMVU5bDdDYjJXYzlDMXMxd0VtYm1sRzJJVW80YnhjdTFkanFTZkJYMnlmZllUNkdmemNwSkF0WXZUbWtVd1hMdDJkSHl4dGZfdw?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 10:22:19 GMT",
+      "description": "FDA Approves Moderna's mRNA Flu Vaccine. Richmond Times-Dispatch",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -162,10 +344,10 @@
       "articleLabel": "Research"
     },
     {
-      "title": "FDA clears Moderna's mRNA-based seasonal flu shot - pharmaphorum",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnF1NjBuUURaVlFzdHRyUTlVUFROUzIzWXZocE16RVBvSTJxMTNNb1Q0cDdSTnhYT2pQSnBIV1FpWmxWU093WW1UR0lnS2pMSHJySHVXVmEtNG5MdHFyQ3Z2eDE5QnpzMmotdTRGVDJfWUpsZ1AyWEQ0MXhCbUUxZXduWlI?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 09:30:26 GMT",
-      "description": "FDA clears Moderna's mRNA-based seasonal flu shot pharmaphorum",
+      "title": "What immunizations do CT students need before the start of the school year? - CT Insider",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcC1ocW5EdEo1RGR4RXdBSV9ELVo1U3FHNFBSU2JUeEFkREY5Z0pjbW9QX2syaUIwdlkwMzZLV3dNWWNleVBVTHNfSjhSa2xkaXVLQWd2aUU2VTN6VXVxZ2pVTXNBWDZCQkJjdkx6bUEyVXdfRlJCaWxvVWZrdHpIVjRXZTRCZ2FoMjlNWlJZRV9HbUxPd2QzNWRFbkI2MVJON04zTDlMY3FwZF9hdUlj?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 09:05:21 GMT",
+      "description": "What immunizations do CT students need before the start of the school year? CT Insider",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -214,32 +396,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Fridge-free vaccine shows promise for reaching millions more people worldwide - NIHR",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORWpGazRTZEg0dlhWeXJqMFJmSlQ2aTVtWEZkN2VDa0NnUU1nTHFjeWhON2MxTFcySEFrSG1raHBUOTFTb0tieGpWUVlUZ2dNUjRBN0hJOEptelZRcGZCaU5OY1RNOFU1OGJJc3FTVDNYMU9ObEpIam84OXJHcklmbWtjcWc5Z0dmanJTTE15OVBveFhmRGEwbFlDQzZJRmVtWTBn?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 08:40:06 GMT",
-      "description": "Fridge-free vaccine shows promise for reaching millions more people worldwide NIHR",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "World's First mRNA Flu Vaccine For Older Adults, mFlusiva, Approved By US Drug Regulator - ndtv.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYTJkeUZLMHljZ2YwRC1yR0liSEJvYzcyVk44alhtX0RCTVQtVm9XTlVaSXIyMThSdUhiTWw1bUZ1WWVIRG10TnpSTWw5QXM1YUg1bnU2YXByY2NRSUxjMkFvOG1EcWwyVGVGV2E0eDFha2YwYzkwZEZhN3ptUEt5NGhIOFBpUG5FSERxOXRvV1NOZlcyNGdMb0FuNGNGNzducUhpMl8zNFVyeHNVNlBLbG1LX2RTd29Xc0UzQVpCcw?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 08:30:20 GMT",
-      "description": "World's First mRNA Flu Vaccine For Older Adults, mFlusiva, Approved By US Drug Regulator ndtv.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Lawyer indicted for defrauding Tzu Chi with false vaccine procurement scheme - Focus Taiwan",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhUW1qb1JweDJDUmpPYzRkbjhOWE9sWGoxbUFVVWlEUHl2b3Y2bkJMNXVHc2Fjbnp2MnVNRzlTYTczMGZoYU1Bd3VjZXBUT1F4S1QyeFhR?oc=5",
       "pubDate": "Thu, 06 Aug 2026 07:30:00 GMT",
@@ -253,10 +409,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "US regulators approve Moderna flu vaccine - Medical Xpress",
+      "title": "US regulators approve Moderna flu vaccine - medicalxpress.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tTGc3dmlrTWI4Vkl4a0UwU2xiN29OdUFSTzd6OXU2MUZqNUdmSnZHNzd1ZVJCSEdfZTZ5dDJHQlY1YUlzSFFPcU9pa1N6REZuNGw0d21qTlBnNERKVzBORmg3YmdTSVJRdkt2NU1nTk4?oc=5",
       "pubDate": "Thu, 06 Aug 2026 07:08:41 GMT",
-      "description": "US regulators approve Moderna flu vaccine Medical Xpress",
+      "description": "US regulators approve Moderna flu vaccine medicalxpress.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -409,19 +565,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "US FDA approves first mRNA flu shot from Moderna - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdkZQalpnY19jQUQySC1iT2VOTDVZV2JRZTdjS1Zxa1pkdi1HUnl1ZnQ3UkVNN2RYcXhSZDRZSnBNVFpMakIyVlV2bS1RNFp4ZzY1QmxjRXlkSEoxMUZBLTliYUF3VUsyOWNzSVczdk42N05LLTdjem1rczlnOVlqQ0dON3lWTE9iZHotcDQtZ2paa0pWaHVGZmxrNmpKd3BqWThXblNPNzE2QnFiS2QtQ3d2ZnNqdw?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 02:25:07 GMT",
-      "description": "US FDA approves first mRNA flu shot from Moderna Reuters",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "FDA approves 1st mRNA flu shot, from Moderna - NBC News",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTkdLSVJGMUlhVTVLUGhRa0Y1c05DVkRFNElwbVJ4YmFJbk5Fb0NSeWtzeWo3czdsZE1aMk1JUU91VkhlOGtSUl9uaFJZTENTdW94VzA5TkRsTkRINl9HQUJRUlhoV290QmhDNDJrdVQ0WVNjblJZVm1LYzRvNUtyb3dsX29vVEhheTZDdUJud1RoYU9WUXkw?oc=5",
       "pubDate": "Thu, 06 Aug 2026 02:25:00 GMT",
@@ -474,6 +617,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "US FDA approves first mRNA flu shot from Moderna - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdkZQalpnY19jQUQySC1iT2VOTDVZV2JRZTdjS1Zxa1pkdi1HUnl1ZnQ3UkVNN2RYcXhSZDRZSnBNVFpMakIyVlV2bS1RNFp4ZzY1QmxjRXlkSEoxMUZBLTliYUF3VUsyOWNzSVczdk42N05LLTdjem1rczlnOVlqQ0dON3lWTE9iZHotcDQtZ2paa0pWaHVGZmxrNmpKd3BqWThXblNPNzE2QnFiS2QtQ3d2ZnNqdw?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 02:20:00 GMT",
+      "description": "US FDA approves first mRNA flu shot from Moderna Reuters",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Moderna's first mRNA flu vaccine approved for adults 50+ - Stock Titan",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2pfR091WFVOR0RNUktIS1JPMDM2X2VZcTFCRWdTVHdUc1ZPNGlLUEdhaFNOYzNYVVN4ZENMd0FmbURIME5sSzl2T1N0bV9XQXFFZ0E3cXV0c1lfZWNsbXF3SGd3Y1AwOGpnRG5sZTVoYkdDU2ZxTjlFeDdueUdWUldjdUFDdWl4Z0dSaXZDVDFXS25fejVrWXJmY2FNMmo1VXVPdWZ6Wk8xTC1aUnM1WUlR?oc=5",
       "pubDate": "Thu, 06 Aug 2026 02:18:30 GMT",
@@ -500,23 +656,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Moderna Receives U.S. FDA Approval for Influenza Vaccine mFLUSIVA - guardonline.com",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZUx4MDRrUldpSEpwR3EtVVU4TlVnOEVqS0NQc1RKX0I0NWFMR3BvbmNHWDZ5a0dhRjd2X1F1aTZfaDVScktHeDBqWmFUZjJHbnFKVGZaaXRPWVowU0w4TDFoNFA3bUE1dEEzQ3FtMnlCa3g4UERzVHg4VjY1Ylo3cENtZXdUUVpybVVidml5UEtSQV8yMXNwZG1DVmVFb00yQndlZV82azBvYWp4dVBMSDRmNHhabTBlODhWNjJqLVl0LWt1Ry1sVlBKaHlwQ08taDRBYjBhM3BYbHp3M2g5S09Eb1FlQ0ttNUhNMw?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 02:16:38 GMT",
-      "description": "Moderna Receives U.S. FDA Approval for Influenza Vaccine mFLUSIVA guardonline.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Connecticut Joins National Initiative to Monitor Vaccine-Preventable Diseases - ctbythenumbers.news",
+      "title": "Connecticut Joins National Initiative to Monitor Vaccine-Preventable Diseases - Connecticut by the Numbers",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbnNOTm1YeDcweXJXZ1FoYVg5LWc1M09Eb0s4UTRDRWYwM0RGUkNNVjQ3OHUwMm95blNldDdGSHYzZnpyRUE2V2dvQzM5U1VTOElQT3hQNVFlWWRIQWg3T2NkNWFTRGZOa1ZreTBKems1UFNtLW5wSjN2TGFkM2l3TFpkalRaaWVxUl9oVF9wUGpfbGo0Sm1ucVpkbWVPTlZ1S056dVBQSVJxSHZBRm1xOVF3?oc=5",
       "pubDate": "Thu, 06 Aug 2026 01:56:12 GMT",
-      "description": "Connecticut Joins National Initiative to Monitor Vaccine-Preventable Diseases ctbythenumbers.news",
+      "description": "Connecticut Joins National Initiative to Monitor Vaccine-Preventable Diseases Connecticut by the Numbers",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -526,10 +669,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Dr. Neil Silverman Receives 2026 Maternal Immunization Champion Award - UCLA Health",
+      "title": "Dr. Neil Silverman Receives 2026 Maternal Immunization Champion Award - uclahealth.org",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQck41OVdaTXNyTkZYZXZOVDB4NmV5ZG55Q1FXU3d4dG1tXzZkOUlvYWMzUzhLUmRhYWxtdl9TV1llMXFFY1BJUzd1bjVVUEJhRlNUUU5PeTU2MF9rcE9mU3hSaXpFTnJ2MXBsNGZSQWtidEE1UDVLWFNWMU00dWl4YlJDYWE2UnprWjZoZHZlMVg1dExsdDBNTHQxTQ?oc=5",
       "pubDate": "Thu, 06 Aug 2026 01:27:39 GMT",
-      "description": "Dr. Neil Silverman Receives 2026 Maternal Immunization Champion Award UCLA Health",
+      "description": "Dr. Neil Silverman Receives 2026 Maternal Immunization Champion Award uclahealth.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -656,19 +799,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "SCV News | Public Health Releases Back To School Guidelines for Child Health and Immunization - SCVNews.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNHFwYTg0b0J1c2R1MEFLaVdGRXBKZWl4aE9kYl81TGd0enhDdjBGWGJocVl6WG4wVGxnNllPSVlycjZ2V2VFb2EybVRWZktZLS0yZ3BZSktYQVo4OUJfb1NzWEs2UGtudWpxN2xnRFp5Nk1wYWhGd0QxZTJVM0pkUzBYdTc4eEtnUlp1UjhNVlFyb18teldIZ2hLakNPYUhNM21UUElR?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 21:47:15 GMT",
-      "description": "SCV News | Public Health Releases Back To School Guidelines for Child Health and Immunization SCVNews.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "KRAS-Targeted Peptide Vaccine Generates Durable Responses, Shows Promise in High-Risk Pancreatic Cancer - Pharmacy Times",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeHc2Q2M3NTZCQklrRldJU19heG5wUUFiZ3hkWXA4OEVac2V1eDVxd3RPcF80N19meFpwdFhfMW1DSDFjVmFUX0NYRHdDMTFKMERVYnh3cllna1dVU0h0VXVGd0pMUGJKYV9seGJIa1N6NEJTdG02dENZdXQ4RExINjQyMWhhM2JGY3Z1NmlVNzZtV2Y5bnJGNWIzMnBBM3d1cURHM3MwazAweVdnV3p6YTY0X3FFVl9jNkliWjVlRUdWNHdxVGxFZEtoU2xNLWpObWk4?oc=5",
       "pubDate": "Wed, 05 Aug 2026 21:47:12 GMT",
@@ -699,19 +829,6 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZl9rSkNxSXV0QlA1RHEtWGtqbE1LcklWVTFfRHBNSzd4LUJrcl9pbndnREM1RWo0WjhaWkd0UTc3bzVvTGxocmthdURsSGpIeWlUNUxzaUNFZXZwaU81TEZiOVpGUFllYlpRRFdYT3plVURkWmlqN3lpc211eTBpdnBWUWlaaVhycUduQnNEb09vSTZEdDFFRVlwYTdFb3ptbjB2SlFKandIS0pmdGFSOHNCYXd6eklZM1FqTQ?oc=5",
       "pubDate": "Wed, 05 Aug 2026 21:15:00 GMT",
       "description": "Texas AG investigating AAP over vaccine guidance KVUE",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Tool Brings Vax vs Disease Risk Into Stark Contrast - MedPage Today",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vUFNQeVY3R2tOWHpnc0Q5b0RVRHhfMFdtSXFFYUJOd1VUeGFOQ2xtT0F6d0ZOVHE2TjNGY0Q1cGRvSm1MNnFVYVBZVmNMNWp5dnMzM2F4anNqZ1hkdm9Hbm9mN2VRYXJZMzhYcnNGWQ?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 21:13:15 GMT",
-      "description": "Tool Brings Vax vs Disease Risk Into Stark Contrast MedPage Today",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -786,19 +903,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Unlocking Hidden Brain Cancer Vaccine Targets - Neuroscience News",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LYWZWanJDMmFxdXA1Q0tQaGk5X0JLVVhnU3JCenpyUWhvd01FUkdjOGhYNnNGMzVXb2c1enYtUTRwdGd5bUNQVkFJYTZlckh1eFJSYWFjTkNjcFJfUllSSUpaeXZLcnpPcEpGWFNMaUdSZXFraDJsejQ3RHl4dw?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 19:59:39 GMT",
-      "description": "Unlocking Hidden Brain Cancer Vaccine Targets Neuroscience News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Despite quick rollout of trials, Ebola outbreak outpaces response efforts in DR Congo - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObFQ0aHZCX1FhZ0ZWRGhwdG9sTzJlOGlsLWgtSlpsS0V3cmN4Qm9lZzVXWk5jWkJwbE16Z29DcU1Pc3V6RTY4b3RwMm1CNlBSTkRvR1ZGb2pXX09rYlVZQjdpbjVIejk5SnpFR2VmNmc5MTVMTUthWGhsb1UxeC1xQ0hyYXlpaWgxeFJWcktqRGh0a2Y2V0puWVhVTmczVzc4Y3dTTG5TOHZLNnpWZFdpSA?oc=5",
       "pubDate": "Wed, 05 Aug 2026 19:39:30 GMT",
@@ -812,10 +916,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "What are the symptoms of measles? How is it spread? Is it contagious? - oklahoman.com",
+      "title": "What are the symptoms of measles? How is it spread? Is it contagious? - The Oklahoman",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNzRHcmloVlZvZVU0Tm1CQkxLTV90MHhnRU5YUnQxcFYzNGY0c0x5ZTVIdWZkRWhFeXZOREQ4VlVjLUJ5aHVxekh5aHdibk9oSUZVcC02ZllmLVFZaXU0Z3VhTUNHOVVEZlphQlFDaUJpZlNFWDE1clU4Nk5EeFVaN2hNT3hMcjFicUpSQTh5MXlQXzJTZDd0ekw5bVZpdTNBVDdKd2NsYzZwT3VrdjJyYlZwWlRqSXRhUzdN?oc=5",
       "pubDate": "Wed, 05 Aug 2026 19:36:24 GMT",
-      "description": "What are the symptoms of measles? How is it spread? Is it contagious? oklahoman.com",
+      "description": "What are the symptoms of measles? How is it spread? Is it contagious? The Oklahoman",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -890,23 +994,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "How is your Lebanon County school ranked for measles immunizations? - ldnews.com",
+      "title": "How is your Lebanon County school ranked for measles immunizations? - Lebanon Daily News",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRXVBNDJqcFYwaXVFRGZFRkl6cHZXM1lpdGhWaWRGYWl4X3Z6cjNINTNVWE5qUkYwN0ZGMGNQZ1RXR3dua0FFcGZ6LUx5Y2pUeTZKM2QxYVpWb053dXNTSDJFMS1oWUlHQTdERm13R1YtbjFKY24yZHJ3aU1peXdVaUhsd01SREg2QWtKM1JMdWEwZ0JpdmJ2eTB1ZHdmal9sd2lrTm0zSXh3cG5Zb2ZDa2RxeU84OVZzZGNzNlh4OXh4QQ?oc=5",
       "pubDate": "Wed, 05 Aug 2026 17:50:00 GMT",
-      "description": "How is your Lebanon County school ranked for measles immunizations? ldnews.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Is your York County school at the top or bottom for MMR vaccinations? - York Daily Record",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSE9ybTVUNXFHWHNjWUtjdDlyUnMxWEZHMlBRMlpQb05hYmRpTHpseFEwOHZ2eXQ4azZ5N0trRF90Z0c1SjlXUGlUQ0RRUkZGRm9pbF9JT0Uyeko3TGE5b0NDeGJBZ0U1OFRnSEhqUUc3NDdGTWlTT29WRkhGY1hsbmdCTWhYUkFkazg2VmNTRG1EX21KbEhQNl84ckFFMFA1NXRaeFhHXzkxVDFONXU0dXdxSmFvRlZoX2JfOFA3WUlPX3g1dHRr?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 17:36:00 GMT",
-      "description": "Is your York County school at the top or bottom for MMR vaccinations? York Daily Record",
+      "description": "How is your Lebanon County school ranked for measles immunizations? Lebanon Daily News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -942,19 +1033,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Doctors group issues new vaccine guidance for pregnant women - cbs19.tv",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY2JBeV83ZDF1dlZuLUVHd3MtM01qZDNFdXhTQVlxRWxmaXlTWjVkSEhiWkhVZGN6ZklZSU1fWXBrNFQtb3VpY01oNGRmRzdGR2F3ZTdHbTJQZmw5cUhRMldvczg3cS1BRU82QmtHNGlOYm1QMEZuSUZmaFRaVHhaX2t5TUlETFJGS1JmZ2JoT1JoSmRiWFFjNDJfQmdHdTV5VWNZZF9YcVRLUldrbXBPY2lmTl85eXZaOHU5SzRxME00WVNFbXhjT1BGT2lUV0xvTDVvcElB?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 15:52:00 GMT",
-      "description": "Doctors group issues new vaccine guidance for pregnant women cbs19.tv",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Eczema Linked to Shingles Risk; Findings May Inform Vaccine Guidance - The Dermatology Digest",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdkNTaDE0X21wLUVseWR4SmhYdmNDRWd6ZnIxSTRoWkdyVEhPVzNmRkNyTTBsdTdwdFhMa2RpYmp4M1lSRnI1NTd6V3Z5ZWU4bTFXVTNKbHlEVThjTjJiY0Y0aEpfUDBxN2duTzhaY0w0UVNua0w2bmh2T2JLNEpHUGNrbldIX1ZQM19EZ3dEdVhTaW5hZmhieXh3?oc=5",
       "pubDate": "Wed, 05 Aug 2026 15:21:13 GMT",
@@ -966,19 +1044,6 @@
       "vaccineLabel": "Shingles",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "NHS begins catch-up campaign for MenB Vaccine - Open Access Government",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMEtrcEJxczZwcEE3azJfVE1XcUVya01VVlpURXlLTE1wNHZrbERrcVhZMXN5MGM3RmE0NmNWbGw1NmhNaUJOalNBYU1lZTBmeXZPRmkzdUxjekJ2SlpaWXhkcnRkSEZsV2xkZVdLaWtFcGlxYnczejJGY0kwdy10XzM1b0w5Z2dEMjJzWVc3di01bHVK?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 15:08:11 GMT",
-      "description": "NHS begins catch-up campaign for MenB Vaccine Open Access Government",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "meningococcal",
-      "vaccineLabel": "Meningococcal",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "Meningococcal B Vaccine Linked to Lower Gonorrhoea Risk | Newswise - Newswise",
@@ -1003,19 +1068,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Meningococcal B vaccine linked to lower gonorrhea risk - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMTYwQ1M5b2FvOEt4YTljdTZhdjNTZV85TjhPVzhwRkUzSWxKM21WQW82R1g4N1ZoQ1FaSWpqd2JDVWU2SFd1U2Q0RUJRYmZyVlVTZl9YUnFfNWtScExUMGhLTGluTG5sVFI2c2w3bXRLLS1ERmVzdUR1ekQ2MGVNRU45TFFBNnIzQWc?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 12:20:04 GMT",
-      "description": "Meningococcal B vaccine linked to lower gonorrhea risk Medical Xpress",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "meningococcal",
-      "vaccineLabel": "Meningococcal",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1072,49 +1124,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Pediatricians and Health Departments Sidestep Trump’s CDC on Vaccine Guidance - kffhealthnews.org",
+      "title": "Pediatricians and Health Departments Sidestep Trump’s CDC on Vaccine Guidance - KFF Health News",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUmtJakpGd2NvUHd1alIyLTBwRExybW9pV3piTzl3S0ExWUVfanJLRkhwNWZVaExkdU43cG1PVURsQUF6a3lWZU9WckY5cURfTkd4aVNXR3ZGeXBSa3ZoT29uSmdfYzAyUHJUelFqelg0b1VqcmJKUGx3bnV1S3NUcmJIN3lFSGNnSzNGR0o1VGd0QThEWlJMUENNVk1mTjM3V1NveExRd2NkbF9NMHc?oc=5",
       "pubDate": "Wed, 05 Aug 2026 09:01:24 GMT",
-      "description": "Pediatricians and Health Departments Sidestep Trump’s CDC on Vaccine Guidance kffhealthnews.org",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Vaccinating Patients With Immune-Mediated Inflammatory Diseases - Cleveland Clinic",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWkEwSVZ0SllZelpuSFZuYWlMcHI4ZVRENkF4OE9rQllXRHh5RFY1RmZ6X21DR1FoS1FUajRqYjZWTV94MF9jU29MYjVER0FzQ2lDRUVLRUstbG9NcFFleWMyNkloWWhzcFN5VlZYLTViWFdIM0kwZ3liRlRIUkJpUXNPSHBLZ3o3Yml5Z1M4SW9waFRrb3FxcXpoSkNvbmVQRmF1Mw?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 05:26:44 GMT",
-      "description": "Vaccinating Patients With Immune-Mediated Inflammatory Diseases Cleveland Clinic",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Child vaccination rates continue to fall in Tennessee - WKRN News 2",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOVUtcl9jWVFzRGZVVXNuckRIcE1xdUdTcGw2REtiUW1lbnpSWkpvam9GWWxEUkhtUlRxNnlHRGZYa1lieGNEdUtra1dKNjNNU21wWWNJWDcwZExyZWcxMUc0a1hyczZPaXBNelFVTHNVQnFHbmdXTVRkWlIxTkdYTFZ3TG5tY1E3MVdZdllEaUVqdkJqU3g5OF8zY9IBoAFBVV95cUxQVGRtTjhjQ2N0clFacU1Ia0NHMzNYclpOTUh5c1VpMWgtb2dMeF8zeGtXMjBvdXd3ejV3dVJndUNTTG93SFQ3YndVTERrVlNJdGpFdjRtLU12OFNWY2IzVU4yaEZlNGtwRmhpdklzMzB2MmdiV0NqMjdFVWZHN2pZN202T08tZS0xNFY2Q2JmVjlKTVh3NlBnaHp5VFYweXdP?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 23:30:20 GMT",
-      "description": "Child vaccination rates continue to fall in Tennessee WKRN News 2",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "South Central Public Health District offering back-to-school vaccine clinics - KMVT",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQjVxTk1rckpOcnBEM0pKdVlXR3I4bUpXekFZZ0xJdGlhT0Z0SUlEdGVqQU9ibWxNLVd0M21CVzk3N2xhZmRCOExGeExMZTZHLWFVTExxamVWWG82VXF5TDA4TmhKMTNIWWRGR240bFMwTlc5UThoRVJhcklqQjE5UFA3d0p5a2NDOS11bzZyM2ZJM2FzcFZJdmUtUjhyemZLMjBZTE1SSi1abEdVanfSAcIBQVVfeXFMTU1nZ0RPeTR2YktHU1dkUGJieEM2YXpXV0dtNWJIdzBpZU5nb3A0TzE0RmFKc0xvczZFRmd4U3NVT2MyYkNYOWM1ZGNDQUd0b3YyQ01qdmZTWmdVdXJrQzZKaTAtamlzbnR0Yjc1UEJYeGRJZmNQXzZHNElnQS1VVnpYQzNkODFINzRlYTBBTGZEQ1ZCd0NteTZHOTNyRHRDOGp0Y0dPbWU4Q2JDbDRuRWFpeWk5Ukctc3cyck9GMHBpd3c?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 21:59:00 GMT",
-      "description": "South Central Public Health District offering back-to-school vaccine clinics KMVT",
+      "description": "Pediatricians and Health Departments Sidestep Trump’s CDC on Vaccine Guidance KFF Health News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
