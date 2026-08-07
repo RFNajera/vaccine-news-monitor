@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-07T21:39:23.557Z",
-  "itemCount": 94,
+  "updatedAt": "2026-08-07T22:38:52.928Z",
+  "itemCount": 97,
   "groups": [
     {
       "key": "covid",
@@ -23,6 +23,11 @@
       "count": 1
     },
     {
+      "key": "chickenpox",
+      "label": "Chickenpox",
+      "count": 1
+    },
+    {
       "key": "mpox",
       "label": "Mpox",
       "count": 2
@@ -35,10 +40,49 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 46
+      "count": 48
     }
   ],
   "items": [
+    {
+      "title": "FDA Approves mFlusiva, First mRNA Flu Vaccine - Everyday Health",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZi1MbVRFSHZ2WTM0eFZaVDkyNktlRTEweTREUzNndmJNekhaOHZzTkhzR2ZkNGcwN2VRSTB3R203ZU5YTmhGOHI4UU1NT1lvLXY5Ym9Qc2F2Sy1TY25ZcXluMXZHN2xNTUhRZnk2LVU2d2F4T0R6Y19oVHZ3amxxWXJHTnZ4VlJJWGttaWJwOWVEV1diTWtldEdLNUhwX0IwSmtHMXBqNmR5aG9vZl9hbQ?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 22:28:04 GMT",
+      "description": "FDA Approves mFlusiva, First mRNA Flu Vaccine Everyday Health",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Ebola response turns to Merck vaccine, Gilead drug as Congo outbreak worsens - The Spokesman-Review",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObmtPTFhHSjE4TEtQT1Znck5ZRC1DNkd2V3RZOW51MC1xVHlUZFpGOHJpYi1Jc01HN1pMYTR0WE4zaURBZHlPUEJtb1c2Q0FPTG00TTVBMHBxb1hRZ1F0N0xydThmQ1VMSFNwb0tVclZyQUtuSFE0c05hb0dfbVdKLXV0dnc1NW56cFdaZENOVHVUZ3luRWdwRC1rUW1CUQ?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 22:24:11 GMT",
+      "description": "Ebola response turns to Merck vaccine, Gilead drug as Congo outbreak worsens The Spokesman-Review",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "FDA approves a new kind of seasonal flu vaccine - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcVdNWXoxNU41VmEzSDBTQUg1NFdPaFNmcHczc0RmQ19pQWppZTZCdXNuMC0wVVZHV2lNUTFkVkxfMExGMDdoN2ppM3VlNlBoLUNXRndXcy1kcW00QldNNl9EMGNST2dHVkNuMVlBeWxINEV6aElKOEJ2Q28zRVZ4emJ5TXVENHRwZ1VWQVo2RQ?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 21:43:00 GMT",
+      "description": "FDA approves a new kind of seasonal flu vaccine CBS News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Q&A: Dr. Robert Kim-Farley says anti-vaccination movement could spread more than just misinformation - Daily Bruin",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeXA5UWZ1UjhuTXZVZlBBaS1IV0VRUGlnRFpiZkZudDhINFdhT0dDSW9WN1RtMjVHUGVXREpHeXNGWm9hbWVaS1FnY1BtTi1jZTVoUWMzNmJ3WlU4UnQ1a2pzQm1UOFFnZ0xrUG5sZl8tYV9wTGlKQ0VMbzZ6Mlk4VXgtTklzYTBzYnc1TF9idjlJUVlMUmFxTTVwVXU4c2xISkhDcFl0MTV3SVQyTzBXZ3NXNjVqN0I4RHRCWVNfaUJiVWhGRVg4ZVk1SQ?oc=5",
@@ -49,6 +93,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Model Thought a ‘Spider Bite’ Was Nothing Until She Was Diagnosed with Chickenpox Despite Being Vaccinated (Exclusive) - People.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZXQyRHpmaVJWN0g3bmlLbUcxbEM0OXQ4bG9kNFhkVDZLMjVyWXQ1LXBzWlVSYkpsWUtfMXdjdWUtY21pZkZsTTRjYUdMWDNoTVRmMTczZWxRb2JucldNSWwySzBHbFJEa2ZVUW14LUY5dko4Qlc3dEFZNkY1SlNGenhLaFBnaS1OSjJ5eUxZNmdEQVZPV1pfSnd3UEhZWXJYZ002cHJB?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 20:46:21 GMT",
+      "description": "Model Thought a ‘Spider Bite’ Was Nothing Until She Was Diagnosed with Chickenpox Despite Being Vaccinated (Exclusive) People.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "chickenpox",
+      "vaccineLabel": "Chickenpox",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -107,7 +164,7 @@
     {
       "title": "5 things to know about Moderna’s new mRNA flu vaccine - TribLIVE.com",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU1B1d05sREJSeWFiVTdlNlFqckRmd3YtR2piVkZGQl9EdFUydjJjVmpORTZ1a0lKUXU4MGZmRFpDajBsb0VoVlB5dVJ5ZGlTTUY0b0VtdnFzMlpwRWZMWU9JbFQtUnNYX2gxWGtLdzBPaUl2QlJqSHl6UDhDbENvTGV2dThyWjk0OU41cXlmNHVldms?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 20:18:09 GMT",
+      "pubDate": "Fri, 07 Aug 2026 20:19:06 GMT",
       "description": "5 things to know about Moderna’s new mRNA flu vaccine TribLIVE.com",
       "source": "news.google.com",
       "sourceType": "news",
@@ -196,6 +253,19 @@
       "articleLabel": "Research"
     },
     {
+      "title": "Ebola in DR Congo: Childhood deaths rise; hopes raised over new vaccine - UN News",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOejZWcFZNM0RhakNoQjRMcXFsQ21vSGtmdGVGdWp3SjU2dzRud1BfQmtVaWlvODhVTmVIaUhDRFJMSzEzQ1psSVZFczlFTloxY0FVaXdpRQ?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 18:18:43 GMT",
+      "description": "Ebola in DR Congo: Childhood deaths rise; hopes raised over new vaccine UN News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Why Nova Scotia was chosen to test a new Ebola vaccine - CBC",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdnBsamlxc3ZtVDFETTBIWnlSdjdRWUtqcFY5Nm5JVndvQVRrY3VSY2JfUkRvSmw0WGNXcGoxUG14Q0RPbjM5Wk9Kd2QzQTRTZGlrenVxWmlxSW82MloxclJzcEVUUXV1ckgtakdiOUV5WU9GVlBYNjZxd2VwejlQX2ViaFJBdnVLVEc4YWs1UDI2ZXNKbjVQSGhqNXlZLW9UQ1YzQ2d6NFM?oc=5",
       "pubDate": "Fri, 07 Aug 2026 18:13:34 GMT",
@@ -248,10 +318,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Will the new pro-vaccine CDC director clash with RFK Jr.? - MS NOW",
+      "title": "Will the new pro-vaccine CDC director clash with RFK Jr.? - ms.now",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQXU5OV9qOUFUWGZPQU5ObDJiT3RTR3NtZzNjQk1CelpiZjEzelQ0dzAya1pQS3lKUS1QZVNWU2JZR0lKRkVVYUkyT29hMkFsRXprSFlXV2hSZzZfV1l1UGpiX3lOTExkMDJ4X3hudm5PVWNKaWpXT3lWLTJScjQ4NjIwVmxvQnFEMUEwXzNNOWhMbVVIQnpRcllnTl9QdldWYmZJVEdLRFc3QQ?oc=5",
       "pubDate": "Fri, 07 Aug 2026 17:52:22 GMT",
-      "description": "Will the new pro-vaccine CDC director clash with RFK Jr.? MS NOW",
+      "description": "Will the new pro-vaccine CDC director clash with RFK Jr.? ms.now",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -495,6 +565,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Pennsylvania grocery store pharmacies offering measles vaccination - ABC27",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOckpIY0V0MmVRUWwxZWdJTXlacGFZXzFEeHpBdnlaUnlxdHZnQ0VfMElKay1td3JzRWpBTWV3MTEyS2dVN1NqTWw3NU4yczNKNk9FSU9qX2VORHIyNk1kbEdzSVNWRTZVYzV6WjJpWVpUQUhFTHB0Q3JhSzg4SmZwTHRlR29yVmpxUDlzR0FqWDl4eUJkaW9FeEZtSUJhdXVRcUlaR9IBqgFBVV95cUxNcy15S19KZHZkTDJ3bzRPaGhvdENlVUFUeUpvM0JOdmdIWlMtdHkzcERyMDkwb2pidnZhdk9NUEhKeHIzb2JrYXpHbWt1Y0NidjRfYV9YbUJhc3FnZ1pOX2ZqRTFBR1luWFN4U0k0YmVnWGRtREttVnkzTXVnRk5nUVZMSUYyQVNQRXplZks1cEtNX3B1a1p1d0tjVkVTN1czcDVMTVE2aWd5QQ?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 12:38:07 GMT",
+      "description": "Pennsylvania grocery store pharmacies offering measles vaccination ABC27",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Albert Einstein to optimize RNA vaccine designs for pandemics with NIAID support - AllSci",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ3d0UkRlT3p6Smlvd3BvbUVwV2tsejc0SEJVOVU1UlZFT3RQRmRobUVZRnY2bHFjUmlhRzVleDgzYUNLUFBuSHhHLUswbzR5YkFZLUF3dnRqaF9GbzNvaDlrWWhjLUF6UC16cVlCMHd1c1FZbGstNlJIR05tZHNCTjVmbEg1OGZJQk5V?oc=5",
       "pubDate": "Fri, 07 Aug 2026 12:34:07 GMT",
@@ -625,10 +708,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "White House drafting order on vaccines, autism despite pollsters’ warnings - washingtonpost.com",
+      "title": "White House drafting order on vaccines, autism despite pollsters’ warnings - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaDJZZXM3OWZLVkNjRmlSVEZNZzlvV1k4cXhHNFd0LUItQlRmVV9PSzRFWnBhalZwTEg5UVhTQy1BVFY5bG5LMUpBWFRBdFNfZ29CQzdma3RqaEkyaTFZd003MFIxQ3BfZWVmcmphczNzZTRweGltdjlfczZFQlRNLWgxVWtmR2RWLWRDTVlTQTRzdVFZTWdDbmtKRVFVajVqcEJSNUZYRWdIV0QxV3pwdnNmN1JQSWtVM1Vv?oc=5",
       "pubDate": "Fri, 07 Aug 2026 04:40:21 GMT",
-      "description": "White House drafting order on vaccines, autism despite pollsters’ warnings washingtonpost.com",
+      "description": "White House drafting order on vaccines, autism despite pollsters’ warnings The Washington Post",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -647,19 +730,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "For Moderna’s Greenlit mRNA Flu Vaccine, Payoff Is a Ways Off - The Daily Upside",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWS1QUFQtSmxjYUk4R3ZtT2tDNkMtdnZMeUprVGlTMjFIYW1Pczc0QllIb1hFTUNWWnZRR2h0eDVoT1FubkJkYW1VdFZJZXhsM2k5cWcydlZuckVjck1GNDh1ZW9QNk0xZHpFaElnaEFhZ3ZXTHBYbTN2bWszaFdvTjBpZ0Q1UGc4bXV1UnhZWmZFUFl1eERBM19lYVpGZ1JhWkZMWlhaODFqUkZxWTlWQXJ4b0lZZXpiMVpHeU01Rko0U1RIbWNOeg?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 04:04:03 GMT",
-      "description": "For Moderna’s Greenlit mRNA Flu Vaccine, Payoff Is a Ways Off The Daily Upside",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -690,10 +760,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "FDA Approves New, More Effective Flu Vaccine From Moderna - people.com",
+      "title": "FDA Approves New, More Effective Flu Vaccine From Moderna - People.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRFd6TkNWdUdXeVhVcS1hX1M5YWdWMmp3Mmlvc0hQODAtS3MwbU95TXhldm5Kbk9sbG1kNmNLTG5YV1lxT1hRWE5ydTNCeHNxVGt4RFEyb2NESVBkb2NoVnhYT2J2NzZuZVdaSEt2MUJQQ2FfTzN3S3BCdXZETlVLRXNFZmZHQjc5MWZsbg?oc=5",
       "pubDate": "Fri, 07 Aug 2026 01:46:28 GMT",
-      "description": "FDA Approves New, More Effective Flu Vaccine From Moderna people.com",
+      "description": "FDA Approves New, More Effective Flu Vaccine From Moderna People.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -781,28 +851,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "SC vaccine requirements updated for the 2026-27 school year - live5news.com",
+      "title": "SC vaccine requirements updated for the 2026-27 school year - Live 5 News",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNakl4TWc3SWFOYmZxRVJTbmtkaUtXcWF1R25iVUk5cjlaenJQbXVWZ1pPTk1lVEVIbU1rc1pDMHpjWkU4aFgyanhYR0NXa0VOM3BhNkpKd0VHd0dLNWg5aTlQNjNoN2dQZlBpS2VobXRKUXh4bEZoSGxwVC1IM0pTWUJWQXdqQV9CWXczcld5ZlNCSDTSAacBQVVfeXFMTi1HS2p4M0pfS3N5MlpvR2hJbVJPWm9MOXVjdkVBZFdzOTF4dU9sZmM0bm40cEdPVTdmWHpEeFJsZ25mczJMLURmRDZzNE9hN1RjLW9jejRLbktVSzZhazdFemZOYmhlbUEyaVBZZk9TVEJab0txSTFPelhpYXNKSU9fUE84RXZRUklFQXJOSWdJVnM1cWlHMU1WUk1EdXVJWEt5VE1NcTQ?oc=5",
       "pubDate": "Thu, 06 Aug 2026 20:50:00 GMT",
-      "description": "SC vaccine requirements updated for the 2026-27 school year live5news.com",
+      "description": "SC vaccine requirements updated for the 2026-27 school year Live 5 News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "New mRNA flu vaccine expected this fall after FDA approval - WBFF",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMzdfS05teUs5ZEZnTXl6MlpsTzVfYzYwUEVpWDNOdkFYdENpV0JYd2ZteS1zeUVaOWxPMkF2Q1ZWTDBBbzMzaUdmeGlTcE5qRXd2VFRvVWFzbjBKMDhsbjhTcmhkWjZSZWVYZHpEYlFNcGpseDNuYmFLLTlJdHdzNGVzRVRMZWZmRDFEOU1qQmFRWGpudkdsLXEwN1RnYWxsaXRv?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 20:46:50 GMT",
-      "description": "New mRNA flu vaccine expected this fall after FDA approval WBFF",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -833,10 +890,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "FDA Approves First mRNA Flu Vaccine After High-Profile Reversal | National News | U.S. News - U.S. News & World Report",
+      "title": "FDA Approves First mRNA Flu Vaccine After High-Profile Reversal | National News | U.S. News - usnews.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcnFjTFVkSzl6SldnR1Ayb0FyckJRMnhrSXAtbU13YW5Gc09NOFNnSUE5WXNhVnVvRXlRNjFKWWJtQzF3MEdSUEwzamxKMDdBcFR0RUN2Q0hVY1NZTzg0WlBNRU5qS0xNcFcxcWgtYlI4QUtsY2FvTmtKekNYeXJDUGRMVzhISjhoNW1xWmZldW5xWEZfdTltc3IwcGlMeGMyOXVuX2FXWS1kLUlicF9nUng0V2FaZHZia3VFc0hRWXE0RXc?oc=5",
       "pubDate": "Thu, 06 Aug 2026 19:19:00 GMT",
-      "description": "FDA Approves First mRNA Flu Vaccine After High-Profile Reversal | National News | U.S. News U.S. News & World Report",
+      "description": "FDA Approves First mRNA Flu Vaccine After High-Profile Reversal | National News | U.S. News usnews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1028,10 +1085,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "FDA Approves the First mRNA Flu Vaccine - Time Magazine",
+      "title": "FDA Approves the First mRNA Flu Vaccine - time.com",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Kel92N3ItUjNTaXJ0MGtDSXlTNzVmMFRBNk1iYnY5NlJjd2ZyZWN1Mks5aTBCZWdrakN2MlhLc19fTFl0OHBGT1hQamZLNmtTWEw4Qk0wUVlQeTFvX0JPMEJDMXl4ZS00eHB1dmNQM01JbndBdXZ6UER6R24?oc=5",
       "pubDate": "Thu, 06 Aug 2026 13:42:42 GMT",
-      "description": "FDA Approves the First mRNA Flu Vaccine Time Magazine",
+      "description": "FDA Approves the First mRNA Flu Vaccine time.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1054,10 +1111,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "One year since Kennedy canceled mRNA vaccine projects, science shows how wrong he was - STAT",
+      "title": "One year since Kennedy canceled mRNA vaccine projects, science shows how wrong he was - statnews.com",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IT3FFVjZtMTdZckEtUjFWaE9rY3pTWjl6R1d1SEh5X05EVDE0b1ByRzRRV2YzU29uWXJhVWFQUWF5M0tDRUFuRVhXcU5pTGhwYjZqOTVnamlqTzdBQkxVenJqQ2x1S2lhQjdRVDFLTWtCQ0p6dUY1Q3lMeHhfdw?oc=5",
       "pubDate": "Thu, 06 Aug 2026 12:15:36 GMT",
-      "description": "One year since Kennedy canceled mRNA vaccine projects, science shows how wrong he was STAT",
+      "description": "One year since Kennedy canceled mRNA vaccine projects, science shows how wrong he was statnews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1106,10 +1163,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "What to know about the first mRNA-based flu shot approved by the FDA - washingtonpost.com",
+      "title": "What to know about the first mRNA-based flu shot approved by the FDA - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZy1VUm5MbFRub0ZCbWpkejdVa2tXa19xclYySnotZHRvZzIxamJ5S2I4eGxlb09xTkdON3Z4d3A3ZXVnajZKWm1JTm5VR0l6aU8wSDU1NzdWbTFtYjNqWi00a3RVVzNVLTZVa0drRXhQenNia01TaEFrOWtRWU1QUHBhN1dyZnR1UmFDM0l6LUEyNnlTb3VZb2dZeGxHbmU0dTdLX1ljcVJJekZHaUVKczk0UFdnUQ?oc=5",
       "pubDate": "Thu, 06 Aug 2026 05:26:00 GMT",
-      "description": "What to know about the first mRNA-based flu shot approved by the FDA washingtonpost.com",
+      "description": "What to know about the first mRNA-based flu shot approved by the FDA The Washington Post",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1171,10 +1228,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "FDA approves Moderna’s mRNA flu vaccine, the first to use the technology - STAT",
+      "title": "FDA approves Moderna’s mRNA flu vaccine, the first to use the technology - statnews.com",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNGFVaUhCTkdIUG9BUlNQb3NqWmZ6WUpiN2Mxd0twWFhoTDJ6ZlJjRlNCUXkyWXJpUmt3T1BlZFJ6bklNd0xoOVBIZXRycV9TSG9oNUFLT09TRFZQVnR6V2lkQjU3OWttbkcwaUV6ZnJ0b3FQdjFadVBXQkpWVUNtNnl4UFd6bmpkTVd2YmhDQm1Ub28?oc=5",
       "pubDate": "Thu, 06 Aug 2026 02:24:25 GMT",
-      "description": "FDA approves Moderna’s mRNA flu vaccine, the first to use the technology STAT",
+      "description": "FDA approves Moderna’s mRNA flu vaccine, the first to use the technology statnews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1197,10 +1254,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Texas AG Ken Paxton investigates American Academy of Pediatrics over childhood vaccine recommendations - Click2Houston",
+      "title": "Texas AG Ken Paxton investigates American Academy of Pediatrics over childhood vaccine recommendations - click2houston.com",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTk1TVnhoYVR4S0FZSTFKcEpZS1BWODR0SU1Jc2xiNS12X3B5c1B3VktHVURzS0xmNGFIVHpJelhmSFY3MmZZSXNBME8tTjI3UFlOZWRJbmJBem53OTFsLWtjRm1icHR0bnlpQ2d4UkdJR0dWUC1hZUUzNWNLVDExUG52ZnFoYVYxaUdtb1ZTcVZPMHV1OHB5VUpxR2tHUElJWGRQZGhoalpXN1ZzNnd4cTdGaURLeHo0UlYwbU9RamtxMUZUMjh1Z3Q4NjNUdzlKZW00alJhTTFEWHZzU2FoSjYyYVZvTGpXNk5N?oc=5",
       "pubDate": "Wed, 05 Aug 2026 18:15:48 GMT",
-      "description": "Texas AG Ken Paxton investigates American Academy of Pediatrics over childhood vaccine recommendations Click2Houston",
+      "description": "Texas AG Ken Paxton investigates American Academy of Pediatrics over childhood vaccine recommendations click2houston.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1223,28 +1280,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "U.S. Disease Tracker Launches to Strengthen Monitoring of Vaccine-Preventable Diseases - publichealth.jhu.edu",
+      "title": "U.S. Disease Tracker Launches to Strengthen Monitoring of Vaccine-Preventable Diseases - Johns Hopkins Bloomberg School of Public Health",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMkMyMV92U1B3a2RHR1BQckdpMUtsX0JNOXUya3dnbGF2eTBORnRHTjhyZ1NoRHZjMTVLa25QRFdxZjZHWjh2a0ZVX1F6NXEyNlZEaXoxd0h1VUdjUjRwTExxcjd2R3ctMFFZWTRxd1A0dGY4c2IzNy01YkVqLVBYVXM3WXRVa2QyYkllUXhLV3dISlh3TmxTUmxFSExveWVPdGxrZW41VlZYVDNvLUJDd3dJT1NuOUFobFd2RWZmUDk?oc=5",
       "pubDate": "Tue, 04 Aug 2026 16:24:49 GMT",
-      "description": "U.S. Disease Tracker Launches to Strengthen Monitoring of Vaccine-Preventable Diseases publichealth.jhu.edu",
+      "description": "U.S. Disease Tracker Launches to Strengthen Monitoring of Vaccine-Preventable Diseases Johns Hopkins Bloomberg School of Public Health",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "RFK Jr tells US families to vaccinate children against measles amid outbreak - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZMU9OZ2liMWJPUmUwLUlpZUVwVkRRbTBCOEg0ZXBpQ05kZDVsQVdnMTBaby1tM0kyWG1jTjd6N05VT09BREVVT1NGbkZIbkJUb0FoUmxTTFNsT0czNTVfWjlXR0tQOGg4MzFjdVpDWmRyZ00tbmxERFR6VXE5SGM?oc=5",
-      "pubDate": "Sun, 02 Aug 2026 18:28:00 GMT",
-      "description": "RFK Jr tells US families to vaccinate children against measles amid outbreak The Guardian",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
