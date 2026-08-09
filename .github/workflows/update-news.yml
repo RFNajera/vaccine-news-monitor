@@ -2,7 +2,8 @@ name: Update vaccine news
 
 on:
   schedule:
-    - cron: "25 * * * *"
+    - cron: "0 8,15 * * *"
+      timezone: "America/New_York"
   workflow_dispatch:
 
 permissions:
