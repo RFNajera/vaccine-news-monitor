@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-29T12:12:27.435Z",
-  "itemCount": 90,
+  "updatedAt": "2026-08-29T19:06:52.892Z",
+  "itemCount": 89,
   "groups": [
     {
       "key": "covid",
@@ -20,11 +20,16 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 14
+      "count": 12
     },
     {
       "key": "hpv",
       "label": "HPV",
+      "count": 1
+    },
+    {
+      "key": "polio",
+      "label": "Polio",
       "count": 1
     },
     {
@@ -35,15 +40,171 @@
     {
       "key": "shingles",
       "label": "Shingles",
-      "count": 5
+      "count": 7
     },
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 52
+      "count": 50
     }
   ],
   "items": [
+    {
+      "title": "BioNTech Terminates Phase 2 Autogene Cevumeran mRNA Cancer Vaccine Trial in Colorectal Cancer - Oncodaily",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSSWlqc2ZVaVRpU0tMbk8tYkkxVUxsbjVmNG9UZVV6dEQ2NnZnSzVSem1hX0VwT2psT0Ixb0hYUmdWbGdDUXM0WHpMUDN6WVp2aTRndkw2S3RIeFZuVElB?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 18:45:55 GMT",
+      "description": "BioNTech Terminates Phase 2 Autogene Cevumeran mRNA Cancer Vaccine Trial in Colorectal Cancer Oncodaily",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Why vaccination is essential | READER COMMENTARY - Baltimore Sun",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMX25KWkhIV0ZzTlQ2ME1KM2pKRmNQWlp0RS1LZ2NvQnZ1QXE5WUc0clNIRTgyeGpGUC1UVjV2ZWJrRW5JRGxmdVo2NWV5VGFBbjBrcUxwamFsQ1VPOTZ4MnZyZzlaQnZNVURPU3hVaHBsNTlVN0xhd0Fn?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 17:12:59 GMT",
+      "description": "Why vaccination is essential | READER COMMENTARY Baltimore Sun",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "opinion",
+      "articleLabel": "Opinion"
+    },
+    {
+      "title": "Updated COVID-19 shots cleared as health groups urge vaccination - FOX 17 West Michigan News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNjVjMkVHbm5nNmtNZkpCQWZNQTBkWjdQbDRQYzUxdlB2UmdiYlVyc1JCSG5FN0dCZ0dMbVl5RmU3MGQxUVVJNDFaTkpzQU9EQ3pGYWdQUTJoa05BTnV6dUZuZjNaa294NGlYZnVxa2g4TmZBbXg0OWxWVDFhYjBidV9NcjBlajA4NzhYemxVaDUyY2IyaWRZano1RnZfR09tWVpTSFNPbE50TmlsUHBiUTlsYUI2UmRNelE?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 16:51:03 GMT",
+      "description": "Updated COVID-19 shots cleared as health groups urge vaccination FOX 17 West Michigan News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Sources: Taliban Ban Door-to-Door Polio Vaccination in Southern Afghanistan - 8AM Media",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZndIME9SQ2M0NndfSjhMUmhQZy02eEF6MXp6X3ZraEVDRnRWeEsxMkIzZm14Q1h6V0RPdG9QRHlzeEtCam1sT1JOREtrVzRScGNidmxjT3lUcFdFdGM0bDJWdlh0MXFyQ2xNdEFMZHVGbDJzWEhWOURDVFB3Z3E5RUhrZDdEOXpnTW5BaFlNb1FtdVlsZGoxY2JFNU9UZw?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 16:36:59 GMT",
+      "description": "Sources: Taliban Ban Door-to-Door Polio Vaccination in Southern Afghanistan 8AM Media",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "polio",
+      "vaccineLabel": "Polio",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "The Shingles Vaccine May Do More Than Prevent Shingles - Global Biodefense",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDJ0U09PQTZnQS05MFJKLXUxNTdaRzRpWmxXQnlhT2tybG5hLUNuVlZmTzZVNjIwMDFkQXZlYkw4NHJJRHRzMHhxYVV0TVdhakdDNWx0RWVCZnB6WGZmNmlxd3poM3lWdkRma2tRWkFtSEt4cW05TEIxaEFibjNwdXpjU1p6UFZFM0lmbDlJamxiNzdnaVF0NE9MWQ?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 16:01:04 GMT",
+      "description": "The Shingles Vaccine May Do More Than Prevent Shingles Global Biodefense",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "shingles",
+      "vaccineLabel": "Shingles",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "The Extra Benefit Of The Shingles Vaccine, How Vitamin D Fights Diabetes, And The Quickest Way To Form A Habit | Medical Notes - The Black Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOHp4T3pDWVhiTElIalluTUtvVzE3TUdVdG8zTmZWa1FIMU91Q1N1SFl3NU0yYTQzQWhRNWJtZmp3UzFDTEduV3pOVDZXcEs4bl92UnZxQ1JFVTI3VkYxX004T2EyWjlaSVo5alo2d1hmVFpiYWg3X1hZemo0TU4wV1VsUzVGWlZYazBHb19lTjdHYU00T2VMblJDM2hCbEg3SEpkRjFzRlhzWVBNeUlCbVFsald6aUNWX1R5MW9vdGZZY1BXc1Vzek9nZVJsek9rbFhvQk9vMzEwM3Y1b0ctdG5lV005by1kVEJB?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 15:44:44 GMT",
+      "description": "The Extra Benefit Of The Shingles Vaccine, How Vitamin D Fights Diabetes, And The Quickest Way To Form A Habit | Medical Notes The Black Chronicle",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "shingles",
+      "vaccineLabel": "Shingles",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "California maintains school vaccine rules despite Trump order - Times of San Diego",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNVkxejczQW04RVlVaW1VVE9PaVlRa2QwWWhHWFVHMlF0VzFwVEMwakVNdlBfd3E4Y2hNTFlEanhxcDBBRjN0R0dJUmFseGV1UGY3bjR6U3ZFby13eUJvQnRjY3o4SWh1VkZUNXRKdUpERGVvUDR3dVhFNFY0anhFRWptLXNaZ2NsdG9Wb3FMRlh1Sm1EUlhWTEVodXhrY3ZCY1YwQnBJdnNtUEhl?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 15:00:00 GMT",
+      "description": "California maintains school vaccine rules despite Trump order Times of San Diego",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Did Repeatedly Nudging Worker to get COVID-19 Vax Make Resulting Injury Compensable? - WorkersCompensation.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUHRSZktvei1ablVXMzBoNzEtN2J6UVhHU041NmQ5Y2JXajNmcnBnSnM2Wkx6ZHJwNDdlQ1pNUFlQaldQUnVlNzh5TWxHbkNHcHZGSDdvNG1NZG5sOU1tcWd5cHhLT1c4MEJoRllNVjNPcU1VdFh3eUVTN2lHQ2JmR0s1cWRoNVg0eUNPcUR6c3dvSUVGTThJZ0x3NWtLRHc4cWpaYWdMV1ppUWFZclk4VzljaS0zb2JqS0ZyZjhkSEZlVDNjR0dpdC1YdFRuSi1rSUE?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 14:28:15 GMT",
+      "description": "Did Repeatedly Nudging Worker to get COVID-19 Vax Make Resulting Injury Compensable? WorkersCompensation.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Kindergarten routine vaccination rates continue to decline - Lake County Record-Bee",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY3JHYW9sekdlV2k3dDI5cWlmR3JyN0FmY3dSRzR1ZUZDMmV4ckgwWml1RWVKQW1fSlhqMjY0QzBtZ25XcWNGQjlGVW11bjAyZ2FwZEZ6Szd0WF9mU3FTbmU3QWpoQ2VINzd0cS1JWnd4NEplaDE2VnNZVVdmNUlpQzVMRnp3U2wtS1kyNl9vRC1aNGo0VlZzY0lEOUYyUQ?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 13:35:24 GMT",
+      "description": "Kindergarten routine vaccination rates continue to decline Lake County Record-Bee",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Q: There's this long standing anti-vaccine culture particularly in the North... is it part of the cause why children are not being immunized? A: Former NHIS boss, Prof. Yusuf Usman responds Watch full interview: https://youtu.be/iTfgjgoAjjk #trusttvnews #diphtheri - instagram.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtN3pTUXR0S01mb3Z0YXFhRGtuSlcydnp2ZEF0YW5EY1RaZGJfVm1razRBYmZwZUFka0Rhc3ZvMnBxeVBBZExwYUFkX1hmQUtENFlOYlV3?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 12:32:43 GMT",
+      "description": "Q: There's this long standing anti-vaccine culture particularly in the North... is it part of the cause why children are not being immunized? A: Former NHIS boss, Prof. Yusuf Usman responds Watch full interview: https://youtu.be/iTfgjgoAjjk #trusttvnews #diphtheri instagram.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Costa Rica Delays Yellow Fever Vaccine Rules Until October - The Tico Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeXBoOENHNlhEZUhBYjg5NDRKYlpQR3FZb2lVVEROTGlOQ21PbEg3LXV1cHA2SlJGaEw0QjNyQlFuR1lCREh4a0JlaG1QeU8wY0hsa3c0Q25IUHpYREJhZWxtX2VGZ2Z6VzdwMVVXMk1hMHl3bHhlV3VjTGRLTUxRXzYyTmg?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 12:22:25 GMT",
+      "description": "Costa Rica Delays Yellow Fever Vaccine Rules Until October The Tico Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Colombia ups vaccination efforts post earthquake - Outbreak News Today",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oTDVqdjN4RUJlanZyaHA3M1NtcUgzaFQ2Q3ZGdG1nWEZpXzdQQmJIMEVhbXR2dzlGNDRtQTNrd0huRFVnSkpMaXNrVk1CbURRamlkWXhSQnhYd2JEbWNsdzlGZGlDS1dDRy1JTnpKeVY1QnBJdWtzLTNQR3NzQQ?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 12:17:59 GMT",
+      "description": "Colombia ups vaccination efforts post earthquake Outbreak News Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Alina Comanescu: What are the Barriers and Enablers to HPV Vaccine Uptake in European Countries? - Oncodaily",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DeXp6U0t6WjVnSmNCdXRyLXpsSWlEdWxEUllEajVJS2lBUFEzSU9vOU4tWkExTGkwVVFuUm1JbGlRVG93a2s3QUZpWlo3OFpsUW9fZTkxOXc1SjlFZmRUSDhn?oc=5",
@@ -149,10 +310,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "What to know about the COVID and flu vaccines for 2026 - cbs8.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRzF0Y3FSZUxVV3pzLWlvRDJpdk9aTjBVRkFhSFRxUXdhS1hyQlV3eEZMWEVCLTlfZWJVank0X2tZQUNvU3RqQXI2VFBGd2FTdkpwUmRYZUhQU1RVb0NZOHVZRFp3Wm84MXJsYjlVbEdpdnNDWlRFT3FzUG45WnhYWmJjdXpYNC1iSkxuMVBLMWhxY25zWHcweERmdGxvZjhoNEtVc2tSOUJFb2tVRVF2ag?oc=5",
+      "title": "What to know about the COVID and flu vaccines for 2026 - KING5.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZmJSNVROTGpvUEtMRFlMQllSZkhmV01iM2M0UUFwVnkxdi1ZeTFMczNMdlJyZHROT0xFRUlFeUdVM2xuUlQ1RVQ5amttRzF0N0lvTnFLWVZ0VG43dG5oN1ZkRFNNRk4ySnVyZ0lpeU5nMUZaMkFwRWpzdU8zSlRCNU50RE1xdHFHTVVIQzhpQ0pELWppQ1JDeU55bGVQaXhyYmprZzY4T2RXMC1PaXA2Nmpn?oc=5",
       "pubDate": "Sat, 29 Aug 2026 03:27:00 GMT",
-      "description": "What to know about the COVID and flu vaccines for 2026 cbs8.com",
+      "description": "What to know about the COVID and flu vaccines for 2026 KING5.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -214,19 +375,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "A vaccine made for cancer could change how melanoma is treated - 5newsonline.com",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPb3gtVWhaSGtHc052NWFoLUJUTXBTNFVkN2o0dmNQT1NsSXo2UENuWkIzUU5hVlNzNk9zRnhpdHZnZFliQWxkdnVzeU1rUTlEZEQyVm80LU1SeHF2enNNZGVUZ1VjSHAxb2VDVUw0bHpxQy1BVU9hdnlMWVRFLVJqRm1MRnkxSGFUT01ITWRZYnl0OHBhVVc1ZjgzUFJyeFlnUm9aRTVESWF2bnZoaWtKZmpHMVgzYm5WODRtb1pVVU1CYm5DTWU2blg2NmNxMEc1Z3RQTk03bjhoMFpSVUlmcw?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 23:31:00 GMT",
-      "description": "A vaccine made for cancer could change how melanoma is treated 5newsonline.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "A vulgar anti-vaccine email got a PSU student suspended — the university may have gone too far, judges say - OregonLive.com",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdXZCbVlYNWJuYXN6RHRhX2xaUlNvVzdwQ1B4NDVoeXF0dlBBRXhLRVk1elpIWnJ3SFZ6N1lyR0Z6LTA2Z1I0UUxjMGtSTndzdDc5NmZVZ2lVY01wLS1ySXhIT192X2laS2djOVhBRUtkbXZtRVRDTjVsdzNfOHA0V3NCTmNnX0pHMXhyZzByREZYd1JMLW1QdXlMMDFSeGctVkF3eXRaNjZlSmhzYnFRNzBuMUtETzR5bFoya2lzUE5CLUkwUFJ2aFpFT01WY0NiOXp3ZzUtTmJUMXE5bUd6NVgyc1FWTTZZ?oc=5",
       "pubDate": "Fri, 28 Aug 2026 23:30:00 GMT",
@@ -253,15 +401,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "Measles Vaccine Policy Challenges for Southern Tier - WGRZ",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMU45eU1GWjdmVjNXZUkzWFVGYmtNaHRaaGllU1lCb3lfNHJPTV9rMFlURHhYcWI1V0tMN0JhS2ZUZU9zb3FvTXBfNG9YcFgxLUd5TW5Hd3oyMmlxalh6elUzeHBydlJTOEpmczAwM1pNSFY4OTRjX19vZjZwR2ppWC1PRmxVcFpvcGVzV2x0OV8tNGJlT05EaUhQNHVuMUZ5OHV2aktVQUFpNFQ0a0FJR19zUjFtSWVaSUNkRFVXUHFsakpSRDcxSmg1bl95SFkzTmNDS3g4R2FXVWc?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 21:32:00 GMT",
-      "description": "Measles Vaccine Policy Challenges for Southern Tier WGRZ",
+      "title": "Governor Moore Touts Vax Act, Maryland’s Lifesaving Immunization Requirements During Back-to-School Season - The BayNet",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZjlhb2tqU19qeHBJbko2UldBSVhNaEFtdHBFbVdtMjhwRl9WREhFaDl3c3dSNFFfQW93RTZLYWN4VUdhYlpVRUo4dVBHaFFzcmk2a081ZERBeFVuNVItRWw4djRFTnJJdVNHVmstdkpkR3FUZmNJcTBKdDViMUQtMkhaTm5EMDktVUtsSk1BTUJPMjdCaUhIWG9yaXg2QTZjZjFHY1hITWJoZUx4VGRwNHc5aUtuOFJwd2xlSlRRREVWY1FUVUE?oc=5",
+      "pubDate": "Fri, 28 Aug 2026 21:31:19 GMT",
+      "description": "Governor Moore Touts Vax Act, Maryland’s Lifesaving Immunization Requirements During Back-to-School Season The BayNet",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -318,21 +466,8 @@
       "articleLabel": "News"
     },
     {
-      "title": "Free rabies vaccination vouchers available Saturday - Panola Watchman",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd05RbTVhU0NyazJrV2p1S1I1VVZtQ25QZzJ1Q2JlSzJmX19YeEw0RFVQU29TY3dzc3E4V2FaaldKNTVEbDY4aXdSb2hSWkhFUEVuNlVJaFlRcWRUR19MbDR4ZDJySnNfcWt2cVMyNk12cXhGeG5HNVZsSHhwTnpDUGUwZ0FLZEZnNVFULWpJZmdFN3BD?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 20:39:07 GMT",
-      "description": "Free rabies vaccination vouchers available Saturday Panola Watchman",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Hope Florida report revealed, State pushes to change school vaccine rules, and more - WLRN",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcVFKLWhxXzZ4OFhFLWc5dDhwMTk1UFdXd01vYjFKb09sTTZ5SGs5VUIzdW1YLXU2QVNZMjQzTWxlS0FOOWhBQkxQSkN5QkRXR3dxVU51XzRYSVlDM1IzNFlCakk5NWJjRUU0UWpsSFExS2k5eE13b0t2NDdBSVNSZDFtNmpkV3A4cFVfdXZuN19OTTZ2bWtBNll1bXhlNlczVkRhdHZQYl9UVkt0RERXMzBoOTZEN1YxVWVuNHZfZFpoWEZYQUpUS0o5cTBJREVfbWNmSUQ5ams?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVEgxYl8zRE1UdDBzR3hpVm4tMlFMX1pKRmFObzkwQ1lvb1FZdktsc21EWkhqbUR4VFpFV3VSX19YbDRXNmpldTRJbFBnWS02RDZwNUh4QU9PaHJjVmlNX256UGpueU5BRTR3TkQtUWNCZzZRdnF5Vk1mRk1Kd1BSa295Qm52Uk9EN0U4TjhMRHJGTERqQlFDcTBUVGZvbDlNVlV4a082YktLaGFUZDBPUzZvMmpGMGRiRlRTcHU0NzRwUmhfUmhGUUdNaGJjdTlYRHdXRg?oc=5",
       "pubDate": "Fri, 28 Aug 2026 20:36:00 GMT",
       "description": "Hope Florida report revealed, State pushes to change school vaccine rules, and more WLRN",
       "source": "news.google.com",
@@ -396,19 +531,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Commentary: Trump’s vaccine order will harm public health - Indiana Gazette Online",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORDJuSVZpQ3FTUVBiRTg3M29KQjVoc08yUGItdmxIeGxxMW5DOG02ZEJaeWdvaUcwdWxZTWVHSURTUWZidXlEWXBmd2V6dmdVZmo5RmZuSXAtR0hvcEdLbWlxQ1hISXlWSVhhWXBMcHhleW1HeHJ1TjZDQTVENUphd284SXhfajdLdjBDX1k2ZnVDeUg1Vlc4cG1rbEVkazlyV1NDb19kMUxlQjdTaWZvWFdJem1sR0lkUktvMmVfc2NOMnpRRl9KcDh5MFBpS2p4Y2FBc2E4STBTcEZjT3c?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 19:35:00 GMT",
-      "description": "Commentary: Trump’s vaccine order will harm public health Indiana Gazette Online",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "opinion",
-      "articleLabel": "Opinion"
-    },
-    {
       "title": "Why You Need a Flu Shot Every Year, Even If You’re Healthy - West Tennessee Healthcare",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XQmFvN3J5X290d0g2NjhNMzFpTzdac2U3ankwTF9xUlhBRmN4VzNDaFZvNFlxeUx1TGxJVGNqYS03RUd0aFY5Q0V5QTNXM0FIS1kw?oc=5",
       "pubDate": "Fri, 28 Aug 2026 19:29:32 GMT",
@@ -446,32 +568,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "The Price of Forgetting What Vaccines Prevent - Infection Control Today",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaDd6ejZBQmdUbUNwS0U3eG84RnVVNjZfM2hDdGd1Zm9BS1NhWnZPOGdRWjBFWEdBc1lwZXdZVU1zamt6TkJtZzlQS0hfcW9BM0owSHpSMmZNTnNsVVRLQUJZeEFmZFR6QzJaczY3ZHhJZEMxM0NNNjBEaERMMVhuTHFWSnhubVND?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 18:24:44 GMT",
-      "description": "The Price of Forgetting What Vaccines Prevent Infection Control Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "BioNTech halts mRNA colorectal cancer vaccine trial after safety review - The Mighty 790 KFGO",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNEdOMEk0blliQUhZRkdMYTBCSF9wYWNESDgzLXI2LVVQTm9IckRZZEhMYm9nTncyY2hTU0NsNDZ6YTJwVjBxeUFxWVZfSHBiWHZsMDUxekoxaS1RYkZDUEtoREc5S0ZENWcxcTdYZzJZNF9nZG04UmpjLXZvdG9QTFltTlExZFdjSm9keHhQZlJfSVE?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 18:16:08 GMT",
-      "description": "BioNTech halts mRNA colorectal cancer vaccine trial after safety review The Mighty 790 KFGO",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "Ebola vaccination effort begins in DR Congo - CIDRAP",
@@ -552,32 +648,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Serotype Shifts Demand Updated Vaccines, Stronger IPD Surveillance - Drug Topics",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUy1KcHhFQkxsVktFOEpORWFibnYydGJqSGZpb3BNa0RCeVhZYm11RUh4S19adXFnUzcwSW9aUVVCeHFwWml5N2lWTDhuVDAzM25kNENDRnpQY3ZhTlE3Vm1LUExhcm1hWmYyYm1Lay1ycFBlUE9welBkOGF0MXBfdXBETmlFSWVQV1k4d1V3MEg0SXJaN3RUUHpNY1R2QQ?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 17:09:23 GMT",
-      "description": "Serotype Shifts Demand Updated Vaccines, Stronger IPD Surveillance Drug Topics",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Knox Public Health announces vaccination clinic schedule - Knox Pages",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOejhLbUdiM1FYSFpENS1scGNUMWE3S2d0NFQzbUxhalJzU1VLd3BaZEFNVndwNkF6RmlfQVplaDhMQnpKaXVoZVlabFg5UGZhZFoyb3NUMGRwSmR5VDdob2tTZFhwM0haS1JLS0FwVU1ha1ZEVGxqczVCbEFyQzliVTJHRm92TnhEd1BuaXJweTk5Q3VEM1lCTTVB?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 16:46:27 GMT",
-      "description": "Knox Public Health announces vaccination clinic schedule Knox Pages",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "African Bundibugyo ebolavirus vaccine candidate to be advanced to clinical trials - News-Medical",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc09TdFFVUnN0bXBwckVJQlVTOTNFZ2tZRVR6UmdyLTN4UnV2UDU1bEJmVUxEUHNmR1ZYSWsxbFVNaVJqWUJPZ1N4Q29PdGQ0NllSOGpqdTY1bTd3U1VTOXpIU1hTTjFNTXhHc2pXLVoySVhvZ2VDdlVEdzdGb3dsNE1KcklZc0tRVExycmJkLVFxcTlpTGxfYlZsS1Q1TGthbGpCbno1bFFtcDNPbEk2UkplTUlrX3RYTi1rN3lnd05uOGxpYlVFNw?oc=5",
       "pubDate": "Fri, 28 Aug 2026 16:44:00 GMT",
@@ -604,6 +674,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "After a century of failures, cancer vaccine hits major milestone - The Journal Record",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLWFPdzN5Q2tvMTJYMDVmSTZCYmd0NS1kU2FqTlBMalMyMW1ZU0FEcEFjZkJGX2ZoZTMzUWI2S2FOMzdWeUZiUmdRZWZXaFplVmVKWmVuV0ZZY21VY2hwU1piQmpQZ0NJajh3Nmt4WUZNaWo0S0xXZktKUVRYZmhsTjdXTjBhRUpJQ0N6NjNBcFJUXzB5VFRYSTRJOHREYlp3cWZN?oc=5",
+      "pubDate": "Fri, 28 Aug 2026 16:25:16 GMT",
+      "description": "After a century of failures, cancer vaccine hits major milestone The Journal Record",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
       "title": "RSV admissions among infants fall sharply following vaccine rollout - Medical Xpress",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR3pQQjFTUWoxOTFXUWp4N1ZWZEJQNnAtOEFoTTVNZy1jUkVNYlNZdlR5U1BmQnkwUUZ6RWtaX2tKMmVWTFFxMjZQYVczckpIeGRESV9Rb2NOd0J0RXc0SV91c2tIN0dGSnhxM3N6WE12NXpQT0lPVEZtRlZQWG4xaXlHX3hsZw?oc=5",
       "pubDate": "Fri, 28 Aug 2026 16:20:04 GMT",
@@ -617,19 +700,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Moderna (MRNA), Merck (MRK) Cancer Vaccine Wins in Late-Stage Trial - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQmdtRTlsbE9iUnFZOUROU2FNVXJITXpyRWwwOVdYcWZNV1U1QU51a3k2RDNFQjkwYXBVSmMtMWpLUEVYRWlTQXI2b1pRekt4czlfYlJ3WktmTVJSeW5xRUxSR1Q0RXB2M1luNFFCdHJQZUFpMC1tbGRWcVNyQ3JFMktaLURqLVNDRHVacEc4aGJFakZk?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 16:16:00 GMT",
-      "description": "Moderna (MRNA), Merck (MRK) Cancer Vaccine Wins in Late-Stage Trial Yahoo Finance",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "Measles deaths prompt vaccination reminder in Virginia - WHSV",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLW8xOS1VXzBvX3JZX0RaY2huVWtYMmlBYkFqbW1wZ2xlcnZ2MlA0NmRCcHlWc2hQaFQxcXhRb2lmb0dNN3FRazBSTW9EeUM2clZVZUFsekhIRklVQTNLdng3ZnA2SEd0MjhaejlMVUJSNjFzaklteEdDUW5OQm5yNEpwYWlfZldFV0ZjTA?oc=5",
       "pubDate": "Fri, 28 Aug 2026 16:15:00 GMT",
@@ -639,32 +709,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Everyday mental health tips for a healthier life - LiveNOW from FOX",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52bG5qUHh6R240ZDl3cEhUV29Jc1hRRVdmeGhRS1lXWXh2OTZKUVJWSkhJT3luNzZTbDFzN0txQk4xNjNfNnd1QnpvblNRbWF4UHY2aks3SDE5bUdlTzdpRUFCOEpRN1hmaXYtUkhzY9IBdEFVX3lxTE9meXpvbVFFbl91ZFl3SlRBaDNTT0EzblhNOG9XMFJVWDlZTUN6X21hNmlqVFQxdGZoUTZucW1lLXpFbGdoVVAySG9Rb2lMdF8wXzNOX1NKNlY2MmU1WjEtSUZFMjZ6TkJCTTdGMzdEZllpbTFt?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 16:04:23 GMT",
-      "description": "Everyday mental health tips for a healthier life LiveNOW from FOX",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Ebola Vaccine Rollout Begins In DR Congo Amid Continuing Outbreak - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTzBZWFE3aXJlZXVtZEFCdHFfbmhDXzIydFoyWHVEdno0aktqQUhyMERTT2NFVmtCRGlmbmNsMnpiXzh4bUl6TmZrVllUdzRTcjBNMWFSRjhXVWlNcHNLckpWTXgxdjNmdllwMTE0OWMzOF8wclk4WVp1aTFERFlRdWYzV2lRR3Z5TldLaThJdHdzN1pnTWh5UEdZX1dZaXR0czEycnE2dFpYY0xrTk91bFF2RWdCLW5tSWpQelpsNA?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 16:02:21 GMT",
-      "description": "Ebola Vaccine Rollout Begins In DR Congo Amid Continuing Outbreak Forbes",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -695,19 +739,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Lorain County offers extended vaccination hours for new school year - Cleveland.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcTdQRF91NlNFNml5SHlNbGJuQnI0bjQzeHRScDZWa2RTdS1sRFF5aUlhck9ZSWlVNGlVYXRaektKQ1JtcUoySEZxQVFfalZ6Z25rMm5Wc3JDZmhzc19NdFduekxqQkdJQUxfUU5mRm9YbG1oUGpuMmF6TVdYQWVEb21VdVFhTVhvNzB4R1MyU1BTVkRyYnVBLS16blRhajBnOVhpQ3AzT0VIb2JRS1NzNA?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 15:44:00 GMT",
-      "description": "Lorain County offers extended vaccination hours for new school year Cleveland.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Health officials wrestle with child vaccine exemptions amid measles outbreak - Ideastream",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU1pMa2ZLREpCbTFwWHltS2xtZzJmMUZkVGl3UkxZUW9wSGE3bjlkcUFPcEdpeXBnVjlTMjVCelhZUVZCTDJkc0dNOXplODJOZlF1ams1LVBJTklQbWdOaWFfVjNOaklORU4zalU5ODhBN0t4cXhnWF9UNVh1VnlteWNrcWNpVTZvQXlNcWdjRnRWNFpUUmIyN2dBbU13Y0lDakVuYlN2eWNrNGd5ZkJVR0RtM1NxcElFOFpjYjZ3?oc=5",
       "pubDate": "Fri, 28 Aug 2026 15:31:00 GMT",
@@ -717,19 +748,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "FDA approves updated COVID vaccine for seniors and high-risk adults - WFTV",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUTNKV3k2aHJCZ1pJaDRfVU5LMFlYOWtHTldUYVRwNjFvQnlONFhJWVR0TG11WWhXd2VfNk8zLTRtZm11ZHlJZ0JIbUZZMnRINEpMZE9wRGphYlRwazhxNlZiV2laeDdXcXU5STVlSFJid01JcVZqbW9XSHJURU1zcFY5YWlwcUJTMWVUUDRpYXZXZWMzX3phc1hQWDI1VURMaWpfXzJ2QlJDbTFjWVN5RmJETk9lN0o1QzA00gHPAUFVX3lxTE1DTlJTRTJwa0JDWDR3Yl9fR0JQT01zSlBaQlhCbG51eWE3cVhVN1lqZjBPdkJTanQ3Rkh3RHYzaXh0eEVNU3FBUkdtdmozYi1qVnRzOWNlakhSMDlVX3VFMF9nc1JRU05xdnR0bFpyYl92c1g3azd0alpqSmJqNTNEaW01cC1tTUJKWHNXRTZFX3c1UDVYa1NMUC1GTmdmWmhDbHpKRER5Vkd4QTJiVHZfaHVkVkotbXhiaGhiWHFzOUtmdk1lR3JZOG9zT3BZRQ?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 15:29:38 GMT",
-      "description": "FDA approves updated COVID vaccine for seniors and high-risk adults WFTV",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -745,19 +763,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "FDA approves updated COVID-19 vaccine - KXLY.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa2pNSElnSnE0NXpPdGx1R2VBdldSelA5Q2V1SFlXVUlidkxrQ2dyUC1INlozeXlJa0hmdlN2VU51ZVhjQWladjJoSVNXOHFrRm5Ua09XbTBWQTQ0YU1kVVMtY1M3UnU5UVczSmhkNFZLZWR2ZVl3UEFaSjlRQXNjZmpTek5pZ2Z4bzA5ajJhbHltSVp5ZU03b0FsYUd2bV9YT0VGNFRiTkhCYjdWdGd0UE5B?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 14:27:00 GMT",
-      "description": "FDA approves updated COVID-19 vaccine KXLY.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "Governor Moore Touts Vax Act, Maryland’s Lifesaving Immunization Requirements During Back-to-School Season - The Office of Governor Wes Moore (.gov)",
@@ -829,19 +834,6 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN2lpQTY5Y1kyRDN2dzQ5VUpVajc2Z0sydUFuZDF2Zy12VGNZUDRVSzRrS3BtQmJ0M0FfVWV4MHZOZmFfLTdrTlhIa3lnUFNxZ2lXWXF3VlVHRXI2Rmo4TW1WMEZvVzAzU3pVdmZkbmE5Z0Y2aTFXS01BZ000ZmNtU3FrMWt4R3QxZFhJV1RpbmswcTNG?oc=5",
       "pubDate": "Fri, 28 Aug 2026 13:05:54 GMT",
       "description": "mRNA Cancer Vaccine Met Endpoints in Adjuvant Melanoma Oncology Nursing News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "HHS Replaces Childhood Vaccination Schedule With List Of Recommended Animal Bites - The Onion",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYmJibnBzT2ZTX1dKWHV5b2VTc2FEaTJwUXA3VzFQNTF6aGNEMFBzYXNTVHF0YzV0cjdMSVFwMVZJTWFHLWg2VEE0M0hUekVFdTVabU5QeUVYa2hiSWxWZTB2ZVhQRGFKNzRsbnBlWU93d1ZnV1M4VmRxWkgxajRfcU40VkNPVWxuc01MUy1FUC1DQnFVY0x4VGpDaFJRdFM2VHBYb2hR?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 13:00:00 GMT",
-      "description": "HHS Replaces Childhood Vaccination Schedule With List Of Recommended Animal Bites The Onion",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -942,36 +934,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Scott County offers free MMR vaccine as measles cases rise in Iowa - KWQC",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVDNDVTJLS1FEbzVFdlhtWXpaV0cwX216YkY2X2U5UlhqOGl5SmRiWWE5SXQzbEo5UXhqdUVIUWgxWml2TTRJRHY4dVZpdFg4enNmTDFrSW11UFVzbm05RnJoRllrSGdJaGxuVkUwelJFNzdodFBZY1MxRm9aUHEwbnJMc2Q4ZzJHY2NMeng3LTFINWVZRHVOV9IBrAFBVV95cUxNMDE3Yk5YUEdGVGZtUm9NbktrWTY2Nm5ySkdUYWNaWWI2eXR2RVZ4UWFXREs2MEtEQlZRWlNqQ1c1VVF2bWFnVDlIczdpM3JmQlFCbjMzbExCYjUtMEJ2c2dqZDhoM1IybGpkS2Rxb1V3U1Q2RlIyQzJNUE1wS0pxRVdCZjlnMng0X2xYdFk1bDY0ajhiU2lGQTNHcFZkdTlOM2lJbEZTQUVkcHpu?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 01:22:00 GMT",
-      "description": "Scott County offers free MMR vaccine as measles cases rise in Iowa KWQC",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "FDA approves updated Covid-19 vaccines for dominant XFG variant - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRG5oN05kRVZzeF91Y29qWkNiVjM1ei1wRndRZkJlQm5pU25QZTVrTThkYXRyUFNhR0tVdlpxRldJSzFUMUVJanlldnl0VmdxMlE0UlktZnRxVkJZbkNjaGctcmlTMzlIRmVkZUhSUGtDTHBVNEtMd29XNGhPVjYyazJhNy15bnNieWxDRF81Yw?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 01:19:00 GMT",
-      "description": "FDA approves updated Covid-19 vaccines for dominant XFG variant The Guardian",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Kindergarten vaccination rates drop as new executive order worries Tucson experts - KOLD",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX196S1hJMllXUEI0VTlEZjduc1VCc0pfYV91blJzWUJWQUJ4UGNPR3NvZG1IVVJmdDF1T1A4VVZfN1Nqem0tS0hyaC1GUDZYRUx1cGE5NUprSExNdUNScm5EOWpFRDlIQ1F2eGJ0MjBVVzJmQ3htZ2FTLV92WElLRVE3UF9fSmUtS0ZjcFhEZTBOMnhYMFdvNkhMbV80NFZzMHBndzRiNjF6TEp4ZFJPSdIBxAFBVV95cUxOY2xrYUxBOXhxSk5reGxJTUJNc3Z2ZjRobnhFMGpQRUYxUmM2QzIxd3ZYRFFxc3hpX0VQbTlNTTRnNEtsV0lGcFFSYVJvR2pIbXRiLWx1eDV2TW9NQTFoRTBiYTFWNkVhNWVWZl9qck05Rm5jdVhtNXhsSVBPWG1mLUpjcm8wMFNKSWpVWkZReDgxSjRSZ3BUcWZodEFRcXFBUWhQNnRFTjRLN1FicE05RFR4ZUMxVnk1d2paOC1zazJqYlVy?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 00:32:00 GMT",
-      "description": "Kindergarten vaccination rates drop as new executive order worries Tucson experts KOLD",
+      "title": "New Britain Health Department hosts back to school immunization clinic Friday - WTNH.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOU1mZ1BKOE5zaHE4TW1WTEEtWWRldEJrb1pnQUxlbFlfcTc2dUJYdVFwSFN2U3ZlUzc4ekY2bkVmOGNsOU1KQ2FsTVo5TFF1bXRSSzVmTldvVkwtTW1OZERPb05uTVYtcC1wUEZVMExOaDJlZW9IX0FVWkRFd2w5cTB6Z2xQa3E3MUx4cVZfaXNmXzBEdEFaN09KN09DcnBiQkNoZUpjVGxBZ0E3X2VrMl9jRkloRTJocFhFRUNrZmstM2_SAcgBQVVfeXFMTnZ3WGt2MWZSUWFKSVJxb2JoaUo3ay1sUEdKNHdpWm41OHFJYWN5UEdSemttWjEyZVhxM1VTdU9PX2sxM3lJYmtKNzVzMWltdzY5VW1ucE1BbUZ6M0NpX1Q4T1I1QmhlNlN6YjVwc3d2MzB0N2FtbVZuc1BZZVBSWElINXZvOFVkdzgtYkU5cXZDWmE5N2kzZndNZ3ZGeXMzWmRZRGltcWlwS0NCVHB3bFFIZ3Y5T3NtZHNtenZqRGlqRW4xaVJRSFI?oc=5",
+      "pubDate": "Fri, 28 Aug 2026 09:18:30 GMT",
+      "description": "New Britain Health Department hosts back to school immunization clinic Friday WTNH.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1003,6 +969,19 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "FDA approves latest version of Pfizer's COVID-19 mRNA vaccine - upi.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTEdsN2h1em1veXB0LVlqVGZrUFZBY21BNGlMS0htOU84aWJ6Y3BheG9yTWdlY2xMTjFWMEZBemZrSWhyZlp5eG1Ga1d6OGVBZExYTWFBNHJSOGZZN0ZBeE80Q2JhRFBZcVJzU1VNWkl0WExXdFhhb0pJMW8wNzRTV3d1QzBRcTEwbkxSSWd4aWFGZFhVMlJDM3M3YnJFZjI2S193NEluUS00eGh3aHdwaEpiZ1PSAboBQVVfeXFMTXAtUWEzQmMyZV85cms0dEFjajM4RE8xa0tPZ0xCbFJSODhmUWU2eUdNRHRqcUNNbXRrYlJFX0VNekF2bnFRQ1YxWEU5QUJablhaZGt1MFVITmwwYXE5SzFFejBPOUJQQkJYRFNYTGhvbXBEZHZKZzRvYzRBSE9LTktwODFCMFJURGRBNmo3ZGxNcE16aEVyQmZpRWc2c1p0Y3J1WHVhOWdleEZZLTFrcFM2UFNwdkM2Mzhn?oc=5",
+      "pubDate": "Thu, 27 Aug 2026 23:27:39 GMT",
+      "description": "FDA approves latest version of Pfizer's COVID-19 mRNA vaccine upi.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1141,6 +1120,19 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbWRpVURSX3ZpYzhRSEhCazhidWgzZ0JtV2xxQWlCUXNQbEZLR1NRWWdIYlp5UG45c0E3VzZPdXBsSEtyRGNveXFmLXJRLWlYOS03dF9UcnpTSVlHYmNSVG1xbTFCXzlRZFJJaHREX0xXLWFkcHYyeGctU2lpbDBqUHdmLXlhSUROaXNtQ0lHUVNKeHF3Wkk2Z1YwWDloMnhudmhMZG5zOWRBOWhDODhBUm1fT3lzOEtnNk1oeUVTVHZRalpzTjBmcDhpZ09kRS1XVGc?oc=5",
       "pubDate": "Wed, 26 Aug 2026 21:26:00 GMT",
       "description": "Amish threaten mass exodus from New York over vaccine fight —which is heading to the Supreme Court New York Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Dolly Parton’s Other Legacy: A Fortune Given Away, Dollar by Dollar - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObV9CS0dPbUZfNkJpQ3FEWEZrZFVSUi1EdmJYSlMzc1cydVdJcm15bUhDbHZkY09CSXJTMlptSTJXOHFhTzUtRUlTT2Y0TFdwLVpHOWJ4b0RZUDZUV1dDN1dXMzFWejRNcnFEbE91MVNIM2czVVkzUFdvSnhDR05ISW1Qa2VOdkstZ2FYYTdHY2ZocDYzOHhoY0RR?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 21:06:32 GMT",
+      "description": "Dolly Parton’s Other Legacy: A Fortune Given Away, Dollar by Dollar The New York Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
