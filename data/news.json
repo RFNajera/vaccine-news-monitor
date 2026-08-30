@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-29T19:06:52.892Z",
-  "itemCount": 89,
+  "updatedAt": "2026-08-30T12:12:52.438Z",
+  "itemCount": 88,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 14
+      "count": 9
     },
     {
       "key": "flu",
@@ -20,40 +20,95 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 12
-    },
-    {
-      "key": "hpv",
-      "label": "HPV",
-      "count": 1
-    },
-    {
-      "key": "polio",
-      "label": "Polio",
-      "count": 1
+      "count": 13
     },
     {
       "key": "hepatitis",
       "label": "Hepatitis",
-      "count": 1
+      "count": 2
     },
     {
       "key": "shingles",
       "label": "Shingles",
-      "count": 7
+      "count": 6
     },
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 50
+      "count": 55
     }
   ],
   "items": [
     {
-      "title": "BioNTech Terminates Phase 2 Autogene Cevumeran mRNA Cancer Vaccine Trial in Colorectal Cancer - Oncodaily",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSSWlqc2ZVaVRpU0tMbk8tYkkxVUxsbjVmNG9UZVV6dEQ2NnZnSzVSem1hX0VwT2psT0Ixb0hYUmdWbGdDUXM0WHpMUDN6WVp2aTRndkw2S3RIeFZuVElB?oc=5",
-      "pubDate": "Sat, 29 Aug 2026 18:45:55 GMT",
-      "description": "BioNTech Terminates Phase 2 Autogene Cevumeran mRNA Cancer Vaccine Trial in Colorectal Cancer Oncodaily",
+      "title": "How did nine children die in a 1991 Pennsylvania measles outbreak? - Pittsburgh Post-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaVFPY29uejFNbWpKVUlobGszcEJXa0xPOGdrRWNoWmpLNGxfLUkydXY2akVUbVh3YzJFWGRYYUVyWWFfenlCTl9RbWNKMFhfXzUtcE1WLU43U0JaR0o5cjZxRE9PSklrVFptWTZWQ1pkczlqQmhGYXYySW1OV21uSFZEY2VlWmN2YU5yZWVBalpZSW1SZFBySUN5d3JJSmlWN2RzdzhkaXluTXc?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 11:00:10 GMT",
+      "description": "How did nine children die in a 1991 Pennsylvania measles outbreak? Pittsburgh Post-Gazette",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Hussein Tawbi: Explaining the mRNA Vaccine Breakthrough - Oncodaily",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oWW1yNGtUS3N1X20yWm1SRnpUOXNsUnBzRjVER0ZROFZseHl5UUJ6SlpDT09sZnRtZVdSWEo5cHlTc2ozX2d0b09XWFJ4YjJFT3NyT1hINDNjMmJuYkE?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 08:25:51 GMT",
+      "description": "Hussein Tawbi: Explaining the mRNA Vaccine Breakthrough Oncodaily",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Reaching every child: Bringing life-saving vaccines closer to families - Unicef",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZy1CZFp4ZmVseFFTSk95cExUTzUxU3RCOGozdkdlWTBiZ19OcGtQY1BaTDZ4X0xHNnN6dTNBOXBOaUhYNENEUHVSeHBnQXZPSVpLeWpWLWpZRXVrXzhmdU8wZHRHbW53MzRTVFItU3JudjVyQUpZM1B5WWR6VW5hSGJLTDBBOFh6RjlzSG15MVJsczVnMmV4eEpXNXoza19lYzFzWGRR?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 06:53:01 GMT",
+      "description": "Reaching every child: Bringing life-saving vaccines closer to families Unicef",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Hepatitis A vaccination proves crucial for prevention and outbreak control, review finds - Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSEt1UjFaSFFJVU1vd1R1MlA1X01ldU1rTGx1bHVSMk1sdGthc2gwb0J2YXlXekY0a1lMY3czdmctc0c4UHBJT0NVZE5pTm9KazBiVHZ5c3U5Y2x5c053ZWpmUS1IS1k3UWw5Y0JEUUppbS1zcnMtaE9aTEVtZnVhbzdaSkN3NTk3ZzN3ZkNTRUl1aWl6cENlUVZ0UUJ1ak55d0JYX2tyUWtId2NlWHN5c0ZB?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 06:28:36 GMT",
+      "description": "Hepatitis A vaccination proves crucial for prevention and outbreak control, review finds Bioengineer.org",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hepatitis",
+      "vaccineLabel": "Hepatitis",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Why national immunisation guidelines depend on country-specific evidence and context - Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWnZySEhQaFRBQnBlVm5JM21NTXpaaDVmeDdyZUFjWG5ieFpieEFwbGo1bVBBU051NnNvcVNqamRfNHpQaHJZMU1WUnBWSDVFazV3Xzl5Q1I2cjJjUGJSX1EtU3k3d1BsdDBGeGl5Q0hZQU1pU0xBYmxJTmVETEtybDVpZkFXTzRjWkdqVnczVGU3b0czNHVSRmI0ZTgtSTVaYUFBZE1GNmd4MDZ5WXc?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 06:28:36 GMT",
+      "description": "Why national immunisation guidelines depend on country-specific evidence and context Bioengineer.org",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Childhood vaccine rates could get worse as demand for shots dips in Kansas City - Lawrence Journal-World",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUTdJdHJGc2lVUVVJSGo0cHU2ZTBMd2hTc2hqbFJ5QUFFM0hRTU9KYm45QUstSng0RHhJVlRHTTB4VFNSZk5fMmRIRnk4MFJwUnNaZzFweWF5V2ZhR1dWRXk4Yy1ETC15R2V4M3Iyd0FXUU50SDZNSExpMV9ublh1Tjk2cDFfX2RmUTIxckNIUkpnTzRRWnNqc19mSWFIc3M0TTR5WmRvSTJJbGppeTk5V0pzbVFfOFE1UURIMDZ0elg4dmFSYjhuWkxDSQ?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 04:23:00 GMT",
+      "description": "Childhood vaccine rates could get worse as demand for shots dips in Kansas City Lawrence Journal-World",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -61,6 +116,45 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
+    },
+    {
+      "title": "Doctors and parents in Philly sound alarm on Trump’s vaccine order. Here’s why. - The Philadelphia Tribune",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPWThLZDdDMGZ6djJTSFN2c3lGRmhUN3NJb19jb2hkRjZyZ2pNNXZacEpGeGhZaDlxMTUwcjJudGxWYXNSZWJDc2wyaUxSZE96WWh2OXM5N1BIeHM1V1NOZ0J3cy1WQm50UmNuT2ZIS2dNMHpaVVZibkZkSWNlaU45c3dQWlV1cmhBcFhHNGRKUnQ2X0FTYXdFLXJTWHR0NlN3UHpMRDhoSzlSd0xFcjNHM1lURVE3a2otSWhoeHEwQm9DN3h4WmNDbUdDdGRGWFpiUld5dVhrbGhWT0tBUTJBQXdMWnhDSENtQnN2d0pIYXFXYVdibDRGZnBZSFQ4QTg?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 04:15:00 GMT",
+      "description": "Doctors and parents in Philly sound alarm on Trump’s vaccine order. Here’s why. The Philadelphia Tribune",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "UW Health officials address measles vaccine misconceptions - WBAY",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQzJERXc3dUhSU0dzcnh1SGwzRVBlU2Y2UmFFcXhDNVNMRzI5U3NHZ09UOG9ESUlOVzR6b3VNZlFTd3pENmkxUm1ldXlqZ2lYUXVkb25jbnFodFprLU5VRXV6SkpqMWQ2QXhqNzRwV0dPS21KVHVLbGVFOWZZZ1k5clNmWUVPYVFmVFV4NEVyVnpySE83ZGfSAaoBQVVfeXFMTkVVSVo2OUVheVdmak94VjAtZFBjRXQwdllINDZrM2dBV1Nnb2JKRlFZbDcxYk84MVlnMHk0Z2NlQ2RRajlqUnVCWTFXS3UzVFpaZ0xDQlA0QUhKVmxUWTBJM0NMUDB0enlEWlZsSi1yeFNqR3B3blhIbDRCNV9ITjBkeTlFQWtZODdUMDBNSzFJOFFsaVlJZWx0eVJOSlUwQ2Jpb0tkVTNQR2c?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 23:38:00 GMT",
+      "description": "UW Health officials address measles vaccine misconceptions WBAY",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Florida's in a fight with Catholic bishops over vaccine exemptions - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOGtLMTNteXhBdWJZZUM2TzRkZFFVa20wajZxMVJUb0hRdGRWaEN5TV96NDVKU3B5RzhFSEoxT2FkYTlOZTdXd3ROQmNUVENxMkZYMDdWYUVORjhxM21hcjUwVHRHcDhpY2hhN0ItdTh0M1Jad1RoWTlxWmZzSVQxNDF4enp2bkN3MzlLSVBYUVRhVEJabzBYemFMemhqWi1uM3c?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 20:01:00 GMT",
+      "description": "Florida's in a fight with Catholic bishops over vaccine exemptions Newsweek",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
     },
     {
       "title": "Why vaccination is essential | READER COMMENTARY - Baltimore Sun",
@@ -76,32 +170,6 @@
       "articleLabel": "Opinion"
     },
     {
-      "title": "Updated COVID-19 shots cleared as health groups urge vaccination - FOX 17 West Michigan News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNjVjMkVHbm5nNmtNZkpCQWZNQTBkWjdQbDRQYzUxdlB2UmdiYlVyc1JCSG5FN0dCZ0dMbVl5RmU3MGQxUVVJNDFaTkpzQU9EQ3pGYWdQUTJoa05BTnV6dUZuZjNaa294NGlYZnVxa2g4TmZBbXg0OWxWVDFhYjBidV9NcjBlajA4NzhYemxVaDUyY2IyaWRZano1RnZfR09tWVpTSFNPbE50TmlsUHBiUTlsYUI2UmRNelE?oc=5",
-      "pubDate": "Sat, 29 Aug 2026 16:51:03 GMT",
-      "description": "Updated COVID-19 shots cleared as health groups urge vaccination FOX 17 West Michigan News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Sources: Taliban Ban Door-to-Door Polio Vaccination in Southern Afghanistan - 8AM Media",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZndIME9SQ2M0NndfSjhMUmhQZy02eEF6MXp6X3ZraEVDRnRWeEsxMkIzZm14Q1h6V0RPdG9QRHlzeEtCam1sT1JOREtrVzRScGNidmxjT3lUcFdFdGM0bDJWdlh0MXFyQ2xNdEFMZHVGbDJzWEhWOURDVFB3Z3E5RUhrZDdEOXpnTW5BaFlNb1FtdVlsZGoxY2JFNU9UZw?oc=5",
-      "pubDate": "Sat, 29 Aug 2026 16:36:59 GMT",
-      "description": "Sources: Taliban Ban Door-to-Door Polio Vaccination in Southern Afghanistan 8AM Media",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "polio",
-      "vaccineLabel": "Polio",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "The Shingles Vaccine May Do More Than Prevent Shingles - Global Biodefense",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDJ0U09PQTZnQS05MFJKLXUxNTdaRzRpWmxXQnlhT2tybG5hLUNuVlZmTzZVNjIwMDFkQXZlYkw4NHJJRHRzMHhxYVV0TVdhakdDNWx0RWVCZnB6WGZmNmlxd3poM3lWdkRma2tRWkFtSEt4cW05TEIxaEFibjNwdXpjU1p6UFZFM0lmbDlJamxiNzdnaVF0NE9MWQ?oc=5",
       "pubDate": "Sat, 29 Aug 2026 16:01:04 GMT",
@@ -115,23 +183,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "The Extra Benefit Of The Shingles Vaccine, How Vitamin D Fights Diabetes, And The Quickest Way To Form A Habit | Medical Notes - The Black Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOHp4T3pDWVhiTElIalluTUtvVzE3TUdVdG8zTmZWa1FIMU91Q1N1SFl3NU0yYTQzQWhRNWJtZmp3UzFDTEduV3pOVDZXcEs4bl92UnZxQ1JFVTI3VkYxX004T2EyWjlaSVo5alo2d1hmVFpiYWg3X1hZemo0TU4wV1VsUzVGWlZYazBHb19lTjdHYU00T2VMblJDM2hCbEg3SEpkRjFzRlhzWVBNeUlCbVFsald6aUNWX1R5MW9vdGZZY1BXc1Vzek9nZVJsek9rbFhvQk9vMzEwM3Y1b0ctdG5lV005by1kVEJB?oc=5",
-      "pubDate": "Sat, 29 Aug 2026 15:44:44 GMT",
-      "description": "The Extra Benefit Of The Shingles Vaccine, How Vitamin D Fights Diabetes, And The Quickest Way To Form A Habit | Medical Notes The Black Chronicle",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "shingles",
-      "vaccineLabel": "Shingles",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "California maintains school vaccine rules despite Trump order - Times of San Diego",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNVkxejczQW04RVlVaW1VVE9PaVlRa2QwWWhHWFVHMlF0VzFwVEMwakVNdlBfd3E4Y2hNTFlEanhxcDBBRjN0R0dJUmFseGV1UGY3bjR6U3ZFby13eUJvQnRjY3o4SWh1VkZUNXRKdUpERGVvUDR3dVhFNFY0anhFRWptLXNaZ2NsdG9Wb3FMRlh1Sm1EUlhWTEVodXhrY3ZCY1YwQnBJdnNtUEhl?oc=5",
+      "title": "California maintains school vaccine rules despite Trump order - Stocktonia",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNTdHdVB4Mlk2eTdURmxjUGhNd3Z0RFFWWHh0S3owXzVUMjZILW4xXzV1M2FJZEhUTG83TUNDSzhRa1RpT1R4VWdqRFFKVlB6eWMzRXFOV1NyOVctUjRJV282cGZ5RDBueTZ6MWpuM25UMzl2Ty0zRHdCVDdYR1pfc3MyOXdqMkJqNVkzYnExOUJibVZUQkdoQ3p1LVlGN2s1VmFnMEQ0a3hXQjVx?oc=5",
       "pubDate": "Sat, 29 Aug 2026 15:00:00 GMT",
-      "description": "California maintains school vaccine rules despite Trump order Times of San Diego",
+      "description": "California maintains school vaccine rules despite Trump order Stocktonia",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -154,45 +209,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Kindergarten routine vaccination rates continue to decline - Lake County Record-Bee",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY3JHYW9sekdlV2k3dDI5cWlmR3JyN0FmY3dSRzR1ZUZDMmV4ckgwWml1RWVKQW1fSlhqMjY0QzBtZ25XcWNGQjlGVW11bjAyZ2FwZEZ6Szd0WF9mU3FTbmU3QWpoQ2VINzd0cS1JWnd4NEplaDE2VnNZVVdmNUlpQzVMRnp3U2wtS1kyNl9vRC1aNGo0VlZzY0lEOUYyUQ?oc=5",
-      "pubDate": "Sat, 29 Aug 2026 13:35:24 GMT",
-      "description": "Kindergarten routine vaccination rates continue to decline Lake County Record-Bee",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Q: There's this long standing anti-vaccine culture particularly in the North... is it part of the cause why children are not being immunized? A: Former NHIS boss, Prof. Yusuf Usman responds Watch full interview: https://youtu.be/iTfgjgoAjjk #trusttvnews #diphtheri - instagram.com",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtN3pTUXR0S01mb3Z0YXFhRGtuSlcydnp2ZEF0YW5EY1RaZGJfVm1razRBYmZwZUFka0Rhc3ZvMnBxeVBBZExwYUFkX1hmQUtENFlOYlV3?oc=5",
-      "pubDate": "Sat, 29 Aug 2026 12:32:43 GMT",
-      "description": "Q: There's this long standing anti-vaccine culture particularly in the North... is it part of the cause why children are not being immunized? A: Former NHIS boss, Prof. Yusuf Usman responds Watch full interview: https://youtu.be/iTfgjgoAjjk #trusttvnews #diphtheri instagram.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Costa Rica Delays Yellow Fever Vaccine Rules Until October - The Tico Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeXBoOENHNlhEZUhBYjg5NDRKYlpQR3FZb2lVVEROTGlOQ21PbEg3LXV1cHA2SlJGaEw0QjNyQlFuR1lCREh4a0JlaG1QeU8wY0hsa3c0Q25IUHpYREJhZWxtX2VGZ2Z6VzdwMVVXMk1hMHl3bHhlV3VjTGRLTUxRXzYyTmg?oc=5",
-      "pubDate": "Sat, 29 Aug 2026 12:22:25 GMT",
-      "description": "Costa Rica Delays Yellow Fever Vaccine Rules Until October The Tico Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Colombia ups vaccination efforts post earthquake - Outbreak News Today",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oTDVqdjN4RUJlanZyaHA3M1NtcUgzaFQ2Q3ZGdG1nWEZpXzdQQmJIMEVhbXR2dzlGNDRtQTNrd0huRFVnSkpMaXNrVk1CbURRamlkWXhSQnhYd2JEbWNsdzlGZGlDS1dDRy1JTnpKeVY1QnBJdWtzLTNQR3NzQQ?oc=5",
       "pubDate": "Sat, 29 Aug 2026 12:17:59 GMT",
@@ -202,84 +218,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Alina Comanescu: What are the Barriers and Enablers to HPV Vaccine Uptake in European Countries? - Oncodaily",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DeXp6U0t6WjVnSmNCdXRyLXpsSWlEdWxEUllEajVJS2lBUFEzSU9vOU4tWkExTGkwVVFuUm1JbGlRVG93a2s3QUZpWlo3OFpsUW9fZTkxOXc1SjlFZmRUSDhn?oc=5",
-      "pubDate": "Sat, 29 Aug 2026 09:43:45 GMT",
-      "description": "Alina Comanescu: What are the Barriers and Enablers to HPV Vaccine Uptake in European Countries? Oncodaily",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hpv",
-      "vaccineLabel": "HPV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Dermatologist discusses new Moderna cancer vaccine - LiveNOW from FOX",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4taTBmdE9CWlFONWQ2MnJSQmFQVHVmZWRZWHhNS3MwOVZVOEpCWXhmWDB5aWJIeUwzZ2lBS2t4em4wS0dHWW5TajJ4SUhYeHFCeUFkZy15cmNpRmpMNFZuNHZvY9IBaEFVX3lxTE9mVmtkbllOVnhZV25LTGJzSnBad0JuSksxR1Z1aFNNNzdfX1UtRmZoUU5yREtTblNOQmYtcmpWNUpSZ1BDcFBWRXQ5cVJYSi0wY3RQZkM1Tm1NYk5ta0FfU2R3WEE4TzlS?oc=5",
-      "pubDate": "Sat, 29 Aug 2026 09:17:13 GMT",
-      "description": "Dermatologist discusses new Moderna cancer vaccine LiveNOW from FOX",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Lewis Waters remembered at Reading Festival - News & Stories - Meningitis Now",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ1lOdXR4TGphNEJKZmp0UGVacGhRcVVVMHFrOGYweTBjS05YWkxMV05aQWREcU5fREM1U2ViNTk3dVRRdnltbF90bWRYZEk1ZDhmSTJaclc0bTZIZkR5OEx0NmhsUUhIdWVwV2ItR3RCVmY2SWhjTUxTNnVFWkFCQjNQY3VlV1ZoMVBRSlVYRHlpZDBTUjVvZWwybjhFVktzZndLNjQ4eGJ2RlZpaW9OR19WY3I?oc=5",
-      "pubDate": "Sat, 29 Aug 2026 07:03:40 GMT",
-      "description": "Lewis Waters remembered at Reading Festival - News & Stories Meningitis Now",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Updated COVID-19 shots cleared as health groups urge vaccination - KTVQ",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYy1XV2ZiYzl2TkZ2ck8wblRTT0dlSDAzdWlrNU9lcVNnMF9lOGU1Q25CUjZiRnhnR1RlYVdDMVFFUFkxUTBybUt6Sy1sZEhJNUVic05Id09wUnkwb1hKazVWcWFPS1VlRHRWN2J4U2Q4S0ZZYk1ZWkZpWW9YWDdfNjdIRERPR09SQVJtU3ZhMDFiYVRYSzNzNzZzeFRlTXF6SWkxS0V3VkFmS0RQM0V2ag?oc=5",
-      "pubDate": "Sat, 29 Aug 2026 06:18:36 GMT",
-      "description": "Updated COVID-19 shots cleared as health groups urge vaccination KTVQ",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Success after a century of failures: Inside Moderna and Merck’s cancer vaccine breakthrough - The Straits Times",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbEFxQ2c1ekFoclk3dG5MV2RmM1BNdzN6Tno4eGpUZS10Tm5VUzJ6SWFHOFJsRXRpLVZTUWJ2eTEtQTFqZHpRNEFNZjVvVGxyT1lrSEp3RXZ4T2dqYTJyTURrbHpqQTdETjI5YnhZbGxjVllNR0N4b09YdnFXWmFhbDRCdlNNNlVRcnpfM1JGYVVSVENwYnQyQmhzbWFqdWthc242UDgtZjFBNW5WZnFjWXJrVkV1RkgzQ2FNUWhpVWNqdw?oc=5",
-      "pubDate": "Sat, 29 Aug 2026 04:55:00 GMT",
-      "description": "Success after a century of failures: Inside Moderna and Merck’s cancer vaccine breakthrough The Straits Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Some parts of region are vulnerable amid measles outbreak - Observer-Reporter",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY2h5NFJpSnVJZGZQdVE4Ql9yeVJyMkZFdE5Kdkk3eGhYSkd5TmhFc2hfVHlid2hKVTJxSS02ZzM2MXJadlJjbTJHNEtQa0VjNjMwbTlmNkowVGNGMXpZbkVoUUpjRUJXUkl5NHdpSkhjQUloZk9XOUFXWkYtWmQxakVGQXQtdThfc0VpZmhtUnA5QTNLT1o4dkplTG9VajFpUVg2VmgtR3B5NUowRlo2a1ZOSUhtU1doZzRwSg?oc=5",
-      "pubDate": "Sat, 29 Aug 2026 04:37:01 GMT",
-      "description": "Some parts of region are vulnerable amid measles outbreak Observer-Reporter",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -306,71 +244,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "What to know about the COVID and flu vaccines for 2026 - KING5.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZmJSNVROTGpvUEtMRFlMQllSZkhmV01iM2M0UUFwVnkxdi1ZeTFMczNMdlJyZHROT0xFRUlFeUdVM2xuUlQ1RVQ5amttRzF0N0lvTnFLWVZ0VG43dG5oN1ZkRFNNRk4ySnVyZ0lpeU5nMUZaMkFwRWpzdU8zSlRCNU50RE1xdHFHTVVIQzhpQ0pELWppQ1JDeU55bGVQaXhyYmprZzY4T2RXMC1PaXA2Nmpn?oc=5",
-      "pubDate": "Sat, 29 Aug 2026 03:27:00 GMT",
-      "description": "What to know about the COVID and flu vaccines for 2026 KING5.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "RFK Jr. accused of vaccine misinformation as U.S. measles cases soar - MS NOW",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSU9QNzAxamJNcklsaHExR0pXZEpsamk1VHllX251M1ZKU3VteGR4V1NSNzFpZllvT01Bc09DeS1BRXRHQlZ0ZmtXc2dCdFd3YlFSUU13QzZDaFViSFBjRnJoM2VOZGVxeWliNVczelpnbXJ4OU5semVaN1F5Q1laWmQzblNmcUM2LVFEM3R5MWFzLTVxWUpha1FVWkY1VG1EMTdsemFVV00waFQ1Uk9pYjZZbHV5V3JOZlFB?oc=5",
-      "pubDate": "Sat, 29 Aug 2026 03:24:19 GMT",
-      "description": "RFK Jr. accused of vaccine misinformation as U.S. measles cases soar MS NOW",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Teens and Young Adults Who Caught COVID Without Vaccination Had the Highest Recorded Heart Inflammation and Death Rates - Medical Daily",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWVZ3SWJXZXFDbzdtNjc3SUdseWtwMXpUWHdvZmpCdmw3bmNuU1Y4QlByWVNaVVZFZzZoZUtVQzlVWW9GdE56UHE1LTRIeVFGTlRaZW1xLTlxN0ozX09wU2pjMGFrcklOQkVKdWJ2aTdRSmpNdEhHbWVZN1NSZXI5U092M3NoTlBINGQ5d29LUWZRQWtqWWFlQUpFbUVGT29v?oc=5",
-      "pubDate": "Sat, 29 Aug 2026 02:25:38 GMT",
-      "description": "Teens and Young Adults Who Caught COVID Without Vaccination Had the Highest Recorded Heart Inflammation and Death Rates Medical Daily",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "What to Know About New Covid Vaccines for Fall 2026 - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JTmI1dzRhRS1RWUpadUxWeDFwLXZnWGFCLWQwZHVrQmoxZGFZZy1CSUF6LUpsZEJWaFBpNnBwUzh3VFFWUnJMQUVHT3JKTlg0NVYyQ0E4TnUtQnhyWi1XWFJyWW5kdmppeE1wSXNCS1NtWWxSMkdZM3k1Z2tQR00?oc=5",
-      "pubDate": "Sat, 29 Aug 2026 01:34:00 GMT",
-      "description": "What to Know About New Covid Vaccines for Fall 2026 The New York Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Chautauqua County ramps up measles vaccine outreach amid concerns in Amish communities - WGRZ",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNMVk5Nk9lVERPQmExYTFwRjlfMWVhanVnVDZGcUZ0bWlMTnlsUTc0aWxkcGUyS0NoRGJnTUV6a2tCU1pJVDhiZXJUTVZjNWNQVS1fQllJMi1OY2MtWnpQYUgzQ2RJVkNZMjV4MmxFdFROYmIzcHRCdWt0SjR3OHN6X0VJbkQtZl9nODJXWTlueGpUUzRIUnBvWnBUVG5vcVNxVXVITHJFcFBSaG5MUTNIOFdZaWZCR1FGcThiVlFYcXB5ZFJzWERibWFBcml6QWpoZnJoT1I5MHZVTm91cTFCbDRSNmlhSS1ZRmdicW5OZ0NUTWNDcUlIc0FSQ0l6MlBlamQxYWpfWEF5aXU2?oc=5",
-      "pubDate": "Sat, 29 Aug 2026 00:46:00 GMT",
-      "description": "Chautauqua County ramps up measles vaccine outreach amid concerns in Amish communities WGRZ",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -410,19 +283,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Nebraska DHHS Urges MMR Vaccination as Measles Spreads Nearby - Midwest Medical Edition",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVWZfQlNHVjFWa3Z1RzYzNHhPeG1sNG1odXdtbHBJcEliZkJpdXRPZm5HSGJRYlh0c00zRXQwZ1BsQVJpalQxM25JcFRPQ1V2M2E2bTE0SFAzTTlvcl9XS1JKLVRIdHYwR0RfcjVuX0lRVm45SmVrS0hGcWxHVl9idg?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 21:30:24 GMT",
-      "description": "Nebraska DHHS Urges MMR Vaccination as Measles Spreads Nearby Midwest Medical Edition",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -518,6 +378,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "F.D.A. Approves New Covid Vaccines, and They Should Be Available Soon - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JTmI1dzRhRS1RWUpadUxWeDFwLXZnWGFCLWQwZHVrQmoxZGFZZy1CSUF6LUpsZEJWaFBpNnBwUzh3VFFWUnJMQUVHT3JKTlg0NVYyQ0E4TnUtQnhyWi1XWFJyWW5kdmppeE1wSXNCS1NtWWxSMkdZM3k1Z2tQR00?oc=5",
+      "pubDate": "Fri, 28 Aug 2026 19:49:23 GMT",
+      "description": "F.D.A. Approves New Covid Vaccines, and They Should Be Available Soon The New York Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Philly targets schools with low measles vaccination rates for free clinics - Northeast Times",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU19tN2Q0VWQxRjg4RkVqb2tCeWRmOTByLWg5S0JxVUFRN0ZVaG05SmxfYl9tMUtiU3hiOUVHdDZJVlFwcDVXZDdTQWpNQjdCUDFoRXVyTVFYdUdOeDFOV0RMcnFRbDc3RlQtYXRNbnZUQUZfX05TeEVqUHRTWkJoQ053Z3FpcFpwaldCWVU3UmdCY05LNlhDSXJDNkpuUVNBWmFET0pFOEdkQjVHNUpnTkVlTQ?oc=5",
       "pubDate": "Fri, 28 Aug 2026 19:44:26 GMT",
@@ -540,19 +413,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "FDA approves new COVID vaccines - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5URnR6TGxSQUNpc3hyUmRxdDFWUTFHQ2NWaUM3d3lsaFFXejZxXzdvd1pFYWozd25TUjJmVjZVTEVBelhpX0hwTEs0WDdsM0VONENMYmg2U3FPc3JBa0tfT0JXSUIwTzFCZ2gtOU0zbmFxZWR4cnc?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 19:19:00 GMT",
-      "description": "FDA approves new COVID vaccines CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -648,6 +508,19 @@
       "articleLabel": "Research"
     },
     {
+      "title": "Knox Public Health announces vaccination clinic schedule - Knox Pages",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOejhLbUdiM1FYSFpENS1scGNUMWE3S2d0NFQzbUxhalJzU1VLd3BaZEFNVndwNkF6RmlfQVplaDhMQnpKaXVoZVlabFg5UGZhZFoyb3NUMGRwSmR5VDdob2tTZFhwM0haS1JLS0FwVU1ha1ZEVGxqczVCbEFyQzliVTJHRm92TnhEd1BuaXJweTk5Q3VEM1lCTTVB?oc=5",
+      "pubDate": "Fri, 28 Aug 2026 16:46:27 GMT",
+      "description": "Knox Public Health announces vaccination clinic schedule Knox Pages",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "African Bundibugyo ebolavirus vaccine candidate to be advanced to clinical trials - News-Medical",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc09TdFFVUnN0bXBwckVJQlVTOTNFZ2tZRVR6UmdyLTN4UnV2UDU1bEJmVUxEUHNmR1ZYSWsxbFVNaVJqWUJPZ1N4Q29PdGQ0NllSOGpqdTY1bTd3U1VTOXpIU1hTTjFNTXhHc2pXLVoySVhvZ2VDdlVEdzdGb3dsNE1KcklZc0tRVExycmJkLVFxcTlpTGxfYlZsS1Q1TGthbGpCbno1bFFtcDNPbEk2UkplTUlrX3RYTi1rN3lnd05uOGxpYlVFNw?oc=5",
       "pubDate": "Fri, 28 Aug 2026 16:44:00 GMT",
@@ -700,6 +573,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Moderna (MRNA), Merck (MRK) Cancer Vaccine Wins in Late-Stage Trial - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQmdtRTlsbE9iUnFZOUROU2FNVXJITXpyRWwwOVdYcWZNV1U1QU51a3k2RDNFQjkwYXBVSmMtMWpLUEVYRWlTQXI2b1pRekt4czlfYlJ3WktmTVJSeW5xRUxSR1Q0RXB2M1luNFFCdHJQZUFpMC1tbGRWcVNyQ3JFMktaLURqLVNDRHVacEc4aGJFakZk?oc=5",
+      "pubDate": "Fri, 28 Aug 2026 16:16:00 GMT",
+      "description": "Moderna (MRNA), Merck (MRK) Cancer Vaccine Wins in Late-Stage Trial Yahoo Finance",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
       "title": "Measles deaths prompt vaccination reminder in Virginia - WHSV",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLW8xOS1VXzBvX3JZX0RaY2huVWtYMmlBYkFqbW1wZ2xlcnZ2MlA0NmRCcHlWc2hQaFQxcXhRb2lmb0dNN3FRazBSTW9EeUM2clZVZUFsekhIRklVQTNLdng3ZnA2SEd0MjhaejlMVUJSNjFzaklteEdDUW5OQm5yNEpwYWlfZldFV0ZjTA?oc=5",
       "pubDate": "Fri, 28 Aug 2026 16:15:00 GMT",
@@ -709,6 +595,32 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Everyday mental health tips for a healthier life - LiveNOW from FOX",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52bG5qUHh6R240ZDl3cEhUV29Jc1hRRVdmeGhRS1lXWXh2OTZKUVJWSkhJT3luNzZTbDFzN0txQk4xNjNfNnd1QnpvblNRbWF4UHY2aks3SDE5bUdlTzdpRUFCOEpRN1hmaXYtUkhzY9IBdEFVX3lxTE9meXpvbVFFbl91ZFl3SlRBaDNTT0EzblhNOG9XMFJVWDlZTUN6X21hNmlqVFQxdGZoUTZucW1lLXpFbGdoVVAySG9Rb2lMdF8wXzNOX1NKNlY2MmU1WjEtSUZFMjZ6TkJCTTdGMzdEZllpbTFt?oc=5",
+      "pubDate": "Fri, 28 Aug 2026 16:04:23 GMT",
+      "description": "Everyday mental health tips for a healthier life LiveNOW from FOX",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Ebola Vaccine Rollout Begins In DR Congo Amid Continuing Outbreak - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTzBZWFE3aXJlZXVtZEFCdHFfbmhDXzIydFoyWHVEdno0aktqQUhyMERTT2NFVmtCRGlmbmNsMnpiXzh4bUl6TmZrVllUdzRTcjBNMWFSRjhXVWlNcHNLckpWTXgxdjNmdllwMTE0OWMzOF8wclk4WVp1aTFERFlRdWYzV2lRR3Z5TldLaThJdHdzN1pnTWh5UEdZX1dZaXR0czEycnE2dFpYY0xrTk91bFF2RWdCLW5tSWpQelpsNA?oc=5",
+      "pubDate": "Fri, 28 Aug 2026 16:02:21 GMT",
+      "description": "Ebola Vaccine Rollout Begins In DR Congo Amid Continuing Outbreak Forbes",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -739,6 +651,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Lorain County offers extended vaccination hours for new school year - Cleveland.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcTdQRF91NlNFNml5SHlNbGJuQnI0bjQzeHRScDZWa2RTdS1sRFF5aUlhck9ZSWlVNGlVYXRaektKQ1JtcUoySEZxQVFfalZ6Z25rMm5Wc3JDZmhzc19NdFduekxqQkdJQUxfUU5mRm9YbG1oUGpuMmF6TVdYQWVEb21VdVFhTVhvNzB4R1MyU1BTVkRyYnVBLS16blRhajBnOVhpQ3AzT0VIb2JRS1NzNNIBxAFBVV95cUxPa2YtWWN4Mm9oYkRiNGM3cE11N0puUWkxNElTaVhBd0VYOTBHVU1NTDZqaVp0dUd4SnM2eG5YUzBGa2xRUC1ZT1RTMjVxZEJQXzhJbWZvZ2pFeUJCQ2hPNEJNdFdSMy1CajlYMUJ5TWtxdDdJV0NYLTBub0N3MWZ6QnpNX284Qmp6VjJJNEk4emdnTlFIaWc5dTZENnFhNGlSYi1xSE4zOENBV0czMzc1Z3ZoNUtEck9yaWVSWnhGTmdJMUd3?oc=5",
+      "pubDate": "Fri, 28 Aug 2026 15:44:00 GMT",
+      "description": "Lorain County offers extended vaccination hours for new school year Cleveland.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Health officials wrestle with child vaccine exemptions amid measles outbreak - Ideastream",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU1pMa2ZLREpCbTFwWHltS2xtZzJmMUZkVGl3UkxZUW9wSGE3bjlkcUFPcEdpeXBnVjlTMjVCelhZUVZCTDJkc0dNOXplODJOZlF1ams1LVBJTklQbWdOaWFfVjNOaklORU4zalU5ODhBN0t4cXhnWF9UNVh1VnlteWNrcWNpVTZvQXlNcWdjRnRWNFpUUmIyN2dBbU13Y0lDakVuYlN2eWNrNGd5ZkJVR0RtM1NxcElFOFpjYjZ3?oc=5",
       "pubDate": "Fri, 28 Aug 2026 15:31:00 GMT",
@@ -752,10 +677,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "BioNTech, Roche Scrap Cancer Vaccine Trial in Blow to New Field - Bloomberg.com",
+      "title": "BioNTech, Roche Scrap Cancer Vaccine Trial in Blow to Field - bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdVpIbnJrTnFUX1pEbUxyckNiQ2NtZk1qMEZXeF9JZGM4cWs0S1JTTmxSSXBaaE5XVUh5QWZrdERVWS1IcTNLS1k5MjBGSVhEelRFTHNkOUZNaTJUbnMybmFxQWRtaEVuNnZQb2hORWxTMGpHbXBsZUJnU09HNHNreGowcFhMLU96VUNfeHhwMjVsQ0hub0ZWbVhjaGR1TWluZFkxSWh3TUxDN1V1R01aaU9EOA?oc=5",
       "pubDate": "Fri, 28 Aug 2026 15:26:44 GMT",
-      "description": "BioNTech, Roche Scrap Cancer Vaccine Trial in Blow to New Field Bloomberg.com",
+      "description": "BioNTech, Roche Scrap Cancer Vaccine Trial in Blow to Field bloomberg.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -834,6 +759,19 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN2lpQTY5Y1kyRDN2dzQ5VUpVajc2Z0sydUFuZDF2Zy12VGNZUDRVSzRrS3BtQmJ0M0FfVWV4MHZOZmFfLTdrTlhIa3lnUFNxZ2lXWXF3VlVHRXI2Rmo4TW1WMEZvVzAzU3pVdmZkbmE5Z0Y2aTFXS01BZ000ZmNtU3FrMWt4R3QxZFhJV1RpbmswcTNG?oc=5",
       "pubDate": "Fri, 28 Aug 2026 13:05:54 GMT",
       "description": "mRNA Cancer Vaccine Met Endpoints in Adjuvant Melanoma Oncology Nursing News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "HHS Replaces Childhood Vaccination Schedule With List Of Recommended Animal Bites - The Onion",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYmJibnBzT2ZTX1dKWHV5b2VTc2FEaTJwUXA3VzFQNTF6aGNEMFBzYXNTVHF0YzV0cjdMSVFwMVZJTWFHLWg2VEE0M0hUekVFdTVabU5QeUVYa2hiSWxWZTB2ZVhQRGFKNzRsbnBlWU93d1ZnV1M4VmRxWkgxajRfcU40VkNPVWxuc01MUy1FUC1DQnFVY0x4VGpDaFJRdFM2VHBYb2hR?oc=5",
+      "pubDate": "Fri, 28 Aug 2026 13:00:00 GMT",
+      "description": "HHS Replaces Childhood Vaccination Schedule With List Of Recommended Animal Bites The Onion",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -947,6 +885,45 @@
       "articleLabel": "News"
     },
     {
+      "title": "Congo launches Ebola vaccination drive to tackle deadly outbreak - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVDkzLXUwQ0NIYjVzU2dkZDNmNmJmRVNmT1FKZkREZG41RG1sWlg2RVV2Xy05dUpYbjVpaVQ4LWw0ZWFnUE9ySndCakZVZ3JGT1Y5a1JOM1lhVmJGaHJHREFNVU0tNFNvSFNOWkExQW0yODMxX3dXa0JXSWJCeXJFcF9pV3A0c2NBNzFHVENnN2t6YTR6MGIxOU9KXzJZa1RQV2RQRU04Z1lySjJJeF8yOFh1ZmlwUdIBuwFBVV95cUxNQUFKS0dPejhoM1VicVBDZW5neHp6Yjd4QW82MmFlTkxRbnhWNmdSR3RPOUF5Z2FnZnBOeHA1aWNXZmFlNHZJWm1uUFYyeEtyUGxHRlNGUnlRWmVJVEhBSnBuSW8wMmZfcXZQWVlHWV92ejNBQ2NERzhPcTlWemZsRm0wQjFoX3hsYjVORWhBa195UHhDb0plbTFuRjNWRXBqN3BjM0plMk9ndi1mRGV0M3U4d3NBMk9FTEhF?oc=5",
+      "pubDate": "Fri, 28 Aug 2026 02:36:54 GMT",
+      "description": "Congo launches Ebola vaccination drive to tackle deadly outbreak Al Jazeera",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Scott County offers free MMR vaccine as measles cases rise in Iowa - KWQC",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVDNDVTJLS1FEbzVFdlhtWXpaV0cwX216YkY2X2U5UlhqOGl5SmRiWWE5SXQzbEo5UXhqdUVIUWgxWml2TTRJRHY4dVZpdFg4enNmTDFrSW11UFVzbm05RnJoRllrSGdJaGxuVkUwelJFNzdodFBZY1MxRm9aUHEwbnJMc2Q4ZzJHY2NMeng3LTFINWVZRHVOV9IBrAFBVV95cUxNMDE3Yk5YUEdGVGZtUm9NbktrWTY2Nm5ySkdUYWNaWWI2eXR2RVZ4UWFXREs2MEtEQlZRWlNqQ1c1VVF2bWFnVDlIczdpM3JmQlFCbjMzbExCYjUtMEJ2c2dqZDhoM1IybGpkS2Rxb1V3U1Q2RlIyQzJNUE1wS0pxRVdCZjlnMng0X2xYdFk1bDY0ajhiU2lGQTNHcFZkdTlOM2lJbEZTQUVkcHpu?oc=5",
+      "pubDate": "Fri, 28 Aug 2026 01:22:00 GMT",
+      "description": "Scott County offers free MMR vaccine as measles cases rise in Iowa KWQC",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Kindergarten vaccination rates drop as new executive order worries Tucson experts - KOLD",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX196S1hJMllXUEI0VTlEZjduc1VCc0pfYV91blJzWUJWQUJ4UGNPR3NvZG1IVVJmdDF1T1A4VVZfN1Nqem0tS0hyaC1GUDZYRUx1cGE5NUprSExNdUNScm5EOWpFRDlIQ1F2eGJ0MjBVVzJmQ3htZ2FTLV92WElLRVE3UF9fSmUtS0ZjcFhEZTBOMnhYMFdvNkhMbV80NFZzMHBndzRiNjF6TEp4ZFJPSdIBxAFBVV95cUxOY2xrYUxBOXhxSk5reGxJTUJNc3Z2ZjRobnhFMGpQRUYxUmM2QzIxd3ZYRFFxc3hpX0VQbTlNTTRnNEtsV0lGcFFSYVJvR2pIbXRiLWx1eDV2TW9NQTFoRTBiYTFWNkVhNWVWZl9qck05Rm5jdVhtNXhsSVBPWG1mLUpjcm8wMFNKSWpVWkZReDgxSjRSZ3BUcWZodEFRcXFBUWhQNnRFTjRLN1FicE05RFR4ZUMxVnk1d2paOC1zazJqYlVy?oc=5",
+      "pubDate": "Fri, 28 Aug 2026 00:32:00 GMT",
+      "description": "Kindergarten vaccination rates drop as new executive order worries Tucson experts KOLD",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "US aid cuts threaten Ghana’s child immunisation gains - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaXBDUU9vdXYxZUdINnY1UHZsZHROQks0VF9mVmtMckE2TlBWT2tCd19obVlxZUI0S3FMcm8ybEdRaU5UU0ludVZ0a3lrVXZDXzlXQkFvOUw4VE5vTy00R0FoajZ6bUtrQVpoUVNtdHlKMk5fdndITXBjUFN5NnBrSDFuWmc2aEV5Q3FZX3dkaW5MTXJtQm9yY9IBngFBVV95cUxPODVSeXBoTU9TX1h3aGhrOEJpbTl4NG9fQ2p2QVFocVFETXptYUpUZ3BfXzNqWHdKbXhqTFhsVUd4ZUVTYm94Q3B3cmx1bWQ2MXoxS2RuWC1KOVZhVzZ1aGN3emZxRHhHWDYwWkRzazNUUmo2ank1emFPX3lEN0FGLThvMVB2VDhsMmpMT1BrUHptUTZVUy1fX3FSS0xGQQ?oc=5",
       "pubDate": "Fri, 28 Aug 2026 00:21:46 GMT",
@@ -986,6 +963,32 @@
       "articleLabel": "News"
     },
     {
+      "title": "Missouri below herd immunity threshold for measles; health officials urge vaccination - KFVS12",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb2pqZi1DS3JRNlBsRWlyUkNudTVjMVNZUUd0VzJ4XzZCOFhUc3VWZnNXYzVIVWVyRERKalVSOVhOa0l6UmstbGdvMGxRemVreVpOVTA1NHdoZU9sUHJjRUJhOXYyZVcyREVDdFd0YlN2Nm14WFM4d3FGVUlwTlpIbFlwOTVlY3VoLWh3QWd2aWRoWUZ4WGF4dVhpV1A0dG4zbTltNUR2RVc5ekxYeldCVjR0T25Xd9IBygFBVV95cUxNdzhKYzltOW96eEdmaEJxVDlaNE5pT3RNQ2czM2FjSzVNWGtoNndEeVR3VEVsclZiOHVYdmwyWUR6bVMzZVN6VFR6dFFBUjZVVmZFZnd0OTItVTZQY2ZqSEkyVTc1cGpCMHJuQ05XTzdORDI5NmpBOFI2OGVoUW9OVXRYVjN6RlRpTlVjSXVMSUNzX3luTmcyVFkyaXkwU1JFWXlDck1paWh0b1p4aEVjaW1vRkdGcUJDMFlaR2x5WHFSZlg5RzJxYUpR?oc=5",
+      "pubDate": "Thu, 27 Aug 2026 21:58:00 GMT",
+      "description": "Missouri below herd immunity threshold for measles; health officials urge vaccination KFVS12",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Philadelphia School District hosts vaccination clinic as state measles outbreak continues - 6abc Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQME1MNWh2aG1CdmdYRzY3Q1ExOG9nZ1QtVXBwLVhlRFd0WTZ4WGlJU20wa1B4NTVVcmMyUjI1MkVpYjEtMDhpY1JYZWh6M3l4aDRuV25hcm0zZGpQSnpqby04ZDZCM3NwM0dtTkNTRF9oeDVOTFJyczI0bUxTNFAwNTNWSUZaOFptWTRvWkI0RW9ERW1BV0MzX3dTN2JJLTdRcGxvd1pVUWJJQjlEV05jT1hYblNLMW1Md2fSAb8BQVVfeXFMT3FqV2dObUFULVhlQ1VJMDh0VEtERjMwMkItRzRtYXVRaEdaVGIzR3dPMU9hWDhFeWhIamN5UFNqZ1FpVE9rODY4VlA5VHN1Ykp5RU43Z0p2U0FMcjkxNHRGcjlsd0lUdk10X0xTVGc3RGlCaHhSRGE5amhncXZPUEFacXhXSWJVbi05NWpNZ2FvcG5RMm5HVC1FbndRd1g5QlNkbDBKa3U1SGo0ekVINVdfOUNoN0NSS05UcXFhaWM?oc=5",
+      "pubDate": "Thu, 27 Aug 2026 21:48:28 GMT",
+      "description": "Philadelphia School District hosts vaccination clinic as state measles outbreak continues 6abc Philadelphia",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Current shingles vaccine linked to lower risk of coronary heart disease, stroke and heart failure - Medical Xpress",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY2pVNnZmSldNdWpyckRWQnllM3kxNGk3VkxHdWFET3J6elJjSU9Dc3JKYmlmdzBtWTN1OEN6Y1NfUVVhZDh6WkVxbnhwQUVQVFg0V24yMHk4WlBiZDBWWjRPVmdReExaU2dHQmhuTGZ5RVZudVJaUFg3V3RSZExQLUdrYmlIZldTMUl2MA?oc=5",
       "pubDate": "Thu, 27 Aug 2026 19:40:03 GMT",
@@ -1003,6 +1006,32 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeDBlalBfQTRoQjJIQzcxZGlRcWhEUVptMXBoV3ZQc1JCOHFob3kxZWpzR05RcVg1OWhLeWxxeG84S000SGtFNTdmWjZkSnA2UjJjM3RId3ZkbnRFWlh4dTRKSnRFY2psakRkZk9UZ0QwS1YxVHIxWGZZUkhETDNHdWdSLW9nZ1VOUDZla1ZteVY5cFZtWjJXZw?oc=5",
       "pubDate": "Thu, 27 Aug 2026 17:28:35 GMT",
       "description": "Ricky Schroder doubles down on anti-vaccine criticism after Dolly Parton’s death: ‘I warned’ her Entertainment Weekly",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "RFK Jr. goes full anti-vaccine bananas over two measles deaths—one was a newborn - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT1d2ZzNTRGdFRk9JQkh0T0lXT1J0YXdpaUk3THdYZXBHMTg2VFh3YTZkWFJETXVhczl5elZoaXdoa3U5cTFtMURESVR4S0xTYmtfY2RhaG5JdmZ3X0F0Rk9WNTVKM2JkbHhYdzBwcndkQ2RFR28tYUpMT29iV2VqQzZ2cnhjMjQ0MEVmUWVlaW5mdUpwcUxHS2VzWHdXaUMxZW5PQ3NRbVYzalBtNGJhV0plbVk1bEVJYW04?oc=5",
+      "pubDate": "Thu, 27 Aug 2026 16:36:16 GMT",
+      "description": "RFK Jr. goes full anti-vaccine bananas over two measles deaths—one was a newborn Ars Technica",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "A Common Vaccine May Protect the Heart for Years After the Shot - ZME Science",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLXRxNEdJekgtenNwUFFObXlfamk2Z2lCd185TlU4dFVYYmFhTHRIbHJjNjJXcjdsbWhmZ05rRV9jN0JxNW1PVzU4aUl1bnNDblpLRlVKSjRQTzZFMUtHbXFvUm1PUWZUS1pzVXNDR0VhM0o1VWpXcnUycWRyd1FraFdHZmwtaW9IMVllNkVB?oc=5",
+      "pubDate": "Thu, 27 Aug 2026 16:28:12 GMT",
+      "description": "A Common Vaccine May Protect the Heart for Years After the Shot ZME Science",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1090,19 +1119,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Opinion | RFK Jr. once again proves his critics correct - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNEdfcHVmRDBTZ3EzVWoyU1NTaFdHOHJfb2lFTVM5Y0t2akduWTF4VFB5UElBREhKdnBXdHExU1U5MzFBWG5tS2lvU0NYY2ZRUnRqUFYwS2F5WDA5Q0dQR2g5WGJ3eE9PQWtpWWs2VU05eElsWmtCLXIzbF9MNHNkbHE5ZTYyMEdObUdxeF9ISmh4OXNuY1B1ZlRTYUdEczljWUJTZzhWMzVtb3hC?oc=5",
-      "pubDate": "Thu, 27 Aug 2026 04:02:06 GMT",
-      "description": "Opinion | RFK Jr. once again proves his critics correct The Washington Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "opinion",
-      "articleLabel": "Opinion"
-    },
-    {
       "title": "Shingles vaccine linked to lower risk of heart attack and stroke, study finds - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5",
       "pubDate": "Thu, 27 Aug 2026 01:30:00 GMT",
@@ -1114,19 +1130,6 @@
       "vaccineLabel": "Shingles",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "Amish threaten mass exodus from New York over vaccine fight —which is heading to the Supreme Court - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbWRpVURSX3ZpYzhRSEhCazhidWgzZ0JtV2xxQWlCUXNQbEZLR1NRWWdIYlp5UG45c0E3VzZPdXBsSEtyRGNveXFmLXJRLWlYOS03dF9UcnpTSVlHYmNSVG1xbTFCXzlRZFJJaHREX0xXLWFkcHYyeGctU2lpbDBqUHdmLXlhSUROaXNtQ0lHUVNKeHF3Wkk2Z1YwWDloMnhudmhMZG5zOWRBOWhDODhBUm1fT3lzOEtnNk1oeUVTVHZRalpzTjBmcDhpZ09kRS1XVGc?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 21:26:00 GMT",
-      "description": "Amish threaten mass exodus from New York over vaccine fight —which is heading to the Supreme Court New York Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "Dolly Parton’s Other Legacy: A Fortune Given Away, Dollar by Dollar - The New York Times",
@@ -1151,32 +1154,6 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Florida Catholics slap down state AG by rejecting religious vaccine exemptions - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNckVvS3Z4em93MHFhOS12VlBZYldHaFVOWlczZC0yQ0NfeXpuNllaMUF6Q1M4MXlUTVFJLWlmX0U5VVUwb2pzN3BwdEhoMmpyQVNGMGJIT1ZvaXJXY1lFUkd0cHpFVFZpcmk3MnlKZFJ3ZGJBT2o1MnZDMm05cFlEU09rYWp0clFsWDIzNC1ycW5wazF3c05QS2c5dzlkWDd2RW5uSkI4eWNDbzJVbDd3eXM2MHMxcjB1ZmpR?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 19:39:24 GMT",
-      "description": "Florida Catholics slap down state AG by rejecting religious vaccine exemptions Ars Technica",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Kennedy posts vaccine misinformation, spars on social media amid measles deaths - STAT",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORnIyV3hRRGFtYzR0NDg2czhtMk41Q1h0ZEVqdzZNalo2bjRKSGREc3hrSzYyenZ1dV9rTVVpNi1YamFhVnBaU3NBcEZNV0dZUmdDbkhyWE83eFFOeFAtdTB4eGlNTHBrTHhYUEpOWW5pTzJtTDc5NGg2blFtV3Rnd3FBR0EwY2ltOVRvWVlkelRLUnNCc0dMbG9IcjI?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 18:22:03 GMT",
-      "description": "Kennedy posts vaccine misinformation, spars on social media amid measles deaths STAT",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
