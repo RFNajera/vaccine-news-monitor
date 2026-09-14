@@ -1,36 +1,41 @@
 {
-  "updatedAt": "2026-09-13T19:06:32.088Z",
-  "itemCount": 76,
+  "updatedAt": "2026-09-14T12:14:41.985Z",
+  "itemCount": 73,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 10
+      "count": 9
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 6
+      "count": 3
     },
     {
       "key": "rsv",
       "label": "RSV",
-      "count": 4
+      "count": 3
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 8
+      "count": 9
     },
     {
       "key": "hpv",
       "label": "HPV",
+      "count": 2
+    },
+    {
+      "key": "polio",
+      "label": "Polio",
       "count": 1
     },
     {
       "key": "hepatitis",
       "label": "Hepatitis",
-      "count": 1
+      "count": 2
     },
     {
       "key": "rabies",
@@ -40,28 +45,41 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 43
+      "count": 41
     }
   ],
   "items": [
     {
-      "title": "Pennsylvania woman dies from measles complications, marking the state’s third this year - nbcnews.com",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS3BQR2VTbG5qMUlnMWpjSl9rM053TUROZXljTE15UlN1ZjRpWWNuSnlSS0s4RXF4TkRDTmRoWWx0dExWX2RLN3dleWdVcjZRUHhqeTBmeFpES2pPY0dOTEZjN3lMRjQ1ZklZMzh2TlR3VVdsdVNsOFZSWXRPZUh1bWlDMm5OdDJRd0gyOVVR?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 17:51:31 GMT",
-      "description": "Pennsylvania woman dies from measles complications, marking the state’s third this year nbcnews.com",
+      "title": "Pakistan reports 4th polio case of the year - outbreaknewstoday.substack.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS25Rb2dyb2ktdks0TkRyTkhKVmFOWlBxQmxSUXNfZHk5ODdCU0p3czdyRS14QVA1WEtBU29EZFJxT3pNS3JYM01ZX2ZnTkdmRGNlSkluQ1dVa3ZtZGZVOFJiSGxqVmJHZzJCcmpnaDYxekJTdE9qSnQyZ0pvRUVFdw?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 11:54:13 GMT",
+      "description": "Pakistan reports 4th polio case of the year outbreaknewstoday.substack.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
+      "vaccineKey": "polio",
+      "vaccineLabel": "Polio",
       "articleType": "news",
       "articleLabel": "News"
     },
     {
-      "title": "Pakistan to require digital vaccination proof for Hajj, Umrah travelers from Sept. 15 - Arab News PK",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNXzJOSmZLUVNFMFJJZzFWb3U5cF9WT09nVGFTSXItUUVlYWoxc2pDeDFmbzh0TzVaa0x2ZVhKSzFZQTRFSFlHUHZxNklDOUZDLXJlTGhXUmRLVkt3cXdycS03TFRadXh3Rkx5NlJVY3U1ejR6cHEtTndKVlh3Vi1ISzR2ZmpaNDktMF9iTVVFMktodjV3LWZMRzRzSDZmS1lNSE0tM3FJdFUyaWxXNm9xTVA0cEkzam9zV2l3YXdURkpFUQ?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 17:48:43 GMT",
-      "description": "Pakistan to require digital vaccination proof for Hajj, Umrah travelers from Sept. 15 Arab News PK",
+      "title": "WHO prequalifies multi-dose RSV vaccine vial - Open Access Government",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOamU3MGJxOEl4TWFjeEIzbXF0dnIyYjg2ZzM2VVZONU44SC1aYkZJVEc2WnhKdWFSLVpLOVhMTTg0blNSUHhPelNrcmNGNzBhVDdkMTRvamRGZVhEeXU2cm1xRUpBamw1X0ZTeDB1RDlnYVZtLTBsRjFteUdmRUl6bERRYkJVeFNvNWpvdWJEWllVaGc?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 11:53:25 GMT",
+      "description": "WHO prequalifies multi-dose RSV vaccine vial Open Access Government",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "rsv",
+      "vaccineLabel": "RSV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Why Is RFK Jr. Ignoring Outbreaks? - Paul Offit | Substack",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MSXpkR2FrQTY4aFVLU1FOTTBfV3U0YVFuaG1kaW9Hb2ozSmpqRVZJQ0ZKTEtMT0pBY19oUWdtM256X2hwTVRHQ2JXN2VrdGJIWGcyb0RtZmlUSmlJYURScjI0SC1sbjRZRU5aREpkdUtJZVk?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 11:31:10 GMT",
+      "description": "Why Is RFK Jr. Ignoring Outbreaks? Paul Offit | Substack",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -71,15 +89,275 @@
       "articleLabel": "News"
     },
     {
-      "title": "Flu, COVID-19 Surge Strains Vaccine Supplies - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQek1mV1JOSTdObDEtYTRiZ2MtRzhFc3FSZHp3WXl4anJ0YW42YVBOT2dMa0xCTkViZWktTGI0R3FqWlB6NWg5NXgxX2RRN0hEZFI4U0lLcVlnbURaSGg1eF85VmZhVjJ0SDhpR1VFaHhBYThYX0dhdFdrR054LXZkc05VZTlZLTNU?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 15:46:09 GMT",
-      "description": "Flu, COVID-19 Surge Strains Vaccine Supplies 조선일보",
+      "title": "Furry friends invited to low-cost vaccine, microchip clinic - NorthcentralPA.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOGQ5MlZtMS16VEhtMXZtM1pkWUhpX2tfTU5vWmZQNzhSaGkwbWpwQmVyMU9lWEl3djRLdTR4b1NycVczN1ZBQWJLdEJtR2pkSmw1cEpqOFBFel95djEtUGU1amtaN0NILXB2M21OUld3NEdHd1JVMC1ORkgwUnZpNDhiYnJPemRULWl1eVVxX1VBTVZuZUhOMkc1OVI1M1pVZ1lTZWlfV0FYR3lBZFFlejNjT0VDQTJScmJxbUQyRTM3OEo0ajhibHNUSS1LRV8tOGEyMWVMWGZXUlJT?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 11:00:00 GMT",
+      "description": "Furry friends invited to low-cost vaccine, microchip clinic NorthcentralPA.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Illinois braces for flu season after last winter’s historic surge - Jacksonville Journal-Courier",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaHdwLTlKUDg2U29BV2pXSGZ3a2RBcm9meHczM3NfeHZ2V0dxVjBBU1VUUlhKaHU5eDNDZjd4SGlVZzZQdkZhdEtHVnIxbkZBU1NHUEZRMlNkR2RVaDlVZnZLaDV5ZUhCeVV2X3BMeUl3UFMwWDhVWUZyRXpaaF9teEFRTHFTOWI5NEpIUUxqS2pCVURjOXJhbnRVVTZlQ3RpYXUyQWhLZ3VLeUhSekE?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 10:17:50 GMT",
+      "description": "Illinois braces for flu season after last winter’s historic surge Jacksonville Journal-Courier",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "New “blockbuster” tuberculosis vaccines could save seven million lives by 2050 - gavi.org",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVUFUQ21KVkViX0VpSm9pai1BVUZFMl9wV2RlZFljUk1sTER2X0tmdEFVcVp4QU1kOXRfakNjRFRjOU4yeEdJU3BTWDdaMnFvT3EyclZ0UXN5VXpOLThtRGliVUJGQXNCTXF5TnpfSUhEekNsbVVwbWczRjYtVE1Vc0VoRTA0RG95eEwtRmZaeENISGNiM0QzaldSWTVLM2RNZjgyeFFNRkdlTUVsUm1V?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 10:12:46 GMT",
+      "description": "New “blockbuster” tuberculosis vaccines could save seven million lives by 2050 gavi.org",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Pennsylvania doctors urge people to vaccinate as flu, COVID-19 season approaches - WHYY",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRSjNnS290eWpfbklXRWtMM0RXUmdtMERUV0lKWTFnLXl0T2NXQVl3cXFsa1lmel9KLWJheV9KRzZkSU92SUpGQjZleXlOWFdhZ19RaHdqR09EWG1qTDdtSTAtM2pZN1FrSlZoWUdQdGtfS0RC?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 10:05:12 GMT",
+      "description": "Pennsylvania doctors urge people to vaccinate as flu, COVID-19 season approaches WHYY",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Colorado has 6th-lowest rate of kindergarteners vaccinated against measles - The Denver Post",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNckNkNkNObGZtRVdOdGM2b2VuS0FYeWI4RklwOWxQc1NremhtbmJSZnlzaE56ZmpIbkpJMENYQy1tZEN2NGU2LXZnTVFmbTQxNEVXUXZCSHVmUFBRYVRERk1hQnEwV0I4NnU3M29YUnllRkRISmdZclBMMnFNOHpUSkstamxrQlU?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 10:00:17 GMT",
+      "description": "Colorado has 6th-lowest rate of kindergarteners vaccinated against measles The Denver Post",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Karachi airport extends deadline for Umrah vaccine certificate to September 25 - The Express Tribune",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM2trZlRUa0wxVmIxSjVWVUpNQm1lY25vWnRaS3RIZG5FS0J3WVIyLVpNOE1nRk44alp2ZEp5NFppdDE2c24ySEtMTmJQVlJLalhlc0RPM2I3ZFZkWjR5a1lCVjB5dTFJc3Rmdm5ldlpZdmFLWFUzdXVybDR5SDZ6WTRPOHQxU3lnY3NyOENuWlpZTWNEbnVSOG16ZFlobmUxamF0QzZwOGFYSXFiSS03MkE3Ri14d9IBvgFBVV95cUxQaGl4OUNoc2hoMW13YVFHdnIwQkVhVVhMNUJtdVBiaDJDclJ0eVFSWGNxazh2c25Xck5FZ3A5SjhZN2FrRUhIS21rWnRiR2Q5ekItYWNMRUg3S0NlMzFfMVhWREpwYXhVd2s2aUpGZFUyVEpJRFpqc245RzdJY3B2TkVpeFg2dEhyeFB4aHNPeHRlWWREZHEyeG8tbUdVeHJCU01PNWRCTHRZNmJkZUZRYW96RncyUXB0YkpJa3lB?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 09:15:06 GMT",
+      "description": "Karachi airport extends deadline for Umrah vaccine certificate to September 25 The Express Tribune",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Misinformation, hesitancy could blunt impact of new cancer vaccines - Stateline",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYWZhaE9zbndOa3MyTlpXMVB5YVl4Y01GUXM1QTBXVDY5cURUZjBvV0dVMzF6a2FxeEFtZTA1c3pSN0tyM2tvRnI2MXNQN2VRdC1EczdpR3FPeUkzTElYWm1KT3dOQzFjTTZOckd5TXBvRjJ2V1d2V3pybkFJTm9XV2hIQW4yUXV5WDVmZFhwWmZ2YUNhOTQ1anROdUNxTjNISkE?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 09:11:51 GMT",
+      "description": "Misinformation, hesitancy could blunt impact of new cancer vaccines Stateline",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Good intentions aren’t enough: many who plan to vaccinate don’t follow through - Substack",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nYjZvQW05NFhXQ1hNM0NLUXo2NGl0U1BmcEdoWGE0NkluVEMxYnYyeW9LM0FUSHVjN1NhQ0VLVVU5bURab2xtUHpjcVlTUHpKNG1DZzZJM1EtWVZvMElLVEhTeWpjcXU2ODdZQW0xZWMxcTlhVDBFZFdxYTFRUQ?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 09:02:29 GMT",
+      "description": "Good intentions aren’t enough: many who plan to vaccinate don’t follow through Substack",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Cancer advocates join physician groups to defend Florida vaccine mandates - WUSF",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZFR0dWhndUkyY3JRaW5MOUlCNi1CSWhBU2JKcmI2Wk1SRmROaG84cGV2UlJMSnlaVGxhMEI1aG55a0lfdVM1LW9OMUdjWEs4UksyNFAyb2Rzdk84YVl5SHNNbGNLMFJDaWdWNjdpLXpmQThxZTlCLW1yenJHVEVPVjdjRWpnOVc5NWNMZHBLM3ViNnVLV0o4aXlRMDR3Mk5tUlJHcklTWUlRUml1Z1pDRTlGcU0yRnBiZlE0ZTUyYw?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 09:00:00 GMT",
+      "description": "Cancer advocates join physician groups to defend Florida vaccine mandates WUSF",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Why Bangladesh has lost 1,000 lives to measles despite record vaccine drive - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbHlteHgwNzRxZG5mTTNid05tU3JBcS1DdjJhWkowTkJoejAwd1JISG1xbzV2OE9Nbi10Z3VhdldlSUl3UVRQejFUYklLdUVYd0hkSW01aUZOV1FqbXowYUhOVXFwc01BamUtNmFPZDdFb3hyTXdmZlpVOS1saVVORVJPNEx3eFBfRG5scEhQNGVJV3I2d1Nvalo3SUVfXzVVNEh3eDRGZm9fOW1XOFptcWtjZEZWd9IBuwFBVV95cUxQT3dtak9JMUU4Q3d0S1hsVzUwS0hOMDBnQk5Bdkl2MXhvS292SW1GSnhTUWxTZDF2Y05Nemg2NlF6YnZTNmtNR1B6MEcwMk9tUUNhZk9mNE95RjhhVE1zalJtbnQ2TmhScUZ5b09iTS1CQ19oam1rS2NXZlN3bENYR3ZzVGFrMVJpQmtPSWVlZVFuekZYSmhCM1FsUDQwcDB2OFlSMUxSQlFUY082WWE5dkNVdEc0Z2VaMlc4?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 07:57:09 GMT",
+      "description": "Why Bangladesh has lost 1,000 lives to measles despite record vaccine drive Al Jazeera",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Early flu arrival prompts govt. to accelerate vaccination schedule - The Korea Herald",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iLXJ0RUQ1LW4yb3FBUEZVMXdsc0w2VG8xTEpyRmoteUlBc2gzQjNHX1RrWlBvb1BFRmNHT3FGa3BYUUo1VDQxTlhoaXY2Rm1TVVVCVTBkbw?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 07:33:47 GMT",
+      "description": "Early flu arrival prompts govt. to accelerate vaccination schedule The Korea Herald",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Maryland Releases New Vaccine Guidelines - WCBC Radio",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6SkpWX3BmT0pVZFVETTRUTW5WYTFUbXNYQXhoQmw4NnRiYWo5YWhOMjBqR3k4ZW02N19ib0tRZ1h0TWFCQ041NEFHbS1jNUhzYS04QkMxQzNRVk4zNm9ESV9LUDJaZF9CMXk1akNvdWo1V0gxRW1raGxJSjQ?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 07:16:01 GMT",
+      "description": "Maryland Releases New Vaccine Guidelines WCBC Radio",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Attorney enrolled in breast cancer vaccine trial to speak at St. Andrew’s Oct. 18 - Mountain Home Observer",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUHVvVElYUHVyRGhEXzhFUDctYjUzaFVHTWN6azIxTWhGT2xrREVoNFU0N0gyYl90OFFHU0pwZ1pTQWRETlRaQlRBc3RScGc5b3p3ZEdzM3k1YWxYME1OSG9Pc0hhdzRRRGFsYk81bzJFM0pDNmVQSHpZa1p5cFZaT3pSU2JZbmFmRDI4WkZHWFJfanp1ZVVCY2tPcmlWcXZPQUlPSg?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 06:57:42 GMT",
+      "description": "Attorney enrolled in breast cancer vaccine trial to speak at St. Andrew’s Oct. 18 Mountain Home Observer",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "India Crosses 80 Lakh HPV Vaccine Doses In Cervical Cancer Prevention Push - bwhealthcareworld.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSFBic21pUWFiNFFlVW9DdEdJbVJraHVZNlA5a0owMWdfcHd2emEwcVN1VFEtXzljZklPN2RISzJSUVBubHNSenh4UzJnczFWb3RjUjIxWEJiMDI0RjkwaDZIWlZ2c0d6WktoNi1FXzRuT1FEVnRrNFY0TVJFT2s3YjNhZlctc2pYOVZjU0EwalFHTHlnQ2RVcXJweDZIT1NoRWZ1Y2plcVVxNDVrTjVlcGdERTJaY3ZTQm5yV3JlZFU?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 05:07:51 GMT",
+      "description": "India Crosses 80 Lakh HPV Vaccine Doses In Cervical Cancer Prevention Push bwhealthcareworld.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hpv",
+      "vaccineLabel": "HPV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "5 drugmakers chasing Merck and Moderna in the cancer vaccine race - BioSpace",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWmQtZ3RubGJYc3NzSDdBMlJYV0VOelUtUVVnRGtxRHFsOVZBSTV5a0c1ZlFDMkRqa0dMUUNzMXZTOTF0enNhNVNqdGMyNUtSTXY1eXJZOFFCa2p0M2pSQVVuSGRKOEkzRzV4WWUtaUVYcjE5bUFKTHZpdk90bmw5NUI4ZmdBZlhjWUJRNzdTQzI5Y1ZERUZkcU1MUDFiS3o4b2FoYzZ1bXROYTQ?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 04:10:36 GMT",
+      "description": "5 drugmakers chasing Merck and Moderna in the cancer vaccine race BioSpace",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Bucks County outpacing average for new COVID infections - thereporteronline.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcm4zcUJZRlRtVDEzMHd4MlR0VHhzQ25oSTFoaFVaNVc0X1NMRVNZdlppUnQxM2E2amVjUW0zMXVCaHRkQjJSa3k5R2lvcnRkUzBMd21vRU4tOEFhYXpJUnRmckdPZUcteWNqQWJUQ3J0UzBrUkFYVERZTjJZalFsUGJ1U1hwMFlTRWRrQjJ3VWsxd09vZ0xWYUNRdWlSMW1WMDhR?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 03:29:34 GMT",
+      "description": "Bucks County outpacing average for new COVID infections thereporteronline.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Vaccine-injured Canadians testify in Ottawa - Global News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTXJONGdkOU9mc2NRMWlmYVVHdkM4SU5fRTV5YWdfb19JNkJWWWk5MkVlYVJQSDdoQXdGUDhCdzBKd2xHVlZfNDBqYjIwemdWcVk0eVRvTkM1N3JteG81ckR6Y0poV3M5a0JZZUdRaHh5emYxWDNTQzlLeHhENEZtdUJWdUN0QTc5?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 02:30:51 GMT",
+      "description": "Vaccine-injured Canadians testify in Ottawa Global News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "GeneMatrix gets government funding for phase 1 trial of hepatitis A vaccine - Korea Biomedical Review",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tV0FBNFdvVGJzY0tXX0o1ck9WNjBWVjIxQV9LbENyWnFJc0phaDRBNkkza0FmaU9PMFFJRmI0SHBaM2w5NVB2ZE9IY2ZJVmxlcU41S0pOMmJ2eXpFYnlnTjVBa0pMSVlaQmxKODZn0gFyQVVfeXFMT2NrSjF6dklEMlo0bUJ0NjNtbDZPZmZaemQ5d3ZqRS1mZFY3SVN1Z2huVHVyVGZyUGhTZ21FVUNXeXpnZFNIcHFqbF9KSzhSMUlkd1JlenZRcGtCVFV5aHNoSnVydjQ0ZjV0d0dfNVJzOW5n?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 02:30:32 GMT",
+      "description": "GeneMatrix gets government funding for phase 1 trial of hepatitis A vaccine Korea Biomedical Review",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hepatitis",
+      "vaccineLabel": "Hepatitis",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "A third person has died of measles in the US, health officials say - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM2pWUDAzNUxvNTltSUw0aHNZS1RzZjhoOFFKc2Q4TFBlMGxPdThSNUFhckxpTmZFbmtzZEd3UFdIamRWdVpqYWxxMFM3LWhwMVJ1djhxZXFveExhRTVUVDZVU1NqTGVCcGlxNVVXS3NWekRwS1BZbXJZMFBYdVVRUmdhWVM4QnV5dVVLM2ZXVnl0cjdqX3hUcmc3eTllbVV5SEl4eHlPZWx0Z9IBrwFBVV95cUxPNERiQUpseUg5aVAzYnJ6MUppbE5NUC1fZFAxaUttTHVwaU1VSTlQRjY1b3kwMEUwR0lQNkI2WVVuS05aZkJzVG9HamdGZUlnSGJrTE1UQ0J0cDFTcVQ0XzFvNjFPTmNYc1NOSG1BRlVaSk90ZTN1VndxQmstdDQ2cE5CWnFYN0NxYWZONm5iMFNldzJLam1EaVQxOXowMGhabHM2SEhUYXRNOEJxQWh3?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 21:27:48 GMT",
+      "description": "A third person has died of measles in the US, health officials say Al Jazeera",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Tedros Adhanom: India Reaches 8 Million HPV Vaccine Doses Milestone - oncodaily.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54bk04cVZRdVFMLW1fdXR3RDYyRE9SWEFXdEMySHFqcFhXOUxqZ19kM0gwYnRhNWRkeDhxcGJCbzJOelNjV3RWUURWbC1hRHVxaWhKS2ZVWFVjZFVja1czSFRyaWJMNFpzX3VvQzZvNTBrLW5s?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 17:48:10 GMT",
+      "description": "Tedros Adhanom: India Reaches 8 Million HPV Vaccine Doses Milestone oncodaily.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hpv",
+      "vaccineLabel": "HPV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Dr. Santina Wheat answers vaccination questions - WGN Radio 720",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeFBwR1A4NllQQmVUYmtxQ3A4V093Z1RMWWNWUzZvQ3d3MXlTSHc2Qkx2MWE5Ym9tN240Z3hnTUR1Z1RCUjE2Ynp5VlBCd1Z6NUhNcnJlVUJTQk1nUWVyR0c3Y2xYWjMwX0pZTkp4QTBYbDdhUHJzR3hJUWFSZV9ZR9IBhgFBVV95cUxQdXpzcmV3czlZY3pKZDJXYmN0ZkNkOXQ2eHdobTRVOHd0dFVtMHVRYUZIbzdFNU16ZmNkd2d1WTRqVTN6SUV2SWZYbm1vSXRGSlFQZXoyUE5PcWtVNHhDZy1tR1NQNlMwUlRvVENrUE1ZYzU1LWRBTi1PWVZRMkZ1TFltY19ydw?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 16:40:19 GMT",
+      "description": "Dr. Santina Wheat answers vaccination questions WGN Radio 720",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -110,58 +388,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "MOPH Announces Inclusion of HPV Vaccine in National School Vaccination Campaign - Fana News -",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWXdWVUNyMGlpOGxYaUNCS19UNkR2UGY4eWR5ckVlcER2a0xEUTFBaVpWbVJGbWFoYXRwOUY5d3ZFN1pWN2F6T2JGNnRNZ2lyNXM5NnQwTEhIMzVTYm8xOGJyRE1QeEkwUE9aeU1YUkhablhRUmVQc2ptMnloTUpCWUZIamVTWEFhNVNnWU4yTlFmeXQ4VGprbTdhRjhMeFA4RzY4V2duc2NEdjdnS2FnRklEWXhqNEct?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 13:38:03 GMT",
-      "description": "MOPH Announces Inclusion of HPV Vaccine in National School Vaccination Campaign Fana News -",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hpv",
-      "vaccineLabel": "HPV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Health officials urge measles vaccine as school starts - bendbulletin.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMlg5cFNxTWdIdnZEdnpNRE01Y3hFamtsSXV6YmlFVk80akhyakRhYnJITWViNmpZd1VPdXhubWpLT01aZEw5ckdVY013RlNlWWtTMm5rSDB2a09vdmRMNDQwN3NYVGRwUl9XM0dUVDludlpLWWdia2tCMEZOcjlYMC1ZVmxPUGVhTnNPc2trbnBjaGxYSGc?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 12:00:58 GMT",
-      "description": "Health officials urge measles vaccine as school starts bendbulletin.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Chimpanzees once used for vaccine research get health checks as part of long-term care - yoursun.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQREd4ZUNaT1hLLXZENzRCaEVyZEtrRTVIUy1fRUJEUmdWTmJKSTd6TWJNU3NKVmtrQVRfOS1BYVo3WjJOT0JYN1RDa0hORXdSVjFZbkQzYzJBR2RSWHJrd3J4ZXk5Rnp2aG0teHoxbER3OUZSZWJfcFphQ0hJUTYyZUI5bzhOWEJ2MTV0OVdYRFpNdEFwengtU21uNmpveWdLQlhkY1RmYWFLdUtOVFNVVlBnZTN6YnhUNndhVkxUS3hhOUk3WUtSQWhEdzN1WUk0a1JCT1M1azNFRjVpRUxwdXFXVVF3N2luMTJ1ZUoxRm1tRVdMb1o1eV9WOFd1SmthVU5QVksyZm4?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 11:55:00 GMT",
-      "description": "Chimpanzees once used for vaccine research get health checks as part of long-term care yoursun.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
-      "title": "Veteran Affairs Flu Vaccine Clinics - ButlerRadio.com",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02UWVpRGxPRk5CU3VQSDhrbV9WOGdwMEJPMFVoWHRlSU5ZVkNuTDA1NmdPWG5rVDFCa2tCb2g5NkhPX1A3czBUWFVZM0oya3U4U1NPTjVEencwZE9vSlJaZ3g4Um9Sa0RUZjljUA?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 11:08:15 GMT",
-      "description": "Veteran Affairs Flu Vaccine Clinics ButlerRadio.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "The Newest COVID Shot Is Here — Doctors Suggest The Best Time To Get It For The Most Protection - HuffPost",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWU95OHZpMEZxVGhQdEFQU2lQQVUwSWd5NXh1Vldjd1Q2QmxJZDl4ZTdHTHA3THZHOVdrRnNGSENreXdEWWItdkg3VndEUmFBZVIzOHNsc216TUJOY0lpRlVNTWtUZEp6Zi1pUWNVRThnSmd5d1pFVUlyRWVoSU9RTUtmVk9XVUc2U3Bwc1hRMEJGM3hJVnI0ZnVqbGlYTkRid3lpaUgzeVgweXBJMTFibm1YYURQS29KNGQtVVczU0VTdzhUWm04U05UQ2RCT0hKTVBNcUE3N1FMbGowanRMVEJCQkswRzZqQ3o2UtIB8gFBVV95cUxPUWVHQkpzMjBxWS1BaXNOS3ZQODlXWTFZa2wyMVphb3JtNWxDQXk3NUI3ZHpQbTc0NGpiSl9fbG5rSEJORFNrSjVna2M0VG0tdlB2SkZEU1BsSzVsWVhMc2NpbEtNTDc3ejdIOThNek42ckR4S2E4ZS11SUVpRjNvdG1nRmpBUEFCWThkNjF0b1lUZXBHMDBkT2hPQzZXTExSd0plTUVRek9BUTladkRSOFZCQWpDNG5aNEwyRUNFc01uU3R1WGUwRVluSVQ0TGtPRkZqY1hXajdMV0hGSlZOTGYxaWR6TGx0NUMybE1TZFZaQQ?oc=5",
       "pubDate": "Sun, 13 Sep 2026 11:00:19 GMT",
@@ -171,19 +397,6 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "A Breakthrough Cancer Vaccine Fueled a Biotech Rally. Can It Last? - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTnFtbEFndjZkSHlQblNaSFQ2UXhvcWt1a2Fxcnl0M0NWZEJxQ2JjNVdKamlLcmp2VUp2THRpMWg2Tldxa2lOZzNaekZxWF9qU25TbXh1VmxTVHdSbWFPSFpzNXpXOXZ0WVFBTWFxSWExZjdWemNUOFJPRTlUcFFGdkt4RG4ydUxaN0RqSUVJQnJSRUg5dnRQN1FVaVVGSXBRdzRhVUlvTlpwanVUSVdkMWlqNU93MGY3cWM0ME1oV3FIcXM4di12MVNJYW9xeEZ3bUdzR2t3aTg5MF9vVWlGbExJWHNEaDBxYmdF?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 10:08:25 GMT",
-      "description": "A Breakthrough Cancer Vaccine Fueled a Biotech Rally. Can It Last? WSJ",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -199,19 +412,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "opinion",
       "articleLabel": "Opinion"
-    },
-    {
-      "title": "A free flu shot convinced only three in 10 elderly Indians, revealing deeper concerns including safety and necessity - The South First",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zQVplZ1phUmdmdTktOWlHN0poWGh3VElidFlfd1lWeHE4aUVxZV9fNlc3Y21MV2J3UTg2cjcxZWJHbWt4Q3lEbmdlMmtOVFhsZzFvWTNvc19nX2k2MUZVTVJxZnBmRlo0TXdBNzBMdU5jUQ?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 01:34:32 GMT",
-      "description": "A free flu shot convinced only three in 10 elderly Indians, revealing deeper concerns including safety and necessity The South First",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "Marshall Health Network hosts vaccine drive-thru - WSAZ",
@@ -266,19 +466,6 @@
       "articleLabel": "Opinion"
     },
     {
-      "title": "Health department to offer flu vaccine starting Sept. 14 - Northwoods Star Journal",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON2hQYUIzRWFDejZZRE5aNzF6YXVXVi0tdmJDbDdzcElBRFdZbGM2ZDZFbkpsdDZOLUphWXlZQlJyZU1kZno1bmREOHVIQVlRZ1NKdzNWYVhDUzR0UGk4Y3BKSFhGRkhOS2NjMGdlMl82QTFxNUFQaXB2LXVWLVpZR3BfbkNNUVZHWXMyMlk4N1NxTVpGWTgxSkRLSURzY2M5QWc?oc=5",
-      "pubDate": "Sat, 12 Sep 2026 21:00:00 GMT",
-      "description": "Health department to offer flu vaccine starting Sept. 14 Northwoods Star Journal",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "Florida ranks 41st in new vaccination study, placing state in bottom 10 - WPEC",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTnVZQU5SWEYtdHM5TUhWallXNkxyOEZCbkQ4QXNjZWl4c0w5d21pR3Q5S0dxVVUwRjdzZW1nNldIOVdfUnc3cEVCLWtXYnlWM2RRWjVZdVo4OHNLSm1tMVJNYk9ERmh4NnE4MTMyYkJFVnNTbTFfbVJMeEdUMG9PVWRFZDNxZU1jOHljeDdzLWZYVjVPYmFBaXA1Z3l5NjlKNkh5U2pnRzJjZWdwbHN0TVp1TnJibzhwOXZpUWNEeFdxaGM?oc=5",
       "pubDate": "Sat, 12 Sep 2026 18:08:34 GMT",
@@ -292,36 +479,10 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Pakistan to introduce mandatory vaccination proof for travel abroad — Dawn - UA.NEWS",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbmVEYVFsYjdhZUlUNjBjSDhWM1ZxMW1NRXE4N0h2d1hqTWtJTjJoVTJRM3dYemY2NHJ5TndDeEZXanFxdDA3YW1WSXlOUjNCWllvdlJTVTAxcG8yU3d0SFRqT0dhZm5BbkFvUHBRZk43R3NNelN1Z0ZzVmRJeFVtelhVZkVCTXRLWnAtZHNjM2F2NUtOUi1SUUlXd25CUjVjUFQ2anZhbS03cDV0bkRteFc0aTN4TFFRdUE?oc=5",
-      "pubDate": "Sat, 12 Sep 2026 16:21:19 GMT",
-      "description": "Pakistan to introduce mandatory vaccination proof for travel abroad — Dawn UA.NEWS",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Christian County Health Department Talks Vaccine Recommendations - Taylorville Daily News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObGR3TUx2QnFXeXEySVkwd1JockY3OWd0QkFkWl9McGxnS2xRZzRydV9UcUsxNFpBdjVuMUtIc2d4ZzJGblRJajV6Z2FXVG1OdDlnai01M24zdjhrT0JLVTM5dDBSVmFmdGE0eGR3ci01ZnpYdWVsQmpINVd0UjBhTkVZdkM2WmJkT3d4dmtpYjk4NzNiSXMxSnlWWkhiR1oxMFpsaw?oc=5",
-      "pubDate": "Sat, 12 Sep 2026 15:30:50 GMT",
-      "description": "Christian County Health Department Talks Vaccine Recommendations Taylorville Daily News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "State report: ADPH approved nearly $28M in poorly documented COVID vaccine grant spending - WBMA",
+      "title": "State report: ADPH approved nearly $28M in poorly documented COVID vaccine grant spending - abc3340.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOblhHMVFLMWJuN05wZjlxbjlsaHlIeExkX3VrZHMwenlGZW9pR3c1UHRkcVRyYzE2UlZJaEdIZGpzX3NkUEZiUHpBc3MyTGJKZVduSlMweGFUWjBTZ29FX0VyZE1qb1pickVxWVRFY3pWTzgtNGxOVVBNS1RWeUZOcTVqMlhfNW1aUkxQWXhvUHJnWFRuRVVUNzl5dVgyc1VmQXlVSDlWWUJ6dUo2bVFYR28zVjB2NUpvbERqOU1GNkRqVWM?oc=5",
       "pubDate": "Sat, 12 Sep 2026 15:22:22 GMT",
-      "description": "State report: ADPH approved nearly $28M in poorly documented COVID vaccine grant spending WBMA",
+      "description": "State report: ADPH approved nearly $28M in poorly documented COVID vaccine grant spending abc3340.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -344,10 +505,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "U.S. Supreme Court Declines New York Catholic Woman's Bid for Religious Exception to School Vaccine Policy - The Good Newsroom",
+      "title": "U.S. Supreme Court Declines New York Catholic Woman's Bid for Religious Exception to School Vaccine Policy - thegoodnewsroom.org",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPblhXdC0wOHZsSlJhU2owdE1RVkwxbmlJVk9sWjBzS1pJaTJTTUJEMXJ3a3RCS295c0NSblJHcjJ1RUpWdjJxWERPSFp0eFE5UlBReGVycGg0Sm5ab1dVY0tGRE10ZElCbGRDcDZSOGQ4bzBHcm1wRWNYMjlXc2VYVGlQVmlZdS1GRWpyLXBjSlgyRzExdktGUmZUVl80dVcxNXpWSkpRQWpsckVSMlRLQzh0T202SmxkSy1LUXdhVmZwMVo0cldGN1RDZk5vUQ?oc=5",
       "pubDate": "Sat, 12 Sep 2026 13:08:35 GMT",
-      "description": "U.S. Supreme Court Declines New York Catholic Woman's Bid for Religious Exception to School Vaccine Policy The Good Newsroom",
+      "description": "U.S. Supreme Court Declines New York Catholic Woman's Bid for Religious Exception to School Vaccine Policy thegoodnewsroom.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -370,19 +531,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "From Evidence to Action: Preventing Vaccine-Preventable Disease (VPD) Outbreaks and Protecting Hard-Won Immunization Gains in WHO South-East Asia - World Health Organization (WHO)",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPcDNGYTVBZVlIa3J5MWFYVlpVLUZUbDVhd29VWFpKbG9mNWNIRmRlVWhIaV9JeldCazY4NVlTZzROa1ZrcjNIOEdKYVUwWmw2WGlndVEtcktmTFU0UkI0clhCcjhKbk0tYVY4Ykc1S3JWUFhJbUtMaDlWLTVvZ3AtQlVCRzZ0U1FkV0o0X28wNS1WeTBOVWNfVHI2VkNLbFlLN2k5NWVSSHo5TGZZZVltTlBMZVVfZ1lKbDh5Rlc0ZE1uckRWcHlMNHNQM2NHckhvaGdPcUo0UHFBanJMenF5cm44cVViZHB4a0pzZnJlUFBYYTR0Uk5ZSkhkaHdkRmRiWXNHZnlFX29sbndJQVBEQWpnTU1YTWthSy1EN1FOaHRkWnlkNzVnbQ?oc=5",
-      "pubDate": "Sat, 12 Sep 2026 11:20:11 GMT",
-      "description": "From Evidence to Action: Preventing Vaccine-Preventable Disease (VPD) Outbreaks and Protecting Hard-Won Immunization Gains in WHO South-East Asia World Health Organization (WHO)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "These pockets of the Bay Area could be vulnerable to measles outbreaks, Kaiser study finds - San Francisco Chronicle",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUzVucVhPSlBvcXZvQjZFZm5ZZjU3c1BLaDg1Y0pMQzNaXzRaWW1nLU9vZ1dOSGVmSnRMS0JoNURfMkh3UlBMTTBPTVllbU81M3czaWdSQ0JKd0p2bDlIY05zNXoyNDFZVUx6UDFaY25IendiN1FMZU9kQk1lblo2Tl9EblBVVEE?oc=5",
       "pubDate": "Sat, 12 Sep 2026 11:00:44 GMT",
@@ -396,36 +544,10 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Vaccination a heart-health decision made with your physician | Opinion - Naples Daily News",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSW9iaENZUVZaREJfN1BtTjJLSTFTOHdzaTFucmllVm51anZxOTYzQ0NrZDBNTlRmMVZaUHNyR2VDbWVUZ2N3cFBqY05rMjd4MnI1VDFybnJhYWJFclh3bWNBRk5UV0tuT1BHSUF3ampmMzkwMW5wdkNMQ3ZtenduZlROX2l0SkhoUlV2SGgzdjVwQWZZRW1UcTFNQjhhc0lVSDZQQXNMWkt3LXN0dzJkb05STkNfbzlaSzdndXdFWWVzWkRRQ25hUw?oc=5",
-      "pubDate": "Sat, 12 Sep 2026 10:02:00 GMT",
-      "description": "Vaccination a heart-health decision made with your physician | Opinion Naples Daily News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "opinion",
-      "articleLabel": "Opinion"
-    },
-    {
       "title": "Cancer advocates join physician groups to defend FL vaccine mandates as deadline nears - The Florida Trident",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaXJTN0hsVVZ0aGQ3bUpHZ3BxbmRZWXNfM2tMWFkwMTJqNDliZUo0eDR5ZXhiY0U0SmNtOTM5YnRnWXNKd21tZklJVE9YV1hZRC12ZEt3blFtWnZUVGFTSzgtQzZGRzhUYXNXTlhGdDRWdnZ6VFk0OW8xUG5zRU04emRudDlwZGd1ZGhQUQ?oc=5",
       "pubDate": "Sat, 12 Sep 2026 10:00:00 GMT",
       "description": "Cancer advocates join physician groups to defend FL vaccine mandates as deadline nears The Florida Trident",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Vaccination campaign, MDH - Baltimore Fishbowl",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOSVNJRFNtVFhROEJtWE82Q3dXeUhjX0pZYXlVRU1FV1JHUXZ6UF9PWVYyTkJKQVdnUVpEMndwM0RKR3BMeDhQOU5UNWt5d2IySHpjeUVjamduMVc5Znk4YVBWZWQ0Y19WM2RzamRocHdrc29CMkVaOEd6dnNmSWQxTTgzZ25HYVI3Tlp5OU83ekVvZlZ2N0JaQ1lmYlprUEoxY1hWcFhXVDMyQ00weFIyNC0tWWMtN294MGhDeUtmaXZDbHdHMjJ3X0lTWGxhYU90ZHBWaW1YbFBqYVRXWnQ0LWwteTVaUTNvV2lXdHdCYkJpUFVZNHNLSi1hdlpTSHdXX3g2azlXWUdwQQ?oc=5",
-      "pubDate": "Sat, 12 Sep 2026 09:44:00 GMT",
-      "description": "Vaccination campaign, MDH Baltimore Fishbowl",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -444,19 +566,6 @@
       "sourceLabel": "News",
       "vaccineKey": "rabies",
       "vaccineLabel": "Rabies",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "New Birch Pollen Vaccine Reduces Allergy Symptoms - EMJ",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaTZwUDAyWnN5OHBQekdwM0xfOHBNMEI4LWxOc1NuR0lDT3Z1aVFFcFp4LXdETXFBcldKcTlfYjFfcFhjeVZwaUwyVUt4VVR5eUthU2ZoTnRpYllwZnlWb1JsQ3A5dHF2bGhjRzRQVVBIVF81SWRlUExra2pBR3c1Z0F5YVlvdV9qTU9TNldsdjRaQmxMWXFneUZkS1BqRm44WjVr?oc=5",
-      "pubDate": "Sat, 12 Sep 2026 09:02:25 GMT",
-      "description": "New Birch Pollen Vaccine Reduces Allergy Symptoms EMJ",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -487,15 +596,28 @@
       "articleLabel": "News"
     },
     {
-      "title": "Army Doctor Tapped by RFK Jr. and Hegseth Is Investigating 2,544 Troop Death Reports After COVID Vaccination - military.com",
+      "title": "Army Doctor Tapped by RFK Jr. and Hegseth Is Investigating 2,544 Troop Death Reports After COVID Vaccination - Military.com",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZzhIRGExcGk0WEpPV2dqMldqdHhVVlZJWjRKU1BnMHQ1S3VMUEstb09TYnl6VE83dnZxYmd4Q09pYktTb3piaEpGRlNhVmpwUFZ0dVV4WThpa1JrekpIVjRNbHpLaHpMUzVmMWM5d1pWLUc3WE4tZDFXZERDOHJfUnhfSERzWlVTeWdORm91QmpiekxlSUJmSHEwRV9MZDM0TmotaDhCeXdMYXgzdkpIMzl6cmJYR2RzQVZhSlZiZElCRXU0X2dyWnItMA?oc=5",
       "pubDate": "Sat, 12 Sep 2026 07:00:14 GMT",
-      "description": "Army Doctor Tapped by RFK Jr. and Hegseth Is Investigating 2,544 Troop Death Reports After COVID Vaccination military.com",
+      "description": "Army Doctor Tapped by RFK Jr. and Hegseth Is Investigating 2,544 Troop Death Reports After COVID Vaccination Military.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Health officials urge measles vaccine as school starts - bendbulletin.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVUk0Zi11MzJ1blZvLWdROUI2ME5Fc29lbFAzbVh2SDhDOHdWSC1wdHdZVXpuQmFlQWFWV0RIYXlmUnVLRU1vTU82ZHVremdvdjBuX05HYTdMRlNwRS1hS3BRQmNsYVpLNWtCMjBuWGRwZW5vNmJ6X1hUbEo0RHZKRlA5TURBSFlqZ3c2UWRoU1hDU3RRVGc?oc=5",
+      "pubDate": "Sat, 12 Sep 2026 07:00:00 GMT",
+      "description": "Health officials urge measles vaccine as school starts bendbulletin.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -513,10 +635,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "A vaccine trial for melanoma shows it can slow down cancer growth: HealthLink - KING5.com",
+      "title": "A vaccine trial for melanoma shows it can slow down cancer growth: HealthLink - king5.com",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMTV5QnJmU3pmYlU2NzB2eDFEbHc1dUxSTElwTzV0TTNkTVVSMTYwRXpvQUxuckE1b29mVkE4bXphcFRDbV9KOWxfR3Q2Mkx2TlFzRWg4QXdaeHZyQnNoZERCQTRzUEd4ZU1WampZYkdXeHhBMmR2d3ZIYXlocnNWdFMxNUFSbW41aTdjdERldFlRNWtWcndvYTZ4NjV1c3F1UGFqZDBQTGVxb1VldUtudlJzb3Vtc0RuZTBIYXhoRmhNM3R5SjlJdUQ5S1JTd3VTN0FoSXRVRTF0YXFlX3FDRmIzSVgtVl9Ga0hVWWxLUWg?oc=5",
       "pubDate": "Fri, 11 Sep 2026 23:53:00 GMT",
-      "description": "A vaccine trial for melanoma shows it can slow down cancer growth: HealthLink KING5.com",
+      "description": "A vaccine trial for melanoma shows it can slow down cancer growth: HealthLink king5.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -524,19 +646,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "Chicopee hosts pet vaccine clinic and supply drive - WWLP",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUFNBZk1fOGVRdEJlYzdGcXFQLWs3TGZuWUs5WW5DejZpTV9ERnZSckFTWnhjNmtTWUkyNXUzSWZrd2hPSEk5b09NUVU1dEhKcXh5QkREaU1fVlprWmFnckkyNzliVHRTT0lSUWpzcXctWThQTGhPUEdfeVNqMVZ2RzI5d3pyX1Z6Q2lMZVlXSEVLNlRQXzdWcnpUb2JrS2VZejhnZ0xB0gGrAUFVX3lxTE91OTRFeDlWdXdNZWxFRVdCaE5wNzdDd3FFRjY3dTA2TkV6cmcxc256YzI4VzBrdzFDYXdxQ01QZ29ISmhmQ3VIRjA3Q0dZV204OXdxUHE5T0xESUhoNTg2NlJvcUhFNklxbWRRS3ZHWE5ILXFtdklmbWNPeTBfMm93cnlpSUhTLTN1VGpJcWhwYTYxWlRINjVONC1QX3dZazUtVFh5NElnd2NkNA?oc=5",
-      "pubDate": "Fri, 11 Sep 2026 23:16:35 GMT",
-      "description": "Chicopee hosts pet vaccine clinic and supply drive WWLP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "Conservative MP holds independent hearings into COVID-19 vaccine injuries - CBC",
@@ -630,6 +739,19 @@
       "articleLabel": "Research"
     },
     {
+      "title": "GSK to shut vaccine factory in Germany, putting 641 jobs at risk - wtvbam.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVXRaQ0NrWVdSMnZlQzk2LWZFRTZlR0ZEd185cmdiT2tiUWE1Y0RZaWRhU3JiV2xqclVpLVNIck5VQ2tVM09nYnhkYlVickNhS09QU3ZIbVd5UTgybXEwNkE2VDdjeF9udV9BS2FmSmQ2VDlhYkNoTkczbkI5S1NjcDRMRlQ3eFEwRVQzczVDd1F5aVZEY2JkNE1n?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 18:20:19 GMT",
+      "description": "GSK to shut vaccine factory in Germany, putting 641 jobs at risk wtvbam.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "GSK to shut vaccine factory in Germany, putting 641 jobs at risk - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNb2NzRFhZeHVIczQtZmEyWG40bk5RYzBYeHBrV0U1U3JDdUhXdThlSVJIR3BCektZVHBEc0ozdXJvcnR5TUtnQU0yeXhVQk9SRy01LXFFdGR5Q2ZGOEx5aEdhSzlSUHhVRkZfMkgzVUJFb2ZZWmxCQ1gyNXZvNjVUYkExVTBacVN3Qk9FeEhGRnZ5T0VRWnBvdks1RldRODdOY2dGTzdUT2o5LS03QzFkSGJMb3Fjc20xX0x3VTJYb3UyN0gw?oc=5",
       "pubDate": "Fri, 11 Sep 2026 18:20:11 GMT",
@@ -695,10 +817,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "USDA to airdrop millions of rabies vaccine doses over Southeast in October - FOX Carolina News",
+      "title": "USDA to airdrop millions of rabies vaccine doses over Southeast in October - foxcarolina.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX3R4R3Z5LVJPYUtWYTNTVndnYUlzbnN3YzhxVnpwYUVzMVhoRWE0UThyUlAwSDdDWjBzVUUxS3diQTZTV1FnODd2U0pleEUxSVV1Um5tNk1TVjR2LVh4T2dNSG81UmFUcS16THI2MHZvVVQ2bmRwX3dRd0d3WVlobG5wUUg0RkxjUjVyZm0tQTZMb2FickdvRU1aUVZMNngwMzBaTDBkNlHSAbwBQVVfeXFMTjViWUxMc0xycXM4U2lRRVN3YmtlUFptZjFTRWloTjQzcmdTY0lQNmlvS3M1NWZrTDZ4aWo1TW5UUXJ3M0dfamIwR2N1XzlUNjlTMlV4dHQ5WHVVM1lqT004MDJVWFY0TDZKZ1dJQ2JZd2JJSGk0aDJNVERlZU9fT3FoTEZRU0NNYkdhTWZyeVJJNnlYcWI3QTdib190QWZ0VFZ3TWJONnEtb1ZwT2xEeEdDY013TFhXS0hoc2g?oc=5",
       "pubDate": "Fri, 11 Sep 2026 16:56:00 GMT",
-      "description": "USDA to airdrop millions of rabies vaccine doses over Southeast in October FOX Carolina News",
+      "description": "USDA to airdrop millions of rabies vaccine doses over Southeast in October foxcarolina.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -708,41 +830,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "West Coast Health Alliance issues 2026-27 respiratory virus immunization guidance - KOMO",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSFk3RzNaN1l3bHlSN0ZjaElQaDNZZnJZYzlyVmhqVHg1WHZxZjdjc0ctVXhLZEZXam9wVS1nTElzc1dpT0hoTGtBbHF5Y2hhOTFHdzZOa0VieVQ0YjU3WVhlMkI2cWVYRDZESzM3NXUwNElCQXVVQS1EYjY4SEJ6b0VlX3RzeHVickNrVkhhTHdxQkxlTTVwMXN5RFVZWTRsRkhia3BmTUFqeWFRVzJYMXdOZFRzN0VZZW44?oc=5",
-      "pubDate": "Fri, 11 Sep 2026 16:27:20 GMT",
-      "description": "West Coast Health Alliance issues 2026-27 respiratory virus immunization guidance KOMO",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "What to Know About the 2026–2027 COVID-19 Vaccines - verywellhealth.com",
+      "title": "What to Know About the 2026–2027 COVID-19 Vaccines - Verywell Health",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QNmF6eUlkQ0s4bjRUTEFMOXZUZHFtUDgybzhkRUF3SGp6ZW54LXMzc25kOWE2WTd1ZEJhWmJxWkY1blRFdmZyUC1xc1ZtVVp4d0dNWUNaeXNNRm5sS29YVTI5MEdObDlJX2ZCUXNoT1I2dlM4SHc?oc=5",
       "pubDate": "Fri, 11 Sep 2026 15:20:12 GMT",
-      "description": "What to Know About the 2026–2027 COVID-19 Vaccines verywellhealth.com",
+      "description": "What to Know About the 2026–2027 COVID-19 Vaccines Verywell Health",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Clemson Rural Health announces fall flu vaccine clinic schedule - Clemson News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMFhIQVJzZE9mbzdncWRlR05rbENIdnpmTDRLYUNYWk5LbjhFM01jdDdoTXplRFYxRDB4RzBsZWVtbGpfcXhvYjZLZUJLbkM3dmRzbmFyeFY3RGctRU5FR3YtaWtEa3lCQzUyMUMzb0F4NlFiNnVHMnVRc2FGU29CMlhVWUhuZ0x1d05LOWpmdkRWbDg?oc=5",
-      "pubDate": "Fri, 11 Sep 2026 14:06:57 GMT",
-      "description": "Clemson Rural Health announces fall flu vaccine clinic schedule Clemson News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -786,36 +882,23 @@
       "articleLabel": "News"
     },
     {
-      "title": "ARF Hamptons Warns of Feline Panleukopenia Return — Urges Cat Vaccination - 27east",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRlRZOVRHNm5lOC1fTjlDZzdFNHlQVzZEdDBDeF95eUdtVmVMS0pSM3BYOURuRDc5RjJaYlpZSEtxRkk2eGNLS3h1a0FHbmZJM2xmLWpnQmhuMDhTd3JLbWUwTUt0UkE2Y0R2N3ZMdGJRSXFZVUJScUdIY3ZyZlplZkZvZWdLVWZUSl9IbnVGX1BsWktJOEltUHRnRHNnbDhiZ3RKaVBR?oc=5",
-      "pubDate": "Fri, 11 Sep 2026 04:00:00 GMT",
-      "description": "ARF Hamptons Warns of Feline Panleukopenia Return — Urges Cat Vaccination 27east",
+      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 07:00:00 GMT",
+      "description": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
     {
-      "title": "Opinion | Fall vaccines are now available. Here are your questions, answered. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRFpOWG13bXFra0RsdnJhTnkzRzBvZDdkMFRoLWc5VmozNmQ3c0VaYTl1aEMzWEt4eGtPcTRFWEhjT1ZHcEw2cmNxMjJKd3BUWDFBejFQRUtZNnR6NUVtdTdPRjBKVWZJOWtiZFEwMjdrbDVieEtlYTExSXJKSS1Ic3ZCdzNCcHVXSmlPS1czX1dsWElZcVRHYXMzdC1vZVk4TzJUeFNhVld2Y3NfdFoyMFJR?oc=5",
-      "pubDate": "Fri, 11 Sep 2026 03:30:00 GMT",
-      "description": "Opinion | Fall vaccines are now available. Here are your questions, answered. The Washington Post",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "opinion",
-      "articleLabel": "Opinion"
-    },
-    {
-      "title": "Maryland health officials issue new vaccine guidance - wbaltv.com",
+      "title": "Maryland health officials issue new vaccine guidance - WBAL-TV",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPazlsWkxheGVFQ2VOREdxZWV0RXA3OVRhWTZ6c3hLNnlPb29ZT0VaX25mUHdnMzVQb0lkeG9pQjRIcWp3aEF0N09RZ1BKeF9QWVBvN09FTTdPOVlNTGFQVC1kMGx1ZWIxamVpVjVCZmpHVzd3ekRmOTRacVdwUGYxMkJkendYSm9IVm1Na0RXdmxVRGxNR1FPSQ?oc=5",
       "pubDate": "Fri, 11 Sep 2026 02:32:00 GMT",
-      "description": "Maryland health officials issue new vaccine guidance wbaltv.com",
+      "description": "Maryland health officials issue new vaccine guidance WBAL-TV",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -851,19 +934,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "WHO approves multi-dose maternal RSV vaccine to protect more infants - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM3dBOWdiSGNkLXkxYnNhYVNnNGxSR1RiTFBLaXQxb0Z6UkQ4OFQtcW9oZmowamV5SjIzR2hTU25SWWh5dURia2FQck0tcnBGUUZ6MXl1OWJtNnJkMnp1bkVpTDRVTUg0TFl5QVIwcm1rWmI2eVFXWWVWQUdXMUxEYmtyZE5ONlJDMlNObE1QTFVZSjdzM0V5Y25BVlhLbXBOYXlkSk5KbWg1OFR3b1dSb096OG5LaThROGtqWjZUUmpTUQ?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 20:29:00 GMT",
-      "description": "WHO approves multi-dose maternal RSV vaccine to protect more infants CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "rsv",
-      "vaccineLabel": "RSV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Maryland offers its own vaccine guidance for the first time since split from feds - WTOP News",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd1FUZmZob1FIYmdZUFZvS0VZTTVWMEZNandYNF9IeDhXT3dPbEVYcEJsRmljcUJaWnZ3eVROTXUwdEt6bjVRTWZFOXRsRms0TmZDeE4zOURlWU1NZkNjZ2h2N3NCWGNWeHNxUTNnNlBKbmJQdlc0UlFRdFVoSFVLMXRkSFJmYjN1MWxsZ1JRdzdIWnNKa0RpSEVOT2g1WGZEZndFeVdKaUFkRUlxZ2FmRzh3b1dkQVU?oc=5",
       "pubDate": "Thu, 10 Sep 2026 20:14:09 GMT",
@@ -873,19 +943,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Austin Public Health confirms measles case in unvaccinated infant - KUT",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObTZ1THpSaXBmTnBpR0xQa3UyMUExODU1N0tPNzVQcEFocno2Qzlxd3JSb2xrSXFfV0ZqNTNwMTBYSzBCUURpNTRDT1JTb0xVQWg1NldDd1RRQnJ6cnBFQXlpeFlMalRvWl9ENkQ1RzB5eUptRXJ1ZVBuVWZiWmwyenVLVlZTSVJvYzNVTFdR?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 17:48:00 GMT",
-      "description": "Austin Public Health confirms measles case in unvaccinated infant KUT",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -916,32 +973,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Northwest researchers develop vaccines to prevent opioid overdose and support addiction recovery - Oregon Public Broadcasting - OPB",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSUMzVTd0Y21NTHFqSWZWVm9YOEVwT29VSmV2NHlyU2RCaGVUekVHZ3paOHpfSWpTQllUZ3FicmNnSmJoRlJ0MEdjOENtc1RZdGlNV0N4emtseGgzUExQQ2huSGhaeTlySU5OWENGWWJNTlNXNDFHYnBFc3dzWXFGNnhselNrenhKR3B1ZllBNFRYZXN2Wlo2OGNWOWhaZlk?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 13:14:17 GMT",
-      "description": "Northwest researchers develop vaccines to prevent opioid overdose and support addiction recovery Oregon Public Broadcasting - OPB",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "COVID-19 vaccination around immune checkpoint inhibitor start and survival in a nationwide cohort of patients with cancer - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FQjJIc0REZHd0QmZveWMzM18wRUhGNTFEM1daOU1LYlVSTlJYOE5SczRDY21MbEZfa0tURE1NUkNraVZqU0VEZnVpa3dhWi1Cdk02NjkxMGRSNWFxUDJJ?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 10:02:08 GMT",
-      "description": "COVID-19 vaccination around immune checkpoint inhibitor start and survival in a nationwide cohort of patients with cancer Nature",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Tetanus Vaccine Recommendations - Centers for Disease Control and Prevention | CDC (.gov)",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WRDVCTG03bTNCLXlkcHpxRWJzSWRJaXhFRnJteDJJUzZ5WUx4UzVvMS1ySTVhVDQ0WHZ5blBMR2dvdTVGZEEwWmtBWDIxVVdRanhwcGlsWjFzeUU5VE5Sd0hwQWpRamFIdVpqeTVKMWdacjZB?oc=5",
       "pubDate": "Thu, 10 Sep 2026 07:00:00 GMT",
@@ -955,58 +986,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Colorado reissues COVID vaccine order as virus season approaches - 9News.com",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOT1RzWUNSNmxJZDB4dGVndzZRU1E5cHd3em5uNF9MWlk4Rzh2YjNhT1J6Z1owSkYwOUJDUG9XZHljRlZGQ1lHdmtBWjNaaXdySkpodjhmU1pvMHFKZm9YVFdTbnlYMFRRMjJ2eWZDY2ZCZXpLeTVaLVYtS2dIeGRLQlRJLVJ6aG5lZ2tYNFJTYTlmZm94TmYzRThJSllGNEdOZVctcUEwNVhqa0VmREJERjJqQVYzejllUy1tWDlYbmE4bVVJWXlrcUFHZTY3eEhuZkhCcHI0azBtS1E?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 22:26:00 GMT",
-      "description": "Colorado reissues COVID vaccine order as virus season approaches 9News.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Catholic Mother Denied Vaccine Exemption in New York - National Catholic Register",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY2hYMldod0VhQ3A3YnBkbHE4OGlrNF9sUmNOdl9yVXl2UlkzV2l0YVgyZGl1azk3QkFDdG54RDlYY3J5X0JxSFc4LWtlUmZ4US0tQVM3bmo1bFpYSldmUTQ2RnpkWS1lZC1Sb3lTZmFuMVBQTlhUaVBFV1pNNEJ6ZVZHRFMtZE12dVhZ0gGQAUFVX3lxTE1ocmVxQkFGb1hQSWtBbTlPX3JsbmItMnNkLThoS3NTbGpWYzY2dWpwMzJXVG02WF9NcHl1UVRXTE4tX3pyTkpmcmZtcVRwbjI5YUd1ZkhubFlJR1JWNVcxX2pUVFNpRTVPR2dWSjdFQkVfYkFLYXctSXFWT3ZjVXpQNmh0TG1waVFmdy1BMi1INw?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 21:29:23 GMT",
-      "description": "Catholic Mother Denied Vaccine Exemption in New York National Catholic Register",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Supreme Court declines Catholic woman’s bid for religious exception to school vaccine policy - OSV News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV3FxUEdFdXVMa1ZvUHZsSEZDMERqWjNDNWpvVFA5cXdfdENoSU5PS0tWSFBlRDlYSVFZVWRVTVJJeWFCSkhTSmtyLVFkbzA5R09WLXNqUzZCLUt6MVRqXzV2aGpJUTJqaDJvcF9OTVp6bFVQQ3VUVjE4WTF1bFJHWDRwWUJrbkxzQ3dOYkpJdHpzWGYxbFZnWWFiVzFKUU5JQlpraDlOOW9obHJlay00MjJ6VWNVTzQ?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 19:54:50 GMT",
-      "description": "Supreme Court declines Catholic woman’s bid for religious exception to school vaccine policy OSV News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "WHO prequalifies multi-dose RSV vaccine vial, paving the way to protecting more infants globally - World Health Organization (WHO)",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMjVfcE9LUEYxNlktekNxX0MtbWNWby1DQU1kUnB5T2pwTDYzSEtGM0tZVTBpbjJiVm8zTFFPS09sQVZvNnNYa2tiaHd2WHdMNE1sNWFGYjBLTmVMYzVyeEkzZlFibk9uUHFBMGZ3NHVoVkFIZnVtb2xneXpmV05nVGliR0RkdnFyQ1k3cFpWMnVSMC1PX0lYM3A2eDNaM3o1V2Vxa1poNHNXT0VZNnhNWkpuSDRLTEhEUTIyRXEtNmVOa0ZuN0hFT1poUUVhZzBidjlj?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 14:59:05 GMT",
-      "description": "WHO prequalifies multi-dose RSV vaccine vial, paving the way to protecting more infants globally World Health Organization (WHO)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "rsv",
-      "vaccineLabel": "RSV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Who’s eligible for the 2026 COVID-19 vaccine, or ‘Autumn Booster’? - GOV.UK blogs",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZWE5TDhfTXljbjRobjFrdDROSEFUNmtGU1F2ZTBUMEdIczN0SUQtVUw4eWpKb00wYURkNHo1TWJBdERHalNYS29FVzVsSmtiRVZSaThwc0MzQ0lWbFNyZkRpa3lzRjM0bkhkUzRfUEZsZWU0ZWVROHQ0WHY0c0dmYUNhdVBNYW9YcG5UUEczLTR0d0lmck9id0VwSXA5eElB?oc=5",
       "pubDate": "Wed, 09 Sep 2026 09:41:06 GMT",
@@ -1016,19 +995,6 @@
       "sourceLabel": "News",
       "vaccineKey": "covid",
       "vaccineLabel": "COVID-19",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Bangladesh fights world's worst measles outbreak as vaccination gaps fuel spread - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVzVQbDljaXVGc3FMQ192cjE5aGJrZjIzWGdLd0pjcUdSQVRkS3pLRGRPdk5veFUyQV9EWldST1lZUXNicGROYWFMYlg5RXdvbDE1UlZMLXNwWUJVVEJpTzZCN2F1RkNSeWw5SFJkWG42dHItblBXMWlhTU1qZGlQbmgzbFF5RTNWdk1iUUt1RGc5YTF5SEJWQWNIbF9Ybi1qS2RDNTlCOHlLZWsyRjRIaWxyV296dS1FQXFuRHltMkUydlZsWnVTcGQxWkFSQTR5NklmVl85RVpsZWpjRUhLejZR?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 08:06:51 GMT",
-      "description": "Bangladesh fights world's worst measles outbreak as vaccination gaps fuel spread Reuters",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     }
