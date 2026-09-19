@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-19T12:12:30.070Z",
-  "itemCount": 93,
+  "updatedAt": "2026-09-19T19:06:31.507Z",
+  "itemCount": 90,
   "groups": [
     {
       "key": "covid",
@@ -10,7 +10,7 @@
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 5
+      "count": 4
     },
     {
       "key": "rsv",
@@ -20,17 +20,12 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 24
+      "count": 23
     },
     {
       "key": "hepatitis",
       "label": "Hepatitis",
       "count": 6
-    },
-    {
-      "key": "shingles",
-      "label": "Shingles",
-      "count": 2
     },
     {
       "key": "rabies",
@@ -45,20 +40,189 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 44
+      "count": 45
     }
   ],
   "items": [
     {
+      "title": "Congo begins Ebola vaccinations for health workers in the epicenter of the outbreak - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLWRqSHVORVdxamdDWl9YWmRCY1JqTzVZbmlpVy1sUHRIWURTcF91X3lERnpKMDloLVdqLVNDSG9TV19rdzZTOTNENjNadDRaaGFFM0EwTlFsVmlmaUpoWnlOYkp5cjVkci03UXJEc2VFTXV3ZUxpX0djT0JEekZKSURJOW1PWUl2eUliNUtvT3NGS3o2emcyOVc4a3NUdk5LNGN6dVVhU3g3S2R4X0lJaEUtNEg4WDBiVU1n0gHAAUFVX3lxTE9HdkxyU242LWk0cUJvYWZhSlUxb3lKYUxkWmVOd2VvX28xNVZ2WGRUbE42VUt1NVJILUZjM2ZHNDI3YS1iUUFFQUswU0hSSDM4c0NGQ1A1cjE5X21qeWgtOWJGbVBWaXNmOXI2WWVxaEY2eENSbC1SaDVTSnZCTkFrNjZITkZ2N19DS0MyUzVULWtJOGZrMGttX09RZEdjVHd6aFpfQXBNNTRKU1ozRHdENE41Ujlqb0M3ODRNVjRUdw?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 18:22:30 GMT",
+      "description": "Congo begins Ebola vaccinations for health workers in the epicenter of the outbreak ABC News - Breaking News, Latest News and Videos",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Pa. doctors urge people to vaccinate against flu, COVID-19 and RSV; federal guidance remains thin - 90.5 WESA",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMWZxOE9OQVZtNndfSjF1c3lxcEZ6dkRDdk8ycVEyUzdteDVGMVQtWlF0S3N2OWdieFFrSDExMEZVcXUxbU1ZOV95cFlET3Nld1hScnRqdzk0X3FfV3prVXFHeW5GVmxQOHFWVkl3eldGVDFOYmdqYXNXMzdrODZhOVFFcEktcV9GZTZYbElkOUtQRTVuOWlHQ3FmLUVqcW5DaXlJ?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 18:00:00 GMT",
+      "description": "Pa. doctors urge people to vaccinate against flu, COVID-19 and RSV; federal guidance remains thin 90.5 WESA",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Why pet owners decline vaccines: Survey insights and strategies for navigating hesitancy - DVM360",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS3dPU2FidWNSbzdUeHc3dHQ3c2xUZExOWnNqbUF2NzB2c01QUEJDbl9ndkdFck9WZngxcWowLV9oTGdpb1JhSkNPWS1LbktVeGs3elZCdkN0Y3U2ZHEtcUFMbjBoOXV5OWRFSjMyQmxLclV4dDVwZi1fUXR0aFBfWjhYVmNGWFJJU01pUmxsWklUZW0tSDVua3E3eU5Ec01fYy1mNXBqWGNONDJvU3gzYm0zRU1tQQ?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 17:33:18 GMT",
+      "description": "Why pet owners decline vaccines: Survey insights and strategies for navigating hesitancy DVM360",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Congo begins Ebola vaccinations for health workers in the epicenter of the outbreak - Bozeman Daily Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQalpicGI0R29rTTlMbzVTaFJKeDhkRUlvYnVxdUQ1eE1SdG9XWEdscURRRWQxM0FkeS1RYnhmcE9yc1pfeTc2VzZRREUxZVp1Sm1XUUdhYVBzblRDU0l1NklVVUFxWDlaR1BObGVXaG9USGM1VTZDNFl6aC1La3FqU1FaYnhIb0VSemdwbm9jeU80NWVJWlFIbndkMmxlWWJJVC1qTWJvTmViSkdYbTY3ZkdGYVAweEQyall1bjM3Q3ZJUHd0b3FPUFNLdTVfMmlFOHNtX0E5ZFIteFc0OEZUZGwzZkR3RlhEQXdwMTFELUlvTmlKLWtMYkRCZnFIZ252YjBYcFY3LW1BVU1Vd3JPaFMycWRvaTRISEE?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 17:01:39 GMT",
+      "description": "Congo begins Ebola vaccinations for health workers in the epicenter of the outbreak Bozeman Daily Chronicle",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "DR Congo: MSF launches critical vaccination study among Ebola frontline workers - Doctors Without Borders",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRWNHQjdULWZDbTFzSkdFdGpTZ0dodDlsTjlPTG5vNHExM2FMeXZNQWJCVjRWd1FzZE12d21sQUxkTzA2a0VqMmI5NGw2UjVGb0ZWUlZoVFFaNnVzMl9FY3RUS0xvZEwteDJveGRnbFZIeHl1cGlHYm0wOGthaDY0MXdDYkJaNWYtUWdEeFg4Nk9SUTZVNURVYUJ2c0dMcDlIUmxXb20xWHhSanYtMGdURUNiQzV3RTBfdkZnT0hJTDg?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 16:34:09 GMT",
+      "description": "DR Congo: MSF launches critical vaccination study among Ebola frontline workers Doctors Without Borders",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Learning about the opposing party’s vaccination rate influences health choices - PsyPost",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZVpqSGZxU2duemg2Y2tzTHd1eHlDUjM4dV9jNzdSQ2dZTF9wTHNPdnN4NnFZbXBDUFJkRlFNN0doaDdacE9aR0RoY1ZWTG02SDFJUTd1SVc1OTR5TW1vM2U4TjYwZURUNHhSTGFHdHdIVjFVUi15RmhMUnhtNXMwaGdMcl9jcm5nM2NlaDdEUWZGLURPYkUyZC01dGZrMDBrd01YNnpB?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 16:06:37 GMT",
+      "description": "Learning about the opposing party’s vaccination rate influences health choices PsyPost",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "A melanoma vaccine was hailed as a breakthrough. Which cancers are next? - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd01EWFpGRkJ5Q09ndFBoU1JUWmlCY0NtTlVOUG1kbXFlYVh6Vm1NeHhBc2ktdUZ2RHB2dG9zVUNRdmpRN1RidnZjMGtKRjZuSFJwRm45V1E5bmkzRGlJQ0g3WWh2YTI3bkwzNVh0N3gxS25JTFZLVGNGb2R1WHV6a1FYRzBfdlZBMWRiRE5xNngwTjNOU1ZFUl9yZllXSzFsRDJtWXRGdzhqb0pSVGRJc0RINA?oc=5",
-      "pubDate": "Sat, 19 Sep 2026 12:02:29 GMT",
+      "pubDate": "Sat, 19 Sep 2026 16:00:00 GMT",
       "description": "A melanoma vaccine was hailed as a breakthrough. Which cancers are next? The Washington Post",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "RFK Jr. Says Vaccine Critics ‘Have a Friend at the White House’ - People.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRVczbUVmTGN0amZnN3d3ZWNCVXdQWW9tRldpODVQZTdXZFYxbGtlYlEweGdLVUhrTUVQeDh5WWhJSzcxYnd0NmU1MDRzOU1EdWwwTzY5Vjc3dE5nU3JfaTk0dTVtVFJyYWU0cVVVYVNaNWFKMFMxa3BhUVVpTU5pcWdzNFVFOFdRMGZZY0R2TDd1bUE?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 15:24:40 GMT",
+      "description": "RFK Jr. Says Vaccine Critics ‘Have a Friend at the White House’ People.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hepatitis",
+      "vaccineLabel": "Hepatitis",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "RFK Jr. Says Vaccine Critics ‘Have a Friend at the White House’ - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OZjF5NHJaUVlWQlRUM0M4LWNRQ1RUZ21kZ2VhREtUc2FRbC1qaGJBLU5xUmM3aFRZLThqV3F6aHUzdnd3SFZOby05U2Q4bkh6RFhQc2pscmVmd2xrMVhpTHdWYTBVMG5jMjBqQWlGRXhnUHNnSzVzaDRpbw?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 15:24:40 GMT",
+      "description": "RFK Jr. Says Vaccine Critics ‘Have a Friend at the White House’ AOL.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hepatitis",
+      "vaccineLabel": "Hepatitis",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "In Her First Interview, New CDC Director Defends Measles Vaccine and Says Kennedy Holds Final Authority - Medical Daily",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRWxIeUlkdi1fVVFvUWpSdWtfNld6TUhWZUx2bF9QRWZSSks0bVZlTEt3bEpNZzI3Zk0wVG9qRjd1NjJSZFNfUnJfOFkwSmRhZUtMeWxuSFpDS2pSVGJIMHZjRU85Wnd4a01wNmNuRmxXdnotRWRfc0I3R3E3cklzWDBZSTM3Z0QtWEE5S2xGdWQ2SE5KWTRvNWJFLVBtdw?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 14:16:24 GMT",
+      "description": "In Her First Interview, New CDC Director Defends Measles Vaccine and Says Kennedy Holds Final Authority Medical Daily",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Free vaccine clinic for dogs to be held at St. Anthony’s, downtown Davenport - OurQuadCities",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQnFVTEVZMWItbWVkTVVuWjg2WjdqeGo3TUpiUWViNkJ2NG9zVTNQbHNVdFlSbWJQYkpNVU03ZjlnUl9hTWFQUWI4V01FYWJKc0NmVlkxM0E0OThGaXpJVDRXaXpWU0JOckhzYi1SeUtfeHByQnVXNDJFNzhranpKTm05c1dxTHcwemVxMHdpMnFJUnMxcTJreUs2ZHRLakNuYUgxV2VxQm1VRUwweHBFSDRSNnhmQVAyOGZpNNIBwgFBVV95cUxOUDJLeWJhTHN0N1prcVhsNFBEVTdONk12RDd3alRrYWVJNHFMaldhNHRtR1FrTFRlUmc2U1dwM2p4U3ZDNXN4bWRZRUU2RVhPcFI5TW5MTjdDMzJsbHJVX0szdDVaYzdLOW51dzZqUkFNdF9ZUXZrRW05Wm1TelpnX21xVkp4WXVHb2ZsdGdPbHFsU1h5VGFYTnNXWW00bzNXcG0zZDMyWWNzWS1yZDVvTzZ0SGllTklhd0YyTDc0U2YxZw?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 13:30:00 GMT",
+      "description": "Free vaccine clinic for dogs to be held at St. Anthony’s, downtown Davenport OurQuadCities",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Doctors Without Borders launches Ebola vaccination study in DR Congo - Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM3BtNUs1NFFOZzR2VkhUOVZBUWdIXzdVODBmcEtsRlZMM0lMTExnSjJGRmlFUDNhZTRZNXRDUnNlMnVyZ0s2alA2cElCMlZNc1VlcVpQVlB2M01VZXl2MVFlWXhFVFZVZ0V1bnNOUVc4NWVDNER3d3N6NmNPaFNueTVPY3pyaWstUDJyMzJheTN6T0tJOUprQnV4V3BxX3FEbjFMUFE1RjlqZWZ2?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 13:16:55 GMT",
+      "description": "Doctors Without Borders launches Ebola vaccination study in DR Congo Anadolu Ajansı",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Pittsburgh’s kindergartners fall below the measles safety threshold, testing the city’s vaccine legacy - New Pittsburgh Courier",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lUzVtWk1IM2Vhc2dadjNlSTBVOUJhbzlONG8tYzM3d2oxUUJqVTQ2Q3VvbjlEaHQyd2c5cnBLTlF2ZmE4MW5FRGs1cTlqTkM1Vk5EWHFZOHJDdHM2d2pVQg?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 12:53:11 GMT",
+      "description": "Pittsburgh’s kindergartners fall below the measles safety threshold, testing the city’s vaccine legacy New Pittsburgh Courier",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Vaccines become a 2026 midterm election issue amid measles outbreak - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQlR3dlBCNTczcG1jdzhseU9YNFpYNHR1R2w3eHpLLVlOcFFTN1N6NHNNczdYeXBKUkJnRWdRdjcxRS1IQjJxaXYzT0g4dnJiZXlmU1ZGeHlEOU81b1pWaHlXMW1ETVF6MWF4MHJKRWNhQ29qT2x2Nk9kbEgyeDJrUjB5MW1FMUpVejlwRktDMEYxcjhDdTVDeVZjWkhBZXEySVZ6MFRQRk5lUEFCM0huOVVOeDJpYXRSbkJnQ3Nn?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 12:11:00 GMT",
+      "description": "Vaccines become a 2026 midterm election issue amid measles outbreak USA Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -154,19 +318,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Vaccines become a 2026 midterm election issue amid measles outbreak - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQlR3dlBCNTczcG1jdzhseU9YNFpYNHR1R2w3eHpLLVlOcFFTN1N6NHNNczdYeXBKUkJnRWdRdjcxRS1IQjJxaXYzT0g4dnJiZXlmU1ZGeHlEOU81b1pWaHlXMW1ETVF6MWF4MHJKRWNhQ29qT2x2Nk9kbEgyeDJrUjB5MW1FMUpVejlwRktDMEYxcjhDdTVDeVZjWkhBZXEySVZ6MFRQRk5lUEFCM0huOVVOeDJpYXRSbkJnQ3Nn?oc=5",
-      "pubDate": "Sat, 19 Sep 2026 07:00:00 GMT",
-      "description": "Vaccines become a 2026 midterm election issue amid measles outbreak USA Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Trump says he will demand drug companies split up vaccines into more doses - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOclhMQWt5cVpINmo3MF9qR21zZWRhM0NuMmltRmFEeURrYWxrTEVfUmtpZEhua0ZfTjI1QjRMekZlOXdGUjRSR3JnSjVnWC1fNEFTZjg3eFNCSmRya3lGeERndWZqc0NnaTJZeDBDWjJ1Vl82T2RxNkFzSXp4YXg2NmRRQXljUW1BZWtEd19zMmxNQWVPTC1WRldCU1gzT1hkd1p3cUtIV0lnY2dTMk0zVk9IaUJMTmh6LVd3Qk1KQm5MUQ?oc=5",
       "pubDate": "Sat, 19 Sep 2026 05:57:47 GMT",
@@ -193,19 +344,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Trump says some childhood vaccines will be split into separate shots - edition.cnn.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM2dqUW5JVjBpT2NaN1RnMFZJSFR2RURqNEp0NWpyUnJVcHlTX0JiSmR0dVgzSGFUbW44STVlQV9jcjEySjF4Tms2XzFRX21kcGg1ZmhUc2RMZzltOVFjTGplUk9JYWVjRXdKLWhhdzZuUnBpSGhyZ01GTl94UVlqa1d3aHBoeVdEZmQ2QmpwWUdNOVRaLWpxMlNvaHB6WjQ?oc=5",
-      "pubDate": "Sat, 19 Sep 2026 01:51:00 GMT",
-      "description": "Trump says some childhood vaccines will be split into separate shots edition.cnn.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Montana State offers fall flu vaccine clinics for students - The Independent Record",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd1A3QjRQcjRGZmJkQl9zR0J3XzV1bkV2LUxLNWlqcGhaSkp3dWpkNjNXQ2pUU21PSWRwdkl3dmlKcHJCVS1tMS1LcHk0aTJrRlNfTzFxTmtFdVVnNDV0OTZBdDA2aUZteDdscU0xSXlsdjRQY0JQekMwaHpKNl92LTRfYmpYNV9HU29fMmp3?oc=5",
       "pubDate": "Sat, 19 Sep 2026 01:35:41 GMT",
@@ -215,19 +353,6 @@
       "sourceLabel": "News",
       "vaccineKey": "flu",
       "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Vaccines still safe and effective, health professionals say - Leader Publications",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQWtlT2JuN2lVdnQxUGhmckl5eUlHU05aaFhUS0o4MUdMenVlVE1sRVdxcTBDLTBZLWx5YjlWWTByNE5XUEU4QURRa2xod0F2aTdhbkRkZVJaU2xPSUNyTXJ1V3gyUjFVMVpsRHhoVjN4UGZGSFdGcmh4c0c0aXcyNEwwaTFydUcwWVpLSURVS2ZvZXQwRXBfdHFtR3dkejRBQm51ajhWSjBQb1E0d3JvOVUyYTB0bGVhdVlsWTRQRl9nQ2ctOGFDbTJXblFHUXJVWXVZM2JhNWFIbUk?oc=5",
-      "pubDate": "Sat, 19 Sep 2026 01:15:00 GMT",
-      "description": "Vaccines still safe and effective, health professionals say Leader Publications",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -310,19 +435,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Local health leaders advocate for MMR vaccine as measles cases in Iowa continue to climb - weareiowa.com",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPVXRmOUdCd2pRRkE1dXlGMFQ4aTctMEdFT3cyMHkzekgxWWdCbmwwTDJkMnB2MHR2TkZ2aDlrbUh2c0cyV0pGTUdRbXN5TjdmQU56R1doZnNWNWIwQVNQY1pYTVd6cFdhRlIzcTNXQ0piNVZnTEpmLUsxVTVoR1c4UDFvYUF1Y2kzUjhhZkl4VEdtSmFtZTMxWlFBc01TX1pnV2lpSEZLMWk0MVVNazZkWmt6RkFrRTdFRWRFNzdSSHVJV3RFWG5adkZIbmp0ZUNiZkhXMzFNcFVGb0hYNEUzVWhNMnBQUWd3Um52Skk0RXN1NjdXcnYzSVUtUlZVOUhEVUxn?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 22:07:00 GMT",
-      "description": "Local health leaders advocate for MMR vaccine as measles cases in Iowa continue to climb weareiowa.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Trump says some routine immunizations will be split into five separate shots. Vaccine experts say it won’t work - CNN",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tMFBNUjkxeU1JaXI0RVNTV3J0Y3JMOHNWSGFpdXdraXlQYmZVamREVEpfRHpUS1Y0dUc1NlhKVVJpYlhiaEhEWVJaUC15cTNmR2VZS2lzemRKNGFVTzBpX2s4aVB3M2VWUVdLTUt1dThaSEE?oc=5",
       "pubDate": "Fri, 18 Sep 2026 22:05:34 GMT",
@@ -345,32 +457,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Yorkshire Cancer Research COVID-19 Vaccination and Immunotherapy Funding Round 2026 - Oncodaily",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kYm9RWjBITHhZc3N6V29JalJUcU1yX3lkR1NxNWFMTmozdEJZcS10RTcxaXhQTVdrb0tMSVZlUkNtV0xlcFRtMnptQmRuQTFzN2lCMFUwQ2k5eE96b3ZqYzVMNzJhUkh4Rjdmcw?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 21:59:33 GMT",
-      "description": "Yorkshire Cancer Research COVID-19 Vaccination and Immunotherapy Funding Round 2026 Oncodaily",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "covid",
-      "vaccineLabel": "COVID-19",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
-      "title": "FactChecking RFK Jr.’s Children’s Health Defense Keynote - FactCheck.org",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMndmYUZfcTM4WTZvVk5tUlZpdFVUWkFKVVkwZTl4aW9VMFBGNkZpY3RTMU1GV2dNT1pYQ2JKLTVBX3ZEaVZQS1Z0d0pqeS1OY0E2U2tPY2t0MFNrNmg3SkxScGI2bXpMQWhfTVVBUzdTZ010Z01YQ19XQmJXTzNaVlJDVVZtUTNmUTVkMzNQcm5XV1E?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 21:56:08 GMT",
-      "description": "FactChecking RFK Jr.’s Children’s Health Defense Keynote FactCheck.org",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -414,36 +500,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Vaccination rates drop to 10-year low for Michigan’s school–age children - Grand Haven Tribune",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPR1pvTElTUkg0RHZoYXJmU3U0Q2xsR0dFX0pFSHRjQ2VLSUM4cFFQWTFUTjNEOVExNWxNTDNWTHRvdzJkQ1Z4NTl0WjdpMDlSSFFvMThEWGdjT01aa2tUSFowTXVaWkNCTlp1QzJESk1WMDkzanBhVTJjbVgzWnlNZ1NKRVc5MER1UTJyU1lTcmNjZEl1NXY0NklVaUpxTzk0bFNSTHR1TDVkZUdWSW5BanBFVC1QSU91UzIzYlgzczBrRGZDQUtadXg3SFpyUXNHc3EydFNWYjJMOFJSTm5pRlVUQ0ZGZWVteDU0bmRzUzFhb3NWS2NqRm81UkRBSUFicXlF?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 21:14:00 GMT",
-      "description": "Vaccination rates drop to 10-year low for Michigan’s school–age children Grand Haven Tribune",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hepatitis",
-      "vaccineLabel": "Hepatitis",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Shingles vaccine may lower heart disease risk, researchers say - WCVB",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNUVJa0lDVENsSTRkV01Ba29HaTltUXNsbi1BbTdFTmY5T2JhVm92SVJGRk00eGxZWVo3SUtDaE84NGdrczY1OU5xMlZuSnE3akw5REM0RThDc0ZaZU5HNzVwcG96eHpSbUt3bE04NXpqUW0xSzlSc1NQaHhRVzhZN0pPeVd4WWVUTTc1eWtVdjF5d1h3UkpFWXFiaHd6TkhQ?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 20:56:00 GMT",
-      "description": "Shingles vaccine may lower heart disease risk, researchers say WCVB",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "shingles",
-      "vaccineLabel": "Shingles",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Kennedy questions vaccine safety at Children’s Health Defense event - cidrap.umn.edu",
+      "title": "Kennedy questions vaccine safety at Children’s Health Defense event - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMFBXS0RPU3F4bWZpSXhKSkdHUlBYWE5Qc0FKZmJzdmVyWk82aGd1U1NTb1ZUb1l0N1JQZklCNFU3RnBrTGE3cWRNQjJHNHlIX2V4QlVlbXhKQW03QlJsQlh6RTlJdTdmcHRSUGNVWGJiOHRwT05nRGloWFhCclBNRTQ4b3Q4SzhiUkZzRzVQQjlqVlZCWG1URkxISWh6OVZzTDZqN1I0djlDZF93cnpZ?oc=5",
       "pubDate": "Fri, 18 Sep 2026 20:53:00 GMT",
-      "description": "Kennedy questions vaccine safety at Children’s Health Defense event cidrap.umn.edu",
+      "description": "Kennedy questions vaccine safety at Children’s Health Defense event CIDRAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -453,10 +513,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Baseline Interferon Activity in Monocytes Predicts mRNA Vaccine Adverse Effects, Study Finds - pharmacytimes.com",
+      "title": "Baseline Interferon Activity in Monocytes Predicts mRNA Vaccine Adverse Effects, Study Finds - Pharmacy Times",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc2lmLTdILUMwODFqOUhQVmV4c2Mtam9sNy0xdXpWaWFIdzRQeldhUUFQeGxhUDNkSzd1QmN2TnVIN0dyTHZ4YmNGNWZiOEhtWWRmbUV0R3ppWXZoT0ZfTTVnMDBuMGNnUVI2RDh0ZGtlYUJjLVc0Q0h0SF9JU1pxQlFyMldyUWU4OW1lOGk1SDZFRmV0VTBPWlgtWDh3dTRTVEdUaXJiem41ZG5HU0Z1SFV6bURvUW5Vd0FIMkxJZ2IzLWhh?oc=5",
       "pubDate": "Fri, 18 Sep 2026 20:49:51 GMT",
-      "description": "Baseline Interferon Activity in Monocytes Predicts mRNA Vaccine Adverse Effects, Study Finds pharmacytimes.com",
+      "description": "Baseline Interferon Activity in Monocytes Predicts mRNA Vaccine Adverse Effects, Study Finds Pharmacy Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -479,10 +539,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Feds fight rabies amid concerning rise in animal cases, human exposures - cidrap.umn.edu",
+      "title": "Feds fight rabies amid concerning rise in animal cases, human exposures - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb3c2NWFRNXhUbWc3ZkR6anNwdzNmeFdQcmxrSUFoUnNoN1JPdVlNUmMtMHNnUV83dExlYmQ3XzVFYlNmdjlReGFKdl9JLS1iYjJGU1VHXzlaZkdNV0gybGF4VGJMRmRXbm4xSkxENHBEaG5ac3A4YVdMSHlJTGs4UzBCT0R4YUttSVpJd3JMWlBCdWd1NmUzd0dQbENKTU1iSVJR?oc=5",
       "pubDate": "Fri, 18 Sep 2026 20:35:25 GMT",
-      "description": "Feds fight rabies amid concerning rise in animal cases, human exposures cidrap.umn.edu",
+      "description": "Feds fight rabies amid concerning rise in animal cases, human exposures CIDRAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -505,23 +565,23 @@
       "articleLabel": "News"
     },
     {
-      "title": "Trump to 'demand' vaccine makers make smaller doses for kids to address autism - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZTNWQlk0WkpnTVl2cmlLYUxwNkNOZ25mRlp6YjNTdVJ0YjNDRFgxUG80WW1EelZJMWo0MzRCSENjU3ZiVHVzMkUtTEZOamlwem5ZOUpYRGwtcnk4TzkwVVZNNDRlTHpZdmJ6REJkMmdnT0JQNEpURHd2T2lmOGt5clJkSGtzQUVjdlBUT2FvOGtvZ09Pd3JGNFdpV0hYQU1xaFA5bmMxcw?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 20:29:08 GMT",
-      "description": "Trump to 'demand' vaccine makers make smaller doses for kids to address autism Seeking Alpha",
+      "title": "Wisconsin Officials Push Vaccination As Measles Outbreak Grows - Urban Milwaukee",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORHF2eFVxbXhTOGN3NnRmY1dCeXUtQ1JNWER5MVNQSGlWY1FOOVN1NVA3ZEt2UUtOMU9CQlFrUGZnMndIb3ZwbmpibFZQYlI5WERiQWE1alBrT3Zybm9PTm5MbF9jc1R0cGE0NmFscV8yU2VXR3c1c1ZwcnpNUDdGLUdRbHhfQnlJaHNiODRyOFI5SnpHRDhIODR4MmtKZDhPZEdB?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 20:25:00 GMT",
+      "description": "Wisconsin Officials Push Vaccination As Measles Outbreak Grows Urban Milwaukee",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
     {
-      "title": "Pharmacist TOC Service Closes Adult Vaccine Gaps in Safety-Net Hospital - pharmacytimes.com",
+      "title": "Pharmacist TOC Service Closes Adult Vaccine Gaps in Safety-Net Hospital - Pharmacy Times",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSUgydmpPR0VlOEM4aFVNN1FEdFllSk9Lci1rVXhiU05UT1RzVlp6MmExdEtCdHBReFRTT1ZXYkRYTnNkYzNwLWJLZ21JUlVuaVB6eC1uWWR1RW0yZXZzVV9wSkRlZ3Vjc2NaRGVBNHh5QU42a0VMMGdjS2I5TktxLVhHS3ktRV9sTmVmQzNrRUpWQVBGUUF0T2lwNnJYM096TVJhZUFXSlBidw?oc=5",
       "pubDate": "Fri, 18 Sep 2026 20:14:50 GMT",
-      "description": "Pharmacist TOC Service Closes Adult Vaccine Gaps in Safety-Net Hospital pharmacytimes.com",
+      "description": "Pharmacist TOC Service Closes Adult Vaccine Gaps in Safety-Net Hospital Pharmacy Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -544,10 +604,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "RFK Jr rehashes vaccine misinformation in address to Children's Health Defense - AFP Fact Check",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VZFBoeEhxQmJPcml5c2wtTF9ZTnNpUDdmaV91S3pXQ1g3a3FOQWZVVFlQR3lia0dUM0puczh2Sy1hTmQxZVUya0ktWm00UGxLMzhEZHFIbFU?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 20:07:47 GMT",
-      "description": "RFK Jr rehashes vaccine misinformation in address to Children's Health Defense AFP Fact Check",
+      "title": "RFK Jr rehashes vaccine misinformation in address to Children's Health Defense - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUXA3UjNXSnlVc1N0Mko2Um9pNGxqUTYzRDdkaTktLTdtQXgyU3dieUpGeGpqOEhKQ0dZRGdPSlJ1N3M1bl9aalowUUFkXzJBX2FkMTFaMzlHRGI1bGFxbjM2cHU0WmdQVTVfVDBpMXgzcmRaTHc3VmpsVlFFVWhOaEl0elVidi1Ickl6dGhhNDM4OENMWlNZM1J0QlZXTmc?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 20:03:35 GMT",
+      "description": "RFK Jr rehashes vaccine misinformation in address to Children's Health Defense Yahoo",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -557,10 +617,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Adult Respiratory Vaccination Delivers Up to $12 in Societal Value for Every $1 Spent, Analysis Finds - pharmacytimes.com",
+      "title": "Adult Respiratory Vaccination Delivers Up to $12 in Societal Value for Every $1 Spent, Analysis Finds - Pharmacy Times",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTXJQX1dBWXRvNVZuU1hBdWFlYnN6X2ZldkJrakgxMXU1V2lwQnFkWnd3dTFzMjFOX2ZVYU9wXzdLWHZuMDZnYy1HdHZrajM5TVZVaFY3SEZsZG5Bc1A3NDFJckhjaDRvM1BtRGxLbGIyaXFTcHdiWTBZdU9BbEQzREF5b2NRaUZxNUJ0R241elo3dXZkNTJoX3UxSTNEcDZiaEZ2TlJ4dnBudUdpSGJTaXRwWWsxR0EyREtVQ1lLREtSM3BPZHF5ZDFiZDgyUQ?oc=5",
       "pubDate": "Fri, 18 Sep 2026 18:59:48 GMT",
-      "description": "Adult Respiratory Vaccination Delivers Up to $12 in Societal Value for Every $1 Spent, Analysis Finds pharmacytimes.com",
+      "description": "Adult Respiratory Vaccination Delivers Up to $12 in Societal Value for Every $1 Spent, Analysis Finds Pharmacy Times",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -583,19 +643,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Kennedy tells anti-vaccine activists they have a friend in Trump’s White House - Sentinel Colorado",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQVRhMGw0Vkx5QWN3anNtd2hpYWVhODBlbTNuT2tUMVRxemwzOG5tVzVZV2hHelNZbmt5WkRteko0dkNMSUd2X2E0dkRsaEZXY21XblZ3NWJ4MHgwTnlhSk5KTDVLMG55aHF1YTRUME9qblFWRjM4dTlWSlBHblAzZlhKUE8yN2MwNWNpdzBSRHdxejFFNnhIUDhWS2oyUUpjQms5a2stQUZmMm4yNDJXaDBxYVhZcTgtTFFJTEdR?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 17:52:51 GMT",
-      "description": "Kennedy tells anti-vaccine activists they have a friend in Trump’s White House Sentinel Colorado",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hepatitis",
-      "vaccineLabel": "Hepatitis",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "ADH to host free flu vaccine clinics starting next week - K8 News | Jonesboro, Arkansas",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMzQtNU5KSmU4bWNGSDRjQ1ZlcS1YUGpxRkpKQmU5UjFVR21wV3NiUWtSeEN3M0ZwclZRT3V4YmxpaFBJNlhEc1FSQ0ZCeE00LWRPWkI3ZE90ZXBOWTNhN1JvQkxKVTJIdDN2UVU1dHRxUmIyTkoxZjNFc2JPVF81dTRMaGdOaURhWXdhMkx5QQ?oc=5",
       "pubDate": "Fri, 18 Sep 2026 16:51:00 GMT",
@@ -609,19 +656,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "RFK Jr. assures anti-vaccine group as measles spreads - The Week",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tOUVsNkN3ckV5WF9fRGpfamV1T2J0OUV2QzFvVTJiNHhibXdNWGFuTmp1SlF5THVhZWtMX1F0UXNuaVF4by1EcDZnWk5xeWtjS0Q0U1hTR3N4S3hTNWRpVnhhT09iY0JROUxWaTZuOA?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 16:42:42 GMT",
-      "description": "RFK Jr. assures anti-vaccine group as measles spreads The Week",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "RFK Jr. Assures Vaccine Skeptics They Have a ‘Friend at the White House’ - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYzRJbFoyZzhsaXlKV0UxSWNSd3pHMTkyUFFFSkRMaktwWnNUalcyTWgzNzFpaGczcEhWVWp2ODRnWnlBcURrWEh3dEN3WU0zeVU1SzlGR0ZEUjk4WkhNc1ExRXFfVlZZd185SFIxWndEM0hkWEJWMEZDZWZ2b3VoT1c1QmpfVWtWNzBSbWlSOUtoQQ?oc=5",
       "pubDate": "Fri, 18 Sep 2026 14:42:00 GMT",
@@ -631,32 +665,6 @@
       "sourceLabel": "News",
       "vaccineKey": "hepatitis",
       "vaccineLabel": "Hepatitis",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Ask Dr. Nandi: What to know about the new flu vaccine and when to get your shot - WXYZ Channel 7",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX2hodXVjWEpnRlFobWVfc3dDWUc4NG5wd1Z1Ym9EWmVsS2tmSVBXYTdBMDZDdWJQWXMwT05EMWhESTNUVmwwM3JqbmFhWjlIc21zZnAycnZkNTV1VmczZTRIREs1YkExdzVSM0xZYmt4N1ZVem9UYVMwYW5sSEVDMVpicHdDMU9tb3N5RnhPLU03RERjOGNndHFISnF4VXFUcVhkZ0NtaXp3WkdLajVZWF85c1ZIQWV0MEpQRTMzOUQ?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 14:30:08 GMT",
-      "description": "Ask Dr. Nandi: What to know about the new flu vaccine and when to get your shot WXYZ Channel 7",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Doctor recommends vaccine checks after measles case reported in Lucas County - WTOL",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbEhzSzYxQnphZ3VkcVdnZ0JseWpGMUlaa3B1eUFqNEVROXdUVkowOFQxQ0pTcGVfU3VTYm1kZU1tNHdYaHkzQy1FeGVGb1JUMVNaUlN1QTVYdzNSQ3RRTmRlQjBULWxZcVZDOGl5dHpDc1F4eVNCSlVDLXBDT2NTcXNTdTFjUVFSNzRtNUxScnhVLVRLZFFNU20xeGdWMDA0a0hXTmdrRXJfR1VQNHNkcm85WjBsUW5XcDRHcDNUY211RVkwaDVNVU1YOEZaNkdnWlA2ZFl6eVdCWDJtOTJNWUswSmpnOFNERzdfSThMc25OcHZ2LXJ2TQ?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 14:16:00 GMT",
-      "description": "Doctor recommends vaccine checks after measles case reported in Lucas County WTOL",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -687,49 +695,23 @@
       "articleLabel": "News"
     },
     {
-      "title": "FL health department proposes allowing pharmacists to administer chikungunya vaccine - NBC 6 South Florida",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYTZtMk1EWFVNUW13R0pjbFBEM1FjWkNzNGxMVXlnNUg4ZXIzeE5zNk9uZm5Ca2xGVjZKTjdlYnluXzRGVGFmd1NhaHhMSjVCM01GLU9FckpwYld2MG51b0xTVVRpMHR4LWh5TEN5MWRrX1ozeVdJZVN2d3kxX0ZpcjBqQlQ3Njgxb3pUcWt6LTE5SkwwS3U3cVFUWTVGanUxRDZV0gGrAUFVX3lxTFBmNE13Z2N4dVpZMlgwQjItazJ0T1RYVUxFc2Yyd1FuTVh3WW5rajlRdjRxQVg0eFJsQ0dPVXhEdmtJUWRVTUNyWkxYNnU5Tml5RXJlU0h1bkNvcUdrUzM0VGx6SUVlMklxSnRQcnRYeFF4TVg3NlRmUDVuWFpHZU0xeWZtd0JHYXdoaE0yTDBiOW9aUnlSSmdSQkl1YTFKVVpRekdiWmp1Mm5OQQ?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 13:32:55 GMT",
-      "description": "FL health department proposes allowing pharmacists to administer chikungunya vaccine NBC 6 South Florida",
+      "title": "RFK Jr. tells vaccine skeptics they have a ‘friend’ in White House | CNN Politics - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcDhwZFVFZEgtbG5HRGlyNW9SRWlMTU5KZUI5eGJCSWFyRVZfNXFybFN1TzBmVUFnNGlwb21OWEVZWGRxTDBONy1nVExtZnM0bjVNVTg1RVo4TDdDT0VEY19haW5RbmJDZFU0Vlh4RzhXMGd4bVlueFJkQXZuMzk2MzZCOUY1eEF3Z3JkUk9LWlFzMkNCcmNhcWVWM1VfTHlPTWphZHlzUzlaTlFGSGZ2R2ZSMk4xZ0RzOTJ3?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 12:27:00 GMT",
+      "description": "RFK Jr. tells vaccine skeptics they have a ‘friend’ in White House | CNN Politics CNN",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
+      "vaccineKey": "hepatitis",
+      "vaccineLabel": "Hepatitis",
       "articleType": "news",
       "articleLabel": "News"
     },
     {
-      "title": "Free vaccine clinics at Waltham schools - Waltham Times",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUmJNQlh0WGluOHpIVW5sa2d1WVBlYlRWR1RyRGhTeUw5YzZmYXI0UUtfOUNuQ0syN2V6Vng1LXFtdjBNaFExamVLS3ZWUFNDN3NVRnNndWdqRzl1QWhFRjVRdW5FUDVUMVdmVlc2Szk0YjFYdWpaeWZpLTB5bE9zNjhB?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 13:20:02 GMT",
-      "description": "Free vaccine clinics at Waltham schools Waltham Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Shingles vaccine could decrease chances of dementia per new study - Delaware Public Media",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWmtOY2dXWXk0R0kyajVJMG5JdEJuUE90VWdwU2ljTWN0UVVpdHdYNXBDS19BZXNBdzZRU2NvRGlXai1NdlBuOHZ0cDVTWFIwY2tJeW9Nc3Jxck9WTjkzY1VIS010dDBkSnREWWVkSjBFbXc3VE54RnVBNV9JUXMtamtFbEZ3UG4wZUJ1YWlsUXhJcldnYnl5eFpxMF9kdVNHWDRGcGxyVXphTTlPb0hVb2R0c2JoTGF4bklMeVIxWQ?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 12:16:00 GMT",
-      "description": "Shingles vaccine could decrease chances of dementia per new study Delaware Public Media",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "shingles",
-      "vaccineLabel": "Shingles",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
-      "title": "Doctor debunks anti-vaccine claims - CBS News",
+      "title": "Doctor debunks anti-vaccine claims - cbsnews.com",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ycUxva3RPS0VJTG1PZ0VwNXUzcGxIaHBoUHpqZHRYeTZjald5WWphVXBnenJpbEhPQk9DOXJsMHBqY0RjR055eVJFVmJhN2ZGYUtsemxXQjljb0VkeUZpZ2xPaVpndGJQSGdPNTJYMmduUUk?oc=5",
       "pubDate": "Fri, 18 Sep 2026 12:04:00 GMT",
-      "description": "Doctor debunks anti-vaccine claims CBS News",
+      "description": "Doctor debunks anti-vaccine claims cbsnews.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -765,23 +747,23 @@
       "articleLabel": "News"
     },
     {
-      "title": "Wisconsin health officials hopeful encouraging measles vaccination can stop growing outbreak - WPR",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNzNLdVFNQTdLWS1abnBEeG9mZ3FPOVUwaTVqVWxIQ0c3Nm16MkoyOGNPMXROTFJKd1NOeUNhMjFETmthOXEwOWQwRExscHZRVTExSVB5UFY5emZ3SzhYTzFXSGZ6Q0F1bVgzeUZXTVRGYnBtcEJqRWMxUEhaVXViYjN4VmcwZlU4NUMySFh3aTU1WncwVEhMRkxvYy1oQQ?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 10:03:00 GMT",
-      "description": "Wisconsin health officials hopeful encouraging measles vaccination can stop growing outbreak WPR",
+      "title": "Two days left to comment on HHS's vaccine category proposal - Your Local Epidemiologist",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcDQzZU03WkI5LTRlRFEtWnFvaHhRTWFMRmxWR1k3ZWlfNmpxcEpZazNEdi1DZ1E5bHQtZDFNYnlsSWZ0X2ZOMTMxUjlBVTlOZ3ludmF3WkpnVGZJQ2dmakpRUXctUUV4Uzg1OTRoT1lYaFgyMHRVZE9xd1UxcjUwSnFhOTZhQQ?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 10:01:55 GMT",
+      "description": "Two days left to comment on HHS's vaccine category proposal Your Local Epidemiologist",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
     {
-      "title": "After 50 Years of Failed Attempts, Is a Drug Vaccine Close? - Medscape",
+      "title": "After 50 Years of Failed Attempts, Is a Drug Vaccine Close? - medscape.com",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNHIyODFXU2dYR0tNTXJBOXhiZE0wZE5uVWVWVmZYSzFfRHJIcWJkYVNlOEdXaE15U3MxNkdqdXpTLVhsYkNYbXd1QWFXT2VDQURfcGRhb09EWXpzQWprVUtzR3ZPQ2VwSzYycUZUN2pqYlphUDdxX2FCaUdyQVlua0hRVUVfbVRsSG9waE14VVZBU010QVRvOU5qUnNBd0lo?oc=5",
       "pubDate": "Fri, 18 Sep 2026 09:21:40 GMT",
-      "description": "After 50 Years of Failed Attempts, Is a Drug Vaccine Close? Medscape",
+      "description": "After 50 Years of Failed Attempts, Is a Drug Vaccine Close? medscape.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -804,10 +786,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Vaccination: Why Don’t We All Experience the Same Side Effects? | Newswise - newswise.com",
+      "title": "Vaccination: Why Don’t We All Experience the Same Side Effects? | Newswise - Newswise",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM3dKVFdGUWFkMzA2Q1V5TGlUaWNmZTY5YzUydFJPVDJGcTJLTkZ4akwxNTBtOUJuRXZrTWVIbE9JYXYzYi1Bd19HRUhrU1J3VWtVeUNVSG9YYVZsQ2pLUWxMOHNrSW1FWXI0eU52QXNnejJ3SjV3aVYwOUJaTHhJdlhiOE1pVDUxV0xVZWY4R0tDSkJfOG5hVk1R0gGaAUFVX3lxTE8zd0pUV0ZRYWQzMDZDVXlMaVRpY2ZlNjljNTJ0Uk9UMkZxMktORnhqTDE1MG05Qm5FdmtNZUhsT0lhdjNiLUF3X0dFSGtTUndVa1V5Q1VIb1hhVmxDaktRbEw4c2tJbUVZcjR5TnZBc2d6MndKNXdpVjA5QlpMeEl2WGI4TWlUNTFXTFVlZjhHS0NKQl84bmFWTVE?oc=5",
       "pubDate": "Fri, 18 Sep 2026 07:05:00 GMT",
-      "description": "Vaccination: Why Don’t We All Experience the Same Side Effects? | Newswise newswise.com",
+      "description": "Vaccination: Why Don’t We All Experience the Same Side Effects? | Newswise Newswise",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -843,19 +825,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Florida health department moves to allow pharmacists to give chikungunya vaccine - WUSF",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTW9VdDlBVXVrN3RzdGZ2ZHNrWm81cFhSMUg1WTdIRHFvNmZCSFkxb3dQT2tLdTR1dVN0dWhjX0tRR2xyc0I3bWI5RmpRR2R0R1ZVVmFscDRLMV9UcDhIR3lDSkFXOThsTVhIRzBjV1V5bVQ2eU1HMU44NVNVSnZyRndwTTR4cjdUSUhCWWQ5VElPTUZvVTBUeV9SeW5xdTdRcGlVdnFxTGVKTFpLZGdhcTFHaE1yYkNrQVdjejhOdFE3R1NQb281SFgtQ0Q?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 03:47:00 GMT",
-      "description": "Florida health department moves to allow pharmacists to give chikungunya vaccine WUSF",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Dr Reddy's signs India distribution deal for Takeda's Qdenga dengue vaccine - Reuters",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYjZmWGtvd2Nib0paSjluNjQtVFI4aVhQUEFwaVp6Q0dhVUxDR3U5YkN4WUQwSGR5Y1dRczBiTzRjZ2hhSTFKVDZiZmpfQzN3TjU0TlJjNzF4Rk5qczl5a1p5bFJHV2ZDSi0wX2ZwSVdnT20yczZhYjhQdzFOWDFURVh3a2NNTUtSeG1zaHM5MnFtWEdEUWNnMVd0RWRkaVdOSlExREJnNGZDamZYX0Y1UEFBYTBwQlFCX0V0ck5nbWJ6eUlySVVOal9Nc0taQ0RoVlBpeFZScHVkLVlzSVFMNjRuRQ?oc=5",
       "pubDate": "Fri, 18 Sep 2026 03:41:00 GMT",
@@ -865,6 +834,19 @@
       "sourceLabel": "News",
       "vaccineKey": "dengue",
       "vaccineLabel": "Dengue",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Chikungunya disease vaccine may become available at Florida pharmacies - Gulf Coast News and Weather",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSFVqUktuRHQteGd2LXNXRmVxbHdvd3NQdW9teFdrWHVNaEVZa0Nrc3RFM2h3M2lVS3dkbmFBX2t0b0U0Vlk0RGRBbW1HZm5aODRDQXhjWENGaVdIclBXZEhJdHppU3ZPcWJGZzdUanpSZ2NZbVdnR0NFc1BTaDkwblpPcnkwaUZiUGF2RzA3a1pRXzBWUXBUV3lB?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 02:28:00 GMT",
+      "description": "Chikungunya disease vaccine may become available at Florida pharmacies Gulf Coast News and Weather",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -908,10 +890,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Kennedy fans vaccine injury concerns at anti-vaccine event - thehill.com",
+      "title": "Kennedy fans vaccine injury concerns at anti-vaccine event - The Hill",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdXJMamFQc01wS1hQOS0yWGpRSjR4LUd1NXNtVWlZQUZmY2JxQUFBVmVKdUN1VEJyREhwZFBGX0pHVWw1UWh5X2EtTTRVSWs2UkNfOEtGdGZmMHpEOWRaU1lzNVNyNl92MV9FWFpPVWRtWWRlbGNzWHl2THVCamVCcVZmanFMSktFcEZVbkxHSjJnam5qdFVIemVXUElJdmdMQmRBZGh4VTZVZUlJM1Z30gG0AUFVX3lxTFB3eW5HaUJ3V3J1N1FVNndvdWhKRllDYUpDQ3N6aXlwMDNnU0Y2YUxRRm1hY2d4UDV3cmM5ZmxxTk9jaWxQVE1NNWhla1BUTG1naWg0cWQyWF8xSHFlSDdpa1V5akZObnY5QXdWRzdiVnByalA1ZG1YbFJnNWdHR1g1OFlVam5FZ3h3LUc1RklHbk1GN2JhX3RCdDdZMzhkSlpObkRoRGw2WEhUajduX2JJSmZzaw?oc=5",
       "pubDate": "Thu, 17 Sep 2026 23:08:00 GMT",
-      "description": "Kennedy fans vaccine injury concerns at anti-vaccine event thehill.com",
+      "description": "Kennedy fans vaccine injury concerns at anti-vaccine event The Hill",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -947,10 +929,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "RFK Jr. says anti-vaccine group has a ‘friend at the White House’ - thehill.com",
+      "title": "RFK Jr. says anti-vaccine group has a ‘friend at the White House’ - The Hill",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRWM5VndUNENHQTJpRUpSVHFGMVhwZk1zZkJlMUJqTGdVQ3pIR3pnV01qWmlaNDk5MnloNTVweThUbHBzOVhqX0VmTktHWFpWYVRWRkh4bHIwWDRncGdVOFR2QVFDRzRhUFpfeWpiYk8xUVdnemNxSVlDby0yMzlJRlN2bnJRdW9PcW1DdDhrajFuVlRCTmZR0gGcAUFVX3lxTE1ETVBKYXhGZmsxTjlCcWVfMmpmRFpnR3hKZGVvYldGVmRjbGZic3doTVRiLUliblZfdVBfNmVRYkVueXp0Wk4yQU1Nc2g1SUpCOWY3Qk5oRThsZHlXZk44Q3JGWFJ6a1c0X3hxY2FtMEE3VjZvUm9PazJkSndjNjZONEhmM2c1RXJvZ1lmWlVIZ2RKanUwOEJ6S3VMZQ?oc=5",
       "pubDate": "Thu, 17 Sep 2026 22:26:00 GMT",
-      "description": "RFK Jr. says anti-vaccine group has a ‘friend at the White House’ thehill.com",
+      "description": "RFK Jr. says anti-vaccine group has a ‘friend at the White House’ The Hill",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1038,10 +1020,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Four measles deaths, a looming policy comment deadline, and how to read a study: The State of US Vaccine Policy - cidrap.umn.edu",
+      "title": "Four measles deaths, a looming policy comment deadline, and how to read a study: The State of US Vaccine Policy - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT2FweEJkZkd2OFZra0tmUjJUbGdFQ2FhVVAtWW1VRTN1ZGF0MF9WcE9QYS1keFJUSUlqZUNvR1ozWHUtTHgyMWtCSG45MDdkdmRpNVBuWWpGc3AtVFpid0NvVXBiLWF4RE45M05fdVBkMHo4R2hkak5qYlZFQVc5THF6bTdEb2dtanUxY0xPbWtacWd5VWo5d2xRUGh1ZDVobWN4MEdzWHk0S1BVeUpVTk9TWWE2N2lsTXozaXNXbGN6X1U?oc=5",
       "pubDate": "Thu, 17 Sep 2026 19:30:28 GMT",
-      "description": "Four measles deaths, a looming policy comment deadline, and how to read a study: The State of US Vaccine Policy cidrap.umn.edu",
+      "description": "Four measles deaths, a looming policy comment deadline, and how to read a study: The State of US Vaccine Policy CIDRAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1051,10 +1033,10 @@
       "articleLabel": "Research"
     },
     {
-      "title": "For some Americans, vaccines aren’t about science but faith - cidrap.umn.edu",
+      "title": "For some Americans, vaccines aren’t about science but faith - CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRzU0VmtBTVNEcERzY09NQ0c2Sy0tT2lnY1BzVWVkWFgxRThqSW14QUxIWXNRVUxBeHJ1RWZzU2M1M0tEY1U0SEEzLVZjSENhOVFTM28ta1hTT1NfUEozNU45bjZQeFdtTmptVVExUjhHbEx2V3k0T3BxUXlPVEdZV3ZfU1g0WjB4VUdVaTFEYmNfMTJjVHc?oc=5",
       "pubDate": "Thu, 17 Sep 2026 18:46:05 GMT",
-      "description": "For some Americans, vaccines aren’t about science but faith cidrap.umn.edu",
+      "description": "For some Americans, vaccines aren’t about science but faith CIDRAP",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1103,10 +1085,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Rabies - who.int",
+      "title": "Rabies - World Health Organization (WHO)",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qS2ptMWhNWC00ZW1nY3VyY1NpNElRZTBiSi1TZzNWZmRTNE1wdWR4cGNhcWlTbFI0RFhMeDY4SnpsZGJMQzYwa0JZMEVpcDJ4cGpfWk9NbzBYOVBVZHE3UUEzZ1ByUQ?oc=5",
       "pubDate": "Thu, 17 Sep 2026 07:00:00 GMT",
-      "description": "Rabies who.int",
+      "description": "Rabies World Health Organization (WHO)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1129,10 +1111,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Exclusive | States Delayed in Getting Covid Shots for Children’s Immunization Program - WSJ",
+      "title": "Exclusive | States Delayed in Getting Covid Shots for Children’s Immunization Program - wsj.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOazlVaW1ldTdVYmRCNEZ3NjNkTDBEZHVIOGhmRWszV25ySHBXbGtia0NidHFFdENTelVIbG5lNTNmM01pY3dDOWhIZTg0TUFwdm5aZnpJd19EMHhnM1RtUVgyeENNcDc3MmdMSHl1RkctSFhPcE9uMXpUdHo1R0tDOHVTYTZ4TXVFa1JVa2Z1MlpxOEF6M0k5c0tjenA5U2JKNThfeEtZd1RUTkJSbk4wMDA2TkRxZFpWTnN3?oc=5",
-      "pubDate": "Wed, 16 Sep 2026 22:32:00 GMT",
-      "description": "Exclusive | States Delayed in Getting Covid Shots for Children’s Immunization Program WSJ",
+      "pubDate": "Wed, 16 Sep 2026 22:38:57 GMT",
+      "description": "Exclusive | States Delayed in Getting Covid Shots for Children’s Immunization Program wsj.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1181,19 +1163,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Surgeon general nominee won’t renounce RFK Jr. vaccine decisions - Roll Call",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSGlSRUV4empUcU1QdEtqUmQ0dXd2M040UkJGal9TcmJfUTlpUzNRVUFSQ3FJbllqSFVfYV9uQjl3Q2J1YXdlWGg3WHRyV2ZsV1lyZ3lrdkVXZEg2X3IzNXU0QUQ1LW1XUHlPaktGQWdGQlNtSXZxZFpZRnVwY1BDQmM2MC1lYzRhXzVpS3FFRDBNSmh3anM2Y3c2MA?oc=5",
-      "pubDate": "Wed, 16 Sep 2026 21:03:48 GMT",
-      "description": "Surgeon general nominee won’t renounce RFK Jr. vaccine decisions Roll Call",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY1lKdm5WdWd0cUtIajVxRUxMUG1CNXpQdnlNcU5OQjFsRFBSNXNGcUdCbGhSUFhKeVpSYmRNRWxpclJiVUd1VGU0bzBfdDRvSWd2b19Sd21ZblhEemZMOU9CUFdZNC1LWmdSNDl0QkY3Ym5HbkQzQjNsREFmUENCYmN3VE9uV0o2bm1UX0RFNjlyYWE0V2tEUG9uUHlwN2RCY1ktTXV6MkVlN1hYVTRXTG9HYnQzUlFDSF9uckx2OTlFakcxdmJBaTNn?oc=5",
       "pubDate": "Wed, 16 Sep 2026 20:30:18 GMT",
@@ -1218,19 +1187,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "CIDRAP Op-Ed: HHS is asking what to call vaccine recommendations. You have 4 days to weigh in. - cidrap.umn.edu",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaEdRYVBiTl9mWVF1YVNQTTBRaWJzaFd6ZnFwR0E5RU4xVWtnOGN0MTR6eHBBbWs1WVNhaEpuTzl1M0RyUjM0RXVnWDZIaGxhZ1lMOC01clU5TWRzaUZINmk3WlRSLVJoVXhBWEF1Q01RWkwwUjU0Tml5WnRhdGYyb1BpNjg5Z251YmxGSHpRZVFWOWJJZUR5UldaSzlKckR0bmJRZDRzQnRtcWdPeURDaktHMGpqczFrbjd2cC1xTWlwMHc?oc=5",
-      "pubDate": "Wed, 16 Sep 2026 14:19:26 GMT",
-      "description": "CIDRAP Op-Ed: HHS is asking what to call vaccine recommendations. You have 4 days to weigh in. cidrap.umn.edu",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hepatitis",
-      "vaccineLabel": "Hepatitis",
-      "articleType": "opinion",
-      "articleLabel": "Opinion"
     },
     {
       "title": "How common are measles deaths in the United States as vaccination rates fall? - CNN",
