@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-03T13:43:06.504Z",
-  "itemCount": 84,
+  "updatedAt": "2026-10-03T19:52:30.094Z",
+  "itemCount": 82,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 16
+      "count": 18
     },
     {
       "key": "flu",
@@ -25,12 +25,12 @@
     {
       "key": "hpv",
       "label": "HPV",
-      "count": 5
+      "count": 3
     },
     {
       "key": "hepatitis",
       "label": "Hepatitis",
-      "count": 1
+      "count": 2
     },
     {
       "key": "meningococcal",
@@ -40,7 +40,7 @@
     {
       "key": "shingles",
       "label": "Shingles",
-      "count": 2
+      "count": 1
     },
     {
       "key": "rotavirus",
@@ -50,20 +50,59 @@
     {
       "key": "rabies",
       "label": "Rabies",
-      "count": 3
+      "count": 2
     },
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 38
+      "count": 37
     }
   ],
   "items": [
     {
-      "title": "Local health organizations encourage immunizations prior to cold and flu season - Greater Milwaukee Today",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUGFaV0xRTGRnYl9GLTFDVFFQVV9jRkQzYzVrWC0zUk1feTBXd0FJOEVlSlp6cS15cUxHTDI1WS0xWktfV20wbmRlV0tJRm8yZWFiaEQwRHozM1U4MHg5LW9kY29FaTFGR1I1UnFwWkQxQ1Q5YmNNVjdYN0t3QVZyNkV6Q1czZktIbVg0bWttQUdSQjV2a01raUt1aUJTQS1rU0tvOS1LMEprUUx5eG9KSzZKUkJrZTJsRno3bjllZ1F2emJZYXc?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 13:27:22 GMT",
-      "description": "Local health organizations encourage immunizations prior to cold and flu season Greater Milwaukee Today",
+      "title": "Florida Attorney General sues Pfizer over COVID vaccine claims - wtsp.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWlpGS3RlZzVfLVdfazc2emZkZkVOVlZLbkVjSDRIX2EwVll3UU5DNnBfTGhYWTZRUUR4RUk5MDd0Nk9POFZici1XU0xEWEZ1VThtbHNEZ0hlNFliUlQ4Mi0yeTlXVlAyNV94a2p6RFlyOEJzMGMta1lsWEdPcURPdXB2ODhYUTFXTUtQbHpZTy1oUk80NXdOYm5weFJ5cFVZUnB4Mmt4N1RydkZJcWlCVG1yb0IwenpBYzllQS1icDZrcDlmSzRROV81ODBXQnFtZTY3dA?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 17:38:00 GMT",
+      "description": "Florida Attorney General sues Pfizer over COVID vaccine claims wtsp.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "People receive first flu vaccines as cases rise - Taipei Times",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6MUtQa2ljamxhSWQ4Y3NDTW9ic1hzQUxVV3VhcEEwWFF5VWl0ZEJlTzNHRVFOczU0amc4R1l3ZWRXWE8tbFhsNjhBSGJJZUxicEx6ZUxQdzJyWUpqSXRLTlFXRzIwdHM3ZVZaTW1YWHZJaHpIS3NmQWFn?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 16:00:00 GMT",
+      "description": "People receive first flu vaccines as cases rise Taipei Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Fargo health officer raises concerns over measles and vaccination rates - The Flag - AM 1100 and FM 92.3 WZFG",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTkJ6S05tVEpmTmxVclE5Y3FVYml1NjFSVExwR296Y2hCSl9mY3IzdXBCdlJ6NVhHOG5VWWw1RGZJS05PSnFFRUhaX2RfdTVvcHNBNk9WM3JLUHFxempmNFZOT005OWpBTHRpUUxaVHZQRklOc0VDT1NKcG9GLVdyT0hkZFNvZ2xQWUtOYWVBQjVhNy1ZbXdSYklJazBMOTV5c3dlSmJHaEEzOXc?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 15:11:15 GMT",
+      "description": "Fargo health officer raises concerns over measles and vaccination rates The Flag - AM 1100 and FM 92.3 WZFG",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Scientists Design a Computational Multi-Epitope Vaccine Against Drug-Resistant Klebsiella michiganensis - Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSmEwejlHOEUxOU01YXl1VjVHbUUwQjdZdjU4RTlmOHVLLUdQckFvbkZFbTR1c09xdHM3VGlIS05nemkyRVlVQmFtZ0xiamxIY29IbldlOW5hd2RrZktzZk1JRGFic2U1Ym0tZGdDVTBydWEyclVVLWRNcUU4SjNiT3gwQVVncnYyVTRNV0hJbmJ3ZVpQaWZsZmh6U1lxQ1l6aVVOWExHWEIySTlRTEpNY3FXeC1EZkRqWUhVVWJ0YUN6SWU2NHZB?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 14:33:38 GMT",
+      "description": "Scientists Design a Computational Multi-Epitope Vaccine Against Drug-Resistant Klebsiella michiganensis Bioengineer.org",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -73,10 +112,23 @@
       "articleLabel": "News"
     },
     {
-      "title": "PLYMC offering back-at-school vaccine, free lead testing clinic - WFMJ",
+      "title": "One shot or two? What to know about HPV vaccination recommendations - swiowanewssource.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd1BVNGc1RmkzVGM5ZzY3U210MzlvSDE2X3dVT0o0eERXYy03dWF1V1o3amttUzZ5SVdJQ1k2ZFlPWnRpaDhrRmdFRzltbU1xU2ZhS3JWWi1GanRKUndZcUNiUXV4ZGVDODJ2Q0ZXT2pZazVWUkF0bTkzcEppdTVGdjdiLWxFUFU?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 14:00:12 GMT",
+      "description": "One shot or two? What to know about HPV vaccination recommendations swiowanewssource.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hpv",
+      "vaccineLabel": "HPV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "PLYMC offering back-at-school vaccine, free lead testing clinic - wfmj.com",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNczVlak1BZElFYXlkb0c2M0NEX3h3QjBjb0VxRUFYMTJna0hYSk5pb19LaXkwczJwN1hhaDVnV3JIaTJEX25xM0hibEQxLW9Uei1vOUFnWU1RU0t3ZHNIVUZSSmlyakl4VzhTdWdXS3lkMlp3bWM0c3RtLXY0ZXlDbUFQYUxFQklBRlFRVU44S1lwNVdMMXFNMVotUUF0Z3JDZmUtM2pvMlZyWTk1UXM4Nkl0cEpmd2gwTm9sWm9PakN5Z21tLU50STBmaXktcXVvVDFlTl83eWMzcm9KZUdHN1JveXlYSGpaTjE1VHcyS3lyQQ?oc=5",
       "pubDate": "Sat, 03 Oct 2026 13:16:00 GMT",
-      "description": "PLYMC offering back-at-school vaccine, free lead testing clinic WFMJ",
+      "description": "PLYMC offering back-at-school vaccine, free lead testing clinic wfmj.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -101,7 +153,7 @@
     {
       "title": "Florida pushes forward on vaccines repeal for children, but backs off expansion of exemptions - Sun Sentinel",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSFpBcjhiM1RucXpabnpOTzJnRkpZelc0QmFCS2ZpbjdTT05uUXVQM3JIcXpVNk56djFnM041MV9SQ3FjSlEzWVJrWVBNS1ZpT05EMll1czY5WWU0U1Ixc1FKTTU1VnlpQmlKT3BCTEFRa2xQTDZJeWNQcEtCS3VXYXJkWXpZYzVEUzdnNldWUGQ3T2d3OHAzQlZsbHZ6Zko5QlVnakE3VDctT0dzdkF5VjZpdkxjTm5rbDdINDhJSXdxMng0N2I2TjM3YnFSZw?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 12:38:18 GMT",
+      "pubDate": "Sat, 03 Oct 2026 12:01:24 GMT",
       "description": "Florida pushes forward on vaccines repeal for children, but backs off expansion of exemptions Sun Sentinel",
       "source": "news.google.com",
       "sourceType": "news",
@@ -138,6 +190,19 @@
       "articleLabel": "Research"
     },
     {
+      "title": "Local health organizations encourage immunizations prior to cold and flu season - Greater Milwaukee Today",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUGFaV0xRTGRnYl9GLTFDVFFQVV9jRkQzYzVrWC0zUk1feTBXd0FJOEVlSlp6cS15cUxHTDI1WS0xWktfV20wbmRlV0tJRm8yZWFiaEQwRHozM1U4MHg5LW9kY29FaTFGR1I1UnFwWkQxQ1Q5YmNNVjdYN0t3QVZyNkV6Q1czZktIbVg0bWttQUdSQjV2a01raUt1aUJTQS1rU0tvOS1LMEprUUx5eG9KSzZKUkJrZTJsRno3bjllZ1F2emJZYXc?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 11:00:00 GMT",
+      "description": "Local health organizations encourage immunizations prior to cold and flu season Greater Milwaukee Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Letters to the Editor: A vaccination for pet owners - The Morning Call",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd0RoTHB1VC16VjYtdk1nR3R6c281ZWZOc2sxdk1VVG12LVZIY2NVUGhLOTE1TVhQMzZ2RFVmUE5yTXBNbXJmaV9INGRjeHNSRF83dk44VnM4NjFLSWpyTmtnekl4ckNUeTlwSGFkRWpqSzFKYWlhZmcxbXprVFJaTkhBeXFvRGY1TVk4Vw?oc=5",
       "pubDate": "Sat, 03 Oct 2026 10:31:43 GMT",
@@ -151,10 +216,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Pitt, UPMC researchers test vaccine aimed at preventing invasive breast cancer - TribLIVE.com",
+      "title": "Pitt, UPMC researchers test vaccine aimed at preventing invasive breast cancer - triblive.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeDdPM1lCczBNQWtEVUt5T1lBMnN0SDA4SURrRmNvSjZKMkp1MXFKNm5ldHdmY0VlM0twd3NTRDJqZ2lMRjY3dmR1RWwwMTJGXzVTUzlJczRaNlF6RnJranRydG0xdFlveW91aTZ0NnRKQkh2ZjZVQkNLcU1pcTY0UkQzOTE1aW1WaDhOeHBOOFJOYlExUUJ1YlJLMVRpSFRjTjVtRkI3QnExaVd5Vjc1UU44VjAydw?oc=5",
       "pubDate": "Sat, 03 Oct 2026 10:04:34 GMT",
-      "description": "Pitt, UPMC researchers test vaccine aimed at preventing invasive breast cancer TribLIVE.com",
+      "description": "Pitt, UPMC researchers test vaccine aimed at preventing invasive breast cancer triblive.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -203,10 +268,10 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Karl-Anthony Towns Who Lost Mom To COVID-19 Talks Of Value Of Vaccine - forbes.com",
+      "title": "Karl-Anthony Towns Who Lost Mom To COVID-19 Talks Of Value Of Vaccine - Forbes",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSkIwd3Bfb01MbW4wQ3VXMjkwb2pIdmRtb2pLZzNOOTZlQ3JGbkY1VXFLVi15OEd2TzdNMHBIYnB6NUNuYVRCTFFRSzh6Zi1FOFVxYWVUVm5neU9HZ01BRmtHSUUyc3ktck1GdnB6bk9lTDRJTlJHOWZ2b1lMLWtuNTBnVDY4UXdpUWwyd2ZhZ2FDSDYxZ2Y4VzROemNBa3J3YXh1ZTF5d3NTYUpRSUFyWk50cUJaYnpPRDln?oc=5",
       "pubDate": "Sat, 03 Oct 2026 03:04:31 GMT",
-      "description": "Karl-Anthony Towns Who Lost Mom To COVID-19 Talks Of Value Of Vaccine forbes.com",
+      "description": "Karl-Anthony Towns Who Lost Mom To COVID-19 Talks Of Value Of Vaccine Forbes",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -216,9 +281,22 @@
       "articleLabel": "News"
     },
     {
+      "title": "Florida Sets October 8 Lake Mary Hearing on Dropping Chickenpox, Hepatitis B and Two Other School Vaccine Requirements - Medical Daily",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcXV0czlVR2ZnNWlwTGY5RnhBM3FEajVkVHBmNDljRFRFSnMya3phbWh6c25TdloxMnIxOHQzalNPdTMxcWVYam1lYXNBcXdERXVhQ1E0TVZlbW1ubGlRWGU5U2lhazZYNTJpeF9wZWpwdUhobU9vekQ0aWt4OENpMDE4N01sQlNv?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 01:50:13 GMT",
+      "description": "Florida Sets October 8 Lake Mary Hearing on Dropping Chickenpox, Hepatitis B and Two Other School Vaccine Requirements Medical Daily",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hepatitis",
+      "vaccineLabel": "Hepatitis",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Cabell-Huntington Health Department hosts flu vaccine drive-thru - WOWK 13 News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZDBhWUhBdkxQdlo0N0oyVWVMN0hVTm4xblBQYXpXekE2U2VJSlhfNmhvZGNZOEU0UjJ0V3JiWWxyUGZGLXcwdU1sc1hJaDY1MnJLTUJTZmQyaG5zUUhld0RxZTdvSDYxZW5HWkRxRnlFdkdlb2MtczBOeko5VHg3MUdaQ1pyNlJ4ZmtJaFg0eC0xTUdhTG1TRUJzSFRScDFYSnc4UFJn?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 01:56:07 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM3JKWHBXQVNtS05FQmx4cVN0M3B4Q21YZ3F6Q0ZFRG1LYWN3UjRybDdDTE1sMDIyNDl4UzFGRHg3Nk5qOHpUSnJDekF5NHBwLTVUNEUtbkRkTEI3MkdIeGxhSV9hYzViWXNwaTVUWWppdjVqYW1nOG9QMnA2NExzNzZXeE01VmE4cUxYdU5MUUVpZ0ZpUFlLTC1rcksyREdvcXRDZkU2aFVBZm5VZDlwMHRvd1RmazEzOGd1SWs1TEgxZ9IBxwFBVV95cUxOZ2xNZURJMk5wRHh6WXNoM3IwMDFJTi1MaTZhdGpjLV93M0NaM3hEWEZMQTZkc2QyQm1iZ3VpeHI2VmNfM19LZG02TThxQktQNmUyckVPanBoamYxaDg1SDU2VkRaMjVzb3c5WEtpSVROS19OSW1Sd2Z3MUk3empNTk4zeGRfRzNnWHNTOGFVUnExZGV5b0FnWU9MSUxUMmt1QnNZUWVXcGc1SnUyNXZ2czNSTlhSQ2h4aTU3MjRJSDg1LU1TUWlF?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 01:40:37 GMT",
       "description": "Cabell-Huntington Health Department hosts flu vaccine drive-thru WOWK 13 News",
       "source": "news.google.com",
       "sourceType": "news",
@@ -255,10 +333,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "A new flu vaccine will be available this year - cbsnews.com",
+      "title": "A new flu vaccine will be available this year - CBS News",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOay1KbU1KV2FiTWYxQjNKbC1HdmtjbDdrTWdILXpGZ2NCNzRIYldQTFRiMWRHNW1LMDRLSVFTNzMzeURkaFpxN0VTUENnb0tQZkJjbld6cGhBZDYzcXoyb3pEYWhEbXQ3QjlRRTJteTdsVEY1QTZvYTBuWTZYNnV4ZTZ5bVRtWm1WZWZDU0J6bjlQTE0?oc=5",
       "pubDate": "Fri, 02 Oct 2026 23:20:00 GMT",
-      "description": "A new flu vaccine will be available this year cbsnews.com",
+      "description": "A new flu vaccine will be available this year CBS News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -294,23 +372,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Childhood Chickenpox Shots May Be Slashing Shingles Cases Decades Later—by Quite a Bit - Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRDkwaEwxb0NISWgxME1lbEExemhEckRTVmJpNnV1cG55QTZMSVVfZUUzYVREWHNvcVFqbGNBdmVxZjZJQ2E0TFprTlBTSzluVlEyb3prbkozcE5SR2F0SHREUTZSaGd5c3l2NUlJNVdlLXNlbGdRdjJqSXpWM21FbE0zaXdZd2VfdHZfMDh4RHdUQjRaaW8wLV9OUzczRF96dXQ1cGdnTzhxbmd2dmJxZzE2NDNteFVX?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 21:20:51 GMT",
-      "description": "Childhood Chickenpox Shots May Be Slashing Shingles Cases Decades Later—by Quite a Bit Gizmodo",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "shingles",
-      "vaccineLabel": "Shingles",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Florida drops bid to widen school vaccine exemptions but still seeks to end 4 requirements - cbsnews.com",
+      "title": "Florida drops bid to widen school vaccine exemptions but still seeks to end 4 requirements - CBS News",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNS1lMmxUc3dJZ2tFWVY2UThVOXhRMU9QQlNDel9VbTlreG5hUGU1eEFNWnRNa1BqNTd3R2Iya3BDRF9DV042UDZKZXhpYWNUTFljR1ppTXlmVm8xaWk5RThzY3Z6QWNpME5TbVpYTkVPTzUycFRva1o3ZnlIdmEtWXBTVkV0b3d6VzVybXlPLU1va2ZwSS0zMUNvb1V3djBpZWlYOGZhNjZDWTA?oc=5",
       "pubDate": "Fri, 02 Oct 2026 21:04:28 GMT",
-      "description": "Florida drops bid to widen school vaccine exemptions but still seeks to end 4 requirements cbsnews.com",
+      "description": "Florida drops bid to widen school vaccine exemptions but still seeks to end 4 requirements CBS News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -346,32 +411,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Portland Health Department Surpasses HPV Vaccination Target - Jamaica Information Service",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcHhmc0hRa2JnUm1lTkJIbFZVNkZ6RkhHSk5mcEZ3bTNxOG5iSDQ3NUx0ejhjdDFWNHR1VzFWcHQ0WTQ2elRfRFhWOWt6YW1zazA2T3Zaenc3YlRRYVQtd2ZVT28zU29CQ0ZMVkJ0OUZsTEFhSnZZY1ZCRDZBZ201S0RkSC1qZw?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 20:17:17 GMT",
-      "description": "Portland Health Department Surpasses HPV Vaccination Target Jamaica Information Service",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hpv",
-      "vaccineLabel": "HPV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "When to get a flu vaccine and why it matters - Shoreline Media Group",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNalJ6SGJpUklOZzhON0dlZXV0OGpyS0wxUFplWDhNdGlzYWEzbWJXU1VBZFJrRXZHaWFmczAxTllGdE1PcDNyQmxUTnFYOTNwTzQzYlBqS1hsMzduUHFyY2lhR3dqYkMtaXlNM055S1ZmcDk4a0hhVUtGSGI0eHFTa3pZbWZBSHE3Q2hucHZoVnZYSVF3NzdxTzlkRGd2MGFzUFcyQlhWck90ZmFIYkIyUG1wbWtpQVJvSEs0dWkzdTdDNk41MGE4RUlEd2lSZUdnbGstZ0NlM1Byc3Jlc2s3WHBUMVNwUQ?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 20:05:08 GMT",
-      "description": "When to get a flu vaccine and why it matters Shoreline Media Group",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Health groups offer vaccination clinics at EMU, in Ypsilanti as flu season begins - The Eastern Echo",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcFR4THJCOF9KUlRvTjFvUEJURDQ5aFRudGhrSlAyTTR4YldMTHJXMEVXLUdlTmJOaGRxZVRqN0tWeHpiUFJFZThkQVRhZGsyTkFxTTQ4dF94MGJKNjJUWVh4aW44N0V2b2tNTkJKRUFwV2dvLUxoVERnUHo3b0MzRjhkZ1pDSTNiODNsZFFLR256bUt5UFRBU00ta0ljNXZYR2JZMmhlQ3hhblJSUjh0cHZuMmdOSU00WGQwZmptdDBodw?oc=5",
       "pubDate": "Fri, 02 Oct 2026 19:40:12 GMT",
@@ -398,10 +437,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Vaccination, management key as fall 2026 calf marketing begins - Tri-State Livestock News",
+      "title": "Vaccination, management key as fall 2026 calf marketing begins - tsln.com",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNjJVVFR1cnN2MVZna3Njdy1RbkhqZVRoWl9rb1I2MjhOTElBQllsM2hDX3hEMlJBemMzRHBkcVBJV2xfTUlBWGdmY011TnBqRVdFUmE1em5oUmtVbE90bXBrT2dVQmVXQVNlYlZpdFZFU01jYlFnbWh2Ry1XSWVwbkt0NXNzbVNuNzRGY1NFUG5ZZw?oc=5",
       "pubDate": "Fri, 02 Oct 2026 19:02:45 GMT",
-      "description": "Vaccination, management key as fall 2026 calf marketing begins Tri-State Livestock News",
+      "description": "Vaccination, management key as fall 2026 calf marketing begins tsln.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -437,19 +476,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "GSK | 10/2/26 - ktnv.com",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wcGpTTTJmbzVEbERSUXZpZUhuaTlzUm8wbzFOVXVNTXBOQmpFNG5HYXoyZVpxVHZzbnpOMER4b3hVcThWMGNwbHJ0QnNlOFpjcjh6ZXFzR0g?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 17:39:00 GMT",
-      "description": "GSK | 10/2/26 ktnv.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "When should I get the flu shot? What experts say is the ideal time to protect yourself - NBC Connecticut",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNWlNNTNpcF9RajByN2FmYlVPbklqb2ZWMWdYTkNzaVBuTloyb0YtWkp6YWFkcTJZN1JBVjRnUnJnTFhZcU9mbHE1QlphN0JWUVpBMGMxS05pcVN4dVhWNTB5cUkwelBXd3NQdmJ1YzU4OTM5Qzhab3hZazJuRE1XSjNWZVlhb2o0WlJKdFA2Wk5fMFpXNXBlVHhCQ3B2dVVGNGtnWnpLVXBsc29tX25rdTNoWFZ0cUVM0gHAAUFVX3lxTFBGb2p4dzhhY3BSZVdsWUxGaHhObTN6dWFBNjdvQU5jelUxb1NHT1hNQnNMTVItNmhyZjlraVcwT1hqcU5SV2JGMXdFT1pzQTdCTnVYRnpIT3RZVFppbWtrMXRuc3Y2LUR3S3M5NG12UXFONDFpOXV6dC1URFFzMVJYazBQckNpTzJfMDI1UmQ5RDRwblpndHBwWVZHN3NJVV9nUTZZS2NvOUdnLVluMjQwVXFTd0RwUW5fVHJPcHJMZA?oc=5",
       "pubDate": "Fri, 02 Oct 2026 17:23:44 GMT",
@@ -476,41 +502,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "Vermont urges seasonal vaccines before illnesses rise - benningtonbanner.com",
+      "title": "Vermont urges seasonal vaccines before illnesses rise - Bennington banner",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdWhCR1h0WmRidGQwVlNFeFdUZkNjTmd1Yi1LX2hwMGt3TEYxODUxMXVQcXpsWTNwYVpiaG1CZW55dmloWkIxV2x1UjU3S3ZjV1NJYTlJT3M3VnhRcTFYcTZZYzFHLUtMclFRdUdzXzd3c0J6LUhfaVRHcjhEZ0d2VUNRV0p0a0V2TC1iempnNjZ3YkpQRXg3YTJSTTJoa3M3X1BHLW13SmhOR1B0cEV2SG9sYldJekF6aGxqSVNiUVA5UDJabmlJ?oc=5",
       "pubDate": "Fri, 02 Oct 2026 16:37:53 GMT",
-      "description": "Vermont urges seasonal vaccines before illnesses rise benningtonbanner.com",
+      "description": "Vermont urges seasonal vaccines before illnesses rise Bennington banner",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "One shot or two? What to know about HPV vaccination recommendations - apnews.com",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWWtZYXNwbXB0TFNCRmN2MldJSV92ZnI2WG5JRlhqbXBCY0llOWNVVDhBU0Z6NVlmN280bWNtc1JFa3pBeFpScWVVWTRnZjJkWklvaVF2RmlCV0VLUXR4cTR3V2lTSnpySXpEcW9GdGFCWWVUOHJCSzNINXk1R1JkeUxoclU2YUV5Sl9qdzYyWmFpaWdaeHRhb0pEWkRybXdOSUFmNEw5d0FOVWwwMWxvUUVCa3RDOTdWZzdtQ2xWYXJJUQ?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 16:09:00 GMT",
-      "description": "One shot or two? What to know about HPV vaccination recommendations apnews.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hpv",
-      "vaccineLabel": "HPV",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Low-flying planes to drop rabies vaccine baits across 16 Alabama counties starting Oct. 5 - rocketcitynow.com",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdlRnMmpScWpVeWt0VmdYOG9wZVMyTDNZdmo4aHg4Qks3WXg3WjNTTjA5NXpXRy1FN0FjNE9aT2tMa0JQanVnT3pQYkZSUFVxb1hiR2ZLLUc3QlVyaTJCczYtOEhHMTBBWDV6d2tlYU5QNGxGWHNPMFhDcjRDcTJnLUR2VmhrWHNWTmduQ3RpVWtpV29JX0pwT01zTW1RMzZEdnowaUpJSnFVVGVjLWpmNzlhbjNIel9XV0RtNUhVMDZySXJORkNqY2JqaVpQbUtNdWpfejhHNTctZDQyNV9DREhRVE12aUJZMkt6TGFkWmRzSDJYaUJoWHVab3dsc0MxZ2c?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 16:06:00 GMT",
-      "description": "Low-flying planes to drop rabies vaccine baits across 16 Alabama counties starting Oct. 5 rocketcitynow.com",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "rabies",
-      "vaccineLabel": "Rabies",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -567,10 +567,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Respiratory virus season has arrived. Flu, COVID-19 and RSV vaccines are available - KSL.com",
+      "title": "Respiratory virus season has arrived. Flu, COVID-19 and RSV vaccines are available - ksl.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZThzUzV0anVybC1Kd19RTXNTbVNHT0FEZ3pyOUNzc1BEWG1INmZ6UVB2Q0hPQ2Q0UG5nR1dmdlV3b3NDbGhsazN4cE5MUjBYY2NEVTBCSXZpLXhPTlVxMlQzVUVYMUV1VldOaG1WNDQzc2hKWU03X0tha01SczdFbjhVbEYxTnZMMW91TzlPOGlwWXJuSGJSZ2NlZmdYaGhCQmhBZw?oc=5",
       "pubDate": "Fri, 02 Oct 2026 13:28:49 GMT",
-      "description": "Respiratory virus season has arrived. Flu, COVID-19 and RSV vaccines are available KSL.com",
+      "description": "Respiratory virus season has arrived. Flu, COVID-19 and RSV vaccines are available ksl.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -619,10 +619,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Florida AG sues Pfizer, CEO over COVID-19 vaccine safety claims - cbsnews.com",
+      "title": "Florida AG sues Pfizer, CEO over COVID-19 vaccine safety claims - CBS News",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbDE1LUxCWDNKbUxEbWRxSFJPUmtMOE93TFBhY0Mxa3ZyQkY2ZlR1TkdaVkhnTU5WM20zOG1ZVnY5V0s2dF9kczF1dUU0S1cyOXdvdzFsdmpCWG94QUdqSEhEeDFTdXNuVjNaeTF5YlVYS1JON051WDVicldSeVZGZkhqcHpMSmYwSElTZTVNZkp6S2hqU1QzeFhrOS1HbVJD?oc=5",
       "pubDate": "Fri, 02 Oct 2026 11:40:00 GMT",
-      "description": "Florida AG sues Pfizer, CEO over COVID-19 vaccine safety claims cbsnews.com",
+      "description": "Florida AG sues Pfizer, CEO over COVID-19 vaccine safety claims CBS News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -671,32 +671,6 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Columbia Health expands annual flu fair outreach to additional locations and day - Columbia Daily Spectator",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNzVuSU9aaG9MT1BwcWg4cWdjc2VyVEgwZXMxV3ZRakpOVGx2T1J2Z2szSDZVOHgtQTB5V3NSRGhibHlaZHEwelNDbmxvc3pncWVwTFotZC0zY3BGZWlIYy1SZTBGZVB0NHNQRHg1NXdtTHJ5ZHpQeXB0T2NFU054a3dyQll1UmZyVEliYlZxRnJKV0dVWXJ5T0hEaGZzRDZISGZvQldKQk9Rdndqd0lPZjVyMTU3SHdkc3paVGZmZmh3NVNkYURPb0x6aw?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 05:20:05 GMT",
-      "description": "Columbia Health expands annual flu fair outreach to additional locations and day Columbia Daily Spectator",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Vaccine hesitancy, like malaria, surges globally, topping 35% in some countries - Genetic Literacy Project",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZjNGeERXVUVoblhhczQ4a2plaHhLOHVaQ3JNTFdiTy0zam5jVXJnNVhHNlhyVU9rR1VrRlpMMmI3dkZwdW41SDdoRm1tV1BvV0NKeWo3c042M1NWa0ZzV0wxUUlBVVdCcXZVekFMS18yaWs1cXpTTlJCV2w1WVlWdVFBdWhhanJFekctcWlfUW0xYl9rZFVYcDI5VXEyWDFMZlVKdTVwcnBNTHE4TlZiOGhPb2MzejBia0dsMzhnbw?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 04:30:17 GMT",
-      "description": "Vaccine hesitancy, like malaria, surges globally, topping 35% in some countries Genetic Literacy Project",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "ALA Urges RSV Vaccination for High-risk Older Adults - respiratory-therapy.com",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX0ZvZWdrNnBQZDdjQm53ZGcxRXlDYTBqcTNNT2VlbHE3ODhJdEhtSlh2T0pYOUc2dnJhR1EyZER5VlVmZkI0cFBSaWJjS0ZlcEdfSDU0ekM0cVNSUkNvdXNsMkdvcm5jS1FNd3FIUmNWNjQ5b1FtMXdHMk9BTjR5bE5sQ29BQ1RON0ZZZWZHS0Z4VlhpamFrekVBVFNhQ1VBYUNvVjhTYmJoN1JLTHJaV01Qa1NtT21ReUdVNmZ2UkpYc2NXVTFN?oc=5",
       "pubDate": "Fri, 02 Oct 2026 01:36:43 GMT",
@@ -710,10 +684,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Georgia residents encouraged to prepare for rabies vaccine drops - wsbradio.com",
+      "title": "Georgia residents encouraged to prepare for rabies vaccine drops - 95.5 WSB",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdHRsT2U1UmdWT1lTcGVheUNCckVfV3liVGZTMmJtckdjMEZFaWlHTnJKM1lNa2FPUzBxQlV1YzJHS1k4XzNRVUF1b19Fb2t5bndkYzVOWjNyYkNxRUpQVkNnd21UUzRIdXRpZ29xX3pGRTkzLUI5ZEZJN1lfUmF4ZEVmOHo4Y19LdkktZlZFUzBqbG5qbndfY1J4bDBRM0I4VVFQVFBsWXNLWFU1bjVJSnphMjk5M0FiWktaTGFR0gHSAUFVX3lxTE1rQnFNUEFtaVdWRWZNMWVWaWRKZy1MaDlsSnpKNmFjY0FoUnpRc1BfdDZvT0ZqejRGenByN0dTZVo2UGV4MGFGYUZfU3FBQTFCQzdYRnMyTTZSOE5QQzM1aEJIem1XazdGLVFySVVSYmF4eU5PRGgyMUNKbDhZNlVnQlF0eDFpWnRKWGszbzkyMFdpdVIyUms0VmotUVlvbENHcUREMTY1eWlFNlNyNWV2MnFEU1c4ZGdRdkQtM2NlZ3lENFRsYW1GSHZ1MXRQOHJOZw?oc=5",
       "pubDate": "Fri, 02 Oct 2026 00:00:00 GMT",
-      "description": "Georgia residents encouraged to prepare for rabies vaccine drops wsbradio.com",
+      "description": "Georgia residents encouraged to prepare for rabies vaccine drops 95.5 WSB",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -749,10 +723,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Wisconsin DHS releases vaccine recommendations - wbay.com",
+      "title": "Wisconsin DHS releases vaccine recommendations - WBAY",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcDA5M3h6Rkd2WFZfUTNHZFF0WnNGeERZUzdUTHVfMmFHTDhHcjEzRXUtLVEwb09tT3ZBY1pOX3hNb3Q3N0twWG9NbWs2X290al9pd2ItZFFzWnV0SmhfZ3BoWUkwMUMyNmRBWnVRV2JQYkRHX3luRWt1OVpycDV5bVQ0TUt0QdIBmgFBVV95cUxNdUVzb0hYb0Y2Ylk2dWxNb1VJd3lael9sMXh0d0ZpWWFGOVJCMFZ0cmpFYmI4U1FWRUJOTHI4QlV4azFSdjZyZldmX3hzVkJBemE5dnJvZWdvRFVtR1RrRUtRSXdIMGFQbHdPMFpCQ0lFZjA3QnZ6c2Jmel84UVRkWGsyOWppS1lOY0luRXBLdzBHRW94MU5UWnV3?oc=5",
       "pubDate": "Thu, 01 Oct 2026 23:16:00 GMT",
-      "description": "Wisconsin DHS releases vaccine recommendations wbay.com",
+      "description": "Wisconsin DHS releases vaccine recommendations WBAY",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -944,10 +918,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "USDA to drop 271,000 rabies vaccine baits in SWVA - wfxrtv.com",
+      "title": "USDA to drop 271,000 rabies vaccine baits in SWVA - WFXRtv",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRHhOQUczZHZUeWZjUnpzUjNKbTBfY3M4aTlOUnMzUUJ5MWxCRkdIcnFvTTBqWHhON05vcEIxWjFQb2h0b2JDNnlHeExsX3oyS0JBaF93RUVVN25xSWpab281NklZb01LRk1jQ0xzWjdfZHB6Tk9ac1RWTkNIZVlVVzFNONIBiAFBVV95cUxPZ0tPNE9qTTdkaWtVZzN3QmpTSVRnUkNOejlFWFZ1QUJqTTJUUllZZkFQMUZFbXZidUczcTd2c3V5eVo2SFFDN21aRS03YTNEejJOOUFVWjZJcUJVcy1SSU1LV0x6cFQwTVRyNFVIaW9uNllBOEJRYzdvdjhNUFJRRjhLeTA0M3ZX?oc=5",
       "pubDate": "Thu, 01 Oct 2026 16:33:01 GMT",
-      "description": "USDA to drop 271,000 rabies vaccine baits in SWVA wfxrtv.com",
+      "description": "USDA to drop 271,000 rabies vaccine baits in SWVA WFXRtv",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -955,19 +929,6 @@
       "vaccineLabel": "Rabies",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "CIDRAP Op-Ed: One HPV vaccine dose may be enough, but how we get to that answer matters - CIDRAP",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcm13d01ZUmw0V196VFRLalpfMWpmeGpkUHFFd0FsM2xFRHJSVWZRTVBEdks1REV5ZUxXTW9oTEUxNXJmbFN6el80cEc0THg3VG5ONXJJMmNybDFSRnVQaWowSG13dkZoZnQzYnlfMFQ1d3NxSGczSC14WVZrcGp0REVVRDNZVlVWYkpPSHF4RUl6YkRZbm1VSHNmS1gzd2tNUHpHbnFwb0s5QjA0SzZxb1NyR0dpZWVHWHBmTm85bmlvQWM?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 15:56:35 GMT",
-      "description": "CIDRAP Op-Ed: One HPV vaccine dose may be enough, but how we get to that answer matters CIDRAP",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "hpv",
-      "vaccineLabel": "HPV",
-      "articleType": "opinion",
-      "articleLabel": "Opinion"
     },
     {
       "title": "Thousands of young people are still missing MenB vaccine protection - Open Access Government",
@@ -996,23 +957,23 @@
       "articleLabel": "News"
     },
     {
-      "title": "Florida files to make changes to student vaccine exemption - WFLA",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNFliMjkyRTNXX3R0TkNsWHRTRDRuQWxacGw1TzM3Tnp0ZEI0QnNWeEF2VTM1YVBoTDVoMkNzQWdGa1Ixa1M2ZEE1RXllYjc0Z09uU2JYMGxXNHBPR2t0YTB6QWhrdDNnYlhoejhCcUNNTTdnX3hENGlzbTVVY2VXQ2dKUFZaR0ZKSjNJUE5SRXg1eHNFY1lv0gGcAUFVX3lxTE56ejVxT3hCa2VWcXR4eWtwNVo2ZDE1UnVFM0pwSGstWWtyM3dTNFNpWXcwR2U0bmxiTEpzRGFhYm9EWnh2Yk5BTV9uSlhGRFBkVHFpbFo4S2QxeHZyaWhMbFZSTTdzSGZ0TEdtdVlMT215cEVsVnJwUFI1UFZ4Mm14TFdfZnhyMnFZa09TM0VOQl9Fa3JNTkdwOXVWQg?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 13:20:13 GMT",
-      "description": "Florida files to make changes to student vaccine exemption WFLA",
+      "title": "Florida Attorney General sues Pfizer and CEO over COVID-19 vaccine claims - Taylorville Daily News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV19TR08yeDUwSnZuRk9oZDhZSkJrUzBNN0NtcWgtLS1uOXpfZDl1ajdwYUN2UkpBWFJuVW5hRnBzMUNLc3FwTk5DekREQlFyRERhc25ic1M1S0ZDQ3ZhWWh4eFp1V3FTOUtxcDY5aU9jVUJSUlFGX0NfZzlKZlFYUEVwVGFQcVQ5VE5UdVU2YXFsT1J3QkNhX0NWY3JjTmM5Smp1Mnl5eG00cTJ3b0RXaA?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 15:02:50 GMT",
+      "description": "Florida Attorney General sues Pfizer and CEO over COVID-19 vaccine claims Taylorville Daily News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
       "articleType": "news",
       "articleLabel": "News"
     },
     {
-      "title": "Walgreens Expands Vaccine Access Through Seniors Day In-Store Clinics - Walgreens Corporate Site",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZXJ1aHpWNWFHYmpOM1dNdWRSMU1yMjBOQmVrd3JWR1p0eFJNQ2ZQZUpGdDRTZV9CXzQ1MGxzUFFUVkNIbUtZVlVTSG93U3loNGRXckhtNkhzcjMwMnlMREJkbm1GNUdVLVhBWmtGQXZ5NEpheFV1aFd2M3dqeWpOZzB3WHZkQ084enhxLUlXZGh1UW0wLTBrZ1VoVnRxcDQ5NXMxRmRFRHBRazlOWG1oVVp6cU9HbWNWak1iLWpaVTZMT2dZMWFHU0owc3hqUFR2YjVadTkyUGwtdDQxZ0RyNHVUVEpaTElQNEE?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 13:03:48 GMT",
-      "description": "Walgreens Expands Vaccine Access Through Seniors Day In-Store Clinics Walgreens Corporate Site",
+      "title": "Florida files to make changes to student vaccine exemption - wfla.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNFliMjkyRTNXX3R0TkNsWHRTRDRuQWxacGw1TzM3Tnp0ZEI0QnNWeEF2VTM1YVBoTDVoMkNzQWdGa1Ixa1M2ZEE1RXllYjc0Z09uU2JYMGxXNHBPR2t0YTB6QWhrdDNnYlhoejhCcUNNTTdnX3hENGlzbTVVY2VXQ2dKUFZaR0ZKSjNJUE5SRXg1eHNFY1lv0gGcAUFVX3lxTE56ejVxT3hCa2VWcXR4eWtwNVo2ZDE1UnVFM0pwSGstWWtyM3dTNFNpWXcwR2U0bmxiTEpzRGFhYm9EWnh2Yk5BTV9uSlhGRFBkVHFpbFo4S2QxeHZyaWhMbFZSTTdzSGZ0TEdtdVlMT215cEVsVnJwUFI1UFZ4Mm14TFdfZnhyMnFZa09TM0VOQl9Fa3JNTkdwOXVWQg?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 13:20:13 GMT",
+      "description": "Florida files to make changes to student vaccine exemption wfla.com",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -1048,15 +1009,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "Why are measles cases surging in Iowa? - thegazette.com",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVlJCMThGa21vNExaRTg1SHctVjcxaXBDVHZNV0xXTG9ialRDc0NLdjU5Q29La3hWTUJQdlR0aVA2Q0I4R1hiNDBFVDhoUnAzOHNuTFpWUF9ha1JiY0Q1NkducnZnVkk2TEtlTnJQelRLb1cxbEZfV3ZEZmhzeHRMUHZqNHBFRHoyOFBaMWdRU2dFSUhxdUZTQWhZa0RsZGVucWhqY21rY1lVbXRrMlpPaTBMRHczSldxRlVILVlORUpuaEdaZHRTNWNMV01qdG8tam02YkN2QXZONFk2blIwMmhhZGhRTzFnWk5NYkVsVUw?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 10:30:00 GMT",
-      "description": "Why are measles cases surging in Iowa? thegazette.com",
+      "title": "Current CDC Vaccine Price List | VFC Program - Centers for Disease Control and Prevention | CDC (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzcDlFY0E3MFdhQmZETTZXa2hSdmxmc2x5TC1XVXNhM2xqUmk2V0Vmd09sOUlSc3Y1bjJCQVlrVWZDSF8zc0lXOXRTM0JNaHV5YlVBcnNDdkZEdE5DQUhYVGNwV3FubzVDWThzLUZqcldYMGNOTkE?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 07:00:00 GMT",
+      "description": "Current CDC Vaccine Price List | VFC Program Centers for Disease Control and Prevention | CDC (.gov)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1122,6 +1083,19 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "She Says Vaccines Killed Her Twins. The Authorities Say She Did. - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUkhvVXlkZ0RBUDRTclUxZ1lxaml1bmZHaWJJMHA1eTFEMnhYSWYyVnEwTWJVS01rTmJKMkNoUmswa1hoUmVEQ0lIcjJSMFp0ME9LbHBJN21EZVNfVlVGSExlbFo2VDZsYW5RVFQxa2JEZEI0cVJDUjk1ZlRaWDl0bFhZd25hdGNyUnhv?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 13:18:24 GMT",
+      "description": "She Says Vaccines Killed Her Twins. The Authorities Say She Did. The New York Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
