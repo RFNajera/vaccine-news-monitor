@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-11-02T13:07:42.932Z",
-  "itemCount": 73,
+  "updatedAt": "2026-11-02T20:05:46.542Z",
+  "itemCount": 96,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 3
+      "count": 9
     },
     {
       "key": "flu",
       "label": "Influenza (flu)",
-      "count": 7
+      "count": 8
     },
     {
       "key": "rsv",
       "label": "RSV",
-      "count": 2
+      "count": 5
     },
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 8
+      "count": 7
     },
     {
       "key": "hpv",
@@ -28,14 +28,9 @@
       "count": 1
     },
     {
-      "key": "polio",
-      "label": "Polio",
-      "count": 1
-    },
-    {
       "key": "hepatitis",
       "label": "Hepatitis",
-      "count": 3
+      "count": 4
     },
     {
       "key": "pneumococcal",
@@ -55,14 +50,417 @@
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 40
+      "count": 54
     }
   ],
   "items": [
     {
+      "title": "What physicians need to know about this flu season — ‘A conversation can go a long, long way’ - Medical Economics",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUXNOTHBxQWhkUklkNVJGQ1ZmUGdLN2JDN1hUeGJONUJEWDl2aWU3U0pvYlVsYTQ0LVkwTFpRY214T1NkWE8yQjV2M2JwQUZRbTlhYzFNTVlkaHBNaVIxOXJ3b3dkbi1JbzZGcF91ek01bHhDZnFHMmtVcnRCcVJ2ZExteF93VjdGM2gwbFAxT3hDZEdYYmhMUU1DdUd1c21jUmRjRVpDTWp4MmZ0Y1dXRkVwcWlxU0YwVXM3VHo2TzFoV0J3?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 19:54:56 GMT",
+      "description": "What physicians need to know about this flu season — ‘A conversation can go a long, long way’ Medical Economics",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Early Flu, Late RSV: What Infection Preventionists Should Watch This Respiratory Season - Infection Control Today",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ2FLMXA5eVktamZzNnhTZ05nRXd0ZHQ4b1RaeHcyM3VKZ1lCUGJKYWppaFN2MHcwR2MxXzE3d0V6Q3FUeUJ5aWNpNVFHTG96c1lReWVxT1N5bTVzdzhnOEM4bkMzb1dlQnBoaWw2N0JSU1VKbUpMaWV2NUFvQWl3UTRWcWJWMUZTWjdYWVhxa1hDYlEta1I4cG5oXzFwTWtUbHhVM2JsM0dHV0ZyeDRMUS1pS2VQYkRFQVFQMkhzQXhnWU1LN3dF?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 19:43:14 GMT",
+      "description": "Early Flu, Late RSV: What Infection Preventionists Should Watch This Respiratory Season Infection Control Today",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "rsv",
+      "vaccineLabel": "RSV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Doctors Are Begging You to Get the New COVID Shot by This Date - Parade Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LQUxwWC00djVoLUdWaFpTRFpneTdBUk5yRW1QMURQa0RFUmN3RVlBZjZURi04R0tKMmhtR1diOVRzdUhFRUFiVGZVNXY0VWxwVDRocnVXUXRLYzlfUHRGOHJmWGVqR0pwYWc?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 19:25:00 GMT",
+      "description": "Doctors Are Begging You to Get the New COVID Shot by This Date Parade Magazine",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Ludlow Rotary celebrates 100 years with 100 crocus bulbs - The Vermont Journal & The Shopper -",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMFlMd1RpSmE5elhxcF9qVGgtSlluUkQ2a1IwaVJla3VnMXlQVnExS1U1N3drLWJoYnV5dFlKcDhxXzExTFZUTVFJZUI3cDJHTTFXU2RpbWFZTktQYlR4V2c0bW9kb3ZwMkZ4MlpQVFh6bHdLa3JhcE04cGc2YVVPaFlLWkh0SllyeVRJNmFFNzF6T1k?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 19:00:12 GMT",
+      "description": "Ludlow Rotary celebrates 100 years with 100 crocus bulbs The Vermont Journal & The Shopper -",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "research",
+      "articleLabel": "Research"
+    },
+    {
+      "title": "Health experts encourage vaccination amid flu season - MyRGV.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX0N0aEJLT2xXTUFXQUltT0lPbmZiREFaakJqNlpLZlNoN2Q2SWdDM1lxMFBHX3oxazFjbEhGcnVubnYtMHFqWlF2bllZaUhGZ3VDV0FfQnpaNERWVWJYTk5PaE1SZ2wxNVFZd3JYQzRERFFHV2dSc0taT01JQmRMd3duNnE0TUFfSTU4eWE5Y1lKSTJOajZJaQ?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 18:55:00 GMT",
+      "description": "Health experts encourage vaccination amid flu season MyRGV.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Drovers Beef Biz: Redbooks Available, Virbac Offers New BRD Vaccine - Drovers Magazine",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNDIxQVVPaURldlJnVHhRREpvcTlYUnlaNGFuenRCN1laOHI2bFdZQnMtYkxwNldxUTJDdVl2LUpEcXhncWpOb0xZNmRBdTlJUHZ6dVVHTi1oQkZUbk9XT3lhUF8zN3g5X3FJdUpJVWxoMG9nNXBMQkNkQlRCaWZKeUxZd3F2T0tpNmNkcUlVTEFqVFZiZ3dLUXZn?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 18:53:25 GMT",
+      "description": "Drovers Beef Biz: Redbooks Available, Virbac Offers New BRD Vaccine Drovers Magazine",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Check Your Health- Utah Makes it Easier to Access Your Vaccine Records - KUTV",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWGdqNE5vMmNqZm9lc09la0lhY0tOWC1qR3RRNnI3Ri1aRXI3MVlIVkt4VkhYam5NRlMtNnZkbEtNdzBHakcwSjB0YnVsZTNDdVFITjJtTHpsY000R3QwR0p4Unpid2pmdGhmdm1pdXRUaHJwWl9TVFV3RmYxY1EtODVZMi04ZnU0RzE2R3czUVpUU2pxSzdWclZGY3J3UjVyYUxSTDA5U3E5cW8xSHlJT0k5MHg0alhEZ0kwZA?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 18:30:15 GMT",
+      "description": "Check Your Health- Utah Makes it Easier to Access Your Vaccine Records KUTV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Flu Vaccine Appointments - Trumbull, CT (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaTjBQZU5Sa1ZLMnFELW1LVUlZa1U0em9oVk5IdnFCSnpocFhIWFYyVndoZmlJTUYtWVpTbUQ2Q2ZBM21VVUI5d0JiSmF5eXJmYmM1aGRGNTROQlYxNHEzRlI2eWJjUWM?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 18:11:26 GMT",
+      "description": "Flu Vaccine Appointments Trumbull, CT (.gov)",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Measles Outbreak In Minnesota Prompts Health Department Vaccination Push - WJON",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qWXpiTVowYUxTX2tFbU5yT2I2Z2ZfdmcyRGRQOWdJODZRQlc1eUU4YjVVYU8xUUlqSlUwVkhva2xFSzlMeTc5X1ZvelZLMTRod0NwT25vSGRFMWF3T3NmRFBhRHJJZE0?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 18:00:05 GMT",
+      "description": "Measles Outbreak In Minnesota Prompts Health Department Vaccination Push WJON",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Hybrid RSV Program Linked to Less Healthcare Use - Medscape",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc1hDU1hraTJabVJPSXZrSHhORmpnN0NKekdsQnJkSnZpX19TTUVCX094bk5MdHh5ZVdsUUVwd1VSNlp3b19mdXJLMkpUbko5bFpGcGdaUDJDYVlTQlhuQWp0ZUp2QmxzWm1jUDVvUmUycktNaXpXSzd2a1ZLeFZYQ0U1MWl3b04yQ1g4VlhkT1h3NEVqWGJvdjM0TQ?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 17:35:07 GMT",
+      "description": "Hybrid RSV Program Linked to Less Healthcare Use Medscape",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "rsv",
+      "vaccineLabel": "RSV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "More children can get a chickenpox vaccine. This is why they should have it - The Times",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYWp4NzJnMDBnLU1QRmJZWG81eTZTUjFvdWptZXFzZV9YTWhwUnA5MV8tMmpLZXROSmN0ZUc2UVFEX0hNdG5lcFRxQ2x2RWFLUjFsSzJUUV9EVkpBLWdNNjZaYXhNX0xkejg3WjRLSDhwR29ReEVoYXo5YUlfTUljVE1lNmNoOTBUTzZwR0xSQUhlc21nUnVRUFdvakczLVhQTzBQQ2JzVFpIblZ5cEp4T0FId1pScW94a2VaODdELWp6TmhzQ1cwa192SkpldlZJX2M4blhR?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 17:00:00 GMT",
+      "description": "More children can get a chickenpox vaccine. This is why they should have it The Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hepatitis",
+      "vaccineLabel": "Hepatitis",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Researchers developing vaccine to protect cattle from NWS - Texas Farm Bureau",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ2o0djFPM3phTTFfM19waXZBQk81RDFzeFVxQThoN3FkeWZvRFBuNHNjU2liUGtkVEwyeGRpNDRqdWZrOHdHeklLLU1udzZ1bkhvOTZzbldxU2M3c3NESWVTU2UwRnVNVzlWbWZqc1RudzNVQ0htZWdSQzRqOThFTFFtMWcteG9pYWdnSXBrbw?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 16:50:21 GMT",
+      "description": "Researchers developing vaccine to protect cattle from NWS Texas Farm Bureau",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "How long does flu shot last? What experts say as flu season begins - Detroit Free Press",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdTNvSGlOSmdUd0VuQkFpZ1AxeENkN0xsMjExNm5QUVZWUXN4UDJ4cmduV0ZhSlJlT3Boc3BlU2szU09xcl8xMWNLQU1hVWtDbXhwQkEwcHBTODNHUWNpTXQ1SGx6Y1lEeWVrVFpwUDdFVGplRkhkUUtUR2FLLXNpUDIxcUdEWTNHWW53aTZETDRseGRhaVgwOWdYb3pVXy1LTmJmY1NSWTVzeVNvNFE?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 16:32:57 GMT",
+      "description": "How long does flu shot last? What experts say as flu season begins Detroit Free Press",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "COVID-19 Vaccine Lowers Venous Thromboembolism, Mortality Risk - Drug Topics",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcnlTRmxEMURRYWpkdm9QT3I1eE9Yc3VYU1lSRjY4WmsyTG5WX0lqdWNsbHNVWGlLVmRyS2NJMjBsT04yRUR6SjAxV1NZNzdCYVViYlpzS0lScFMwbVRPZmVrTFg3TjRQMVhybk40OFowWlBTQ2JZRzltZ1pqZFJWYmxnNXo0ZFR4ZEg1dV9iOS1ZUTJJY3NCRQ?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 16:08:40 GMT",
+      "description": "COVID-19 Vaccine Lowers Venous Thromboembolism, Mortality Risk Drug Topics",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "H5N1 Outbreak Renews Interest in Vaccination for Dairy Cattle - Bovine Veterinarian",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS2FkYlptNWJtdnNRYm9MLWxBZEJFbGFoVGdsS2VReVV3RXB1eHhURVlFVTVLNmk3NUxwRjNkV09uN0RJczR0aFQ2LXhuUVExREJFcndkSnpYUTFvN0hkdkZ6X1NTNGdGU0twVnUtR0FUSGtKTW1jQXRtUzFjbjZ2TEFVcUktVHZ0T3BpdWxXX3NoVVBKLXc?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 16:08:23 GMT",
+      "description": "H5N1 Outbreak Renews Interest in Vaccination for Dairy Cattle Bovine Veterinarian",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Second phase of COVID, flu shots starts - Taipei Times",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YaDkyLURCNXdlTlRZUGhZUWFqaUgxVkJtWV9KWE1MbFFXZFQ4bk41WG4wV0taaFhMRWtsZlJDZ1FaZnVVR0l4WThaVlZxYzdCYkhsUENjcGx3bzFsNS1JSXR2dFZfN3NZTTIyYjdtRFFoTG1McFhpZlFR?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 16:00:00 GMT",
+      "description": "Second phase of COVID, flu shots starts Taipei Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "In Chad, mobile clinics spare mothers and infants a long donkey-ride on vaccination days - Gavi, the Vaccine Alliance",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeEVMM3pvbHl2X0R3emdOQWlLTEhSQkZjRFhrM2Z3Z0tsVUpVaVdSZkJoN0pOQk9VVkVUN2wyRVRxaFFNcHZsU2Q0VUpvZVNpNUtJdmxZWXlySm9Ka0ktUWtKNklEb0xyd2lfZW5RUHktcVZNRHRwOGtTYTNMNUowd0VMWTBkeVB2ZUFsZDg0U2VkVjU0OWFSUXhkMjhIMWdfZmtHNmlleV9CaGdNU29vSGlEWQ?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 15:49:36 GMT",
+      "description": "In Chad, mobile clinics spare mothers and infants a long donkey-ride on vaccination days Gavi, the Vaccine Alliance",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "RSV vaccines are leading to far fewer babies in hospitals: 4 things you need to know - Gavi, the Vaccine Alliance",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY0lZMUVZSzJSLUJyWjNpWmVNQUkteVhMMTJoM01mTTFnQWNWZWdmRGZMRktNLWpxa2loZHFnM0FKREYyWWZRbURPeU1ocFBJcTRWRGV4T2dHOXNBa0szT2psazJmcUFtSWg0NTI2dGpMaUpUeFh0N3NKYWVJMXhVRWkxUTdCOUpTWDZjNHNKbEowbllIZU1RRUlaSVgzQm51V01vSHJ3LTVVQkg4?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 15:49:36 GMT",
+      "description": "RSV vaccines are leading to far fewer babies in hospitals: 4 things you need to know Gavi, the Vaccine Alliance",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "rsv",
+      "vaccineLabel": "RSV",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Free pet vaccine event to be held in Hinesville - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVm1TWldJS3YxRzRMUHliRC0yRlVjcXZJTjNBRXF4Mk9zZFdYLVo1TmJGalo0RWxSVHFnTWcyVTllQ0dTU3Z2VUZpM3p3dEEzVVNWWlFIOUx1NGhDX2ZrWGNQUC1ISk5KQUpnWUcxM1lnamFSZmpZa3RxamlHUFVFbHZhN1M?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 15:46:29 GMT",
+      "description": "Free pet vaccine event to be held in Hinesville Yahoo",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Judge Dismisses Doctors’ Challenge to CDC’s Vaccine Guidelines - Bloomberg Law News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeGZ5UzFMT1FUVVpfUUlJblRnSlRRV2l1X2Utb0VnbXB5Z195RDVXVm0zb3ViY001WG0yanNEYTRSbEUxTExkTVhjZ1NwNWNlcEEzVWEyMnlqQ0djeERaMjB5N0hBRkFqeHJ5ZzkwdVNSajhHeXpHaWZYRDdodDZPYS1Kd1dWWncteGxnQ2QwMEJCby1TZDlqeDN6bFhRNnJvRU9ndzkyejBmVFRna1dkenFjUzM?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 15:38:00 GMT",
+      "description": "Judge Dismisses Doctors’ Challenge to CDC’s Vaccine Guidelines Bloomberg Law News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "'Homestead' star Bailey Chase says California vaccine plans were 'final straw' that drove family out of LA - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcTN5TWJydW8yaUJMSGFGcTdQem9rOVpDTXBCYldoOE1PVVpxVTNEZlhtUThFSmxGQ0JmTlg0YnNRNWZLOGZmdy1NWVRPLTg1N1pRU2EwRlp3ejRjWnk2NGIyZHFLdnlreVVMeHBYQ2dkUkR2d29sSDBFM0FqT1duVjJ1NXZjMy1fMjFHUUpBS0ZvMDJTMFpjRzg2U2V3NGZJTXVTSWMyNHI2eVlrbkFkZHMzUkZ4dTdneXFtZXhMMktIaG9jc1FFOGRabEvSAdIBQVVfeXFMTVBXR0NFOFBRV3E2QVp1SDQzRWd1VTNxMHgwTlZ6V3RMcllCV3hUR1ZMZVEwT2NuMzZfR0lXeU1FSFppOTNMOGdaejN1aklqTGstSFAxcGxYTE9jemVJdks4end0MVlWLWRNbEVaMTREWXFXZmd0cTVxUlNGZ2ZGTDcxSm5XQm1xem5lVk83d21XMkZIOFo3YndvVlF6anNDcV9QWFFwU1dzemtMMHZjdU9WYkxEcGVaSjdvWDNVcmdaT25WMWE2aWdMMEx3N203eDdn?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 15:35:22 GMT",
+      "description": "'Homestead' star Bailey Chase says California vaccine plans were 'final straw' that drove family out of LA Fox News",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Bavarian Nordic gets four-year contract for mpox and smallpox vaccine from UK government - Euronext Markets: Real-time Stock Market Data | live",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ0pGelFmMWh0eC1NMHRfMHgtNjhDV1VmYjlSeVN3SHhrSFdJN3JUeG13N0ZUNlRuWEVvQnJ6UTEtR2tvc3Y4ekEtbkIxMTlEUGZQRTdkbTlZZVgwMFJoblVudG9qaW1MM2VZRVEtNWo1eXd6MDN3ZGFEZmdUVU1zajYxVld2OG4xc3daWkZILURPanduZ1RrNFRkWVowOTVnTTRWRDdtQnFkM0NhS0xRMHAtQks4NGdoa3JsWDN5OUE?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 15:30:15 GMT",
+      "description": "Bavarian Nordic gets four-year contract for mpox and smallpox vaccine from UK government Euronext Markets: Real-time Stock Market Data | live",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "mpox",
+      "vaccineLabel": "Mpox",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Moderna Stock Up 650% This Year as Personalized Cancer Vaccine Battle With Keytruda Patent Cliff Takes Shape - BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81RW9RUkdBbkFRTzFsTTE3anBGendoQktMNkdUbUVoYmtlNFJKRHZsSVJRNjdiMU03QjRHRUE5Z0lQTThtZmZlM1RzUnZJeVlSSFVuc1kyRkRuMDdYcUFqcTlNQ1B2eTVWNXV5SnRoRVV2Nl82OHc?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 15:25:00 GMT",
+      "description": "Moderna Stock Up 650% This Year as Personalized Cancer Vaccine Battle With Keytruda Patent Cliff Takes Shape BigGo Finance",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Government confirms eligibility for spring 2027 Covid vaccination - Nursing in Practice",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOFpjdkFWVXB6bDdhY1BwcmM4Znl4eDVoc0N3cjNDQms0YXhiYkt0VXpTZHRKSW5xcFo0RWhNUXpzbnBVLXZKVkVtWWdaTlVyR2ljajNJckFwZWVscXJCc1M5cjY0Ul9JMlJUXzEyc2xPN045d2FYZWNLdjFQN3l0TzRxdW9EWnRjNll0bnRsTm1HZlhSZFI3bmZfYW1Ra1NhOHVUVFhSWk9GWTVzMGZFM1ZtVDJieUNwUk1DdTlraWtLS3NrTU9rVGtZTFhXd0tD?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 14:50:19 GMT",
+      "description": "Government confirms eligibility for spring 2027 Covid vaccination Nursing in Practice",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "New cancer vaccine raises hopes - Iceland Monitor",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYU9HUWFzeFhaTDFlMFZKRXMzWDhqb3lGd3daeFpnd1lGSWNZZDhpTnpYeEllV0FNeWdERlpmeU5JN1IwM0JRQXY3X0hwNTNlTWFkRmxqVm45WnRua3dNMGl6dGQ2cU85eXBQYjFtWGNEaUp6TU5XbTlTWXVOWG9meHlwNjZFT2NGbGpj?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 14:30:00 GMT",
+      "description": "New cancer vaccine raises hopes Iceland Monitor",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Flu Season Kicks off Early: Is it Too Late to Get the Vaccine? - TODAY.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVS1wSjJFR0pxWEw2OElwTlYyUUxFREtNQ25XM2d3dXM3M3Jycmx5cjB2WW56VTdDYWpuS0FxVTNRVk9WcjNFdC1FemVBYVNCSjNLOFBRTUc4U2pNdGRLN3dhZV9rYUVVeHVVMnV6cnZ2V09XbG0zZkNKcVBBNmJ5OFJyMjZCbWVCZnJEM0tGSEQ2VkptWjkzeU9WQ3Q3QWNBdy1F?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 14:26:06 GMT",
+      "description": "Flu Season Kicks off Early: Is it Too Late to Get the Vaccine? TODAY.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Minnesota Turkey Growers Call for Avian Flu Vaccine Strategy - Marshall Radio",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWHBZZnktaTZZeVJGNE9JQklEV0x3NnVGNUpDLWRuQjJpWmFMekd5aG5NanVlRjVkMXZCa0ZWWkZVa2dNbDFENHRobk5MRnd6QmY4bURNbnJQaWRyTFBhdGc0NDdUTk9tcWlsQjhTcVVTVVVSWGlpdVROeFhhYVpBdkp5cXRTdEhpRmZpOFR1S3c?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 13:49:38 GMT",
+      "description": "Minnesota Turkey Growers Call for Avian Flu Vaccine Strategy Marshall Radio",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "flu",
+      "vaccineLabel": "Influenza (flu)",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Hyderabad Startup Working On Personalised Cancer Vaccine: What It Means For Cancer Treatment - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUTVwd1pScmpuaHFZZi1fVFlua1YtcG9wNjVUb1QzSHJSMkhOUXFfNG5kejlwcHNoeUxSZDBwWV82VGp5YmhnUmxBLTN2LTloaGV0TF8wdDZ3OURDcUJNeFVWQ2k5MldTQ3kzMkxFT0U2Nnl2UzRZSTBmNndxS0lHdk5TcXZMRVNqWHk4Y3poTWMtSmRJU0FvUjlmRm5TWm1NLU1ldjBJZ2htYnFnSFlTZmVqV2dRcTVFTVowZ0hlWnBabW5zb0hB?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 13:45:29 GMT",
+      "description": "Hyderabad Startup Working On Personalised Cancer Vaccine: What It Means For Cancer Treatment NDTV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Use of a Simple Plastic Device May Ease Pain in Infants During Routine Vaccination - Medscape",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ2lsQl9NNjhUbzdMM1ZJMk4yTTFiRzRGblNpTC1KNmV2U0tTWDJ2alNZVU1JcGQ2Q3RPNmVxcXc4THR6NTVEbmc0aUpPekZQUXZZMkFoZ3g1RTVtd3VkeHIwaENla19pTi1USS1tM0pTS01HMTYzeVY5alZ2a0Q1RVcwQlNOazhzLXk1RHZPVk1WRFJZY2VDc09VeG1zY3JPZ0FHWWRQbFpfdk84Mnc?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 13:39:06 GMT",
+      "description": "Use of a Simple Plastic Device May Ease Pain in Infants During Routine Vaccination Medscape",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Washington County Public Health Offering Vaccine Clinics this Month - KCII Radio",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbUxKU3N4NXZ6ZksxQmRnNTM3bUp5V3Z1NE5UZTFSLUJtaTNZTHA1RktUZmg2alhYSUZEcUlObVZJQWVYRXFVRFhRdnlUNDFtb1I1RDNDX2U2UkZibVNLTlB0NDFEWkNMSlVhSGlEWnpMQ3FjY0VmN0k1YVBURkRFZlFHbnVBR2psczRJTDZsQ2NYUEVNRE1xd2N0bHl3NXhwZXRJWFRYSU0?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 13:16:19 GMT",
+      "description": "Washington County Public Health Offering Vaccine Clinics this Month KCII Radio",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Vaccines for the 2026 Bundibugyo Ebola disease outbreak: access gaps and recommendations - ReliefWeb",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZ1FvLVdrTThISzNGUVIwemktUS1VbV9lelBtaEZ6WnlQVnh5cmxNcFhqMlFkRHN6MTNfNFFxMFFCbmhjSzh3bW9CLXhlZjJBRG9VWVFJVmxVbHl6SXo2UFoycmQ0NUxBMHU0eHdjR3dyeDNkN3JlakJHWVBXNjJaTUhxekdIRFplSE9NbUw3eEd6cC1kaXBEYzN6ZzRMSlF3REh2Y182NHQzcGdYUnp4eGZIU0w3THpUMzV6ZXhlSmd0Z0d2R1hCMkhvQl95OFk?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 13:07:51 GMT",
+      "description": "Vaccines for the 2026 Bundibugyo Ebola disease outbreak: access gaps and recommendations ReliefWeb",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Bavarian Nordic secures four-year UK vaccine supply contract - Manufacturing Chemist",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWjVkMXNSUjlCOVdKeEtzNl80T1puSjhPTjc2dUhEQlcxN3dfbDNzTWtFUjhCMmJIdGN3TUtiaHJNdDBaZVJvTElLOVVwS0VPdy1QdUMwbGdDTGphT3otTlRCUENxYWpuckdZN052LVNhcnlBYXZaVUpNal9vRjByZVN0OGFvU2tWTi1mb1JB?oc=5",
-      "pubDate": "Mon, 02 Nov 2026 13:05:04 GMT",
+      "pubDate": "Mon, 02 Nov 2026 13:04:40 GMT",
       "description": "Bavarian Nordic secures four-year UK vaccine supply contract Manufacturing Chemist",
       "source": "news.google.com",
       "sourceType": "news",
@@ -86,22 +484,9 @@
       "articleLabel": "News"
     },
     {
-      "title": "Washington County Public Health Offering Vaccine Clinics this Month - KCII Radio",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbUxKU3N4NXZ6ZksxQmRnNTM3bUp5V3Z1NE5UZTFSLUJtaTNZTHA1RktUZmg2alhYSUZEcUlObVZJQWVYRXFVRFhRdnlUNDFtb1I1RDNDX2U2UkZibVNLTlB0NDFEWkNMSlVhSGlEWnpMQ3FjY0VmN0k1YVBURkRFZlFHbnVBR2psczRJTDZsQ2NYUEVNRE1xd2N0bHl3NXhwZXRJWFRYSU0?oc=5",
-      "pubDate": "Mon, 02 Nov 2026 12:26:52 GMT",
-      "description": "Washington County Public Health Offering Vaccine Clinics this Month KCII Radio",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "St. John's woman with MS calls for clearer vaccine info after struggle to find Pfizer - PNI Atlantic News",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMHZqWGV2WV9Ld3ZLcWpyWjBMTHhIU3JlOXFTUW9OYnZNOGNHbzFyMWZtblZHbGFPVHN4eXgtZXJrMmVTWF94cFFMOXJ0XzNWNV8zN2U0UGlVV3V1TWl4bTFsRnlLVmFPODh5cVV5dzAtUkhVQWJkU0xUWElQTENHNmUxbw?oc=5",
-      "pubDate": "Mon, 02 Nov 2026 12:05:15 GMT",
+      "pubDate": "Mon, 02 Nov 2026 12:06:47 GMT",
       "description": "St. John's woman with MS calls for clearer vaccine info after struggle to find Pfizer PNI Atlantic News",
       "source": "news.google.com",
       "sourceType": "news",
@@ -307,19 +692,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Bavarian Nordic gets four-year contract for mpox and smallpox vaccine from UK government - Euronext Markets: Real-time Stock Market Data | live",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ0pGelFmMWh0eC1NMHRfMHgtNjhDV1VmYjlSeVN3SHhrSFdJN3JUeG13N0ZUNlRuWEVvQnJ6UTEtR2tvc3Y4ekEtbkIxMTlEUGZQRTdkbTlZZVgwMFJoblVudG9qaW1MM2VZRVEtNWo1eXd6MDN3ZGFEZmdUVU1zajYxVld2OG4xc3daWkZILURPanduZ1RrNFRkWVowOTVnTTRWRDdtQnFkM0NhS0xRMHAtQks4NGdoa3JsWDN5OUE?oc=5",
-      "pubDate": "Mon, 02 Nov 2026 06:55:58 GMT",
-      "description": "Bavarian Nordic gets four-year contract for mpox and smallpox vaccine from UK government Euronext Markets: Real-time Stock Market Data | live",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "mpox",
-      "vaccineLabel": "Mpox",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "Bavarian Nordic gets four-year contract for mpox and smallpox vaccine from UK government - TradingView",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbGI3bVF3MkxQM2V1S0s1dzQyU0lwR1J3TUFpZXhPdzZpME5rbDlOM08wZEdrbzkyUlhxM1k3bjV4Q1NCcnZ1RDl2cVV3Y0hKdXVOdmZZNVllbmJSdVlyX2tsV2gzNEdETnRZeGt3MnBEWnFJTHBMSUI0a2ZHVGpzVGFNQXlNVTJzMlV3M1gwZHhEWVhOY2MzWWV4T2REYW1ObU5pZVptZUFLNVhhaURPcTNKUU40bk1vakpNNWtkbXVOYkZ2RjQ4UndGdEplZjdPS05oTjUydkJ5Q3NnU3FYc3FvYjBEcWtVSEN3Nkc5aw?oc=5",
       "pubDate": "Mon, 02 Nov 2026 06:53:00 GMT",
@@ -329,6 +701,19 @@
       "sourceLabel": "News",
       "vaccineKey": "mpox",
       "vaccineLabel": "Mpox",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Bavarian Nordic Awarded Multi-Year Vaccine Contract by UK Government - lincolnjournal.com",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPRHBDdHV1bDdJVnpuc3p0dkNnRG5oYXZJQy1JakY2dTVMcVppajQ3bkF2R0ltaUdIX3Y5QURnOVJQZHVxbHFtMTUtQ19KZ2R0clpxeXZHTURkaVVrY3lubG9EbHVTTjFwRGJXV2hOSnBqc1hoMnZzMWtTdVpoUVcyM2phMGRyWDdPREVlUm4tNndDeEEyZ21YZDNBbHBQdFZ6N2NoUnM2SEUzOXQ2VHpMMThQQmNYVWo5ZEZlMUF4OS1CN2Rxb2hPM0FNb090SFNHTktKaElmb1NRZGxYQmNIRHM1c1NpWFJlZHNiX0VqODV6ek5lcUpVZWNHQ1oxSng2MWJSeURQd3ZjY05u?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 06:30:00 GMT",
+      "description": "Bavarian Nordic Awarded Multi-Year Vaccine Contract by UK Government lincolnjournal.com",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -372,6 +757,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Recent COVID-19 Vaccination Before ICI Boosts Survival in Patients With Solid Tumors - Infectious Disease Advisor",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc1U2SXhMSnZhakNuUmZDeUl0RzJQUG5NMFFBb1VyU2hBS1FaOVhKam1rX0JTc25EUjVJOUZyQTJia1dzWDlnZ05tNmhkczU2aUN5al9JYnhvbUl5NFFyeWp5emhQYnZrU1E2TEtXRFM4RHJ2djNWTS1BMU5Td2NEY0pUZ3FlUlpESVctZ3dqc1pHODVrYmJnU1VtaUFXRERF?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 05:00:00 GMT",
+      "description": "Recent COVID-19 Vaccination Before ICI Boosts Survival in Patients With Solid Tumors Infectious Disease Advisor",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Donated mpox vaccine stock will be deployed as needed, says health dept as cases climb to 26 - Spotlight",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSU5lZEdZTDNHcGtfN0dBR0NhSDlmaW5aNlBJTDBWQjByTVE2cThPd0ZaZ2cxa0RYSjZFZVRXaEQ4R1lkMWZwOVhqMkx5RHVkNjQyREk2TmFUWWVJTnB4cUpXYkNpclIweng4VGJ5OHphUkhpYll5RjBOc0tUN1BoSF9TZHhKTzBpRzlpdm1Ja0RRWE41NDlXNWZQaG01RmtENEhGMTRNU3dzalJuT2dkM3pfLWdSdW1rdUQwaE5laDdnZXVvdHhFT2Vtai1DNWs?oc=5",
       "pubDate": "Mon, 02 Nov 2026 03:54:34 GMT",
@@ -381,19 +779,6 @@
       "sourceLabel": "News",
       "vaccineKey": "mpox",
       "vaccineLabel": "Mpox",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "A vaccine can look normal even after freezing; four first-year students develop a $5 electricity-free vac - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQM1MxN3NRUHdXR2ZSU1R0bVRUNGxLaFpwcGwxVl9STmpYQmRQV1JDTG15ZEFhNnJ5WkMwYk94QUdHeUd6dkIxSHlqMUdQdy1zSE9Qel9fWFJQME0wYTBQVEQ1ZHFYdjl5dC1sY3hJZ2xkXzh5dEF3WFpMcWRUSGkyWDd4MlIwZnBoM1JpREx3bjVmSHhjYWdYd1pManA4MTJXT2s1SXVuaGxpYnMwUTRjMUQyMVhxczdIZTR5WngzSzB3bUJab0JYeGVVSU0wanhSTl8xZ1l1QW1ybU9uaW4xM3JYMGM4ckh2Ti03T1ZxNmxYcnZCLVlKNi1MWWF6cUlkZ1RUa2VHYXVXbWxqcEs5V2xPWGEyQ2l5MkNzbl8yb0NSUS1jb2Y3YVQ5N2JVQjhlLVBBMlpZbnMxeGNOazJFRkMxTTZBbWwyR21RQWJyUUNHS2ZSUjdZMUhzdzFsckZ0Y1kxRlNxaTVqTHRzMS16SjJB0gH3AkFVX3lxTFBaSFRqQWNzbV9wYnJ6bGVKdzhtOXVqNUNzUFVxVnh1WjdINXdDR0wzbS1wdTIxb2F2eE4xanNnaExlMUZucGVoMUw3RnA3aG1WNFdYYzlQdVgtR2ZMQmRvRGJ2NFM4TERoUlRFazhHODJvUFhBaXVmT2FtaGdHSHlLWEREYXpqNVhuZ1JLWklyRzhnSU1QUjRfZ0s5ZHRCSlhTbzUtcXROVzU3eFpEOGNEVDdLLXVSbzBVLVU5NC1IZW80NU84RUsyXzdLUjJCRVdRSkNSYnlDNWFCQUczejBNU3BwU2luSlZ4OEdOdFJtbHppdDJCQk9Cb0VTZGNMVmcyVXlHQTRkSWQ5Z0hXZUxLZGo3Z1FCSFdLejQtZXBGUU04TU1tQTNpRzhOS09OZWpFcExHdTRPdnFNSkV4RzAyOVNxN2VzYnFBTTEzSVdoR0hSSk1sZHg4Y25qZWljTUhXanJRTS1pcXZiMTZ0c0drVWJoMGgyaw?oc=5",
-      "pubDate": "Mon, 02 Nov 2026 03:36:00 GMT",
-      "description": "A vaccine can look normal even after freezing; four first-year students develop a $5 electricity-free vac The Times of India",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -463,19 +848,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Polio Vaccination Campaign to Begin Across Afghanistan Tomorrow - 8AM Media",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYmpNNzdYTExEQnlPTk9wb0I2c3c0T2ctSVFTeUFYWmRVdVluY1JELWgzcUJ5dHFHT2U3cVNTRW9va242SnpIa01sUFU2eDJ2ZnUzOVZLUDZGWFJUSVZ0VUZ0X1g4bG83QUh0YnE4V0t3ZmNzV2JCQnZaY2JfdHI2eFpsa1ZJbU5TTHVOeE9EQ2JFdw?oc=5",
-      "pubDate": "Sun, 01 Nov 2026 19:09:04 GMT",
-      "description": "Polio Vaccination Campaign to Begin Across Afghanistan Tomorrow 8AM Media",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "polio",
-      "vaccineLabel": "Polio",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "The Trump-Kennedy Effect On US Health: Slow-Burn Damage Over Decades - Health Policy Watch",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSEFFU3N4eDBPNzlqU2hnbk9xcmlXRFRMcGZneEZMYlFXRnF3UUhmTDY0V25sTjZIb2VlNGE5dXE5VkQ3eTI5WUtuOGMzeTdtbVdmZlJJNEYxMFRtR1BYVmYzOFpOeU1abjJON2p3Qml0dHN0NVljc0dES2swUTZYWWJISFM0V3NET09HaThpMS0wcnFaZGVvNkVKbFFmckx5RUZXQWd3UnFDamNDdFhRZk1QaENtQXk5Unc?oc=5",
       "pubDate": "Sun, 01 Nov 2026 17:00:16 GMT",
@@ -524,19 +896,6 @@
       "sourceLabel": "News",
       "vaccineKey": "hepatitis",
       "vaccineLabel": "Hepatitis",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "It's important to stay current on childhood vaccines as an adult - San Antonio Express-News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMGVKdGVVZGUxSHRzYkVGVXp3SzllTWJvRkx0aXhmbE5MYVRrREtTdm9WT1FEc0JrM1BBX1pWT0pxMFp2S2Njb0g1ZFdERVZ1cWFPX0RBS1JQeHhUNkxsd2l2bm16REpwN0VPMVdjb201MUh0bnhHU3ZWUjY0M3hRT0FLYWVxU19sdUlrV092RHFrT3d6MmZNRTh2QnRzczFwa2IwbFEyTl9SWUhoU1dz?oc=5",
-      "pubDate": "Sun, 01 Nov 2026 10:04:44 GMT",
-      "description": "It's important to stay current on childhood vaccines as an adult San Antonio Express-News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -606,10 +965,23 @@
       "articleLabel": "News"
     },
     {
-      "title": "Advancing maternal immunisation: Evidence, access and trust - FIGO.org",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeXFycUFKT1BwaDBxY0VwTlpRbzRwMElDU2JzRzJOS0lPZ1pLbVRBRFRnX3FlU0N5SWloQ0EzSExZZGFHbTJTcEN0MWpwTndlRnVMYWVqY3p4M3MtSF93RUtnRElvX2M5M3dFYXJwMlVzemJLUld0R3hoaFJtZUtwN0ZWbktuREktb0pjaQ?oc=5",
-      "pubDate": "Sat, 31 Oct 2026 01:34:32 GMT",
-      "description": "Advancing maternal immunisation: Evidence, access and trust FIGO.org",
+      "title": "IAVI announces award from BARDA to transfer manufacturing of viral hemorrhagic fever vaccine candidates - IAVI",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUUVhTDFvZWR6US02dXN3VFFwQ1BfM0ZEVkw3ZW9JQzVWRXh2MS1XOEdfc3piSWRvek0wR0x4LXNLNTYzUHBnRHZVWnl5MTMwaVRhb1duTjAxQUV6WVRWM1JiZ2Z2YURLTm9nbTZfcGRqY1pjdkNmTFdlSmtEMzNseHd4bTg5d1JoMmtaNjI2VFlYb1NtcmlSMUNlSlRSQnN5aTl2OVlYc2ExZlRadndhSnJiS1NlRXpQcW9lRlZZaVNjbUtIRGpMQW8ydjRyb2tTMmdQc0xB?oc=5",
+      "pubDate": "Sat, 31 Oct 2026 10:29:20 GMT",
+      "description": "IAVI announces award from BARDA to transfer manufacturing of viral hemorrhagic fever vaccine candidates IAVI",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Veterinarians urge vaccination for household pets as LA County rabies on the rise - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONXZmdWRzZTFCV3B3ZzZsYnlhdVJxWHpBWTZWNmt2TjFCbFBfN1RvLURNSlR3Yy0yNXhVQjI2a2xESi1EUmZCOXhxZUFMMmE0XzRoTGdtcHNlY21rMkZieDhFUVBaMmVzR3ZvS0xiN1A1dURKYm5HQTh0Qkg5cTVJMHZtTDRxLWdLUzI3OE0wMDFJbUM3eExXSlFLZTdfQmRmancwa0FVaEFSUWlNQTRUUE84Qm00X2JwVmhrbHRoczk?oc=5",
+      "pubDate": "Sat, 31 Oct 2026 06:03:00 GMT",
+      "description": "Veterinarians urge vaccination for household pets as LA County rabies on the rise CBS News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -680,19 +1052,6 @@
       "sourceLabel": "News",
       "vaccineKey": "hepatitis",
       "vaccineLabel": "Hepatitis",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Flu hospitalization rate reaches highest weekly level since 2010 season | AHA News - American Hospital Association",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbDhNSXFRZ2VYdEdSVWljVnYzRmNOMmNKLVFERnVfVzMtdmFvQUFudmdYZmZjN2FyYmlqRnd4RHNscDgxdHcwaGJKQnpzaW4ySGgyOC1DUHlTRzVxazYtTFRoc01NT204UE1wdlY1dk4wOWZrak4wZ3dzMUFpY1VoSElOQ19YdTN1SEdmWXBiY1RsLW9NRDZiZG1KV3NUSjhYNVVUNVJoNmxhd3hTZ3Fv?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 20:19:57 GMT",
-      "description": "Flu hospitalization rate reaches highest weekly level since 2010 season | AHA News American Hospital Association",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -814,19 +1173,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "An Anti-Senescence Vaccine Increases Mouse Lifespan - Lifespan Research Institute",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uQklWdmJJcFRMN3ZZNnVPck1JZWNyVFQ2YjlHUktYZWhwOUg3SHJKakVVVXdLOG9fVG5xTDIzU2lSQXkyclRJVndicU9Id0drLW9nVTRqdDlKekZxRUJ2OG94THRDV1pUTlZJZ2RKTGRaZ3ZwWXNRa0oyM3o?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 16:50:49 GMT",
-      "description": "An Anti-Senescence Vaccine Increases Mouse Lifespan Lifespan Research Institute",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "Florida Department of Health considers dropping 4 school vaccine requirements – here’s what that could mean for kids - The Conversation",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWjRQeVlaWFhTVDhaa3o3ZV9wTDdlQW5qQ19FdmZSU0hJeTVhcmpBemcwaWtRV1hJU0h0NkM4cnFJTkRrbnJSMUQ1OFhUMTBDeE5raGMwZ1RZX3F0NDJRVVNJRHVYOUprNnNIM1RHUi0zYW1WalRTQVBWVzFmTDFDR3JzRUt1SGEtbnhPZlZwclNmeEJPOWtpYmg2b0tTNXdTWDlkeFN6dDNlMjZnMHJnR1FPR3NYRWFMRHpma0hIUVVya2JTNTc1WWN0cjkzel9takNxQzc3ZjZnRHVPU1FWNlpB?oc=5",
       "pubDate": "Fri, 30 Oct 2026 12:15:03 GMT",
@@ -840,49 +1186,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Families in the US are opting for earlier measles vaccinations amid outbreak - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNGtleUZFc3lXVzVQTU9KZU1yYUw3YmhxdE5lUFRBQ0t5OEl3ZHR1Skk0OTg1bW1KSVprV0RTOWdSMWI0UnBhOVlGYklJbmplTVVtdWJDUENIX2VSU1RMQUtueE85QzJGX1ZHdGpZOHhNOHlVdDhaejRKcUNYVXFDUkR3?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 11:01:00 GMT",
-      "description": "Families in the US are opting for earlier measles vaccinations amid outbreak The Guardian",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "A CT doctor worked on the new melanoma vaccine trials. Why she says it offers hope - Hartford Courant",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZTd5RUdaV0hXRjA1TU9HTzhqUWdBUVJBQ01XRWZ5OVRjYzVRUm82S1hDanhvVVBtcmJzSVctRmprUmZlZHRHYnNUdUxLY3VseTF5LVdfOXF2czYteWQ4bW95ellheXF0V2xOcUdwYmZ1UHdCMUZzYlhsUWlsUlV1eXJYSDBfVVp5Smp3c2VnbEFkZU1FNG5Rb3dVOHhoTDJhM3VtYW50RFhFVkRPeGxhdW1fdk5WOWRN?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 09:30:12 GMT",
-      "description": "A CT doctor worked on the new melanoma vaccine trials. Why she says it offers hope Hartford Courant",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "In Todd County, vaccine skepticism fuels measles surge - MPR News",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb0pWd3EyZnctS1F4dmZzNzZodXNwZUI1a0Z0SHdpNXdXcWZZajQtVmF5ZVpRVW5yd1JUcnV0TWFNUk9EYkJkNnFpb01hYmlVR3lUandBVHFlbGdZYkhMZ3BwUU9nYUpOMThTV2h0cUwwM3Z1UXc2VHplbVIxZ1ZvWjBUZ1ljN0pyUEpZaWdkbmhSUWZscXYzZl9fSmF1WVRk?oc=5",
       "pubDate": "Fri, 30 Oct 2026 09:00:00 GMT",
       "description": "In Todd County, vaccine skepticism fuels measles surge MPR News",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 07:00:00 GMT",
-      "description": "Measles Cases and Outbreaks Centers for Disease Control and Prevention | CDC (.gov)",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -957,6 +1264,19 @@
       "articleLabel": "Research"
     },
     {
+      "title": "Flu and COVID vaccines: What to know - Harvard T.H. Chan School of Public Health",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9waDlvNzR0MEFZYVVfeW9OUGpBQmc2QWVFZHVqVmowNDFOblpLOTQ1NWIyeWJjanIySzFZNGZka1VkQ1hQaXJtTjlKSmx5QmZWdExqX3J2ejAxeTRkSHFFMk1zbzhHWTdzRnBsTi15ckxQeW5m?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 20:19:30 GMT",
+      "description": "Flu and COVID vaccines: What to know Harvard T.H. Chan School of Public Health",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Air Force again requires flu vaccine for select personnel - Military Times",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObUxvNTkwNXh0OXQySnUxX0VEajAwcmplblJMMjdCMjNvRnZjUHFLdTJYYnM1ZTNVTkhaeUJ2eFZTZkFLWmZFWk5MaGtRaU55Y1gzam84VzVEeGtoTTJuOUpLOXVDZEtSLXRmd3p6NGt2cVQ5TDA4cWtHbm5iLWU1MVJIdm5OVHF2TUNiMG9IZWxzdHQwMDlGbHdWNUNaV0V5bzg0bUhQbw?oc=5",
       "pubDate": "Thu, 29 Oct 2026 17:50:24 GMT",
@@ -974,32 +1294,6 @@
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdlFsVXFmejBDTU9BZTlBcGU4N0lLajZzY012Z1NkWHhCRTBuNmpaVDNUQnR0ZTdoRy0zSzhHWDQwLWJ0bVJPdVdNM1FxQVA0ckh4Ml84Y0djeEdIMEM2WmJMc0oxMFo5MjlUY0ZkZ0RBTE96OF8xc3FwMGt3dlRvQVppR3hUMGRRV3lFcTNONV9FZkpjUEVTQ2FQaFRQbW1ySGlWMU1lVDVCQXZKTHhhZTdnbENHN0daQkdBUFRjSXlyTHpReldnX0FzeU12M2xESEVpTkE5dzNwdWtqV2VV?oc=5",
       "pubDate": "Thu, 29 Oct 2026 13:36:16 GMT",
       "description": "Message by the Director of the Department of Immunization, Vaccines and Biologicals at WHO - October 2026 World Health Organization (WHO)",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "An mRNA–lipid nanoparticle vaccine against H5N1 influenza virus protects lactating dairy cows from infection - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ONjRwb3J2WEpKT2RWd2RLb2IxYjJnSmV5dWtmQ2tDTlJaR2FYa0ViOG5qV0puVF9BUXBUU1FWNFBobW54Y1FjSF9xMHE4OXoyaUZkTkRLSDY5Nm9EOGZV?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 10:51:49 GMT",
-      "description": "An mRNA–lipid nanoparticle vaccine against H5N1 influenza virus protects lactating dairy cows from infection Nature",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "flu",
-      "vaccineLabel": "Influenza (flu)",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Hegseth Swears In Air Force General After Vaccine-Mandated Early Retirement - AF.mil",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUENuVGRZTmk4YWlSbVV3RURaU3Ytd0I4d3FQWUwzSUt1R3g1aEY4d2ZMWngzZDJMSGdzVG9kZFFJLUV6bTVWbUY3Y0lJRVJCdXh1Q3EwSG5sN2IwcURzZUUxLWZfSGRrRVN3bnZmblNKWmNKRWtpaXpHeXRpUjlvNFNBMF9adE12bUhBTXUtQ1R4Qm5md0VFTDgwclRyNU1ELWRyTE1ETmw1aTZvZTNiN1JUS09ibVhFdEFUUmFGdFU3YW4xbmpZa0dCclE?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 07:00:00 GMT",
-      "description": "Hegseth Swears In Air Force General After Vaccine-Mandated Early Retirement AF.mil",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
