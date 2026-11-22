@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-22T13:05:19.398Z",
+  "updatedAt": "2026-11-22T20:05:46.146Z",
   "itemCount": 96,
   "groups": [
     {
       "key": "covid",
       "label": "COVID-19",
-      "count": 6
+      "count": 8
     },
     {
       "key": "flu",
@@ -20,7 +20,12 @@
     {
       "key": "measles_mmr",
       "label": "Measles / MMR",
-      "count": 35
+      "count": 37
+    },
+    {
+      "key": "hpv",
+      "label": "HPV",
+      "count": 1
     },
     {
       "key": "polio",
@@ -33,11 +38,6 @@
       "count": 1
     },
     {
-      "key": "pneumococcal",
-      "label": "Pneumococcal",
-      "count": 2
-    },
-    {
       "key": "meningococcal",
       "label": "Meningococcal",
       "count": 1
@@ -45,12 +45,7 @@
     {
       "key": "mpox",
       "label": "Mpox",
-      "count": 2
-    },
-    {
-      "key": "rotavirus",
-      "label": "Rotavirus",
-      "count": 2
+      "count": 1
     },
     {
       "key": "rabies",
@@ -60,15 +55,106 @@
     {
       "key": "malaria",
       "label": "Malaria",
-      "count": 3
+      "count": 5
     },
     {
       "key": "general",
       "label": "General / multiple vaccines",
-      "count": 34
+      "count": 32
     }
   ],
   "items": [
+    {
+      "title": "Bessent Ends Up Makes Pro-Vaccine Argument While Excusing Cyber Outages - Yahoo News Singapore",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLY2t5NlBoRTVyWjdBVEtERDVLT3JLUnlJaHZPbWd5ODI2ak1kUmhGQTRnMnM1cFdyRnp0enZYQ0cwYm8zNnRXMC1ldDI4VERhUUpnZmtxZlQ3elNwTkNfdFFNNTAzUDY2eDRveGJRb2VneS0wZ0xpWEhMVQ?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 16:49:25 GMT",
+      "description": "Bessent Ends Up Makes Pro-Vaccine Argument While Excusing Cyber Outages Yahoo News Singapore",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Dominant H1N1 Flu Viruses Now Called Subclade E, and 93% of Those Tested Still Match This Season's Vaccine - Medical Daily",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KS2pIazI1QUxYNGx4WldQTkx1WFh2XzRSZzNEOVJYWEhvZ3ZiY1FmNzV1UVE0SFBhOHM5Z3VsdXUxSnJLYVFZdTFRcXpoTDZUTVhVM19YNUFzVENxNXRSRkQ4RVAxS3VvY2NCNnZLMnR6SXZKWUJodQ?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 15:56:23 GMT",
+      "description": "Dominant H1N1 Flu Viruses Now Called Subclade E, and 93% of Those Tested Still Match This Season's Vaccine Medical Daily",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Opinion | Suspicion of the Measles Vaccine Has to Stop - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQTE2TVMtYXlRcWZCLS1rZnhGTmQycmxJd1h5TUZhdk9GUGxBTVYwSWJMUHB4eGJxRmZHSl9fQmFZbTVUT1RqN0Jkbnk4NjZqN1ptV1BjTGVrbXZlOUx1VTlFREhianhfQjZncEFMTXQzQ3Z2ZEZUTS1VZEswVHcxV1g1S0MyWUha?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 15:48:00 GMT",
+      "description": "Opinion | Suspicion of the Measles Vaccine Has to Stop WSJ",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "opinion",
+      "articleLabel": "Opinion"
+    },
+    {
+      "title": "COVID vaccine could cost uninsured Arizonans up to $300 - KJZZ",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbkF3NGV3eGM1MzhXZDROVklHMVRfeXhEYjhSdGg0dC1OMjl1bWM3MW1zaHZza3RyODFPMkJuMG5jZXpCYkNFZjlzWkEwTC1YYm03LWpwdjJGVnRTVmhtZkZKTWZ1WTNiZnM5OFVFSEZzbFZsM1psWTZkRzVSd1VISVlXOW95ZjdyOWs2VDZVeG42WnFuRFAwMENR?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 14:51:00 GMT",
+      "description": "COVID vaccine could cost uninsured Arizonans up to $300 KJZZ",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "RNA QC Kits Market To 2035: Mrna Vaccine Release Testing Demand Supports Forward Growth - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMERzUnVDbkRyRHpQZjR2QkxoSnRGcTJvYzFWTTV2NTVzQTV3TEJhVlBXZDljVDgwRHl3akxWb29ZLUhIZTlBd0llZzlYSTdnNGo5dVhZZW5JSTU4V1FUUjM0T1VXaHEzUlF2bzNaQlJiUkxTTTRGQ0pVVGNOUm5PcVI4TzcwMlRCYzhPWWhFMU10V1pxSFBOYWpkdFV1TjNRSTdlcmVnMVNGNVVyNmFVUjBYclY1cUMzQUE?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 13:31:05 GMT",
+      "description": "RNA QC Kits Market To 2035: Mrna Vaccine Release Testing Demand Supports Forward Growth - News and Statistics IndexBox",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "WHO to Begin Ebola Vaccine Trials in DR Congo Outbreak Zone Next Week - DNE Africa",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTl9VclAzX1g5VW1xRlNFdjlJZU5RZWJCbEJydFpSY21WNFM0aEhPRXNvY0ZvaENLRS1PY1czUU04dFl4eE9QTWFWVFZYdUl2c0dIVDdBVDZLUFZTUFREUTJjVFdabElBeTBmcjlzYzF2dmdUUmNBMDhUd2p3OVZ4c1RnOHpEWDM0UTBQT0hLVzVpNzZXcldIS1dEYm1HVE12b3NKb2Y2RQ?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 13:09:00 GMT",
+      "description": "WHO to Begin Ebola Vaccine Trials in DR Congo Outbreak Zone Next Week DNE Africa",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "North Dakota, Minnesota health experts call U.S. measles trend 'devastating' and 'concerning' - InForum",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ1loa2ZEVHVXNHoyN0dnTzdXS0tlT1RCWXdxRFJoWHdoNnJrQVNmSXM3UlVYbXpXMjBEQVluZk4teDI2VWlRZ05INDRsY0lLSy1Ub2ZCNFktSjllZEhkZUctUFFTY0VSWDVOcGNlb0FLcGdhdWtOQWlvMW1rV0V1aDFPUmxvazV2Q3pkdlRYRl9rbUk5RDFmaG5iclpiS1NDYWJoUy1xQmVyQ0s5c2VlY2dPYW9JRVdGaFE?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 12:01:22 GMT",
+      "description": "North Dakota, Minnesota health experts call U.S. measles trend 'devastating' and 'concerning' InForum",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
     {
       "title": "Public Health Mobile Unit: Vaccine Clinic - Acadia University",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS3RGRWN4WnZrTkNEOU5Vak50dzB5YXRlQjBCTEowaVNheXFYYTQzUi14c3pCczVHcnlIVm10NHNINUtRTjFTTlZwQmd2a1p1VWZrUlhrMXVMcEVkVUhURHItcWdaTHFxUFBkVDBkSzBvbmxkTnVpYWc5RjVPeno3cjhucUY0NFY5WmdHZEhGMXVub3R5WjZEV192MnNTZw?oc=5",
@@ -161,41 +247,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "Virginia reports young child is the state’s first measles death in 2026 - MyNorthwest.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRDYtYnZsM1ZfM19QUktKMXZUejdqbEZvYXlDTXRsakZqcW5mby1FbGxIMnkwV3BfaVdpYV8za1NEb2EyOXU2MzRXbFkwTDQ1UzkwZFd3ZkJzVW4zNldadmhIcjQxSDZNTmtWdmg1eXVNT3hwTUNmSFNhVG5FUl9wVXpobmVweU5XQnlKS2NZSFMxSHU1OVlZa213ZlFzSFBTSUNBdzZfWkhrRE1SRHVNbA?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 22:06:17 GMT",
-      "description": "Virginia reports young child is the state’s first measles death in 2026 MyNorthwest.com",
+      "title": "Virginia reports young child is the state’s first measles death in 2026 - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTXBjTk9IN3Q0NFVkaHJhdUZZZzBoMm55cGFUZzFCZlNyVkNkTWhtNEZueUVTN3lRR3pqYjlwN1ZiNml5elZTSnJnUUxNSFFTS3JMdGpSN2NnTjVHV3dtQjdac1dVeWd2NWZvT2NjMnpfa2hhZVBsUGFVbnNhRFZ0cWlQYUFBb0E1TkVkcFdrbk5LaTlSRGp6Y2M1QlVJZHdRUUpBaTUtNXpMNG1jeUF3?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 22:58:36 GMT",
+      "description": "Virginia reports young child is the state’s first measles death in 2026 The Mercury News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Indiana reports over 200 measles cases as US loses elimination status - Chicago Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPam1kVllaZEU1amZWR0xkTE11dnFTZFpSZVRiWEpzZjZodDBqdFV1Si1QdFlIa3dhQTZSVlBXaXdOakJuUTRKQ2MtTk9ueWpWaE9VNFY1R1RIdzJIbmc2bmhaaUJ0YVJDTE0zZ3V2cVNoa2N5RlF4OU9SRWpnTFAtOVNDdWdNT2xY?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 21:18:02 GMT",
-      "description": "Indiana reports over 200 measles cases as US loses elimination status Chicago Tribune",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Polish Pharmacists Support Pharmacy Vaccinations Despite Low Personal Immunization Uptake - Bioengineer.org",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTld2LTRKNEp0SFA1N0NuajhKakhBOWxlSnZ5WldieC03VExOcFZiMDJOMGNVUXp5UV91VHN2UTFYUFZLekZuM091N1lkVXVOSmU4UmVLeFFlZ1ZRbWhKbXdXZktOZUZvUW9KaVliT0hWMDhYTzJpTmFmQWlES1BtMlhNZTRPQll2NHhMNS1nX1pQdVRheDk3aWRqUDctQU1mdHpiZmZzTXpEcVgyM2JPRTNER1U?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 21:13:33 GMT",
-      "description": "Polish Pharmacists Support Pharmacy Vaccinations Despite Low Personal Immunization Uptake Bioengineer.org",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -211,19 +271,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
-    },
-    {
-      "title": "Public health hot topic: Vaccinate before holiday gatherings - The Journal of the San Juan Islands",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONWlUdVE5MUhrM0NrZUduUlBfWi1HQm9ReDBvSUdmWDRmQV9RX2dMQTdlb0JMUWNCejZzdkNubHEtR3ZyeHNvM3ZGTjFQQzI3aGw3emYyQWJnUHlidndtSkJGTFNjSHJ4NFJqM0RJOUZKejluRU55MEdyVVZUZzBOTHNHY0ZOWjFsV0swOFAtUEVzWXpIT2JWWURzNVpXVlJSVVUxOA?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 19:35:22 GMT",
-      "description": "Public health hot topic: Vaccinate before holiday gatherings The Journal of the San Juan Islands",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
     },
     {
       "title": "Fiscal Facts: Lagging student immunization, heightened risk - Wausau Pilot & Review",
@@ -291,6 +338,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Older New Yorkers Shouldn’t Skip This Season’s COVID Vaccine - Empire Report",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbFoyS1h6eWViQmJHNklUbGFaWEdtUUNhVWtkWHVpOG5TcXF6b2p1SEd1NXl4ZXhzeUdVYjhqa0tmd3ZHQmhocGJtc2M3YlNlUUVKX0hBcnRiTG80R0hQdkVFNzhHVmNXMG5LQlZnZUJpTFU4Qm5fb1VlUVVubjFTRG8yQk9ONDBPdXBieno0T3QtSTgzTlE?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 11:06:49 GMT",
+      "description": "Older New Yorkers Shouldn’t Skip This Season’s COVID Vaccine Empire Report",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "covid",
+      "vaccineLabel": "COVID-19",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Framingham Public Schools honored for immunizations - MetroWest Daily News",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdi1VWkFnVHFDQVR6aUt0WUczcWdrV2ozSGMyVnp4Wi04MzN4MU5uN2EzZGtyblIxZTBxcHN4QWxLTXltNTlYY2ZBeUhQNUFOY2hENHJYSXFMZml6cV95WXFDa0piRGgybnFKWFNLeWZGT1I4R1lHR2huWWlVb2RTTWI5M2NVMVlOaXJxTVBYZ2REdW9PbGtDaU1mLVZieFYzZGZxbmFUdnVzR0pkbWhBM2xUc3RuVlMwblMtQ0UteGJXbDJNbkhIRFFjU3JqampMb04xNWJKRjVIYkpTVjFQS05tOUtQTWphNUxWczFVUQ?oc=5",
       "pubDate": "Sat, 21 Nov 2026 10:06:00 GMT",
@@ -330,19 +390,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "BTAA hosts free pet vaccination clinic - Bonner County Daily Bee",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaDdDbHRtdUh3S0dZS2UxNXo4Wk42SGE4QnB1RElxQ0hxdGRBYlY5SXVvbERCaWx4b3Q5ZlI5TjhoZlVlQ2U3VEZRZnhPVi1rb2FkREsxNTlpdWc4RGx0aDZHUkY4WXdnWU5KUHV2bzlrVzU0enJydnJicWM3RnM5d2RndjY4U1ltNFlnZVhuTW05cVU?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 08:00:00 GMT",
-      "description": "BTAA hosts free pet vaccination clinic Bonner County Daily Bee",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
       "title": "As measles outbreaks continue, do adults need to get a vaccine booster? Here’s what health experts say. - The Boston Globe",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBscmtZNXc3N3lqazZEaHZlbkl0VDhpT1RudFEzaVhJODZRN0RiYXFST1FwOGg3OXBqWGJlY2toUGJCNWlfU3NRTzJOSkJEbnN1dmFHemxGTHZ1REVpUnZjNm80UFpBTVU4MFc3N2hiTDYtaGd3V0h0NTR1Yw?oc=5",
       "pubDate": "Sat, 21 Nov 2026 06:00:00 GMT",
@@ -352,19 +399,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Pfizer’s 25-Valent Pneumococcal Vaccine Candidate Shows Strong Immune Responses in Infants - Infectious Disease Special Edition",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNWRHYUFMZmZuQWxnN3R1NkR1OTdXSHBHbWh6b3Z6QmV4LWNSRkt1X3dIQWRaVW8wNFJvVHVPMmpiLXBwRlRNMzR2T2M1THQ4SWZPMlJ3SVBTMEpBLXcta3dzdlN4NWh1RUJOeEFvUEVUSjBiTTl3QnZrbFJDVmdnM1NlUmRnT1N4MEJxQ05pQU42aVFVekpkTENCS3Z6VTVIdnRnSklnbU5jTGl3QkY1V3NqSjREZmJZQUltQVRWZWxNeHBaeDFWSVBqZVlJMENYeTF6RnhlVHVaelRlcXdDSkRrTVhRek1s?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 05:00:03 GMT",
-      "description": "Pfizer’s 25-Valent Pneumococcal Vaccine Candidate Shows Strong Immune Responses in Infants Infectious Disease Special Edition",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "pneumococcal",
-      "vaccineLabel": "Pneumococcal",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -421,6 +455,19 @@
       "articleLabel": "Research"
     },
     {
+      "title": "Amid measles surge, local and state health officials urge residents stay vaccinated - Salem Reporter",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNlNLSzlfUmlhNW5iWG0zRE1vcURuc2VlU0pCTFNwTGZBS1NnODdMZ2lZV2g2WVlrd2xIQTNobjZUaHVDQTEyeG1wMnBfZG9GUGZ0eWlNRzhrTEtuMHo2TlA0YkVyYjIwNEV3d3AtbWlhemczUndqaE1GT1M5cTNuaGFWZTBabEp6NV9JVEtMWWQ4c3VvTzRTVG5zajhwN0lMdFMwSWxpMmdUOEJvRHhpenU4Z19FRG41cGktU0hoMVIzdw?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 00:34:43 GMT",
+      "description": "Amid measles surge, local and state health officials urge residents stay vaccinated Salem Reporter",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Goshen schools to exclude students who haven’t met immunization requirements - WNDU",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOU43dHJRa1hURm0tSExTMlBucnREVXQ4V0lKaktQek1ZZEhkdmZaN18yM1B5Q2Z3RWFFd2pTVWdMU2RXcUVJSjFrRTE4YkZvdmhnR2xtd21mY0ZuVEFxeWxqRjcwV0RTckFvamtwN09sQ3dPdVRNYWI2VmV2WXdrenA3Vm5TVkEwN2ZWSUlzcjk0RXctR0ZyR2pMWkQ0M0FVSEY2amxvdW_SAbwBQVVfeXFMTU4yWlFGLVBoVEl5ZU16c3BtNmtxOFRVbXJSM0IyOXpfV210UTk0MzFpbEV5YW1XVGRrZFpER3l3N1EtNURUNGJQRlBGQ1A4cXFfOE9sYXFlTFdKY2dBY084N3ZzWlJQYmd5dUpxcHZGVzJWbEllUVlKb1F0WjJLYXFDMlJrTTZfQnZIaXpLa1k0eW1KdlF0cmR1SENUNW5WUTR4R3d6ZndsTWQ2dU5JZ09sTGl1Rm5xY211anM?oc=5",
       "pubDate": "Sat, 21 Nov 2026 00:22:00 GMT",
@@ -460,15 +507,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "Rotavirus Vaccine Recommendation Change May Undo Decades of Progress - Patient Care Online",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWmxXbDVpZDVaWjdHWWVVYXNBREMwX1ZpVWJPdWRyRWgxWXZCd18tVFJneDZVWkhXeGJKelJ0ZUk0MWZmaG5BM01lUVNuUWg5SDduUzkzUkF0Q2lMbnR2cnVYMkg0MERzX3V5eGFOZkhacDk3TGN4Q3J6S0hfYTU4SVlxYm9Md2dnY1JMd0p0NVQ4VmloUFByVmxxQmhBTUZSYVpvZ1lXQW5zUW8?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 23:04:08 GMT",
-      "description": "Rotavirus Vaccine Recommendation Change May Undo Decades of Progress Patient Care Online",
+      "title": "Community-wide R21 vaccination reduces malaria infections across multiple age groups - News-Medical",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS1VYM0JLbEZvb3ZHWUR4S09mbVZ3TGR1dlVXMTVCVEVtUjE5enJ2YnpXbVFBNTJhUGVmbm5zb1V0Z242aml2QXRKMFd0c0poeXpZVm5HMVBOZFF6RGZxZ25OMGR5RTItUWdYdVNfb29yQlZZaHc3X1BoeE0wNkE3ejdQYkZFU1liMWJWT0t6TVJocnJDeXdsN0otckJEYnpWRXQxSDBmdGd3STc2MDZxejI1Y2E3a1dXTGpIS2JZWDdYUzNNSzZTLVN6REk?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 23:17:00 GMT",
+      "description": "Community-wide R21 vaccination reduces malaria infections across multiple age groups News-Medical",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "rotavirus",
-      "vaccineLabel": "Rotavirus",
+      "vaccineKey": "malaria",
+      "vaccineLabel": "Malaria",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -564,6 +611,32 @@
       "articleLabel": "News"
     },
     {
+      "title": "Daviess County Health Department offers extra clinics for measles vaccination - WTHI-TV",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYUhaOUlYTXY5QXNUSmZ6Q3VDc09FLW1na000b2QtOFE0SFhfRFh2cm50aUxENm9qX09EVFNBVXFEdGt3MjJqd0x0VGJhM1RQRnZYMzRrdzN3OTczR0hZVG5FYWcwRXhiLWxNN2xiY2dpUkpGQmdWT0VqNm1EbDk2bTAzaDExallSeGlubVVJV01XQ2xmQ1JlQTJLQVJObmlHVTdDX0MtblpnTmd30gHAAUFVX3lxTE02OHNHVVVxVzhxeXlaaW1kTGtXTFdyWUl4eTlMc3dCN0ZRcnpVVGNtay1qSnl3SWhLX1dMSFRqdDMyQlF1NXV6VHh0VzNReTBJdU1qeEo5QnFwRndyLXZ4TGRjSUsxZG13bnlCUWptVllwcWZVeGlVNHBwU0I2cnpKWTUxRFpNV1poU09QN3ZVZkhrOXF3OF8yRVJaeVJEZ1NuOUdhdEFSOUtDbXBUMnFsWWR1b1NEdFBUbjc4Nl9mbw?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 21:09:00 GMT",
+      "description": "Daviess County Health Department offers extra clinics for measles vaccination WTHI-TV",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Pancreatic cancer vaccine activated immune responses in nearly every patient—but did not significantly delay recurrence - Medical Daily",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYVV6b044TUZKcE5JYkl6ZTA3UkRRelZzbVdUMWh5NzE2R2ZmQ3BJOHJ2dlloU0RUUlAzSGl2UTJSNGhNNXpKcnktTkV2OUM3aHBBWndxYkNLWVp6dURFQmhGeWFJSUpTWXpwR1owTGdNRDZVSTNFcTAxdDZ4WUV1VjU4RDFfWktGVEtlTlNSWTZUeDQ?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 21:00:20 GMT",
+      "description": "Pancreatic cancer vaccine activated immune responses in nearly every patient—but did not significantly delay recurrence Medical Daily",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "Illinois measles numbers remain below recent peak, while the U.S. loses elimination status - Capitol News Illinois",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOenpiM2x0S0puVHVFNlRDSkF4M29fTUJVdjJEOGpEWi1ndUM1cnAwOXk3Ry1KVHY0MExIdkRTbEZ5UHRCUUtCbGVsT1BNSGFFX2tuUklmYW8ybk1rLWUya2ZYZVZCZmNQeU9pclFyOWgxaWh2NzZ0cjlBbktJQmtNRmV1LWFoMDltdWE0dzdhbkFPN3VGQTBGOXFhWEU0TG1UMlAzTmsydTJ1X3c0UXJKRUExVVh1eklaRlg1UlFpVk5OQkFI?oc=5",
       "pubDate": "Fri, 20 Nov 2026 20:56:54 GMT",
@@ -603,15 +676,28 @@
       "articleLabel": "News"
     },
     {
-      "title": "Serotype 3 IPD Persists in Older Adults Despite PCV Vaccination - Drug Topics",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT2dGSDdZMkRBQlhGa1FqZDA2ZUx6UURlSlN4Nkd1djh0X0lBXzdrRUwtdzh0dkdYNEUxaGVLSHJsVUV4cEctbFRLMF9ldjRrTm9falZVU3hCQl9QWTlOWTVjYzVFNHlVMjFqQjRFaHF2eElwTWtESXRIMzZsRmxGQzJma2NQQXIzVVZ4TkxJRnBBdmxrQWI2NW9jQQ?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 18:53:12 GMT",
-      "description": "Serotype 3 IPD Persists in Older Adults Despite PCV Vaccination Drug Topics",
+      "title": "CDC: Flu cases continue to rise across the U.S. ahead of Thanksgiving holiday - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmlSMjVfYlJmRURSM01iZDN5RGJGOC1nUjVzMF8tZlZwTnllNF9BeE9BZXE4STZxc1ZhVjFPVnpFMzJJZEppQ3RsZW04MnhoTDZOWWN3bTc3WW9WU2dPZTNXVWxrMTRTVDZ6SjQ0LWQwcFc1c1F6Z19ISVpsMTZ1WFF3X0NEcnlZUG1MV21rOEVqa3FscDVOcmJR?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 20:06:00 GMT",
+      "description": "CDC: Flu cases continue to rise across the U.S. ahead of Thanksgiving holiday Spectrum News",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Immunizing entire villages with a malaria vaccine significantly cut malaria in West Africa - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQmZIcjNVN2Y1d1h6d2pqVDk0LWlyWkw1QkhQOThYS3djUjJEMmwzREhKaXIyaGYyWUZFc2w5dlRmc3RiNFhwanRxdlM5OUR3UEJiQ0FDaVBqdmpsMUdNTS1mWmFoVFB2aUQ2SlhtaEhLNTFoZlhadzYxTG5ua0ZodE8xRnBxd2VUaFJwWG1Ka2NERG9Yc1ZCY19qR2U5NHc1SGpXcWJHX2Z4U2YzcUp1SjFvak9EUQ?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 19:11:37 GMT",
+      "description": "Immunizing entire villages with a malaria vaccine significantly cut malaria in West Africa CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "malaria",
+      "vaccineLabel": "Malaria",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -642,23 +728,10 @@
       "articleLabel": "News"
     },
     {
-      "title": "Systematic Review Finds Higher-Valency Pneumococcal Vaccines Offer Strong Economic Value for US Adults - Pharmacy Times",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV29hTlVLLVpGdm5tSFdmTDFEemJjZWp3VVRGc3EySXgxbjJJSUFJQmhQS3lhZmo2T24weFU1aEJDZVB2anFlTEFKWTFyQTg0TlU4dWlPTUNzUWhabUFhRTVRcEJQS0tNWU5iM0E0cEpyQnpvQmtRMmY0MUhBMDJaRGZxNFNtczRTWUh3SGRQY0x6Smg5cnJEbEx6aWVKaFc3cTg0U01ERTVseXZJM2lWcTIxRU4wOS1ycHVoRW5PZUx6RlM4Q0cyaU5ROVRreFRJNUVV?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 18:09:45 GMT",
-      "description": "Systematic Review Finds Higher-Valency Pneumococcal Vaccines Offer Strong Economic Value for US Adults Pharmacy Times",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "pneumococcal",
-      "vaccineLabel": "Pneumococcal",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Findings of Florida Covid vaccine study misrepresented online - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbWl5VzdmVWNYaVI3TXRTRWlQSlBWaGsyWmxWZjFrU1o5SnFLeUQwYm9kQkJjOUtfdmNGenpJN1E3ZE53Qm5kTEozSUxXNVEtdUFQOVVfMVp1TnRJeUxQUDQ3RlFNSGoyWFdVa1hpd1ZEX3YzN3pIWWhDbkdmd1M3eGRKemRuV19CS000?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 17:52:09 GMT",
-      "description": "Findings of Florida Covid vaccine study misrepresented online Yahoo",
+      "title": "Findings of Florida Covid vaccine study misrepresented online - AFP Fact Check",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFaDFnRXlBSkFWbC16M2NBdmMxMGxCY3F6ZnluTWtLbWN2QmhhRjJpQmFSdGtnTU9takd6UV9RWWpvUFBHaTk4Ulh5bXhVQjd1OUo3SkQtMmM?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 17:54:14 GMT",
+      "description": "Findings of Florida Covid vaccine study misrepresented online AFP Fact Check",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
@@ -668,15 +741,15 @@
       "articleLabel": "Research"
     },
     {
-      "title": "Mobile Medical Teams to Bring Flu Shots to Ukrainian Recruits at Training Centers - Kyiv Post",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kYUdyeW9pV1U2Skl2b2c5c2hVWnVIalZNWWd5ektHX1NzNzd2ZWprMV9obTJNU3ZXM0ROejVsVzJLN0JoaHdYc3JEYw?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 17:45:18 GMT",
-      "description": "Mobile Medical Teams to Bring Flu Shots to Ukrainian Recruits at Training Centers Kyiv Post",
+      "title": "VDH encourages vaccination status check after increase in measles cases - WFXRtv",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWlNfV2VqZHlOSlE4dF9TV1FfTm1iUk00QzJGOURjbWVhSlFjejZzWEoyLVlFaVBIMlIwT0YtT3ZLOWdjYlVIUEFrWmM2M1Zpd19CU2l0aXpaSy1kMnQ3ZWZsV2FZSVBERlpUWE53a3hPeldkR0RqemZMaG5IeVNya2pwZDZoMEZaWmJCandOV0paY0pnRzJ5TE5DOHprX25RbEHSAacBQVVfeXFMT1JwU181Q3k4T3gyUS1sQjVLQTN3Q1dGRWNlSWpNRVYxREZVaGVaV21Ma1cxdkRKNC0yemZUWlpxeFJ6TTNKWmYtRmx5Y2xwalhrMm9YU2MyaUljTU9Eb04xcEltMGhZQWc2dXg0ZE1YYWV4VEw4emwxSS1aZHVGSXNkZVVOdzZZNDVETzhDZEVncUZnU0lhSHBHQUVkenRIbGN4bEZleEE?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 17:53:32 GMT",
+      "description": "VDH encourages vaccination status check after increase in measles cases WFXRtv",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -703,19 +776,6 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Survey: Most Americans remain unaware of mpox vaccine and transmission risks - News-Medical",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeHdYVC1ueXVQZ196aERKalN2ZGFKYS0zRFRFTmstMXZQQ01PNy1ZblRYVGZISTc3X0xGNnB3QlhzWExfTTRuTGFwXzBfWXY5ZFZaVFBOdlNtWlp2dmVuZkk5OUp1cnhiZVoza1ZCS0xGRGUwWHV2cG9PZ1lhcmRKOEY4VGY3WWNrNjhUOTNJTGl1UFpYV2tJeUtON1NYYzNGTEdQZWZuMHU0aVpGZnRwOTNCdEhKcGl5b3Rtai1UbGo?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 16:57:00 GMT",
-      "description": "Survey: Most Americans remain unaware of mpox vaccine and transmission risks News-Medical",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "mpox",
-      "vaccineLabel": "Mpox",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -850,6 +910,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Island County measles vaccination rate below herd immunity threshold - Whidbey News-Times",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmF3dUZTenFjX0o3VUJtU21kRG5RTlZQQXpNWDJnTWtxOHhqUVk2T0RzMlAxN2pHUUdEdUs2V29UT2ktODE3alJpc1lvMHFKSE9ZZnFNTTJ5YzlIaEhCWk51Qi1LQ2lQNG14QTBQMlBLNnVaaTRTWlNLOTFJQUxFNmJHNHhOcVAzdXJsem1nVmpobUlqVTV4QXN3bXVyZC1xcGI4cVY0MlBpLXQxMjY0N01fMA?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 09:30:00 GMT",
+      "description": "Island County measles vaccination rate below herd immunity threshold Whidbey News-Times",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "measles_mmr",
+      "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "MCHD recommends residents check vaccination status before holiday season - The Mining Journal",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUFlTU25mTUxVcGd3SG1NV3lKWTRNcDA5SkNpZzkwWFRKY0FqR0pGamNSLTRIckZYaGFNWkNyVnRDTUZJTEpDNTBmaFdXM2xVV05XZVRHenU5a0x4ekVRUzVDUzRnME50cmdWZ2tpY3FaMlJYeVBxaS13RUFyX1BGc0I4RkJTQWxCYTBuMGdUaXdoUHpFZXpBVDZTRG5pTTFyR1FDZ21tYUViRWhaODNuMEJHVUZkbk5KUDJyVWdqWFRlcEtnZEkxOHBCZU4?oc=5",
       "pubDate": "Fri, 20 Nov 2026 08:05:41 GMT",
@@ -861,19 +934,6 @@
       "vaccineLabel": "General / multiple vaccines",
       "articleType": "research",
       "articleLabel": "Research"
-    },
-    {
-      "title": "Needle-free Strep A vaccine in reach - Healthcare Today",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlOEFRTG80X0I3Tjc4dW9fZnRLZWcwYXRaMGx1NFpnUVZSaGh0NDdYOV95VFFCVndBb0V1by1UVG5lMDZtU1dXUElzR3A5ZWFldERXS2tvdGRUYWVwc3g0WUhmREJWMEVvNnAxSDdlekx5NkJwQUhpR2pSRXE?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 06:04:45 GMT",
-      "description": "Needle-free Strep A vaccine in reach Healthcare Today",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
     },
     {
       "title": "Malaria vaccine shows 87% efficacy in clinical trial - UW Medicine | Newsroom",
@@ -954,19 +1014,6 @@
       "articleLabel": "News"
     },
     {
-      "title": "Flu cases rising in Wisconsin among low vaccination rates - Milwaukee Journal Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTW1GMzh5R1Z3VHpCblJycS03UGpMSjJiQk01RkZRT0Iyd1hyWUZvZXAxM29HRTVNM2VwWlBmRWxhY1JySU5iUlB2eFhKV2N0RjdOOWVwWDFwNnpiX2E1N3R2Q0lpczlEMXBNNU1GY3FvUkxMZEhwbVFaRThYQWxwYmpVeXE5NkVDUDk2ekdBOTdFV3dFNWRFTk94OEJEamZmZnZTMDExY2ZQYjljaUlmenl0cw?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 23:26:18 GMT",
-      "description": "Flu cases rising in Wisconsin among low vaccination rates Milwaukee Journal Sentinel",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "research",
-      "articleLabel": "Research"
-    },
-    {
       "title": "Study raises doubts about combining vaccine, monoclonal antibody to protect against malaria - STAT",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNmt0cFJJcVhKM3VObDBIb1NncndSQTNXNGRBOUlWVEhSd0RyR0JTNVpUSlk5MDBUNm9BSklIZm9TOTc4WGs3bDJKSkFyTDRlS3BfcGpRQjJzNkNQOUR0dUp6QlVIRlZ1SHdWdFhuMFJmUTBYbmh1TzQ5VUtnTUVnODdFVzNiX1VRWGVXdFRxeEhoQzhKWjc4MU05YWkyVGtR?oc=5",
       "pubDate": "Thu, 19 Nov 2026 22:24:46 GMT",
@@ -1002,6 +1049,19 @@
       "sourceLabel": "News",
       "vaccineKey": "measles_mmr",
       "vaccineLabel": "Measles / MMR",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
+      "title": "Clinician HPV vaccine recommendations in teens vary widely by US region, data suggest - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0ZYVG9KSGVMb3lyc1BXSFJfalpBajM3dlhJOUhvWDQyeHdEb09XVU1UaVJFbzN2MkVwbkcxbUI4MFhJZXlZVURGS29fNFdNQ1pfN0xKRjJJQzhlNGZ4Zkd2MEFhaGJuUG1HcUlNWF96RW1jQ2ZvdmRfdk5lcWxtaDFPUHVSNE9qamUyQVdmSWVHTG1ERXY0UThldzA0UmpoaDlzU3NKTnB1Ykw5TWRSak5aUk04V01YcXNiVzVvSQ?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 21:58:00 GMT",
+      "description": "Clinician HPV vaccine recommendations in teens vary widely by US region, data suggest CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "hpv",
+      "vaccineLabel": "HPV",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1071,6 +1131,19 @@
       "articleLabel": "News"
     },
     {
+      "title": "Vaccine hesitancy spills over to pet owners - CIDRAP",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yVDRpSTVPc1dyR2plQk9iNG0wMG5LLTB5LTNiV29BRWswWE01WjIybklSSXc4YzMtVnpJVHIzSkIwR0xPb3lQakt5REFvemt3Q2dlSEhwV0R6b1JZMmVFY21adGdwZ1RQVS1vRXYwZ3ZtSDNZU2VIZXNGNXNHd0k?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 20:44:13 GMT",
+      "description": "Vaccine hesitancy spills over to pet owners CIDRAP",
+      "source": "news.google.com",
+      "sourceType": "news",
+      "sourceLabel": "News",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
+      "articleType": "news",
+      "articleLabel": "News"
+    },
+    {
       "title": "How vaccine fears fuelled a major measles comeback in the US - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSjhSbk5BQTN0bFdvcEY2dkNNU0ZKOXBnLS1RbXVyancyVUtmS1FReUtHQ0xES3lxOXZ0U25UMms3d2RtR1Y2LWVKdDQ0cF9GSDM3RFFaN3hIUXVwVUN0d19NXy1EMVE5VmJnUjh5UDFfZmJpRks3V3Q4OVRDRFVwRHd4T1RTZUVmMUMteGtjVGlLbU1OS2lKcldJVTFTa2J6MmlaQ29tRFFsZ1RXeG5rMEFB0gG3AUFVX3lxTE5CZUs3S2RHaHVGNXlCS0thaEFuWm9adlB2a3FiM00ySVB1aVppM2hGRTVjY3hTbHg2NHM3RWh1bzBIOUFTNjZuSFFEYlhsOVhlcHRaMERhTndwOXZPV0pUU05FODItUjFnYlgxZUFpT182OHZ0eE5mbVg2RER5OFRpQXhISXdsVnByRUR2QXotQnpFTW8tbnJObHBfZGJIWlRONGhUVEl1MzU4MUFPTVQ4Y09FZm5PNA?oc=5",
       "pubDate": "Thu, 19 Nov 2026 20:43:41 GMT",
@@ -1084,15 +1157,15 @@
       "articleLabel": "News"
     },
     {
-      "title": "How Can Communities Close Measles Vaccination Gaps? Addressing Access, Trust, and Missed MMR Doses - Infection Control Today",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPS0ptUWVtYW10VzhEcE5mUmJXMFo4OTRFN2JhdlZIT3RhT3hBaWNzOEw0UWdkeDJkOGxtTkptbnhjWVFoMFN4NTZ4UlVQbEg5MnlQVlZaUjhzcDVNTlE2N2hmNWotaldJd1ZZODRhUzNoSndTNEd1dE5wUllnMXp3RDhoaXV3MHd4MlRHM1VlaWI4Z29OZ19FN1NRazhXZE4wenVtd1BXTVlJYXZBX29iLVpuUDM5ZkZPSDB0d1UxNWlQSEhHV1BXMUNiVjlHdWM?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 20:32:13 GMT",
-      "description": "How Can Communities Close Measles Vaccination Gaps? Addressing Access, Trust, and Missed MMR Doses Infection Control Today",
+      "title": "Poultry Vaccine License Could Change The Case For Zoetis Stock - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcmo2Zm5DeXNEZDUzRm51Vm5DN2Q1amxYVzk0T1RvZWFsak1sb19OcElLaDY5Y0VZSExkZWxkWjVrN09wV0t2Uml2Umk4T2lfMUc3SklkSnV0cjNVelVQbWctOFlXU01oOEFxallzRFl6dHhsZ2Y2bDFIc3YyejRhZnp4OC0wM1p3WmRESjFjd2t2QW05RUxFNU5JSWsyUQ?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 20:17:29 GMT",
+      "description": "Poultry Vaccine License Could Change The Case For Zoetis Stock Yahoo Finance",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
+      "vaccineKey": "general",
+      "vaccineLabel": "General / multiple vaccines",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1106,58 +1179,6 @@
       "sourceLabel": "News",
       "vaccineKey": "general",
       "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "New mRNA vaccine steps closer to treating multiple food allergies - News-Medical",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWXdIMkZTWWc4LXlmMFQtei02MFY3OGtKbF9jc2hGQUlkYjdzY3h5dTRCdHBFRGJZZkF5a203QkpKNkdUVjVZOTE1Tkdlc0lLS1JOYncyR1QwM0hrOWkxVEw4Yk9KZzBmNFVkMEVkTGR1QXBVOElpRnpfWGV6Q3B3MG9fdFV5UFF1bHNuLTh2UHdJdWt2T1ZkazhOM0xqUG5zaldSUXQ0dGY1NGY3WVhMWW5pdw?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 18:17:00 GMT",
-      "description": "New mRNA vaccine steps closer to treating multiple food allergies News-Medical",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Suboptimal vaccination rates trigger widespread measles outbreaks in the United States - News-Medical",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeVFyU1Fyek5KZllhdGh6NUxMRDJHOU9vMDVsdlhnYWF4SGJNNncyU1YyRUNNbGYwZ0tQSXZra0UyeG44Nnp4ajJfTUcyaGVkQVhzU2RGSU9IaERtYUdmeTQtYVh2ZzFtNHZuVjhwQTQ4SFhGYnBzeXJSRHpqN09PSGdLR0VmZUVOV09Gblg0OTJKZVJJaFFYRlh2ODhXdFBzOWl3Q1o5MEpkNUtsOFdHWGRoRWxEU2tOYkFISklUb0NzTzlCT0hDcmpfVmRVanM?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 17:42:00 GMT",
-      "description": "Suboptimal vaccination rates trigger widespread measles outbreaks in the United States News-Medical",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Moderna: Can the Vaccine Business Fund Its Next Phase of Growth? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNVZ0OEt2QzdMSEF3cEk0Z1dNYlp3QkVMVXJ6Z2ZNZ1hBUVV5M2VZNWhFbUN1TndHMXhUN3lJZlpVRkpFRW5xMXpqekNoa2hMSjZnZ1lycmhmcWRBLWctczlZZ1VtOGExMXZPUTRGWGpzczd4ZVJYUWVmMVJKcXRPZ1BYbndUS0RrU0NwMGJkbzJnd3NkVUtFYk5KMA?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 17:17:00 GMT",
-      "description": "Moderna: Can the Vaccine Business Fund Its Next Phase of Growth? Yahoo Finance",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Lower rotavirus vaccination rates could land more kids in hospital - WashU",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMWdzLTZUZ3prdHJwTlRiLVpIRUN4UjhpYTlkdHpuR1RNZ3ZwU1hlcENoM193WlA1Ul9acWdzY1hhWXhBeF93Ymc0bldrcEIzYlFkWHN6YTRnOEFQdENqc1BmT3V4NkJsc0hCMzdpSS02eW5DdnZ5cXVUbVZfSEN2bWtydzdYTkhrMjJQV2FwRjdvN1NSS2RLVnZUQ3NpY3NRcnc?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 15:11:00 GMT",
-      "description": "Lower rotavirus vaccination rates could land more kids in hospital WashU",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "rotavirus",
-      "vaccineLabel": "Rotavirus",
       "articleType": "news",
       "articleLabel": "News"
     },
@@ -1179,32 +1200,6 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMDlNUS1GeGEtcjdXdk14OGd6eUowSHVXSzVhOHFVellRdW5malBndE44WXhXbUZpZmpUeS1UTFN1LTM5WVJLY09BdVBzaVQwVWNQMVNOeFFPZlY3WDJURkVvbzNfY3E4U1N1aVpodW0tUEMtMWJiY0VBaHVFcnRaeFdlNTRCcXprU2hhNQ?oc=5",
       "pubDate": "Thu, 19 Nov 2026 14:47:00 GMT",
       "description": "Anti-vaccine group once led by RFK Jr says Meta removed posts after Guardian report The Guardian",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "general",
-      "vaccineLabel": "General / multiple vaccines",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "US loses measles elimination status as knowledge gaps about disease and vaccine persist - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTnNGZm85WDVEeFFFOTV0ejUtRFExaUhiS1Vma3ZXamZ4SWpSZWxreEtYVmZTNk81RFFlTW5lRmZRb01TcFZnWGJ2SWFxeHpmcXJKX0VUTnVQZW9WTUxTZFIyQ016VTJlZVBWZkZwd0JzaVdPUExNQUowQzNfY3dRZHZoWjJpaGYx?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 12:40:06 GMT",
-      "description": "US loses measles elimination status as knowledge gaps about disease and vaccine persist Medical Xpress",
-      "source": "news.google.com",
-      "sourceType": "news",
-      "sourceLabel": "News",
-      "vaccineKey": "measles_mmr",
-      "vaccineLabel": "Measles / MMR",
-      "articleType": "news",
-      "articleLabel": "News"
-    },
-    {
-      "title": "Zoetis receives USDA license for HVT-ND-ILT poultry vaccine - Feedstuffs",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUnJBN0hRWkc4R2VJdG9EVnQtV0FQYUU1djAtVGJnVHllbDhDMDNQVktkV0xpbTB1bmxBV2ZMSkl0dDI5aDVCbVF5SFRWZlZpQ3d1U2JmNkpaRnVZUldMM2g0cTBVb3draWpjVDJfMjlZQjNBclNJbGNWX05Tc0FoUDdlekJDb25peWhVS1BfWTBsSzYxTlI4RmVn?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 08:00:00 GMT",
-      "description": "Zoetis receives USDA license for HVT-ND-ILT poultry vaccine Feedstuffs",
       "source": "news.google.com",
       "sourceType": "news",
       "sourceLabel": "News",
